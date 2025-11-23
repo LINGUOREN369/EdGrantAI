@@ -1,257 +1,227 @@
-# EdGrant AI~
+EduGrant AI
 
-## 1. Mission: Make Education Funding Fair, Transparent, and Accessible—Especially for Small Nonprofits
+A lightweight, transparent, and high-impact grant-matching system for small education nonprofits.
 
-EduGrant AI exists because education funding is becoming less stable, more competitive, and increasingly dominated by private actors. As public dollars decline, education nonprofits must rely on foundations, CSR programs, and individual philanthropists, but these opportunities are scattered across PDFs, poorly indexed, filled with jargon, and time-consuming to interpret. Large organizations have development teams to manage this complexity. Small education nonprofits do not. My mission is to bring structure, transparency, and equity to this landscape—and to ensure that smaller organizations are not left behind.
+⸻
 
-## 2. Why I Started: A Direct Encounter With the Crisis
+Overview
 
-EduGrant AI was born from lived experience. I lost a post-graduation role because the grant funding behind it collapsed. Friends in teaching, research, and graduate programs faced similar cuts. During my nonprofit consulting work, I saw how even established organizations struggle—but for small education nonprofits, the situation is far worse. When a small team has no grant writer, no analyst, and no slack time, each funding shift becomes existential. The problem is structural: public funding is retreating, private funding is opaque, and small teams lack the tools to navigate it. EduGrant AI fills this gap by giving small organizations the intelligence they cannot afford to build.
+EduGrant AI helps small education nonprofits quickly understand:
+	•	Which grants fit their mission?
+	•	Which grants they are actually eligible for?
+	•	Which grants they should NOT waste time applying to?
+	•	Why a grant is or is not a good match?
 
-## 3. Why I’m Starting With Education
+Instead of giving nonprofits a random list of grants (like ChatGPT would), EduGrant AI provides:
+	•	structured, explainable matching
+	•	taxonomy-driven tagging
+	•	curated evergreen education grants
+	•	eligibility analysis & red flags
+	•	clear Grant Fit Reports
 
-Education is the sector where funding volatility hits hardest: district budgets fluctuate; higher ed reduces research; STEM and curriculum nonprofits rely on irregular grants; foundations and CSR priorities shift quickly; and HWIs fund niche interests. Small education nonprofits are forced to compete for the same pool of opportunities as major universities, large edtech companies, and national organizations—without comparable staff capacity. This sector urgently needs AI-powered funding support tailored to small teams. That’s why education is my starting point.
+EduGrant AI is built to be low-maintenance and high-impact — ideal for small education nonprofits with limited staff and no full-time grant writers.
 
-## 4. The Insight That Made EduGrant AI Necessary
+⸻
 
-My background showed me a sharp contrast. In hedge funds, AI and ML are used heavily for pattern recognition, matching, and decision support. In education nonprofits—especially small ones—funding decisions still depend on manually reading PDFs and guessing alignment. At the exact moment when public funding declines and private funding becomes essential, small nonprofits have the least capacity to adapt. EduGrant AI is built on a simple belief: if small education organizations must operate in a complex, competitive funding environment, they deserve the same analytical power that sophisticated institutions use.
-  
-## 5. Purpose: Technology as a Tool, Equity as the Mission
+Why Not Just Use ChatGPT?
 
-EduGrant AI is not just a tool—it is a response to a changing reality: fewer public dollars, more private influence, opaque grant descriptions, and more organizations chasing limited resources. For small, under-resourced education nonprofits, this isn’t just inefficient—it’s inequitable. EduGrant AI exists to help these organizations reclaim time, make informed decisions, and access opportunities that would otherwise remain hidden. Technology is my method. Equity—and the survival of small education nonprofits—is my mission.
+Nonprofits can ask ChatGPT for a list of grants.
+But ChatGPT gives:
 
----
+❌ one-off suggestions
+❌ hallucinated grants
+❌ expired deadlines
+❌ no eligibility validation
+❌ no mission alignment scoring
+❌ no consistent criteria
+❌ no long-term strategy
 
-## System Workflow
+EduGrant AI is fundamentally different:
 
-```
-┌──────────────────────────────────────────────────────────┐
-│                      EdGrant AI System                   │
-└──────────────────────────────────────────────────────────┘
+✔ Uses a curated education-specific taxonomy
+✔ Extracts structured JSON from RFPs
+✔ Evaluates mission alignment
+✔ Checks eligibility & geography requirements
+✔ Detects “red flags” (e.g., must have district partner)
+✔ Produces transparent, repeatable Grant Fit Reports
 
-                       USER INPUT
-     (Nonprofit project description, question, draft text)
-                                 │
-                                 ▼
+⸻
 
-                 ┌──────────────────────────────┐
-                 │  1. RFP Structurer Agent     │
-                 │   (LLM-assisted extractor)   │
-                 └──────────────────────────────┘
-                - Clean RFP text
-                - Extract eligibility
-                - Extract deadlines / award size
-                - Extract focus areas
-                - Fill GrantSchema JSON
-                                 │
-                                 ▼
+System Architecture
 
-                 ┌──────────────────────────────┐
-                 │   2. RFP Chunker & Embedder  │
-                 │   (semantic + metadata)      │
-                 └──────────────────────────────┘
-                - Chunk RFP into sections
-                - Generate embeddings
-                - Store in vector DB
-                                 │
-                                 ▼
+ Nonprofit Mission Text
+            │
+            ▼
+  Org Profile Extractor (LLM)
+            │
+            ▼
+   Organization Profile JSON
+            │
+            ▼
+     Matching Engine ───────────┐
+            │                    │
+            ▼                    │
+  Grant Knowledge Base (JSON) ◄──┘
+            │
+            ▼
+     Grant Fit Report (PDF/JSON)
 
-┌──────────────────────────────────────────────────────────┐
-│                   Vector Store (Chroma/Pinecone)          │
-│     (chunks + metadata: eligibility, tags, funder, etc.)  │
-└──────────────────────────────────────────────────────────┘
-                                 │
-                                 ▼
+	•	One JSON file per grant
+	•	One JSON profile per nonprofit
+	•	Matching is transparent and explainable
 
-                 ┌──────────────────────────────┐
-                 │  3. Matching Agent           │
-                 │   (semantic + rules + RAG)   │
-                 └──────────────────────────────┘
-                - Retrieve RFP chunks relevant to nonprofit
-                - Apply eligibility rules
-                - Apply education-specific weights
-                - Ranking with fallback RAG:
-                   (Filtered Retrieval → Fallback Semantic Retrieval)
-                                 │
-                                 ▼
+⸻
 
-                 ┌──────────────────────────────┐
-                 │ 4. Reasoning Agent           │
-                 │   (LLM-guided explainer)     │
-                 └──────────────────────────────┘
-                Generates:
-                - Why this grant is a fit
-                - Eligibility concerns
-                - Alignment with funder priorities
-                - Evidence requirements summary
-                - Recommended narrative angle
-                                 │
-                                 ▼
+Repository Structure
 
-                 ┌──────────────────────────────┐
-                 │     5. Results Composer      │
-                 │   (UI-ready structured data) │
-                 └──────────────────────────────┘
-                Prepares output for:
-                - Web UI
-                - PDF report
-                - Notion export
-                - Email summary
-                                 │
-                                 ▼
-
-                          USER SEES OUTPUT
-```
-
----
-
-## Architecture (Mermaid)
-
-```
-flowchart LR
-  A[Ingest: HTML/PDF -> Clean] --> B[Extract: Structurer -> GrantSchema(JSON)]
-  B --> C1[Chunker]
-  C1 --> C2[Embedder]
-  C2 --> C3[(Vector DB: Chroma/Pinecone)]
-
-  subgraph Retrieval
-    D1[Build Query] --> D2{Enough results with metadata filter?}
-    D2 -- Yes --> D3[Filtered Retrieval]
-    D2 -- No  --> D4[Fallback Semantic Retrieval]
-  end
-
-  C3 --> D1
-  D3 --> E[Matching: similarity x rules x weights]
-  D4 --> E
-  E --> F[Reasoning: fit + risks + narrative]
-  F --> G[Results Composer]
-  G --> H[API/UI: FastAPI + UI MVP]
-```
-
----
-
-## Repository Structure
-
-```
-edgrant-ai/
+EduGrant-AI/
+│
 ├── README.md
-├── requirements.txt
-├── .env.example
-├── .gitignore
+│
 ├── data/
-│   ├── raw/               # Raw RFP text (from ingest pipeline)
-│   ├── structured/        # GrantSchema JSON (for embedding + matching)
-│   ├── embeddings/        # Optional: cached vector store data
-│   └── samples/           # Example nonprofit project descriptions
-├── ingest/
-│   ├── fetch_html.py      # Playwright webpage fetcher (foundations, ED, NSF)
-│   ├── parse_pdf.py       # PDF → text
-│   ├── clean_text.py      # Basic cleaning (headers/footers, spacing, noise)
-│   └── pipeline.py        # URL/file → raw text → data/raw/
-├── extract/
-│   ├── schema.py          # GrantSchema (Pydantic): title/funder/eligibility/deadline/tags
-│   ├── llm_structured.py  # RFP Structurer Agent (LLM-ready; heuristic fallback)
-│   ├── regex_helpers.py   # Rule-based helpers (dates/amounts)
-│   └── build_structured_dataset.py  # Batch: raw → GrantSchema JSON → data/structured/
-├── rag/
-│   ├── chunker.py         # Split structured/raw text into chunks
-│   ├── embedder.py        # OpenAI embeddings (degrades gracefully if no API key)
-│   ├── vector_store.py    # Chroma/Pinecone wrapper (here: Chroma)
-│   ├── retriever.py       # Smart retrieval: metadata-filtered → fallback semantic
-│   └── index_builder.py   # Build index from structured JSON
-├── matching/
-│   ├── scoring.py         # Score = semantic × rules × domain weights
-│   ├── eligibility_rules.py# Rule engine: 501(c)(3), geography, small nonprofit hints
-│   ├── vertical_weights.py# Weights for EdTech/STEM/curriculum/PD, etc.
-│   ├── match_engine.py    # Matching Agent: retrieve → filter → rank
-│   └── pipeline.py        # run_matching(project_description)
-├── reasoning/
-│   ├── templates/
-│   │   ├── fit.md         # LLM template: why grant fits your org
-│   │   ├── risks.md       # LLM template: eligibility risk
-│   │   └── narrative_angle.md # LLM template: narrative angle suggestions
-│   ├── llm_reasoner.py    # Reasoning Agent: fit/risks/angle from retrieved evidence
-│   └── composer.py        # Compose UI-ready outputs
-├── api/
-│   └── main.py            # FastAPI: /match /explain /grant/{id} /health
-├── ui-mvp/
-│   ├── pages/
-│   ├── components/
-│   ├── styles/
-│   └── public/
+│   ├── taxonomy/
+│   │   ├── mission_tags.json
+│   │   ├── population_tags.json
+│   │   ├── org_types.json
+│   │   ├── geography_tags.json
+│   │   └── red_flag_tags.json
+│   │
+│   ├── sample_grants/        ← One JSON per grant
+│   └── sample_org_profiles/  ← One JSON per nonprofit
+│
 ├── notebooks/
-│   ├── matching_eval.ipynb
-│   ├── rag_tests.ipynb
-│   └── extraction_eval.ipynb
+│   ├── org_tag_extractor.ipynb
+│   ├── grant_rfp_extraction.ipynb
+│   ├── matching_engine_demo.ipynb
+│   └── demo_report_generator.ipynb
+│
+├── src/
+│   ├── extract/
+│   ├── match/
+│   ├── generate/
+│   ├── database/
+│   └── utils/
+│
+├── examples/
+│   ├── Grant_Fit_Report_Literacy_Org.pdf
+│   └── pipeline_overview.png
+│
 └── docs/
-    ├── architecture.md     # Minimal agentic architecture (Mermaid)
-    ├── schema.md
-    ├── matching_logic.md
-    └── roadmap.md
-```
 
----
 
-## Install & Setup
+⸻
 
-- Requirements: Python 3.10+
-- Install deps: `pip install -r requirements.txt`
-- Copy env: `cp .env.example .env` and fill values
-  - `OPENAI_API_KEY` (optional; without it, local fallbacks are used)
-  - `DATA_RAW_DIR`, `DATA_STRUCTURED_DIR`, `CHROMA_DB_DIR`, `VECTOR_COLLECTION`
-- Playwright browsers (for HTML fetch): `python -m playwright install chromium`
+Data Design
 
-## Quick Start
+Grant JSON Structure
 
-1) Ingest raw data
-- From URL (HTML): `python -m ingest.pipeline https://example.com/rfp --kind html`
-- From PDF: `python -m ingest.pipeline /path/to/file.pdf --kind pdf`
+Each grant lives in its own JSON file:
 
-2) Structure into GrantSchema JSON
-- `python -m extract.build_structured_dataset`
+{
+  "grant_name": "",
+  "grant_org": "",
+  "link": "",
 
-3) Build vector index
-- `python -m rag.index_builder`
+  "mission_tags": [],
+  "population_tags": [],
+  "org_type_tags": [],
+  "geography_tags": [],
 
-4) Run API
-- `uvicorn api.main:app --reload`
+  "funding_range": { "min": 0, "max": 0 },
+  "deadline_type": "",
 
-## API Endpoints
+  "eligibility_notes": "",
+  "red_flags": []
+}
 
-- `GET /health` → `{ status: "ok" }`
-- `POST /match` → `{ results: [...] }`
-  - Body: `{ "project_description": "...", "top_k": 5 }`
-- `POST /explain` → `{ grant_id, fit, risks, narrative_angles }`
-  - Body: `{ "project_description": "...", "grant_id": "..." }`
-- `GET /grant/{id}` → GrantSchema JSON
+This format is:
+	•	interpretable
+	•	LLM-friendly
+	•	easy to maintain
+	•	scalable for a website
 
-Example curl
+⸻
 
-- Match: `curl -X POST http://127.0.0.1:8000/match -H 'Content-Type: application/json' -d '{"project_description":"After-school STEM program...","top_k":3}'`
-- Explain: `curl -X POST http://127.0.0.1:8000/explain -H 'Content-Type: application/json' -d '{"project_description":"...","grant_id":"<id>"}'`
+Taxonomy (Education-Focused)
 
-## Tech Notes
+EduGrant AI uses a hand-curated taxonomy rather than clustering.
+This ensures consistent, meaningful matching.
+	•	mission_tags: literacy, STEM, learning recovery, teacher PD, education equity, EdTech, etc.
+	•	population_tags: low-income, ELL, disabilities, BIPOC, rural, K–3, HS
+	•	org_type_tags: nonprofit, school district, university, CBO
+	•	geography_tags: US National, state-specific, global
+	•	red_flag_tags: “requires district partner,” “invitation-only,” etc.
 
-- OpenAI usage is optional. Without `OPENAI_API_KEY`, the system degrades gracefully (zero-vector embeddings and echo-style reasoning) so the pipeline stays runnable.
-- ChromaDB is used for local persistence; you can swap in Pinecone by replacing `rag/vector_store.py` with a Pinecone client wrapper.
-- The RFP Structurer Agent can be upgraded to function-calling JSON alignment; see `extract/llm_structured.py` for the integration point.
+⸻
 
-## MVP Features
+Matching Engine
 
-- RFP → structured GrantSchema (title/funder/eligibility/deadline/tags)
-- RAG index over structured summaries; metadata-aware retrieval with fallback
-- Matching that combines semantic similarity, eligibility rules, and education-specific weights
-- Explanations: fit, risks, and narrative angles
+A transparent scoring system based on:
 
-## Roadmap & Architecture
+Mission Alignment     50%
+Eligibility Fit       40%
+Geography Fit         10%
 
-- See `docs/architecture.md`, `docs/schema.md`, `docs/matching_logic.md`, and `docs/roadmap.md`.
-- I can generate and refine a concise Mermaid agentic diagram on request.
+Outputs include:
+	•	Ranked list of grants
+	•	Matching rationale
+	•	Eligibility issues
+	•	Risk / red flag warnings
+	•	Funding ranges & deadlines
 
-## Responsible Use
+⸻
 
-This software assists with discovery and analysis; it does not replace grant guidelines. Always verify deadlines, amounts, and eligibility on the official funder site before applying.
+Grant Fit Report
 
----
+Each nonprofit receives:
+	•	Top aligned grants
+	•	Why they match
+	•	Red flags
+	•	Eligibility summary
+	•	Recommended priority (apply / maybe / avoid)
 
-© 2025 EduGrant AI — Template for equitable education funding intelligence.
+This helps nonprofits avoid wasting 30–50 hours on ineligible grants.
+
+⸻
+
+How to Use This Repo
+
+1. Add new grants
+
+Create a JSON file in:
+
+data/sample_grants/
+
+2. Add nonprofit org profiles
+
+Create JSON files in:
+
+data/sample_org_profiles/
+
+3. Run matching
+
+Use:
+
+notebooks/matching_engine_demo.ipynb
+
+4. Generate reports
+
+Use:
+
+notebooks/demo_report_generator.ipynb
+
+
+⸻
+
+🌍 Future Roadmap
+	•	Simple FastAPI backend to serve the JSON DB
+	•	Website for nonprofits to paste mission statements
+	•	Auto-ingest RFP URLs
+	•	“Grant alerts” based on mission alignment
+	•	Multi-tenant storage for nonprofits
+
+⸻
+
+❤️ Mission
+
+EduGrant AI’s goal is to support small education nonprofits with limited time, staff, and grant-writing capacity by providing transparent, trustworthy, and easy-to-maintain funding intelligence.
