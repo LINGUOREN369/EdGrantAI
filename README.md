@@ -107,7 +107,7 @@ EduGrant AI is not just a tool—it is a response to a changing reality: fewer p
 
 ## Architecture (Mermaid)
 
-```mermaid
+```
 flowchart LR
   A[Ingest: HTML/PDF -> Clean] --> B[Extract: Structurer -> GrantSchema(JSON)]
   B --> C1[Chunker]
