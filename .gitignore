@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Env
+.env
+
+# Data caches
+data/embeddings/*
+!data/embeddings/.gitkeep
+
+# Playwright
+playwright/.cache/
+
+# Node (for ui-mvp)
+node_modules/
+.next/
+ui-mvp/node_modules/
+ui-mvp/.next/
+
+# OS
+.DS_Store
+Thumbs.db
