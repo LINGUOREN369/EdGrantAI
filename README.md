@@ -49,7 +49,7 @@ EduGrant AI is fundamentally different:
 
 ## System Architecture
 
-![System Architecture](docs/architecture.png)
+![System Architecture](docs/workflow.png)
 
 - One JSON file per grant
 - One JSON profile per nonprofit
