@@ -27,7 +27,8 @@ EduGrant AI is built to be low-maintenance and high-impact — ideal for small e
 
 ## Why Not Just Use ChatGPT?
 
-![Why use EdGrant AI instead of ChatGPT?](docs/Why EdGrantAI.png)
+![Why use EdGrant AI instead of ChatGPT?](<docs/Why EdGrantAI.png>)
+
 Nonprofits can ask ChatGPT for a list of grants. But ChatGPT often produces:
 - One-off suggestions
 - Hallucinated or invalid grants
