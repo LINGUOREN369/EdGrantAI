@@ -47,24 +47,7 @@ EduGrant AI is fundamentally different:
 
 ## System Architecture
 
-```
-Nonprofit Mission Text
-        |
-        v
-Org Profile Extractor (LLM)
-        |
-        v
-Organization Profile JSON
-        |
-        v
-Matching Engine -------------.
-        |                    |
-        v                    |
-Grant Knowledge Base (JSON) <'
-        |
-        v
-Grant Fit Report (PDF/JSON)
-```
+![System Architecture](docs/architecture.png)
 
 - One JSON file per grant
 - One JSON profile per nonprofit
