@@ -1,0 +1,22 @@
+# How the Grant Profile Is Built
+
+1) Controlled Keyphrase Extraction
+- Extracts verbatim phrases from the grant text via the chat model using your stored prompt.
+- Code: `pipeline/cke.py:43`
+
+2) Canonical Mapping (Embeddings)
+- Embeds each extracted phrase and compares it against precomputed taxonomy embeddings (cosine similarity). Keeps matches at or above the threshold (default 0.70).
+- Code: `pipeline/canonical_mapper.py:60`, `pipeline/canonical_mapper.py:102`, `pipeline/embedding_matcher.py:49`
+
+3) Metadata Attachment
+- Reads and attaches the taxonomy version to the profile.
+- Code: `pipeline/grant_profile_builder.py:41`
+
+4) Assemble + Save
+- Builds and writes `data/processed_grants/{grant_id}_profile.json` with: `grant_id`, `created_at`, `taxonomy_version`, `extracted_phrases`, `canonical_tags`.
+- Code: `pipeline/grant_profile_builder.py:52`, `pipeline/grant_profile_builder.py:85`
+
+Notes
+- Profiles do not store raw embedding vectors; only phrases and matched tags (with confidence) are saved.
+- Ensure taxonomy embeddings exist at `data/taxonomy/embeddings/*_embeddings.json` before running mapping.
+

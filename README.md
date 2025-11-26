@@ -57,13 +57,6 @@ EduGrant AI is fundamentally different:
 
 ---
 
-## Data Flow
-
-![Data Flow](docs/data_flow.png)
-
-Source diagram (Mermaid): `docs/data_flow.md`.
-
----
 
 ## Repository Structure
 
@@ -264,6 +257,12 @@ This helps nonprofits avoid wasting 30–50 hours on ineligible grants.
 - Build and save a full grant profile:
   - `from pipeline.grant_profile_builder import process_grant`
   - `path = process_grant("grant_0001", "grant description text...")`
+
+---
+
+## How the Grant Profile Is Built
+
+See docs/grant_profile_build.md for the detailed steps.
 
 ---
 
