@@ -64,6 +64,11 @@ EdGrantAI/
 │
 ├── README.md
 │
+├── prompts/
+│   ├── cke_prompt_v1.txt
+│   ├── canonical_mapping_prompt_v1.txt
+│   └── embedding_selection_prompt_v1.txt
+│
 ├── data/
 │   ├── taxonomy/
 │   │   ├── mission_tags.json
@@ -71,7 +76,6 @@ EdGrantAI/
 │   │   ├── org_types.json
 │   │   ├── geography_tags.json
 │   │   └── red_flag_tags.json
-│   │
 │   ├── sample_grants/
 │   └── sample_org_profiles/
 │
@@ -83,16 +87,22 @@ EdGrantAI/
 │
 ├── src/
 │   ├── extract/
+│   │   └── controlled_keyphrase_extractor.py
 │   ├── match/
+│   │   ├── embedding_matcher.py
+│   │   └── canonical_mapper.py
 │   ├── generate/
 │   ├── database/
 │   └── utils/
 │
-├── examples/
-│   ├── Grant_Fit_Report_Literacy_Org.pdf
-│   └── pipeline_overview.png
+├── docs/
+│   ├── pipeline_overview.md
+│   ├── prompt_design.md
+│   └── taxonomy_design.md
 │
-└── docs/
+└── examples/
+    ├── Grant_Fit_Report_Literacy_Org.pdf
+    └── pipeline_overview.png
 ```
 
 ---
