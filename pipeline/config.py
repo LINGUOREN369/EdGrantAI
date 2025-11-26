@@ -54,6 +54,61 @@ class Settings:
         self.OPENAI_CHAT_MODEL: str = os.getenv("OPENAI_CHAT_MODEL", "gpt-4o-mini")
         self.OPENAI_EMBEDDING_MODEL: str = os.getenv("OPENAI_EMBEDDING_MODEL", "text-embedding-3-small")
 
+        # Matching parameters
+        try:
+            self.TOP_K: int = int(os.getenv("TOP_K", "5"))
+        except ValueError:
+            self.TOP_K = 5
+
+        # Per-taxonomy thresholds with a default fallback
+        def _f(name: str, default: str) -> float:
+            try:
+                return float(os.getenv(name, default))
+            except ValueError:
+                return float(default)
+
+        self.THRESHOLDS = {
+            "mission": _f("THRESHOLD_MISSION", "0.45"),
+            "population": _f("THRESHOLD_POPULATION", "0.50"),
+            "org_type": _f("THRESHOLD_ORG_TYPE", "0.50"),
+            "geography": _f("THRESHOLD_GEOGRAPHY", "0.55"),
+            "red_flags": _f("THRESHOLD_RED_FLAGS", "0.35"),
+            "default": _f("THRESHOLD_DEFAULT", "0.51"),
+        }
+
+        # Taxonomy control — central place to manage which taxonomies are used
+        # Comma-separated override supported via TAXONOMIES env var
+        _tax = os.getenv("TAXONOMIES")
+        if _tax:
+            self.TAXONOMIES = [t.strip() for t in _tax.split(",") if t.strip()]
+        else:
+            self.TAXONOMIES = [
+                "mission_tags",
+                "population_tags",
+                "org_types",
+                "geography_tags",
+                "red_flag_tags",
+            ]
+
+        # Map taxonomy name to threshold key (for THRESHOLDS above)
+        self.THRESHOLD_KEY_BY_TAXONOMY = {
+            "mission_tags": "mission",
+            "population_tags": "population",
+            "org_types": "org_type",
+            "geography_tags": "geography",
+            "red_flag_tags": "red_flags",
+        }
+
+        # Output key mapping for map_all_taxonomies results
+        # Allows output keys to differ from taxonomy file names
+        self.TAXONOMY_TO_OUTPUT_KEY = {
+            "mission_tags": "mission_tags",
+            "population_tags": "population_tags",
+            "org_types": "org_type_tags",
+            "geography_tags": "geography_tags",
+            "red_flag_tags": "red_flag_tags",
+        }
+
 
 # Singleton settings instance
 settings = Settings()

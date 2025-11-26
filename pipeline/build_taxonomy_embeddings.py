@@ -81,14 +81,14 @@ def main(argv: List[str] | None = None) -> int:
 
     args = parser.parse_args(argv)
 
-    names = args.names if args.names else ([] if not args.all else DEFAULT_TAXONOMIES)
+    names = args.names if args.names else ([] if not args.all else settings.TAXONOMIES)
     if not names:
         # Default to all if nothing provided
-        names = DEFAULT_TAXONOMIES
+        names = settings.TAXONOMIES
 
     # Validate and build
     for name in names:
-        if name not in DEFAULT_TAXONOMIES:
+        if name not in settings.TAXONOMIES:
             print(f"[warn] Unrecognized taxonomy '{name}'. Attempting anyway…")
         try:
             build_for_name(name, force=args.force)

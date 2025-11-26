@@ -129,6 +129,13 @@ Centralized configuration lives in `pipeline/config.py` and auto-loads `.env` va
 - Model names (override via env):
   - `OPENAI_CHAT_MODEL` (default: `gpt-4o-mini`)
   - `OPENAI_EMBEDDING_MODEL` (default: `text-embedding-3-small`)
+  - `TOP_K` (default: `5`)
+  - `THRESHOLD_MISSION` (default: `0.45`)
+  - `THRESHOLD_POPULATION` (default: `0.50`)
+  - `THRESHOLD_ORG_TYPE` (default: `0.50`)
+  - `THRESHOLD_GEOGRAPHY` (default: `0.55`)
+  - `THRESHOLD_RED_FLAGS` (default: `0.35`)
+  - `THRESHOLD_DEFAULT` (default: `0.51`)
 
 ---
 

@@ -35,6 +35,7 @@ from .cke import run_cke
 from .canonical_mapper import map_all_taxonomies
 from .config import settings
 import argparse
+import time
 
 # Save location for processed grant profiles
 OUTPUT_DIR = settings.PROCESSED_GRANTS_DIR
@@ -152,8 +153,10 @@ def _main(argv=None) -> int:
         OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     try:
+        t0 = time.time()
         path = process_grant(grant_id, grant_text)
-        print(f"[ok] Saved profile → {path}")
+        dt = time.time() - t0
+        print(f"[ok] Saved profile → {path}  ({dt:.2f}s)")
         return 0
     except Exception as e:
         print(f"[error] Failed to build profile: {e}")

@@ -97,3 +97,20 @@ def match_phrase_to_tag(phrase: str, taxonomy_embeddings: dict) -> tuple:
             best_tag = tag
 
     return best_tag, float(best_score)
+
+
+def top_k_matches(phrase: str, taxonomy_embeddings: dict, k: int = 5) -> list:
+    """
+    Return the top-k (tag, score) matches for a phrase against taxonomy embeddings.
+    Results sorted by score descending.
+    """
+    if k <= 0:
+        k = 1
+    phrase_vec = embed_text(phrase)
+    scored = []
+    for tag, emb in taxonomy_embeddings.items():
+        tag_vec = np.array(emb, dtype=float)
+        score = cosine_similarity(phrase_vec, tag_vec)
+        scored.append((tag, float(score)))
+    scored.sort(key=lambda x: x[1], reverse=True)
+    return scored[:k]

@@ -19,7 +19,7 @@ Environment:
 import json
 from pathlib import Path
 from typing import Dict, List, Tuple
-from .embedding_matcher import match_phrase_to_tag, load_taxonomy_embeddings
+from .embedding_matcher import match_phrase_to_tag, load_taxonomy_embeddings, top_k_matches
 from .config import settings
 
 
@@ -57,10 +57,16 @@ def load_embeddings(name: str) -> Dict[str, List[float]]:
 # -------------------------------------------------------------
 # Main: Map extracted phrases to canonical tags
 # -------------------------------------------------------------
+def _threshold_for_taxonomy(taxonomy_name: str) -> float:
+    k = settings.THRESHOLD_KEY_BY_TAXONOMY.get(taxonomy_name, "default")
+    return float(settings.THRESHOLDS.get(k, settings.THRESHOLDS.get("default", 0.51)))
+
+
 def map_phrases_to_canonical(
     extracted_phrases: List[str],
     taxonomy_name: str,
-    similarity_threshold: float = 0.51,
+    similarity_threshold: float | None = None,
+    top_k: int | None = None,
 ) -> List[Dict]:
     """
     Map extracted phrases to canonical tags using semantic similarity.
@@ -80,18 +86,24 @@ def map_phrases_to_canonical(
     taxonomy_embeddings = load_embeddings(taxonomy_name)
     results = []
 
-    for phrase in extracted_phrases:
-        best_tag, score = match_phrase_to_tag(phrase, taxonomy_embeddings)
+    # Resolve defaults from settings if not provided
+    if similarity_threshold is None:
+        similarity_threshold = _threshold_for_taxonomy(taxonomy_name)
+    if top_k is None:
+        top_k = settings.TOP_K
 
-        # Only keep strong matches
-        if score >= similarity_threshold:
-            results.append(
-                {
-                    "tag": best_tag,
-                    "source_text": phrase,
-                    "confidence": round(score, 4)
-                }
-            )
+    for phrase in extracted_phrases:
+        # Get top-k candidates and keep those above the threshold
+        candidates = top_k_matches(phrase, taxonomy_embeddings, k=top_k)
+        for tag, score in candidates:
+            if score >= similarity_threshold:
+                results.append(
+                    {
+                        "tag": tag,
+                        "source_text": phrase,
+                        "confidence": round(score, 4),
+                    }
+                )
 
     return results
 
@@ -103,11 +115,8 @@ def map_all_taxonomies(extracted_phrases: List[str]) -> Dict[str, List[Dict]]:
     """
     Map phrases across all four taxonomy types.
     """
-
-    return {
-        "mission_tags": map_phrases_to_canonical(extracted_phrases, "mission_tags"),
-        "population_tags": map_phrases_to_canonical(extracted_phrases, "population_tags"),
-        "org_type_tags": map_phrases_to_canonical(extracted_phrases, "org_types"),
-        "geography_tags": map_phrases_to_canonical(extracted_phrases, "geography_tags"),
-        "red_flag_tags": map_phrases_to_canonical(extracted_phrases, "red_flag_tags"),
-    }
+    out = {}
+    for tax in settings.TAXONOMIES:
+        key = settings.TAXONOMY_TO_OUTPUT_KEY.get(tax, tax)
+        out[key] = map_phrases_to_canonical(extracted_phrases, tax)
+    return out
