@@ -2,6 +2,53 @@
 
 This document describes the full set of components and steps used by EdGrant AI to transform raw grant text into structured, auditable, canonical metadata. The pipeline is designed for accuracy, auditability, scalability, and strict safety (no hallucination).
 
+
+```
+                                ┌───────────────────────────┐
+                                │       Nonprofit Input     │
+                                │ (Grant text, RFP content) │
+                                └───────────────┬───────────┘
+                                                │
+                                                ▼
+                           ┌──────────────────────────────────────────┐
+                           │      1. Controlled Keyphrase Extractor   │
+                           │------------------------------------------│
+                           │  prompt: prompts/cke_prompt_v1.txt        │
+                           │  code:   src/extract/cke.py              │
+                           └───────────────────────┬──────────────────┘
+                                                   │  extracted_phrases
+                                                   ▼
+                     ┌────────────────────────────────────────────────────────┐
+                     │        2. Embedding-Based Semantic Mapping             │
+                     │--------------------------------------------------------│
+                     │ taxonomy JSON files: data/taxonomy/*.json              │
+                     │ code: src/match/embedding_matcher.py                   │
+                     │      src/match/canonical_mapper.py                     │
+                     └──────────────────────────┬─────────────────────────────┘
+                                                │ canonical_tags + confidence
+                                                ▼
+                   ┌──────────────────────────────────────────────────────────────┐
+                   │             3. Grant Profile Builder                          │
+                   │---------------------------------------------------------------│
+                   │ code: src/pipeline/grant_profile_builder.py                  │
+                   │ merges:                                                      │
+                   │   - extracted phrases                                        │
+                   │   - canonical tags                                            │
+                   │   - taxonomy version                                          │
+                   └──────────────────────────────┬───────────────────────────────┘
+                                                  │ final structured JSON
+                                                  ▼
+                     ┌────────────────────────────────────────────────────────┐
+                     │         Output: Processed Grant Profiles               │
+                     │--------------------------------------------------------│
+                     │ saved to: data/processed_grants/ (you can create)      │
+                     │ e.g.,                                                   │
+                     │   data/processed_grants/grant_0001_profile.json        │
+                     └────────────────────────────────────────────────────────┘
+
+```
+
+
 ---
 
 ## System Principles
