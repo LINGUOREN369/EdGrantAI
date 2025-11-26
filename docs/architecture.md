@@ -10,6 +10,7 @@ Regenerate with Graphviz:
 dot -Tpng -Gdpi=160 -o docs/architecture.png docs/architecture.dot
 ```
 
+
 Notes
 - Org Profile Extractor (LLM): Produces Organization Profile JSON from mission text.
 - Grant Knowledge Base (JSON): Curated grant entries with tags, eligibility, geography.

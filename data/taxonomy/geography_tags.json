@@ -1,0 +1,13 @@
+[
+  "us_national",
+  "regional_multi_state",
+  "statewide",
+  "county_level",
+  "city_municipal",
+  "neighborhood_place_based",
+  "rural_communities",
+  "urban_communities",
+  "suburban_communities",
+  "tribal_nations",
+  "us_territories"
+]

@@ -1,0 +1,12 @@
+[
+  "invitation_only",
+  "requires_cash_match",
+  "reimbursement_only",
+  "no_indirect_costs_allowed",
+  "restrictive_eligibility",
+  "high_reporting_burden",
+  "limited_geography",
+  "universities_only",
+  "new_grantees_not_eligible",
+  "excessive_evaluation_requirements"
+]
