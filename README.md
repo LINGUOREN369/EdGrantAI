@@ -27,7 +27,7 @@ EduGrant AI is built to be low-maintenance and high-impact — ideal for small e
 
 ## Why Not Just Use ChatGPT?
 
-![Why use EdGrant AI instead of ChatGPT?](<docs/Why EdGrantAI.png>)
+![Why use EdGrant AI instead of ChatGPT?](<docs/edgrantai.png>)
 
 Nonprofits can ask ChatGPT for a list of grants. But ChatGPT often produces:
 - One-off suggestions
@@ -49,7 +49,7 @@ EduGrant AI is fundamentally different:
 
 ## System Architecture
 
-![System Architecture](docs/workflow.png)
+![System Architecture](docs/v0.0.1%20workflow.png)
 
 - One JSON file per grant
 - One JSON profile per nonprofit
@@ -63,11 +63,7 @@ EduGrant AI is fundamentally different:
 EdGrantAI/
 │
 ├── README.md
-│
-├── prompts/
-│   ├── cke_prompt_v1.txt
-│   ├── canonical_mapping_prompt_v1.txt
-│   └── embedding_selection_prompt_v1.txt
+├── LICENSE
 │
 ├── data/
 │   ├── taxonomy/
@@ -75,34 +71,29 @@ EdGrantAI/
 │   │   ├── population_tags.json
 │   │   ├── org_types.json
 │   │   ├── geography_tags.json
-│   │   └── red_flag_tags.json
+│   │   ├── red_flag_tags.json
+│   │   ├── schema_version.json
+│   │   └── changelog.md
 │   ├── sample_grants/
 │   └── sample_org_profiles/
 │
-├── notebooks/
-│   ├── org_tag_extractor.ipynb
-│   ├── grant_rfp_extraction.ipynb
-│   ├── matching_engine_demo.ipynb
-│   └── demo_report_generator.ipynb
-│
-├── src/
-│   ├── extract/
-│   │   └── controlled_keyphrase_extractor.py
-│   ├── match/
-│   │   ├── embedding_matcher.py
-│   │   └── canonical_mapper.py
-│   ├── generate/
-│   ├── database/
-│   └── utils/
-│
 ├── docs/
-│   ├── pipeline_overview.md
-│   ├── prompt_design.md
-│   └── taxonomy_design.md
+│   ├── architecture.png
+│   ├── matching_logic.md
+│   ├── Tagging Pipeline Overview.md
+│   └── v0.0.1 workflow.png
 │
-└── examples/
-    ├── Grant_Fit_Report_Literacy_Org.pdf
-    └── pipeline_overview.png
+├── notebooks/
+│
+├── pipeline/
+│   ├── __init__.py
+│   ├── cke.py
+│   ├── canonical_mapper.py
+│   ├── embedding_matcher.py
+│   └── grant_profile_builder.py
+│
+└── prompts/
+    └── cke_prompt_v1.txt
 ```
 
 ---
@@ -229,5 +220,3 @@ This helps nonprofits avoid wasting 30–50 hours on ineligible grants.
 ## Mission
 
 EduGrant AI’s mission is to support small education nonprofits that often lack staff, capacity, and grant-writing resources. By providing transparent, trustworthy funding intelligence, EduGrant AI helps democratize access to education funding.
-
-
