@@ -20,18 +20,11 @@ import json
 from pathlib import Path
 from typing import List
 
-try:
-    from dotenv import load_dotenv  # type: ignore
-    load_dotenv()
-except Exception:
-    # If dotenv is not installed, we simply rely on the environment.
-    pass
-
 from .embedding_matcher import embed_canonical_tags
-from .canonical_mapper import TAXONOMY_DIR
+from .config import settings
 
 
-EMBEDDINGS_DIR = Path("data/taxonomy/embeddings/")
+EMBEDDINGS_DIR = settings.TAXONOMY_EMBEDDINGS_DIR
 DEFAULT_TAXONOMIES = [
     "mission_tags",
     "population_tags",
@@ -42,7 +35,7 @@ DEFAULT_TAXONOMIES = [
 
 
 def load_taxonomy_list(name: str) -> List[str]:
-    path = TAXONOMY_DIR / f"{name}.json"
+    path = settings.TAXONOMY_DIR / f"{name}.json"
     if not path.exists():
         raise FileNotFoundError(f"Taxonomy file not found: {path}")
     with open(path, "r") as f:
@@ -111,4 +104,3 @@ def main(argv: List[str] | None = None) -> int:
 
 if __name__ == "__main__":  # pragma: no cover
     raise SystemExit(main())
-

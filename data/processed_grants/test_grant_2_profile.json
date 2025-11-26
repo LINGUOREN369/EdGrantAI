@@ -1,0 +1,140 @@
+{
+  "grant_id": "test_grant_2",
+  "created_at": "2025-11-26T17:38:23.318649",
+  "taxonomy_version": "0.0.1",
+  "extracted_phrases": [
+    "Toshiba America Foundation",
+    "Grades 6-8 Science & STEM Grants",
+    "middle school teachers",
+    "hands-on science and STEM learning",
+    "science engaging",
+    "inquiry-based",
+    "real-world problem solving",
+    "hands-on, inquiry-based science and engineering projects",
+    "Classroom activities",
+    "technology or lab equipment",
+    "STEM learning",
+    "engineering design challenges",
+    "student engagement and curiosity",
+    "public or private schools",
+    "Teachers of Grades 6\u20138",
+    "Nonprofit organizations",
+    "middle school STEM programs",
+    "Middle school students",
+    "Underserved or under-resourced classrooms",
+    "United States",
+    "After-school programs",
+    "Professional development for teachers",
+    "science or STEM education",
+    "rob\u043etics",
+    "engineering design",
+    "lab equipment",
+    "environmental science investigations",
+    "physics/chemistry demonstrations"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "stem_teacher_professional_development",
+        "source_text": "middle school teachers",
+        "confidence": 0.5477
+      },
+      {
+        "tag": "science_education",
+        "source_text": "hands-on science and STEM learning",
+        "confidence": 0.5742
+      },
+      {
+        "tag": "science_education",
+        "source_text": "science engaging",
+        "confidence": 0.6269
+      },
+      {
+        "tag": "research_based_learning",
+        "source_text": "inquiry-based",
+        "confidence": 0.5654
+      },
+      {
+        "tag": "technology_education",
+        "source_text": "technology or lab equipment",
+        "confidence": 0.5727
+      },
+      {
+        "tag": "stem_teacher_professional_development",
+        "source_text": "STEM learning",
+        "confidence": 0.5426
+      },
+      {
+        "tag": "engineering_education",
+        "source_text": "engineering design challenges",
+        "confidence": 0.5292
+      },
+      {
+        "tag": "stem_teacher_professional_development",
+        "source_text": "Teachers of Grades 6\u20138",
+        "confidence": 0.5565
+      },
+      {
+        "tag": "stem_teacher_professional_development",
+        "source_text": "Professional development for teachers",
+        "confidence": 0.743
+      },
+      {
+        "tag": "science_education",
+        "source_text": "science or STEM education",
+        "confidence": 0.7591
+      },
+      {
+        "tag": "robotics_education",
+        "source_text": "rob\u043etics",
+        "confidence": 0.6129
+      },
+      {
+        "tag": "engineering_education",
+        "source_text": "engineering design",
+        "confidence": 0.6313
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "middle_school_6_8_students",
+        "source_text": "middle school teachers",
+        "confidence": 0.6495
+      },
+      {
+        "tag": "middle_school_6_8_students",
+        "source_text": "Teachers of Grades 6\u20138",
+        "confidence": 0.6617
+      },
+      {
+        "tag": "middle_school_6_8_students",
+        "source_text": "middle school STEM programs",
+        "confidence": 0.5115
+      },
+      {
+        "tag": "middle_school_6_8_students",
+        "source_text": "Middle school students",
+        "confidence": 0.7676
+      },
+      {
+        "tag": "low_income_students",
+        "source_text": "Underserved or under-resourced classrooms",
+        "confidence": 0.5565
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "public_school_district",
+        "source_text": "public or private schools",
+        "confidence": 0.6213
+      },
+      {
+        "tag": "nonprofit_501c3",
+        "source_text": "Nonprofit organizations",
+        "confidence": 0.733
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  }
+}

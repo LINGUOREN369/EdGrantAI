@@ -60,7 +60,7 @@ def load_embeddings(name: str) -> Dict[str, List[float]]:
 def map_phrases_to_canonical(
     extracted_phrases: List[str],
     taxonomy_name: str,
-    similarity_threshold: float = 0.70,
+    similarity_threshold: float = 0.51,
 ) -> List[Dict]:
     """
     Map extracted phrases to canonical tags using semantic similarity.

@@ -20,3 +20,18 @@ Notes
 - Profiles do not store raw embedding vectors; only phrases and matched tags (with confidence) are saved.
 - Ensure taxonomy embeddings exist at `data/taxonomy/embeddings/*_embeddings.json` before running mapping.
 
+## CLI
+
+Prerequisites:
+- Set `OPENAI_API_KEY` in your `.env` (auto-loaded) or environment.
+- Build taxonomy embeddings at least once:
+  - `python -m pipeline.build_taxonomy_embeddings --all`
+
+Build a profile from a text file:
+- Derive grant id from filename:
+  - `python -m pipeline.grant_profile_builder data/grants/text_grant_1.txt`
+- Or specify the id and output directory:
+  - `python -m pipeline.grant_profile_builder data/grants/text_grant_1.txt --grant-id text_grant_1 --out-dir data/processed_grants`
+
+Output:
+- `data/processed_grants/{grant_id}_profile.json`

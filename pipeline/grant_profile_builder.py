@@ -7,12 +7,20 @@ Runs the end-to-end pipeline:
   3) Attach taxonomy version and metadata
   4) Save profile (optional)
 
-Usage examples:
+Python usage:
   - from pipeline.grant_profile_builder import process_grant
     path = process_grant("grant_0001", "Grant text here.")
 
-Outputs:
-  - JSON file saved to data/processed_grants/<grant_id>_profile.json
+CLI:
+  - Build taxonomy embeddings first (once):
+      - python -m pipeline.build_taxonomy_embeddings --all
+  - Build a grant profile from a text file:
+      - Derive id from filename:
+          - python -m pipeline.grant_profile_builder data/grants/text_grant_1.txt
+      - Specify id and output directory:
+          - python -m pipeline.grant_profile_builder data/grants/text_grant_1.txt --grant-id text_grant_1 --out-dir data/processed_grants
+  - Output:
+      - data/processed_grants/text_grant_1_profile.json
 
 Environment:
   Requires OPENAI_API_KEY and taxonomy assets in data/taxonomy/.
@@ -26,6 +34,7 @@ from typing import Dict, List
 from .cke import run_cke
 from .canonical_mapper import map_all_taxonomies
 from .config import settings
+import argparse
 
 # Save location for processed grant profiles
 OUTPUT_DIR = settings.PROCESSED_GRANTS_DIR
@@ -105,3 +114,51 @@ def process_grant(grant_id: str, grant_text: str) -> Path:
 #     text = "We support robotics clubs and maker labs for middle school girls."
 #     path = process_grant("grant_0001", text)
 #     print(f"Profile saved to: {path}")
+
+
+def _main(argv=None) -> int:
+    global OUTPUT_DIR
+    parser = argparse.ArgumentParser(
+        description="Build a grant profile JSON from a plain text file."
+    )
+    parser.add_argument(
+        "input",
+        help="Path to a text file containing grant/RFP text (e.g., data/grants/text_grant_1.txt)",
+    )
+    parser.add_argument(
+        "-g",
+        "--grant-id",
+        help="Identifier used in the output filename; default is the input filename stem.",
+    )
+    parser.add_argument(
+        "-o",
+        "--out-dir",
+        help=f"Output directory for the profile (default: {OUTPUT_DIR})",
+    )
+
+    args = parser.parse_args(argv)
+
+    in_path = Path(args.input)
+    if not in_path.exists():
+        print(f"[error] Input file not found: {in_path}")
+        return 1
+
+    grant_id = args.grant_id or in_path.stem
+    grant_text = in_path.read_text(encoding="utf-8")
+
+    # Optionally override output directory
+    if args.out_dir:
+        OUTPUT_DIR = Path(args.out_dir)
+        OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    try:
+        path = process_grant(grant_id, grant_text)
+        print(f"[ok] Saved profile → {path}")
+        return 0
+    except Exception as e:
+        print(f"[error] Failed to build profile: {e}")
+        return 1
+
+
+if __name__ == "__main__":  # pragma: no cover
+    raise SystemExit(_main())
