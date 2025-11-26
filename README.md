@@ -64,6 +64,8 @@ EdGrantAI/
 │
 ├── README.md
 ├── LICENSE
+├── requirements.txt
+├── environment.yml
 │
 ├── data/
 │   ├── taxonomy/
@@ -74,19 +76,21 @@ EdGrantAI/
 │   │   ├── red_flag_tags.json
 │   │   ├── schema_version.json
 │   │   └── changelog.md
-│   ├── sample_grants/
-│   └── sample_org_profiles/
+│   ├── grants/
+│   ├── org_profiles/
+│   └── processed_grants/
 │
 ├── docs/
 │   ├── architecture.png
-│   ├── matching_logic.md
+│   ├── edgrantai.png
 │   ├── Tagging Pipeline Overview.md
-│   └── v0.0.1 workflow.png
+│   └── v0.0.1workflow.png
 │
 ├── notebooks/
 │
 ├── pipeline/
 │   ├── __init__.py
+│   ├── config.py
 │   ├── cke.py
 │   ├── canonical_mapper.py
 │   ├── embedding_matcher.py
@@ -95,6 +99,35 @@ EdGrantAI/
 └── prompts/
     └── cke_prompt_v1.txt
 ```
+
+---
+
+## Setup
+
+- Python: 3.10 recommended (see `environment.yml` if you prefer Conda).
+- Install dependencies (for GitHub dependency graph and runtime):
+  - `pip install -r requirements.txt`
+- Create a `.env` file in the repo root with your OpenAI API key:
+  - `OPENAI_API_KEY=sk-...`
+
+Note: The OpenAI client is initialized at import in `pipeline/cke.py` and `pipeline/embedding_matcher.py`. Ensure your `.env` (or environment) provides `OPENAI_API_KEY` before importing these modules.
+
+---
+
+## Configuration
+
+Centralized configuration lives in `pipeline/config.py` and auto-loads `.env` variables on import.
+
+- Key paths (override via environment if desired):
+  - `PROMPTS_DIR` (default: `prompts/`)
+  - `CKE_PROMPT_PATH` (default: `prompts/cke_prompt_v1.txt`)
+  - `TAXONOMY_DIR` (default: `data/taxonomy/`)
+  - `TAXONOMY_EMBEDDINGS_DIR` (default: `data/taxonomy/embeddings/`)
+  - `SCHEMA_VERSION_PATH` (default: `data/taxonomy/schema_version.json`)
+  - `PROCESSED_GRANTS_DIR` (default: `data/processed_grants/`)
+- Model names (override via env):
+  - `OPENAI_CHAT_MODEL` (default: `gpt-4o-mini`)
+  - `OPENAI_EMBEDDING_MODEL` (default: `text-embedding-3-small`)
 
 ---
 
@@ -189,21 +222,40 @@ This helps nonprofits avoid wasting 30–50 hours on ineligible grants.
 
 ## How to Use This Repo
 
-1. Add new grants
+1. Install and set env
+
+   - `pip install -r requirements.txt`
+   - `.env` with `OPENAI_API_KEY=...`
+
+2. Add new grants
 
    Create a JSON file in: `data/sample_grants/`
 
-2. Add nonprofit org profiles
+3. Add nonprofit org profiles
 
    Place JSON files in: `data/sample_org_profiles/`
 
-3. Run matching
+4. Run matching
 
    Use: `notebooks/matching_engine_demo.ipynb`
 
-4. Generate reports
+5. Generate reports
 
    Use: `notebooks/demo_report_generator.ipynb`
+
+---
+
+## Programmatic Usage
+
+- Extract keyphrases via CKE:
+  - `from pipeline.cke import run_cke`
+  - `phrases = run_cke("We support robotics clubs...")`
+- Map phrases to canonical taxonomy:
+  - `from pipeline.canonical_mapper import map_all_taxonomies`
+  - `mapped = map_all_taxonomies(phrases)`
+- Build and save a full grant profile:
+  - `from pipeline.grant_profile_builder import process_grant`
+  - `path = process_grant("grant_0001", "grant description text...")`
 
 ---
 
