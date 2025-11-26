@@ -1,0 +1,23 @@
+{
+  "grant_id": "grant_0001",
+  "created_at": "2025-11-26T15:43:01.152139",
+  "taxonomy_version": "0.0.1",
+  "extracted_phrases": [
+    "robotics clubs",
+    "maker labs",
+    "middle school girls"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "robotics_education",
+        "source_text": "robotics clubs",
+        "confidence": 0.7183
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  }
+}

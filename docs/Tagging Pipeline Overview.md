@@ -13,7 +13,7 @@ This document describes the full set of components and steps used by EdGrant AI 
                            ┌──────────────────────────────────────────┐
                            │      1. Controlled Keyphrase Extractor   │
                            │------------------------------------------│
-                           │  prompt: prompts/cke_prompt_v1.txt        │
+                           │  prompt: prompts/cke_prompt_v1.txt       │
                            │  code:   src/extract/cke.py              │
                            └───────────────────────┬──────────────────┘
                                                    │  extracted_phrases
@@ -28,13 +28,13 @@ This document describes the full set of components and steps used by EdGrant AI 
                                                 │ canonical_tags + confidence
                                                 ▼
                    ┌──────────────────────────────────────────────────────────────┐
-                   │             3. Grant Profile Builder                          │
-                   │---------------------------------------------------------------│
+                   │             3. Grant Profile Builder                         │
+                   │--------------------------------------------------------------│
                    │ code: src/pipeline/grant_profile_builder.py                  │
                    │ merges:                                                      │
                    │   - extracted phrases                                        │
-                   │   - canonical tags                                            │
-                   │   - taxonomy version                                          │
+                   │   - canonical tags                                           │
+                   │   - taxonomy version                                         │
                    └──────────────────────────────┬───────────────────────────────┘
                                                   │ final structured JSON
                                                   ▼
@@ -42,7 +42,7 @@ This document describes the full set of components and steps used by EdGrant AI 
                      │         Output: Processed Grant Profiles               │
                      │--------------------------------------------------------│
                      │ saved to: data/processed_grants/ (you can create)      │
-                     │ e.g.,                                                   │
+                     │ e.g.,                                                │
                      │   data/processed_grants/grant_0001_profile.json        │
                      └────────────────────────────────────────────────────────┘
 
