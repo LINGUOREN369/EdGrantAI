@@ -57,6 +57,14 @@ EduGrant AI is fundamentally different:
 
 ---
 
+## Data Flow
+
+![Data Flow](docs/data_flow.png)
+
+Source diagram (Mermaid): `docs/data_flow.md`.
+
+---
+
 ## Repository Structure
 
 ```
