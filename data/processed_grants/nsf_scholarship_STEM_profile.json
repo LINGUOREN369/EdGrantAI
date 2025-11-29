@@ -1,0 +1,61 @@
+{
+  "grant_id": "nsf_scholarship_STEM",
+  "created_at": "2025-11-29T20:52:20.424544",
+  "taxonomy_version": "0.0.2",
+  "extracted_phrases": [
+    "NSF Scholarships in Science, Technology, Engineering, and Mathematics",
+    "S-STEM program",
+    "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
+    "Collaborative Planning Grants track",
+    "Planning proposal",
+    "2-year institutions",
+    "predominantly undergraduate institutions",
+    "urban, suburban, and rural public institutions",
+    "Broadening Participation In STEM",
+    "Institutions of Higher Education",
+    "Two- and four-year IHEs",
+    "community colleges",
+    "Inter-institutional Consortia",
+    "S-STEM eligible degree",
+    "critical needs"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "science_education",
+        "source_text": "S-STEM program",
+        "confidence": 0.5087
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "higher_education_institution",
+        "source_text": "predominantly undergraduate institutions",
+        "confidence": 0.5589
+      },
+      {
+        "tag": "higher_education_institution",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.6976
+      },
+      {
+        "tag": "community_college",
+        "source_text": "community colleges",
+        "confidence": 0.8113
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "suburban_communities",
+        "source_text": "urban, suburban, and rural public institutions",
+        "confidence": 0.557
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "source": {
+    "path": "data/grants/nsf_scholarship_STEM.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/s-stem-nsf-scholarships-science-technology-engineering-mathematics/nsf25-514/solicitation"
+  }
+}

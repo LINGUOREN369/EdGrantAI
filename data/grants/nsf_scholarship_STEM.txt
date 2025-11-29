@@ -1,0 +1,126 @@
+https://www.nsf.gov/funding/opportunities/s-stem-nsf-scholarships-science-technology-engineering-mathematics/nsf25-514/solicitation
+
+Important Information And Revision Notes
+The NSF Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM) program solicitation has been revised for the FY2025 competition. Prospective Principal Investigators are encouraged to read the solicitation carefully. Changes and important information affecting Track 1 proposals:
+
+The maximum award amount has been increased to up to $2,000,000 for up to 6 years.
+The eligibility requirement has changed. Institutions submitting a Track 1 proposal may not have had an active Science, Technology, Engineering, and Mathematics Talent Expansion Program (STEP) or S-STEM award in the past 5 years.
+Track 1 proposals must include an initial planning/capacity building period during which scholarships are not made to students. Scholarships should be awarded to students after the conclusion of the planning/capacity building period.
+For Track 1 proposals, at least 50% of all funds must be provided solely as pure scholarships to cover the cost of attendance and entered as Participant Support – Stipends (Line F1) on the NSF budget form.
+Changes and important information affecting All proposals:
+
+A one-page analysis of job prospects is no longer required and should not be included as a Supplementary Document.
+The Collaborative Planning Grants track has been removed from the S-STEM program. Instead, interested parties are encouraged to consider developing a Planning proposal as described in Section II.B.1., Program Description.
+For proposals with a duration of six years, Current and Pending (Other) Support should be reported for the first five years of the project. In addition, proposals requesting a six-year duration must be submitted via Research.gov because Grants.gov will not accommodate a six-year budget.
+
+The S-STEM program team will host webinars in which key features and expectations of the S-STEM program will be discussed. Information regarding the webinars will be posted to the S-STEM program web page: https://new.nsf.gov/funding/opportunities/nsf-scholarships-science-technology-engineering.
+
+Active Dear Colleague Letters associated with the S-STEM Program.
+
+Please check that the DCL is still active and contact a S-STEM Program Director prior to submission.
+
+DCL 22-120, Enhancing Engineering Technology and Advanced Semiconductor Manufacturing Technician Education (ETSTE): https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22120
+Any proposal submitted in response to this solicitation should be submitted in accordance with the NSF Proposal & Award Policies & Procedures Guide (PAPPG) that is in effect for the relevant due date to which the proposal is being submitted. The NSF PAPPG is regularly revised and it is the responsibility of the proposer to ensure that the proposal meets the requirements specified in this solicitation and the applicable version of the PAPPG. Submitting a proposal prior to a specified deadline does not negate this requirement.
+
+Summary Of Program Requirements
+General Information
+Program Title:
+
+NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)
+
+Synopsis of Program:
+
+The main goal of the S-STEM program is to enable academically talented, low-income students to pursue successful careers in promising STEM fields. Ultimately, the S-STEM program seeks to increase the number of academically promising low-income students who graduate with an S-STEM eligible degree and contribute to the American innovation economy with their STEM knowledge. Recognizing that financial aid alone cannot increase retention and graduation in STEM, the program provides awards to institutions of higher education (IHEs) not only to fund scholarships, but also to adapt, implement, and study evidence-based curricular and co-curricular[a] activities that have been shown to be effective in supporting recruitment, retention, transfer (if appropriate), student success, academic/career pathways, and graduation in STEM.
+
+To be eligible, scholars must be domestic low-income students with academic ability, talent, or potential and demonstrated unmet financial need who are enrolled in an associate, baccalaureate, or graduate degree program in an S-STEM eligible discipline. Proposers must provide an analysis that articulates the characteristics and academic needs of the population of students they are trying to serve. NSF is particularly interested in supporting the attainment of degrees in fields identified as critical needs for the Nation. It is up to the proposer to make a compelling case that such a field serves a critical need in the United States.
+
+[a] an activity at a school or college pursued in addition to the normal course of study.
+
+S-STEM Eligible Degree Programs
+
+Associate of Arts, Associate of Science, Associate of Engineering, and Associate of Applied Science
+
+Bachelor of Arts, Bachelor of Science, Bachelor of Engineering and Bachelor of Applied Science
+
+Master of Arts, Master of Science, and Master of Engineering
+
+Doctoral (Ph.D. or other comparable doctoral degree)
+
+S-STEM Eligible Disciplines
+
+Disciplinary fields in which research is funded by NSF, including technology fields associated with the S-STEM-eligible disciplines (e.g., biotechnology, chemical technology, engineering technology, information technology, etc.).
+
+The following degrees and disciplines are excluded:
+
+Clinical degree programs, including medical degrees, nursing, veterinary medicine, pharmacy, physical therapy, and others not funded by NSF, are ineligible degrees.
+Programs for STEM teacher certification or licensure currently covered by the Robert Noyce Teacher Scholarship program (NOYCE) are ineligible for S-STEM funding.
+Business school programs that lead to Bachelor of Arts or Science in Business Administration degrees (BABA/BSBA/BBA) are not eligible for S-STEM funding.
+Masters and Doctoral degrees in Business Administration are also excluded.
+Proposers are strongly encouraged to contact Program Officers before submitting a proposal if they have questions concerning degree or disciplinary eligibility.
+
+The S-STEM program particularly encourages proposals from 2-year institutions, predominately undergraduate institutions, and urban, suburban, and rural public institutions.
+
+Broadening Participation In STEM
+NSF has a mandate to broaden participation in science and engineering, as articulated and reaffirmed in law since 1950. Congress has charged NSF to “develop intellectual capital, both people and ideas, with particular emphasis on groups and regions that traditionally have not participated fully in science, mathematics, and engineering."
+
+Cognizant Program Officer(s):
+
+Please note that the following information is current at the time of publishing. See program website for any updates to the points of contact.
+
+Thomas D. Kim, Lead, telephone: (703) 292-4458, email: tkim@nsf.gov
+Michael J. Ferrara, Co-Lead, telephone: (703) 292-2635, email: mferrara@nsf.gov
+Olivia S. Long, Co-Lead, telephone: (703) 292-7897, email: olong@nsf.gov
+Nasser Alaraje, telephone: (703) 292-8063, email: nalaraje@nsf.gov
+Karen Crosby, telephone: (703) 292-2124, email: kcrosby@nsf.gov
+Christine Delahanty, telephone: (703) 292-8492, email: cdelahan@nsf.gov
+Connie K. Della-Piana, telephone: (703) 292-5309, email: cdellapi@nsf.gov
+Edgar Fuller, telephone: (703) 292-7210, email: efuller@nsf.gov
+Abiodun Ilumoka, telephone: (703) 292-2703, email: ailumoka@nsf.gov
+Jennifer E. Lewis, telephone: (703) 292-7340, email: jenlewis@nsf.gov
+Lynnette D. Madsen, telephone: (703) 292-4936, email: lmadsen@nsf.gov
+Suazette R. Mooring, telephone: (703) 292-2311, email: smooring@nsf.gov
+Jeffrey Osborn, telephone: (703) 292-2277, email: jeosborn@nsf.gov
+Kalyn Owens, telephone: (703) 292-4615, email: kowens@nsf.gov
+Olga Pierrakos, telephone: (703) 292-7253, email: olpierra@nsf.gov
+Monisha Pulimood, telephone: (703) 292-4257, email: spulimoo@nsf.gov
+Josephine J. Rodriguez, telephone: (703)292-2986, email: jrodrigu@nsf.gov
+Lulu Sun, telephone: (703) 292-7260, email: lsun@nsf.gov
+Paul Tymann, telephone: (703) 292-2832, email: ptymann@nsf.gov
+Gordon E. Uno, telephone: (703) 292-2574, email: geuno@nsf.gov
+Applicable Catalog of Federal Domestic Assistance (CFDA) Number(s):
+
+47.076 --- STEM Education
+Award Information
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 40 to 60 subject to availability of funds.
+
+Anticipated Funding Amount: $80,000,000 to $120,000,000
+
+Awards for Track 1 (Institutional Capacity Building) projects may not exceed $2,000,000 total for a maximum duration of 6 years.
+
+Awards for Track 2 (Implementation Projects) projects may not exceed $2,000,000 total for a maximum duration of 6 years.
+
+Awards for Track 3 (Inter-institutional Consortia) projects may not exceed $5,000,000 total for a maximum duration of 6 years.
+
+Eligibility Information
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the U.S., acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+Who May Serve as PI:
+
+For Track 1 and Track 2 proposals, the Principal Investigator must be (a) a faculty member currently teaching in an S-STEM eligible discipline, or (b) an academic administrator who has taught in one of the eligible disciplines and can dedicate the time necessary to assure project success. Projects involving more than one department within an institution are eligible, but a single Principal Investigator must accept overall management and leadership responsibility. Faculty from all departments involved must have roles in the project as either Co-Principal Investigators, other senior/key personnel, or scholar mentors. Other members of the S-STEM project senior leadership and management team may be listed as Co-Principal Investigators.
+
+For Track 3 (Inter-institutional Consortia) projects, the Principal Investigator must be (a) a faculty member currently teaching in an S-STEM eligible discipline, (b) an academic administrator who has taught an S-STEM eligible discipline, or (c) a non-teaching institutional, educational, or social science researcher investigating questions related to low-income student success. The Principal Investigator must be able to provide the leadership and time required to ensure the success of the project. Track 3 consortium proposals must have a Principal Investigator who accepts overall management and leadership responsibility across all consortia members. Faculty from all institutions and departments involved need to have roles in the project as either Co-Principal investigators, other senior/key personnel, or scholar mentors. Other members of the S-STEM project senior leadership and management team may be listed as Co-Principal Investigators or as Principal Investigators on collaborative research proposals.
+
+Limit on Number of Proposals per Organization: 2
+
+For a given S-STEM deadline, an institution may submit up to two proposals in which it will be directly involved in providing scholarships. Multiple proposals from an institution must not overlap with regard to S-STEM eligible disciplines. See Additional Eligibility Information below for more details (see IV. Eligibility Information).
+
+Institutions with a current S-STEM award should wait at least until the end of the third year of execution of their current award before submitting a new Track 2 or Track 3 S-STEM proposal focused on students pursuing degrees in the same discipline(s).
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
