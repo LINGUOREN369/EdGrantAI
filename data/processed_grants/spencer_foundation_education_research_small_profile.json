@@ -1,0 +1,61 @@
+{
+  "grant_id": "spencer_foundation_education_research_small",
+  "created_at": "2025-11-29T19:18:02.042542",
+  "taxonomy_version": "0.0.2",
+  "extracted_phrases": [
+    "Small Research Grants on Education Program",
+    "educational discourse",
+    "non-profit organization",
+    "public colleges",
+    "universities",
+    "school districts",
+    "research facilities",
+    "501(c)(3) determination",
+    "Optional Supplemental Course Release",
+    "Course Release Rationale Statement"
+  ],
+  "canonical_tags": {
+    "mission_tags": [],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "nonprofit_501c3",
+        "source_text": "non-profit organization",
+        "confidence": 0.7912
+      },
+      {
+        "tag": "community_college",
+        "source_text": "public colleges",
+        "confidence": 0.7169
+      },
+      {
+        "tag": "public_school_district",
+        "source_text": "school districts",
+        "confidence": 0.7205
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "school_district_level",
+        "source_text": "school districts",
+        "confidence": 0.6758
+      }
+    ],
+    "red_flag_tags": [
+      {
+        "tag": "nonprofits_only",
+        "source_text": "non-profit organization",
+        "confidence": 0.6515
+      },
+      {
+        "tag": "universities_only",
+        "source_text": "universities",
+        "confidence": 0.7203
+      }
+    ]
+  },
+  "source": {
+    "path": "data/grants/spencer_foundation_education_research_small.txt",
+    "url": "https://www.spencer.org/grant_types/small-research-grant?utm_source=chatgpt.com"
+  }
+}

@@ -19,8 +19,15 @@ CLI:
           - python -m pipeline.grant_profile_builder data/grants/text_grant_1.txt
       - Specify id and output directory:
           - python -m pipeline.grant_profile_builder data/grants/text_grant_1.txt --grant-id text_grant_1 --out-dir data/processed_grants
+      - Optionally include a source URL:
+          - python -m pipeline.grant_profile_builder data/grants/text_grant_1.txt --source-url https://example.org/rfp
   - Output:
-      - data/processed_grants/text_grant_1_profile.json
+      - data/processed_grants/text_grant_1_profile.json (includes source.path and optional source.url)
+
+Source metadata:
+  - The profile records input provenance under `source`:
+      - source.path: the local input file path
+      - source.url: an optional RFP/source URL when provided via --source-url
 
 Environment:
   Requires OPENAI_API_KEY and taxonomy assets in data/taxonomy/.
@@ -29,7 +36,7 @@ Environment:
 import json
 from pathlib import Path
 from datetime import datetime
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 from .cke import run_cke
 from .canonical_mapper import map_all_taxonomies
@@ -59,7 +66,13 @@ def load_taxonomy_version() -> str:
 # -------------------------------------------------------------
 # Main: Build a full structured grant profile
 # -------------------------------------------------------------
-def build_grant_profile(grant_id: str, grant_text: str) -> Dict:
+def build_grant_profile(
+    grant_id: str,
+    grant_text: str,
+    *,
+    source_path: Optional[str] = None,
+    source_url: Optional[str] = None,
+) -> Dict:
     """
     Full pipeline:
     1. Extract keyphrases via CKE
@@ -84,6 +97,10 @@ def build_grant_profile(grant_id: str, grant_text: str) -> Dict:
         "taxonomy_version": version,
         "extracted_phrases": extracted_phrases,
         "canonical_tags": mapped_tags,
+        "source": {
+            "path": str(source_path) if source_path else None,
+            "url": str(source_url) if source_url else None,
+        },
     }
 
     return profile
@@ -105,8 +122,19 @@ def save_grant_profile(profile: Dict) -> Path:
 # -------------------------------------------------------------
 # Convenience wrapper: run + save
 # -------------------------------------------------------------
-def process_grant(grant_id: str, grant_text: str) -> Path:
-    profile = build_grant_profile(grant_id, grant_text)
+def process_grant(
+    grant_id: str,
+    grant_text: str,
+    *,
+    source_path: Optional[str] = None,
+    source_url: Optional[str] = None,
+) -> Path:
+    profile = build_grant_profile(
+        grant_id,
+        grant_text,
+        source_path=source_path,
+        source_url=source_url,
+    )
     return save_grant_profile(profile)
 
 
@@ -136,6 +164,10 @@ def _main(argv=None) -> int:
         "--out-dir",
         help=f"Output directory for the profile (default: {OUTPUT_DIR})",
     )
+    parser.add_argument(
+        "--source-url",
+        help="Optional source URL for the grant/RFP (stored in profile metadata).",
+    )
 
     args = parser.parse_args(argv)
 
@@ -154,7 +186,12 @@ def _main(argv=None) -> int:
 
     try:
         t0 = time.time()
-        path = process_grant(grant_id, grant_text)
+        path = process_grant(
+            grant_id,
+            grant_text,
+            source_path=str(in_path),
+            source_url=args.source_url,
+        )
         dt = time.time() - t0
         print(f"[ok] Saved profile → {path}  ({dt:.2f}s)")
         return 0
