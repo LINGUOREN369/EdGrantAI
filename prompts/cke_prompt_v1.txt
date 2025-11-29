@@ -17,6 +17,7 @@ STRICT RULES:
 - Do NOT extract generic single words like “students,” “program,” “grant,” “support,” etc.
 - Do NOT include policy language, instructions, section headers, or filler text.
 - Do NOT include phrases that are purely administrative (e.g., deadlines, budget forms, “application portal”).
+- Do NOT output duplicate phrases; return each unique phrase only once.
 - Keep only meaningful, content-bearing phrases; avoid noise.
 
 OUTPUT FORMAT:

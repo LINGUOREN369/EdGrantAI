@@ -1,0 +1,122 @@
+{
+  "grant_id": "nsf_edu_core_research",
+  "created_at": "2025-11-29T20:40:11.406869",
+  "taxonomy_version": "0.0.2",
+  "extracted_phrases": [
+    "EDU Core Research",
+    "ECR:Core solicitation",
+    "fundamental research",
+    "STEM education",
+    "Research on STEM Learning and Learning Environments",
+    "Research on Broadening Participation in STEM fields",
+    "Research on STEM Workforce Development",
+    "ECR program",
+    "fundamental STEM education research activities",
+    "learners of all groups and ages",
+    "formal and informal settings",
+    "Broadening Participation In STEM",
+    "NSF",
+    "science and engineering",
+    "intellectual capital",
+    "groups and regions",
+    "proposals",
+    "Standard Grant",
+    "Continuing Grant",
+    "Estimated Number of Awards",
+    "program budget",
+    "National Science Foundation"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "education_research",
+        "source_text": "EDU Core Research",
+        "confidence": 0.5864
+      },
+      {
+        "tag": "research_based_learning",
+        "source_text": "fundamental research",
+        "confidence": 0.529
+      },
+      {
+        "tag": "stem_education_general",
+        "source_text": "STEM education",
+        "confidence": 0.6545
+      },
+      {
+        "tag": "engineering_education",
+        "source_text": "STEM education",
+        "confidence": 0.6417
+      },
+      {
+        "tag": "science_education",
+        "source_text": "STEM education",
+        "confidence": 0.5921
+      },
+      {
+        "tag": "technology_education",
+        "source_text": "STEM education",
+        "confidence": 0.5738
+      },
+      {
+        "tag": "stem_teacher_professional_development",
+        "source_text": "STEM education",
+        "confidence": 0.5709
+      },
+      {
+        "tag": "learning_sciences",
+        "source_text": "Research on STEM Learning and Learning Environments",
+        "confidence": 0.5291
+      },
+      {
+        "tag": "stem_workforce_development",
+        "source_text": "Research on STEM Workforce Development",
+        "confidence": 0.6074
+      },
+      {
+        "tag": "science_education",
+        "source_text": "fundamental STEM education research activities",
+        "confidence": 0.5147
+      },
+      {
+        "tag": "education_research",
+        "source_text": "fundamental STEM education research activities",
+        "confidence": 0.5142
+      },
+      {
+        "tag": "science_education",
+        "source_text": "science and engineering",
+        "confidence": 0.6932
+      },
+      {
+        "tag": "engineering_education",
+        "source_text": "science and engineering",
+        "confidence": 0.5778
+      },
+      {
+        "tag": "learning_sciences",
+        "source_text": "science and engineering",
+        "confidence": 0.5187
+      },
+      {
+        "tag": "computer_science_education",
+        "source_text": "science and engineering",
+        "confidence": 0.508
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "adult_learners",
+        "source_text": "learners of all groups and ages",
+        "confidence": 0.6669
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "source": {
+    "path": "data/grants/nsf_edu_core_research.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ecrcore-edu-core-research/nsf21-588/solicitation#summary"
+  }
+}

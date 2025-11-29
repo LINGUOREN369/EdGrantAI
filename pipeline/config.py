@@ -68,11 +68,11 @@ class Settings:
                 return float(default)
 
         self.THRESHOLDS = {
-            "mission": _f("THRESHOLD_MISSION", "0.60"),        # ↑ from 0.55
+            "mission": _f("THRESHOLD_MISSION", "0.50"),        # ↑ from 0.55
             "population": _f("THRESHOLD_POPULATION", "0.60"),  # ↑ big precision
-            "org_type": _f("THRESHOLD_ORG_TYPE", "0.60"),      # ↑ slightly
-            "geography": _f("THRESHOLD_GEOGRAPHY", "0.65"),    # ↑ strict
-            "red_flags": _f("THRESHOLD_RED_FLAGS", "0.65"),    # ↑ very strict
+            "org_type": _f("THRESHOLD_ORG_TYPE", "0.50"),      # ↑ slightly
+            "geography": _f("THRESHOLD_GEOGRAPHY", "0.55"),    # ↑ strict
+            "red_flags": _f("THRESHOLD_RED_FLAGS", "0.70"),    # ↑ very strict
             "default": _f("THRESHOLD_DEFAULT", "0.7"),        # unchanged
         }
 
