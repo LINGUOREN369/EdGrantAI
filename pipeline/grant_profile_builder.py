@@ -21,6 +21,7 @@ CLI:
           - python -m pipeline.grant_profile_builder data/grants/text_grant_1.txt --grant-id text_grant_1 --out-dir data/processed_grants
       - Optionally include a source URL:
           - python -m pipeline.grant_profile_builder data/grants/text_grant_1.txt --source-url https://example.org/rfp
+      - Convenience: if the first non-empty line of the text file is an http(s) URL, it is used as the source URL and omitted from the processed text.
   - Output:
       - data/processed_grants/text_grant_1_profile.json (includes source.path and optional source.url)
 
@@ -178,6 +179,21 @@ def _main(argv=None) -> int:
 
     grant_id = args.grant_id or in_path.stem
     grant_text = in_path.read_text(encoding="utf-8")
+    source_url = args.source_url
+
+    # If the first non-empty line is an http(s) URL, treat it as source URL
+    # and remove it from the grant text to avoid polluting extraction.
+    if not source_url:
+        lines = grant_text.splitlines()
+        for idx, raw in enumerate(lines):
+            line = raw.strip()
+            if not line:
+                continue
+            if line.startswith("http://") or line.startswith("https://"):
+                source_url = line
+                del lines[idx]
+                grant_text = "\n".join(lines).lstrip("\n")
+            break
 
     # Optionally override output directory
     if args.out_dir:
@@ -190,7 +206,7 @@ def _main(argv=None) -> int:
             grant_id,
             grant_text,
             source_path=str(in_path),
-            source_url=args.source_url,
+            source_url=source_url,
         )
         dt = time.time() - t0
         print(f"[ok] Saved profile → {path}  ({dt:.2f}s)")
