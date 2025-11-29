@@ -1,0 +1,124 @@
+{
+  "grant_id": "nsf_AISL",
+  "created_at": "2025-11-29T21:01:43.212829",
+  "taxonomy_version": "0.0.2",
+  "extracted_phrases": [
+    "Advancing Informal STEM Learning (AISL)",
+    "informal STEM learning (ISL)",
+    "public engagement",
+    "scientific research (PPSR)",
+    "science communication",
+    "intergenerational STEM engagement",
+    "STEM media",
+    "community STEM",
+    "community vibrancy",
+    "Broadening Participation In STEM",
+    "Institutions of Higher Education (IHEs)",
+    "Non-profit, non-academic organizations",
+    "Tribal Nations",
+    "Independent museums",
+    "observatories",
+    "research laboratories",
+    "professional societies",
+    "State and Local Governments",
+    "Foreign organizations",
+    "Federally Funded Research and Development Centers (FFRDCs)",
+    "Research Coordination Networks (RCN)",
+    "CAREER awards",
+    "REU supplements"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "learning_sciences",
+        "source_text": "informal STEM learning (ISL)",
+        "confidence": 0.5197
+      },
+      {
+        "tag": "research_based_learning",
+        "source_text": "scientific research (PPSR)",
+        "confidence": 0.5529
+      },
+      {
+        "tag": "science_education",
+        "source_text": "science communication",
+        "confidence": 0.6313
+      },
+      {
+        "tag": "learning_sciences",
+        "source_text": "science communication",
+        "confidence": 0.5029
+      },
+      {
+        "tag": "science_education",
+        "source_text": "community STEM",
+        "confidence": 0.5362
+      },
+      {
+        "tag": "robotics_education",
+        "source_text": "community STEM",
+        "confidence": 0.5162
+      },
+      {
+        "tag": "stem_career_pathways",
+        "source_text": "community STEM",
+        "confidence": 0.5094
+      },
+      {
+        "tag": "stem_education_general",
+        "source_text": "community STEM",
+        "confidence": 0.5042
+      },
+      {
+        "tag": "research_based_learning",
+        "source_text": "research laboratories",
+        "confidence": 0.5051
+      },
+      {
+        "tag": "stem_career_pathways",
+        "source_text": "CAREER awards",
+        "confidence": 0.5713
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "higher_education_institution",
+        "source_text": "Institutions of Higher Education (IHEs)",
+        "confidence": 0.5918
+      },
+      {
+        "tag": "nonprofit_501c3",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 0.6273
+      },
+      {
+        "tag": "government_agency_local",
+        "source_text": "State and Local Governments",
+        "confidence": 0.648
+      },
+      {
+        "tag": "government_agency_state",
+        "source_text": "State and Local Governments",
+        "confidence": 0.5619
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "urban_communities",
+        "source_text": "community vibrancy",
+        "confidence": 0.5618
+      },
+      {
+        "tag": "tribal_nations",
+        "source_text": "Tribal Nations",
+        "confidence": 0.8606
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "source": {
+    "path": "data/grants/nsf_AISL.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/aisl-advancing-informal-stem-learning/504793/nsf24-601/solicitation?utm_source=chatgpt.com"
+  }
+}

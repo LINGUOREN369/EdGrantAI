@@ -23,6 +23,74 @@ EduGrant AI exists because **education funding is becoming less stable, more com
 
 EduGrant AI is built to be low-maintenance and high-impact — ideal for small education nonprofits with limited staff and no full-time grant writers.
 
+Note on scope: EdGrantAI is currently NSF-first. The initial database and workflows focus on NSF solicitations and education programs, with a design that can expand to additional funders later.
+
+---
+
+## NSF-Only: Competition + Federal Constraints
+
+### Why NSF — and Why Now
+
+Despite recent budget pressure and reductions in certain programs, NSF still distributes billions of dollars every year, including a sizable portfolio of education, STEM, and workforce grants. The money is still there — but competition is increasing sharply.
+
+Competition is getting worse
+- Success rates for many NSF education programs are falling
+- More institutions are chasing fewer awards
+- Small nonprofits, community colleges, and RPPs often lack grant officers
+- Even universities struggle to monitor shifting solicitations
+- Proposal misalignment is now one of the top reasons for early rejection
+
+This means the cost of applying to the wrong solicitation is higher than ever. Teams routinely waste 40–80 hours on a proposal that was doomed from the start because:
+- eligibility wasn’t met
+- a required partner wasn’t established
+- the program was meant for universities only
+- the project did not match the directorate’s scope
+
+EduGrant AI eliminates this waste by showing nonprofits exactly which NSF programs fit — and which do not.
+
+---
+
+### Why NSF Can’t Solve This Problem
+
+A critical and often misunderstood fact: Federal agencies are legally prohibited from recommending or ranking grants for applicants.
+
+They cannot:
+- Suggest which program you should apply to
+- Tell you which program “fits” your organization
+- Provide personalized matching
+- Pre-screen your eligibility
+- Rank solicitations or give strategic advice
+
+Doing so would violate federal procurement rules, fairness requirements, and open competition mandates.
+
+This means:
+- NSF cannot build a matching system
+- Universities build their own internal systems, but they are private
+- Small nonprofits are left with nothing
+
+EduGrant AI fills this gap by providing public, transparent, and legally permissible grant intelligence that NSF itself cannot provide.
+
+---
+
+### How EduGrant AI Helps in a High-Competition, High-Uncertainty NSF Landscape
+
+EduGrant AI provides:
+- Automatically updated NSF solicitations
+- Eligibility analysis (who can actually apply?)
+- Required partner detection
+- Mission and scope alignment scoring
+- Red-flag warnings for structural blockers
+- Clear “Apply / Maybe / Avoid” recommendations
+
+In a competitive environment, this system:
+- Keeps small nonprofits from wasting hundreds of hours
+- Helps teams target only viable NSF programs
+- Removes guesswork about eligibility
+- Helps RPPs and education organizations apply strategically
+- Levels a playing field that increasingly favors large institutions
+
+The funding is still there — but only for organizations who apply intelligently. EduGrant AI helps them do exactly that.
+
 ---
 
 ## Why Not Just Use ChatGPT?
@@ -69,25 +137,30 @@ EdGrantAI/
 ├── environment.yml
 │
 ├── data/
-│   ├── taxonomy/
-│   │   ├── mission_tags.json
-│   │   ├── population_tags.json
-│   │   ├── org_types.json
-│   │   ├── geography_tags.json
-│   │   ├── red_flag_tags.json
-│   │   ├── schema_version.json
-│   │   └── changelog.md
 │   ├── grants/
-│   ├── org_profiles/
-│   └── processed_grants/
+│   ├── processed_grants/
+│   └── taxonomy/
+│       ├── mission_tags.json
+│       ├── population_tags.json
+│       ├── org_types.json
+│       ├── geography_tags.json
+│       ├── red_flag_tags.json
+│       ├── schema_version.json
+│       ├── changelog.md
+│       └── embeddings/
+│           ├── mission_tags_embeddings.json
+│           ├── population_tags_embeddings.json
+│           ├── org_types_embeddings.json
+│           ├── geography_tags_embeddings.json
+│           └── red_flag_tags_embeddings.json
 │
 ├── docs/
 │   ├── architecture.png
-│   ├── edgrantai.png
+│   ├── workflow.png
+│   ├── v0.0.1workflow.png
 │   ├── Tagging Pipeline Overview.md
-│   └── v0.0.1workflow.png
-│
-├── notebooks/
+│   ├── design_reasoning.md
+│   └── grant_profile_build.md
 │
 ├── pipeline/
 │   ├── __init__.py
@@ -95,7 +168,8 @@ EdGrantAI/
 │   ├── cke.py
 │   ├── canonical_mapper.py
 │   ├── embedding_matcher.py
-│   └── grant_profile_builder.py
+│   ├── grant_profile_builder.py
+│   └── build_taxonomy_embeddings.py
 │
 └── prompts/
     └── cke_prompt_v1.txt
@@ -225,6 +299,72 @@ Each nonprofit receives:
 - Priority ranking (apply / maybe / avoid)
 
 This helps nonprofits avoid wasting 30–50 hours on ineligible grants.
+
+---
+
+## NSF-Only: Competition + Federal Constraints
+
+### Why NSF — and Why Now
+
+Despite recent budget pressure and reductions in certain programs, NSF still distributes billions of dollars every year, including a sizable portfolio of education, STEM, and workforce grants. The money is still there — but competition is increasing sharply.
+
+Competition is getting worse
+- Success rates for many NSF education programs are falling
+- More institutions are chasing fewer awards
+- Small nonprofits, community colleges, and RPPs often lack grant officers
+- Even universities struggle to monitor shifting solicitations
+- Proposal misalignment is now one of the top reasons for early rejection
+
+This means the cost of applying to the wrong solicitation is higher than ever. Teams routinely waste 40–80 hours on a proposal that was doomed from the start because:
+- eligibility wasn’t met
+- a required partner wasn’t established
+- the program was meant for universities only
+- the project did not match the directorate’s scope
+
+EduGrant AI eliminates this waste by showing nonprofits exactly which NSF programs fit — and which do not.
+
+---
+
+### Why NSF Can’t Solve This Problem
+
+A critical and often misunderstood fact: Federal agencies are legally prohibited from recommending or ranking grants for applicants.
+
+They cannot:
+- Suggest which program you should apply to
+- Tell you which program “fits” your organization
+- Provide personalized matching
+- Pre-screen your eligibility
+- Rank solicitations or give strategic advice
+
+Doing so would violate federal procurement rules, fairness requirements, and open competition mandates.
+
+This means:
+- NSF cannot build a matching system
+- Universities build their own internal systems, but they are private
+- Small nonprofits are left with nothing
+
+EduGrant AI fills this gap by providing public, transparent, and legally permissible grant intelligence that NSF itself cannot provide.
+
+---
+
+### How EduGrant AI Helps in a High-Competition, High-Uncertainty NSF Landscape
+
+EduGrant AI provides:
+- Automatically updated NSF solicitations
+- Eligibility analysis (who can actually apply?)
+- Required partner detection
+- Mission and scope alignment scoring
+- Red-flag warnings for structural blockers
+- Clear “Apply / Maybe / Avoid” recommendations
+
+In a competitive environment, this system:
+- Keeps small nonprofits from wasting hundreds of hours
+- Helps teams target only viable NSF programs
+- Removes guesswork about eligibility
+- Helps RPPs and education organizations apply strategically
+- Levels a playing field that increasingly favors large institutions
+
+The funding is still there — but only for organizations who apply intelligently. EduGrant AI helps them do exactly that.
 
 ---
 

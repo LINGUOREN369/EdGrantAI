@@ -1,0 +1,54 @@
+{
+  "grant_id": "nsf_ATE",
+  "created_at": "2025-11-29T21:06:00.245620",
+  "taxonomy_version": "0.0.2",
+  "extracted_phrases": [
+    "Advanced Technological Education",
+    "Institutions of Higher Education",
+    "National Institute of Standards and Technology",
+    "Manufacturing Extension Partnerships",
+    "Manufacturing USA Institutes",
+    "Minority Serving Institutions",
+    "skilled technical workforce",
+    "two-year degrees",
+    "community college faculty"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "technology_education",
+        "source_text": "Advanced Technological Education",
+        "confidence": 0.6171
+      },
+      {
+        "tag": "engineering_education",
+        "source_text": "Advanced Technological Education",
+        "confidence": 0.5542
+      },
+      {
+        "tag": "stem_workforce_development",
+        "source_text": "skilled technical workforce",
+        "confidence": 0.5248
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "higher_education_institution",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.6976
+      },
+      {
+        "tag": "community_college",
+        "source_text": "community college faculty",
+        "confidence": 0.6941
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "source": {
+    "path": "data/grants/nsf_ATE.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ate-advanced-technological-education/nsf24-584/solicitation"
+  }
+}
