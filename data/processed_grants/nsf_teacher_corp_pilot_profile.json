@@ -1,0 +1,72 @@
+{
+  "grant_id": "nsf_teacher_corp_pilot",
+  "created_at": "2025-11-29T20:49:19.219964",
+  "taxonomy_version": "0.0.2",
+  "extracted_phrases": [
+    "National STEM Teacher Corps Pilot Program",
+    "National STEM Teacher Corps",
+    "Regional Alliances",
+    "STEM Education",
+    "Cooperative Agreement",
+    "Institutions of Higher Education",
+    "Terminal degree in a STEM discipline"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "stem_teacher_professional_development",
+        "source_text": "National STEM Teacher Corps Pilot Program",
+        "confidence": 0.5243
+      },
+      {
+        "tag": "stem_teacher_professional_development",
+        "source_text": "National STEM Teacher Corps",
+        "confidence": 0.5399
+      },
+      {
+        "tag": "stem_education_general",
+        "source_text": "STEM Education",
+        "confidence": 0.6436
+      },
+      {
+        "tag": "engineering_education",
+        "source_text": "STEM Education",
+        "confidence": 0.6358
+      },
+      {
+        "tag": "science_education",
+        "source_text": "STEM Education",
+        "confidence": 0.5909
+      },
+      {
+        "tag": "stem_teacher_professional_development",
+        "source_text": "STEM Education",
+        "confidence": 0.5854
+      },
+      {
+        "tag": "technology_education",
+        "source_text": "STEM Education",
+        "confidence": 0.5769
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "education_service_agency",
+        "source_text": "STEM Education",
+        "confidence": 0.508
+      },
+      {
+        "tag": "higher_education_institution",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.6976
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "source": {
+    "path": "data/grants/nsf_teacher_corp_pilot.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/national-stem-teacher-corps-pilot-program/nsf24-577/solicitation"
+  }
+}
