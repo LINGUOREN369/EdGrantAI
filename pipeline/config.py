@@ -68,12 +68,12 @@ class Settings:
                 return float(default)
 
         self.THRESHOLDS = {
-            "mission": _f("THRESHOLD_MISSION", "0.45"),
-            "population": _f("THRESHOLD_POPULATION", "0.50"),
-            "org_type": _f("THRESHOLD_ORG_TYPE", "0.50"),
-            "geography": _f("THRESHOLD_GEOGRAPHY", "0.55"),
-            "red_flags": _f("THRESHOLD_RED_FLAGS", "0.35"),
-            "default": _f("THRESHOLD_DEFAULT", "0.51"),
+            "mission": _f("THRESHOLD_MISSION", "0.60"),        # ↑ from 0.55
+            "population": _f("THRESHOLD_POPULATION", "0.80"),  # ↑ big precision
+            "org_type": _f("THRESHOLD_ORG_TYPE", "0.60"),      # ↑ slightly
+            "geography": _f("THRESHOLD_GEOGRAPHY", "0.75"),    # ↑ strict
+            "red_flags": _f("THRESHOLD_RED_FLAGS", "0.85"),    # ↑ very strict
+            "default": _f("THRESHOLD_DEFAULT", "0.75"),        # unchanged
         }
 
         # Taxonomy control — central place to manage which taxonomies are used

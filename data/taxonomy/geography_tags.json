@@ -1,13 +1,24 @@
 [
+  "global_international",
   "us_national",
+
   "regional_multi_state",
-  "statewide",
-  "county_level",
-  "city_municipal",
+  "single_state",
+
+  "multi_county",
+  "single_county",
+
+  "multi_city",
+  "single_city_municipal",
+
+  "school_district_level",
+
   "neighborhood_place_based",
+
   "rural_communities",
   "urban_communities",
   "suburban_communities",
+
   "tribal_nations",
   "us_territories"
 ]

@@ -6,7 +6,26 @@
   "computer_science_education",
   "robotics_education",
   "maker_education",
-  "research_based_learning",
+  "stem_education_general",
+
   "stem_teacher_professional_development",
-  "stem_equity_and_access"
+  "stem_equity_and_access",
+  "stem_workforce_development",
+  "stem_career_pathways",
+
+  "education_research",
+  "research_based_learning",
+  "learning_sciences",
+  "evaluation_and_assessment",
+  "evidence_based_practice",
+  "education_improvement",
+  "education_policy_and_systems",
+
+  "teacher_professional_development",
+  "curriculum_development",
+  "instructional_innovation",
+
+  "education_equity_and_access",
+  "college_access_and_success",
+  "early_childhood_education"
 ]

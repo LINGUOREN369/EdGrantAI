@@ -3,12 +3,28 @@
   "elementary_k_5_students",
   "middle_school_6_8_students",
   "high_school_9_12_students",
+  "postsecondary_students",
+  "adult_learners",
+  "opportunity_youth_16_24",
+
   "english_learners",
+  "multilingual_learners",
   "students_with_disabilities",
+  "neurodivergent_students",
+
   "low_income_students",
   "first_generation_students",
   "foster_youth",
   "homeless_students",
   "immigrant_refugee_students",
-  "girls_and_young_women_students"
+  "undocumented_students",
+  "youth_in_justice_system",
+
+  "girls_and_young_women_students",
+  "boys_and_young_men_students",
+  "lgbtq_students",
+
+  "rural_students",
+  "urban_students",
+  "suburban_students"
 ]

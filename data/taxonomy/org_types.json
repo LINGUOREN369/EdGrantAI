@@ -1,13 +1,29 @@
 [
   "nonprofit_501c3",
+  "fiscally_sponsored_project",
+
   "public_school_district",
   "public_school_single_site",
+  "charter_school_single_site",
   "charter_school_network",
+  "independent_private_school",
+
   "higher_education_institution",
+  "community_college",
+
+  "government_agency_local",
+  "government_agency_state",
+  "education_service_agency",
+
   "community_based_organization",
+  "youth_development_organization",
+  "after_school_program_provider",
+
   "library_system",
   "museum_or_science_center",
-  "education_service_agency",
-  "fiscally_sponsored_project",
-  "faith_based_organization"
+  "cultural_institution",
+
+  "faith_based_organization",
+
+  "health_and_social_services_agency"
 ]

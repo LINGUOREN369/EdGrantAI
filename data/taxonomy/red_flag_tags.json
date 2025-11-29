@@ -1,12 +1,30 @@
 [
   "invitation_only",
+  "existing_grantees_only",
+  "new_grantees_not_eligible",
+
   "requires_cash_match",
+  "requires_in_kind_match",
   "reimbursement_only",
   "no_indirect_costs_allowed",
-  "restrictive_eligibility",
-  "high_reporting_burden",
-  "limited_geography",
+  "low_indirect_cost_rate_cap",
+
   "universities_only",
-  "new_grantees_not_eligible",
-  "excessive_evaluation_requirements"
+  "government_entities_only",
+  "schools_only",
+  "higher_education_only",
+  "nonprofits_only",
+
+  "restrictive_eligibility",
+  "limited_geography",
+  "us_only_eligibility",
+  "state_residency_requirement",
+
+  "high_reporting_burden",
+  "excessive_evaluation_requirements",
+  "complex_compliance_requirements",
+
+  "large_scale_only",
+  "capacity_requirements_too_high",
+  "multi_year_commitment_required"
 ]
