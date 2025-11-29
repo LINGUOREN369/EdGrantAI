@@ -1,0 +1,52 @@
+{
+  "grant_id": "William_T_Grant_Research_Grants_on_Reducing_Inequality",
+  "created_at": "2025-11-29T20:23:32.450598",
+  "taxonomy_version": "0.0.2",
+  "extracted_phrases": [
+    "Research Grants",
+    "this program",
+    "young people ages 5-25",
+    "Major Research Grants",
+    "Officers\u2019 Research Grants",
+    "research studies",
+    "youth development",
+    "anti-poverty tax credits",
+    "LGBTQ+ youth",
+    "systemic racism",
+    "Historically Black Colleges and Universities",
+    "Hispanic-serving Institutions",
+    "Tribal Colleges and Universities",
+    "Alaska Native-Serving Institutions",
+    "Native Hawaiian-Serving Institutions",
+    "Asian American Native American Pacific Islander Serving Institutions"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "research_based_learning",
+        "source_text": "research studies",
+        "confidence": 0.6079
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "lgbtq_students",
+        "source_text": "LGBTQ+ youth",
+        "confidence": 0.6995
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "youth_development_organization",
+        "source_text": "youth development",
+        "confidence": 0.7519
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "source": {
+    "path": "data/grants/William_T_Grant_Research_Grants_on_Reducing_Inequality.txt",
+    "url": null
+  }
+}

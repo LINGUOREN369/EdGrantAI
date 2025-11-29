@@ -1,32 +1,52 @@
 {
   "grant_id": "spencer_foundation_education_research_small",
-  "created_at": "2025-11-29T19:18:02.042542",
+  "created_at": "2025-11-29T20:12:52.441207",
   "taxonomy_version": "0.0.2",
   "extracted_phrases": [
     "Small Research Grants on Education Program",
-    "educational discourse",
+    "education research projects",
+    "research studies",
+    "eligible investigators",
     "non-profit organization",
-    "public colleges",
+    "public/governmental institution",
+    "non-profit or public colleges",
     "universities",
     "school districts",
     "research facilities",
     "501(c)(3) determination",
-    "Optional Supplemental Course Release",
-    "Course Release Rationale Statement"
+    "proposals from multiple disciplinary and methodological perspectives",
+    "Spencer Foundation",
+    "project team",
+    "Project Personnel",
+    "Principal Investigator",
+    "Co-PIs",
+    "research proposal",
+    "optional appendices",
+    "review process",
+    "budget and budget justification",
+    "Project Timeline",
+    "Course Release Rationale Statement",
+    "Supporting Letter"
   ],
   "canonical_tags": {
-    "mission_tags": [],
+    "mission_tags": [
+      {
+        "tag": "education_research",
+        "source_text": "education research projects",
+        "confidence": 0.7319
+      },
+      {
+        "tag": "research_based_learning",
+        "source_text": "research studies",
+        "confidence": 0.6079
+      }
+    ],
     "population_tags": [],
     "org_type_tags": [
       {
         "tag": "nonprofit_501c3",
         "source_text": "non-profit organization",
         "confidence": 0.7912
-      },
-      {
-        "tag": "community_college",
-        "source_text": "public colleges",
-        "confidence": 0.7169
       },
       {
         "tag": "public_school_district",
@@ -56,6 +76,6 @@
   },
   "source": {
     "path": "data/grants/spencer_foundation_education_research_small.txt",
-    "url": "https://www.spencer.org/grant_types/small-research-grant?utm_source=chatgpt.com"
+    "url": null
   }
 }
