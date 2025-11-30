@@ -1,83 +1,161 @@
 {
   "grant_id": "nsf_ATE",
-  "created_at": "2025-11-30T01:54:30.471545",
-  "taxonomy_version": "0.0.3",
+  "created_at": "2025-11-29T21:34:50.369390-05:00",
+  "taxonomy_version": "0.0.4",
   "extracted_phrases": [
     "Advanced Technological Education (ATE)",
     "Institutions of Higher Education (IHEs)",
-    "technical workforce (STW)",
+    "two-year Institutions of Higher Education (IHEs)",
+    "science and engineering technicians",
     "Minority Serving Institutions",
-    "Tribal Nations",
-    "non-profit, non-academic organizations",
+    "Technician education programs",
+    "skilled technical workforce",
     "for-profit organizations",
     "State and Local Governments",
-    "Manufacturing Extension Partnerships (MEPs)",
-    "Manufacturing USA Institutes"
+    "Tribal Nations",
+    "community college faculty"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "technology_education",
+        "tag": "technology education",
         "source_text": "Advanced Technological Education (ATE)",
-        "confidence": 0.5353
+        "confidence": 0.5744
       },
       {
-        "tag": "engineering_education",
-        "source_text": "Advanced Technological Education (ATE)",
-        "confidence": 0.5219
+        "tag": "technology education",
+        "source_text": "science and engineering technicians",
+        "confidence": 0.5001
       },
       {
-        "tag": "stem_workforce_development",
-        "source_text": "technical workforce (STW)",
-        "confidence": 0.6509
+        "tag": "technology education",
+        "source_text": "Technician education programs",
+        "confidence": 0.598
+      },
+      {
+        "tag": "engineering education",
+        "source_text": "Technician education programs",
+        "confidence": 0.5581
+      },
+      {
+        "tag": "community college STEM programs",
+        "source_text": "Technician education programs",
+        "confidence": 0.5427
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "Technician education programs",
+        "confidence": 0.5217
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "Technician education programs",
+        "confidence": 0.5102
+      },
+      {
+        "tag": "workforce development",
+        "source_text": "skilled technical workforce",
+        "confidence": 0.5907
+      },
+      {
+        "tag": "community college STEM programs",
+        "source_text": "community college faculty",
+        "confidence": 0.6012
       }
     ],
-    "population_tags": [],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community college faculty",
+        "confidence": 0.8041
+      }
+    ],
     "org_type_tags": [
       {
-        "tag": "higher_education_institution",
+        "tag": "institution of higher education",
         "source_text": "Institutions of Higher Education (IHEs)",
-        "confidence": 0.5918
+        "confidence": 0.74
       },
       {
-        "tag": "minority_serving_institution_msi",
+        "tag": "institution of higher education",
+        "source_text": "two-year Institutions of Higher Education (IHEs)",
+        "confidence": 0.6714
+      },
+      {
+        "tag": "two-year college",
+        "source_text": "two-year Institutions of Higher Education (IHEs)",
+        "confidence": 0.6026
+      },
+      {
+        "tag": "four-year university",
+        "source_text": "two-year Institutions of Higher Education (IHEs)",
+        "confidence": 0.5066
+      },
+      {
+        "tag": "minority-serving institution",
         "source_text": "Minority Serving Institutions",
-        "confidence": 0.8084
+        "confidence": 0.8713
       },
       {
-        "tag": "nonprofit_501c3",
-        "source_text": "non-profit, non-academic organizations",
-        "confidence": 0.662
-      },
-      {
-        "tag": "community_based_organization",
-        "source_text": "non-profit, non-academic organizations",
-        "confidence": 0.5226
-      },
-      {
-        "tag": "nonprofit_501c3",
+        "tag": "nonprofit organization",
         "source_text": "for-profit organizations",
-        "confidence": 0.5569
+        "confidence": 0.6719
       },
       {
-        "tag": "government_agency_local",
-        "source_text": "State and Local Governments",
-        "confidence": 0.648
+        "tag": "501(c)(3) nonprofit",
+        "source_text": "for-profit organizations",
+        "confidence": 0.5586
       },
       {
-        "tag": "government_agency_state",
+        "tag": "local government agency",
         "source_text": "State and Local Governments",
-        "confidence": 0.5619
+        "confidence": 0.5953
+      },
+      {
+        "tag": "state government agency",
+        "source_text": "State and Local Governments",
+        "confidence": 0.5921
+      },
+      {
+        "tag": "tribal college or university",
+        "source_text": "Tribal Nations",
+        "confidence": 0.5689
+      },
+      {
+        "tag": "community college",
+        "source_text": "community college faculty",
+        "confidence": 0.7251
       }
     ],
     "geography_tags": [
       {
-        "tag": "tribal_nations",
+        "tag": "tribal nations",
         "source_text": "Tribal Nations",
-        "confidence": 0.8606
+        "confidence": 0.879
+      },
+      {
+        "tag": "tribal communities",
+        "source_text": "Tribal Nations",
+        "confidence": 0.74
+      },
+      {
+        "tag": "Native American communities",
+        "source_text": "Tribal Nations",
+        "confidence": 0.5948
       }
     ],
     "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2024-10-03"
+    ],
+    "raw_mentions": [
+      "C. Due Dates",
+      "Full Proposal Deadline(s) (due by 5 p.m. submitting organization's local time):",
+      "October 03, 2024"
+    ]
   },
   "source": {
     "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_ATE.txt",

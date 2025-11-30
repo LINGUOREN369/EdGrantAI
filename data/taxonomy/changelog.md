@@ -1,5 +1,9 @@
 # Taxonomy Changelog
 
+## 0.0.4 - Minor adjustments to taxonomy thresholds to tailor towards NSF grants and remove underline issues
+- Adjusted mission, population, org types, geography, and red flags thresholds for improved accuracy
+- Fixed underline formatting issues in taxonomy files 
+
 ## 0.0.3 - Updated all taxonomy to better focus on the NSF grants
 - Refined mission, population, org types, geography, and red flags to align more closely with NSF grant criteria
 - Removed less relevant tags and added more specific ones based on recent grant analyses

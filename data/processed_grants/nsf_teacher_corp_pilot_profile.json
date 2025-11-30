@@ -1,70 +1,222 @@
 {
   "grant_id": "nsf_teacher_corp_pilot",
-  "created_at": "2025-11-30T01:55:43.333248",
-  "taxonomy_version": "0.0.3",
+  "created_at": "2025-11-29T21:35:59.125975-05:00",
+  "taxonomy_version": "0.0.4",
   "extracted_phrases": [
     "National STEM Teacher Corps Pilot Program",
-    "Regional Alliances",
+    "STEM teaching",
     "National STEM Teacher Corps",
+    "Regional Alliances",
+    "STEM teachers",
     "STEM Education",
-    "Regional Alliance Awards",
-    "planning grants",
     "Institutions of Higher Education",
-    "Principal Investigator"
+    "two- and four-year IHEs",
+    "community colleges"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "stem_teacher_professional_development",
+        "tag": "community-based STEM programs",
         "source_text": "National STEM Teacher Corps Pilot Program",
-        "confidence": 0.5244
+        "confidence": 0.6369
       },
       {
-        "tag": "stem_teacher_professional_development",
+        "tag": "STEM teacher professional development",
+        "source_text": "National STEM Teacher Corps Pilot Program",
+        "confidence": 0.6049
+      },
+      {
+        "tag": "community college STEM programs",
+        "source_text": "National STEM Teacher Corps Pilot Program",
+        "confidence": 0.5921
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "National STEM Teacher Corps Pilot Program",
+        "confidence": 0.5847
+      },
+      {
+        "tag": "middle school STEM education",
+        "source_text": "National STEM Teacher Corps Pilot Program",
+        "confidence": 0.5685
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "STEM teaching",
+        "confidence": 0.7968
+      },
+      {
+        "tag": "STEM teacher professional development",
+        "source_text": "STEM teaching",
+        "confidence": 0.7086
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "STEM teaching",
+        "confidence": 0.6458
+      },
+      {
+        "tag": "science education",
+        "source_text": "STEM teaching",
+        "confidence": 0.6414
+      },
+      {
+        "tag": "middle school STEM education",
+        "source_text": "STEM teaching",
+        "confidence": 0.6255
+      },
+      {
+        "tag": "community-based STEM programs",
         "source_text": "National STEM Teacher Corps",
-        "confidence": 0.54
+        "confidence": 0.6288
       },
       {
-        "tag": "stem_education_general",
-        "source_text": "STEM Education",
-        "confidence": 0.6436
+        "tag": "STEM teacher professional development",
+        "source_text": "National STEM Teacher Corps",
+        "confidence": 0.6125
       },
       {
-        "tag": "engineering_education",
-        "source_text": "STEM Education",
-        "confidence": 0.6358
+        "tag": "K-12 STEM education",
+        "source_text": "National STEM Teacher Corps",
+        "confidence": 0.6099
       },
       {
-        "tag": "science_education",
-        "source_text": "STEM Education",
-        "confidence": 0.5909
+        "tag": "out-of-school STEM programs",
+        "source_text": "National STEM Teacher Corps",
+        "confidence": 0.5818
       },
       {
-        "tag": "stem_teacher_professional_development",
-        "source_text": "STEM Education",
-        "confidence": 0.5855
+        "tag": "community college STEM programs",
+        "source_text": "National STEM Teacher Corps",
+        "confidence": 0.5809
       },
       {
-        "tag": "technology_education",
+        "tag": "STEM teacher professional development",
+        "source_text": "STEM teachers",
+        "confidence": 0.7738
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "STEM teachers",
+        "confidence": 0.7209
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "STEM teachers",
+        "confidence": 0.6004
+      },
+      {
+        "tag": "middle school STEM education",
+        "source_text": "STEM teachers",
+        "confidence": 0.591
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "STEM teachers",
+        "confidence": 0.5736
+      },
+      {
+        "tag": "STEM education",
         "source_text": "STEM Education",
-        "confidence": 0.5769
+        "confidence": 0.9678
+      },
+      {
+        "tag": "science education",
+        "source_text": "STEM Education",
+        "confidence": 0.7489
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "STEM Education",
+        "confidence": 0.7305
+      },
+      {
+        "tag": "middle school STEM education",
+        "source_text": "STEM Education",
+        "confidence": 0.7199
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "STEM Education",
+        "confidence": 0.7132
+      },
+      {
+        "tag": "education systems change",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.5044
+      },
+      {
+        "tag": "community college STEM programs",
+        "source_text": "community colleges",
+        "confidence": 0.6353
       }
     ],
-    "population_tags": [],
-    "org_type_tags": [
+    "population_tags": [
       {
-        "tag": "education_service_agency",
-        "source_text": "STEM Education",
-        "confidence": 0.508
+        "tag": "K-12 teachers",
+        "source_text": "STEM teachers",
+        "confidence": 0.6849
       },
       {
-        "tag": "higher_education_institution",
+        "tag": "in-service teachers",
+        "source_text": "STEM teachers",
+        "confidence": 0.6487
+      },
+      {
+        "tag": "pre-service teachers",
+        "source_text": "STEM teachers",
+        "confidence": 0.643
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7811
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "education service agency",
+        "source_text": "STEM Education",
+        "confidence": 0.5137
+      },
+      {
+        "tag": "institution of higher education",
         "source_text": "Institutions of Higher Education",
-        "confidence": 0.6976
+        "confidence": 0.8326
+      },
+      {
+        "tag": "two-year college",
+        "source_text": "two- and four-year IHEs",
+        "confidence": 0.5303
+      },
+      {
+        "tag": "four-year university",
+        "source_text": "two- and four-year IHEs",
+        "confidence": 0.5132
+      },
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.9117
+      },
+      {
+        "tag": "two-year college",
+        "source_text": "community colleges",
+        "confidence": 0.6058
+      },
+      {
+        "tag": "tribal college or university",
+        "source_text": "community colleges",
+        "confidence": 0.5029
       }
     ],
     "geography_tags": [],
     "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": []
   },
   "source": {
     "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_teacher_corp_pilot.txt",

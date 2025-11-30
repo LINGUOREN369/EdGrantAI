@@ -210,6 +210,7 @@ Centralized configuration lives in `pipeline/config.py` and auto-loads `.env` va
   - `THRESHOLD_GEOGRAPHY` (default: `0.55`)
   - `THRESHOLD_RED_FLAGS` (default: `0.35`)
   - `THRESHOLD_DEFAULT` (default: `0.51`)
+  - `TIMEZONE` (default: `America/New_York` for `created_at` timestamps)
 
 ---
 

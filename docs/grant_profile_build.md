@@ -16,10 +16,19 @@
 - Builds and writes `data/processed_grants/{grant_id}_profile.json` with: `grant_id`, `created_at`, `taxonomy_version`, `extracted_phrases`, `canonical_tags`.
 - Code: `pipeline/grant_profile_builder.py:52`, `pipeline/grant_profile_builder.py:85`
 
+Timestamps
+- `created_at` is recorded in ISO8601 with timezone offset. Default timezone is `America/New_York` and can be overridden via the `TIMEZONE` environment variable.
+
 Source metadata
 - The profile also records the provenance of the input under `source`:
   - `source.path`: the local input file path (e.g., `data/grants/test_grant_1.txt`)
   - `source.url`: an optional RFP or website URL (when provided via `--source-url`)
+
+Deadline
+- The profile includes a `deadline` block parsed from the text (heuristic):
+  - `status` (one of `date`, `multiple`, `rolling`, `unspecified`)
+  - `dates` (ISO list when detected — e.g., `2025-03-15`)
+  - `raw_mentions` (up to 10 lines with deadline cues)
 
 Notes
 - Profiles do not store raw embedding vectors; only phrases and matched tags (with confidence) are saved.

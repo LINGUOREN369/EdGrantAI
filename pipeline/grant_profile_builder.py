@@ -27,12 +27,18 @@ CLI:
       - Custom directory/extension/output:
           - python -m pipeline.grant_profile_builder --all --dir data/grants --ext .txt --out-dir data/processed_grants
   - Output:
-      - data/processed_grants/text_grant_1_profile.json (includes source.path and optional source.url)
+      - data/processed_grants/text_grant_1_profile.json (includes deadline, source.path and optional source.url)
 
 Source metadata:
   - The profile records input provenance under `source`:
       - source.path: the local input file path
       - source.url: an optional RFP/source URL when provided via --source-url
+
+Deadline extraction:
+  - The profile includes a `deadline` block parsed from the text (heuristic):
+      - `status` (date | multiple | rolling | unspecified)
+      - `dates` (ISO list, when detected)
+      - `raw_mentions` (up to 10 lines containing deadline cues)
 
 Environment:
   Requires OPENAI_API_KEY and taxonomy assets in data/taxonomy/.
@@ -41,11 +47,13 @@ Environment:
 import json
 from pathlib import Path
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from typing import Dict, List, Optional
 
 from .cke import run_cke
 from .canonical_mapper import map_all_taxonomies
 from .config import settings
+from .deadline_extractor import extract_deadline_info
 import argparse
 import time
 
@@ -98,10 +106,11 @@ def build_grant_profile(
     # Step 4 — Construct final profile
     profile = {
         "grant_id": grant_id,
-        "created_at": datetime.utcnow().isoformat(),
+        "created_at": datetime.now(ZoneInfo(settings.TIMEZONE)).isoformat(),
         "taxonomy_version": version,
         "extracted_phrases": extracted_phrases,
         "canonical_tags": mapped_tags,
+        "deadline": extract_deadline_info(grant_text),
         "source": {
             "path": str(source_path) if source_path else None,
             "url": str(source_url) if source_url else None,

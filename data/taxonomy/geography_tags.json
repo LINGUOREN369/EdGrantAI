@@ -1,26 +1,40 @@
 [
-  "global_international",
-  "us_national",
+  "global",
+  "international",
+  "national",
+  "United States",
 
-  "regional_multi_state",
-  "single_state",
+  "multi-state region",
+  "single state",
+  "statewide programs",
 
-  "multi_county",
-  "single_county",
+  "multi-county region",
+  "single county",
 
-  "multi_city",
-  "single_city_municipal",
+  "multi-city region",
+  "single city",
+  "municipal programs",
 
-  "school_district_level",
+  "school district level",
+  "district-wide programs",
 
-  "neighborhood_place_based",
+  "neighborhood-based programs",
+  "place-based programs",
 
-  "rural_communities",
-  "urban_communities",
-  "suburban_communities",
+  "rural communities",
+  "urban communities",
+  "suburban communities",
 
-  "tribal_nations",
-  "us_territories"
-  ,
-  "epscor_states"
+  "tribal nations",
+  "tribal communities",
+  "Native American communities",
+
+  "U.S. territories",
+  "Puerto Rico",
+  "Guam",
+  "U.S. Virgin Islands",
+  "American Samoa",
+  "Northern Mariana Islands",
+
+  "EPSCoR states"
 ]

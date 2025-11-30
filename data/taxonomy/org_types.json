@@ -1,33 +1,38 @@
 [
-  "nonprofit_501c3",
-  "fiscally_sponsored_project",
+  "nonprofit organization",
+  "501(c)(3) nonprofit",
+  "fiscally sponsored project",
 
-  "public_school_district",
-  "public_school_single_site",
-  "charter_school_single_site",
-  "charter_school_network",
-  "independent_private_school",
+  "public school district",
+  "public school",
+  "single-site charter school",
+  "charter school network",
+  "independent school",
+  "private school",
 
-  "higher_education_institution",
-  "community_college",
-  "four_year_university",
-  "minority_serving_institution_msi",
-  "historically_black_college_university_hbcu",
-  "tribal_college_university_tcu",
+  "institution of higher education",
+  "two-year college",
+  "community college",
+  "four-year university",
+  "minority-serving institution",
+  "historically Black college or university",
+  "tribal college or university",
 
-  "government_agency_local",
-  "government_agency_state",
-  "education_service_agency",
+  "local government agency",
+  "state government agency",
+  "education service agency",
 
-  "community_based_organization",
-  "youth_development_organization",
-  "after_school_program_provider",
+  "community-based organization",
+  "youth development organization",
+  "after-school program provider",
 
-  "library_system",
-  "museum_or_science_center",
-  "cultural_institution",
+  "library system",
+  "public library",
+  "museum",
+  "science center",
+  "cultural institution",
 
-  "faith_based_organization",
+  "faith-based organization",
 
-  "health_and_social_services_agency"
+  "health and social services agency"
 ]

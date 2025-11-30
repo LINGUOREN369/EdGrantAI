@@ -1,71 +1,92 @@
 {
   "grant_id": "nsf_REU",
-  "created_at": "2025-11-30T01:54:41.090559",
-  "taxonomy_version": "0.0.3",
+  "created_at": "2025-11-29T21:35:02.919225-05:00",
+  "taxonomy_version": "0.0.4",
   "extracted_phrases": [
-    "Research Experiences for Undergraduates",
+    "Research Experiences for Undergraduates (REU)",
     "REU Sites",
     "REU Supplements",
     "U.S. citizens",
     "U.S. nationals",
     "U.S. permanent residents",
     "NSF Technology, Innovation and Partnerships",
-    "STEM Education"
+    "STEM Education",
+    "National Science Foundation"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "undergraduate_research_experiences",
-        "source_text": "Research Experiences for Undergraduates",
-        "confidence": 0.8055
+        "tag": "undergraduate research experiences",
+        "source_text": "Research Experiences for Undergraduates (REU)",
+        "confidence": 0.6936
       },
       {
-        "tag": "reu_undergraduate_research",
-        "source_text": "Research Experiences for Undergraduates",
-        "confidence": 0.7008
+        "tag": "undergraduate mentorship programs",
+        "source_text": "Research Experiences for Undergraduates (REU)",
+        "confidence": 0.5355
       },
       {
-        "tag": "stem_education_general",
+        "tag": "STEM education",
         "source_text": "STEM Education",
-        "confidence": 0.6436
+        "confidence": 0.9678
       },
       {
-        "tag": "engineering_education",
+        "tag": "science education",
         "source_text": "STEM Education",
-        "confidence": 0.6358
+        "confidence": 0.7489
       },
       {
-        "tag": "science_education",
+        "tag": "elementary STEM education",
         "source_text": "STEM Education",
-        "confidence": 0.5909
+        "confidence": 0.7304
       },
       {
-        "tag": "stem_teacher_professional_development",
+        "tag": "middle school STEM education",
         "source_text": "STEM Education",
-        "confidence": 0.5855
+        "confidence": 0.7199
       },
       {
-        "tag": "technology_education",
+        "tag": "K-12 STEM education",
         "source_text": "STEM Education",
-        "confidence": 0.5769
+        "confidence": 0.7132
       }
     ],
     "population_tags": [],
     "org_type_tags": [
       {
-        "tag": "education_service_agency",
+        "tag": "education service agency",
         "source_text": "STEM Education",
-        "confidence": 0.508
+        "confidence": 0.5137
       }
     ],
     "geography_tags": [
       {
-        "tag": "us_national",
+        "tag": "United States",
+        "source_text": "U.S. citizens",
+        "confidence": 0.5585
+      },
+      {
+        "tag": "U.S. territories",
         "source_text": "U.S. nationals",
-        "confidence": 0.5814
+        "confidence": 0.5506
       }
     ],
     "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "multiple",
+    "dates": [
+      "2023-09-27",
+      "2024-08-21"
+    ],
+    "raw_mentions": [
+      "The Research Experiences for Undergraduates (REU) program supports active research participation by undergraduate students in any of the areas of research funded by the National Science Foundation. REU projects involve students in meaningful ways in ongoing research programs or in research projects specifically designed for the REU program. This solicitation features two mechanisms for supporting student research:",
+      "REU Supplements may be included as a component of proposals for new or renewal NSF grants or cooperative agreements or may be requested for ongoing NSF-funded research projects.",
+      "C. Due Dates",
+      "Full Proposal Deadline(s) (due by 5 p.m. submitter's local time):",
+      "September 27, 2023",
+      "August 21, 2024"
+    ]
   },
   "source": {
     "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_REU.txt",

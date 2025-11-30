@@ -109,6 +109,10 @@ class Settings:
             "red_flag_tags": "red_flag_tags",
         }
 
+        # Timezone for timestamps (ISO8601 with offset)
+        # Override via TIMEZONE (e.g., "America/New_York")
+        self.TIMEZONE: str = os.getenv("TIMEZONE", "America/New_York")
+
 
 # Singleton settings instance
 settings = Settings()

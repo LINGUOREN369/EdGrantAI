@@ -1,13 +1,13 @@
 {
-  "taxonomy_version": "0.0.3",
+  "taxonomy_version": "0.0.4",
   "last_updated": "2025-11-29",
   "thresholds": {
-    "mission": 0.50,
-    "population": 0.60,
-    "org_type": 0.50,
-    "geography": 0.55,
-    "red_flags": 0.70,
+    "mission": 0.52,
+    "population": 0.62,
+    "org_type": 0.55,
+    "geography": 0.60,
+    "red_flags": 0.75,
     "default": 0.70
-  }
+    }
 }
 
