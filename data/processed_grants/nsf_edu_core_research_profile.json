@@ -1,7 +1,7 @@
 {
   "grant_id": "nsf_edu_core_research",
-  "created_at": "2025-11-29T20:40:11.406869",
-  "taxonomy_version": "0.0.2",
+  "created_at": "2025-11-30T01:55:04.760262",
+  "taxonomy_version": "0.0.3",
   "extracted_phrases": [
     "EDU Core Research",
     "ECR:Core solicitation",
@@ -12,22 +12,23 @@
     "Research on STEM Workforce Development",
     "ECR program",
     "fundamental STEM education research activities",
-    "learners of all groups and ages",
     "formal and informal settings",
+    "ECR:Core proposals",
+    "STEM Education",
     "Broadening Participation In STEM",
     "NSF",
-    "science and engineering",
-    "intellectual capital",
-    "groups and regions",
-    "proposals",
-    "Standard Grant",
-    "Continuing Grant",
+    "Standard Grant or Continuing Grant",
     "Estimated Number of Awards",
     "program budget",
     "National Science Foundation"
   ],
   "canonical_tags": {
     "mission_tags": [
+      {
+        "tag": "education_research_core",
+        "source_text": "EDU Core Research",
+        "confidence": 0.7242
+      },
       {
         "tag": "education_research",
         "source_text": "EDU Core Research",
@@ -36,7 +37,7 @@
       {
         "tag": "research_based_learning",
         "source_text": "fundamental research",
-        "confidence": 0.529
+        "confidence": 0.5291
       },
       {
         "tag": "stem_education_general",
@@ -61,7 +62,7 @@
       {
         "tag": "stem_teacher_professional_development",
         "source_text": "STEM education",
-        "confidence": 0.5709
+        "confidence": 0.571
       },
       {
         "tag": "learning_sciences",
@@ -69,9 +70,19 @@
         "confidence": 0.5291
       },
       {
+        "tag": "broadening_participation_in_stem",
+        "source_text": "Research on Broadening Participation in STEM fields",
+        "confidence": 0.6533
+      },
+      {
         "tag": "stem_workforce_development",
         "source_text": "Research on STEM Workforce Development",
         "confidence": 0.6074
+      },
+      {
+        "tag": "education_research_core",
+        "source_text": "fundamental STEM education research activities",
+        "confidence": 0.5387
       },
       {
         "tag": "science_education",
@@ -84,39 +95,49 @@
         "confidence": 0.5142
       },
       {
-        "tag": "science_education",
-        "source_text": "science and engineering",
-        "confidence": 0.6932
+        "tag": "stem_education_general",
+        "source_text": "STEM Education",
+        "confidence": 0.6436
       },
       {
         "tag": "engineering_education",
-        "source_text": "science and engineering",
-        "confidence": 0.5778
+        "source_text": "STEM Education",
+        "confidence": 0.6358
       },
       {
-        "tag": "learning_sciences",
-        "source_text": "science and engineering",
-        "confidence": 0.5187
+        "tag": "science_education",
+        "source_text": "STEM Education",
+        "confidence": 0.5909
       },
       {
-        "tag": "computer_science_education",
-        "source_text": "science and engineering",
+        "tag": "stem_teacher_professional_development",
+        "source_text": "STEM Education",
+        "confidence": 0.5855
+      },
+      {
+        "tag": "technology_education",
+        "source_text": "STEM Education",
+        "confidence": 0.5769
+      },
+      {
+        "tag": "broadening_participation_in_stem",
+        "source_text": "Broadening Participation In STEM",
+        "confidence": 0.7227
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "education_service_agency",
+        "source_text": "STEM Education",
         "confidence": 0.508
       }
     ],
-    "population_tags": [
-      {
-        "tag": "adult_learners",
-        "source_text": "learners of all groups and ages",
-        "confidence": 0.6669
-      }
-    ],
-    "org_type_tags": [],
     "geography_tags": [],
     "red_flag_tags": []
   },
   "source": {
-    "path": "data/grants/nsf_edu_core_research.txt",
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_edu_core_research.txt",
     "url": "https://www.nsf.gov/funding/opportunities/ecrcore-edu-core-research/nsf21-588/solicitation#summary"
   }
 }

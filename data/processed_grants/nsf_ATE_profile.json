@@ -1,54 +1,86 @@
 {
   "grant_id": "nsf_ATE",
-  "created_at": "2025-11-29T21:06:00.245620",
-  "taxonomy_version": "0.0.2",
+  "created_at": "2025-11-30T01:54:30.471545",
+  "taxonomy_version": "0.0.3",
   "extracted_phrases": [
-    "Advanced Technological Education",
-    "Institutions of Higher Education",
-    "National Institute of Standards and Technology",
-    "Manufacturing Extension Partnerships",
-    "Manufacturing USA Institutes",
+    "Advanced Technological Education (ATE)",
+    "Institutions of Higher Education (IHEs)",
+    "technical workforce (STW)",
     "Minority Serving Institutions",
-    "skilled technical workforce",
-    "two-year degrees",
-    "community college faculty"
+    "Tribal Nations",
+    "non-profit, non-academic organizations",
+    "for-profit organizations",
+    "State and Local Governments",
+    "Manufacturing Extension Partnerships (MEPs)",
+    "Manufacturing USA Institutes"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
         "tag": "technology_education",
-        "source_text": "Advanced Technological Education",
-        "confidence": 0.6171
+        "source_text": "Advanced Technological Education (ATE)",
+        "confidence": 0.5353
       },
       {
         "tag": "engineering_education",
-        "source_text": "Advanced Technological Education",
-        "confidence": 0.5542
+        "source_text": "Advanced Technological Education (ATE)",
+        "confidence": 0.5219
       },
       {
         "tag": "stem_workforce_development",
-        "source_text": "skilled technical workforce",
-        "confidence": 0.5248
+        "source_text": "technical workforce (STW)",
+        "confidence": 0.6509
       }
     ],
     "population_tags": [],
     "org_type_tags": [
       {
         "tag": "higher_education_institution",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.6976
+        "source_text": "Institutions of Higher Education (IHEs)",
+        "confidence": 0.5918
       },
       {
-        "tag": "community_college",
-        "source_text": "community college faculty",
-        "confidence": 0.6941
+        "tag": "minority_serving_institution_msi",
+        "source_text": "Minority Serving Institutions",
+        "confidence": 0.8084
+      },
+      {
+        "tag": "nonprofit_501c3",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 0.662
+      },
+      {
+        "tag": "community_based_organization",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 0.5226
+      },
+      {
+        "tag": "nonprofit_501c3",
+        "source_text": "for-profit organizations",
+        "confidence": 0.5569
+      },
+      {
+        "tag": "government_agency_local",
+        "source_text": "State and Local Governments",
+        "confidence": 0.648
+      },
+      {
+        "tag": "government_agency_state",
+        "source_text": "State and Local Governments",
+        "confidence": 0.5619
       }
     ],
-    "geography_tags": [],
+    "geography_tags": [
+      {
+        "tag": "tribal_nations",
+        "source_text": "Tribal Nations",
+        "confidence": 0.8606
+      }
+    ],
     "red_flag_tags": []
   },
   "source": {
-    "path": "data/grants/nsf_ATE.txt",
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_ATE.txt",
     "url": "https://www.nsf.gov/funding/opportunities/ate-advanced-technological-education/nsf24-584/solicitation"
   }
 }

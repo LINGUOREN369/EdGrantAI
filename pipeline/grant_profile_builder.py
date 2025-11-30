@@ -22,6 +22,10 @@ CLI:
       - Optionally include a source URL:
           - python -m pipeline.grant_profile_builder data/grants/text_grant_1.txt --source-url https://example.org/rfp
       - Convenience: if the first non-empty line of the text file is an http(s) URL, it is used as the source URL and omitted from the processed text.
+  - Process all .txt grant files in a directory (default: data/grants):
+      - python -m pipeline.grant_profile_builder --all
+      - Custom directory/extension/output:
+          - python -m pipeline.grant_profile_builder --all --dir data/grants --ext .txt --out-dir data/processed_grants
   - Output:
       - data/processed_grants/text_grant_1_profile.json (includes source.path and optional source.url)
 
@@ -153,6 +157,7 @@ def _main(argv=None) -> int:
     )
     parser.add_argument(
         "input",
+        nargs="?",
         help="Path to a text file containing grant/RFP text (e.g., data/grants/text_grant_1.txt)",
     )
     parser.add_argument(
@@ -169,9 +174,80 @@ def _main(argv=None) -> int:
         "--source-url",
         help="Optional source URL for the grant/RFP (stored in profile metadata).",
     )
+    parser.add_argument(
+        "-all", "-a", "--all",
+        action="store_true",
+        help="Process all grant text files in --dir (default: data/grants).",
+    )
+    parser.add_argument(
+        "--dir",
+        default=str((settings.REPO_ROOT / "data" / "grants").resolve()),
+        help="Directory to scan when using --all (defaults to data/grants).",
+    )
+    parser.add_argument(
+        "--ext",
+        default=".txt",
+        help="File extension to include when using --all (default: .txt).",
+    )
 
     args = parser.parse_args(argv)
 
+    if args.all:
+        dir_path = Path(args.dir)
+        if not dir_path.exists() or not dir_path.is_dir():
+            print(f"[error] Directory not found: {dir_path}")
+            return 1
+        files = sorted(p for p in dir_path.glob(f"*{args.ext}") if p.is_file())
+        if not files:
+            print(f"[warn] No files found in {dir_path} matching *{args.ext}")
+            return 0
+
+        if args.out_dir:
+            OUTPUT_DIR = Path(args.out_dir)
+            OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+        total_ok = 0
+        total_fail = 0
+        t_start = time.time()
+        for f in files:
+            try:
+                gid = args.grant_id or f.stem
+                text = f.read_text(encoding="utf-8")
+                s_url = args.source_url
+                # First non-empty line URL convenience
+                if not s_url:
+                    lines = text.splitlines()
+                    for idx, raw in enumerate(lines):
+                        line = raw.strip()
+                        if not line:
+                            continue
+                        if line.startswith("http://") or line.startswith("https://"):
+                            s_url = line
+                            del lines[idx]
+                            text = "\n".join(lines).lstrip("\n")
+                        break
+
+                t0 = time.time()
+                out_path = process_grant(
+                    gid,
+                    text,
+                    source_path=str(f),
+                    source_url=s_url,
+                )
+                dt = time.time() - t0
+                print(f"[ok] {f.name} → {out_path.name} ({dt:.2f}s)")
+                total_ok += 1
+            except Exception as e:
+                print(f"[error] {f.name}: {e}")
+                total_fail += 1
+        total_dt = time.time() - t_start
+        print(f"[done] processed: {total_ok} ok, {total_fail} failed in {total_dt:.2f}s")
+        return 0 if total_fail == 0 else 1
+
+    # Single-file mode
+    if not args.input:
+        parser.print_usage()
+        return 2
     in_path = Path(args.input)
     if not in_path.exists():
         print(f"[error] Input file not found: {in_path}")

@@ -39,8 +39,14 @@ Build a profile from a text file:
   - `python -m pipeline.grant_profile_builder data/grants/text_grant_1.txt --grant-id text_grant_1 --out-dir data/processed_grants`
 - Optionally include a source URL:
   - `python -m pipeline.grant_profile_builder data/grants/text_grant_1.txt --source-url https://example.org/rfp`
- - Convenience: if the first non-empty line of the `.txt` file is an `http(s)` URL, it is used as `source.url` and removed from the processed text automatically.
+- Convenience: if the first non-empty line of the `.txt` file is an `http(s)` URL, it is used as `source.url` and removed from the processed text automatically.
+
+Process all `.txt` grants in a directory:
+- Use defaults (dir=`data/grants`, ext=`.txt`):
+  - `python -m pipeline.grant_profile_builder -all`
+- Or customize directory and output location:
+  - `python -m pipeline.grant_profile_builder --all --dir data/grants --ext .txt --out-dir data/processed_grants`
 
 Output:
 - `data/processed_grants/{grant_id}_profile.json`
- - The CLI also prints processing time in seconds.
+- The CLI also prints processing time in seconds.

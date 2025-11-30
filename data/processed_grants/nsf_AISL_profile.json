@@ -1,43 +1,66 @@
 {
   "grant_id": "nsf_AISL",
-  "created_at": "2025-11-29T21:01:43.212829",
-  "taxonomy_version": "0.0.2",
+  "created_at": "2025-11-30T01:54:17.626580",
+  "taxonomy_version": "0.0.3",
   "extracted_phrases": [
-    "Advancing Informal STEM Learning (AISL)",
-    "informal STEM learning (ISL)",
-    "public engagement",
-    "scientific research (PPSR)",
+    "Advancing Informal STEM Learning",
+    "informal STEM learning",
+    "public engagement with STEM",
+    "public participation in scientific research",
     "science communication",
     "intergenerational STEM engagement",
     "STEM media",
     "community STEM",
-    "community vibrancy",
-    "Broadening Participation In STEM",
-    "Institutions of Higher Education (IHEs)",
+    "educational success in STEM",
+    "STEM careers",
+    "informal STEM learning professionals",
+    "Broadening Participation in STEM",
+    "Institutions of Higher Education",
     "Non-profit, non-academic organizations",
     "Tribal Nations",
-    "Independent museums",
-    "observatories",
-    "research laboratories",
-    "professional societies",
+    "American Indian or Alaska Native tribe",
+    "community that the Secretary of the Interior acknowledges",
+    "federally recognized tribe",
+    "U.S.-based commercial organizations",
     "State and Local Governments",
-    "Foreign organizations",
-    "Federally Funded Research and Development Centers (FFRDCs)",
-    "Research Coordination Networks (RCN)",
-    "CAREER awards",
-    "REU supplements"
+    "Foreign organizations"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "learning_sciences",
-        "source_text": "informal STEM learning (ISL)",
-        "confidence": 0.5197
+        "tag": "informal_stem_learning",
+        "source_text": "Advancing Informal STEM Learning",
+        "confidence": 0.6115
       },
       {
-        "tag": "research_based_learning",
-        "source_text": "scientific research (PPSR)",
-        "confidence": 0.5529
+        "tag": "informal_stem_learning",
+        "source_text": "informal STEM learning",
+        "confidence": 0.7155
+      },
+      {
+        "tag": "aisl_informal_stem",
+        "source_text": "informal STEM learning",
+        "confidence": 0.5401
+      },
+      {
+        "tag": "learning_sciences",
+        "source_text": "informal STEM learning",
+        "confidence": 0.5251
+      },
+      {
+        "tag": "broadening_participation_in_stem",
+        "source_text": "public engagement with STEM",
+        "confidence": 0.6242
+      },
+      {
+        "tag": "science_education",
+        "source_text": "public engagement with STEM",
+        "confidence": 0.5484
+      },
+      {
+        "tag": "broadening_participation_in_stem",
+        "source_text": "public participation in scientific research",
+        "confidence": 0.5435
       },
       {
         "tag": "science_education",
@@ -48,6 +71,16 @@
         "tag": "learning_sciences",
         "source_text": "science communication",
         "confidence": 0.5029
+      },
+      {
+        "tag": "broadening_participation_in_stem",
+        "source_text": "intergenerational STEM engagement",
+        "confidence": 0.547
+      },
+      {
+        "tag": "broadening_participation_in_stem",
+        "source_text": "community STEM",
+        "confidence": 0.5661
       },
       {
         "tag": "science_education",
@@ -67,25 +100,45 @@
       {
         "tag": "stem_education_general",
         "source_text": "community STEM",
-        "confidence": 0.5042
+        "confidence": 0.5043
       },
       {
-        "tag": "research_based_learning",
-        "source_text": "research laboratories",
-        "confidence": 0.5051
+        "tag": "college_access_and_success",
+        "source_text": "educational success in STEM",
+        "confidence": 0.5525
+      },
+      {
+        "tag": "science_education",
+        "source_text": "educational success in STEM",
+        "confidence": 0.5075
       },
       {
         "tag": "stem_career_pathways",
-        "source_text": "CAREER awards",
-        "confidence": 0.5713
+        "source_text": "STEM careers",
+        "confidence": 0.7201
+      },
+      {
+        "tag": "informal_stem_learning",
+        "source_text": "informal STEM learning professionals",
+        "confidence": 0.6314
+      },
+      {
+        "tag": "stem_teacher_professional_development",
+        "source_text": "informal STEM learning professionals",
+        "confidence": 0.5932
+      },
+      {
+        "tag": "broadening_participation_in_stem",
+        "source_text": "Broadening Participation in STEM",
+        "confidence": 0.7253
       }
     ],
     "population_tags": [],
     "org_type_tags": [
       {
         "tag": "higher_education_institution",
-        "source_text": "Institutions of Higher Education (IHEs)",
-        "confidence": 0.5918
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.6976
       },
       {
         "tag": "nonprofit_501c3",
@@ -105,20 +158,25 @@
     ],
     "geography_tags": [
       {
-        "tag": "urban_communities",
-        "source_text": "community vibrancy",
-        "confidence": 0.5618
-      },
-      {
         "tag": "tribal_nations",
         "source_text": "Tribal Nations",
         "confidence": 0.8606
+      },
+      {
+        "tag": "tribal_nations",
+        "source_text": "American Indian or Alaska Native tribe",
+        "confidence": 0.5666
+      },
+      {
+        "tag": "tribal_nations",
+        "source_text": "federally recognized tribe",
+        "confidence": 0.6164
       }
     ],
     "red_flag_tags": []
   },
   "source": {
-    "path": "data/grants/nsf_AISL.txt",
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_AISL.txt",
     "url": "https://www.nsf.gov/funding/opportunities/aisl-advancing-informal-stem-learning/504793/nsf24-601/solicitation?utm_source=chatgpt.com"
   }
 }

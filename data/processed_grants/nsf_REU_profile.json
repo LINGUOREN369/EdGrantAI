@@ -1,22 +1,29 @@
 {
   "grant_id": "nsf_REU",
-  "created_at": "2025-11-29T21:08:01.453462",
-  "taxonomy_version": "0.0.2",
+  "created_at": "2025-11-30T01:54:41.090559",
+  "taxonomy_version": "0.0.3",
   "extracted_phrases": [
-    "Research Experiences for Undergraduates (REU)",
+    "Research Experiences for Undergraduates",
     "REU Sites",
     "REU Supplements",
     "U.S. citizens",
     "U.S. nationals",
     "U.S. permanent residents",
-    "STEM Education",
     "NSF Technology, Innovation and Partnerships",
-    "National Science Foundation",
-    "Principal Investigator",
-    "Co-Principal Investigator"
+    "STEM Education"
   ],
   "canonical_tags": {
     "mission_tags": [
+      {
+        "tag": "undergraduate_research_experiences",
+        "source_text": "Research Experiences for Undergraduates",
+        "confidence": 0.8055
+      },
+      {
+        "tag": "reu_undergraduate_research",
+        "source_text": "Research Experiences for Undergraduates",
+        "confidence": 0.7008
+      },
       {
         "tag": "stem_education_general",
         "source_text": "STEM Education",
@@ -35,7 +42,7 @@
       {
         "tag": "stem_teacher_professional_development",
         "source_text": "STEM Education",
-        "confidence": 0.5854
+        "confidence": 0.5855
       },
       {
         "tag": "technology_education",
@@ -48,7 +55,7 @@
       {
         "tag": "education_service_agency",
         "source_text": "STEM Education",
-        "confidence": 0.5079
+        "confidence": 0.508
       }
     ],
     "geography_tags": [
@@ -61,7 +68,7 @@
     "red_flag_tags": []
   },
   "source": {
-    "path": "data/grants/nsf_REU.txt",
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_REU.txt",
     "url": "https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf23-601/solicitation"
   }
 }

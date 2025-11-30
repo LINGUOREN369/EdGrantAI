@@ -1,27 +1,28 @@
 {
   "grant_id": "nsf_teacher_corp_pilot",
-  "created_at": "2025-11-29T20:49:19.219964",
-  "taxonomy_version": "0.0.2",
+  "created_at": "2025-11-30T01:55:43.333248",
+  "taxonomy_version": "0.0.3",
   "extracted_phrases": [
     "National STEM Teacher Corps Pilot Program",
-    "National STEM Teacher Corps",
     "Regional Alliances",
+    "National STEM Teacher Corps",
     "STEM Education",
-    "Cooperative Agreement",
+    "Regional Alliance Awards",
+    "planning grants",
     "Institutions of Higher Education",
-    "Terminal degree in a STEM discipline"
+    "Principal Investigator"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
         "tag": "stem_teacher_professional_development",
         "source_text": "National STEM Teacher Corps Pilot Program",
-        "confidence": 0.5243
+        "confidence": 0.5244
       },
       {
         "tag": "stem_teacher_professional_development",
         "source_text": "National STEM Teacher Corps",
-        "confidence": 0.5399
+        "confidence": 0.54
       },
       {
         "tag": "stem_education_general",
@@ -41,7 +42,7 @@
       {
         "tag": "stem_teacher_professional_development",
         "source_text": "STEM Education",
-        "confidence": 0.5854
+        "confidence": 0.5855
       },
       {
         "tag": "technology_education",
@@ -66,7 +67,7 @@
     "red_flag_tags": []
   },
   "source": {
-    "path": "data/grants/nsf_teacher_corp_pilot.txt",
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_teacher_corp_pilot.txt",
     "url": "https://www.nsf.gov/funding/opportunities/national-stem-teacher-corps-pilot-program/nsf24-577/solicitation"
   }
 }
