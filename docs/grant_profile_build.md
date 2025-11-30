@@ -59,3 +59,9 @@ Process all `.txt` grants in a directory:
 Output:
 - `data/processed_grants/{grant_id}_profile.json`
 - The CLI also prints processing time in seconds.
+
+Canonical tag entries
+- Each item in `canonical_tags.<taxonomy>` includes:
+  - `tag`: the canonical taxonomy tag
+  - `source_text`: the verbatim phrase that matched
+  - `confidence`: cosine similarity score (0–1)

@@ -49,10 +49,11 @@ class Settings:
 
         # Outputs
         self.PROCESSED_GRANTS_DIR: Path = _env_path("PROCESSED_GRANTS_DIR", self.REPO_ROOT / "data" / "processed_grants")
+        self.PROCESSED_ORGS_DIR: Path = _env_path("PROCESSED_ORGS_DIR", self.REPO_ROOT / "data" / "processed_orgs")
 
         # Models (overridable via env)
         self.OPENAI_CHAT_MODEL: str = os.getenv("OPENAI_CHAT_MODEL", "gpt-4o-mini")
-        self.OPENAI_EMBEDDING_MODEL: str = os.getenv("OPENAI_EMBEDDING_MODEL", "text-embedding-3-small")
+        self.OPENAI_EMBEDDING_MODEL: str = os.getenv("OPENAI_EMBEDDING_MODEL", "text-embedding-3-large")
 
         # Matching parameters
         try:

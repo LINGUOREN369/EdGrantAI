@@ -1,12 +1,12 @@
 {
   "grant_id": "nsf_edu_core_research",
-  "created_at": "2025-11-29T21:35:21.837309-05:00",
+  "created_at": "2025-11-29T22:14:32.451465-05:00",
   "taxonomy_version": "0.0.4",
   "extracted_phrases": [
     "EDU Core Research",
     "ECR:Core solicitation",
+    "fundamental research",
     "STEM education",
-    "Research Areas",
     "Research on STEM Learning and Learning Environments",
     "Research on Broadening Participation in STEM fields",
     "Research on STEM Workforce Development",
@@ -14,19 +14,23 @@
     "learners of all groups and ages",
     "formal and informal settings",
     "Broadening Participation In STEM",
-    "National Science Foundation",
+    "NSF",
+    "intellectual capital",
+    "science and engineering",
+    "science, mathematics, and engineering",
     "Standard Grant",
     "Continuing Grant",
-    "number of awards",
+    "Estimated Number of Awards",
     "program budget",
-    "Anticipated Funding Amount"
+    "National Science Foundation",
+    "NSF Proposal & Award Policies & Procedures Guide"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
         "tag": "education research",
         "source_text": "EDU Core Research",
-        "confidence": 0.5639
+        "confidence": 0.6301
       },
       {
         "tag": "STEM education",
@@ -36,173 +40,222 @@
       {
         "tag": "science education",
         "source_text": "STEM education",
-        "confidence": 0.7596
+        "confidence": 0.7379
       },
       {
         "tag": "high school STEM education",
         "source_text": "STEM education",
-        "confidence": 0.7466
+        "confidence": 0.7345
       },
       {
-        "tag": "middle school STEM education",
+        "tag": "elementary STEM education",
         "source_text": "STEM education",
-        "confidence": 0.7348
+        "confidence": 0.7328
       },
       {
-        "tag": "engineering education",
+        "tag": "K-12 STEM education",
         "source_text": "STEM education",
-        "confidence": 0.7304
+        "confidence": 0.7231
       },
       {
         "tag": "informal STEM learning",
         "source_text": "Research on STEM Learning and Learning Environments",
-        "confidence": 0.652
+        "confidence": 0.6229
       },
       {
         "tag": "K-12 STEM education",
         "source_text": "Research on STEM Learning and Learning Environments",
-        "confidence": 0.611
+        "confidence": 0.5843
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "Research on STEM Learning and Learning Environments",
+        "confidence": 0.5753
       },
       {
         "tag": "elementary STEM education",
         "source_text": "Research on STEM Learning and Learning Environments",
-        "confidence": 0.5897
+        "confidence": 0.5656
       },
       {
         "tag": "middle school STEM education",
         "source_text": "Research on STEM Learning and Learning Environments",
-        "confidence": 0.5894
-      },
-      {
-        "tag": "community-based STEM programs",
-        "source_text": "Research on STEM Learning and Learning Environments",
-        "confidence": 0.5812
+        "confidence": 0.5588
       },
       {
         "tag": "broadening participation in STEM",
         "source_text": "Research on Broadening Participation in STEM fields",
-        "confidence": 0.8887
-      },
-      {
-        "tag": "access to STEM opportunities",
-        "source_text": "Research on Broadening Participation in STEM fields",
-        "confidence": 0.6652
+        "confidence": 0.8284
       },
       {
         "tag": "underrepresented groups in STEM",
         "source_text": "Research on Broadening Participation in STEM fields",
-        "confidence": 0.6302
-      },
-      {
-        "tag": "community-based STEM programs",
-        "source_text": "Research on Broadening Participation in STEM fields",
-        "confidence": 0.6034
+        "confidence": 0.6136
       },
       {
         "tag": "undergraduate STEM education",
         "source_text": "Research on Broadening Participation in STEM fields",
-        "confidence": 0.5705
+        "confidence": 0.6008
+      },
+      {
+        "tag": "access to STEM opportunities",
+        "source_text": "Research on Broadening Participation in STEM fields",
+        "confidence": 0.5905
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "Research on Broadening Participation in STEM fields",
+        "confidence": 0.5638
       },
       {
         "tag": "workforce development",
         "source_text": "Research on STEM Workforce Development",
-        "confidence": 0.6505
+        "confidence": 0.6027
       },
       {
-        "tag": "broadening participation in STEM",
+        "tag": "undergraduate STEM education",
         "source_text": "Research on STEM Workforce Development",
-        "confidence": 0.6431
+        "confidence": 0.5906
+      },
+      {
+        "tag": "STEM teacher professional development",
+        "source_text": "Research on STEM Workforce Development",
+        "confidence": 0.5604
       },
       {
         "tag": "K-12 STEM education",
         "source_text": "Research on STEM Workforce Development",
-        "confidence": 0.6352
+        "confidence": 0.5599
       },
       {
-        "tag": "access to STEM opportunities",
+        "tag": "broadening participation in STEM",
         "source_text": "Research on STEM Workforce Development",
-        "confidence": 0.6339
-      },
-      {
-        "tag": "community-based STEM programs",
-        "source_text": "Research on STEM Workforce Development",
-        "confidence": 0.5982
+        "confidence": 0.5584
       },
       {
         "tag": "elementary STEM education",
         "source_text": "fundamental STEM education research activities",
-        "confidence": 0.7023
+        "confidence": 0.6954
       },
       {
         "tag": "undergraduate STEM education",
         "source_text": "fundamental STEM education research activities",
-        "confidence": 0.6967
-      },
-      {
-        "tag": "K-12 STEM education",
-        "source_text": "fundamental STEM education research activities",
-        "confidence": 0.6814
+        "confidence": 0.6732
       },
       {
         "tag": "high school STEM education",
         "source_text": "fundamental STEM education research activities",
-        "confidence": 0.6561
+        "confidence": 0.6545
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "fundamental STEM education research activities",
+        "confidence": 0.6435
       },
       {
         "tag": "middle school STEM education",
         "source_text": "fundamental STEM education research activities",
-        "confidence": 0.6482
+        "confidence": 0.6372
       },
       {
         "tag": "informal learning environments",
         "source_text": "formal and informal settings",
-        "confidence": 0.6648
+        "confidence": 0.6151
       },
       {
         "tag": "broadening participation in STEM",
         "source_text": "Broadening Participation In STEM",
-        "confidence": 0.9398
+        "confidence": 0.9277
       },
       {
         "tag": "access to STEM opportunities",
         "source_text": "Broadening Participation In STEM",
-        "confidence": 0.7358
+        "confidence": 0.6821
       },
       {
-        "tag": "community-based STEM programs",
+        "tag": "undergraduate STEM education",
         "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6897
+        "confidence": 0.6455
       },
       {
         "tag": "underrepresented groups in STEM",
         "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6391
+        "confidence": 0.6454
       },
       {
-        "tag": "K-12 STEM education",
+        "tag": "community-based STEM programs",
         "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6375
+        "confidence": 0.6451
+      },
+      {
+        "tag": "engineering education",
+        "source_text": "science and engineering",
+        "confidence": 0.6035
+      },
+      {
+        "tag": "science education",
+        "source_text": "science and engineering",
+        "confidence": 0.6008
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "science and engineering",
+        "confidence": 0.5502
+      },
+      {
+        "tag": "STEM career pathways",
+        "source_text": "science and engineering",
+        "confidence": 0.5158
+      },
+      {
+        "tag": "computer science education",
+        "source_text": "science and engineering",
+        "confidence": 0.5074
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "science, mathematics, and engineering",
+        "confidence": 0.5375
+      },
+      {
+        "tag": "science education",
+        "source_text": "science, mathematics, and engineering",
+        "confidence": 0.5322
+      },
+      {
+        "tag": "mathematics education",
+        "source_text": "science, mathematics, and engineering",
+        "confidence": 0.5087
+      },
+      {
+        "tag": "STEM career pathways",
+        "source_text": "science, mathematics, and engineering",
+        "confidence": 0.5025
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "science, mathematics, and engineering",
+        "confidence": 0.5001
       }
     ],
     "population_tags": [
       {
-        "tag": "early childhood learners",
-        "source_text": "learners of all groups and ages",
-        "confidence": 0.6248
-      },
-      {
         "tag": "adult learners",
         "source_text": "learners of all groups and ages",
-        "confidence": 0.6205
-      }
-    ],
-    "org_type_tags": [
+        "confidence": 0.6597
+      },
       {
-        "tag": "education service agency",
-        "source_text": "STEM education",
-        "confidence": 0.5127
+        "tag": "early childhood learners",
+        "source_text": "learners of all groups and ages",
+        "confidence": 0.6236
+      },
+      {
+        "tag": "English learners",
+        "source_text": "learners of all groups and ages",
+        "confidence": 0.6102
       }
     ],
+    "org_type_tags": [],
     "geography_tags": [],
     "red_flag_tags": []
   },

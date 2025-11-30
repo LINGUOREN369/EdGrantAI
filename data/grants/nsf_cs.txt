@@ -1,0 +1,64 @@
+https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf24-503/solicitation
+
+NSF 24-503: Research Experiences for Teachers (RET) in Engineering and Computer Science
+
+Summary Of Program Requirements
+General Information
+Program Title:
+
+Research Experiences for Teachers (RET) in Engineering and Computer Science
+Sites and Supplements
+
+Synopsis of Program:
+
+The Research Experiences for Teachers (RET) in Engineering and Computer Science program supports authentic summer research experiences for K-14 educators to foster long-term collaborations between universities, community colleges, school districts, and industry partners. With this solicitation, the Directorates for Engineering (ENG) and Computer and Information Science and Engineering (CISE) focus on a reciprocal exchange of expertise between K-14 educators and research faculty and (when applicable) industry mentors. K-14 educators will enhance their scientific disciplinary knowledge in engineering or computer science and translate their research experiences into classroom activities and curricula to broaden their students’ awareness of and participation in computing and engineering pathways. At the same time, the hosting research faculty will deepen their understanding of classroom practices, current curricula, pedagogy, and K-14 educational environments.
+
+Cognizant Program Officer(s):
+
+Please note that the following information is current at the time of publishing. See program website for any updates to the points of contact.
+
+Amelia S. Greer, ENG/EEC, telephone: (703) 292-2552, email: agreer@nsf.gov
+
+Patricia Simmons, ENG/EEC, telephone: (703) 292-5143, email: psimmons@nsf.gov
+
+Allyson Kennedy, CISE/CNS, telephone: (703) 292-8950, email: aykenned@nsf.gov
+
+Matthew A. Verleger, telephone: (703) 292-2961, email: mverlege@nsf.gov
+
+Applicable Catalog of Federal Domestic Assistance (CFDA) Number(s):
+
+47.041 --- Engineering
+47.070 --- Computer and Information Science and Engineering
+Award Information
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 9
+
+Anticipated Funding Amount: $5,800,000
+
+The total anticipated annual funding for both RET Sites and Supplements is approximately $5,800,000 per year, subject to the availability of funds. It is anticipated that approximately 9 Site awards will be made per year. The maximum total request for a Site is $600,000 for a duration of up to three years. Supplements are limited to a maximum of $15,000 per teacher and/or community college faculty for a duration of one year, subject to the availability of funds.
+
+Eligibility Information
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+RET Sites
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus and justify why the project activities cannot be performed at the US campus. Minority-Serving Institutions, community colleges, and institutions with strong programs serving persons with disabilities, are encouraged to apply.
+
+RET Supplements
+
+RET Supplement to an existing award: Active ENG or CISE awardees.
+RET Supplemental funding request submitted as part of a proposal to ENG or CISE for a new or renewal grant or cooperative agreement: Eligibility requirements of the specific funding opportunity apply.
+Who May Serve as PI:
+
+The principal investigator of a RET in Engineering and Computer Science Site proposal must have a full-time, tenured or tenure-track faculty appointment within a College/Department of Engineering or Engineering Technology or a College/Department of Computer and/or Information Science broadly defined [including e.g., Human-Computer Interaction (HCI), Software Engineering, Networking Science, Informatics] within the submitting US IHE. The PI must be a full-time Engineering and/or Computer Science faculty member whose primary job responsibilities are research and teaching and not a faculty member who is involved in an administrative capacity such as a dean or outreach coordinator.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may be listed as a PI or co-PI on no more than one RET site proposal per annual deadline.

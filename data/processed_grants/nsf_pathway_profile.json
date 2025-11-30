@@ -1,0 +1,132 @@
+{
+  "grant_id": "nsf_pathway",
+  "created_at": "2025-11-29T22:16:20.660971-05:00",
+  "taxonomy_version": "0.0.4",
+  "extracted_phrases": [
+    "Pathways Internship Program",
+    "current students in high school",
+    "current students in college",
+    "current students in graduate school",
+    "qualifying career or technical education program",
+    "Registered Apprenticeship Programs",
+    "Job Corps",
+    "AmeriCorps",
+    "Peace Corps",
+    "federal agencies",
+    "federal government",
+    "part-time or full-time",
+    "academic or career goals",
+    "field of study",
+    "Pathways Programs"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "high school STEM education",
+        "source_text": "current students in high school",
+        "confidence": 0.5636
+      },
+      {
+        "tag": "STEM career pathways",
+        "source_text": "Pathways Programs",
+        "confidence": 0.5433
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "high school students",
+        "source_text": "current students in high school",
+        "confidence": 0.8111
+      },
+      {
+        "tag": "grades 9-12 students",
+        "source_text": "current students in high school",
+        "confidence": 0.715
+      },
+      {
+        "tag": "middle school students",
+        "source_text": "current students in high school",
+        "confidence": 0.6711
+      },
+      {
+        "tag": "postsecondary students",
+        "source_text": "current students in high school",
+        "confidence": 0.6152
+      },
+      {
+        "tag": "grades 6-8 students",
+        "source_text": "current students in high school",
+        "confidence": 0.6129
+      },
+      {
+        "tag": "community college students",
+        "source_text": "current students in college",
+        "confidence": 0.686
+      },
+      {
+        "tag": "undergraduate students",
+        "source_text": "current students in college",
+        "confidence": 0.6745
+      },
+      {
+        "tag": "postsecondary students",
+        "source_text": "current students in college",
+        "confidence": 0.6587
+      },
+      {
+        "tag": "graduate students",
+        "source_text": "current students in college",
+        "confidence": 0.6439
+      },
+      {
+        "tag": "high school students",
+        "source_text": "current students in college",
+        "confidence": 0.637
+      },
+      {
+        "tag": "graduate students",
+        "source_text": "current students in graduate school",
+        "confidence": 0.793
+      },
+      {
+        "tag": "undergraduate students",
+        "source_text": "current students in graduate school",
+        "confidence": 0.6525
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "public school",
+        "source_text": "current students in high school",
+        "confidence": 0.526
+      },
+      {
+        "tag": "state government agency",
+        "source_text": "federal agencies",
+        "confidence": 0.5635
+      },
+      {
+        "tag": "local government agency",
+        "source_text": "federal agencies",
+        "confidence": 0.5008
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "place-based programs",
+        "source_text": "Pathways Programs",
+        "confidence": 0.5553
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": []
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_pathway.txt",
+    "url": "https://careers.state.gov/interns-fellows/pathways-programs/pathways-internship-programs/"
+  }
+}

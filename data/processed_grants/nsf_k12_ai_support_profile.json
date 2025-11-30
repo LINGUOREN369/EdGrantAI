@@ -1,0 +1,284 @@
+{
+  "grant_id": "nsf_k12_ai_support",
+  "created_at": "2025-11-29T22:15:57.505326-05:00",
+  "taxonomy_version": "0.0.4",
+  "extracted_phrases": [
+    "Supplemental Funding Requests",
+    "K-12 Artificial Intelligence Teams",
+    "Presidential AI Challenge",
+    "Community-based Partnerships",
+    "National Science Foundation",
+    "STEM Education",
+    "Presidential Initiative on Advancing Artificial Intelligence Education",
+    "American Youth",
+    "hands-on and experiential learning opportunities",
+    "high-quality AI learning opportunities",
+    "future generations",
+    "Team Catalysts",
+    "targeted outreach",
+    "mentorship",
+    "youth and/or educator teams",
+    "real-world challenges",
+    "K\u201312 education",
+    "2025 Executive Order on Advancing AI Education",
+    "student curiosity",
+    "educator innovation",
+    "community engagement",
+    "project-based and experiential learning opportunities",
+    "Challenge relevant equipment",
+    "Educator or student stipends",
+    "Travel for challenge-related events",
+    "Community events or project showcases",
+    "Mentorship or curriculum support",
+    "AI education resources for youth or educators",
+    "collaboratives with Schools",
+    "Industries",
+    "Nonprofits and Other Organizations",
+    "partners from industries",
+    "community partners",
+    "Training, mentorship, and technical support",
+    "Access to data, tools, and/or platform",
+    "Problem definitions and real-world context",
+    "Career exploration opportunities",
+    "evaluation or showcase events"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "K-12 Artificial Intelligence Teams",
+        "confidence": 0.6138
+      },
+      {
+        "tag": "artificial intelligence education",
+        "source_text": "K-12 Artificial Intelligence Teams",
+        "confidence": 0.5861
+      },
+      {
+        "tag": "robotics education",
+        "source_text": "K-12 Artificial Intelligence Teams",
+        "confidence": 0.5074
+      },
+      {
+        "tag": "research-practice partnerships",
+        "source_text": "Community-based Partnerships",
+        "confidence": 0.5761
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "Community-based Partnerships",
+        "confidence": 0.5395
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "STEM Education",
+        "confidence": 0.9583
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "STEM Education",
+        "confidence": 0.7264
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "STEM Education",
+        "confidence": 0.7169
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "STEM Education",
+        "confidence": 0.7157
+      },
+      {
+        "tag": "science education",
+        "source_text": "STEM Education",
+        "confidence": 0.7079
+      },
+      {
+        "tag": "artificial intelligence education",
+        "source_text": "Presidential Initiative on Advancing Artificial Intelligence Education",
+        "confidence": 0.6113
+      },
+      {
+        "tag": "informal learning environments",
+        "source_text": "hands-on and experiential learning opportunities",
+        "confidence": 0.5561
+      },
+      {
+        "tag": "informal STEM learning",
+        "source_text": "hands-on and experiential learning opportunities",
+        "confidence": 0.5044
+      },
+      {
+        "tag": "artificial intelligence education",
+        "source_text": "high-quality AI learning opportunities",
+        "confidence": 0.6003
+      },
+      {
+        "tag": "undergraduate mentorship programs",
+        "source_text": "mentorship",
+        "confidence": 0.6425
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "K\u201312 education",
+        "confidence": 0.7436
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "K\u201312 education",
+        "confidence": 0.5443
+      },
+      {
+        "tag": "early childhood education",
+        "source_text": "K\u201312 education",
+        "confidence": 0.535
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "K\u201312 education",
+        "confidence": 0.5245
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "K\u201312 education",
+        "confidence": 0.5118
+      },
+      {
+        "tag": "artificial intelligence education",
+        "source_text": "2025 Executive Order on Advancing AI Education",
+        "confidence": 0.5587
+      },
+      {
+        "tag": "instructional innovation",
+        "source_text": "educator innovation",
+        "confidence": 0.7202
+      },
+      {
+        "tag": "education improvement",
+        "source_text": "educator innovation",
+        "confidence": 0.5699
+      },
+      {
+        "tag": "education research",
+        "source_text": "educator innovation",
+        "confidence": 0.5274
+      },
+      {
+        "tag": "informal learning environments",
+        "source_text": "project-based and experiential learning opportunities",
+        "confidence": 0.5255
+      },
+      {
+        "tag": "research-based learning",
+        "source_text": "project-based and experiential learning opportunities",
+        "confidence": 0.516
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "project-based and experiential learning opportunities",
+        "confidence": 0.5051
+      },
+      {
+        "tag": "undergraduate mentorship programs",
+        "source_text": "Mentorship or curriculum support",
+        "confidence": 0.5885
+      },
+      {
+        "tag": "artificial intelligence education",
+        "source_text": "AI education resources for youth or educators",
+        "confidence": 0.6179
+      },
+      {
+        "tag": "robotics education",
+        "source_text": "AI education resources for youth or educators",
+        "confidence": 0.5165
+      },
+      {
+        "tag": "research-practice partnerships",
+        "source_text": "community partners",
+        "confidence": 0.5454
+      },
+      {
+        "tag": "STEM career pathways",
+        "source_text": "Career exploration opportunities",
+        "confidence": 0.5258
+      },
+      {
+        "tag": "evaluation and assessment",
+        "source_text": "evaluation or showcase events",
+        "confidence": 0.5735
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K\u201312 education",
+        "confidence": 0.7193
+      },
+      {
+        "tag": "K-5 students",
+        "source_text": "K\u201312 education",
+        "confidence": 0.6043
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community-based organization",
+        "source_text": "Community-based Partnerships",
+        "confidence": 0.6634
+      },
+      {
+        "tag": "youth development organization",
+        "source_text": "American Youth",
+        "confidence": 0.5613
+      },
+      {
+        "tag": "youth development organization",
+        "source_text": "youth and/or educator teams",
+        "confidence": 0.5977
+      },
+      {
+        "tag": "public school",
+        "source_text": "K\u201312 education",
+        "confidence": 0.5181
+      },
+      {
+        "tag": "nonprofit organization",
+        "source_text": "Nonprofits and Other Organizations",
+        "confidence": 0.6103
+      },
+      {
+        "tag": "501(c)(3) nonprofit",
+        "source_text": "Nonprofits and Other Organizations",
+        "confidence": 0.5168
+      },
+      {
+        "tag": "community-based organization",
+        "source_text": "community partners",
+        "confidence": 0.5242
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "neighborhood-based programs",
+        "source_text": "Community-based Partnerships",
+        "confidence": 0.5542
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2025-11-07"
+    ],
+    "raw_mentions": [
+      "The deadline for submission of supplemental funding requests is November 7, 2025. All supplemental funding requests will be reviewed in accordance with the NSF's merit review process. Interested parties are welcome to send questions or outlines of planned activities to the following email address: AI-Youth-Challenge@nsf.gov."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_k12_ai_support.txt",
+    "url": null
+  }
+}

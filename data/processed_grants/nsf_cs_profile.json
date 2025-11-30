@@ -1,0 +1,216 @@
+{
+  "grant_id": "nsf_cs",
+  "created_at": "2025-11-29T22:14:04.139397-05:00",
+  "taxonomy_version": "0.0.4",
+  "extracted_phrases": [
+    "Research Experiences for Teachers",
+    "Engineering and Computer Science",
+    "summer research experiences",
+    "K-14 educators",
+    "long-term collaborations",
+    "community colleges",
+    "school districts",
+    "industry partners",
+    "reciprocal exchange of expertise",
+    "scientific disciplinary knowledge",
+    "classroom activities",
+    "curricula",
+    "computing and engineering pathways",
+    "hosting research faculty",
+    "classroom practices",
+    "current curricula",
+    "K-14 educational environments",
+    "Institutions of Higher Education",
+    "community colleges",
+    "strong programs serving persons with disabilities",
+    "active ENG or CISE awardees"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "undergraduate research experiences",
+        "source_text": "Research Experiences for Teachers",
+        "confidence": 0.6355
+      },
+      {
+        "tag": "engineering education",
+        "source_text": "Engineering and Computer Science",
+        "confidence": 0.6086
+      },
+      {
+        "tag": "computer science education",
+        "source_text": "Engineering and Computer Science",
+        "confidence": 0.5694
+      },
+      {
+        "tag": "computing education",
+        "source_text": "Engineering and Computer Science",
+        "confidence": 0.5034
+      },
+      {
+        "tag": "undergraduate research experiences",
+        "source_text": "summer research experiences",
+        "confidence": 0.7792
+      },
+      {
+        "tag": "undergraduate mentorship programs",
+        "source_text": "summer research experiences",
+        "confidence": 0.5002
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "K-14 educators",
+        "confidence": 0.6028
+      },
+      {
+        "tag": "community college STEM programs",
+        "source_text": "community colleges",
+        "confidence": 0.6486
+      },
+      {
+        "tag": "curriculum development",
+        "source_text": "curricula",
+        "confidence": 0.6489
+      },
+      {
+        "tag": "STEM career pathways",
+        "source_text": "computing and engineering pathways",
+        "confidence": 0.6995
+      },
+      {
+        "tag": "computing education",
+        "source_text": "computing and engineering pathways",
+        "confidence": 0.6481
+      },
+      {
+        "tag": "computer science education",
+        "source_text": "computing and engineering pathways",
+        "confidence": 0.5525
+      },
+      {
+        "tag": "engineering education",
+        "source_text": "computing and engineering pathways",
+        "confidence": 0.5261
+      },
+      {
+        "tag": "technology education",
+        "source_text": "computing and engineering pathways",
+        "confidence": 0.5081
+      },
+      {
+        "tag": "instructional innovation",
+        "source_text": "classroom practices",
+        "confidence": 0.5529
+      },
+      {
+        "tag": "curriculum development",
+        "source_text": "current curricula",
+        "confidence": 0.6373
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "K-14 educational environments",
+        "confidence": 0.5859
+      },
+      {
+        "tag": "informal learning environments",
+        "source_text": "K-14 educational environments",
+        "confidence": 0.5069
+      },
+      {
+        "tag": "community college STEM programs",
+        "source_text": "community colleges",
+        "confidence": 0.6496
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K-14 educators",
+        "confidence": 0.7518
+      },
+      {
+        "tag": "K-5 students",
+        "source_text": "K-14 educators",
+        "confidence": 0.6228
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8856
+      },
+      {
+        "tag": "two-year college",
+        "source_text": "community colleges",
+        "confidence": 0.6736
+      },
+      {
+        "tag": "public school district",
+        "source_text": "school districts",
+        "confidence": 0.8117
+      },
+      {
+        "tag": "public school",
+        "source_text": "school districts",
+        "confidence": 0.5382
+      },
+      {
+        "tag": "institution of higher education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.7813
+      },
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855
+      },
+      {
+        "tag": "two-year college",
+        "source_text": "community colleges",
+        "confidence": 0.6736
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "school district level",
+        "source_text": "school districts",
+        "confidence": 0.7611
+      },
+      {
+        "tag": "district-wide programs",
+        "source_text": "school districts",
+        "confidence": 0.6253
+      }
+    ],
+    "red_flag_tags": [
+      {
+        "tag": "higher education institutions only",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.7034
+      }
+    ]
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "An individual may be listed as a PI or co-PI on no more than one RET site proposal per annual deadline."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_cs.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf24-503/solicitation"
+  }
+}

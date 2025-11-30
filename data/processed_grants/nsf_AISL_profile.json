@@ -1,308 +1,276 @@
 {
   "grant_id": "nsf_AISL",
-  "created_at": "2025-11-29T21:34:36.173440-05:00",
+  "created_at": "2025-11-29T22:12:51.828087-05:00",
   "taxonomy_version": "0.0.4",
   "extracted_phrases": [
-    "Advancing Informal STEM Learning",
-    "informal STEM learning",
-    "informal STEM learning's role",
-    "personal and educational success",
-    "public engagement in scientific discovery",
-    "STEM careers",
-    "theoretical and empirical foundations",
-    "community vibrancy",
+    "Advancing Informal STEM Learning (AISL)",
+    "informal STEM learning (ISL)",
+    "public engagement with and understanding of STEM",
+    "community STEM",
+    "public participation in scientific research (PPSR)",
     "science communication",
+    "intergenerational STEM engagement",
+    "STEM media",
+    "Synthesis projects",
+    "Conference projects",
+    "Partnership Development and Planning projects",
+    "Integrating Research and Practice projects",
+    "Research in Support of Wide-reaching Public Engagement with STEM projects",
     "Broadening Participation in STEM",
-    "Partnership Development and Planning",
-    "Integrating Research and Practice",
-    "Research in Support of Wide-reaching Public Engagement with STEM",
-    "Institutions of Higher Education",
-    "community colleges",
-    "Non-profit, non-academic organizations",
+    "Institutions of Higher Education (IHEs)",
     "Independent museums",
     "observatories",
     "research laboratories",
     "professional societies",
     "Tribal Nations",
-    "federally recognized tribe"
+    "U.S.-based commercial organizations"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
         "tag": "informal STEM learning",
-        "source_text": "Advancing Informal STEM Learning",
-        "confidence": 0.8252
+        "source_text": "Advancing Informal STEM Learning (AISL)",
+        "confidence": 0.6412
+      },
+      {
+        "tag": "out-of-school STEM programs",
+        "source_text": "Advancing Informal STEM Learning (AISL)",
+        "confidence": 0.5633
       },
       {
         "tag": "community-based STEM programs",
-        "source_text": "Advancing Informal STEM Learning",
-        "confidence": 0.6544
+        "source_text": "Advancing Informal STEM Learning (AISL)",
+        "confidence": 0.5444
       },
       {
-        "tag": "broadening participation in STEM",
-        "source_text": "Advancing Informal STEM Learning",
-        "confidence": 0.6509
+        "tag": "after-school STEM programs",
+        "source_text": "Advancing Informal STEM Learning (AISL)",
+        "confidence": 0.5357
       },
       {
-        "tag": "middle school STEM education",
-        "source_text": "Advancing Informal STEM Learning",
-        "confidence": 0.6446
-      },
-      {
-        "tag": "access to STEM opportunities",
-        "source_text": "Advancing Informal STEM Learning",
-        "confidence": 0.6313
+        "tag": "K-12 STEM education",
+        "source_text": "Advancing Informal STEM Learning (AISL)",
+        "confidence": 0.5277
       },
       {
         "tag": "informal STEM learning",
-        "source_text": "informal STEM learning",
-        "confidence": 1.0
+        "source_text": "informal STEM learning (ISL)",
+        "confidence": 0.8442
       },
       {
         "tag": "informal learning environments",
-        "source_text": "informal STEM learning",
-        "confidence": 0.7361
+        "source_text": "informal STEM learning (ISL)",
+        "confidence": 0.6728
       },
       {
-        "tag": "high school STEM education",
-        "source_text": "informal STEM learning",
-        "confidence": 0.6684
-      },
-      {
-        "tag": "middle school STEM education",
-        "source_text": "informal STEM learning",
-        "confidence": 0.6636
+        "tag": "out-of-school STEM programs",
+        "source_text": "informal STEM learning (ISL)",
+        "confidence": 0.632
       },
       {
         "tag": "community-based STEM programs",
-        "source_text": "informal STEM learning",
+        "source_text": "informal STEM learning (ISL)",
+        "confidence": 0.5945
+      },
+      {
+        "tag": "after-school STEM programs",
+        "source_text": "informal STEM learning (ISL)",
+        "confidence": 0.5637
+      },
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "public engagement with and understanding of STEM",
+        "confidence": 0.6793
+      },
+      {
+        "tag": "access to STEM opportunities",
+        "source_text": "public engagement with and understanding of STEM",
+        "confidence": 0.663
+      },
+      {
+        "tag": "informal STEM learning",
+        "source_text": "public engagement with and understanding of STEM",
         "confidence": 0.6571
       },
       {
+        "tag": "undergraduate STEM education",
+        "source_text": "public engagement with and understanding of STEM",
+        "confidence": 0.6532
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "public engagement with and understanding of STEM",
+        "confidence": 0.6277
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "community STEM",
+        "confidence": 0.7136
+      },
+      {
         "tag": "informal STEM learning",
-        "source_text": "informal STEM learning's role",
-        "confidence": 0.9341
+        "source_text": "community STEM",
+        "confidence": 0.5982
       },
       {
-        "tag": "informal learning environments",
-        "source_text": "informal STEM learning's role",
-        "confidence": 0.6947
+        "tag": "community college STEM programs",
+        "source_text": "community STEM",
+        "confidence": 0.5921
       },
       {
-        "tag": "community-based STEM programs",
-        "source_text": "informal STEM learning's role",
-        "confidence": 0.64
+        "tag": "elementary STEM education",
+        "source_text": "community STEM",
+        "confidence": 0.5846
       },
       {
-        "tag": "broadening participation in STEM",
-        "source_text": "informal STEM learning's role",
-        "confidence": 0.639
-      },
-      {
-        "tag": "middle school STEM education",
-        "source_text": "informal STEM learning's role",
-        "confidence": 0.6379
-      },
-      {
-        "tag": "education improvement",
-        "source_text": "personal and educational success",
-        "confidence": 0.5561
-      },
-      {
-        "tag": "education equity and access",
-        "source_text": "personal and educational success",
-        "confidence": 0.5165
-      },
-      {
-        "tag": "broadening participation in STEM",
-        "source_text": "public engagement in scientific discovery",
-        "confidence": 0.5604
-      },
-      {
-        "tag": "STEM career pathways",
-        "source_text": "STEM careers",
-        "confidence": 0.8724
-      },
-      {
-        "tag": "STEM education",
-        "source_text": "STEM careers",
-        "confidence": 0.6007
-      },
-      {
-        "tag": "high school STEM education",
-        "source_text": "STEM careers",
-        "confidence": 0.5671
-      },
-      {
-        "tag": "access to STEM opportunities",
-        "source_text": "STEM careers",
-        "confidence": 0.5547
-      },
-      {
-        "tag": "community-based STEM programs",
-        "source_text": "STEM careers",
-        "confidence": 0.5446
+        "tag": "out-of-school STEM programs",
+        "source_text": "community STEM",
+        "confidence": 0.5835
       },
       {
         "tag": "science education",
         "source_text": "science communication",
-        "confidence": 0.6044
+        "confidence": 0.6008
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "intergenerational STEM engagement",
+        "confidence": 0.6935
+      },
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "intergenerational STEM engagement",
+        "confidence": 0.6764
+      },
+      {
+        "tag": "informal STEM learning",
+        "source_text": "intergenerational STEM engagement",
+        "confidence": 0.6688
+      },
+      {
+        "tag": "access to STEM opportunities",
+        "source_text": "intergenerational STEM engagement",
+        "confidence": 0.6624
+      },
+      {
+        "tag": "middle school STEM education",
+        "source_text": "intergenerational STEM engagement",
+        "confidence": 0.6512
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "STEM media",
+        "confidence": 0.6117
+      },
+      {
+        "tag": "STEM equity and access",
+        "source_text": "STEM media",
+        "confidence": 0.5651
+      },
+      {
+        "tag": "middle school STEM education",
+        "source_text": "STEM media",
+        "confidence": 0.5632
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "STEM media",
+        "confidence": 0.5585
+      },
+      {
+        "tag": "STEM career pathways",
+        "source_text": "STEM media",
+        "confidence": 0.556
+      },
+      {
+        "tag": "research-practice partnerships",
+        "source_text": "Integrating Research and Practice projects",
+        "confidence": 0.6651
+      },
+      {
+        "tag": "research-based learning",
+        "source_text": "Integrating Research and Practice projects",
+        "confidence": 0.5105
+      },
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "Research in Support of Wide-reaching Public Engagement with STEM projects",
+        "confidence": 0.6369
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "Research in Support of Wide-reaching Public Engagement with STEM projects",
+        "confidence": 0.5976
+      },
+      {
+        "tag": "informal STEM learning",
+        "source_text": "Research in Support of Wide-reaching Public Engagement with STEM projects",
+        "confidence": 0.5632
+      },
+      {
+        "tag": "access to STEM opportunities",
+        "source_text": "Research in Support of Wide-reaching Public Engagement with STEM projects",
+        "confidence": 0.5436
+      },
+      {
+        "tag": "out-of-school STEM programs",
+        "source_text": "Research in Support of Wide-reaching Public Engagement with STEM projects",
+        "confidence": 0.537
       },
       {
         "tag": "broadening participation in STEM",
         "source_text": "Broadening Participation in STEM",
-        "confidence": 0.9469
+        "confidence": 0.9445
       },
       {
         "tag": "access to STEM opportunities",
         "source_text": "Broadening Participation in STEM",
-        "confidence": 0.7387
+        "confidence": 0.6878
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "Broadening Participation in STEM",
+        "confidence": 0.6508
       },
       {
         "tag": "community-based STEM programs",
         "source_text": "Broadening Participation in STEM",
-        "confidence": 0.6894
+        "confidence": 0.6507
       },
       {
         "tag": "underrepresented groups in STEM",
         "source_text": "Broadening Participation in STEM",
-        "confidence": 0.6397
-      },
-      {
-        "tag": "K-12 STEM education",
-        "source_text": "Broadening Participation in STEM",
-        "confidence": 0.6322
-      },
-      {
-        "tag": "research-practice partnerships",
-        "source_text": "Integrating Research and Practice",
-        "confidence": 0.6112
-      },
-      {
-        "tag": "broadening participation in STEM",
-        "source_text": "Research in Support of Wide-reaching Public Engagement with STEM",
-        "confidence": 0.7357
-      },
-      {
-        "tag": "community-based STEM programs",
-        "source_text": "Research in Support of Wide-reaching Public Engagement with STEM",
-        "confidence": 0.6663
-      },
-      {
-        "tag": "access to STEM opportunities",
-        "source_text": "Research in Support of Wide-reaching Public Engagement with STEM",
-        "confidence": 0.6208
-      },
-      {
-        "tag": "K-12 STEM education",
-        "source_text": "Research in Support of Wide-reaching Public Engagement with STEM",
-        "confidence": 0.5924
-      },
-      {
-        "tag": "informal STEM learning",
-        "source_text": "Research in Support of Wide-reaching Public Engagement with STEM",
-        "confidence": 0.5879
-      },
-      {
-        "tag": "education systems change",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.5044
-      },
-      {
-        "tag": "community college STEM programs",
-        "source_text": "community colleges",
-        "confidence": 0.6353
+        "confidence": 0.6472
       }
     ],
-    "population_tags": [
-      {
-        "tag": "community college students",
-        "source_text": "community colleges",
-        "confidence": 0.7811
-      }
-    ],
+    "population_tags": [],
     "org_type_tags": [
       {
-        "tag": "community-based organization",
-        "source_text": "community vibrancy",
-        "confidence": 0.518
-      },
-      {
-        "tag": "science center",
-        "source_text": "science communication",
-        "confidence": 0.505
-      },
-      {
         "tag": "institution of higher education",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.8326
-      },
-      {
-        "tag": "community college",
-        "source_text": "community colleges",
-        "confidence": 0.9117
-      },
-      {
-        "tag": "two-year college",
-        "source_text": "community colleges",
-        "confidence": 0.6058
-      },
-      {
-        "tag": "tribal college or university",
-        "source_text": "community colleges",
-        "confidence": 0.5029
-      },
-      {
-        "tag": "nonprofit organization",
-        "source_text": "Non-profit, non-academic organizations",
-        "confidence": 0.73
-      },
-      {
-        "tag": "501(c)(3) nonprofit",
-        "source_text": "Non-profit, non-academic organizations",
-        "confidence": 0.6226
-      },
-      {
-        "tag": "science center",
-        "source_text": "research laboratories",
-        "confidence": 0.5402
+        "source_text": "Institutions of Higher Education (IHEs)",
+        "confidence": 0.6995
       },
       {
         "tag": "tribal college or university",
         "source_text": "Tribal Nations",
-        "confidence": 0.5689
-      },
-      {
-        "tag": "tribal college or university",
-        "source_text": "federally recognized tribe",
-        "confidence": 0.5211
+        "confidence": 0.5465
       }
     ],
     "geography_tags": [
       {
         "tag": "tribal nations",
         "source_text": "Tribal Nations",
-        "confidence": 0.879
+        "confidence": 0.9111
       },
       {
         "tag": "tribal communities",
         "source_text": "Tribal Nations",
-        "confidence": 0.74
+        "confidence": 0.7164
       },
       {
         "tag": "Native American communities",
         "source_text": "Tribal Nations",
-        "confidence": 0.5948
-      },
-      {
-        "tag": "tribal nations",
-        "source_text": "federally recognized tribe",
-        "confidence": 0.6446
-      },
-      {
-        "tag": "tribal communities",
-        "source_text": "federally recognized tribe",
-        "confidence": 0.5592
+        "confidence": 0.6266
       }
     ],
     "red_flag_tags": []

@@ -202,7 +202,7 @@ Centralized configuration lives in `pipeline/config.py` and auto-loads `.env` va
   - `PROCESSED_GRANTS_DIR` (default: `data/processed_grants/`)
 - Model names (override via env):
   - `OPENAI_CHAT_MODEL` (default: `gpt-4o-mini`)
-  - `OPENAI_EMBEDDING_MODEL` (default: `text-embedding-3-small`)
+  - `OPENAI_EMBEDDING_MODEL` (default: `text-embedding-3-large`)
   - `TOP_K` (default: `5`)
   - `THRESHOLD_MISSION` (default: `0.45`)
   - `THRESHOLD_POPULATION` (default: `0.50`)

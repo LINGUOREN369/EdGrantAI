@@ -1,340 +1,268 @@
 {
   "grant_id": "nsf_scholarship_STEM",
-  "created_at": "2025-11-29T21:35:47.195008-05:00",
+  "created_at": "2025-11-29T22:17:08.674306-05:00",
   "taxonomy_version": "0.0.4",
   "extracted_phrases": [
     "NSF Scholarships in Science, Technology, Engineering, and Mathematics",
     "S-STEM program solicitation",
+    "S-STEM award",
     "Track 1 proposals",
     "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
-    "Scholarships to cover the cost of attendance",
     "Participant Support \u2013 Stipends",
     "Collaborative Planning Grants track",
-    "Planning proposal",
     "S-STEM program team",
-    "S-STEM program web page",
+    "S-STEM Program",
+    "Planning proposal",
+    "S-STEM eligible degree",
+    "Associate of Arts",
+    "Associate of Science",
+    "Associate of Engineering",
+    "Associate of Applied Science",
+    "Bachelor of Arts",
+    "Bachelor of Science",
+    "Bachelor of Engineering",
+    "Bachelor of Applied Science",
+    "Master of Arts",
+    "Master of Science",
+    "Master of Engineering",
+    "Doctoral",
+    "Critical needs",
     "Broadening Participation In STEM",
+    "Institutions of Higher Education",
     "2-year institutions",
     "predominantly undergraduate institutions",
-    "urban, suburban, and rural public institutions",
-    "STEM Education",
-    "Institutions of Higher Education",
-    "Two- and four-year IHEs",
-    "community colleges",
-    "Inter-institutional Consortia",
-    "S-STEM eligible discipline",
-    "scholar mentors"
+    "urban, suburban, and rural public institutions"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
+        "tag": "community college STEM programs",
+        "source_text": "S-STEM program solicitation",
+        "confidence": 0.5404
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "S-STEM program solicitation",
+        "confidence": 0.5358
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "S-STEM program solicitation",
+        "confidence": 0.5283
+      },
+      {
+        "tag": "out-of-school STEM programs",
+        "source_text": "S-STEM program solicitation",
+        "confidence": 0.5125
+      },
+      {
         "tag": "after-school STEM programs",
-        "source_text": "NSF Scholarships in Science, Technology, Engineering, and Mathematics",
-        "confidence": 0.539
+        "source_text": "S-STEM program solicitation",
+        "confidence": 0.5116
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "S-STEM award",
+        "confidence": 0.5307
       },
       {
         "tag": "community college STEM programs",
-        "source_text": "NSF Scholarships in Science, Technology, Engineering, and Mathematics",
-        "confidence": 0.5242
+        "source_text": "S-STEM award",
+        "confidence": 0.5191
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "S-STEM award",
+        "confidence": 0.507
       },
       {
         "tag": "access to STEM opportunities",
-        "source_text": "NSF Scholarships in Science, Technology, Engineering, and Mathematics",
-        "confidence": 0.5207
+        "source_text": "S-STEM award",
+        "confidence": 0.5069
       },
       {
-        "tag": "out-of-school STEM programs",
-        "source_text": "NSF Scholarships in Science, Technology, Engineering, and Mathematics",
-        "confidence": 0.5136
+        "tag": "STEM equity and access",
+        "source_text": "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
+        "confidence": 0.5638
       },
       {
-        "tag": "K-12 STEM education",
-        "source_text": "NSF Scholarships in Science, Technology, Engineering, and Mathematics",
-        "confidence": 0.5136
+        "tag": "STEM career pathways",
+        "source_text": "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
+        "confidence": 0.542
+      },
+      {
+        "tag": "community college STEM programs",
+        "source_text": "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
+        "confidence": 0.5412
+      },
+      {
+        "tag": "access to STEM opportunities",
+        "source_text": "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
+        "confidence": 0.5364
+      },
+      {
+        "tag": "STEM teacher professional development",
+        "source_text": "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
+        "confidence": 0.5337
       },
       {
         "tag": "community-based STEM programs",
-        "source_text": "S-STEM program solicitation",
-        "confidence": 0.6643
+        "source_text": "S-STEM program team",
+        "confidence": 0.5687
+      },
+      {
+        "tag": "community college STEM programs",
+        "source_text": "S-STEM program team",
+        "confidence": 0.5668
       },
       {
         "tag": "after-school STEM programs",
-        "source_text": "S-STEM program solicitation",
-        "confidence": 0.6408
+        "source_text": "S-STEM program team",
+        "confidence": 0.5543
       },
       {
-        "tag": "access to STEM opportunities",
-        "source_text": "S-STEM program solicitation",
-        "confidence": 0.6322
+        "tag": "undergraduate STEM education",
+        "source_text": "S-STEM program team",
+        "confidence": 0.5485
       },
       {
-        "tag": "out-of-school STEM programs",
-        "source_text": "S-STEM program solicitation",
-        "confidence": 0.6313
+        "tag": "high school STEM education",
+        "source_text": "S-STEM program team",
+        "confidence": 0.5404
       },
       {
-        "tag": "K-12 STEM education",
-        "source_text": "S-STEM program solicitation",
-        "confidence": 0.6304
-      },
-      {
-        "tag": "after-school STEM programs",
-        "source_text": "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
-        "confidence": 0.5541
-      },
-      {
-        "tag": "out-of-school STEM programs",
-        "source_text": "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
-        "confidence": 0.5377
+        "tag": "community college STEM programs",
+        "source_text": "S-STEM Program",
+        "confidence": 0.6165
       },
       {
         "tag": "community-based STEM programs",
-        "source_text": "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
-        "confidence": 0.5374
+        "source_text": "S-STEM Program",
+        "confidence": 0.5881
       },
       {
-        "tag": "access to STEM opportunities",
-        "source_text": "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
-        "confidence": 0.5196
+        "tag": "after-school STEM programs",
+        "source_text": "S-STEM Program",
+        "confidence": 0.5813
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "S-STEM Program",
+        "confidence": 0.5769
+      },
+      {
+        "tag": "out-of-school STEM programs",
+        "source_text": "S-STEM Program",
+        "confidence": 0.5649
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "S-STEM eligible degree",
+        "confidence": 0.574
+      },
+      {
+        "tag": "community college STEM programs",
+        "source_text": "S-STEM eligible degree",
+        "confidence": 0.5625
+      },
+      {
+        "tag": "STEM career pathways",
+        "source_text": "S-STEM eligible degree",
+        "confidence": 0.5617
       },
       {
         "tag": "STEM education",
-        "source_text": "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
-        "confidence": 0.5172
+        "source_text": "S-STEM eligible degree",
+        "confidence": 0.5358
       },
       {
-        "tag": "community-based STEM programs",
-        "source_text": "S-STEM program team",
-        "confidence": 0.6736
+        "tag": "elementary STEM education",
+        "source_text": "S-STEM eligible degree",
+        "confidence": 0.5226
       },
       {
-        "tag": "after-school STEM programs",
-        "source_text": "S-STEM program team",
-        "confidence": 0.6341
+        "tag": "engineering education",
+        "source_text": "Associate of Engineering",
+        "confidence": 0.5782
       },
       {
-        "tag": "K-12 STEM education",
-        "source_text": "S-STEM program team",
-        "confidence": 0.6226
+        "tag": "engineering education",
+        "source_text": "Bachelor of Engineering",
+        "confidence": 0.6089
       },
       {
-        "tag": "middle school STEM education",
-        "source_text": "S-STEM program team",
-        "confidence": 0.616
-      },
-      {
-        "tag": "community college STEM programs",
-        "source_text": "S-STEM program team",
-        "confidence": 0.6118
-      },
-      {
-        "tag": "community-based STEM programs",
-        "source_text": "S-STEM program web page",
-        "confidence": 0.6778
-      },
-      {
-        "tag": "after-school STEM programs",
-        "source_text": "S-STEM program web page",
-        "confidence": 0.6504
-      },
-      {
-        "tag": "K-12 STEM education",
-        "source_text": "S-STEM program web page",
-        "confidence": 0.6379
-      },
-      {
-        "tag": "community college STEM programs",
-        "source_text": "S-STEM program web page",
-        "confidence": 0.6349
-      },
-      {
-        "tag": "out-of-school STEM programs",
-        "source_text": "S-STEM program web page",
-        "confidence": 0.6344
+        "tag": "engineering education",
+        "source_text": "Master of Engineering",
+        "confidence": 0.5867
       },
       {
         "tag": "broadening participation in STEM",
         "source_text": "Broadening Participation In STEM",
-        "confidence": 0.9398
+        "confidence": 0.9277
       },
       {
         "tag": "access to STEM opportunities",
         "source_text": "Broadening Participation In STEM",
-        "confidence": 0.7358
+        "confidence": 0.6821
       },
       {
-        "tag": "community-based STEM programs",
+        "tag": "undergraduate STEM education",
         "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6897
+        "confidence": 0.6455
       },
       {
         "tag": "underrepresented groups in STEM",
         "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6391
+        "confidence": 0.6454
       },
       {
-        "tag": "K-12 STEM education",
+        "tag": "community-based STEM programs",
         "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6375
+        "confidence": 0.6451
       },
       {
         "tag": "undergraduate STEM education",
         "source_text": "predominantly undergraduate institutions",
-        "confidence": 0.565
-      },
-      {
-        "tag": "undergraduate mentorship programs",
-        "source_text": "predominantly undergraduate institutions",
-        "confidence": 0.5396
-      },
-      {
-        "tag": "undergraduate research experiences",
-        "source_text": "predominantly undergraduate institutions",
-        "confidence": 0.5247
-      },
-      {
-        "tag": "STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.9678
-      },
-      {
-        "tag": "science education",
-        "source_text": "STEM Education",
-        "confidence": 0.7489
-      },
-      {
-        "tag": "elementary STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7304
-      },
-      {
-        "tag": "middle school STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7199
-      },
-      {
-        "tag": "K-12 STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7132
-      },
-      {
-        "tag": "education systems change",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.5044
-      },
-      {
-        "tag": "community college STEM programs",
-        "source_text": "community colleges",
-        "confidence": 0.6353
-      },
-      {
-        "tag": "K-12 STEM education",
-        "source_text": "S-STEM eligible discipline",
-        "confidence": 0.6541
-      },
-      {
-        "tag": "high school STEM education",
-        "source_text": "S-STEM eligible discipline",
-        "confidence": 0.6352
-      },
-      {
-        "tag": "access to STEM opportunities",
-        "source_text": "S-STEM eligible discipline",
-        "confidence": 0.6155
-      },
-      {
-        "tag": "middle school STEM education",
-        "source_text": "S-STEM eligible discipline",
-        "confidence": 0.6131
-      },
-      {
-        "tag": "STEM education",
-        "source_text": "S-STEM eligible discipline",
-        "confidence": 0.6131
-      },
-      {
-        "tag": "undergraduate mentorship programs",
-        "source_text": "scholar mentors",
-        "confidence": 0.6395
+        "confidence": 0.5267
       }
     ],
     "population_tags": [
       {
         "tag": "undergraduate students",
         "source_text": "predominantly undergraduate institutions",
-        "confidence": 0.6373
-      },
-      {
-        "tag": "community college students",
-        "source_text": "community colleges",
-        "confidence": 0.7811
+        "confidence": 0.6049
       }
     ],
     "org_type_tags": [
       {
+        "tag": "institution of higher education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.7813
+      },
+      {
         "tag": "two-year college",
         "source_text": "2-year institutions",
-        "confidence": 0.8114
-      },
-      {
-        "tag": "four-year university",
-        "source_text": "2-year institutions",
-        "confidence": 0.6098
-      },
-      {
-        "tag": "institution of higher education",
-        "source_text": "2-year institutions",
-        "confidence": 0.5266
+        "confidence": 0.7884
       },
       {
         "tag": "community college",
         "source_text": "2-year institutions",
-        "confidence": 0.5043
-      },
-      {
-        "tag": "institution of higher education",
-        "source_text": "predominantly undergraduate institutions",
-        "confidence": 0.5457
+        "confidence": 0.5591
       },
       {
         "tag": "minority-serving institution",
         "source_text": "predominantly undergraduate institutions",
-        "confidence": 0.5027
-      },
+        "confidence": 0.507
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
       {
-        "tag": "education service agency",
-        "source_text": "STEM Education",
-        "confidence": 0.5137
-      },
-      {
-        "tag": "institution of higher education",
+        "tag": "higher education institutions only",
         "source_text": "Institutions of Higher Education",
-        "confidence": 0.8326
-      },
-      {
-        "tag": "community college",
-        "source_text": "community colleges",
-        "confidence": 0.9117
-      },
-      {
-        "tag": "two-year college",
-        "source_text": "community colleges",
-        "confidence": 0.6058
-      },
-      {
-        "tag": "tribal college or university",
-        "source_text": "community colleges",
-        "confidence": 0.5029
+        "confidence": 0.7034
       }
-    ],
-    "geography_tags": [
-      {
-        "tag": "suburban communities",
-        "source_text": "urban, suburban, and rural public institutions",
-        "confidence": 0.5601
-      }
-    ],
-    "red_flag_tags": []
+    ]
   },
   "deadline": {
     "status": "unspecified",

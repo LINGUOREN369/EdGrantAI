@@ -2,7 +2,8 @@
 
 ## 0.0.4 - Minor adjustments to taxonomy thresholds to tailor towards NSF grants and remove underline issues
 - Adjusted mission, population, org types, geography, and red flags thresholds for improved accuracy
-- Fixed underline formatting issues in taxonomy files 
+- Fixed underline formatting issues in taxonomy files
+- Upgrade to embedding model to text-embedding-3-large for better semantic understanding
 
 ## 0.0.3 - Updated all taxonomy to better focus on the NSF grants
 - Refined mission, population, org types, geography, and red flags to align more closely with NSF grant criteria

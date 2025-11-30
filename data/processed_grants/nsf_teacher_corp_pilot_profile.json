@@ -1,217 +1,179 @@
 {
   "grant_id": "nsf_teacher_corp_pilot",
-  "created_at": "2025-11-29T21:35:59.125975-05:00",
+  "created_at": "2025-11-29T21:56:21.214907-05:00",
   "taxonomy_version": "0.0.4",
   "extracted_phrases": [
     "National STEM Teacher Corps Pilot Program",
-    "STEM teaching",
-    "National STEM Teacher Corps",
     "Regional Alliances",
-    "STEM teachers",
+    "National STEM Teacher Corps",
     "STEM Education",
+    "Cooperative Agreement",
     "Institutions of Higher Education",
     "two- and four-year IHEs",
-    "community colleges"
+    "community colleges",
+    "terminal degree in a STEM discipline",
+    "STEM Education"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "community-based STEM programs",
-        "source_text": "National STEM Teacher Corps Pilot Program",
-        "confidence": 0.6369
-      },
-      {
         "tag": "STEM teacher professional development",
         "source_text": "National STEM Teacher Corps Pilot Program",
-        "confidence": 0.6049
-      },
-      {
-        "tag": "community college STEM programs",
-        "source_text": "National STEM Teacher Corps Pilot Program",
-        "confidence": 0.5921
-      },
-      {
-        "tag": "K-12 STEM education",
-        "source_text": "National STEM Teacher Corps Pilot Program",
-        "confidence": 0.5847
-      },
-      {
-        "tag": "middle school STEM education",
-        "source_text": "National STEM Teacher Corps Pilot Program",
-        "confidence": 0.5685
-      },
-      {
-        "tag": "STEM education",
-        "source_text": "STEM teaching",
-        "confidence": 0.7968
-      },
-      {
-        "tag": "STEM teacher professional development",
-        "source_text": "STEM teaching",
-        "confidence": 0.7086
-      },
-      {
-        "tag": "elementary STEM education",
-        "source_text": "STEM teaching",
-        "confidence": 0.6458
-      },
-      {
-        "tag": "science education",
-        "source_text": "STEM teaching",
-        "confidence": 0.6414
-      },
-      {
-        "tag": "middle school STEM education",
-        "source_text": "STEM teaching",
-        "confidence": 0.6255
-      },
-      {
-        "tag": "community-based STEM programs",
-        "source_text": "National STEM Teacher Corps",
-        "confidence": 0.6288
-      },
-      {
-        "tag": "STEM teacher professional development",
-        "source_text": "National STEM Teacher Corps",
-        "confidence": 0.6125
-      },
-      {
-        "tag": "K-12 STEM education",
-        "source_text": "National STEM Teacher Corps",
-        "confidence": 0.6099
-      },
-      {
-        "tag": "out-of-school STEM programs",
-        "source_text": "National STEM Teacher Corps",
-        "confidence": 0.5818
-      },
-      {
-        "tag": "community college STEM programs",
-        "source_text": "National STEM Teacher Corps",
-        "confidence": 0.5809
-      },
-      {
-        "tag": "STEM teacher professional development",
-        "source_text": "STEM teachers",
-        "confidence": 0.7738
-      },
-      {
-        "tag": "STEM education",
-        "source_text": "STEM teachers",
-        "confidence": 0.7209
-      },
-      {
-        "tag": "elementary STEM education",
-        "source_text": "STEM teachers",
-        "confidence": 0.6004
-      },
-      {
-        "tag": "middle school STEM education",
-        "source_text": "STEM teachers",
-        "confidence": 0.591
+        "confidence": 0.6056,
+        "count": 1
       },
       {
         "tag": "high school STEM education",
-        "source_text": "STEM teachers",
-        "confidence": 0.5736
+        "source_text": "National STEM Teacher Corps Pilot Program",
+        "confidence": 0.5941,
+        "count": 1
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "National STEM Teacher Corps Pilot Program",
+        "confidence": 0.589,
+        "count": 1
+      },
+      {
+        "tag": "after-school STEM programs",
+        "source_text": "National STEM Teacher Corps Pilot Program",
+        "confidence": 0.5815,
+        "count": 1
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "National STEM Teacher Corps Pilot Program",
+        "confidence": 0.5785,
+        "count": 1
+      },
+      {
+        "tag": "STEM teacher professional development",
+        "source_text": "National STEM Teacher Corps",
+        "confidence": 0.6292,
+        "count": 1
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "National STEM Teacher Corps",
+        "confidence": 0.6211,
+        "count": 1
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "National STEM Teacher Corps",
+        "confidence": 0.6208,
+        "count": 1
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "National STEM Teacher Corps",
+        "confidence": 0.59,
+        "count": 1
+      },
+      {
+        "tag": "after-school STEM programs",
+        "source_text": "National STEM Teacher Corps",
+        "confidence": 0.5787,
+        "count": 1
       },
       {
         "tag": "STEM education",
         "source_text": "STEM Education",
-        "confidence": 0.9678
-      },
-      {
-        "tag": "science education",
-        "source_text": "STEM Education",
-        "confidence": 0.7489
-      },
-      {
-        "tag": "elementary STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7305
-      },
-      {
-        "tag": "middle school STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7199
+        "confidence": 0.9584,
+        "count": 2
       },
       {
         "tag": "K-12 STEM education",
         "source_text": "STEM Education",
-        "confidence": 0.7132
+        "confidence": 0.7264,
+        "count": 2
       },
       {
-        "tag": "education systems change",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.5044
+        "tag": "high school STEM education",
+        "source_text": "STEM Education",
+        "confidence": 0.7169,
+        "count": 2
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "STEM Education",
+        "confidence": 0.7157,
+        "count": 2
+      },
+      {
+        "tag": "science education",
+        "source_text": "STEM Education",
+        "confidence": 0.708,
+        "count": 2
       },
       {
         "tag": "community college STEM programs",
         "source_text": "community colleges",
-        "confidence": 0.6353
+        "confidence": 0.6497,
+        "count": 1
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "terminal degree in a STEM discipline",
+        "confidence": 0.5381,
+        "count": 1
       }
     ],
     "population_tags": [
       {
-        "tag": "K-12 teachers",
-        "source_text": "STEM teachers",
-        "confidence": 0.6849
-      },
-      {
-        "tag": "in-service teachers",
-        "source_text": "STEM teachers",
-        "confidence": 0.6487
-      },
-      {
-        "tag": "pre-service teachers",
-        "source_text": "STEM teachers",
-        "confidence": 0.643
-      },
-      {
         "tag": "community college students",
         "source_text": "community colleges",
-        "confidence": 0.7811
+        "confidence": 0.7653,
+        "count": 1
       }
     ],
     "org_type_tags": [
       {
-        "tag": "education service agency",
-        "source_text": "STEM Education",
-        "confidence": 0.5137
+        "tag": "institution of higher education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.7813,
+        "count": 1
       },
       {
         "tag": "institution of higher education",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.8326
+        "source_text": "two- and four-year IHEs",
+        "confidence": 0.5707,
+        "count": 1
       },
       {
         "tag": "two-year college",
         "source_text": "two- and four-year IHEs",
-        "confidence": 0.5303
+        "confidence": 0.5555,
+        "count": 1
       },
       {
         "tag": "four-year university",
         "source_text": "two- and four-year IHEs",
-        "confidence": 0.5132
+        "confidence": 0.555,
+        "count": 1
       },
       {
         "tag": "community college",
         "source_text": "community colleges",
-        "confidence": 0.9117
+        "confidence": 0.8862,
+        "count": 1
       },
       {
         "tag": "two-year college",
         "source_text": "community colleges",
-        "confidence": 0.6058
-      },
-      {
-        "tag": "tribal college or university",
-        "source_text": "community colleges",
-        "confidence": 0.5029
+        "confidence": 0.674,
+        "count": 1
       }
     ],
     "geography_tags": [],
-    "red_flag_tags": []
+    "red_flag_tags": [
+      {
+        "tag": "higher education institutions only",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.7034,
+        "count": 1
+      }
+    ]
   },
   "deadline": {
     "status": "unspecified",

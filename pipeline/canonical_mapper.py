@@ -93,7 +93,6 @@ def map_phrases_to_canonical(
         top_k = settings.TOP_K
 
     for phrase in extracted_phrases:
-        # Get top-k candidates and keep those above the threshold
         candidates = top_k_matches(phrase, taxonomy_embeddings, k=top_k)
         for tag, score in candidates:
             if score >= similarity_threshold:
