@@ -138,7 +138,9 @@ EdGrantAI/
 │
 ├── data/
 │   ├── grants/
+│   ├── orgs/
 │   ├── processed_grants/
+│   ├── processed_orgs/
 │   └── taxonomy/
 │       ├── mission_tags.json
 │       ├── population_tags.json
@@ -169,6 +171,7 @@ EdGrantAI/
 │   ├── canonical_mapper.py
 │   ├── embedding_matcher.py
 │   ├── grant_profile_builder.py
+│   ├── org_profile_builder.py
 │   └── build_taxonomy_embeddings.py
 │
 └── prompts/
@@ -224,6 +227,10 @@ Use the provided Make targets to keep taxonomies in sync:
   - `make validate-taxonomy`
 - Rebuild then validate in one go:
   - `make taxonomy-refresh`
+
+- Process all profiles from text files:
+  - Grants: `make grants-all` (reads from `data/grants`, writes to `data/processed_grants`)
+  - Orgs: `make orgs-all` (reads from `data/orgs`, writes to `data/processed_orgs`)
 
 These commands assume `.env` contains `OPENAI_API_KEY` (auto‑loaded by the pipeline).
 

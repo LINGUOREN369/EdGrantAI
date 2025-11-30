@@ -22,6 +22,8 @@ __all__ = [
     "map_all_taxonomies",
     "build_grant_profile",
     "process_grant",
+    "build_org_profile",
+    "process_org",
 ]
 
 
@@ -35,4 +37,7 @@ def __getattr__(name):  # PEP 562: lazy attribute access
     if name in ("build_grant_profile", "process_grant"):
         from .grant_profile_builder import build_grant_profile as _b, process_grant as _p
         return {"build_grant_profile": _b, "process_grant": _p}[name]
+    if name in ("build_org_profile", "process_org"):
+        from .org_profile_builder import build_org_profile as _ob, process_org as _op
+        return {"build_org_profile": _ob, "process_org": _op}[name]
     raise AttributeError(f"module 'pipeline' has no attribute {name!r}")
