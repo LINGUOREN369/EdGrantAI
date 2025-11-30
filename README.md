@@ -232,6 +232,10 @@ Use the provided Make targets to keep taxonomies in sync:
   - Grants: `make grants-all` (reads from `data/grants`, writes to `data/processed_grants`)
   - Orgs: `make orgs-all` (reads from `data/orgs`, writes to `data/processed_orgs`)
 
+- Matching engine (rank grants for org profiles):
+  - One org: `make recs ORG=data/processed_orgs/<org>_profile.json [TOP=10] [GRANTS_DIR=data/processed_grants] [OUT=reports/<org>_recommendations.json]`
+  - All orgs: `make recs-all` (reads from `data/processed_orgs`, writes JSON files to `reports/`)
+
 These commands assume `.env` contains `OPENAI_API_KEY` (auto‑loaded by the pipeline).
 
 ---

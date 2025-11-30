@@ -1,0 +1,90 @@
+PhET — Organizational Information & Grant Purpose (Grant Application Case)
+
+Organization Overview
+
+PhET Interactive Simulations is a globally recognized education nonprofit based at the University of Colorado Boulder. PhET designs, develops, and researches interactive science and mathematics simulations that promote active, inquiry-based learning in K–12 and higher education classrooms. All PhET simulations are free, research-based, and used by millions of educators and learners worldwide.
+
+Our work is grounded in learning sciences research. Each simulation undergoes iterative design informed by:
+	•	4–6 “think-aloud” student interviews per simulation
+	•	Empirical studies on how students explore, construct meaning, and apply analogies
+	•	Research on conceptual understanding, classroom norms, and representational scaffolds
+
+PhET’s design approach is summarized in peer-reviewed papers (e.g., Adams et al., 2008) and has become a model for effective STEM learning tools across the world.
+
+Mission
+
+PhET’s mission is to advance STEM literacy by providing free, high-quality, research-based learning tools that enable all students—regardless of background, geography, or resources—to engage deeply with core scientific and mathematical concepts.
+
+Core Activities
+
+PhET’s work includes:
+	•	Designing new interactive simulations in physics, chemistry, biology, mathematics, and earth science
+	•	Conducting research on student learning, conceptual change, and interface design
+	•	Supporting teachers through curriculum integration, workshops, and open-access teaching resources
+	•	Ensuring accessibility for underserved classrooms globally
+
+⸻
+
+Purpose of Applying for the Grant
+
+PhET is applying for this grant to accelerate the development, research, and classroom integration of next-generation STEM simulations, with a particular focus on improving access and engagement for underserved and under-resourced learning environments.
+
+Specific Needs & Goals
+
+1. Expand Research-Driven Simulation Development
+
+To continue creating impactful tools, PhET must fund:
+	•	New simulations in emerging STEM domains
+	•	More student interviews and classroom studies to refine design principles
+	•	Research exploring how analogy, representation, and interactivity support conceptual understanding
+
+This grant would directly support new content creation and the research pipeline that makes PhET’s tools uniquely effective.
+
+⸻
+
+2. Improve Equitable Access to High-Quality STEM Resources
+
+Many classrooms—especially those in low-income districts—lack lab equipment or updated curricula. PhET simulations can fill that gap at zero cost to teachers and students. Funding would support:
+	•	Localization and translation
+	•	Teacher-facing resources
+	•	Accessibility enhancements (screen readers, input alternatives)
+
+⸻
+
+3. Integrate Simulations into Homework and Remote Learning
+
+Research shows students rarely explore simulations independently unless homework or grade motivation is present. We aim to:
+	•	Build homework systems and structured learning pathways
+	•	Integrate real-time feedback and guided inquiry
+	•	Support teachers in adopting sims in blended and remote formats
+
+This area is underfunded but critical, especially post-COVID.
+
+⸻
+
+4. Advance Research on Chemistry and Upper-Level STEM Simulations
+
+PhET has recently begun studying the effectiveness of chemistry simulations. Continued progress requires:
+	•	Funding for domain experts
+	•	Data collection in diverse classrooms
+	•	Model validation and iterative design cycles
+
+⸻
+
+5. Disseminate Findings and Build Educator Capacity
+
+To scale impact, PhET must share research and best practices on integrating simulations into:
+	•	Lectures
+	•	Labs
+	•	Classroom activities
+	•	Homework
+
+Grant support allows PhET to run PD workshops, publish open research, and create free curricular materials.
+
+⸻
+
+Summary Statement for the Grant Application
+
+PhET is seeking grant support to expand its research-driven STEM simulations, deepen its impact in underserved communities, and accelerate the development of accessible, high-quality learning tools that transform how students engage with science and mathematics worldwide.
+
+The funding will ensure that millions of learners—regardless of socioeconomic barriers—have access to engaging, research-validated STEM learning experiences.

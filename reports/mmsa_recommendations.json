@@ -1,0 +1,138 @@
+{
+  "org_profile": "mmsa_profile.json",
+  "recommendations": [
+    {
+      "grant_profile": "nsf_AISL_profile.json",
+      "score": 0.3,
+      "bucket": "Avoid",
+      "deadlines": [
+        "2025-01-08"
+      ],
+      "deadline_status": "date",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['K-12 STEM education', 'STEM education', 'STEM equity and access', 'access to STEM opportunities', 'community-based STEM programs', 'elementary STEM education', 'high school STEM education', 'informal STEM learning', 'middle school STEM education', 'research-based learning', 'research-practice partnerships', 'science education']"
+      ]
+    },
+    {
+      "grant_profile": "nsf_edu_core_research_profile.json",
+      "score": 0.3,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['K-12 STEM education', 'STEM education', 'STEM teacher professional development', 'access to STEM opportunities', 'community-based STEM programs', 'education research', 'elementary STEM education', 'high school STEM education', 'informal STEM learning', 'middle school STEM education', 'science education', 'workforce development']"
+      ]
+    },
+    {
+      "grant_profile": "nsf_k12_ai_support_profile.json",
+      "score": 0.3,
+      "bucket": "Avoid",
+      "deadlines": [
+        "2025-11-07"
+      ],
+      "deadline_status": "date",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['K-12 STEM education', 'STEM education', 'community-based STEM programs', 'education improvement', 'education research', 'elementary STEM education', 'evaluation and assessment', 'high school STEM education', 'informal STEM learning', 'research-based learning', 'research-practice partnerships', 'science education']"
+      ]
+    },
+    {
+      "grant_profile": "nsf_scholarship_STEM_profile.json",
+      "score": 0.149,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['STEM education', 'STEM equity and access', 'STEM teacher professional development', 'access to STEM opportunities', 'community-based STEM programs', 'elementary STEM education', 'high school STEM education']",
+        "Red flags: ['higher education institutions only']"
+      ]
+    },
+    {
+      "grant_profile": "nsf_teacher_corp_pilot_profile.json",
+      "score": 0.149,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['K-12 STEM education', 'STEM education', 'STEM teacher professional development', 'community-based STEM programs', 'elementary STEM education', 'high school STEM education', 'science education']",
+        "Red flags: ['higher education institutions only']"
+      ]
+    },
+    {
+      "grant_profile": "nsf_ATE_profile.json",
+      "score": 0.075,
+      "bucket": "Avoid",
+      "deadlines": [
+        "2024-10-03"
+      ],
+      "deadline_status": "date",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['STEM education', 'STEM teacher professional development', 'high school STEM education']"
+      ]
+    },
+    {
+      "grant_profile": "nsf_faculty_suport_profile.json",
+      "score": 0.064,
+      "bucket": "Avoid",
+      "deadlines": [
+        "2022-07-27"
+      ],
+      "deadline_status": "date",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['education research', 'research-based learning', 'science education']",
+        "Red flags: ['higher education institutions only']"
+      ]
+    },
+    {
+      "grant_profile": "nsf_cs_profile.json",
+      "score": 0.043,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['K-12 STEM education', 'curriculum development']",
+        "Red flags: ['higher education institutions only']"
+      ]
+    },
+    {
+      "grant_profile": "nsf_pathway_profile.json",
+      "score": 0.025,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['high school STEM education']"
+      ]
+    },
+    {
+      "grant_profile": "nsf_REU_profile.json",
+      "score": 0.0,
+      "bucket": "Avoid",
+      "deadlines": [
+        "2023-09-27",
+        "2024-08-21"
+      ],
+      "deadline_status": "multiple",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": []
+    }
+  ]
+}

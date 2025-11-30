@@ -1,21 +1,20 @@
 {
   "org_id": "mmsa",
-  "created_at": "2025-11-29T22:20:00.617111-05:00",
+  "created_at": "2025-11-29T22:42:14.036239-05:00",
   "taxonomy_version": "0.0.4",
   "extracted_phrases": [
     "Maine Math & Science Alliance",
     "STEM education",
     "Professional Development",
-    "STEM professional development experiences",
+    "high-quality STEM professional development experiences",
     "Research and Evaluation",
     "STEM learning experiences",
     "Relationship and Network Building",
-    "partnerships",
-    "networks",
     "systemic statewide and nationwide improvement",
+    "support from the National Science Foundation",
     "current grant-funded projects",
-    "commitment to Accessibility and Equity",
-    "diversity, equity, and inclusion"
+    "commitment to accessibility and equity",
+    "advancing diversity, equity, and inclusion"
   ],
   "canonical_tags": {
     "mission_tags": [
@@ -71,28 +70,28 @@
       },
       {
         "tag": "STEM teacher professional development",
-        "source_text": "STEM professional development experiences",
-        "confidence": 0.8553
-      },
-      {
-        "tag": "STEM education",
-        "source_text": "STEM professional development experiences",
-        "confidence": 0.6816
-      },
-      {
-        "tag": "STEM career pathways",
-        "source_text": "STEM professional development experiences",
-        "confidence": 0.6808
+        "source_text": "high-quality STEM professional development experiences",
+        "confidence": 0.7819
       },
       {
         "tag": "high school STEM education",
-        "source_text": "STEM professional development experiences",
-        "confidence": 0.6799
+        "source_text": "high-quality STEM professional development experiences",
+        "confidence": 0.6928
       },
       {
-        "tag": "elementary STEM education",
-        "source_text": "STEM professional development experiences",
-        "confidence": 0.6549
+        "tag": "teacher professional development",
+        "source_text": "high-quality STEM professional development experiences",
+        "confidence": 0.6597
+      },
+      {
+        "tag": "access to STEM opportunities",
+        "source_text": "high-quality STEM professional development experiences",
+        "confidence": 0.659
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "high-quality STEM professional development experiences",
+        "confidence": 0.6487
       },
       {
         "tag": "evaluation and assessment",
@@ -122,7 +121,7 @@
       {
         "tag": "informal STEM learning",
         "source_text": "STEM learning experiences",
-        "confidence": 0.7215
+        "confidence": 0.7214
       },
       {
         "tag": "high school STEM education",
@@ -132,12 +131,12 @@
       {
         "tag": "middle school STEM education",
         "source_text": "STEM learning experiences",
-        "confidence": 0.704
+        "confidence": 0.7039
       },
       {
         "tag": "STEM teacher professional development",
         "source_text": "STEM learning experiences",
-        "confidence": 0.6935
+        "confidence": 0.6934
       },
       {
         "tag": "education improvement",
@@ -146,18 +145,18 @@
       },
       {
         "tag": "education equity and access",
-        "source_text": "commitment to Accessibility and Equity",
-        "confidence": 0.6906
+        "source_text": "commitment to accessibility and equity",
+        "confidence": 0.688
       },
       {
         "tag": "STEM equity and access",
-        "source_text": "commitment to Accessibility and Equity",
-        "confidence": 0.5938
+        "source_text": "commitment to accessibility and equity",
+        "confidence": 0.5742
       },
       {
         "tag": "education equity and access",
-        "source_text": "diversity, equity, and inclusion",
-        "confidence": 0.5061
+        "source_text": "advancing diversity, equity, and inclusion",
+        "confidence": 0.5184
       }
     ],
     "population_tags": [],

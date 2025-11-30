@@ -114,6 +114,28 @@ class Settings:
         # Override via TIMEZONE (e.g., "America/New_York")
         self.TIMEZONE: str = os.getenv("TIMEZONE", "America/New_York")
 
+        # Matching engine (org ↔ grant) parameters
+        # Weights sum is not required to be 1.0; they are applied directly
+        def _fw(name: str, default: str) -> float:
+            try:
+                return float(os.getenv(name, default))
+            except ValueError:
+                return float(default)
+
+        self.MATCH_WEIGHTS = {
+            # Overlap ratios computed on org-side tag sets
+            "mission_tags": _fw("MATCH_W_MISSION", "0.50"),
+            "population_tags": _fw("MATCH_W_POPULATION", "0.40"),
+            "geography_tags": _fw("MATCH_W_GEOGRAPHY", "0.10"),
+            # Org-type treated as eligibility-like (0 or 1)
+            "org_type_tags": _fw("MATCH_W_ORG_TYPE", "0.40"),
+        }
+        # Buckets for Apply/Maybe/Avoid
+        self.MATCH_APPLY_THRESHOLD = _fw("MATCH_APPLY_THRESHOLD", "0.60")
+        self.MATCH_MAYBE_THRESHOLD = _fw("MATCH_MAYBE_THRESHOLD", "0.40")
+        # Penalty multiplier when any red flag present
+        self.MATCH_RED_FLAG_PENALTY = _fw("MATCH_RED_FLAG_PENALTY", "0.85")
+
 
 # Singleton settings instance
 settings = Settings()

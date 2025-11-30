@@ -1,0 +1,163 @@
+{
+  "org_id": "phet",
+  "created_at": "2025-11-29T22:42:38.913778-05:00",
+  "taxonomy_version": "0.0.4",
+  "extracted_phrases": [
+    "PhET Interactive Simulations",
+    "education nonprofit",
+    "K\u201312 and higher education classrooms",
+    "free, research-based learning tools",
+    "underserved classrooms",
+    "low-income districts",
+    "teacher-facing resources",
+    "Homework and Remote Learning",
+    "chemistry simulations",
+    "PD workshops",
+    "high-quality STEM resources",
+    "curriculum integration",
+    "structured learning pathways",
+    "diverse classrooms",
+    "classroom activities",
+    "open research",
+    "free curricular materials"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "education improvement",
+        "source_text": "education nonprofit",
+        "confidence": 0.5826
+      },
+      {
+        "tag": "education research",
+        "source_text": "education nonprofit",
+        "confidence": 0.5045
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "K\u201312 and higher education classrooms",
+        "confidence": 0.6566
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "K\u201312 and higher education classrooms",
+        "confidence": 0.5109
+      },
+      {
+        "tag": "research-based learning",
+        "source_text": "free, research-based learning tools",
+        "confidence": 0.6144
+      },
+      {
+        "tag": "education research",
+        "source_text": "free, research-based learning tools",
+        "confidence": 0.5039
+      },
+      {
+        "tag": "teacher professional development",
+        "source_text": "teacher-facing resources",
+        "confidence": 0.5236
+      },
+      {
+        "tag": "teacher professional development",
+        "source_text": "PD workshops",
+        "confidence": 0.5424
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "high-quality STEM resources",
+        "confidence": 0.7199
+      },
+      {
+        "tag": "access to STEM opportunities",
+        "source_text": "high-quality STEM resources",
+        "confidence": 0.6975
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "high-quality STEM resources",
+        "confidence": 0.6817
+      },
+      {
+        "tag": "middle school STEM education",
+        "source_text": "high-quality STEM resources",
+        "confidence": 0.6657
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "high-quality STEM resources",
+        "confidence": 0.6582
+      },
+      {
+        "tag": "curriculum development",
+        "source_text": "curriculum integration",
+        "confidence": 0.6201
+      },
+      {
+        "tag": "instructional innovation",
+        "source_text": "curriculum integration",
+        "confidence": 0.5274
+      },
+      {
+        "tag": "STEM career pathways",
+        "source_text": "structured learning pathways",
+        "confidence": 0.5397
+      },
+      {
+        "tag": "informal learning environments",
+        "source_text": "structured learning pathways",
+        "confidence": 0.5121
+      },
+      {
+        "tag": "education research",
+        "source_text": "open research",
+        "confidence": 0.5168
+      },
+      {
+        "tag": "curriculum development",
+        "source_text": "free curricular materials",
+        "confidence": 0.5457
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K\u201312 and higher education classrooms",
+        "confidence": 0.7148
+      },
+      {
+        "tag": "low-income students",
+        "source_text": "low-income districts",
+        "confidence": 0.7432
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "nonprofit organization",
+        "source_text": "education nonprofit",
+        "confidence": 0.61
+      },
+      {
+        "tag": "501(c)(3) nonprofit",
+        "source_text": "education nonprofit",
+        "confidence": 0.528
+      },
+      {
+        "tag": "youth development organization",
+        "source_text": "education nonprofit",
+        "confidence": 0.51
+      },
+      {
+        "tag": "public school district",
+        "source_text": "low-income districts",
+        "confidence": 0.5366
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/orgs/phet.txt",
+    "url": null
+  }
+}
