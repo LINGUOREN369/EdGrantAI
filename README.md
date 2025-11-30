@@ -213,6 +213,21 @@ Centralized configuration lives in `pipeline/config.py` and auto-loads `.env` va
 
 ---
 
+## Makefile Shortcuts
+
+Use the provided Make targets to keep taxonomies in sync:
+
+- Rebuild embeddings for all taxonomies (force):
+  - `make rebuild-taxonomy`
+- Validate taxonomy lists vs. embeddings (strict):
+  - `make validate-taxonomy`
+- Rebuild then validate in one go:
+  - `make taxonomy-refresh`
+
+These commands assume `.env` contains `OPENAI_API_KEY` (auto‑loaded by the pipeline).
+
+---
+
 ## Data Design
 
 Grant JSON Structure

@@ -27,5 +27,15 @@
 
   "education_equity_and_access",
   "college_access_and_success",
-  "early_childhood_education"
+  "early_childhood_education",
+
+  "informal_stem_learning",
+  "undergraduate_research_experiences",
+  "broadening_participation_in_stem",
+  "computing_education",
+  "data_science_education",
+  "ai_education",
+  "aisl_informal_stem",
+  "reu_undergraduate_research",
+  "education_research_core"
 ]

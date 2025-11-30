@@ -10,6 +10,10 @@
 
   "higher_education_institution",
   "community_college",
+  "four_year_university",
+  "minority_serving_institution_msi",
+  "historically_black_college_university_hbcu",
+  "tribal_college_university_tcu",
 
   "government_agency_local",
   "government_agency_state",

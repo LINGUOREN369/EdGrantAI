@@ -14,11 +14,18 @@
   "schools_only",
   "higher_education_only",
   "nonprofits_only",
+  "university_lead_required",
 
   "restrictive_eligibility",
   "limited_geography",
   "us_only_eligibility",
   "state_residency_requirement",
+  "institutional_submission_limit",
+  "rpp_required",
+  "preproposal_required",
+  "letter_of_intent_required",
+  "irb_required",
+  "data_management_plan_required",
 
   "high_reporting_burden",
   "excessive_evaluation_requirements",

@@ -4,6 +4,9 @@
   "middle_school_6_8_students",
   "high_school_9_12_students",
   "postsecondary_students",
+  "undergraduate_students",
+  "graduate_students",
+  "community_college_students",
   "adult_learners",
   "opportunity_youth_16_24",
 
@@ -26,5 +29,10 @@
 
   "rural_students",
   "urban_students",
-  "suburban_students"
+  "suburban_students",
+
+  "k_12_teachers",
+  "pre_service_teachers",
+  "in_service_teachers",
+  "postdoctoral_researchers"
 ]
