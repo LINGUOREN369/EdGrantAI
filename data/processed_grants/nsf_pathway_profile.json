@@ -1,176 +1,18 @@
 {
   "grant_id": "nsf_pathway",
-  "created_at": "2025-11-30T17:22:23.238098-05:00",
-  "taxonomy_version": "0.0.4",
+  "created_at": "2025-12-03T15:28:51.852685-05:00",
+  "taxonomy_version": "0.0.5",
   "extracted_phrases": [
     "Pathways Internship Program",
-    "current students",
-    "high school",
-    "college",
-    "graduate school",
-    "qualifying career or technical education program",
     "Registered Apprenticeship Programs",
     "Job Corps",
     "AmeriCorps",
-    "Peace Corps",
-    "federal agencies",
-    "paid",
-    "valuable work experience",
-    "full-time position",
-    "part-time",
-    "full-time",
-    "academic or career goals",
-    "field of study",
-    "agreement",
-    "part-time in school",
-    "qualifying career or technical educational program",
-    "Pathways Programs for students"
+    "Peace Corps"
   ],
   "canonical_tags": {
-    "mission_tags": [
-      {
-        "tag": "high school STEM education",
-        "source_text": "high school",
-        "confidence": 0.5827,
-        "sources": [
-          "high school"
-        ]
-      },
-      {
-        "tag": "STEM career pathways",
-        "source_text": "Pathways Programs for students",
-        "confidence": 0.558,
-        "sources": [
-          "Pathways Programs for students"
-        ]
-      },
-      {
-        "tag": "community college STEM programs",
-        "source_text": "Pathways Programs for students",
-        "confidence": 0.5047,
-        "sources": [
-          "Pathways Programs for students"
-        ]
-      },
-      {
-        "tag": "undergraduate mentorship programs",
-        "source_text": "Pathways Programs for students",
-        "confidence": 0.5044,
-        "sources": [
-          "Pathways Programs for students"
-        ]
-      }
-    ],
-    "population_tags": [
-      {
-        "tag": "high school students",
-        "source_text": "high school",
-        "confidence": 0.7306,
-        "sources": [
-          "current students",
-          "high school"
-        ]
-      },
-      {
-        "tag": "graduate students",
-        "source_text": "graduate school",
-        "confidence": 0.7085,
-        "sources": [
-          "current students",
-          "graduate school"
-        ]
-      },
-      {
-        "tag": "undergraduate students",
-        "source_text": "current students",
-        "confidence": 0.7073,
-        "sources": [
-          "current students"
-        ]
-      },
-      {
-        "tag": "postsecondary students",
-        "source_text": "current students",
-        "confidence": 0.6298,
-        "sources": [
-          "current students"
-        ]
-      },
-      {
-        "tag": "grades 9-12 students",
-        "source_text": "high school",
-        "confidence": 0.605,
-        "sources": [
-          "high school"
-        ]
-      }
-    ],
-    "org_type_tags": [
-      {
-        "tag": "public school",
-        "source_text": "high school",
-        "confidence": 0.6985,
-        "sources": [
-          "high school"
-        ]
-      },
-      {
-        "tag": "private school",
-        "source_text": "high school",
-        "confidence": 0.6073,
-        "sources": [
-          "high school"
-        ]
-      },
-      {
-        "tag": "state government agency",
-        "source_text": "federal agencies",
-        "confidence": 0.5635,
-        "sources": [
-          "federal agencies"
-        ]
-      },
-      {
-        "tag": "community college",
-        "source_text": "college",
-        "confidence": 0.5399,
-        "sources": [
-          "college"
-        ]
-      },
-      {
-        "tag": "four-year university",
-        "source_text": "college",
-        "confidence": 0.5298,
-        "sources": [
-          "college"
-        ]
-      },
-      {
-        "tag": "institution of higher education",
-        "source_text": "college",
-        "confidence": 0.5228,
-        "sources": [
-          "college"
-        ]
-      },
-      {
-        "tag": "public school district",
-        "source_text": "high school",
-        "confidence": 0.5206,
-        "sources": [
-          "high school"
-        ]
-      },
-      {
-        "tag": "local government agency",
-        "source_text": "federal agencies",
-        "confidence": 0.5007,
-        "sources": [
-          "federal agencies"
-        ]
-      }
-    ],
+    "mission_tags": [],
+    "population_tags": [],
+    "org_type_tags": [],
     "geography_tags": [],
     "red_flag_tags": []
   },

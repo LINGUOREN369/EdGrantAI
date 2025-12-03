@@ -38,9 +38,13 @@ class Settings:
         # Filesystem roots
         self.REPO_ROOT: Path = _repo_root()
 
-        # Prompts
+        # Prompts (NSF default; simplified)
         self.PROMPTS_DIR: Path = _env_path("PROMPTS_DIR", self.REPO_ROOT / "prompts")
-        self.CKE_PROMPT_PATH: Path = _env_path("CKE_PROMPT_PATH", self.PROMPTS_DIR / "cke_prompt_v1.txt")
+        self.CKE_PROMPT_PATH: Path = self.PROMPTS_DIR / "cke_prompt_nsf_v1.txt"
+        self.MATCHING_EXPLAINER_PROMPT_PATH: Path = _env_path(
+            "MATCHING_EXPLAINER_PROMPT_PATH",
+            self.PROMPTS_DIR / "matching_explainer_prompt_v1.txt",
+        )
 
         # Taxonomy
         self.TAXONOMY_DIR: Path = _env_path("TAXONOMY_DIR", self.REPO_ROOT / "data" / "taxonomy")

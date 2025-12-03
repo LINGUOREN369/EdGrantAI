@@ -1,5 +1,14 @@
 # Taxonomy Changelog
 
+## 0.0.5 - NSF-focused additions and variants
+- Added org types to better reflect NSF collaborator/eligibility language:
+  - "local education agency (LEA)", "national laboratory", "industry partner", "international organization", "small business concern"
+- Added red-flag/requirement variants commonly seen in NSF solicitations:
+  - "data management and sharing plan", "postdoctoral mentoring plan", "letters of collaboration", "human subjects protections", "industry partner required", "multi-institutional collaboration required"
+- Added mission refinements to capture NSF-EHR phrasing:
+  - "computing education research", "learning technologies", "STEM pathways"
+- No removals; semantic embeddings should be rebuilt and validated.
+
 ## 0.0.4 - Minor adjustments to taxonomy thresholds to tailor towards NSF grants and remove underline issues
 - Adjusted mission, population, org types, geography, and red flags thresholds for improved accuracy
 - Fixed underline formatting issues in taxonomy files

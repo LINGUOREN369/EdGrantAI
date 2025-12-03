@@ -209,7 +209,8 @@ Centralized configuration lives in `pipeline/config.py` and auto-loads `.env` va
 
 - Key paths (override via environment if desired):
   - `PROMPTS_DIR` (default: `prompts/`)
-  - `CKE_PROMPT_PATH` (default: `prompts/cke_prompt_v1.txt`)
+  - CKE prompt: fixed to `prompts/cke_prompt_nsf_v1.txt`
+  - `MATCHING_EXPLAINER_PROMPT_PATH` (default: `prompts/matching_explainer_prompt_v1.txt`)
   - `TAXONOMY_DIR` (default: `data/taxonomy/`)
   - `TAXONOMY_EMBEDDINGS_DIR` (default: `data/taxonomy/embeddings/`)
   - `SCHEMA_VERSION_PATH` (default: `data/taxonomy/schema_version.json`)
@@ -233,6 +234,10 @@ Centralized configuration lives in `pipeline/config.py` and auto-loads `.env` va
   - `TIMEZONE` (default: `America/New_York` for `created_at` timestamps)
   - `TOP1_TAXONOMIES` (comma‑sep; default: empty) — only the best tag per phrase is kept for listed taxonomies.
 
+NSF-specific prompt
+- The Controlled Keyphrase Extractor uses the NSF‑focused prompt at `prompts/cke_prompt_nsf_v1.txt`.
+- No configuration is required.
+
 ---
 
 ## Makefile Shortcuts
@@ -246,6 +251,12 @@ Use the provided Make targets to keep taxonomies in sync:
 - Rebuild then validate in one go:
   - `make taxonomy-refresh`
 
+Quick embeddings rebuild checklist
+- Rebuild taxonomy embeddings:
+  - `make rebuild-taxonomy`
+- Validate embeddings vs. taxonomy lists:
+  - `make validate-taxonomy`
+
 - Process all profiles from text files:
   - Grants: `make grants-all` (reads from `data/grants`, writes to `data/processed_grants`)
   - Orgs: `make orgs-all` (reads from `data/orgs`, writes to `data/processed_orgs`)
@@ -253,6 +264,9 @@ Use the provided Make targets to keep taxonomies in sync:
 - Matching engine (rank grants for org profiles):
   - One org: `make recs ORG=data/processed_orgs/<org>_profile.json [TOP=10] [GRANTS_DIR=data/processed_grants] [OUT=reports/<org>_recommendations.json]`
   - All orgs: `make recs-all` (reads from `data/processed_orgs`, writes JSON files to `reports/`)
+
+Notes
+- `make recs` includes an LLM-generated explanation per grant with a one-line recommendation and up to 5 bullets under `explanation` in the JSON output.
 
 These commands assume `.env` contains `OPENAI_API_KEY` (auto‑loaded by the pipeline).
 

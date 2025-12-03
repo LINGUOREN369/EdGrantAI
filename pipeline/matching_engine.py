@@ -38,9 +38,77 @@ from __future__ import annotations
 import argparse
 import json
 from pathlib import Path
-from typing import Dict, Iterable, List, Set, Tuple
+from typing import Dict, Iterable, List, Set, Tuple, Optional
 
 from .config import settings
+
+def _load_text(path: Path) -> str:
+    with open(path, "r", encoding="utf-8") as f:
+        return f.read()
+
+def _generate_explanation(
+    org: Dict,
+    grant: Dict,
+    overlap: Dict[str, List[str]],
+) -> Optional[Dict]:
+    """
+    Generate an Apply/Maybe/Avoid explanation via the matching explainer prompt.
+    Returns a dict with keys {recommendation, bullets} or None on failure.
+    """
+    try:
+        from openai import OpenAI
+    except Exception:
+        return None
+
+    prompt = _load_text(settings.MATCHING_EXPLAINER_PROMPT_PATH)
+
+    payload = {
+        "org": {
+            "id": org.get("org_id"),
+            "mission_tags": sorted({d.get("tag") for d in org.get("canonical_tags", {}).get("mission_tags", []) if isinstance(d, dict) and d.get("tag")}),
+            "population_tags": sorted({d.get("tag") for d in org.get("canonical_tags", {}).get("population_tags", []) if isinstance(d, dict) and d.get("tag")}),
+            "org_type_tags": sorted({d.get("tag") for d in org.get("canonical_tags", {}).get("org_type_tags", []) if isinstance(d, dict) and d.get("tag")}),
+            "geography_tags": sorted({d.get("tag") for d in org.get("canonical_tags", {}).get("geography_tags", []) if isinstance(d, dict) and d.get("tag")}),
+        },
+        "grant": {
+            "id": grant.get("grant_id") or grant.get("source", {}).get("path"),
+            "overlap": {
+                "mission": overlap.get("mission", []),
+                "population": overlap.get("population", []),
+                "org_type": overlap.get("org_type", []),
+                "geography": overlap.get("geography", []),
+            },
+            "red_flags": sorted({d.get("tag") for d in grant.get("canonical_tags", {}).get("red_flag_tags", []) if isinstance(d, dict) and d.get("tag")}),
+            "deadline": grant.get("deadline", {}),
+            "funding": grant.get("funding", {}),
+        },
+    }
+
+    final_prompt = prompt + "\n\nINPUT:\n" + __import__("json").dumps(payload, indent=2)
+
+    try:
+        client = OpenAI()
+        resp = client.chat.completions.create(
+            model=settings.OPENAI_CHAT_MODEL,
+            messages=[{"role": "user", "content": final_prompt}],
+        )
+        text = (resp.choices[0].message.content or "").strip()
+        if text.startswith("```"):
+            s = text.find("[") if "[" in text else text.find("{")
+            e = text.rfind("]") if "]" in text else text.rfind("}")
+            if s != -1 and e != -1:
+                text = text[s : e + 1]
+        data = __import__("json").loads(text)
+        if not isinstance(data, dict):
+            return None
+        # Normalize keys
+        rec = data.get("recommendation")
+        bullets = data.get("bullets") if isinstance(data.get("bullets"), list) else None
+        if not rec or not bullets:
+            return None
+        return {"recommendation": rec, "bullets": bullets}
+    except Exception:
+        return None
 from .embedding_matcher import load_taxonomy_embeddings, cosine_similarity
 
 
@@ -186,7 +254,7 @@ def _score_and_reasons(org: Dict, grant: Dict) -> Tuple[float, str, List[str]]:
     return score, bucket, reasons
 
 
-def recommend(org_profile_path: Path, grants_dir: Path, top: int = 10) -> Dict:
+def recommend(org_profile_path: Path, grants_dir: Path, top: int = 10, explain: bool = False) -> Dict:
     org = _load_json(org_profile_path)
     recs: List[Dict] = []
     for p in sorted(grants_dir.glob("*_profile.json")):
@@ -195,18 +263,31 @@ def recommend(org_profile_path: Path, grants_dir: Path, top: int = 10) -> Dict:
             score, bucket, reasons = _score_and_reasons(org, g)
             dl = g.get("deadline", {})
             fd = g.get("funding", {})
-            recs.append(
-                {
-                    "grant_profile": p.name,
-                    "score": score,
-                    "bucket": bucket,
-                    "deadlines": dl.get("dates", []),
-                    "deadline_status": dl.get("status"),
-                    "funding_min": fd.get("estimated_min"),
-                    "funding_max": fd.get("estimated_max"),
-                    "reasons": reasons,
+            item = {
+                "grant_profile": p.name,
+                "score": score,
+                "bucket": bucket,
+                "deadlines": dl.get("dates", []),
+                "deadline_status": dl.get("status"),
+                "funding_min": fd.get("estimated_min"),
+                "funding_max": fd.get("estimated_max"),
+                "reasons": reasons,
+            }
+
+            if explain:
+                # Compute explicit overlaps for the explainer input
+                o = {k: _tag_set(org, k) for k in TAX_KEYS}
+                gg = {k: _tag_set(g, k) for k in TAX_KEYS}
+                overlap = {
+                    "mission": sorted(o["mission_tags"] & gg["mission_tags"]) if o["mission_tags"] else [],
+                    "population": sorted(o["population_tags"] & gg["population_tags"]) if o["population_tags"] else [],
+                    "org_type": sorted(o["org_type_tags"] & gg["org_type_tags"]) if o["org_type_tags"] else [],
+                    "geography": sorted(o["geography_tags"] & gg["geography_tags"]) if o["geography_tags"] else [],
                 }
-            )
+                exp = _generate_explanation(org, g, overlap)
+                if exp:
+                    item["explanation"] = exp
+            recs.append(item)
         except Exception as e:
             recs.append({"grant_profile": p.name, "error": str(e)})
 
@@ -220,6 +301,7 @@ def _main(argv=None) -> int:
     parser.add_argument("--grants", default=str((settings.PROCESSED_GRANTS_DIR).resolve()), help="Directory of grant profile JSONs.")
     parser.add_argument("--top", type=int, default=10, help="Top-N results to return (0 = all).")
     parser.add_argument("--out", help="Optional output JSON file path (writes recommendations).")
+    parser.add_argument("--explain", action="store_true", help="Include LLM-generated explanation bullets in each recommendation.")
 
     args = parser.parse_args(argv)
     org_path = Path(args.org)
@@ -232,7 +314,7 @@ def _main(argv=None) -> int:
         print(f"[error] Grants directory not found: {grants_dir}")
         return 1
 
-    result = recommend(org_path, grants_dir, top=args.top)
+    result = recommend(org_path, grants_dir, top=args.top, explain=args.explain)
     if args.out:
         out_path = Path(args.out)
         out_path.write_text(json.dumps(result, indent=2), encoding="utf-8")

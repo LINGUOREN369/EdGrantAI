@@ -3,35 +3,30 @@
   "recommendations": [
     {
       "grant_profile": "nsf_edu_core_research_profile.json",
-      "score": 0.405,
+      "score": 0.454,
       "bucket": "Maybe",
       "deadlines": [],
       "deadline_status": "unspecified",
       "funding_min": null,
       "funding_max": null,
       "reasons": [
-        "Mission overlap: ['K-12 STEM education', 'STEM education', 'STEM equity and access', 'STEM teacher professional development', 'access to STEM opportunities', 'community-based STEM programs', 'education research', 'elementary STEM education', 'high school STEM education', 'informal STEM learning', 'middle school STEM education', 'science education', 'workforce development']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_ATE_profile.json",
-      "score": 0.344,
-      "bucket": "Avoid",
-      "deadlines": [
-        "2024-10-03"
+        "Mission overlap: ['K-12 STEM education', 'STEM education', 'STEM teacher professional development', 'elementary STEM education', 'high school STEM education', 'informal STEM learning', 'middle school STEM education', 'science education']"
       ],
-      "deadline_status": "date",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['STEM education', 'STEM teacher professional development', 'curriculum development', 'education improvement', 'high school STEM education', 'research-based learning', 'research-practice partnerships', 'teacher professional development', 'workforce development']",
-        "Red flags: ['higher education institutions only']"
-      ]
+      "explanation": {
+        "recommendation": "Maybe",
+        "bullets": [
+          "The organization has significant overlap in mission tags with the grant, including 'K-12 STEM education', 'STEM education', and 'science education'.",
+          "There are no specified eligibility restrictions on org type or geography for the grant, which may allow for broader participation.",
+          "The absence of red flags suggests fewer barriers in terms of grant requirements, but lack of specific population tags and org type may indicate a need for further clarification.",
+          "Since there are no deadlines specified, it might be unclear how urgent the application process is; planning ahead is advisable.",
+          "Funding details are not provided, so it is essential to understand how the grant would align with the organization\u2019s financial goals."
+        ]
+      }
     },
     {
       "grant_profile": "nsf_AISL_profile.json",
-      "score": 0.314,
-      "bucket": "Avoid",
+      "score": 0.403,
+      "bucket": "Maybe",
       "deadlines": [
         "2025-01-08"
       ],
@@ -39,38 +34,24 @@
       "funding_min": null,
       "funding_max": null,
       "reasons": [
-        "Mission overlap: ['STEM education', 'STEM equity and access', 'access to STEM opportunities', 'community-based STEM programs', 'education research', 'elementary STEM education', 'high school STEM education', 'informal STEM learning', 'middle school STEM education', 'research-based learning', 'research-practice partnerships', 'science education']",
+        "Mission overlap: ['K-12 STEM education', 'STEM career pathways', 'STEM education', 'STEM pathways', 'elementary STEM education', 'high school STEM education', 'informal STEM learning', 'middle school STEM education', 'science education']",
         "Red flags: ['higher education institutions only']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_cs_profile.json",
-      "score": 0.309,
-      "bucket": "Avoid",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['K-12 STEM education', 'curriculum development', 'education research']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_scholarship_STEM_profile.json",
-      "score": 0.296,
-      "bucket": "Avoid",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['K-12 STEM education', 'STEM education', 'STEM equity and access', 'STEM teacher professional development', 'access to STEM opportunities', 'community-based STEM programs', 'elementary STEM education', 'high school STEM education']"
-      ]
+      ],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "The grant specifies eligibility for 'higher education institutions only,' which disqualifies the organization as a nonprofit.",
+          "The proposed mission overlaps include K-12 STEM education and informal STEM learning, aligning with organizational goals, but eligibility rules are paramount.",
+          "No population or geographic tags were provided for the organization, limiting the assessment of alignment beyond mission.",
+          "The deadline is approaching, adding urgency to the decision-making process.",
+          "The absence of funding estimates does not affect eligibility but suggests potential financial considerations in determining project scope."
+        ]
+      }
     },
     {
       "grant_profile": "nsf_k12_ai_support_profile.json",
-      "score": 0.257,
-      "bucket": "Avoid",
+      "score": 0.403,
+      "bucket": "Maybe",
       "deadlines": [
         "2025-11-07"
       ],
@@ -78,53 +59,22 @@
       "funding_min": null,
       "funding_max": null,
       "reasons": [
-        "Mission overlap: ['K-12 STEM education', 'STEM education', 'community-based STEM programs', 'elementary STEM education', 'high school STEM education', 'informal STEM learning', 'research-practice partnerships', 'science education']",
-        "Red flags: ['nonprofits only']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_teacher_corp_pilot_profile.json",
-      "score": 0.24,
-      "bucket": "Avoid",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['K-12 STEM education', 'STEM education', 'STEM teacher professional development', 'community-based STEM programs', 'elementary STEM education', 'high school STEM education', 'science education']",
-        "Red flags: ['higher education institutions only']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_pathway_profile.json",
-      "score": 0.207,
-      "bucket": "Avoid",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['high school STEM education']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_faculty_suport_profile.json",
-      "score": 0.2,
-      "bucket": "Avoid",
-      "deadlines": [
-        "2022-07-27"
+        "Mission overlap: ['K-12 STEM education', 'STEM career pathways', 'STEM education', 'elementary STEM education', 'high school STEM education']"
       ],
-      "deadline_status": "date",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['education research']",
-        "Red flags: ['higher education institutions only']"
-      ]
+      "explanation": {
+        "recommendation": "Maybe",
+        "bullets": [
+          "There are several overlaps in mission tags, including K-12 STEM education and STEM career pathways, which align with the grant's focus.",
+          "However, there are no specified organization type overlaps, making it unclear if the nonprofit status would meet eligibility requirements for this grant.",
+          "Funding details are not provided, so it is uncertain whether the potential scale of this grant aligns with the nonprofit's capacity.",
+          "There are no red flags indicated, suggesting that there are no immediate structural barriers, but absence of clarity on organizational eligibility adds risk.",
+          "The upcoming deadline signifies a need for timely decision-making if pursuing this funding opportunity."
+        ]
+      }
     },
     {
       "grant_profile": "nsf_REU_profile.json",
-      "score": 0.179,
+      "score": 0.392,
       "bucket": "Avoid",
       "deadlines": [
         "2023-09-27",
@@ -133,7 +83,157 @@
       "deadline_status": "multiple",
       "funding_min": null,
       "funding_max": null,
-      "reasons": []
+      "reasons": [
+        "Mission overlap: ['K-12 STEM education', 'STEM education', 'elementary STEM education', 'high school STEM education', 'science education']"
+      ],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "There are no mappings provided for organization type or geography, which are crucial for determining eligibility.",
+          "The grant is focused on Research Experiences for Undergraduates (REU), which primarily involves undergraduate education and research projects, potentially misaligned with your organization's K-12 focus.",
+          "No red flags are noted; however, the lack of specific organization type tags may indicate restrictions that are not apparent from the available data.",
+          "The absence of population tags in both the organization and grant may limit relevance and fit.",
+          "Funding specifics are not provided, leaving uncertainty about potential financial support for your approach."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_scholarship_STEM_profile.json",
+      "score": 0.347,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['STEM career pathways', 'STEM pathways', 'high school STEM education']",
+        "Red flags: ['higher education institutions only']"
+      ],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "No overlap in organization type; the grant specifies eligibility for 'higher education institutions only', which excludes this organization.",
+          "There are partial overlaps in mission tags related to STEM pathways and education, but these are insufficient given the eligibility restriction.",
+          "No specified population tags overlap, further indicating a lack of alignment.",
+          "The NSF red flag regarding eligibility significantly impacts feasibility, rendering application efforts inappropriate.",
+          "Funding details were not provided, but this is irrelevant due to the primary disqualification."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_teacher_corp_pilot_profile.json",
+      "score": 0.347,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['K-12 STEM education', 'STEM education', 'STEM teacher professional development', 'elementary STEM education', 'high school STEM education', 'science education']",
+        "Red flags: ['higher education institutions only']"
+      ],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "The grant specifies 'higher education institutions only' as an eligibility requirement, which disqualifies your organization type.",
+          "Your organization's mission aligns with the grant's mission tags; however, this is irrelevant due to the eligibility mismatch.",
+          "There are no population or geography tags to consider since they do not impact the ineligibility.",
+          "No other red flags or requirements could apply due to the hard eligibility restriction."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_ATE_profile.json",
+      "score": 0.334,
+      "bucket": "Avoid",
+      "deadlines": [
+        "2024-10-03"
+      ],
+      "deadline_status": "date",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['K-12 STEM education', 'STEM education', 'elementary STEM education', 'high school STEM education', 'science education']",
+        "Red flags: ['higher education institutions only']"
+      ],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "The grant has a hard eligibility restriction stating it is for higher education institutions only, which disqualifies the organization type of this nonprofit.",
+          "There are overlaps in mission tags such as 'K-12 STEM education', 'STEM education', and 'science education', but they do not overcome the eligibility issue.",
+          "No additional overlapping tags related to the population or geography were present in the organization\u2019s profile or the grant.",
+          "The funding range is not specified, but this organization cannot apply due to the institutional eligibility requirement.",
+          "The deadline is approaching, but given the disqualifying condition, it is not relevant for application consideration."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_cs_profile.json",
+      "score": 0.283,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['K-12 STEM education']",
+        "Red flags: ['higher education institutions only', 'industry partner required']"
+      ],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "The grant explicitly states 'higher education institutions only', which disqualifies the organization as it does not fall under this category.",
+          "An industry partner is required for the grant, and the organization currently lacks an associated industry partner, making it ineligible.",
+          "There are overlaps in mission tags, particularly in 'K-12 STEM education', but this is insufficient to overcome the disqualifying factors.",
+          "No population or geography tags were provided for the organization, indicating a lack of focus in these areas for alignment with the grant.",
+          "The absence of a clear deadline could imply uncertainty in submission, but this is secondary to the eligibility disqualifications."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_faculty_suport_profile.json",
+      "score": 0.222,
+      "bucket": "Avoid",
+      "deadlines": [
+        "2022-07-27"
+      ],
+      "deadline_status": "date",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['science education']",
+        "Red flags: ['higher education institutions only']"
+      ],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "The grant specifies 'higher education institutions only' as an eligibility requirement, which disqualifies this education nonprofit.",
+          "While there is some overlap in mission tags, specifically 'science education', the missing organization type tag represents a significant barrier.",
+          "No population or geography tags are present for the organization, further indicating a lack of fit with grant requirements.",
+          "The deadline has already passed (July 27, 2022), adding to the infeasibility of applying for this grant.",
+          "Overall, the mismatches and eligibility restrictions prevent the organization from being able to apply."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_pathway_profile.json",
+      "score": 0.0,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "There are no overlapping mission tags between the organization and the grant.",
+          "The organization has no specified population tags, while the grant does not provide information on relevant population focus.",
+          "The organization does not identify as a certain type, which raises eligibility questions regarding grant conditions.",
+          "Geographical outreach is unspecified for both the organization and the grant, limiting contextual alignment.",
+          "Without clear alignment and information on both parties, the grant's potential fit is unsubstantiated."
+        ]
+      }
     }
   ]
 }

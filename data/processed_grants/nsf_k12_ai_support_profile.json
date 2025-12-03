@@ -1,130 +1,83 @@
 {
   "grant_id": "nsf_k12_ai_support",
-  "created_at": "2025-11-30T17:21:50.481705-05:00",
-  "taxonomy_version": "0.0.4",
+  "created_at": "2025-12-03T15:28:43.445277-05:00",
+  "taxonomy_version": "0.0.5",
   "extracted_phrases": [
-    "K-12 Artificial Intelligence Teams",
     "Presidential AI Challenge",
-    "community-based Partnerships",
+    "K\u201312 artificial intelligence teams",
     "National Science Foundation",
-    "STEM Education",
+    "Directorate for STEM Education",
     "Presidential Initiative on Advancing Artificial Intelligence Education for American Youth",
-    "hands-on and experiential learning opportunities",
-    "high-quality AI learning opportunities",
-    "future generations",
+    "AI related projects",
     "Team Catalysts",
     "K\u201312 education",
-    "youth and/or educator teams",
-    "real-world challenges",
-    "community engagement",
-    "project-based",
-    "experiential learning opportunities",
-    "Challenge relevant equipment",
-    "Educator or student stipends",
-    "Travel for challenge-related events",
-    "Community events or project showcases",
-    "Mentorship or curriculum support",
-    "regions or localities",
-    "AI education resources",
-    "collaboratives with Schools",
-    "Industries",
-    "Nonprofits",
-    "Other Organizations",
+    "2025 Executive Order on Advancing AI Education for American Youth",
+    "Funding Requests",
+    "Hands-on, project-based, and experiential learning opportunities",
+    "Supplemental Support",
+    "NSF Proposal & Award Policies & Procedures Guide",
+    "Collaboratives with Schools, Industries, Nonprofits and Other Organizations",
     "Training, mentorship, and technical support",
-    "Access to data, tools, and/or platform",
-    "Problem definitions and real-world context",
     "Career exploration opportunities",
-    "Participation in evaluation or showcase events"
+    "NSF's merit review process"
   ],
   "canonical_tags": {
     "mission_tags": [
-      {
-        "tag": "STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.9583,
-        "sources": [
-          "STEM Education",
-          "K\u201312 education"
-        ]
-      },
       {
         "tag": "K-12 STEM education",
         "source_text": "K\u201312 education",
         "confidence": 0.7436,
         "sources": [
-          "K-12 Artificial Intelligence Teams",
-          "STEM Education",
-          "K\u201312 education"
-        ]
-      },
-      {
-        "tag": "high school STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7169,
-        "sources": [
-          "STEM Education",
+          "K\u201312 artificial intelligence teams",
+          "Directorate for STEM Education",
           "K\u201312 education"
         ]
       },
       {
         "tag": "elementary STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7157,
+        "source_text": "Directorate for STEM Education",
+        "confidence": 0.6378,
         "sources": [
-          "STEM Education",
+          "Directorate for STEM Education",
           "K\u201312 education"
         ]
       },
       {
-        "tag": "science education",
-        "source_text": "STEM Education",
-        "confidence": 0.7079,
+        "tag": "undergraduate STEM education",
+        "source_text": "Directorate for STEM Education",
+        "confidence": 0.6227,
         "sources": [
-          "STEM Education"
+          "Directorate for STEM Education"
+        ]
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "Directorate for STEM Education",
+        "confidence": 0.6178,
+        "sources": [
+          "Directorate for STEM Education",
+          "K\u201312 education"
+        ]
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "Directorate for STEM Education",
+        "confidence": 0.6086,
+        "sources": [
+          "K\u201312 artificial intelligence teams",
+          "Directorate for STEM Education",
+          "K\u201312 education"
         ]
       },
       {
         "tag": "artificial intelligence education",
-        "source_text": "AI education resources",
-        "confidence": 0.6725,
+        "source_text": "K\u201312 artificial intelligence teams",
+        "confidence": 0.5774,
         "sources": [
-          "K-12 Artificial Intelligence Teams",
+          "K\u201312 artificial intelligence teams",
           "Presidential Initiative on Advancing Artificial Intelligence Education for American Youth",
-          "high-quality AI learning opportunities",
-          "AI education resources"
-        ]
-      },
-      {
-        "tag": "informal learning environments",
-        "source_text": "experiential learning opportunities",
-        "confidence": 0.6001,
-        "sources": [
-          "hands-on and experiential learning opportunities",
-          "experiential learning opportunities"
-        ]
-      },
-      {
-        "tag": "undergraduate mentorship programs",
-        "source_text": "Mentorship or curriculum support",
-        "confidence": 0.5885,
-        "sources": [
-          "Mentorship or curriculum support"
-        ]
-      },
-      {
-        "tag": "research-practice partnerships",
-        "source_text": "community-based Partnerships",
-        "confidence": 0.5836,
-        "sources": [
-          "community-based Partnerships"
-        ]
-      },
-      {
-        "tag": "community-based STEM programs",
-        "source_text": "community-based Partnerships",
-        "confidence": 0.5383,
-        "sources": [
-          "community-based Partnerships"
+          "AI related projects",
+          "2025 Executive Order on Advancing AI Education for American Youth"
         ]
       },
       {
@@ -144,20 +97,19 @@
         ]
       },
       {
-        "tag": "robotics education",
-        "source_text": "K-12 Artificial Intelligence Teams",
-        "confidence": 0.5074,
+        "tag": "informal learning environments",
+        "source_text": "Hands-on, project-based, and experiential learning opportunities",
+        "confidence": 0.5066,
         "sources": [
-          "K-12 Artificial Intelligence Teams"
+          "Hands-on, project-based, and experiential learning opportunities"
         ]
       },
       {
-        "tag": "informal STEM learning",
-        "source_text": "hands-on and experiential learning opportunities",
-        "confidence": 0.5044,
+        "tag": "after-school STEM programs",
+        "source_text": "K\u201312 artificial intelligence teams",
+        "confidence": 0.5018,
         "sources": [
-          "hands-on and experiential learning opportunities",
-          "experiential learning opportunities"
+          "K\u201312 artificial intelligence teams"
         ]
       }
     ],
@@ -181,74 +133,16 @@
     ],
     "org_type_tags": [
       {
-        "tag": "nonprofit organization",
-        "source_text": "Nonprofits",
-        "confidence": 0.6704,
-        "sources": [
-          "Nonprofits"
-        ]
-      },
-      {
-        "tag": "community-based organization",
-        "source_text": "community-based Partnerships",
-        "confidence": 0.6619,
-        "sources": [
-          "community-based Partnerships"
-        ]
-      },
-      {
-        "tag": "youth development organization",
-        "source_text": "youth and/or educator teams",
-        "confidence": 0.5977,
-        "sources": [
-          "youth and/or educator teams"
-        ]
-      },
-      {
-        "tag": "501(c)(3) nonprofit",
-        "source_text": "Nonprofits",
-        "confidence": 0.5969,
-        "sources": [
-          "Nonprofits"
-        ]
-      },
-      {
         "tag": "public school",
         "source_text": "K\u201312 education",
-        "confidence": 0.5181,
+        "confidence": 0.5182,
         "sources": [
           "K\u201312 education"
         ]
       }
     ],
-    "geography_tags": [
-      {
-        "tag": "neighborhood-based programs",
-        "source_text": "community-based Partnerships",
-        "confidence": 0.5642,
-        "sources": [
-          "community-based Partnerships"
-        ]
-      },
-      {
-        "tag": "place-based programs",
-        "source_text": "community-based Partnerships",
-        "confidence": 0.554,
-        "sources": [
-          "community-based Partnerships"
-        ]
-      }
-    ],
-    "red_flag_tags": [
-      {
-        "tag": "nonprofits only",
-        "source_text": "Nonprofits",
-        "confidence": 0.8062,
-        "sources": [
-          "Nonprofits"
-        ]
-      }
-    ]
+    "geography_tags": [],
+    "red_flag_tags": []
   },
   "deadline": {
     "status": "date",

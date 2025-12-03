@@ -1,59 +1,28 @@
 {
   "grant_id": "nsf_cs",
-  "created_at": "2025-11-30T17:20:11.543310-05:00",
-  "taxonomy_version": "0.0.4",
+  "created_at": "2025-12-03T15:27:44.873320-05:00",
+  "taxonomy_version": "0.0.5",
   "extracted_phrases": [
-    "Research Experiences for Teachers (RET) in Engineering and Computer Science",
-    "summer research experiences",
-    "K-14 educators",
-    "schools districts",
-    "industry partners",
+    "Research Experiences for Teachers",
+    "RET",
+    "Engineering and Computer Science",
     "Directorates for Engineering",
     "Computer and Information Science and Engineering",
-    "research faculty",
-    "industry mentors",
-    "scientific disciplinary knowledge",
-    "classroom activities",
-    "curricula",
-    "computing and engineering pathways",
-    "hosting research faculty",
-    "classroom practices",
-    "current curricula",
-    "pedagogy",
-    "K-14 educational environments",
-    "RET Sites",
-    "Institutions of Higher Education (IHEs)",
+    "K-14 educators",
     "community colleges",
+    "school districts",
+    "industry partners",
+    "K-14 educational environments",
+    "Institutions of Higher Education",
+    "IHEs",
     "Minority-Serving Institutions",
-    "persons with disabilities",
     "RET Supplements",
-    "Active ENG or CISE awardees",
+    "principal investigator",
     "College/Department of Engineering",
-    "College/Department of Computer and/or Information Science",
-    "Human-Computer Interaction (HCI)",
-    "Software Engineering",
-    "Networking Science",
-    "Informatics"
+    "College/Department of Computer and/or Information Science"
   ],
   "canonical_tags": {
     "mission_tags": [
-      {
-        "tag": "undergraduate research experiences",
-        "source_text": "summer research experiences",
-        "confidence": 0.7792,
-        "sources": [
-          "Research Experiences for Teachers (RET) in Engineering and Computer Science",
-          "summer research experiences"
-        ]
-      },
-      {
-        "tag": "STEM career pathways",
-        "source_text": "computing and engineering pathways",
-        "confidence": 0.6995,
-        "sources": [
-          "computing and engineering pathways"
-        ]
-      },
       {
         "tag": "community college STEM programs",
         "source_text": "community colleges",
@@ -63,20 +32,20 @@
         ]
       },
       {
-        "tag": "curriculum development",
-        "source_text": "curricula",
-        "confidence": 0.6489,
+        "tag": "undergraduate research experiences",
+        "source_text": "Research Experiences for Teachers",
+        "confidence": 0.6355,
         "sources": [
-          "curricula",
-          "current curricula"
+          "Research Experiences for Teachers"
         ]
       },
       {
-        "tag": "computing education",
-        "source_text": "computing and engineering pathways",
-        "confidence": 0.6481,
+        "tag": "engineering education",
+        "source_text": "Engineering and Computer Science",
+        "confidence": 0.6086,
         "sources": [
-          "computing and engineering pathways"
+          "Engineering and Computer Science",
+          "College/Department of Engineering"
         ]
       },
       {
@@ -89,64 +58,29 @@
         ]
       },
       {
-        "tag": "engineering education",
-        "source_text": "College/Department of Engineering",
-        "confidence": 0.5726,
-        "sources": [
-          "computing and engineering pathways",
-          "College/Department of Engineering",
-          "Software Engineering"
-        ]
-      },
-      {
         "tag": "computer science education",
         "source_text": "Computer and Information Science and Engineering",
         "confidence": 0.5711,
         "sources": [
+          "Engineering and Computer Science",
           "Computer and Information Science and Engineering",
-          "computing and engineering pathways",
           "College/Department of Computer and/or Information Science"
-        ]
-      },
-      {
-        "tag": "undergraduate mentorship programs",
-        "source_text": "industry mentors",
-        "confidence": 0.5574,
-        "sources": [
-          "summer research experiences",
-          "industry mentors"
-        ]
-      },
-      {
-        "tag": "instructional innovation",
-        "source_text": "classroom practices",
-        "confidence": 0.5529,
-        "sources": [
-          "classroom practices"
-        ]
-      },
-      {
-        "tag": "education research",
-        "source_text": "research faculty",
-        "confidence": 0.5336,
-        "sources": [
-          "research faculty"
-        ]
-      },
-      {
-        "tag": "technology education",
-        "source_text": "computing and engineering pathways",
-        "confidence": 0.5081,
-        "sources": [
-          "computing and engineering pathways"
         ]
       },
       {
         "tag": "informal learning environments",
         "source_text": "K-14 educational environments",
-        "confidence": 0.5069,
+        "confidence": 0.5068,
         "sources": [
           "K-14 educational environments"
+        ]
+      },
+      {
+        "tag": "computing education",
+        "source_text": "Engineering and Computer Science",
+        "confidence": 0.5033,
+        "sources": [
+          "Engineering and Computer Science"
         ]
       }
     ],
@@ -162,17 +96,9 @@
       {
         "tag": "K-12 teachers",
         "source_text": "K-14 educators",
-        "confidence": 0.7518,
+        "confidence": 0.7519,
         "sources": [
           "K-14 educators"
-        ]
-      },
-      {
-        "tag": "students with disabilities",
-        "source_text": "persons with disabilities",
-        "confidence": 0.6749,
-        "sources": [
-          "persons with disabilities"
         ]
       },
       {
@@ -186,6 +112,14 @@
     ],
     "org_type_tags": [
       {
+        "tag": "industry partner",
+        "source_text": "industry partners",
+        "confidence": 0.9217,
+        "sources": [
+          "industry partners"
+        ]
+      },
+      {
         "tag": "community college",
         "source_text": "community colleges",
         "confidence": 0.8855,
@@ -196,25 +130,26 @@
       {
         "tag": "minority-serving institution",
         "source_text": "Minority-Serving Institutions",
-        "confidence": 0.8712,
+        "confidence": 0.8711,
         "sources": [
           "Minority-Serving Institutions"
         ]
       },
       {
         "tag": "public school district",
-        "source_text": "schools districts",
-        "confidence": 0.8109,
+        "source_text": "school districts",
+        "confidence": 0.8117,
         "sources": [
-          "schools districts"
+          "school districts"
         ]
       },
       {
         "tag": "institution of higher education",
-        "source_text": "Institutions of Higher Education (IHEs)",
-        "confidence": 0.6995,
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.7813,
         "sources": [
-          "Institutions of Higher Education (IHEs)"
+          "Institutions of Higher Education",
+          "IHEs"
         ]
       },
       {
@@ -227,32 +162,57 @@
       },
       {
         "tag": "public school",
-        "source_text": "schools districts",
-        "confidence": 0.5309,
+        "source_text": "school districts",
+        "confidence": 0.5383,
         "sources": [
-          "schools districts"
+          "school districts"
+        ]
+      },
+      {
+        "tag": "local education agency (LEA)",
+        "source_text": "school districts",
+        "confidence": 0.5101,
+        "sources": [
+          "school districts"
         ]
       }
     ],
     "geography_tags": [
       {
         "tag": "school district level",
-        "source_text": "schools districts",
-        "confidence": 0.7933,
+        "source_text": "school districts",
+        "confidence": 0.761,
         "sources": [
-          "schools districts"
+          "school districts"
         ]
       },
       {
         "tag": "district-wide programs",
-        "source_text": "schools districts",
-        "confidence": 0.651,
+        "source_text": "school districts",
+        "confidence": 0.6253,
         "sources": [
-          "schools districts"
+          "school districts"
         ]
       }
     ],
-    "red_flag_tags": []
+    "red_flag_tags": [
+      {
+        "tag": "industry partner required",
+        "source_text": "industry partners",
+        "confidence": 0.8028,
+        "sources": [
+          "industry partners"
+        ]
+      },
+      {
+        "tag": "higher education institutions only",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.7038,
+        "sources": [
+          "Institutions of Higher Education"
+        ]
+      }
+    ]
   },
   "deadline": {
     "status": "unspecified",

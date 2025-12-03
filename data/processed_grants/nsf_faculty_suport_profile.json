@@ -1,81 +1,90 @@
 {
   "grant_id": "nsf_faculty_suport",
-  "created_at": "2025-11-30T17:21:05.406992-05:00",
-  "taxonomy_version": "0.0.4",
+  "created_at": "2025-12-03T15:28:13.752296-05:00",
+  "taxonomy_version": "0.0.5",
   "extracted_phrases": [
     "Faculty Early Career Development Program",
+    "CAREER",
     "Presidential Early Career Awards for Scientists and Engineers",
-    "National Science Foundation",
-    "early-career faculty",
-    "underrepresented minority groups",
-    "Presidential Early Career Awards",
+    "PECASE",
+    "innovative research",
+    "community service",
     "scientific leadership",
+    "education",
     "community outreach",
     "Institutions of Higher Education",
-    "community colleges",
-    "Non-profit, non-academic organizations",
-    "educational or research activities"
+    "IHEs",
+    "Non-profit, non-academic organizations"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "underrepresented groups in STEM",
-        "source_text": "underrepresented minority groups",
-        "confidence": 0.7308,
+        "tag": "education improvement",
+        "source_text": "education",
+        "confidence": 0.5479,
         "sources": [
-          "underrepresented minority groups"
+          "education"
         ]
       },
       {
-        "tag": "community college STEM programs",
-        "source_text": "community colleges",
-        "confidence": 0.6496,
+        "tag": "science education",
+        "source_text": "education",
+        "confidence": 0.5429,
         "sources": [
-          "community colleges"
+          "education"
+        ]
+      },
+      {
+        "tag": "instructional innovation",
+        "source_text": "innovative research",
+        "confidence": 0.5258,
+        "sources": [
+          "innovative research"
         ]
       },
       {
         "tag": "education research",
-        "source_text": "educational or research activities",
-        "confidence": 0.5792,
+        "source_text": "education",
+        "confidence": 0.5232,
         "sources": [
-          "educational or research activities"
-        ]
-      }
-    ],
-    "population_tags": [
-      {
-        "tag": "community college students",
-        "source_text": "community colleges",
-        "confidence": 0.7653,
-        "sources": [
-          "community colleges"
-        ]
-      }
-    ],
-    "org_type_tags": [
-      {
-        "tag": "community college",
-        "source_text": "community colleges",
-        "confidence": 0.8855,
-        "sources": [
-          "community colleges"
+          "innovative research",
+          "education"
         ]
       },
+      {
+        "tag": "computing education",
+        "source_text": "education",
+        "confidence": 0.5171,
+        "sources": [
+          "education"
+        ]
+      },
+      {
+        "tag": "technology education",
+        "source_text": "education",
+        "confidence": 0.5078,
+        "sources": [
+          "education"
+        ]
+      },
+      {
+        "tag": "research-based learning",
+        "source_text": "innovative research",
+        "confidence": 0.5057,
+        "sources": [
+          "innovative research"
+        ]
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
       {
         "tag": "institution of higher education",
         "source_text": "Institutions of Higher Education",
-        "confidence": 0.7813,
+        "confidence": 0.7815,
         "sources": [
-          "Institutions of Higher Education"
-        ]
-      },
-      {
-        "tag": "two-year college",
-        "source_text": "community colleges",
-        "confidence": 0.6736,
-        "sources": [
-          "community colleges"
+          "Institutions of Higher Education",
+          "IHEs"
         ]
       },
       {
@@ -84,14 +93,6 @@
         "confidence": 0.6248,
         "sources": [
           "Non-profit, non-academic organizations"
-        ]
-      },
-      {
-        "tag": "minority-serving institution",
-        "source_text": "underrepresented minority groups",
-        "confidence": 0.5613,
-        "sources": [
-          "underrepresented minority groups"
         ]
       },
       {
