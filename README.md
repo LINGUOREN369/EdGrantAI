@@ -50,6 +50,17 @@ EduGrant AI eliminates this waste by showing nonprofits exactly which NSF progra
 
 ---
 
+### Federal vs. Private Grants
+
+Federal programs like NSF operate under open competition: organizations must apply without prior invitation. Success rates for many programs often hover around 10–20%, and proposals are time‑intensive to prepare. This makes choosing the right opportunity critical.
+
+- Federal (NSF): Open competition; applicants must apply first; many programs have ~10–20% success rates; applications are detailed and time‑consuming; agencies must remain neutral and cannot pre‑screen or recommend programs; despite budget pressures, overall funding remains large while competition rises.
+- Private (e.g., Gates Foundation): Frequently invite‑only or curated RFPs; unsolicited applications are rarely accepted; funders pre‑select organizations they view as strong fits; fewer truly open opportunities; less time wasted applying if you are not invited.
+
+Because private cycles are often invitation‑only, the greatest ROI for a transparent matching tool is in the federal space, where anyone can apply — but applicants must choose wisely. EduGrant AI is designed to help small nonprofits invest time only where they are genuinely competitive.
+
+---
+
 ### Why NSF Can’t Solve This Problem
 
 A critical and often misunderstood fact: Federal agencies are legally prohibited from recommending or ranking grants for applicants.
@@ -333,72 +344,6 @@ Each nonprofit receives:
 - Priority ranking (apply / maybe / avoid)
 
 This helps nonprofits avoid wasting 30–50 hours on ineligible grants.
-
----
-
-## NSF-Only: Competition + Federal Constraints
-
-### Why NSF — and Why Now
-
-Despite recent budget pressure and reductions in certain programs, NSF still distributes billions of dollars every year, including a sizable portfolio of education, STEM, and workforce grants. The money is still there — but competition is increasing sharply.
-
-Competition is getting worse
-- Success rates for many NSF education programs are falling
-- More institutions are chasing fewer awards
-- Small nonprofits, community colleges, and RPPs often lack grant officers
-- Even universities struggle to monitor shifting solicitations
-- Proposal misalignment is now one of the top reasons for early rejection
-
-This means the cost of applying to the wrong solicitation is higher than ever. Teams routinely waste 40–80 hours on a proposal that was doomed from the start because:
-- eligibility wasn’t met
-- a required partner wasn’t established
-- the program was meant for universities only
-- the project did not match the directorate’s scope
-
-EduGrant AI eliminates this waste by showing nonprofits exactly which NSF programs fit — and which do not.
-
----
-
-### Why NSF Can’t Solve This Problem
-
-A critical and often misunderstood fact: Federal agencies are legally prohibited from recommending or ranking grants for applicants.
-
-They cannot:
-- Suggest which program you should apply to
-- Tell you which program “fits” your organization
-- Provide personalized matching
-- Pre-screen your eligibility
-- Rank solicitations or give strategic advice
-
-Doing so would violate federal procurement rules, fairness requirements, and open competition mandates.
-
-This means:
-- NSF cannot build a matching system
-- Universities build their own internal systems, but they are private
-- Small nonprofits are left with nothing
-
-EduGrant AI fills this gap by providing public, transparent, and legally permissible grant intelligence that NSF itself cannot provide.
-
----
-
-### How EduGrant AI Helps in a High-Competition, High-Uncertainty NSF Landscape
-
-EduGrant AI provides:
-- Automatically updated NSF solicitations
-- Eligibility analysis (who can actually apply?)
-- Required partner detection
-- Mission and scope alignment scoring
-- Red-flag warnings for structural blockers
-- Clear “Apply / Maybe / Avoid” recommendations
-
-In a competitive environment, this system:
-- Keeps small nonprofits from wasting hundreds of hours
-- Helps teams target only viable NSF programs
-- Removes guesswork about eligibility
-- Helps RPPs and education organizations apply strategically
-- Levels a playing field that increasingly favors large institutions
-
-The funding is still there — but only for organizations who apply intelligently. EduGrant AI helps them do exactly that.
 
 ---
 
