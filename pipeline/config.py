@@ -122,6 +122,12 @@ class Settings:
             except ValueError:
                 return float(default)
 
+        def _fi(name: str, default: str) -> int:
+            try:
+                return int(os.getenv(name, default))
+            except ValueError:
+                return int(default)
+
         self.MATCH_WEIGHTS = {
             # Overlap ratios computed on org-side tag sets
             "mission_tags": _fw("MATCH_W_MISSION", "0.50"),
@@ -135,6 +141,72 @@ class Settings:
         self.MATCH_MAYBE_THRESHOLD = _fw("MATCH_MAYBE_THRESHOLD", "0.40")
         # Penalty multiplier when any red flag present
         self.MATCH_RED_FLAG_PENALTY = _fw("MATCH_RED_FLAG_PENALTY", "0.85")
+
+        # Minimum similarity to count toward taxonomy overlap when using
+        # embedding-based similarity between tags
+        self.MATCH_TAX_SIM_THRESHOLD = _fw("MATCH_TAX_SIM_THRESHOLD", "0.50")
+
+        # Per‑taxonomy TOP_K (fallback to global TOP_K)
+        self.TOP_K_BY_TAXONOMY = {
+            "mission_tags": _fi("TOP_K_MISSION", "5"),
+            "population_tags": _fi("TOP_K_POPULATION", "5"),
+            "org_types": _fi("TOP_K_ORG_TYPE", "5"),
+            "geography_tags": _fi("TOP_K_GEOGRAPHY", "5"),
+            "red_flag_tags": _fi("TOP_K_RED_FLAGS", "5"),
+        }
+
+        # Taxonomies for which we keep at most the top‑1 match per phrase
+        _top1 = os.getenv("TOP1_TAXONOMIES")
+        if _top1:
+            self.TOP1_TAXONOMIES = [t.strip() for t in _top1.split(",") if t.strip()]
+        else:
+            self.TOP1_TAXONOMIES = []
+
+        # Red-flag hard blocks: if present in grant and org_type_tags do not meet
+        # the required one-of set, the match is hard-blocked to Avoid
+        self.MATCH_HARD_BLOCKS = {
+            "higher_education_only": {
+                "org_type_tags": {
+                    "any_of": [
+                        "higher_education_institution",
+                        "four_year_university",
+                        "community_college",
+                    ]
+                }
+            },
+            "universities_only": {
+                "org_type_tags": {
+                    "any_of": [
+                        "higher_education_institution",
+                        "four_year_university",
+                        "community_college",
+                    ]
+                }
+            },
+            "schools_only": {
+                "org_type_tags": {
+                    "any_of": [
+                        "public_school_district",
+                        "public_school_single_site",
+                        "charter_school_single_site",
+                        "charter_school_network",
+                        "independent_private_school",
+                    ]
+                }
+            },
+            "government_entities_only": {
+                "org_type_tags": {
+                    "any_of": [
+                        "government_agency_local",
+                        "government_agency_state",
+                        "education_service_agency",
+                    ]
+                }
+            },
+            "nonprofits_only": {
+                "org_type_tags": {"any_of": ["nonprofit_501c3", "community_based_organization"]}
+            },
+        }
 
 
 # Singleton settings instance

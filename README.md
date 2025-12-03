@@ -207,6 +207,12 @@ Centralized configuration lives in `pipeline/config.py` and auto-loads `.env` va
   - `OPENAI_CHAT_MODEL` (default: `gpt-4o-mini`)
   - `OPENAI_EMBEDDING_MODEL` (default: `text-embedding-3-large`)
   - `TOP_K` (default: `5`)
+  - Per‑taxonomy K (overrides `TOP_K`):
+    - `TOP_K_MISSION` (default: `5`)
+    - `TOP_K_POPULATION` (default: `5`)
+    - `TOP_K_ORG_TYPE` (default: `5`)
+    - `TOP_K_GEOGRAPHY` (default: `5`)
+    - `TOP_K_RED_FLAGS` (default: `5`)
   - `THRESHOLD_MISSION` (default: `0.45`)
   - `THRESHOLD_POPULATION` (default: `0.50`)
   - `THRESHOLD_ORG_TYPE` (default: `0.50`)
@@ -214,6 +220,7 @@ Centralized configuration lives in `pipeline/config.py` and auto-loads `.env` va
   - `THRESHOLD_RED_FLAGS` (default: `0.35`)
   - `THRESHOLD_DEFAULT` (default: `0.51`)
   - `TIMEZONE` (default: `America/New_York` for `created_at` timestamps)
+  - `TOP1_TAXONOMIES` (comma‑sep; default: empty) — only the best tag per phrase is kept for listed taxonomies.
 
 ---
 

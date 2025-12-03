@@ -1,124 +1,106 @@
 {
   "grant_id": "nsf_faculty_suport",
-  "created_at": "2025-11-29T22:14:59.236860-05:00",
+  "created_at": "2025-11-30T17:21:05.406992-05:00",
   "taxonomy_version": "0.0.4",
   "extracted_phrases": [
     "Faculty Early Career Development Program",
     "Presidential Early Career Awards for Scientists and Engineers",
+    "National Science Foundation",
     "early-career faculty",
-    "CAREER proposals",
     "underrepresented minority groups",
     "Presidential Early Career Awards",
     "scientific leadership",
     "community outreach",
-    "scientific missions",
-    "academic research and education",
-    "Science and Technology Policy",
     "Institutions of Higher Education",
-    "Two- and four-year IHEs",
     "community colleges",
-    "international branch campus",
-    "non-profit, non-academic organizations",
-    "research labs",
-    "Principal Investigator",
-    "Research.gov",
-    "Grants.gov"
+    "Non-profit, non-academic organizations",
+    "educational or research activities"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
         "tag": "underrepresented groups in STEM",
         "source_text": "underrepresented minority groups",
-        "confidence": 0.7308
-      },
-      {
-        "tag": "education research",
-        "source_text": "academic research and education",
-        "confidence": 0.7105
-      },
-      {
-        "tag": "research-based learning",
-        "source_text": "academic research and education",
-        "confidence": 0.5531
-      },
-      {
-        "tag": "computing education",
-        "source_text": "academic research and education",
-        "confidence": 0.5448
-      },
-      {
-        "tag": "education policy and systems",
-        "source_text": "academic research and education",
-        "confidence": 0.5159
-      },
-      {
-        "tag": "science education",
-        "source_text": "academic research and education",
-        "confidence": 0.5131
+        "confidence": 0.7308,
+        "sources": [
+          "underrepresented minority groups"
+        ]
       },
       {
         "tag": "community college STEM programs",
         "source_text": "community colleges",
-        "confidence": 0.6496
+        "confidence": 0.6496,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "education research",
+        "source_text": "educational or research activities",
+        "confidence": 0.5792,
+        "sources": [
+          "educational or research activities"
+        ]
       }
     ],
     "population_tags": [
       {
         "tag": "community college students",
         "source_text": "community colleges",
-        "confidence": 0.7653
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
       }
     ],
     "org_type_tags": [
       {
-        "tag": "minority-serving institution",
-        "source_text": "underrepresented minority groups",
-        "confidence": 0.5613
-      },
-      {
-        "tag": "community-based organization",
-        "source_text": "community outreach",
-        "confidence": 0.5086
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
       },
       {
         "tag": "institution of higher education",
         "source_text": "Institutions of Higher Education",
-        "confidence": 0.7813
-      },
-      {
-        "tag": "two-year college",
-        "source_text": "Two- and four-year IHEs",
-        "confidence": 0.5336
-      },
-      {
-        "tag": "four-year university",
-        "source_text": "Two- and four-year IHEs",
-        "confidence": 0.522
-      },
-      {
-        "tag": "institution of higher education",
-        "source_text": "Two- and four-year IHEs",
-        "confidence": 0.5021
-      },
-      {
-        "tag": "community college",
-        "source_text": "community colleges",
-        "confidence": 0.8855
+        "confidence": 0.7813,
+        "sources": [
+          "Institutions of Higher Education"
+        ]
       },
       {
         "tag": "two-year college",
         "source_text": "community colleges",
-        "confidence": 0.6736
+        "confidence": 0.6736,
+        "sources": [
+          "community colleges"
+        ]
       },
       {
         "tag": "nonprofit organization",
-        "source_text": "non-profit, non-academic organizations",
-        "confidence": 0.6772
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 0.6248,
+        "sources": [
+          "Non-profit, non-academic organizations"
+        ]
       },
       {
-        "tag": "501(c)(3) nonprofit",
-        "source_text": "non-profit, non-academic organizations",
-        "confidence": 0.5071
+        "tag": "minority-serving institution",
+        "source_text": "underrepresented minority groups",
+        "confidence": 0.5613,
+        "sources": [
+          "underrepresented minority groups"
+        ]
+      },
+      {
+        "tag": "community-based organization",
+        "source_text": "community outreach",
+        "confidence": 0.5086,
+        "sources": [
+          "community outreach"
+        ]
       }
     ],
     "geography_tags": [],
@@ -126,7 +108,10 @@
       {
         "tag": "higher education institutions only",
         "source_text": "Institutions of Higher Education",
-        "confidence": 0.7034
+        "confidence": 0.7034,
+        "sources": [
+          "Institutions of Higher Education"
+        ]
       }
     ]
   },

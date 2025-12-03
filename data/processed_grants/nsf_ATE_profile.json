@@ -1,169 +1,357 @@
 {
   "grant_id": "nsf_ATE",
-  "created_at": "2025-11-29T22:13:15.269873-05:00",
+  "created_at": "2025-11-30T17:19:19.344443-05:00",
   "taxonomy_version": "0.0.4",
   "extracted_phrases": [
     "Advanced Technological Education (ATE)",
     "two-year Institutions of Higher Education (IHEs)",
-    "technician education",
+    "academic institutions",
+    "science and engineering technicians",
+    "faculty-led",
+    "incumbent worker education",
+    "credit-bearing courses",
+    "curriculum development",
+    "professional development",
+    "college faculty",
+    "secondary school teachers",
+    "career pathway development",
+    "students",
+    "incumbent workers",
+    "applied research projects",
+    "knowledge base",
     "National Institute of Standards and Technology (NIST)",
     "Manufacturing Extension Partnerships (MEPs)",
     "Manufacturing USA Institutes",
+    "workforce development issues",
     "Minority Serving Institutions",
+    "diverse talent",
     "underrepresented and underserved communities",
     "STEM technician education programs",
-    "Institutions of Higher Education (IHEs)",
-    "community colleges",
+    "associate degrees",
+    "Institutions of Higher Education",
+    "non-profit, non-academic organizations",
+    "independent museums",
+    "observatories",
+    "research laboratories",
+    "professional societies",
+    "for-profit organizations",
+    "small businesses",
+    "State and Local Governments",
     "Tribal Nations",
-    "two-year degrees",
-    "advanced technology fields",
+    "American Indian or Alaska Native tribe",
     "community college faculty"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "technology education",
-        "source_text": "Advanced Technological Education (ATE)",
-        "confidence": 0.5395
+        "tag": "curriculum development",
+        "source_text": "curriculum development",
+        "confidence": 1.0,
+        "sources": [
+          "curriculum development",
+          "professional development",
+          "career pathway development"
+        ]
       },
       {
-        "tag": "technology education",
-        "source_text": "technician education",
-        "confidence": 0.6464
+        "tag": "workforce development",
+        "source_text": "workforce development issues",
+        "confidence": 0.8493,
+        "sources": [
+          "incumbent worker education",
+          "professional development",
+          "career pathway development",
+          "workforce development issues"
+        ]
       },
       {
-        "tag": "underrepresented groups in STEM",
-        "source_text": "underrepresented and underserved communities",
-        "confidence": 0.6031
+        "tag": "teacher professional development",
+        "source_text": "professional development",
+        "confidence": 0.8025,
+        "sources": [
+          "curriculum development",
+          "professional development"
+        ]
       },
       {
         "tag": "STEM career pathways",
         "source_text": "STEM technician education programs",
-        "confidence": 0.6922
+        "confidence": 0.6922,
+        "sources": [
+          "career pathway development",
+          "STEM technician education programs"
+        ]
       },
       {
         "tag": "STEM education",
         "source_text": "STEM technician education programs",
-        "confidence": 0.644
+        "confidence": 0.644,
+        "sources": [
+          "STEM technician education programs"
+        ]
       },
       {
         "tag": "community college STEM programs",
         "source_text": "STEM technician education programs",
-        "confidence": 0.6227
+        "confidence": 0.6227,
+        "sources": [
+          "STEM technician education programs",
+          "community college faculty"
+        ]
       },
       {
         "tag": "STEM teacher professional development",
         "source_text": "STEM technician education programs",
-        "confidence": 0.6185
+        "confidence": 0.6185,
+        "sources": [
+          "professional development",
+          "STEM technician education programs"
+        ]
       },
       {
         "tag": "high school STEM education",
         "source_text": "STEM technician education programs",
-        "confidence": 0.6037
+        "confidence": 0.6037,
+        "sources": [
+          "secondary school teachers",
+          "STEM technician education programs"
+        ]
       },
       {
-        "tag": "community college STEM programs",
-        "source_text": "community colleges",
-        "confidence": 0.6496
+        "tag": "underrepresented groups in STEM",
+        "source_text": "underrepresented and underserved communities",
+        "confidence": 0.6031,
+        "sources": [
+          "underrepresented and underserved communities"
+        ]
       },
       {
-        "tag": "community college STEM programs",
-        "source_text": "community college faculty",
-        "confidence": 0.5727
+        "tag": "education improvement",
+        "source_text": "professional development",
+        "confidence": 0.5543,
+        "sources": [
+          "professional development"
+        ]
+      },
+      {
+        "tag": "instructional innovation",
+        "source_text": "curriculum development",
+        "confidence": 0.5404,
+        "sources": [
+          "curriculum development"
+        ]
+      },
+      {
+        "tag": "research-practice partnerships",
+        "source_text": "applied research projects",
+        "confidence": 0.5403,
+        "sources": [
+          "applied research projects"
+        ]
+      },
+      {
+        "tag": "technology education",
+        "source_text": "Advanced Technological Education (ATE)",
+        "confidence": 0.5396,
+        "sources": [
+          "Advanced Technological Education (ATE)"
+        ]
+      },
+      {
+        "tag": "research-based learning",
+        "source_text": "applied research projects",
+        "confidence": 0.5132,
+        "sources": [
+          "applied research projects"
+        ]
       }
     ],
     "population_tags": [
       {
         "tag": "community college students",
-        "source_text": "community colleges",
-        "confidence": 0.7653
+        "source_text": "community college faculty",
+        "confidence": 0.7079,
+        "sources": [
+          "community college faculty"
+        ]
       },
       {
-        "tag": "community college students",
-        "source_text": "community college faculty",
-        "confidence": 0.7079
+        "tag": "undergraduate students",
+        "source_text": "students",
+        "confidence": 0.6444,
+        "sources": [
+          "students"
+        ]
+      },
+      {
+        "tag": "graduate students",
+        "source_text": "students",
+        "confidence": 0.6386,
+        "sources": [
+          "students"
+        ]
+      },
+      {
+        "tag": "K-12 teachers",
+        "source_text": "secondary school teachers",
+        "confidence": 0.6328,
+        "sources": [
+          "secondary school teachers"
+        ]
+      },
+      {
+        "tag": "high school students",
+        "source_text": "students",
+        "confidence": 0.6185,
+        "sources": [
+          "secondary school teachers",
+          "students"
+        ]
       }
     ],
     "org_type_tags": [
       {
-        "tag": "two-year college",
-        "source_text": "two-year Institutions of Higher Education (IHEs)",
-        "confidence": 0.7137
-      },
-      {
-        "tag": "institution of higher education",
-        "source_text": "two-year Institutions of Higher Education (IHEs)",
-        "confidence": 0.5801
-      },
-      {
         "tag": "minority-serving institution",
         "source_text": "Minority Serving Institutions",
-        "confidence": 0.8828
+        "confidence": 0.8828,
+        "sources": [
+          "Minority Serving Institutions"
+        ]
       },
       {
         "tag": "institution of higher education",
-        "source_text": "Institutions of Higher Education (IHEs)",
-        "confidence": 0.6995
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.7813,
+        "sources": [
+          "two-year Institutions of Higher Education (IHEs)",
+          "academic institutions",
+          "Institutions of Higher Education"
+        ]
+      },
+      {
+        "tag": "two-year college",
+        "source_text": "two-year Institutions of Higher Education (IHEs)",
+        "confidence": 0.7137,
+        "sources": [
+          "two-year Institutions of Higher Education (IHEs)",
+          "associate degrees",
+          "community college faculty"
+        ]
       },
       {
         "tag": "community college",
-        "source_text": "community colleges",
-        "confidence": 0.8855
+        "source_text": "community college faculty",
+        "confidence": 0.7037,
+        "sources": [
+          "associate degrees",
+          "community college faculty"
+        ]
       },
       {
-        "tag": "two-year college",
-        "source_text": "community colleges",
-        "confidence": 0.6736
+        "tag": "nonprofit organization",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 0.6772,
+        "sources": [
+          "non-profit, non-academic organizations",
+          "for-profit organizations"
+        ]
+      },
+      {
+        "tag": "cultural institution",
+        "source_text": "academic institutions",
+        "confidence": 0.5471,
+        "sources": [
+          "academic institutions"
+        ]
+      },
+      {
+        "tag": "independent school",
+        "source_text": "independent museums",
+        "confidence": 0.5468,
+        "sources": [
+          "independent museums"
+        ]
       },
       {
         "tag": "tribal college or university",
         "source_text": "Tribal Nations",
-        "confidence": 0.5465
+        "confidence": 0.5465,
+        "sources": [
+          "Tribal Nations"
+        ]
       },
       {
-        "tag": "two-year college",
-        "source_text": "two-year degrees",
-        "confidence": 0.7464
+        "tag": "public school",
+        "source_text": "secondary school teachers",
+        "confidence": 0.51,
+        "sources": [
+          "secondary school teachers"
+        ]
       },
       {
-        "tag": "community college",
-        "source_text": "two-year degrees",
-        "confidence": 0.5171
+        "tag": "501(c)(3) nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 0.5071,
+        "sources": [
+          "non-profit, non-academic organizations"
+        ]
       },
       {
-        "tag": "community college",
-        "source_text": "community college faculty",
-        "confidence": 0.7038
-      },
-      {
-        "tag": "two-year college",
-        "source_text": "community college faculty",
-        "confidence": 0.5481
+        "tag": "state government agency",
+        "source_text": "State and Local Governments",
+        "confidence": 0.5037,
+        "sources": [
+          "State and Local Governments"
+        ]
       }
     ],
     "geography_tags": [
       {
-        "tag": "rural communities",
-        "source_text": "underrepresented and underserved communities",
-        "confidence": 0.5724
-      },
-      {
         "tag": "tribal nations",
         "source_text": "Tribal Nations",
-        "confidence": 0.9111
+        "confidence": 0.9111,
+        "sources": [
+          "Tribal Nations",
+          "American Indian or Alaska Native tribe"
+        ]
       },
       {
         "tag": "tribal communities",
         "source_text": "Tribal Nations",
-        "confidence": 0.7164
+        "confidence": 0.7164,
+        "sources": [
+          "Tribal Nations"
+        ]
       },
       {
         "tag": "Native American communities",
         "source_text": "Tribal Nations",
-        "confidence": 0.6266
+        "confidence": 0.6266,
+        "sources": [
+          "Tribal Nations",
+          "American Indian or Alaska Native tribe"
+        ]
+      },
+      {
+        "tag": "rural communities",
+        "source_text": "underrepresented and underserved communities",
+        "confidence": 0.5724,
+        "sources": [
+          "underrepresented and underserved communities"
+        ]
       }
     ],
-    "red_flag_tags": []
+    "red_flag_tags": [
+      {
+        "tag": "higher education institutions only",
+        "source_text": "academic institutions",
+        "confidence": 0.706,
+        "sources": [
+          "academic institutions",
+          "Institutions of Higher Education"
+        ]
+      }
+    ]
   },
   "deadline": {
     "status": "date",

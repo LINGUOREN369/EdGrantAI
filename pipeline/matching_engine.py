@@ -41,6 +41,7 @@ from pathlib import Path
 from typing import Dict, Iterable, List, Set, Tuple
 
 from .config import settings
+from .embedding_matcher import load_taxonomy_embeddings, cosine_similarity
 
 
 TAX_KEYS = [
@@ -65,23 +66,96 @@ def _tag_set(profile: Dict, key: str) -> Set[str]:
 def _overlap_ratio(org_tags: Set[str], grant_tags: Set[str]) -> float:
     if not org_tags:
         return 0.0
-    return len(org_tags & grant_tags) / len(org_tags)
+    return len(org_tags & grant_tags) / max(1, len(org_tags))
+
+
+def _semantic_overlap(
+    taxonomy_name: str,
+    org_tags: Set[str],
+    grant_tags: Set[str],
+) -> float:
+    """
+    Compute semantic overlap between org and grant tag sets for a taxonomy
+    using precomputed taxonomy tag embeddings. For each org tag, take the
+    maximum cosine similarity to any grant tag, then average across org tags.
+
+    Similarities below MATCH_TAX_SIM_THRESHOLD are treated as zero.
+    Fallback to exact overlap ratio if embeddings are missing or tag not found.
+    """
+    if not org_tags:
+        return 0.0
+    try:
+        emb = load_taxonomy_embeddings(str(settings.TAXONOMY_EMBEDDINGS_DIR / f"{taxonomy_name}_embeddings.json"))
+    except Exception:
+        return _overlap_ratio(org_tags, grant_tags)
+
+    threshold = settings.MATCH_TAX_SIM_THRESHOLD
+    scores = []
+    for ot in org_tags:
+        vec_o = emb.get(ot)
+        if not vec_o:
+            # unknown tag in embeddings: fallback to exact membership
+            scores.append(1.0 if ot in grant_tags else 0.0)
+            continue
+        best = 0.0
+        for gt in grant_tags:
+            vec_g = emb.get(gt)
+            if not vec_g:
+                continue
+            sim = cosine_similarity(__import__('numpy').array(vec_o), __import__('numpy').array(vec_g))
+            if sim > best:
+                best = sim
+        scores.append(best if best >= threshold else 0.0)
+    # Average across org tags
+    return float(sum(scores) / len(scores)) if scores else 0.0
+
+
+def _geography_overlap(org_tags: Set[str], grant_tags: Set[str]) -> float:
+    """Geography with simple superset rules.
+
+    - If grant includes us_national → full match when org has any US geography tag.
+    - Otherwise use exact overlap ratio.
+    """
+    if not org_tags:
+        return 0.0
+    if "us_national" in grant_tags:
+        # Treat as superset; if org has any geography tag, count full
+        return 1.0 if org_tags else 0.0
+    return _overlap_ratio(org_tags, grant_tags)
+
+
+def _hard_block(org_type_tags: Set[str], grant_red_flags: Set[str]) -> bool:
+    """Return True if any configured red-flag hard block applies and org types
+    do not satisfy the requirement."""
+    rules = settings.MATCH_HARD_BLOCKS
+    for rf in grant_red_flags:
+        rule = rules.get(rf)
+        if not rule:
+            continue
+        req = rule.get("org_type_tags", {}).get("any_of", [])
+        if req and not (org_type_tags & set(req)):
+            return True
+    return False
 
 
 def _score_and_reasons(org: Dict, grant: Dict) -> Tuple[float, str, List[str]]:
     o = {k: _tag_set(org, k) for k in TAX_KEYS}
     g = {k: _tag_set(grant, k) for k in TAX_KEYS}
 
+    # Hard block on certain red flags
+    red_flags_set = set(g["red_flag_tags"]) if g["red_flag_tags"] else set()
+    if _hard_block(o["org_type_tags"], red_flags_set):
+        return 0.0, "Avoid", [f"Hard block due to red flags: {sorted(red_flags_set)}"]
+
     w = settings.MATCH_WEIGHTS
-    mission = _overlap_ratio(o["mission_tags"], g["mission_tags"]) * w["mission_tags"]
-    pop = _overlap_ratio(o["population_tags"], g["population_tags"]) * w["population_tags"]
-    geo = _overlap_ratio(o["geography_tags"], g["geography_tags"]) * w["geography_tags"]
+    mission = _semantic_overlap("mission_tags", o["mission_tags"], g["mission_tags"]) * w["mission_tags"]
+    pop = _semantic_overlap("population_tags", o["population_tags"], g["population_tags"]) * w["population_tags"]
+    geo = _geography_overlap(o["geography_tags"], g["geography_tags"]) * w["geography_tags"]
     orgtype = (1.0 if (o["org_type_tags"] & g["org_type_tags"]) else 0.0) * w["org_type_tags"]
 
     score = mission + pop + geo + orgtype
 
-    red_flags = list(g["red_flag_tags"]) if g["red_flag_tags"] else []
-    if red_flags:
+    if red_flags_set:
         score *= settings.MATCH_RED_FLAG_PENALTY
 
     score = round(score, 3)
@@ -94,16 +168,20 @@ def _score_and_reasons(org: Dict, grant: Dict) -> Tuple[float, str, List[str]]:
         bucket = "Avoid"
 
     reasons: List[str] = []
-    if o["mission_tags"] & g["mission_tags"]:
-        reasons.append(f"Mission overlap: {sorted(o['mission_tags'] & g['mission_tags'])}")
-    if o["population_tags"] & g["population_tags"]:
-        reasons.append(f"Population overlap: {sorted(o['population_tags'] & g['population_tags'])}")
+    if o["mission_tags"]:
+        inter = o["mission_tags"] & g["mission_tags"]
+        if inter:
+            reasons.append(f"Mission overlap: {sorted(inter)}")
+    if o["population_tags"]:
+        inter = o["population_tags"] & g["population_tags"]
+        if inter:
+            reasons.append(f"Population overlap: {sorted(inter)}")
     if o["org_type_tags"] & g["org_type_tags"]:
         reasons.append(f"Org type ok: {sorted(o['org_type_tags'] & g['org_type_tags'])}")
     if o["geography_tags"] & g["geography_tags"]:
         reasons.append(f"Geography overlap: {sorted(o['geography_tags'] & g['geography_tags'])}")
-    if red_flags:
-        reasons.append(f"Red flags: {sorted(red_flags)}")
+    if red_flags_set:
+        reasons.append(f"Red flags: {sorted(red_flags_set)}")
 
     return score, bucket, reasons
 
@@ -166,4 +244,3 @@ def _main(argv=None) -> int:
 
 if __name__ == "__main__":  # pragma: no cover
     raise SystemExit(_main())
-

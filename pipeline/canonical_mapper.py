@@ -90,10 +90,25 @@ def map_phrases_to_canonical(
     if similarity_threshold is None:
         similarity_threshold = _threshold_for_taxonomy(taxonomy_name)
     if top_k is None:
-        top_k = settings.TOP_K
+        top_k = settings.TOP_K_BY_TAXONOMY.get(taxonomy_name, settings.TOP_K)
+
+    top1_gate = taxonomy_name in getattr(settings, "TOP1_TAXONOMIES", [])
 
     for phrase in extracted_phrases:
         candidates = top_k_matches(phrase, taxonomy_embeddings, k=top_k)
+        if top1_gate:
+            if candidates:
+                tag, score = candidates[0]
+                if score >= similarity_threshold:
+                    results.append(
+                        {
+                            "tag": tag,
+                            "source_text": phrase,
+                            "confidence": round(score, 4),
+                        }
+                    )
+            continue
+
         for tag, score in candidates:
             if score >= similarity_threshold:
                 results.append(
@@ -104,7 +119,35 @@ def map_phrases_to_canonical(
                     }
                 )
 
-    return results
+    # Deduplicate by tag across phrases: keep highest confidence; aggregate sources
+    best_by_tag: Dict[str, Dict] = {}
+    for item in results:
+        tag = item["tag"]
+        conf = float(item.get("confidence", 0.0))
+        if tag not in best_by_tag:
+            best_by_tag[tag] = {
+                "tag": tag,
+                "source_text": item.get("source_text"),
+                "confidence": conf,
+                "sources": [item.get("source_text")] if item.get("source_text") else [],
+            }
+        else:
+            # Update best confidence and representative source
+            if conf > best_by_tag[tag]["confidence"]:
+                best_by_tag[tag]["confidence"] = conf
+                best_by_tag[tag]["source_text"] = item.get("source_text")
+            # Collect all sources
+            src = item.get("source_text")
+            if src and src not in best_by_tag[tag]["sources"]:
+                best_by_tag[tag]["sources"].append(src)
+
+    # Sort by confidence desc for stable output
+    deduped = sorted(best_by_tag.values(), key=lambda d: d["confidence"], reverse=True)
+    # Re-round confidence for presentation
+    for d in deduped:
+        d["confidence"] = round(float(d["confidence"]), 4)
+
+    return deduped
 
 
 # -------------------------------------------------------------

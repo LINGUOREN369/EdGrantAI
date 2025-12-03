@@ -1,6 +1,6 @@
 {
   "org_id": "mmsa",
-  "created_at": "2025-11-29T22:42:14.036239-05:00",
+  "created_at": "2025-11-30T17:23:51.759450-05:00",
   "taxonomy_version": "0.0.4",
   "extracted_phrases": [
     "Maine Math & Science Alliance",
@@ -10,153 +10,188 @@
     "Research and Evaluation",
     "STEM learning experiences",
     "Relationship and Network Building",
+    "partnerships",
+    "networks",
     "systemic statewide and nationwide improvement",
-    "support from the National Science Foundation",
+    "STEM education projects",
     "current grant-funded projects",
-    "commitment to accessibility and equity",
-    "advancing diversity, equity, and inclusion"
+    "commitment to Accessibility and Equity",
+    "diversity, equity, and inclusion"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
         "tag": "STEM education",
         "source_text": "STEM education",
-        "confidence": 1.0
+        "confidence": 1.0,
+        "sources": [
+          "STEM education",
+          "STEM learning experiences",
+          "STEM education projects"
+        ]
+      },
+      {
+        "tag": "STEM teacher professional development",
+        "source_text": "high-quality STEM professional development experiences",
+        "confidence": 0.7819,
+        "sources": [
+          "Professional Development",
+          "high-quality STEM professional development experiences",
+          "STEM learning experiences",
+          "STEM education projects"
+        ]
+      },
+      {
+        "tag": "teacher professional development",
+        "source_text": "Professional Development",
+        "confidence": 0.7444,
+        "sources": [
+          "Professional Development",
+          "high-quality STEM professional development experiences"
+        ]
       },
       {
         "tag": "science education",
         "source_text": "STEM education",
-        "confidence": 0.7379
+        "confidence": 0.7379,
+        "sources": [
+          "STEM education"
+        ]
       },
       {
         "tag": "high school STEM education",
         "source_text": "STEM education",
-        "confidence": 0.7345
+        "confidence": 0.7345,
+        "sources": [
+          "STEM education",
+          "high-quality STEM professional development experiences",
+          "STEM learning experiences",
+          "STEM education projects"
+        ]
       },
       {
         "tag": "elementary STEM education",
         "source_text": "STEM education",
-        "confidence": 0.7328
+        "confidence": 0.7328,
+        "sources": [
+          "STEM education"
+        ]
       },
       {
         "tag": "K-12 STEM education",
         "source_text": "STEM education",
-        "confidence": 0.7231
-      },
-      {
-        "tag": "teacher professional development",
-        "source_text": "Professional Development",
-        "confidence": 0.7444
-      },
-      {
-        "tag": "STEM teacher professional development",
-        "source_text": "Professional Development",
-        "confidence": 0.6318
-      },
-      {
-        "tag": "curriculum development",
-        "source_text": "Professional Development",
-        "confidence": 0.566
-      },
-      {
-        "tag": "workforce development",
-        "source_text": "Professional Development",
-        "confidence": 0.5362
-      },
-      {
-        "tag": "education improvement",
-        "source_text": "Professional Development",
-        "confidence": 0.5097
-      },
-      {
-        "tag": "STEM teacher professional development",
-        "source_text": "high-quality STEM professional development experiences",
-        "confidence": 0.7819
-      },
-      {
-        "tag": "high school STEM education",
-        "source_text": "high-quality STEM professional development experiences",
-        "confidence": 0.6928
-      },
-      {
-        "tag": "teacher professional development",
-        "source_text": "high-quality STEM professional development experiences",
-        "confidence": 0.6597
-      },
-      {
-        "tag": "access to STEM opportunities",
-        "source_text": "high-quality STEM professional development experiences",
-        "confidence": 0.659
-      },
-      {
-        "tag": "community-based STEM programs",
-        "source_text": "high-quality STEM professional development experiences",
-        "confidence": 0.6487
-      },
-      {
-        "tag": "evaluation and assessment",
-        "source_text": "Research and Evaluation",
-        "confidence": 0.6136
-      },
-      {
-        "tag": "education research",
-        "source_text": "Research and Evaluation",
-        "confidence": 0.6052
-      },
-      {
-        "tag": "research-practice partnerships",
-        "source_text": "Research and Evaluation",
-        "confidence": 0.5203
-      },
-      {
-        "tag": "research-based learning",
-        "source_text": "Research and Evaluation",
-        "confidence": 0.5133
-      },
-      {
-        "tag": "STEM education",
-        "source_text": "STEM learning experiences",
-        "confidence": 0.7377
+        "confidence": 0.7231,
+        "sources": [
+          "STEM education",
+          "STEM education projects"
+        ]
       },
       {
         "tag": "informal STEM learning",
         "source_text": "STEM learning experiences",
-        "confidence": 0.7214
-      },
-      {
-        "tag": "high school STEM education",
-        "source_text": "STEM learning experiences",
-        "confidence": 0.7063
+        "confidence": 0.7215,
+        "sources": [
+          "STEM learning experiences"
+        ]
       },
       {
         "tag": "middle school STEM education",
         "source_text": "STEM learning experiences",
-        "confidence": 0.7039
+        "confidence": 0.704,
+        "sources": [
+          "STEM learning experiences",
+          "STEM education projects"
+        ]
       },
       {
-        "tag": "STEM teacher professional development",
-        "source_text": "STEM learning experiences",
-        "confidence": 0.6934
+        "tag": "education equity and access",
+        "source_text": "commitment to Accessibility and Equity",
+        "confidence": 0.6905,
+        "sources": [
+          "commitment to Accessibility and Equity",
+          "diversity, equity, and inclusion"
+        ]
+      },
+      {
+        "tag": "access to STEM opportunities",
+        "source_text": "high-quality STEM professional development experiences",
+        "confidence": 0.659,
+        "sources": [
+          "high-quality STEM professional development experiences"
+        ]
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "high-quality STEM professional development experiences",
+        "confidence": 0.6487,
+        "sources": [
+          "high-quality STEM professional development experiences"
+        ]
+      },
+      {
+        "tag": "evaluation and assessment",
+        "source_text": "Research and Evaluation",
+        "confidence": 0.6136,
+        "sources": [
+          "Research and Evaluation"
+        ]
+      },
+      {
+        "tag": "education research",
+        "source_text": "Research and Evaluation",
+        "confidence": 0.6052,
+        "sources": [
+          "Research and Evaluation"
+        ]
+      },
+      {
+        "tag": "STEM equity and access",
+        "source_text": "commitment to Accessibility and Equity",
+        "confidence": 0.5937,
+        "sources": [
+          "commitment to Accessibility and Equity"
+        ]
+      },
+      {
+        "tag": "curriculum development",
+        "source_text": "Professional Development",
+        "confidence": 0.566,
+        "sources": [
+          "Professional Development"
+        ]
       },
       {
         "tag": "education improvement",
         "source_text": "systemic statewide and nationwide improvement",
-        "confidence": 0.5535
+        "confidence": 0.5535,
+        "sources": [
+          "Professional Development",
+          "systemic statewide and nationwide improvement"
+        ]
       },
       {
-        "tag": "education equity and access",
-        "source_text": "commitment to accessibility and equity",
-        "confidence": 0.688
+        "tag": "workforce development",
+        "source_text": "Professional Development",
+        "confidence": 0.5362,
+        "sources": [
+          "Professional Development"
+        ]
       },
       {
-        "tag": "STEM equity and access",
-        "source_text": "commitment to accessibility and equity",
-        "confidence": 0.5742
+        "tag": "research-practice partnerships",
+        "source_text": "Research and Evaluation",
+        "confidence": 0.5203,
+        "sources": [
+          "Research and Evaluation"
+        ]
       },
       {
-        "tag": "education equity and access",
-        "source_text": "advancing diversity, equity, and inclusion",
-        "confidence": 0.5184
+        "tag": "research-based learning",
+        "source_text": "Research and Evaluation",
+        "confidence": 0.5133,
+        "sources": [
+          "Research and Evaluation"
+        ]
       }
     ],
     "population_tags": [],
@@ -165,7 +200,10 @@
       {
         "tag": "statewide programs",
         "source_text": "systemic statewide and nationwide improvement",
-        "confidence": 0.6088
+        "confidence": 0.6088,
+        "sources": [
+          "systemic statewide and nationwide improvement"
+        ]
       }
     ],
     "red_flag_tags": []
