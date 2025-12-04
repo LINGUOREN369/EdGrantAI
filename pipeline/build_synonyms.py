@@ -8,6 +8,8 @@ Generates up to N synonyms per tag using conservative transformations:
  - Singular/plural (students/student, teachers/teacher, agencies/agency, ministries/ministry)
  - Hyphen vs space variants (usually redundant due to normalization but harmless)
  - Common short forms (postdoctoral→postdoc, preproposal→pre-proposal, organization→org)
+ - Safe wording variants (Pre‑K forms, afterschool/after-school, districtwide/district-wide)
+ - Higher education shorthand ("higher education" → "higher ed")
 
 Outputs JSON files under data/taxonomy/synonyms/<taxonomy>_synonyms.auto.json
 
@@ -99,6 +101,47 @@ def _short_forms(s: str) -> List[str]:
     return out
 
 
+def _prek_variants(s: str) -> List[str]:
+    """Generate common Pre-K variants when phrase mentions Pre-K/PreK/Prekindergarten.
+    Conservative: only add when cues present.
+    """
+    out: List[str] = []
+    if re.search(r"\bpre\s*[-–]?\s*k\b", s, re.I) or re.search(r"pre\s*kindergarten", s, re.I):
+        out.extend(["Pre-K", "PreK", "prekindergarten", "Pre‑K"])  # include narrow no-break hyphen form
+    return out
+
+
+def _afterschool_variants(s: str) -> List[str]:
+    out: List[str] = []
+    if re.search(r"\bafter\s*-\s*school\b", s, re.I):
+        out.append(re.sub(r"(?i)after\s*-\s*school", "afterschool", s))
+    if re.search(r"\bafterschool\b", s, re.I):
+        out.append(re.sub(r"(?i)afterschool", "after-school", s))
+    if re.search(r"\bout\s*-\s*of\s*-\s*school\b", s, re.I):
+        out.append(re.sub(r"(?i)out\s*-\s*of\s*-\s*school", "out of school", s))
+    return out
+
+
+def _districtwide_variants(s: str) -> List[str]:
+    out: List[str] = []
+    if re.search(r"\bdistrict\s*-\s*wide\b", s, re.I):
+        out.append(re.sub(r"(?i)district\s*-\s*wide", "districtwide", s))
+    if re.search(r"\bdistrictwide\b", s, re.I):
+        out.append(re.sub(r"(?i)districtwide", "district-wide", s))
+    if re.search(r"\bstate\s*-\s*wide\b", s, re.I):
+        out.append(re.sub(r"(?i)state\s*-\s*wide", "statewide", s))
+    if re.search(r"\bstatewide\b", s, re.I):
+        out.append(re.sub(r"(?i)statewide", "state-wide", s))
+    return out
+
+
+def _higher_ed_variants(s: str) -> List[str]:
+    out: List[str] = []
+    if re.search(r"\bhigher\s+education\b", s, re.I):
+        out.append(re.sub(r"(?i)higher\s+education", "higher ed", s))
+    return out
+
+
 def _singular_plural_variants(s: str) -> List[str]:
     out = []
     # Only apply to last token to reduce harm
@@ -120,6 +163,10 @@ def generate_synonyms_for_tag(tag: str, taxonomy_name: str) -> List[str]:
     syns += _and_amp_variants(s)
     syns += _hyphen_space_variants(s)
     syns += _short_forms(s)
+    syns += _prek_variants(s)
+    syns += _afterschool_variants(s)
+    syns += _districtwide_variants(s)
+    syns += _higher_ed_variants(s)
     syns += _singular_plural_variants(s)
 
     # Geography-specific safe expansions
@@ -198,4 +245,3 @@ def main(argv=None) -> int:
 
 if __name__ == "__main__":  # pragma: no cover
     raise SystemExit(main())
-

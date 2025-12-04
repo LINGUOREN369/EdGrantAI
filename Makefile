@@ -25,7 +25,10 @@ validate-taxonomy:
 taxonomy-refresh: rebuild-taxonomy validate-taxonomy
 
 synonyms-build:
-	python -m pipeline.build_synonyms --all --max 10
+	# 1) Generate safe format-level variants
+	python -m pipeline.build_synonyms --all --max 12
+	# 2) Merge auto variants into curated files and delete autos to keep things tidy
+	python -m pipeline.merge_auto_synonyms --all --delete-auto
 
 grants-all:
 	python -m pipeline.grant_profile_builder -all

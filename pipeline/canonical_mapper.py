@@ -75,7 +75,15 @@ def _load_synonyms_map(taxonomy_name: str) -> Dict[str, str]:
     out: Dict[str, str] = {}
     if not syn_dir.exists() or not syn_dir.is_dir():
         return out
-    for p in syn_dir.glob(f"{taxonomy_name}_synonyms*.json"):
+    # Load auto files first, then manual to allow manual overrides on conflicts
+    files_all = list(syn_dir.glob(f"{taxonomy_name}_synonyms*.json"))
+    # Ignore auto files by default; rely on curated/merged files
+    files = [p for p in files_all if not p.name.endswith(".auto.json")]
+    def _prio(p: Path) -> tuple:
+        name = p.name.lower()
+        # Keep deterministic order; plain name wins over .manual.json in tie
+        return (0, name)
+    for p in sorted(files, key=_prio):
         try:
             with open(p, "r") as f:
                 data = json.load(f)
