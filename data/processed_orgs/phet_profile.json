@@ -1,46 +1,68 @@
 {
   "org_id": "phet",
-  "created_at": "2025-12-03T19:53:45.777570-05:00",
-  "taxonomy_version": "0.0.9",
+  "created_at": "2025-12-04T10:38:25.593068-05:00",
+  "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "PhET Interactive Simulations",
     "global education nonprofit",
     "University of Colorado Boulder",
     "K\u201312 and higher education",
-    "research-based learning tools",
     "STEM learning",
+    "R&D pipeline",
+    "student think-aloud interviews",
+    "cognitive science",
+    "conceptual change",
+    "classroom-based observation cycles",
+    "peer-reviewed publications",
+    "global STEM literacy",
+    "learning tools",
     "Simulation Design & Development",
+    "physics, chemistry, mathematics, biology, and earth science",
     "next-generation interactive environments",
     "Learning Sciences Research",
+    "conceptual understanding",
+    "cognitive scaffolds",
     "Teacher Support & Curriculum Integration",
     "professional development workshops",
+    "districts, states, and global education networks",
     "Equity & Accessibility",
-    "100+ languages",
-    "Grant Purpose Overview",
+    "Accessibility features",
+    "low-bandwidth and device-limited environments",
     "next-generation STEM simulations",
-    "Equitable Access to STEM Tools",
-    "homework pathways",
-    "Independent Learning Systems",
+    "equity, access, and underserved learning environments",
+    "Research-Driven Simulation Development",
+    "Student interviews",
+    "classroom pilots",
+    "UX studies",
+    "Strengthen Equitable Access to STEM Tools",
+    "low-income classrooms",
+    "Accessibility enhancements",
+    "under-resourced districts",
+    "Homework & Independent Learning Systems",
+    "Structured homework pathways",
+    "Real-time feedback systems",
+    "Guided inquiry overlays",
+    "remote/blended learning",
     "Chemistry & Upper-Level STEM Research",
-    "simulation-based learning",
-    "Educator Capacity"
+    "sim-based learning",
+    "Disseminate Research & Build Educator Capacity",
+    "PD workshops",
+    "Research publications",
+    "Open curricular materials",
+    "Partnerships with districts and universities",
+    "high-quality STEM learning tools",
+    "research-based simulation development pipeline",
+    "classrooms worldwide"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "simulation-based learning",
-        "source_text": "simulation-based learning",
+        "tag": "teacher professional development",
+        "source_text": "PD workshops",
         "confidence": 1.0,
         "sources": [
-          "simulation-based learning"
-        ]
-      },
-      {
-        "tag": "research-based learning",
-        "source_text": "research-based learning tools",
-        "confidence": 0.8507,
-        "sources": [
-          "research-based learning tools"
+          "professional development workshops",
+          "PD workshops"
         ]
       },
       {
@@ -56,16 +78,28 @@
         "source_text": "STEM learning",
         "confidence": 0.8257,
         "sources": [
-          "STEM learning"
+          "STEM learning",
+          "global STEM literacy"
+        ]
+      },
+      {
+        "tag": "simulation-based learning",
+        "source_text": "sim-based learning",
+        "confidence": 0.7939,
+        "sources": [
+          "Simulation Design & Development",
+          "sim-based learning",
+          "research-based simulation development pipeline"
         ]
       },
       {
         "tag": "STEM equity and access",
-        "source_text": "Equitable Access to STEM Tools",
-        "confidence": 0.7368,
+        "source_text": "Strengthen Equitable Access to STEM Tools",
+        "confidence": 0.7226,
         "sources": [
           "Equity & Accessibility",
-          "Equitable Access to STEM Tools"
+          "equity, access, and underserved learning environments",
+          "Strengthen Equitable Access to STEM Tools"
         ]
       },
       {
@@ -81,23 +115,21 @@
         "source_text": "STEM learning",
         "confidence": 0.7077,
         "sources": [
-          "STEM learning"
+          "STEM learning",
+          "global STEM literacy",
+          "next-generation STEM simulations",
+          "high-quality STEM learning tools"
         ]
       },
       {
         "tag": "elementary STEM education",
         "source_text": "STEM learning",
-        "confidence": 0.7077,
+        "confidence": 0.7054,
         "sources": [
-          "STEM learning"
-        ]
-      },
-      {
-        "tag": "teacher professional development",
-        "source_text": "professional development workshops",
-        "confidence": 0.7049,
-        "sources": [
-          "professional development workshops"
+          "STEM learning",
+          "global STEM literacy",
+          "next-generation STEM simulations",
+          "high-quality STEM learning tools"
         ]
       },
       {
@@ -105,7 +137,37 @@
         "source_text": "STEM learning",
         "confidence": 0.7029,
         "sources": [
-          "STEM learning"
+          "STEM learning",
+          "global STEM literacy",
+          "next-generation STEM simulations",
+          "high-quality STEM learning tools"
+        ]
+      },
+      {
+        "tag": "education system partnerships",
+        "source_text": "Partnerships with districts and universities",
+        "confidence": 0.6926,
+        "sources": [
+          "Partnerships with districts and universities"
+        ]
+      },
+      {
+        "tag": "STEM education research",
+        "source_text": "STEM learning",
+        "confidence": 0.6901,
+        "sources": [
+          "STEM learning",
+          "Learning Sciences Research"
+        ]
+      },
+      {
+        "tag": "informal STEM learning",
+        "source_text": "STEM learning",
+        "confidence": 0.6859,
+        "sources": [
+          "STEM learning",
+          "global STEM literacy",
+          "high-quality STEM learning tools"
         ]
       },
       {
@@ -113,35 +175,100 @@
         "source_text": "K\u201312 and higher education",
         "confidence": 0.6754,
         "sources": [
-          "K\u201312 and higher education"
+          "K\u201312 and higher education",
+          "STEM learning",
+          "global STEM literacy",
+          "next-generation STEM simulations",
+          "high-quality STEM learning tools"
         ]
       },
       {
         "tag": "broadening participation in STEM",
-        "source_text": "Equitable Access to STEM Tools",
-        "confidence": 0.6387,
+        "source_text": "Strengthen Equitable Access to STEM Tools",
+        "confidence": 0.6588,
         "sources": [
-          "Equitable Access to STEM Tools"
+          "Strengthen Equitable Access to STEM Tools"
         ]
       },
       {
-        "tag": "STEM education research",
-        "source_text": "Learning Sciences Research",
-        "confidence": 0.6196,
+        "tag": "learning technologies",
+        "source_text": "learning tools",
+        "confidence": 0.652,
         "sources": [
-          "Learning Sciences Research"
+          "learning tools"
+        ]
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "global STEM literacy",
+        "confidence": 0.6485,
+        "sources": [
+          "global STEM literacy",
+          "next-generation STEM simulations",
+          "Chemistry & Upper-Level STEM Research"
+        ]
+      },
+      {
+        "tag": "open educational resources (OER)",
+        "source_text": "Open curricular materials",
+        "confidence": 0.6381,
+        "sources": [
+          "Open curricular materials"
         ]
       },
       {
         "tag": "community-based STEM programs",
-        "source_text": "Equitable Access to STEM Tools",
-        "confidence": 0.6067,
+        "source_text": "global STEM literacy",
+        "confidence": 0.6359,
         "sources": [
-          "Equitable Access to STEM Tools"
+          "global STEM literacy",
+          "next-generation STEM simulations",
+          "high-quality STEM learning tools"
+        ]
+      },
+      {
+        "tag": "after-school STEM programs",
+        "source_text": "high-quality STEM learning tools",
+        "confidence": 0.6249,
+        "sources": [
+          "next-generation STEM simulations",
+          "high-quality STEM learning tools"
+        ]
+      },
+      {
+        "tag": "teacher professional learning",
+        "source_text": "professional development workshops",
+        "confidence": 0.6172,
+        "sources": [
+          "professional development workshops"
+        ]
+      },
+      {
+        "tag": "out-of-school STEM programs",
+        "source_text": "high-quality STEM learning tools",
+        "confidence": 0.6006,
+        "sources": [
+          "high-quality STEM learning tools"
+        ]
+      },
+      {
+        "tag": "digital learning platforms",
+        "source_text": "remote/blended learning",
+        "confidence": 0.5776,
+        "sources": [
+          "remote/blended learning"
         ]
       }
     ],
     "population_tags": [
+      {
+        "tag": "low-income students",
+        "source_text": "low-income classrooms",
+        "confidence": 0.7629,
+        "sources": [
+          "low-income classrooms"
+        ]
+      },
       {
         "tag": "K-12 students",
         "source_text": "K\u201312 and higher education",
@@ -153,9 +280,25 @@
       {
         "tag": "K-12 teachers",
         "source_text": "K\u201312 and higher education",
-        "confidence": 0.6632,
+        "confidence": 0.6631,
         "sources": [
           "K\u201312 and higher education"
+        ]
+      },
+      {
+        "tag": "underserved communities",
+        "source_text": "under-resourced districts",
+        "confidence": 0.6152,
+        "sources": [
+          "under-resourced districts"
+        ]
+      },
+      {
+        "tag": "school districts",
+        "source_text": "under-resourced districts",
+        "confidence": 0.6088,
+        "sources": [
+          "under-resourced districts"
         ]
       },
       {
@@ -174,13 +317,14 @@
         "confidence": 0.95
       }
     ],
-    "org_type_tags": [],
-    "geography_tags": [
+    "org_type_tags": [
       {
-        "tag": "Colorado",
-        "source_text": "derived: geography mention in org text",
+        "tag": "501(c)(3) nonprofit",
+        "source_text": "derived: nonprofit mention in org text",
         "confidence": 0.99
-      },
+      }
+    ],
+    "geography_tags": [
       {
         "tag": "global",
         "source_text": "derived: geography mention in org text",

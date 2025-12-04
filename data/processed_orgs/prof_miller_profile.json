@@ -1,21 +1,34 @@
 {
   "org_id": "prof_miller",
-  "created_at": "2025-12-03T19:54:02.886663-05:00",
-  "taxonomy_version": "0.0.9",
+  "created_at": "2025-12-04T10:38:49.579987-05:00",
+  "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "STEM Learning Sciences Research",
     "Early Childhood & Elementary Science Education",
     "Teacher Professional Learning & Pedagogical Design",
     "Nature-Based Education",
-    "NSF-funded project SciEPlay",
-    "Earth & Environmental Science",
+    "SciEPlay",
+    "evidence-based learning environments",
+    "teacher professional learning",
+    "equitable STEM experiences",
     "scientific practices",
+    "teacher professional development",
     "scientific modeling",
-    "scientific reasoning",
-    "teacher professional development"
+    "Earth & Environmental Science",
+    "visualizations and models",
+    "PD programs for elementary and secondary science teachers"
   ],
   "canonical_tags": {
     "mission_tags": [
+      {
+        "tag": "teacher professional learning",
+        "source_text": "teacher professional learning",
+        "confidence": 1.0,
+        "sources": [
+          "Teacher Professional Learning & Pedagogical Design",
+          "teacher professional learning"
+        ]
+      },
       {
         "tag": "teacher professional development",
         "source_text": "teacher professional development",
@@ -23,6 +36,14 @@
         "sources": [
           "Teacher Professional Learning & Pedagogical Design",
           "teacher professional development"
+        ]
+      },
+      {
+        "tag": "STEM equity and access",
+        "source_text": "equitable STEM experiences",
+        "confidence": 0.7786,
+        "sources": [
+          "equitable STEM experiences"
         ]
       },
       {
@@ -36,17 +57,62 @@
       {
         "tag": "learning sciences",
         "source_text": "STEM Learning Sciences Research",
-        "confidence": 0.6934,
+        "confidence": 0.6933,
         "sources": [
           "STEM Learning Sciences Research"
         ]
       },
       {
         "tag": "elementary STEM education",
-        "source_text": "Early Childhood & Elementary Science Education",
-        "confidence": 0.6526,
+        "source_text": "equitable STEM experiences",
+        "confidence": 0.6807,
         "sources": [
-          "Early Childhood & Elementary Science Education"
+          "STEM Learning Sciences Research",
+          "Early Childhood & Elementary Science Education",
+          "equitable STEM experiences",
+          "PD programs for elementary and secondary science teachers"
+        ]
+      },
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "equitable STEM experiences",
+        "confidence": 0.6792,
+        "sources": [
+          "equitable STEM experiences"
+        ]
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "equitable STEM experiences",
+        "confidence": 0.6753,
+        "sources": [
+          "STEM Learning Sciences Research",
+          "equitable STEM experiences"
+        ]
+      },
+      {
+        "tag": "research-based learning",
+        "source_text": "evidence-based learning environments",
+        "confidence": 0.6739,
+        "sources": [
+          "evidence-based learning environments"
+        ]
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "equitable STEM experiences",
+        "confidence": 0.6714,
+        "sources": [
+          "equitable STEM experiences"
+        ]
+      },
+      {
+        "tag": "middle school STEM education",
+        "source_text": "equitable STEM experiences",
+        "confidence": 0.6532,
+        "sources": [
+          "STEM Learning Sciences Research",
+          "equitable STEM experiences"
         ]
       },
       {
@@ -54,7 +120,24 @@
         "source_text": "STEM Learning Sciences Research",
         "confidence": 0.65,
         "sources": [
-          "STEM Learning Sciences Research"
+          "STEM Learning Sciences Research",
+          "equitable STEM experiences"
+        ]
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "equitable STEM experiences",
+        "confidence": 0.6463,
+        "sources": [
+          "equitable STEM experiences"
+        ]
+      },
+      {
+        "tag": "evidence-based practice",
+        "source_text": "evidence-based learning environments",
+        "confidence": 0.6352,
+        "sources": [
+          "evidence-based learning environments"
         ]
       },
       {
@@ -74,19 +157,12 @@
         ]
       },
       {
-        "tag": "high school STEM education",
-        "source_text": "STEM Learning Sciences Research",
-        "confidence": 0.6089,
-        "sources": [
-          "STEM Learning Sciences Research"
-        ]
-      },
-      {
         "tag": "K-12 STEM education",
         "source_text": "Early Childhood & Elementary Science Education",
         "confidence": 0.6067,
         "sources": [
-          "Early Childhood & Elementary Science Education"
+          "Early Childhood & Elementary Science Education",
+          "PD programs for elementary and secondary science teachers"
         ]
       },
       {
