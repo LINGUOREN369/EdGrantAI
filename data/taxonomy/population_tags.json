@@ -1,22 +1,23 @@
 [
   "early childhood learners",
-  "pre-K learners",
   "elementary students",
-  "K-5 students",
   "middle school students",
-  "grades 6-8 students",
   "high school students",
-  "grades 9-12 students",
 
-  "postsecondary students",
+  
+  "K-12 students",
   "undergraduate students",
   "graduate students",
   "community college students",
   "adult learners",
   "opportunity youth",
+  "all-ages learners",
+  "informal learners",
 
   "English learners",
   "multilingual learners",
+  "historically underserved students",
+  "underserved communities",
   "students with disabilities",
   "neurodivergent students",
 
@@ -38,7 +39,16 @@
   "suburban students",
 
   "K-12 teachers",
+  "teachers",
+  "middle school teachers",
+  "high school teachers",
+  "college instructors",
   "pre-service teachers",
   "in-service teachers",
   "postdoctoral researchers"
+  ,
+  "school districts",
+  "state education agencies",
+  "ministries of education",
+  "global learners"
 ]

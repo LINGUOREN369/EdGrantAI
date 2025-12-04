@@ -38,6 +38,7 @@ from __future__ import annotations
 import argparse
 import json
 import time
+import re
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, Optional
@@ -78,6 +79,97 @@ def build_org_profile(
 
     extracted_phrases = run_cke(org_text)
     mapped_tags = map_all_taxonomies(extracted_phrases)
+
+    # Post-processing guardrails & enrichments for org profiles
+    # 1) Remove org_type tags derived from audience-like phrases (safety net)
+    audience_like = re.compile(r"\b(k[-–]?12|k-5|grades?\s*(?:k|\d+(?:-\d+)?)|elementary|middle\s+school|high\s+school|higher\s+education|undergraduate|graduate|postdoctoral|students?|teachers?|instructors?|learners?)\b", re.I)
+    otags = mapped_tags.get("org_type_tags", []) or []
+    cleaned_otags = []
+    for item in otags:
+        sources = item.get("sources") or [item.get("source_text")]
+        # Keep if any source is not audience-like
+        keep = False
+        for s in (sources or []):
+            if s and not audience_like.search(s):
+                keep = True
+                break
+        if keep or not sources:
+            cleaned_otags.append(item)
+    mapped_tags["org_type_tags"] = cleaned_otags
+
+    # 2) Population enrichment for K-12 breadth and higher-ed instructors
+    pops = mapped_tags.get("population_tags", []) or []
+    pop_tags = {p.get("tag") for p in pops if isinstance(p, dict)}
+
+    def _append_pop(tag: str, src: str):
+        if tag not in pop_tags:
+            pops.append({"tag": tag, "source_text": src, "confidence": 0.95})
+            pop_tags.add(tag)
+
+    if re.search(r"\bk[-–]?12\b", org_text, re.I):
+        _append_pop("K-12 students", "derived: K-12 mention in org text")
+        if "K-12 teachers" in pop_tags:
+            _append_pop("middle school teachers", "derived: K-12 teachers breadth")
+            _append_pop("high school teachers", "derived: K-12 teachers breadth")
+    if re.search(r"\b(higher\s+education|postsecondary|college)\b", org_text, re.I):
+        _append_pop("college instructors", "derived: higher education mention")
+    mapped_tags["population_tags"] = pops
+
+    # 3) Geography extraction from org text (lightweight)
+    geos = mapped_tags.get("geography_tags", []) or []
+    geo_tags = {g.get("tag") for g in geos if isinstance(g, dict)}
+
+    def _append_geo(tag: str, src: str):
+        if tag not in geo_tags:
+            geos.append({"tag": tag, "source_text": src, "confidence": 0.99})
+            geo_tags.add(tag)
+
+    text_lower = org_text.lower()
+    # Coarse geography only; require explicit U.S. tokens; do not infer from 'nationwide'/'national'
+    if re.search(r"\b(united\s+states|u\.s\.|usa|u\.s\.a\.)\b", text_lower):
+        _append_geo("United States", "derived: geography mention in org text")
+    if re.search(r"\b(global|worldwide|international)\b", text_lower):
+        _append_geo("global", "derived: geography mention in org text")
+    mapped_tags["geography_tags"] = geos
+
+    # 4) Org-type enforcement based on self-description
+    otags2 = mapped_tags.get("org_type_tags", []) or []
+    otag_set = {o.get("tag") for o in otags2 if isinstance(o, dict)}
+
+    def _append_org_type(tag: str, src: str, conf: float = 0.99):
+        if tag not in otag_set:
+            otags2.append({"tag": tag, "source_text": src, "confidence": conf})
+            otag_set.add(tag)
+
+    if re.search(r"\bnon\s*profit|nonprofit\b", text_lower):
+        # Force nonprofit classification when mentioned
+        _append_org_type("501(c)(3) nonprofit", "derived: nonprofit mention in org text")
+
+    if re.search(r"\b(edtech|education\s+technology|learning\s+platform|digital\s+learning\s+platform|ai[-\s]*powered\s+tutor|ai\s+tutoring|ai\s+tutor)\b", text_lower):
+        _append_org_type("education technology organization", "derived: platform/edtech/AI tutoring mention")
+    mapped_tags["org_type_tags"] = otags2
+
+    # 5) Red-flag filtering: require multiple mentions in org text and high confidence
+    rfs = mapped_tags.get("red_flag_tags", []) or []
+    min_occ = getattr(settings, "RED_FLAG_MIN_OCCURRENCES_ORG", 2)
+    rf_threshold = float(settings.THRESHOLDS.get("red_flags", 0.8))
+
+    def _occurrences(text: str, phrase: str) -> int:
+        if not phrase:
+            return 0
+        pat = re.compile(r"(?i)\b" + re.escape(phrase) + r"\b")
+        return len(pat.findall(text))
+
+    filtered_rfs = []
+    for item in rfs:
+        sources = item.get("sources") or [item.get("source_text")]
+        total = 0
+        for s in (sources or []):
+            total += _occurrences(org_text, s or "")
+        conf = float(item.get("confidence", 0.0))
+        if total >= min_occ and conf >= rf_threshold:
+            filtered_rfs.append(item)
+    mapped_tags["red_flag_tags"] = filtered_rfs
     version = load_taxonomy_version()
 
     profile = {
@@ -209,4 +301,3 @@ def _main(argv=None) -> int:
 
 if __name__ == "__main__":  # pragma: no cover
     raise SystemExit(_main())
-

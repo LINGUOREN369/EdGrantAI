@@ -2,8 +2,10 @@
   "global",
   "international",
   "national",
+
   "United States",
 
+  "U.S. regions",
   "multi-state region",
   "single state",
   "statewide programs",
@@ -36,5 +38,6 @@
   "American Samoa",
   "Northern Mariana Islands",
 
-  "EPSCoR states"
+  "EPSCoR states",
+  "EPSCoR jurisdictions"
 ]

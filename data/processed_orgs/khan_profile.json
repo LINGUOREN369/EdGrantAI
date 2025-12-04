@@ -1,0 +1,105 @@
+{
+  "org_id": "khan",
+  "created_at": "2025-12-03T19:52:40.866494-05:00",
+  "taxonomy_version": "0.0.9",
+  "extracted_phrases": [
+    "global education nonprofit",
+    "mastery-based learning platform",
+    "personalized learning pathways",
+    "teacher & classroom support",
+    "learning science research",
+    "Khan Academy Kids",
+    "high-poverty, multilingual, and underserved communities",
+    "commitment to equity & accessibility",
+    "historically underserved students",
+    "multilingual learners",
+    "community engagement",
+    "mastery-based instruction",
+    "AI-powered tutoring"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "learning sciences",
+        "source_text": "learning science research",
+        "confidence": 0.7137,
+        "sources": [
+          "learning science research"
+        ]
+      },
+      {
+        "tag": "STEM education research",
+        "source_text": "learning science research",
+        "confidence": 0.6485,
+        "sources": [
+          "learning science research"
+        ]
+      },
+      {
+        "tag": "digital learning platforms",
+        "source_text": "mastery-based learning platform",
+        "confidence": 0.6447,
+        "sources": [
+          "mastery-based learning platform"
+        ]
+      },
+      {
+        "tag": "research-based learning",
+        "source_text": "learning science research",
+        "confidence": 0.6281,
+        "sources": [
+          "learning science research"
+        ]
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "multilingual learners",
+        "source_text": "multilingual learners",
+        "confidence": 1.0,
+        "sources": [
+          "multilingual learners"
+        ]
+      },
+      {
+        "tag": "English learners",
+        "source_text": "multilingual learners",
+        "confidence": 0.7237,
+        "sources": [
+          "multilingual learners"
+        ]
+      },
+      {
+        "tag": "low-income students",
+        "source_text": "historically underserved students",
+        "confidence": 0.6502,
+        "sources": [
+          "historically underserved students"
+        ]
+      },
+      {
+        "tag": "K-12 students",
+        "source_text": "derived: K-12 mention in org text",
+        "confidence": 0.95
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [
+      {
+        "tag": "United States",
+        "source_text": "derived: geography mention in org text",
+        "confidence": 0.99
+      },
+      {
+        "tag": "global",
+        "source_text": "derived: geography mention in org text",
+        "confidence": 0.99
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/orgs/khan.txt",
+    "url": null
+  }
+}

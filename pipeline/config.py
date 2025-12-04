@@ -73,13 +73,30 @@ class Settings:
                 return float(default)
 
         self.THRESHOLDS = {
-            "mission": _f("THRESHOLD_MISSION", "0.50"),        # ↑ from 0.55
-            "population": _f("THRESHOLD_POPULATION", "0.60"),  # ↑ big precision
-            "org_type": _f("THRESHOLD_ORG_TYPE", "0.50"),      # ↑ slightly
-            "geography": _f("THRESHOLD_GEOGRAPHY", "0.55"),    # ↑ strict
-            "red_flags": _f("THRESHOLD_RED_FLAGS", "0.70"),    # ↑ very strict
-            "default": _f("THRESHOLD_DEFAULT", "0.7"),        # unchanged
+            "mission": _f("THRESHOLD_MISSION", "0.60"),
+            "population": _f("THRESHOLD_POPULATION", "0.65"),
+            "org_type": _f("THRESHOLD_ORG_TYPE", "0.75"),
+            "geography": _f("THRESHOLD_GEOGRAPHY", "0.85"),
+            "red_flags": _f("THRESHOLD_RED_FLAGS", "0.80"),
+            "default": _f("THRESHOLD_DEFAULT", "0.70"),
         }
+
+        # Optional looser thresholds used as a fallback when strict pass yields no matches
+        self.THRESHOLDS_LOOSE = {
+            "mission": _f("THRESHOLD_MISSION_LOOSE", "0.55"),
+            "population": _f("THRESHOLD_POPULATION_LOOSE", "0.60"),
+            "org_type": _f("THRESHOLD_ORG_TYPE_LOOSE", "0.70"),
+            # Keep geography and red_flags strict by default to avoid hallucinations
+            "geography": _f("THRESHOLD_GEOGRAPHY_LOOSE", "0.85"),
+            "red_flags": _f("THRESHOLD_RED_FLAGS_LOOSE", "0.80"),
+            "default": _f("THRESHOLD_DEFAULT_LOOSE", "0.65"),
+        }
+
+        # Org profile red-flag requirement: minimal number of explicit mentions in text
+        try:
+            self.RED_FLAG_MIN_OCCURRENCES_ORG: int = int(os.getenv("RED_FLAG_MIN_OCCURRENCES_ORG", "2"))
+        except ValueError:
+            self.RED_FLAG_MIN_OCCURRENCES_ORG = 2
 
         # Taxonomy control — central place to manage which taxonomies are used
         # Comma-separated override supported via TAXONOMIES env var
@@ -152,8 +169,8 @@ class Settings:
 
         # Per‑taxonomy TOP_K (fallback to global TOP_K)
         self.TOP_K_BY_TAXONOMY = {
-            "mission_tags": _fi("TOP_K_MISSION", "5"),
-            "population_tags": _fi("TOP_K_POPULATION", "5"),
+            "mission_tags": _fi("TOP_K_MISSION", "8"),
+            "population_tags": _fi("TOP_K_POPULATION", "7"),
             "org_types": _fi("TOP_K_ORG_TYPE", "5"),
             "geography_tags": _fi("TOP_K_GEOGRAPHY", "5"),
             "red_flag_tags": _fi("TOP_K_RED_FLAGS", "5"),

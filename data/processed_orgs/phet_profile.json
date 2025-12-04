@@ -1,204 +1,192 @@
 {
   "org_id": "phet",
-  "created_at": "2025-12-03T15:30:17.216471-05:00",
-  "taxonomy_version": "0.0.5",
+  "created_at": "2025-12-03T19:53:45.777570-05:00",
+  "taxonomy_version": "0.0.9",
   "extracted_phrases": [
     "PhET Interactive Simulations",
-    "K\u201312",
-    "higher education classrooms",
-    "STEM literacy",
-    "research-driven simulation development",
-    "high-quality STEM resources",
+    "global education nonprofit",
+    "University of Colorado Boulder",
+    "K\u201312 and higher education",
+    "research-based learning tools",
+    "STEM learning",
+    "Simulation Design & Development",
+    "next-generation interactive environments",
+    "Learning Sciences Research",
+    "Teacher Support & Curriculum Integration",
+    "professional development workshops",
+    "Equity & Accessibility",
+    "100+ languages",
+    "Grant Purpose Overview",
     "next-generation STEM simulations",
-    "emerging STEM domains",
-    "under-resourced learning environments",
-    "chemistry simulations",
-    "upper-level STEM simulations",
-    "PD workshops"
+    "Equitable Access to STEM Tools",
+    "homework pathways",
+    "Independent Learning Systems",
+    "Chemistry & Upper-Level STEM Research",
+    "simulation-based learning",
+    "Educator Capacity"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "high school STEM education",
-        "source_text": "high-quality STEM resources",
-        "confidence": 0.7199,
+        "tag": "simulation-based learning",
+        "source_text": "simulation-based learning",
+        "confidence": 1.0,
         "sources": [
-          "high-quality STEM resources",
-          "next-generation STEM simulations",
-          "upper-level STEM simulations"
-        ]
-      },
-      {
-        "tag": "K-12 STEM education",
-        "source_text": "K\u201312",
-        "confidence": 0.7017,
-        "sources": [
-          "K\u201312",
-          "high-quality STEM resources"
-        ]
-      },
-      {
-        "tag": "access to STEM opportunities",
-        "source_text": "high-quality STEM resources",
-        "confidence": 0.6976,
-        "sources": [
-          "high-quality STEM resources",
-          "emerging STEM domains"
-        ]
-      },
-      {
-        "tag": "elementary STEM education",
-        "source_text": "high-quality STEM resources",
-        "confidence": 0.6817,
-        "sources": [
-          "K\u201312",
-          "STEM literacy",
-          "high-quality STEM resources",
-          "next-generation STEM simulations",
-          "emerging STEM domains",
-          "upper-level STEM simulations"
-        ]
-      },
-      {
-        "tag": "middle school STEM education",
-        "source_text": "high-quality STEM resources",
-        "confidence": 0.6657,
-        "sources": [
-          "high-quality STEM resources",
-          "next-generation STEM simulations",
-          "upper-level STEM simulations"
-        ]
-      },
-      {
-        "tag": "STEM education",
-        "source_text": "STEM literacy",
-        "confidence": 0.641,
-        "sources": [
-          "STEM literacy"
-        ]
-      },
-      {
-        "tag": "STEM pathways",
-        "source_text": "emerging STEM domains",
-        "confidence": 0.6295,
-        "sources": [
-          "STEM literacy",
-          "emerging STEM domains",
-          "upper-level STEM simulations"
-        ]
-      },
-      {
-        "tag": "STEM career pathways",
-        "source_text": "emerging STEM domains",
-        "confidence": 0.6021,
-        "sources": [
-          "emerging STEM domains"
-        ]
-      },
-      {
-        "tag": "informal STEM learning",
-        "source_text": "emerging STEM domains",
-        "confidence": 0.5901,
-        "sources": [
-          "STEM literacy",
-          "emerging STEM domains"
-        ]
-      },
-      {
-        "tag": "informal learning environments",
-        "source_text": "under-resourced learning environments",
-        "confidence": 0.5889,
-        "sources": [
-          "under-resourced learning environments"
-        ]
-      },
-      {
-        "tag": "undergraduate STEM education",
-        "source_text": "upper-level STEM simulations",
-        "confidence": 0.5866,
-        "sources": [
-          "next-generation STEM simulations",
-          "upper-level STEM simulations"
-        ]
-      },
-      {
-        "tag": "community-based STEM programs",
-        "source_text": "next-generation STEM simulations",
-        "confidence": 0.5741,
-        "sources": [
-          "next-generation STEM simulations"
+          "simulation-based learning"
         ]
       },
       {
         "tag": "research-based learning",
-        "source_text": "research-driven simulation development",
-        "confidence": 0.5705,
+        "source_text": "research-based learning tools",
+        "confidence": 0.8507,
         "sources": [
-          "research-driven simulation development"
+          "research-based learning tools"
+        ]
+      },
+      {
+        "tag": "learning sciences",
+        "source_text": "Learning Sciences Research",
+        "confidence": 0.8365,
+        "sources": [
+          "Learning Sciences Research"
+        ]
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "STEM learning",
+        "confidence": 0.8257,
+        "sources": [
+          "STEM learning"
         ]
       },
       {
         "tag": "STEM equity and access",
-        "source_text": "STEM literacy",
-        "confidence": 0.5532,
+        "source_text": "Equitable Access to STEM Tools",
+        "confidence": 0.7368,
         "sources": [
-          "STEM literacy"
+          "Equity & Accessibility",
+          "Equitable Access to STEM Tools"
+        ]
+      },
+      {
+        "tag": "STEM career pathways",
+        "source_text": "STEM learning",
+        "confidence": 0.7167,
+        "sources": [
+          "STEM learning"
+        ]
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "STEM learning",
+        "confidence": 0.7077,
+        "sources": [
+          "STEM learning"
+        ]
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "STEM learning",
+        "confidence": 0.7077,
+        "sources": [
+          "STEM learning"
         ]
       },
       {
         "tag": "teacher professional development",
-        "source_text": "PD workshops",
-        "confidence": 0.5424,
+        "source_text": "professional development workshops",
+        "confidence": 0.7049,
         "sources": [
-          "PD workshops"
+          "professional development workshops"
+        ]
+      },
+      {
+        "tag": "middle school STEM education",
+        "source_text": "STEM learning",
+        "confidence": 0.7029,
+        "sources": [
+          "STEM learning"
+        ]
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "K\u201312 and higher education",
+        "confidence": 0.6754,
+        "sources": [
+          "K\u201312 and higher education"
+        ]
+      },
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "Equitable Access to STEM Tools",
+        "confidence": 0.6387,
+        "sources": [
+          "Equitable Access to STEM Tools"
+        ]
+      },
+      {
+        "tag": "STEM education research",
+        "source_text": "Learning Sciences Research",
+        "confidence": 0.6196,
+        "sources": [
+          "Learning Sciences Research"
+        ]
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "Equitable Access to STEM Tools",
+        "confidence": 0.6067,
+        "sources": [
+          "Equitable Access to STEM Tools"
         ]
       }
     ],
     "population_tags": [
       {
+        "tag": "K-12 students",
+        "source_text": "K\u201312 and higher education",
+        "confidence": 0.7056,
+        "sources": [
+          "K\u201312 and higher education"
+        ]
+      },
+      {
         "tag": "K-12 teachers",
-        "source_text": "K\u201312",
-        "confidence": 0.7083,
+        "source_text": "K\u201312 and higher education",
+        "confidence": 0.6632,
         "sources": [
-          "K\u201312"
+          "K\u201312 and higher education"
         ]
       },
       {
-        "tag": "K-5 students",
-        "source_text": "K\u201312",
-        "confidence": 0.635,
-        "sources": [
-          "K\u201312"
-        ]
+        "tag": "middle school teachers",
+        "source_text": "derived: K-12 teachers breadth",
+        "confidence": 0.95
+      },
+      {
+        "tag": "high school teachers",
+        "source_text": "derived: K-12 teachers breadth",
+        "confidence": 0.95
+      },
+      {
+        "tag": "college instructors",
+        "source_text": "derived: higher education mention",
+        "confidence": 0.95
       }
     ],
-    "org_type_tags": [
+    "org_type_tags": [],
+    "geography_tags": [
       {
-        "tag": "public school",
-        "source_text": "K\u201312",
-        "confidence": 0.5288,
-        "sources": [
-          "K\u201312"
-        ]
+        "tag": "Colorado",
+        "source_text": "derived: geography mention in org text",
+        "confidence": 0.99
       },
       {
-        "tag": "institution of higher education",
-        "source_text": "higher education classrooms",
-        "confidence": 0.5024,
-        "sources": [
-          "higher education classrooms"
-        ]
-      },
-      {
-        "tag": "public school district",
-        "source_text": "K\u201312",
-        "confidence": 0.5004,
-        "sources": [
-          "K\u201312"
-        ]
+        "tag": "global",
+        "source_text": "derived: geography mention in org text",
+        "confidence": 0.99
       }
     ],
-    "geography_tags": [],
     "red_flag_tags": []
   },
   "source": {

@@ -110,7 +110,7 @@ The funding is still there — but only for organizations who apply intelligentl
 
 Nonprofits can ask ChatGPT for a list of grants. But ChatGPT often produces:
 - One-off suggestions
-- Hallucinated or invalid grants
+- Hallucinated (graduate students == homeless) or invalid grants
 - Expired deadlines
 - No eligibility validation
 - No mission alignment scoring
@@ -220,19 +220,28 @@ Centralized configuration lives in `pipeline/config.py` and auto-loads `.env` va
   - `OPENAI_EMBEDDING_MODEL` (default: `text-embedding-3-large`)
   - `TOP_K` (default: `5`)
   - Per‑taxonomy K (overrides `TOP_K`):
-    - `TOP_K_MISSION` (default: `5`)
-    - `TOP_K_POPULATION` (default: `5`)
+    - `TOP_K_MISSION` (default: `8`)
+    - `TOP_K_POPULATION` (default: `7`)
     - `TOP_K_ORG_TYPE` (default: `5`)
     - `TOP_K_GEOGRAPHY` (default: `5`)
     - `TOP_K_RED_FLAGS` (default: `5`)
-  - `THRESHOLD_MISSION` (default: `0.45`)
-  - `THRESHOLD_POPULATION` (default: `0.50`)
-  - `THRESHOLD_ORG_TYPE` (default: `0.50`)
-  - `THRESHOLD_GEOGRAPHY` (default: `0.55`)
-  - `THRESHOLD_RED_FLAGS` (default: `0.35`)
-  - `THRESHOLD_DEFAULT` (default: `0.51`)
+  - `THRESHOLD_MISSION` (default: `0.60`)
+  - `THRESHOLD_POPULATION` (default: `0.65`)
+  - `THRESHOLD_ORG_TYPE` (default: `0.75`)
+  - `THRESHOLD_GEOGRAPHY` (default: `0.85`)
+  - `THRESHOLD_RED_FLAGS` (default: `0.80`)
+  - `THRESHOLD_DEFAULT` (default: `0.70`)
   - `TIMEZONE` (default: `America/New_York` for `created_at` timestamps)
   - `TOP1_TAXONOMIES` (comma‑sep; default: empty) — only the best tag per phrase is kept for listed taxonomies.
+  - `RED_FLAG_MIN_OCCURRENCES_ORG` (default: `2`) — org profiles keep a red flag only if its triggering phrase(s) appear at least this many times in the org text.
+
+Two‑stage thresholds (strict → loose)
+- The mapper attempts dictionary matches first (confidence 1.0). If none, it runs embeddings with strict thresholds, then optionally retries with looser thresholds if nothing matched.
+- Defaults (strict):
+  - `THRESHOLD_MISSION`=0.60, `THRESHOLD_POPULATION`=0.65, `THRESHOLD_ORG_TYPE`=0.75, `THRESHOLD_GEOGRAPHY`=0.85, `THRESHOLD_RED_FLAGS`=0.80
+- Defaults (loose, only used if strict yields no matches):
+  - `THRESHOLD_MISSION_LOOSE`=0.55, `THRESHOLD_POPULATION_LOOSE`=0.60, `THRESHOLD_ORG_TYPE_LOOSE`=0.70
+  - `THRESHOLD_GEOGRAPHY_LOOSE`=0.85, `THRESHOLD_RED_FLAGS_LOOSE`=0.80 (kept strict by default)
 
 NSF-specific prompt
 - The Controlled Keyphrase Extractor uses the NSF‑focused prompt at `prompts/cke_prompt_nsf_v1.txt`.
@@ -250,6 +259,9 @@ Use the provided Make targets to keep taxonomies in sync:
   - `make validate-taxonomy`
 - Rebuild then validate in one go:
   - `make taxonomy-refresh`
+
+- Generate synonyms (safe, format-level variants) for all taxonomies:
+  - `make synonyms-build`
 
 Quick embeddings rebuild checklist
 - Rebuild taxonomy embeddings:
@@ -328,6 +340,36 @@ Examples: US National, state-specific, New England, global.
 **Red Flag Tags**
 
 Examples: "Requires district partner," "Invitation-only," "Only funds universities."
+
+---
+
+## Synonyms (Dictionary Pre‑Mapping)
+
+Before embedding similarity, extracted phrases are first matched via a case/space/punctuation‑insensitive dictionary against canonical tags and optional synonym files:
+
+- Location: `data/taxonomy/synonyms/`
+- Files (optional, per taxonomy):
+  - `mission_tags_synonyms.json`
+  - `population_tags_synonyms.json`
+  - `org_types_synonyms.json`
+  - `geography_tags_synonyms.json`
+  - `red_flag_tags_synonyms.json`
+  - `nsf_programs_synonyms.json`
+
+Format: JSON object mapping synonym phrase → canonical tag (string to string). Example:
+
+```
+{
+  "teacher pd": "teacher professional development",
+  "ai tutoring": "AI-powered tutoring",
+  "oer": "open educational resources (OER)"
+}
+```
+
+Behavior:
+- Direct dictionary matches (with normalization) map at confidence 1.0 and skip embeddings.
+- If no dictionary match, the system falls back to embedding similarity with thresholds.
+- Guardrails still apply (e.g., audience terms cannot map to org_type; red flags require gating terms).
 
 ---
 

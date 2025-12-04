@@ -19,6 +19,7 @@ Environment:
 import json
 from pathlib import Path
 from typing import Dict, List, Tuple
+import re
 from .embedding_matcher import match_phrase_to_tag, load_taxonomy_embeddings, top_k_matches
 from .config import settings
 
@@ -55,11 +56,72 @@ def load_embeddings(name: str) -> Dict[str, List[float]]:
 
 
 # -------------------------------------------------------------
+# Helper: Direct (non-embedding) mapping by normalized text
+# -------------------------------------------------------------
+def _normalize_text(s: str) -> str:
+    """Normalize by lowercasing and removing all non-alphanumeric characters.
+    This makes mapping insensitive to case, whitespace, and punctuation/hyphens.
+    """
+    return re.sub(r"[^a-z0-9]", "", (s or "").lower())
+
+
+def _load_synonyms_map(taxonomy_name: str) -> Dict[str, str]:
+    """Load synonyms maps for a taxonomy.
+    - Scans data/taxonomy/synonyms/ for files starting with
+      f"{taxonomy_name}_synonyms" and ending with .json
+    - Merges all into a single dict of normalized synonym phrase -> canonical tag
+    """
+    syn_dir = settings.TAXONOMY_DIR / "synonyms"
+    out: Dict[str, str] = {}
+    if not syn_dir.exists() or not syn_dir.is_dir():
+        return out
+    for p in syn_dir.glob(f"{taxonomy_name}_synonyms*.json"):
+        try:
+            with open(p, "r") as f:
+                data = json.load(f)
+                if isinstance(data, dict):
+                    # Case 1: flat map of synonym -> canonical
+                    if all(isinstance(v, str) for v in data.values()):
+                        for k, v in data.items():
+                            if isinstance(k, str) and isinstance(v, str) and v:
+                                out[_normalize_text(k)] = v
+                    else:
+                        # Case 2: grouped by canonical tag
+                        for canonical, val in data.items():
+                            syns = None
+                            if isinstance(val, list):
+                                syns = val
+                            elif isinstance(val, dict) and isinstance(val.get("synonyms"), list):
+                                syns = val.get("synonyms")
+                            if syns:
+                                for s in syns:
+                                    if isinstance(s, str) and s:
+                                        out[_normalize_text(s)] = canonical
+                elif isinstance(data, list):
+                    # Case 3: list of {canonical, synonyms: []}
+                    for item in data:
+                        if isinstance(item, dict) and isinstance(item.get("canonical"), str) and isinstance(item.get("synonyms"), list):
+                            canonical = item["canonical"]
+                            for s in item["synonyms"]:
+                                if isinstance(s, str) and s:
+                                    out[_normalize_text(s)] = canonical
+        except Exception:
+            # Skip malformed files but continue
+            continue
+    return out
+
+
+# -------------------------------------------------------------
 # Main: Map extracted phrases to canonical tags
 # -------------------------------------------------------------
 def _threshold_for_taxonomy(taxonomy_name: str) -> float:
     k = settings.THRESHOLD_KEY_BY_TAXONOMY.get(taxonomy_name, "default")
     return float(settings.THRESHOLDS.get(k, settings.THRESHOLDS.get("default", 0.51)))
+
+
+def _loose_threshold_for_taxonomy(taxonomy_name: str) -> float:
+    k = settings.THRESHOLD_KEY_BY_TAXONOMY.get(taxonomy_name, "default")
+    return float(getattr(settings, "THRESHOLDS_LOOSE", {}).get(k, settings.THRESHOLDS.get(k, 0.5)))
 
 
 def map_phrases_to_canonical(
@@ -84,6 +146,18 @@ def map_phrases_to_canonical(
 
     # Load embeddings for this taxonomy
     taxonomy_embeddings = load_embeddings(taxonomy_name)
+    # Build direct map (normalized) for canonical tags and optional synonyms
+    direct_map: Dict[str, str] = {}
+    try:
+        for tag in load_taxonomy_list(taxonomy_name):
+            if isinstance(tag, str):
+                direct_map[_normalize_text(tag)] = tag
+    except Exception:
+        # If tag list not found, keep direct_map empty
+        pass
+    # Merge synonyms (if present)
+    syn_map = _load_synonyms_map(taxonomy_name)
+    direct_map.update(syn_map)
     results = []
 
     # Resolve defaults from settings if not provided
@@ -94,12 +168,67 @@ def map_phrases_to_canonical(
 
     top1_gate = taxonomy_name in getattr(settings, "TOP1_TAXONOMIES", [])
 
+    # Heuristic guardrails to reduce systemic misclassification
+    audience_like = re.compile(r"\b(k[-–]?12|k-5|grades?\s*(?:k|\d+(?:-\d+)?)|elementary|middle\s+school|high\s+school|higher\s+education|undergraduate|graduate|postdoctoral|students?|teachers?|instructors?|learners?)\b", re.I)
+    redflag_gate = re.compile(r"\b(only|limited|eligib|require|required|must|submission\s*limit|letter\s*of\s*intent|prepropos|IRB|human\s*subjects|data\s*management|mentoring|letters\s*of\s*collaboration)\b", re.I)
+
+    def _allow_mapping(phrase: str, tag: str) -> bool:
+        # Org type: avoid mapping audience phrases to organization types
+        if taxonomy_name == "org_types":
+            if audience_like.search(phrase or ""):
+                return False
+        # Red flags: require strong gating terms in the phrase
+        if taxonomy_name == "red_flag_tags":
+            if not redflag_gate.search(phrase or ""):
+                return False
+        # Mission: tighten computing-specific tags unless explicit cues present
+        if taxonomy_name == "mission_tags":
+            if tag.lower() in {"computing education research", "computer science education", "computing education"}:
+                if not re.search(r"\b(comput|computer\s*science|\bCS\b|coding)\b", (phrase or ""), re.I):
+                    return False
+        # Population: avoid overgeneralizing English learners from multilingual
+        if taxonomy_name == "population_tags":
+            if tag.lower().strip() == "english learners":
+                if not re.search(r"\benglish\b", (phrase or ""), re.I):
+                    return False
+        return True
+
     for phrase in extracted_phrases:
+        # 1) Direct dictionary match (case/space/punctuation insensitive)
+        norm = _normalize_text(phrase)
+        direct_tag = direct_map.get(norm)
+        if direct_tag and _allow_mapping(phrase, direct_tag):
+            results.append(
+                {
+                    "tag": direct_tag,
+                    "source_text": phrase,
+                    "confidence": 1.0,
+                }
+            )
+            # Skip embedding fallback for this phrase
+            continue
+
+        # 2) Embedding-based fallback with strict-then-loose thresholds
         candidates = top_k_matches(phrase, taxonomy_embeddings, k=top_k)
-        if top1_gate:
-            if candidates:
-                tag, score = candidates[0]
-                if score >= similarity_threshold:
+
+        def _append_by_thresh(thresh: float) -> int:
+            appended = 0
+            if top1_gate:
+                if candidates:
+                    tag, score = candidates[0]
+                    if score >= thresh and _allow_mapping(phrase, tag):
+                        results.append(
+                            {
+                                "tag": tag,
+                                "source_text": phrase,
+                                "confidence": round(score, 4),
+                            }
+                        )
+                        appended += 1
+                return appended
+            # Not top-1 gate: collect all meeting threshold
+            for tag, score in candidates:
+                if score >= thresh and _allow_mapping(phrase, tag):
                     results.append(
                         {
                             "tag": tag,
@@ -107,17 +236,15 @@ def map_phrases_to_canonical(
                             "confidence": round(score, 4),
                         }
                     )
-            continue
+                    appended += 1
+            return appended
 
-        for tag, score in candidates:
-            if score >= similarity_threshold:
-                results.append(
-                    {
-                        "tag": tag,
-                        "source_text": phrase,
-                        "confidence": round(score, 4),
-                    }
-                )
+        added = _append_by_thresh(float(similarity_threshold))
+        if added == 0:
+            loose = _loose_threshold_for_taxonomy(taxonomy_name)
+            # Only attempt a looser pass if it is actually looser
+            if float(loose) < float(similarity_threshold):
+                _append_by_thresh(float(loose))
 
     # Deduplicate by tag across phrases: keep highest confidence; aggregate sources
     best_by_tag: Dict[str, Dict] = {}

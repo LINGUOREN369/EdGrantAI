@@ -66,3 +66,35 @@ Return only a JSON array of strings with no commentary:
   "phrase c"
 ]
 
+---
+
+Organization Profile Extraction (Org Text Only)
+
+When the input is an organization description (RAW_ORG_TEXT), apply these additional guardrails while still extracting only short verbatim phrases (no inference, no summarization):
+
+1) Org Type (self‑description only)
+   - Extract org‑identity phrases only when they clearly describe the organization itself, e.g., "501(c)(3) nonprofit", "education nonprofit", "university‑based research center", "research institute", "research lab", "edtech organization", "community‑based organization".
+   - Do NOT extract audience terms as org type: mentions of "schools", "districts", "universities", "teachers", or "students" do not imply org type.
+   - Only extract "public school", "school district", or "four‑year university" if the org explicitly IS that entity in the text.
+
+2) Geography (explicit, coarse only)
+   - Extract only coarse-grained geography for orgs: "United States" or "global" (and similar worldwide terms) when explicitly stated.
+   - Do NOT extract U.S. state names, cities, or districts for organization profiles.
+   - Do NOT infer geography from context or implication.
+
+3) Populations (explicit only)
+   - Extract populations that are explicitly mentioned (e.g., "K–12 teachers", "middle school students", "college instructors").
+   - Do NOT generalize (e.g., do not invent grade bands from "K–12"). Keep verbatim phrases only.
+
+4) Mission relevance (core work only)
+   - Prefer phrases that reflect the organization’s core work (e.g., "learning technologies", "open educational resources (OER)", "simulation‑based learning").
+   - Avoid tangential topics triggered only by loose similarity.
+
+5) Red‑flag/requirements (verbatim and gated)
+   - Extract only if stated as a requirement/constraint (e.g., contains cues like "only", "required", "must", "eligibility", "submission limit", "letter of intent", "IRB", "data management and sharing plan", "postdoctoral mentoring plan", "letters of collaboration").
+   - If ambiguous, skip; do not extract red‑flag phrases from generic mentions.
+
+6) Partnerships and systems (explicit only)
+   - Extract explicit partner/system phrases like "school districts", "state education agencies", "ministries of education", when they appear verbatim.
+
+Remember: output remains a JSON array of verbatim phrases. Do not output canonical tags, scores, or structured objects.

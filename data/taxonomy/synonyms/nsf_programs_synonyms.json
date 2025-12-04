@@ -1,0 +1,52 @@
+{
+  "bio": "Biological Sciences (BIO)",
+  "dbi": "Biological Infrastructure (DBI)",
+  "deb": "Environmental Biology (DEB)",
+  "ef": "Emerging Frontiers (EF)",
+  "ios": "Integrative Organismal Systems (IOS)",
+  "mcb": "Molecular and Cellular Biosciences (MCB)",
+
+  "cise": "Computer and Information Science and Engineering (CISE)",
+  "oac": "Advanced Cyberinfrastructure (OAC)",
+  "ccf": "Computing and Communication Foundations (CCF)",
+  "cns": "Computer and Network Systems (CNS)",
+  "iis": "Information and Intelligent Systems (IIS)",
+
+  "eng": "Engineering (ENG)",
+  "cbet": "Chemical, Bioengineering, Environmental and Transport Systems (CBET)",
+  "cmmi": "Civil, Mechanical and Manufacturing Innovation (CMMI)",
+  "eccs": "Electrical, Communications and Cyber Systems (ECCS)",
+  "eec": "Engineering Education and Centers (EEC)",
+  "efma": "Emerging Frontiers and Multidisciplinary Activities (EFMA)",
+
+  "geo": "Geosciences (GEO)",
+  "ags": "Atmospheric and Geospace Sciences (AGS)",
+  "ear": "Earth Sciences (EAR)",
+  "oce": "Ocean Sciences (OCE)",
+  "opp": "Polar Programs (OPP)",
+  "rise": "Research, Innovation, Synergies, and Education (RISE)",
+
+  "oia": "Integrative Activities (OIA)",
+  "oise": "International Science and Engineering (OISE)",
+
+  "mps": "Mathematical and Physical Sciences (MPS)",
+  "ast": "Astronomical Sciences (AST)",
+  "che": "Chemistry (CHE)",
+  "dmr": "Materials Research (DMR)",
+  "dms": "Mathematical Sciences (DMS)",
+  "phy": "Physics (PHY)",
+  "osi": "Strategic Initiatives (OSI)",
+
+  "sbe": "Social, Behavioral and Economic Sciences (SBE)",
+  "bcs": "Behavioral and Cognitive Sciences (BCS)",
+  "ses": "Social and Economic Sciences (SES)",
+  "sma": "Multidisciplinary Activities (SMA)",
+
+  "edu": "STEM Education (EDU)",
+  "ees": "Equity for Excellence in STEM (EES)",
+  "dge": "Graduate Education (DGE)",
+  "drl": "Research on Learning in Formal and Informal Settings (DRL)",
+  "due": "Undergraduate Education (DUE)",
+  "tip": "Technology, Innovation and Partnerships (TIP)"
+}
+

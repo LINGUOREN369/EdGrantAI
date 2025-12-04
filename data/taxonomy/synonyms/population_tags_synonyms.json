@@ -1,0 +1,35 @@
+{
+  "educators": "teachers",
+  "k-12 educators": "K-12 teachers",
+  "faculty": "college instructors",
+  "university instructors": "college instructors",
+
+  "young children": "early childhood learners",
+  "early learners": "early childhood learners",
+  "pre-k children": "early childhood learners",
+  "preschoolers": "early childhood learners",
+
+  "economically disadvantaged students": "low-income students",
+  "students from low-income backgrounds": "low-income students",
+  "title i students": "low-income students",
+
+  "emergent bilinguals": "multilingual learners",
+  "english language learners": "English learners",
+
+  "underrepresented students": "historically underserved students",
+  "underserved students": "historically underserved students",
+  "marginalized students": "historically underserved students",
+
+  "districts": "school districts",
+  "district partners": "school districts",
+  "state departments of education": "state education agencies",
+  "seas": "state education agencies",
+  "ministry of education": "ministries of education",
+
+  "learners worldwide": "global learners",
+  "users worldwide": "global learners",
+  "students around the world": "global learners",
+  "out-of-school learners": "informal learners",
+  "school-aged students": "K-12 students"
+}
+

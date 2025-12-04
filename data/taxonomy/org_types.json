@@ -1,5 +1,4 @@
 [
-  "nonprofit organization",
   "501(c)(3) nonprofit",
   "fiscally sponsored project",
 
@@ -7,8 +6,7 @@
   "public school",
   "single-site charter school",
   "charter school network",
-  "independent school",
-  "private school",
+  "independent private school",
 
   "institution of higher education",
   "two-year college",
@@ -17,8 +15,9 @@
   "minority-serving institution",
   "historically Black college or university",
   "tribal college or university",
+  "university-based research center",
+  "education technology organization",
 
-  "local education agency (LEA)",
   "national laboratory",
   "industry partner",
   "international organization",
@@ -32,7 +31,6 @@
   "youth development organization",
   "after-school program provider",
 
-  "library system",
   "public library",
   "museum",
   "science center",

@@ -1,0 +1,23 @@
+{
+  "nonprofit 501c3": "501(c)(3) nonprofit",
+  "501c3": "501(c)(3) nonprofit",
+  "501 c 3": "501(c)(3) nonprofit",
+  "non-profit 501(c)(3)": "501(c)(3) nonprofit",
+
+  "edtech organization": "education technology organization",
+  "edtech company": "education technology organization",
+  "edtech nonprofit": "education technology organization",
+  "learning platform": "education technology organization",
+
+  "university research center": "university-based research center",
+  "research center at a university": "university-based research center",
+
+  "lea": "public school district",
+  "local education agency": "public school district",
+
+  "tribal college": "tribal college or university",
+  "hbcu": "historically Black college or university",
+  "msi": "minority-serving institution",
+  "cbo": "community-based organization"
+}
+

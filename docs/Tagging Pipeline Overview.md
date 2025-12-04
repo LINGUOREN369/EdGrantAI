@@ -13,17 +13,18 @@ This document describes the full set of components and steps used by EdGrant AI 
                            ┌──────────────────────────────────────────┐
                            │      1. Controlled Keyphrase Extractor   │
                            │------------------------------------------│
-                           │  prompt: prompts/cke_prompt_v1.txt       │
-                           │  code:   src/extract/cke.py              │
+                           │  prompt: prompts/cke_prompt_nsf_v1.txt   │
+                           │  code:   pipeline/cke.py                 │
                            └───────────────────────┬──────────────────┘
                                                    │  extracted_phrases
                                                    ▼
                      ┌────────────────────────────────────────────────────────┐
-                     │        2. Embedding-Based Semantic Mapping             │
+                     │        2. Dictionary + Embedding Mapping               │
                      │--------------------------------------------------------│
                      │ taxonomy JSON files: data/taxonomy/*.json              │
-                     │ code: src/match/embedding_matcher.py                   │
-                     │      src/match/canonical_mapper.py                     │
+                     │ synonyms: data/taxonomy/synonyms/*.json                │
+                     │ code: pipeline/embedding_matcher.py                    │
+                     │      pipeline/canonical_mapper.py                      │
                      └──────────────────────────┬─────────────────────────────┘
                                                 │ canonical_tags + confidence
                                                 ▼
@@ -93,8 +94,8 @@ Final JSON Grant Profile
 ## 3. Controlled Keyphrase Extractor (CKE)
 
 The Controlled Keyphrase Extractor is a restricted, rule-driven extraction module that uses:
-    - a stored prompt file (/prompts/cke_prompt_v1.txt)
-    - a Python execution wrapper (src/extract/controlled_keyphrase_extractor.py)
+    - a stored prompt file (/prompts/cke_prompt_nsf_v1.txt)
+    - a Python execution wrapper (pipeline/cke.py)
 
 Purpose
 
@@ -127,10 +128,15 @@ This stage ensures safety, interpretability, and non-hallucinatory behavior.
 
 ---
 
-## 4. Embedding-Based Semantic Mapping
+## 4. Dictionary + Embedding Mapping
 
-Each extracted phrase is converted into an embedding vector.
-Each canonical tag in the taxonomy also has a stored embedding.
+Mapping uses two stages:
+1) Dictionary pre-mapping (case/space/punctuation-insensitive):
+   - Tries direct matches against canonical tags and synonyms in `data/taxonomy/synonyms/`.
+   - Direct matches map with confidence 1.0 and skip embeddings.
+2) Embedding fallback (strict → loose thresholds):
+   - If no dictionary match, embed the phrase and compare to taxonomy tag embeddings.
+   - Apply strict thresholds per taxonomy; if no match, optionally retry once with a slightly looser threshold (geography and red flags remain strict by default).
 
 Mapping is performed using semantic similarity:
 
@@ -139,11 +145,9 @@ Mapping is performed using semantic similarity:
 The highest-scoring canonical tag above a threshold is selected.
 
 Benefits
-    - No synonym dictionary required
-    - No brittle keyword rules
-    - Scales with taxonomy size
-    - Robust and semantically accurate
-    - Evidence-supported mapping
+    - High precision via dictionary matches for common variants
+    - Recall preserved via controlled embedding fallback
+    - Guardrails reduce systemic misclassification (e.g., audience ≠ org type; gated red flags; explicit computing/English cues)
 
 Example Mappings
 
@@ -226,14 +230,15 @@ This structure is optimized for search, ranking, filtering, analytics, and downs
 
 ## 7. File Locations in the Repository
 
-| Component                | Location                                      |
-|--------------------------|-----------------------------------------------|
-| CKE Prompt               | prompts/cke_prompt_v1.txt                     |
-| CKE Runner Code          | src/extract/controlled_keyphrase_extractor.py |
-| Embedding Matching Code  | src/match/embedding_matcher.py                |
-| Canonical Tag Mapper     | src/match/canonical_mapper.py                 |
-| Taxonomy Files           | data/taxonomy/*                               |
-| This Document            | docs/pipeline_overview.md                     |
+| Component                | Location                      |
+|--------------------------|-------------------------------|
+| CKE Prompt               | prompts/cke_prompt_nsf_v1.txt |
+| CKE Runner Code          | pipeline/cke.py               |
+| Embedding Matching Code  | pipeline/embedding_matcher.py |
+| Canonical Tag Mapper     | pipeline/canonical_mapper.py  |
+| Taxonomy Files           | data/taxonomy/*               |
+| Synonyms                 | data/taxonomy/synonyms/*      |
+| This Document            | docs/Tagging Pipeline Overview.md |
 
 
 ---

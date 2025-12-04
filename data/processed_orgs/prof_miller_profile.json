@@ -1,0 +1,116 @@
+{
+  "org_id": "prof_miller",
+  "created_at": "2025-12-03T19:54:02.886663-05:00",
+  "taxonomy_version": "0.0.9",
+  "extracted_phrases": [
+    "STEM Learning Sciences Research",
+    "Early Childhood & Elementary Science Education",
+    "Teacher Professional Learning & Pedagogical Design",
+    "Nature-Based Education",
+    "NSF-funded project SciEPlay",
+    "Earth & Environmental Science",
+    "scientific practices",
+    "scientific modeling",
+    "scientific reasoning",
+    "teacher professional development"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "teacher professional development",
+        "source_text": "teacher professional development",
+        "confidence": 1.0,
+        "sources": [
+          "Teacher Professional Learning & Pedagogical Design",
+          "teacher professional development"
+        ]
+      },
+      {
+        "tag": "STEM education research",
+        "source_text": "STEM Learning Sciences Research",
+        "confidence": 0.7665,
+        "sources": [
+          "STEM Learning Sciences Research"
+        ]
+      },
+      {
+        "tag": "learning sciences",
+        "source_text": "STEM Learning Sciences Research",
+        "confidence": 0.6934,
+        "sources": [
+          "STEM Learning Sciences Research"
+        ]
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "Early Childhood & Elementary Science Education",
+        "confidence": 0.6526,
+        "sources": [
+          "Early Childhood & Elementary Science Education"
+        ]
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "STEM Learning Sciences Research",
+        "confidence": 0.65,
+        "sources": [
+          "STEM Learning Sciences Research"
+        ]
+      },
+      {
+        "tag": "science education",
+        "source_text": "Early Childhood & Elementary Science Education",
+        "confidence": 0.6274,
+        "sources": [
+          "Early Childhood & Elementary Science Education"
+        ]
+      },
+      {
+        "tag": "informal STEM learning",
+        "source_text": "STEM Learning Sciences Research",
+        "confidence": 0.6226,
+        "sources": [
+          "STEM Learning Sciences Research"
+        ]
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "STEM Learning Sciences Research",
+        "confidence": 0.6089,
+        "sources": [
+          "STEM Learning Sciences Research"
+        ]
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "Early Childhood & Elementary Science Education",
+        "confidence": 0.6067,
+        "sources": [
+          "Early Childhood & Elementary Science Education"
+        ]
+      },
+      {
+        "tag": "early childhood education",
+        "source_text": "Early Childhood & Elementary Science Education",
+        "confidence": 0.6028,
+        "sources": [
+          "Early Childhood & Elementary Science Education"
+        ]
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "college instructors",
+        "source_text": "derived: higher education mention",
+        "confidence": 0.95
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/orgs/prof_miller.txt",
+    "url": null
+  }
+}

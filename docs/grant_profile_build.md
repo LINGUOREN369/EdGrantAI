@@ -1,12 +1,14 @@
 # How the Grant Profile Is Built
 
-1) Controlled Keyphrase Extraction
-- Extracts verbatim phrases from the grant text via the chat model using your stored prompt.
-- Code: `pipeline/cke.py:43`
+1) Controlled Keyphrase Extraction (CKE)
+- Extracts verbatim phrases (1–6 words) using the stored prompt.
+- Prompt: `prompts/cke_prompt_nsf_v1.txt`
+- Code: `pipeline/cke.py`
 
-2) Canonical Mapping (Embeddings)
-- Embeds each extracted phrase and compares it against precomputed taxonomy embeddings (cosine similarity). Keeps matches at or above the threshold (default 0.70).
-- Code: `pipeline/canonical_mapper.py:60`, `pipeline/canonical_mapper.py:102`, `pipeline/embedding_matcher.py:49`
+2) Canonical Mapping (Dictionary → Embeddings)
+- Dictionary pre‑mapping: normalize phrases and map directly to canonical tags/synonyms in `data/taxonomy/synonyms/*` (confidence 1.0).
+- Embedding fallback: only if no dictionary match; runs strict thresholds first, then (if needed) a single looser pass for select taxonomies.
+- Code: `pipeline/canonical_mapper.py`, `pipeline/embedding_matcher.py`
 
 3) Metadata Attachment
 - Reads and attaches the taxonomy version to the profile.
@@ -32,6 +34,7 @@ Deadline
 
 Notes
 - Profiles do not store raw embedding vectors; only phrases and matched tags (with confidence) are saved.
+- Synonyms: add manual synonyms in `data/taxonomy/synonyms/<taxonomy>_synonyms.json` and/or auto‑generate format variants via `make synonyms-build`.
 - Ensure taxonomy embeddings exist at `data/taxonomy/embeddings/*_embeddings.json` before running mapping.
 
 ## CLI
@@ -64,4 +67,4 @@ Canonical tag entries
 - Each item in `canonical_tags.<taxonomy>` includes:
   - `tag`: the canonical taxonomy tag
   - `source_text`: the verbatim phrase that matched
-  - `confidence`: cosine similarity score (0–1)
+  - `confidence`: 1.0 (dictionary) or cosine similarity score (0–1)

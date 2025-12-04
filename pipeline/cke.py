@@ -9,7 +9,7 @@ Usage examples:
     phrases = run_cke("Grant text here.")
 
 Inputs/Outputs:
-  - Prompt: prompts/cke_prompt_v1.txt
+  - Prompt: prompts/cke_prompt_nsf_v1.txt (NSF default)
   - Returns: list[str] of extracted phrases
 
 Environment:
@@ -45,7 +45,7 @@ def run_cke(text: str) -> list:
     Execute the Controlled Keyphrase Extractor.
 
     Steps:
-    1. Load prompt from prompts/cke_prompt_v1.txt
+    1. Load prompt from prompts/cke_prompt_nsf_v1.txt
     2. Append grant text to the prompt
     3. Call LLM to extract verbatim phrases
     4. Parse and return extracted JSON array

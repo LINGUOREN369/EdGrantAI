@@ -1,119 +1,250 @@
 {
   "org_id": "mmsa",
-  "created_at": "2025-12-03T15:29:56.391489-05:00",
-  "taxonomy_version": "0.0.5",
+  "created_at": "2025-12-03T19:53:13.238223-05:00",
+  "taxonomy_version": "0.0.9",
   "extracted_phrases": [
-    "STEM Education",
     "Maine Math & Science Alliance",
-    "STEM professional development",
-    "STEM learning experiences",
-    "STEM education",
-    "diversity, equity, and inclusion"
+    "STEM education nonprofit",
+    "National Science Foundation",
+    "STEM learning models",
+    "STEM professional learning experiences",
+    "K\u201312 classrooms",
+    "STEM education initiatives",
+    "STEM improvement",
+    "501(c)(3) nonprofit",
+    "equitable access to STEM learning",
+    "underserved communities",
+    "diversity, equity, inclusion, and accessibility",
+    "STEM professional development programs",
+    "STEM teaching models",
+    "STEM educator networks",
+    "equity-driven STEM initiatives",
+    "underrepresented students"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
         "tag": "STEM education",
-        "source_text": "STEM education",
-        "confidence": 1.0,
+        "source_text": "STEM education initiatives",
+        "confidence": 0.8174,
         "sources": [
-          "STEM Education",
-          "STEM professional development",
-          "STEM learning experiences",
-          "STEM education"
+          "STEM education nonprofit",
+          "STEM learning models",
+          "STEM professional learning experiences",
+          "STEM education initiatives",
+          "STEM improvement",
+          "STEM professional development programs",
+          "STEM teaching models",
+          "STEM educator networks"
         ]
       },
       {
-        "tag": "STEM teacher professional development",
-        "source_text": "STEM professional development",
-        "confidence": 0.9035,
+        "tag": "STEM education policy",
+        "source_text": "STEM education initiatives",
+        "confidence": 0.8103,
         "sources": [
-          "STEM professional development"
+          "STEM education nonprofit",
+          "STEM education initiatives",
+          "STEM educator networks"
         ]
       },
       {
-        "tag": "science education",
-        "source_text": "STEM education",
-        "confidence": 0.738,
+        "tag": "STEM equity and access",
+        "source_text": "equitable access to STEM learning",
+        "confidence": 0.7764,
         "sources": [
-          "STEM Education",
-          "STEM education"
+          "STEM improvement",
+          "equitable access to STEM learning",
+          "equity-driven STEM initiatives"
         ]
       },
       {
-        "tag": "high school STEM education",
-        "source_text": "STEM education",
-        "confidence": 0.7345,
+        "tag": "STEM education research",
+        "source_text": "STEM education initiatives",
+        "confidence": 0.7607,
         "sources": [
-          "STEM Education",
-          "STEM professional development",
-          "STEM learning experiences",
-          "STEM education"
+          "STEM education nonprofit",
+          "STEM learning models",
+          "STEM education initiatives",
+          "STEM improvement",
+          "STEM teaching models",
+          "STEM educator networks"
         ]
       },
       {
-        "tag": "elementary STEM education",
-        "source_text": "STEM education",
-        "confidence": 0.7328,
+        "tag": "community-based STEM programs",
+        "source_text": "STEM professional development programs",
+        "confidence": 0.7175,
         "sources": [
-          "STEM Education",
-          "STEM professional development",
-          "STEM education"
+          "equitable access to STEM learning",
+          "STEM professional development programs",
+          "STEM educator networks",
+          "equity-driven STEM initiatives"
         ]
       },
       {
-        "tag": "K-12 STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7264,
+        "tag": "after-school STEM programs",
+        "source_text": "STEM professional development programs",
+        "confidence": 0.7079,
         "sources": [
-          "STEM Education",
-          "STEM education"
-        ]
-      },
-      {
-        "tag": "informal STEM learning",
-        "source_text": "STEM learning experiences",
-        "confidence": 0.7214,
-        "sources": [
-          "STEM learning experiences"
+          "STEM professional development programs",
+          "equity-driven STEM initiatives"
         ]
       },
       {
         "tag": "STEM career pathways",
-        "source_text": "STEM professional development",
-        "confidence": 0.7093,
+        "source_text": "STEM professional development programs",
+        "confidence": 0.7078,
         "sources": [
-          "STEM professional development"
+          "STEM learning models",
+          "STEM professional learning experiences",
+          "STEM improvement",
+          "STEM professional development programs"
         ]
       },
       {
-        "tag": "STEM pathways",
-        "source_text": "STEM learning experiences",
-        "confidence": 0.7041,
+        "tag": "broadening participation in STEM",
+        "source_text": "equitable access to STEM learning",
+        "confidence": 0.7067,
         "sources": [
-          "STEM learning experiences"
+          "equitable access to STEM learning",
+          "equity-driven STEM initiatives"
+        ]
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "STEM education initiatives",
+        "confidence": 0.7036,
+        "sources": [
+          "STEM education nonprofit",
+          "K\u201312 classrooms",
+          "STEM education initiatives"
+        ]
+      },
+      {
+        "tag": "underrepresented groups in STEM",
+        "source_text": "underrepresented students",
+        "confidence": 0.7024,
+        "sources": [
+          "underrepresented students"
+        ]
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "equitable access to STEM learning",
+        "confidence": 0.6992,
+        "sources": [
+          "STEM education nonprofit",
+          "STEM professional learning experiences",
+          "STEM education initiatives",
+          "STEM improvement",
+          "equitable access to STEM learning"
+        ]
+      },
+      {
+        "tag": "out-of-school STEM programs",
+        "source_text": "STEM professional development programs",
+        "confidence": 0.697,
+        "sources": [
+          "STEM professional development programs",
+          "equity-driven STEM initiatives"
+        ]
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "equitable access to STEM learning",
+        "confidence": 0.6872,
+        "sources": [
+          "STEM professional learning experiences",
+          "equitable access to STEM learning",
+          "STEM educator networks"
+        ]
+      },
+      {
+        "tag": "informal STEM learning",
+        "source_text": "STEM professional learning experiences",
+        "confidence": 0.6816,
+        "sources": [
+          "STEM learning models",
+          "STEM professional learning experiences"
         ]
       },
       {
         "tag": "middle school STEM education",
-        "source_text": "STEM learning experiences",
-        "confidence": 0.704,
+        "source_text": "STEM learning models",
+        "confidence": 0.6253,
         "sources": [
-          "STEM learning experiences"
-        ]
-      },
-      {
-        "tag": "education equity and access",
-        "source_text": "diversity, equity, and inclusion",
-        "confidence": 0.5061,
-        "sources": [
-          "diversity, equity, and inclusion"
+          "STEM learning models",
+          "STEM teaching models"
         ]
       }
     ],
-    "population_tags": [],
-    "org_type_tags": [],
-    "geography_tags": [],
+    "population_tags": [
+      {
+        "tag": "K-12 students",
+        "source_text": "K\u201312 classrooms",
+        "confidence": 0.7827,
+        "sources": [
+          "K\u201312 classrooms"
+        ]
+      },
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K\u201312 classrooms",
+        "confidence": 0.7643,
+        "sources": [
+          "K\u201312 classrooms"
+        ]
+      },
+      {
+        "tag": "low-income students",
+        "source_text": "underrepresented students",
+        "confidence": 0.6893,
+        "sources": [
+          "underrepresented students"
+        ]
+      },
+      {
+        "tag": "rural students",
+        "source_text": "underrepresented students",
+        "confidence": 0.6543,
+        "sources": [
+          "underrepresented students"
+        ]
+      },
+      {
+        "tag": "middle school teachers",
+        "source_text": "derived: K-12 teachers breadth",
+        "confidence": 0.95
+      },
+      {
+        "tag": "high school teachers",
+        "source_text": "derived: K-12 teachers breadth",
+        "confidence": 0.95
+      },
+      {
+        "tag": "college instructors",
+        "source_text": "derived: higher education mention",
+        "confidence": 0.95
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "501(c)(3) nonprofit",
+        "source_text": "501(c)(3) nonprofit",
+        "confidence": 1.0,
+        "sources": [
+          "501(c)(3) nonprofit"
+        ]
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "United States",
+        "source_text": "derived: geography mention in org text",
+        "confidence": 0.99
+      }
+    ],
     "red_flag_tags": []
   },
   "source": {

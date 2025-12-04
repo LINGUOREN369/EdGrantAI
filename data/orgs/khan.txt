@@ -1,0 +1,83 @@
+Khan Academy — Organizational Profile (For Grant-Matching Test)
+
+Organization Overview
+
+Khan Academy is a global education nonprofit dedicated to providing a free, world-class education for anyone, anywhere. Founded in 2008, Khan Academy offers an extensive library of mastery-based learning materials, including instructional videos, practice exercises, assessments, and personalized learning pathways across math, science, humanities, economics, computing, and test preparation.
+
+Khan Academy serves over 150 million learners in 190+ countries and partners with school districts, states, and ministries of education to support high-impact, data-driven classroom instruction.
+
+⸻
+
+Mission Statement
+
+Khan Academy’s mission is to democratize access to high-quality education by offering free, personalized learning tools that support learners of all ages—regardless of background, income, or geography.
+
+⸻
+
+Program Areas / Core Activities
+
+Khan Academy’s work centers on four main activity areas:
+
+1. Mastery-Based Learning Platform
+	•	Free digital learning platform covering K–12 math, science, humanities, and computing
+	•	Personalized learning pathways driven by analytics and progress data
+	•	Adaptive practice and AI-supported tutoring features
+
+2. Teacher & Classroom Support
+	•	Dashboard tools for teachers to track mastery, assign content, and differentiate instruction
+	•	Curricular alignment to state and national standards
+	•	Professional learning and implementation support for school and district partners
+
+3. Large-Scale Education System Partnerships
+	•	Partnerships with states, districts, and countries to deploy Khan Academy at scale
+	•	Customized content alignment and deployment programs
+	•	Research collaborations to measure student learning outcomes
+
+4. Research & Learning Innovation
+	•	Learning science research on mastery learning, feedback loops, and instructional design
+	•	Development of AI-enhanced learning tools such as Khanmigo, the AI tutoring assistant
+	•	Continuous experimentation to explore the future of personalized learning
+
+⸻
+
+History & Impact
+
+Founded by Sal Khan, Khan Academy began as a series of online tutoring videos and rapidly expanded into one of the most trusted digital learning platforms in the world.
+The organization works across formal and informal learning environments and has been adopted widely during COVID-19, remote learning transitions, and pandemic recovery initiatives.
+
+Khan Academy also operates specialized programs, including:
+	•	Khan Academy Kids (early childhood learning)
+	•	Khan Lab School (experimental mastery-based school)
+	•	District partnerships supporting high-poverty, multilingual, and underserved communities
+
+⸻
+
+Commitment to Equity & Accessibility
+
+Khan Academy is deeply committed to:
+	•	Bridging achievement gaps
+	•	Serving low-income and historically underserved students
+	•	Supporting multilingual learners
+	•	Ensuring accessibility across devices, including mobile and low-bandwidth environments
+	•	Providing all content free of charge, forever
+
+Accessibility and universal design principles are embedded across product development.
+
+⸻
+
+Grant Purpose Overview (Generic Testing Template)
+
+Khan Academy is seeking funding to expand equitable access to free, personalized, mastery-based learning tools, accelerate integration of AI-supported tutoring, and deepen partnerships with schools and districts serving historically marginalized learners.
+
+Funding will support:
+	1.	Scaling Khanmigo and AI tutoring tools to underserved schools
+	2.	Developing new mastery-based content in core STEM subjects
+	3.	Expanding multilingual and accessibility features
+	4.	Supporting district-level implementation, teacher training, and community engagement
+	5.	Research on learning science, AI-enabled instruction, and student mastery outcomes
+
+⸻
+
+Grant Summary Statement (Final Paragraph)
+
+Khan Academy requests support to accelerate the next generation of free, personalized learning technology and ensure that every learner—especially those in historically underserved communities—can access high-quality education. Funding will advance mastery-based instruction, AI-powered tutoring, district partnerships, and equity-focused learning innovations.

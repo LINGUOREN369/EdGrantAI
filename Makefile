@@ -14,6 +14,7 @@ help:
 	@echo "  orgs-all             Process all org text files in data/orgs"
 	@echo "  recs                 Rank grants for one org (make recs ORG=<path>)"
 	@echo "  recs-all             Rank grants for all org profiles in $(ORGS_DIR)"
+	@echo "  synonyms-build       Auto-generate synonyms for all taxonomies (safe variants)"
 
 rebuild-taxonomy:
 	python -m pipeline.build_taxonomy_embeddings --all --force
@@ -22,6 +23,9 @@ validate-taxonomy:
 	python -m pipeline.validate_taxonomy --all --strict
 
 taxonomy-refresh: rebuild-taxonomy validate-taxonomy
+
+synonyms-build:
+	python -m pipeline.build_synonyms --all --max 10
 
 grants-all:
 	python -m pipeline.grant_profile_builder -all

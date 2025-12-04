@@ -1,5 +1,5 @@
 {
-  "taxonomy_version": "0.0.5",
+  "taxonomy_version": "0.0.10",
   "last_updated": "2025-12-03",
   "thresholds": {
     "mission": 0.52,

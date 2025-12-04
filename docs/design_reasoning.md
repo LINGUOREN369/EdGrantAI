@@ -9,11 +9,11 @@ This document explains the design principles behind EdGrantAI: the taxonomy, pro
 
 ## Architecture Overview
 - Pipeline stages
-  - Extraction (CKE) → Canonical mapping (embeddings) → Profile assembly (JSON)
+  - Extraction (CKE) → Dictionary pre‑mapping → Embedding fallback (strict→loose) → Profile assembly (JSON)
 - Primary modules
   - `pipeline/cke.py`: Controlled Keyphrase Extractor (chat model)
   - `pipeline/embedding_matcher.py`: Embeddings + cosine similarity utilities
-  - `pipeline/canonical_mapper.py`: Loads taxonomy embeddings, runs matching/top‑k/thresholds
+  - `pipeline/canonical_mapper.py`: Dictionary pre‑mapping + embeddings, thresholds (strict→loose), guardrails
   - `pipeline/grant_profile_builder.py`: Orchestrates build + CLI
   - `pipeline/build_taxonomy_embeddings.py`: One‑time taxonomy embedding builder
   - `pipeline/config.py`: Central source for paths, models, thresholds, taxonomies
@@ -21,7 +21,7 @@ This document explains the design principles behind EdGrantAI: the taxonomy, pro
   - Taxonomy JSON: `data/taxonomy/*.json`
   - Taxonomy embeddings: `data/taxonomy/embeddings/*_embeddings.json`
   - Output profiles: `data/processed_grants/{grant_id}_profile.json`
-  - Prompt: `prompts/cke_prompt_v1.txt`
+  - Prompts: `prompts/cke_prompt_nsf_v1.txt` (default)
 - Diagram
   - See `docs/data_flow.md` (Mermaid) and `docs/data_flow.svg` (image).
 
@@ -32,8 +32,8 @@ This document explains the design principles behind EdGrantAI: the taxonomy, pro
 - Change management: when tags change, rebuild taxonomy embeddings for affected taxonomies and consider re‑processing cached profiles.
 
 ## Prompt Strategy (CKE)
-- Location: `prompts/cke_prompt_v1.txt`.
-- Goal: extract only verbatim phrases from the grant text and return a strict JSON array of strings.
+- Location: `prompts/cke_prompt_nsf_v1.txt` (NSF default).
+- Goal: extract only verbatim phrases (org and grant) and return a strict JSON array of strings.
 - Why a strong prompt?
   - Minimizes hallucinations and paraphrases by constraining output to quotes/verbatim.
   - Produces machine‑parseable JSON that downstream code can rely on.
@@ -47,17 +47,22 @@ This document explains the design principles behind EdGrantAI: the taxonomy, pro
 ## Models & Rationale
 - Chat (extraction): `gpt-4o-mini`
   - Designed for cost‑efficient, constrained extraction with a strong prompt.
-- Embeddings (semantic matching): `text-embedding-3-small`
+- Embeddings (semantic matching): `text-embedding-3-large` (configurable)
   - Strong quality‑to‑cost ratio for cosine similarity over controlled taxonomy sets.
 - Upgrades when needed
   - `text-embedding-3-large` for tighter semantics at higher cost.
   - Strict JSON response formats if you extend schemas.
 
-## Embedding Strategy
+## Mapping Strategy
 - Precompute embeddings for canonical tags per taxonomy and store as JSON.
   - Path: `data/taxonomy/embeddings/*_embeddings.json`
   - Builder: `python -m pipeline.build_taxonomy_embeddings --all`
-- Compute embeddings on‑demand for extracted phrases during matching.
+- Dictionary pre‑mapping first:
+  - Looks up normalized phrases against canonical tags and `data/taxonomy/synonyms/*`.
+  - Direct matches map with confidence 1.0 and skip embeddings.
+- Embedding fallback with thresholds:
+  - Strict thresholds first; if no match, a single looser pass for select taxonomies (mission, population, org_type).
+  - Geography and red flags remain strict by default.
 - Rationale
   - Precomputation reduces runtime cost and yields stable anchor vectors.
   - On‑demand phrase vectors adapt to input without persisting heavy payloads.
@@ -78,24 +83,26 @@ This document explains the design principles behind EdGrantAI: the taxonomy, pro
   - Build embeddings once: `python -m pipeline.build_taxonomy_embeddings --all`
   - Build profile: `python -m pipeline.grant_profile_builder data/grants/test_grant_1.txt`
 
-## Organization Profile Building (Concept)
-- Mirror the grant pipeline on org text (mission, focus areas, geography) to produce an org profile JSON with canonical tags.
+- Organization profiles mirror the grant pipeline (mission, populations, org type, geography) with additional guardrails:
+  - Audience terms cannot define org type.
+  - Geography must be explicit and coarse (United States/global only).
+  - Red flags require gated wording and, for org text, multiple occurrences.
 - Store under `data/processed_orgs/{org_id}_profile.json`.
 - Optional: enrich with normalized metadata (e.g., org type, IRS status, primary geography).
 - Benefit: symmetric, explainable matching between org and grant profiles.
 
 ## Matching & Thresholding
 - Algorithm
-  - For each extracted phrase, embed it and compute cosine similarity with every canonical tag embedding in a taxonomy.
-  - Keep up to `TOP_K` tags per phrase that meet or exceed taxonomy threshold.
+  - Dictionary pre‑mapping per phrase; if not matched, embed and compare against taxonomy tag embeddings.
+  - Keep up to `TOP_K` tags per phrase above threshold (strict→loose fallback).
 - Configuration (in `pipeline/config.py`)
   - `TOP_K` (default: 5)
-  - Per‑taxonomy thresholds (defaults):
-    - mission (0.45), population (0.50), org_type (0.50), geography (0.55), red_flags (0.35), default (0.51)
+  - Per‑taxonomy thresholds (strict defaults): mission (0.60), population (0.65), org_type (0.75), geography (0.85), red_flags (0.80), default (0.70)
+  - Loose thresholds (only used if strict yields no matches): mission (0.55), population (0.60), org_type (0.70)
   - `TAXONOMIES` controls which taxonomies are used (and order)
   - `TAXONOMY_TO_OUTPUT_KEY` maps taxonomy names to profile output keys
-- Design principles
-  - Geography stricter (false positives are costly); red flags looser (favor recall to catch blockers).
+ - Design principles
+  - Geography and red flags stricter; dictionary‑first mapping improves precision; controlled fallback preserves recall.
   - `TOP_K > 1` allows phrases to map to multiple relevant tags.
 - Calibration guidance
   - Use a small labeled set to adjust thresholds for precision/recall balance per taxonomy.
@@ -166,10 +173,9 @@ This document explains the design principles behind EdGrantAI: the taxonomy, pro
 ## Troubleshooting
 - Missing API key: ensure `.env` has `OPENAI_API_KEY` and that it’s loaded; import of `cke.py`/`embedding_matcher.py` requires it.
 - Missing embeddings: run `python -m pipeline.build_taxonomy_embeddings --all`.
-- Prompt not found: ensure `prompts/cke_prompt_v1.txt` exists.
+- Prompt not found: ensure `prompts/cke_prompt_nsf_v1.txt` exists.
 - JSON parse errors: model output isn’t strict JSON; tighten prompt, set temperature near 0, or use structured response format.
 
 ---
 
 _Files referenced match the current repository state._
-
