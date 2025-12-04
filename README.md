@@ -345,10 +345,10 @@ Examples: "Requires district partner," "Invitation-only," "Only funds universiti
 
 ## Synonyms (Dictionary Pre‑Mapping)
 
-Before embedding similarity, extracted phrases are first matched via a case/space/punctuation‑insensitive dictionary against canonical tags and optional synonym files:
+Before embedding similarity, extracted phrases are first matched via a case/space/punctuation‑insensitive dictionary against canonical tags and curated synonym files:
 
 - Location: `data/taxonomy/synonyms/`
-- Files (optional, per taxonomy):
+- Files (curated, per taxonomy):
   - `mission_tags_synonyms.json`
   - `population_tags_synonyms.json`
   - `org_types_synonyms.json`
@@ -366,10 +366,22 @@ Format: JSON object mapping synonym phrase → canonical tag (string to string).
 }
 ```
 
+Build/merge workflow:
+- Generate safe format‑level variants and merge into curated files: `make synonyms-build`
+  - Auto variants: `pipeline/build_synonyms.py` creates `<taxonomy>_synonyms.auto.json` (e.g., paren acronyms, K–12 forms, afterschool/Pre‑K, districtwide, higher‑ed shorthand).
+  - Merge step: `pipeline/merge_auto_synonyms.py` folds autos into curated files and deletes `*.auto.json` to keep runtime tidy.
+  - Runtime uses curated files only; autos are ignored by the loader.
+
 Behavior:
-- Direct dictionary matches (with normalization) map at confidence 1.0 and skip embeddings.
-- If no dictionary match, the system falls back to embedding similarity with thresholds.
-- Guardrails still apply (e.g., audience terms cannot map to org_type; red flags require gating terms).
+- Dictionary matches (with normalization) map at confidence 1.0 and skip embeddings.
+- If no dictionary match, the system falls back to embedding similarity with thresholds (strict → optional loose).
+- Guardrails still apply (e.g., audience terms cannot map to org_type; red flags require gating terms; explicit computing/English cues).
+
+When to add to dictionary vs. rely on embeddings:
+- Add to dictionary: common, high‑precision acronyms and paraphrases (REU, EHR, EPSCoR, LEAs; “informal science education”).
+- Use embeddings: ambiguous single‑word terms, vendor names, or phrases whose mapping is highly context‑dependent.
+
+See also: `docs/mapping_funnel.md` for the full funnel and curation policy.
 
 ---
 

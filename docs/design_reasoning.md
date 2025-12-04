@@ -58,14 +58,22 @@ This document explains the design principles behind EdGrantAI: the taxonomy, pro
   - Path: `data/taxonomy/embeddings/*_embeddings.json`
   - Builder: `python -m pipeline.build_taxonomy_embeddings --all`
 - Dictionary pre‑mapping first:
-  - Looks up normalized phrases against canonical tags and `data/taxonomy/synonyms/*`.
+  - Looks up normalized phrases against canonical tags and curated synonyms in `data/taxonomy/synonyms/*`.
   - Direct matches map with confidence 1.0 and skip embeddings.
+  - Safe auto variants (format-level) are merged into curated files by `make synonyms-build` and `*.auto.json` are deleted; runtime loader uses curated files only.
 - Embedding fallback with thresholds:
   - Strict thresholds first; if no match, a single looser pass for select taxonomies (mission, population, org_type).
   - Geography and red flags remain strict by default.
+- Guardrails:
+  - Audience-like phrases cannot define org type.
+  - Red flags require gating terms (required/only/submission limit/LOI/IRB/etc.).
+  - Computing tags require explicit computing cues; “English learners” requires explicit “English”.
 - Rationale
   - Precomputation reduces runtime cost and yields stable anchor vectors.
   - On‑demand phrase vectors adapt to input without persisting heavy payloads.
+  - Dictionary-first plus guardrails maximizes precision; embeddings recover legitimate paraphrases.
+
+See also: `docs/mapping_funnel.md` for the full funnel and curation policy.
 
 ## Grant Profile Building
 - Steps

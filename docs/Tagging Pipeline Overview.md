@@ -22,7 +22,7 @@ This document describes the full set of components and steps used by EdGrant AI 
                      │        2. Dictionary + Embedding Mapping               │
                      │--------------------------------------------------------│
                      │ taxonomy JSON files: data/taxonomy/*.json              │
-                     │ synonyms: data/taxonomy/synonyms/*.json                │
+                     │ synonyms: data/taxonomy/synonyms/*.json (curated)     │
                      │ code: pipeline/embedding_matcher.py                    │
                      │      pipeline/canonical_mapper.py                      │
                      └──────────────────────────┬─────────────────────────────┘
@@ -130,13 +130,16 @@ This stage ensures safety, interpretability, and non-hallucinatory behavior.
 
 ## 4. Dictionary + Embedding Mapping
 
-Mapping uses two stages:
+Mapping uses two stages plus guardrails:
 1) Dictionary pre-mapping (case/space/punctuation-insensitive):
-   - Tries direct matches against canonical tags and synonyms in `data/taxonomy/synonyms/`.
-   - Direct matches map with confidence 1.0 and skip embeddings.
-2) Embedding fallback (strict → loose thresholds):
-   - If no dictionary match, embed the phrase and compare to taxonomy tag embeddings.
-   - Apply strict thresholds per taxonomy; if no match, optionally retry once with a slightly looser threshold (geography and red flags remain strict by default).
+   - Direct match against canonical tags and curated synonyms in `data/taxonomy/synonyms/`.
+   - Matches map at confidence 1.0 and skip embeddings.
+   - Synonyms are curated; safe auto variants are merged into curated files by `make synonyms-build` and `*.auto.json` are deleted.
+2) Guardrails:
+   - Block audience-like phrases mapping to org types; require gating terms for red flags; require explicit computing/English cues for certain tags.
+3) Embedding fallback (strict → optional loose):
+   - If no dictionary match, embed the phrase and compare to canonical tag embeddings.
+   - Apply strict thresholds per taxonomy; if no match, a single looser pass for select taxonomies (geography/red flags remain strict by default).
 
 Mapping is performed using semantic similarity:
 
@@ -148,6 +151,8 @@ Benefits
     - High precision via dictionary matches for common variants
     - Recall preserved via controlled embedding fallback
     - Guardrails reduce systemic misclassification (e.g., audience ≠ org type; gated red flags; explicit computing/English cues)
+
+See also: `docs/mapping_funnel.md` for the full funnel and curation policy.
 
 Example Mappings
 
