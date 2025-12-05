@@ -1,156 +1,32 @@
 {
   "grant_id": "nsf_REU",
-  "created_at": "2025-12-03T15:27:07.410225-05:00",
-  "taxonomy_version": "0.0.5",
+  "created_at": "2025-12-04T11:11:57.002189-05:00",
+  "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "Research Experiences for Undergraduates",
     "REU",
     "REU Sites",
     "REU Supplements",
-    "undergraduate students",
-    "NSF",
-    "STEM Education",
-    "Engineering",
-    "Mathematical and Physical Sciences",
-    "Geosciences",
-    "Computer and Information Science and Engineering",
-    "Biological Sciences",
-    "Social Behavioral and Economic Sciences",
-    "Office of International Science and Engineering",
-    "Office of Integrative Activities",
-    "NSF Technology, Innovation and Partnerships"
+    "U.S. citizens",
+    "U.S. nationals",
+    "U.S. permanent residents",
+    "National Science Foundation"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.9583,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
         "tag": "undergraduate research experiences",
         "source_text": "Research Experiences for Undergraduates",
-        "confidence": 0.795,
+        "confidence": 1.0,
         "sources": [
           "Research Experiences for Undergraduates",
           "REU",
           "REU Sites",
-          "REU Supplements",
-          "undergraduate students"
-        ]
-      },
-      {
-        "tag": "K-12 STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7264,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "high school STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7169,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "elementary STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7157,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "science education",
-        "source_text": "STEM Education",
-        "confidence": 0.708,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "engineering education",
-        "source_text": "Engineering",
-        "confidence": 0.6048,
-        "sources": [
-          "Engineering"
-        ]
-      },
-      {
-        "tag": "undergraduate STEM education",
-        "source_text": "undergraduate students",
-        "confidence": 0.5945,
-        "sources": [
-          "Research Experiences for Undergraduates",
-          "undergraduate students"
-        ]
-      },
-      {
-        "tag": "undergraduate mentorship programs",
-        "source_text": "undergraduate students",
-        "confidence": 0.5732,
-        "sources": [
-          "Research Experiences for Undergraduates",
-          "undergraduate students"
-        ]
-      },
-      {
-        "tag": "computer science education",
-        "source_text": "Computer and Information Science and Engineering",
-        "confidence": 0.5711,
-        "sources": [
-          "Computer and Information Science and Engineering"
+          "REU Supplements"
         ]
       }
     ],
-    "population_tags": [
-      {
-        "tag": "undergraduate students",
-        "source_text": "undergraduate students",
-        "confidence": 1.0,
-        "sources": [
-          "undergraduate students"
-        ]
-      },
-      {
-        "tag": "graduate students",
-        "source_text": "undergraduate students",
-        "confidence": 0.7437,
-        "sources": [
-          "undergraduate students"
-        ]
-      },
-      {
-        "tag": "postsecondary students",
-        "source_text": "undergraduate students",
-        "confidence": 0.6715,
-        "sources": [
-          "undergraduate students"
-        ]
-      },
-      {
-        "tag": "high school students",
-        "source_text": "undergraduate students",
-        "confidence": 0.6594,
-        "sources": [
-          "undergraduate students"
-        ]
-      },
-      {
-        "tag": "community college students",
-        "source_text": "undergraduate students",
-        "confidence": 0.6002,
-        "sources": [
-          "undergraduate students"
-        ]
-      }
-    ],
+    "population_tags": [],
     "org_type_tags": [],
     "geography_tags": [],
     "red_flag_tags": []

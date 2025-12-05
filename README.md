@@ -458,6 +458,10 @@ This helps nonprofits avoid wasting 30–50 hours on ineligible grants.
 
 See docs/grant_profile_build.md for the detailed steps.
 
+Org profiles apply additional rules for higher precision (dictionary‑first, strict geography, mission/grade‑band/policy checks, population constraints, and per‑taxonomy thresholds). See:
+- docs/org_profile_rules.md
+- docs/mapping_funnel.md (dictionary → guardrails → embeddings)
+
 ---
 
 ## Future Roadmap

@@ -1,59 +1,40 @@
 {
   "org_id": "khan",
-  "created_at": "2025-12-04T10:36:27.928513-05:00",
+  "created_at": "2025-12-04T11:05:19.782646-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
-    "Khan Academy",
     "global education nonprofit",
-    "mastery-based learning materials",
-    "mastery-Based Learning Platform",
-    "free digital learning platform",
-    "K\u201312 math, science, humanities, and computing",
-    "personalized learning pathways",
-    "Teacher & Classroom Support",
-    "Dashboard tools",
-    "state and national standards",
-    "Professional learning and implementation support",
-    "Large-Scale Education System Partnerships",
-    "Partnerships with states, districts, and countries",
-    "Research & Learning Innovation",
-    "Learning science research",
-    "Khan Academy Kids",
-    "Khan Lab School",
-    "District partnerships",
+    "mastery-based learning platform",
+    "K\u201312 math",
+    "teacher & classroom support",
+    "large-scale education system partnerships",
+    "research & learning innovation",
+    "early childhood learning",
+    "experimental mastery-based school",
+    "high-poverty, multilingual, and underserved communities",
     "low-income and historically underserved students",
     "multilingual learners",
-    "equitable access",
-    "AI-supported tutoring",
+    "high-quality education",
     "mastery-based instruction",
+    "AI-powered tutoring",
     "equity-focused learning innovations"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "education system partnerships",
-        "source_text": "District partnerships",
-        "confidence": 1.0,
-        "sources": [
-          "Large-Scale Education System Partnerships",
-          "Partnerships with states, districts, and countries",
-          "District partnerships"
-        ]
-      },
-      {
         "tag": "early childhood learning",
-        "source_text": "Khan Academy Kids",
+        "source_text": "early childhood learning",
         "confidence": 1.0,
         "sources": [
-          "Khan Academy Kids"
+          "early childhood learning"
         ]
       },
       {
         "tag": "AI-powered tutoring",
-        "source_text": "AI-supported tutoring",
-        "confidence": 0.9611,
+        "source_text": "AI-powered tutoring",
+        "confidence": 1.0,
         "sources": [
-          "AI-supported tutoring"
+          "AI-powered tutoring"
         ]
       },
       {
@@ -61,83 +42,17 @@
         "source_text": "mastery-based instruction",
         "confidence": 0.9015,
         "sources": [
-          "mastery-based learning materials",
-          "mastery-Based Learning Platform",
+          "mastery-based learning platform",
+          "experimental mastery-based school",
           "mastery-based instruction"
         ]
       },
       {
-        "tag": "personalized learning",
-        "source_text": "personalized learning pathways",
-        "confidence": 0.8453,
+        "tag": "education system partnerships",
+        "source_text": "large-scale education system partnerships",
+        "confidence": 0.8421,
         "sources": [
-          "personalized learning pathways"
-        ]
-      },
-      {
-        "tag": "digital learning platforms",
-        "source_text": "free digital learning platform",
-        "confidence": 0.8095,
-        "sources": [
-          "mastery-Based Learning Platform",
-          "free digital learning platform"
-        ]
-      },
-      {
-        "tag": "learning sciences",
-        "source_text": "Learning science research",
-        "confidence": 0.7046,
-        "sources": [
-          "Learning science research"
-        ]
-      },
-      {
-        "tag": "K-12 STEM education",
-        "source_text": "K\u201312 math, science, humanities, and computing",
-        "confidence": 0.6959,
-        "sources": [
-          "K\u201312 math, science, humanities, and computing"
-        ]
-      },
-      {
-        "tag": "STEM education research",
-        "source_text": "Learning science research",
-        "confidence": 0.6492,
-        "sources": [
-          "Learning science research"
-        ]
-      },
-      {
-        "tag": "teacher professional learning",
-        "source_text": "Professional learning and implementation support",
-        "confidence": 0.6452,
-        "sources": [
-          "Professional learning and implementation support"
-        ]
-      },
-      {
-        "tag": "instructional innovation",
-        "source_text": "equity-focused learning innovations",
-        "confidence": 0.6154,
-        "sources": [
-          "Research & Learning Innovation",
-          "equity-focused learning innovations"
-        ]
-      },
-      {
-        "tag": "research-based learning",
-        "source_text": "Research & Learning Innovation",
-        "confidence": 0.5563,
-        "sources": [
-          "Research & Learning Innovation"
-        ]
-      },
-      {
-        "tag": "learning technologies",
-        "source_text": "Research & Learning Innovation",
-        "confidence": 0.5527,
-        "sources": [
-          "Research & Learning Innovation"
+          "large-scale education system partnerships"
         ]
       }
     ],
@@ -153,9 +68,17 @@
       {
         "tag": "historically underserved students",
         "source_text": "low-income and historically underserved students",
-        "confidence": 0.8567,
+        "confidence": 0.8566,
         "sources": [
           "low-income and historically underserved students"
+        ]
+      },
+      {
+        "tag": "early childhood learners",
+        "source_text": "early childhood learning",
+        "confidence": 0.846,
+        "sources": [
+          "early childhood learning"
         ]
       },
       {
@@ -168,18 +91,19 @@
       },
       {
         "tag": "underserved communities",
-        "source_text": "low-income and historically underserved students",
-        "confidence": 0.6509,
+        "source_text": "high-poverty, multilingual, and underserved communities",
+        "confidence": 0.7159,
         "sources": [
+          "high-poverty, multilingual, and underserved communities",
           "low-income and historically underserved students"
         ]
       },
       {
         "tag": "K-12 students",
-        "source_text": "K\u201312 math, science, humanities, and computing",
-        "confidence": 0.6376,
+        "source_text": "K\u201312 math",
+        "confidence": 0.6936,
         "sources": [
-          "K\u201312 math, science, humanities, and computing"
+          "K\u201312 math"
         ]
       }
     ],
@@ -203,6 +127,17 @@
       }
     ],
     "red_flag_tags": []
+  },
+  "validation": {
+    "rules_version": "0.0.10+",
+    "notes": [
+      "Dictionary-first; geography explicit or derived from state name",
+      "Restricted mission tags require explicit signals",
+      "Grade-band suppression if only generic K\u201312",
+      "Policy tag requires policy/advocacy signals",
+      "Population tags require explicit cues; no 'school districts' population",
+      "Org-specific thresholds applied"
+    ]
   },
   "source": {
     "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/orgs/khan.txt",

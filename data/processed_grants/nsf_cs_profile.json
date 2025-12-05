@@ -1,51 +1,37 @@
 {
   "grant_id": "nsf_cs",
-  "created_at": "2025-12-03T15:27:44.873320-05:00",
-  "taxonomy_version": "0.0.5",
+  "created_at": "2025-12-04T11:12:20.039440-05:00",
+  "taxonomy_version": "0.0.10",
   "extracted_phrases": [
-    "Research Experiences for Teachers",
-    "RET",
-    "Engineering and Computer Science",
-    "Directorates for Engineering",
-    "Computer and Information Science and Engineering",
+    "Research Experiences for Teachers (RET) in Engineering and Computer Science",
     "K-14 educators",
     "community colleges",
     "school districts",
     "industry partners",
+    "Directorates for Engineering",
+    "Computer and Information Science and Engineering",
     "K-14 educational environments",
+    "Engineering",
+    "Computer and Information Science and Engineering",
     "Institutions of Higher Education",
-    "IHEs",
-    "Minority-Serving Institutions",
-    "RET Supplements",
-    "principal investigator",
-    "College/Department of Engineering",
-    "College/Department of Computer and/or Information Science"
+    "Minority-Serving Institutions"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
         "tag": "community college STEM programs",
         "source_text": "community colleges",
-        "confidence": 0.6496,
+        "confidence": 0.6474,
         "sources": [
           "community colleges"
         ]
       },
       {
-        "tag": "undergraduate research experiences",
-        "source_text": "Research Experiences for Teachers",
-        "confidence": 0.6355,
-        "sources": [
-          "Research Experiences for Teachers"
-        ]
-      },
-      {
         "tag": "engineering education",
-        "source_text": "Engineering and Computer Science",
-        "confidence": 0.6086,
+        "source_text": "Engineering",
+        "confidence": 0.6048,
         "sources": [
-          "Engineering and Computer Science",
-          "College/Department of Engineering"
+          "Engineering"
         ]
       },
       {
@@ -58,33 +44,23 @@
         ]
       },
       {
-        "tag": "computer science education",
-        "source_text": "Computer and Information Science and Engineering",
-        "confidence": 0.5711,
+        "tag": "education system partnerships",
+        "source_text": "industry partners",
+        "confidence": 0.5797,
         "sources": [
-          "Engineering and Computer Science",
-          "Computer and Information Science and Engineering",
-          "College/Department of Computer and/or Information Science"
-        ]
-      },
-      {
-        "tag": "informal learning environments",
-        "source_text": "K-14 educational environments",
-        "confidence": 0.5068,
-        "sources": [
-          "K-14 educational environments"
-        ]
-      },
-      {
-        "tag": "computing education",
-        "source_text": "Engineering and Computer Science",
-        "confidence": 0.5033,
-        "sources": [
-          "Engineering and Computer Science"
+          "industry partners"
         ]
       }
     ],
     "population_tags": [
+      {
+        "tag": "school districts",
+        "source_text": "school districts",
+        "confidence": 1.0,
+        "sources": [
+          "school districts"
+        ]
+      },
       {
         "tag": "community college students",
         "source_text": "community colleges",
@@ -102,11 +78,12 @@
         ]
       },
       {
-        "tag": "K-5 students",
+        "tag": "K-12 students",
         "source_text": "K-14 educators",
-        "confidence": 0.6228,
+        "confidence": 0.6848,
         "sources": [
-          "K-14 educators"
+          "K-14 educators",
+          "K-14 educational environments"
         ]
       }
     ],
@@ -130,7 +107,7 @@
       {
         "tag": "minority-serving institution",
         "source_text": "Minority-Serving Institutions",
-        "confidence": 0.8711,
+        "confidence": 0.8712,
         "sources": [
           "Minority-Serving Institutions"
         ]
@@ -142,77 +119,10 @@
         "sources": [
           "school districts"
         ]
-      },
-      {
-        "tag": "institution of higher education",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.7813,
-        "sources": [
-          "Institutions of Higher Education",
-          "IHEs"
-        ]
-      },
-      {
-        "tag": "two-year college",
-        "source_text": "community colleges",
-        "confidence": 0.6736,
-        "sources": [
-          "community colleges"
-        ]
-      },
-      {
-        "tag": "public school",
-        "source_text": "school districts",
-        "confidence": 0.5383,
-        "sources": [
-          "school districts"
-        ]
-      },
-      {
-        "tag": "local education agency (LEA)",
-        "source_text": "school districts",
-        "confidence": 0.5101,
-        "sources": [
-          "school districts"
-        ]
       }
     ],
-    "geography_tags": [
-      {
-        "tag": "school district level",
-        "source_text": "school districts",
-        "confidence": 0.761,
-        "sources": [
-          "school districts"
-        ]
-      },
-      {
-        "tag": "district-wide programs",
-        "source_text": "school districts",
-        "confidence": 0.6253,
-        "sources": [
-          "school districts"
-        ]
-      }
-    ],
-    "red_flag_tags": [
-      {
-        "tag": "industry partner required",
-        "source_text": "industry partners",
-        "confidence": 0.8028,
-        "sources": [
-          "industry partners"
-        ]
-      },
-      {
-        "tag": "higher education institutions only",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.7038,
-        "sources": [
-          "Institutions of Higher Education"
-        ]
-      }
-    ]
+    "geography_tags": [],
+    "red_flag_tags": []
   },
   "deadline": {
     "status": "unspecified",

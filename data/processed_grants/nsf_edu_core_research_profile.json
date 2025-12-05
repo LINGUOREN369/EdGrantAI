@@ -1,12 +1,12 @@
 {
   "grant_id": "nsf_edu_core_research",
-  "created_at": "2025-12-03T15:27:56.342101-05:00",
-  "taxonomy_version": "0.0.5",
+  "created_at": "2025-12-04T11:12:34.693038-05:00",
+  "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "EDU Core Research",
     "ECR:Core",
     "Research on STEM Learning and Learning Environments",
-    "Research on Broadening Participation in STEM fields",
+    "Research on Broadening Participation in STEM",
     "Research on STEM Workforce Development",
     "Broadening Participation In STEM",
     "STEM Education"
@@ -14,102 +14,31 @@
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.9583,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
         "tag": "broadening participation in STEM",
         "source_text": "Broadening Participation In STEM",
-        "confidence": 0.9277,
+        "confidence": 1.0,
         "sources": [
-          "Research on Broadening Participation in STEM fields",
-          "Research on STEM Workforce Development",
+          "Research on Broadening Participation in STEM",
           "Broadening Participation In STEM"
         ]
       },
       {
-        "tag": "K-12 STEM education",
+        "tag": "STEM education",
         "source_text": "STEM Education",
-        "confidence": 0.7264,
+        "confidence": 1.0,
         "sources": [
+          "STEM Education"
+        ]
+      },
+      {
+        "tag": "STEM education research",
+        "source_text": "Research on STEM Learning and Learning Environments",
+        "confidence": 0.7029,
+        "sources": [
+          "EDU Core Research",
           "Research on STEM Learning and Learning Environments",
-          "Research on STEM Workforce Development",
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "high school STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7169,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "elementary STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7157,
-        "sources": [
-          "Research on STEM Learning and Learning Environments",
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "science education",
-        "source_text": "STEM Education",
-        "confidence": 0.708,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "access to STEM opportunities",
-        "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6822,
-        "sources": [
-          "Research on Broadening Participation in STEM fields",
-          "Broadening Participation In STEM"
-        ]
-      },
-      {
-        "tag": "undergraduate STEM education",
-        "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6455,
-        "sources": [
-          "Research on STEM Learning and Learning Environments",
-          "Research on Broadening Participation in STEM fields",
-          "Research on STEM Workforce Development",
-          "Broadening Participation In STEM"
-        ]
-      },
-      {
-        "tag": "underrepresented groups in STEM",
-        "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6454,
-        "sources": [
-          "Research on Broadening Participation in STEM fields",
-          "Broadening Participation In STEM"
-        ]
-      },
-      {
-        "tag": "community-based STEM programs",
-        "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6451,
-        "sources": [
-          "Research on Broadening Participation in STEM fields",
-          "Broadening Participation In STEM"
-        ]
-      },
-      {
-        "tag": "education research",
-        "source_text": "EDU Core Research",
-        "confidence": 0.6301,
-        "sources": [
-          "EDU Core Research"
+          "Research on Broadening Participation in STEM",
+          "Research on STEM Workforce Development"
         ]
       },
       {
@@ -121,35 +50,27 @@
         ]
       },
       {
+        "tag": "undergraduate STEM education",
+        "source_text": "Research on Broadening Participation in STEM",
+        "confidence": 0.6049,
+        "sources": [
+          "Research on Broadening Participation in STEM"
+        ]
+      },
+      {
+        "tag": "underrepresented groups in STEM",
+        "source_text": "Research on Broadening Participation in STEM",
+        "confidence": 0.6033,
+        "sources": [
+          "Research on Broadening Participation in STEM"
+        ]
+      },
+      {
         "tag": "workforce development",
         "source_text": "Research on STEM Workforce Development",
         "confidence": 0.6027,
         "sources": [
           "Research on STEM Workforce Development"
-        ]
-      },
-      {
-        "tag": "computing education research",
-        "source_text": "EDU Core Research",
-        "confidence": 0.5941,
-        "sources": [
-          "EDU Core Research"
-        ]
-      },
-      {
-        "tag": "STEM teacher professional development",
-        "source_text": "Research on STEM Workforce Development",
-        "confidence": 0.5604,
-        "sources": [
-          "Research on STEM Workforce Development"
-        ]
-      },
-      {
-        "tag": "middle school STEM education",
-        "source_text": "Research on STEM Learning and Learning Environments",
-        "confidence": 0.5588,
-        "sources": [
-          "Research on STEM Learning and Learning Environments"
         ]
       }
     ],

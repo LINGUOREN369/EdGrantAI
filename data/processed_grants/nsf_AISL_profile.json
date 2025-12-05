@@ -1,26 +1,28 @@
 {
   "grant_id": "nsf_AISL",
-  "created_at": "2025-12-03T15:26:30.654114-05:00",
-  "taxonomy_version": "0.0.5",
+  "created_at": "2025-12-04T11:11:17.858917-05:00",
+  "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "Advancing Informal STEM Learning",
     "AISL",
     "informal STEM learning",
     "public participation in scientific research",
     "PPSR",
-    "broadening participation",
-    "STEM",
-    "community STEM",
     "science communication",
     "intergenerational STEM engagement",
-    "STEM careers",
-    "STEM Education",
+    "STEM media",
+    "Broadening Participation in STEM",
     "Institutions of Higher Education",
     "IHEs",
     "Non-profit, non-academic organizations",
     "Tribal Nations",
-    "Federally Recognized Indian Tribe List Act of 1994",
-    "FFRDCs"
+    "American Indian or Alaska Native tribe",
+    "federally recognized tribe",
+    "STEM Education",
+    "Research Coordination Networks",
+    "RCN",
+    "CAREER awards",
+    "REU supplements"
   ],
   "canonical_tags": {
     "mission_tags": [
@@ -31,220 +33,115 @@
         "sources": [
           "Advancing Informal STEM Learning",
           "informal STEM learning",
-          "community STEM",
           "intergenerational STEM engagement"
+        ]
+      },
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "Broadening Participation in STEM",
+        "confidence": 1.0,
+        "sources": [
+          "intergenerational STEM engagement",
+          "Broadening Participation in STEM"
         ]
       },
       {
         "tag": "STEM education",
         "source_text": "STEM Education",
-        "confidence": 0.9584,
+        "confidence": 1.0,
         "sources": [
-          "STEM",
-          "STEM careers",
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "broadening participation in STEM",
-        "source_text": "broadening participation",
-        "confidence": 0.8453,
-        "sources": [
-          "Advancing Informal STEM Learning",
-          "broadening participation",
-          "intergenerational STEM engagement"
-        ]
-      },
-      {
-        "tag": "STEM career pathways",
-        "source_text": "STEM careers",
-        "confidence": 0.8371,
-        "sources": [
-          "STEM",
-          "STEM careers"
-        ]
-      },
-      {
-        "tag": "STEM pathways",
-        "source_text": "STEM careers",
-        "confidence": 0.8029,
-        "sources": [
-          "STEM",
-          "STEM careers"
-        ]
-      },
-      {
-        "tag": "informal learning environments",
-        "source_text": "informal STEM learning",
-        "confidence": 0.7314,
-        "sources": [
-          "informal STEM learning"
-        ]
-      },
-      {
-        "tag": "K-12 STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7263,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "out-of-school STEM programs",
-        "source_text": "informal STEM learning",
-        "confidence": 0.7237,
-        "sources": [
-          "Advancing Informal STEM Learning",
-          "informal STEM learning",
-          "community STEM"
-        ]
-      },
-      {
-        "tag": "high school STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7168,
-        "sources": [
-          "STEM careers",
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "elementary STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7157,
-        "sources": [
-          "STEM",
-          "community STEM",
+          "STEM media",
           "STEM Education"
         ]
       },
       {
         "tag": "community-based STEM programs",
-        "source_text": "community STEM",
-        "confidence": 0.7136,
-        "sources": [
-          "Advancing Informal STEM Learning",
-          "informal STEM learning",
-          "community STEM",
-          "intergenerational STEM engagement"
-        ]
-      },
-      {
-        "tag": "science education",
-        "source_text": "STEM Education",
-        "confidence": 0.708,
-        "sources": [
-          "science communication",
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "after-school STEM programs",
-        "source_text": "informal STEM learning",
-        "confidence": 0.6706,
-        "sources": [
-          "Advancing Informal STEM Learning",
-          "informal STEM learning"
-        ]
-      },
-      {
-        "tag": "access to STEM opportunities",
         "source_text": "intergenerational STEM engagement",
-        "confidence": 0.6624,
+        "confidence": 0.6935,
         "sources": [
-          "intergenerational STEM engagement",
-          "STEM careers"
+          "intergenerational STEM engagement"
         ]
       },
       {
         "tag": "middle school STEM education",
         "source_text": "intergenerational STEM engagement",
-        "confidence": 0.6527,
+        "confidence": 0.6512,
         "sources": [
           "intergenerational STEM engagement"
         ]
       },
       {
-        "tag": "STEM equity and access",
-        "source_text": "STEM",
-        "confidence": 0.6028,
+        "tag": "high school STEM education",
+        "source_text": "intergenerational STEM engagement",
+        "confidence": 0.6504,
         "sources": [
-          "STEM"
+          "intergenerational STEM engagement"
         ]
       },
       {
-        "tag": "community college STEM programs",
-        "source_text": "community STEM",
-        "confidence": 0.5921,
+        "tag": "elementary STEM education",
+        "source_text": "intergenerational STEM engagement",
+        "confidence": 0.6467,
         "sources": [
-          "community STEM"
+          "intergenerational STEM engagement"
+        ]
+      },
+      {
+        "tag": "out-of-school STEM programs",
+        "source_text": "intergenerational STEM engagement",
+        "confidence": 0.6459,
+        "sources": [
+          "Advancing Informal STEM Learning",
+          "intergenerational STEM engagement"
+        ]
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "intergenerational STEM engagement",
+        "confidence": 0.6368,
+        "sources": [
+          "intergenerational STEM engagement"
+        ]
+      },
+      {
+        "tag": "science education",
+        "source_text": "science communication",
+        "confidence": 0.6007,
+        "sources": [
+          "science communication"
+        ]
+      },
+      {
+        "tag": "undergraduate research experiences",
+        "source_text": "REU supplements",
+        "confidence": 0.5805,
+        "sources": [
+          "REU supplements"
         ]
       }
     ],
-    "population_tags": [],
-    "org_type_tags": [
+    "population_tags": [
       {
-        "tag": "institution of higher education",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.7815,
+        "tag": "informal learners",
+        "source_text": "informal STEM learning",
+        "confidence": 0.6962,
         "sources": [
-          "Institutions of Higher Education",
-          "IHEs"
-        ]
-      },
-      {
-        "tag": "nonprofit organization",
-        "source_text": "Non-profit, non-academic organizations",
-        "confidence": 0.6248,
-        "sources": [
-          "Non-profit, non-academic organizations"
-        ]
-      },
-      {
-        "tag": "tribal college or university",
-        "source_text": "Tribal Nations",
-        "confidence": 0.5465,
-        "sources": [
-          "Tribal Nations"
+          "informal STEM learning"
         ]
       }
     ],
+    "org_type_tags": [],
     "geography_tags": [
       {
         "tag": "tribal nations",
         "source_text": "Tribal Nations",
-        "confidence": 0.9111,
-        "sources": [
-          "Tribal Nations"
-        ]
-      },
-      {
-        "tag": "tribal communities",
-        "source_text": "Tribal Nations",
-        "confidence": 0.7165,
-        "sources": [
-          "Tribal Nations"
-        ]
-      },
-      {
-        "tag": "Native American communities",
-        "source_text": "Tribal Nations",
-        "confidence": 0.6266,
+        "confidence": 1.0,
         "sources": [
           "Tribal Nations"
         ]
       }
     ],
-    "red_flag_tags": [
-      {
-        "tag": "higher education institutions only",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.7034,
-        "sources": [
-          "Institutions of Higher Education"
-        ]
-      }
-    ]
+    "red_flag_tags": []
   },
   "deadline": {
     "status": "date",

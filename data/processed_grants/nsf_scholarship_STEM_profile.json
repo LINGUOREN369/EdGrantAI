@@ -1,23 +1,38 @@
 {
   "grant_id": "nsf_scholarship_STEM",
-  "created_at": "2025-12-03T15:29:19.867380-05:00",
-  "taxonomy_version": "0.0.5",
+  "created_at": "2025-12-04T11:14:43.048782-05:00",
+  "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "NSF Scholarships in Science, Technology, Engineering, and Mathematics",
     "S-STEM",
     "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
-    "Track 1 proposals",
-    "Participant Support \u2013 Stipends",
+    "Track 1",
+    "Participant Support",
+    "S-STEM Program",
     "Collaborative Planning Grants track",
-    "S-STEM program team",
+    "Current and Pending Support",
+    "Research.gov",
+    "NSF Proposal & Award Policies & Procedures Guide",
+    "NSF PAPPG",
     "S-STEM Eligible Degree Programs",
+    "Associate of Arts",
+    "Associate of Science",
+    "Associate of Engineering",
+    "Associate of Applied Science",
+    "Bachelor of Arts",
+    "Bachelor of Science",
+    "Bachelor of Engineering",
+    "Bachelor of Applied Science",
+    "Master of Arts",
+    "Master of Science",
+    "Master of Engineering",
+    "Doctoral (Ph.D. or other comparable doctoral degree)",
     "S-STEM Eligible Disciplines",
     "Robert Noyce Teacher Scholarship program",
+    "2-year institutions",
     "Broadening Participation In STEM",
     "Institutions of Higher Education",
     "IHEs",
-    "Track 1",
-    "Track 2",
     "Track 3",
     "Inter-institutional Consortia"
   ],
@@ -26,71 +41,37 @@
       {
         "tag": "broadening participation in STEM",
         "source_text": "Broadening Participation In STEM",
-        "confidence": 0.9277,
+        "confidence": 1.0,
         "sources": [
           "Broadening Participation In STEM"
-        ]
-      },
-      {
-        "tag": "access to STEM opportunities",
-        "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6822,
-        "sources": [
-          "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
-          "Broadening Participation In STEM"
-        ]
-      },
-      {
-        "tag": "undergraduate STEM education",
-        "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6455,
-        "sources": [
-          "S-STEM",
-          "S-STEM program team",
-          "S-STEM Eligible Degree Programs",
-          "S-STEM Eligible Disciplines",
-          "Broadening Participation In STEM"
-        ]
-      },
-      {
-        "tag": "underrepresented groups in STEM",
-        "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6454,
-        "sources": [
-          "Broadening Participation In STEM"
-        ]
-      },
-      {
-        "tag": "community-based STEM programs",
-        "source_text": "Broadening Participation In STEM",
-        "confidence": 0.6451,
-        "sources": [
-          "S-STEM program team",
-          "Broadening Participation In STEM"
-        ]
-      },
-      {
-        "tag": "STEM pathways",
-        "source_text": "S-STEM",
-        "confidence": 0.6189,
-        "sources": [
-          "S-STEM",
-          "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
-          "S-STEM program team",
-          "S-STEM Eligible Degree Programs",
-          "S-STEM Eligible Disciplines"
         ]
       },
       {
         "tag": "community college STEM programs",
-        "source_text": "S-STEM",
-        "confidence": 0.5848,
+        "source_text": "S-STEM Program",
+        "confidence": 0.6183,
         "sources": [
           "S-STEM",
-          "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
-          "S-STEM program team",
-          "S-STEM Eligible Degree Programs",
-          "S-STEM Eligible Disciplines"
+          "S-STEM Program",
+          "S-STEM Eligible Degree Programs"
+        ]
+      },
+      {
+        "tag": "engineering education",
+        "source_text": "Bachelor of Engineering",
+        "confidence": 0.6089,
+        "sources": [
+          "Associate of Engineering",
+          "Bachelor of Engineering",
+          "Master of Engineering"
+        ]
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "S-STEM",
+        "confidence": 0.5881,
+        "sources": [
+          "S-STEM"
         ]
       },
       {
@@ -105,53 +86,57 @@
       {
         "tag": "high school STEM education",
         "source_text": "S-STEM",
-        "confidence": 0.5705,
+        "confidence": 0.5704,
+        "sources": [
+          "S-STEM"
+        ]
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "S-STEM",
+        "confidence": 0.5664,
+        "sources": [
+          "S-STEM"
+        ]
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "S-STEM",
+        "confidence": 0.5623,
+        "sources": [
+          "S-STEM"
+        ]
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "S-STEM",
+        "confidence": 0.5604,
         "sources": [
           "S-STEM"
         ]
       },
       {
         "tag": "after-school STEM programs",
-        "source_text": "S-STEM program team",
-        "confidence": 0.5544,
+        "source_text": "S-STEM",
+        "confidence": 0.5551,
         "sources": [
-          "S-STEM program team"
-        ]
-      },
-      {
-        "tag": "STEM career pathways",
-        "source_text": "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
-        "confidence": 0.542,
-        "sources": [
-          "Science, Technology, Engineering, and Mathematics Talent Expansion Program",
-          "S-STEM Eligible Degree Programs",
-          "S-STEM Eligible Disciplines"
+          "S-STEM"
         ]
       }
     ],
     "population_tags": [],
     "org_type_tags": [
       {
-        "tag": "institution of higher education",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.7813,
+        "tag": "two-year college",
+        "source_text": "2-year institutions",
+        "confidence": 0.7884,
         "sources": [
-          "Institutions of Higher Education",
-          "IHEs"
+          "2-year institutions"
         ]
       }
     ],
     "geography_tags": [],
-    "red_flag_tags": [
-      {
-        "tag": "higher education institutions only",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.7034,
-        "sources": [
-          "Institutions of Higher Education"
-        ]
-      }
-    ]
+    "red_flag_tags": []
   },
   "deadline": {
     "status": "unspecified",

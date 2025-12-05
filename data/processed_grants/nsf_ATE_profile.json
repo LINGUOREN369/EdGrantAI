@@ -1,60 +1,28 @@
 {
   "grant_id": "nsf_ATE",
-  "created_at": "2025-12-03T15:26:41.043426-05:00",
-  "taxonomy_version": "0.0.5",
+  "created_at": "2025-12-04T11:11:40.050796-05:00",
+  "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "Advanced Technological Education",
     "Institutions of Higher Education",
+    "two-year Institutions of Higher Education",
+    "National Institute of Standards and Technology",
+    "Manufacturing Extension Partnerships",
+    "Manufacturing USA Institutes",
     "Minority Serving Institutions",
     "skilled technical workforce",
-    "STEM Education"
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "for-profit organizations",
+    "State and Local Governments",
+    "Tribal Nations"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.9583,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "K-12 STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7264,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "high school STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7169,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "elementary STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7157,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "science education",
-        "source_text": "STEM Education",
-        "confidence": 0.708,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
         "tag": "technology education",
         "source_text": "Advanced Technological Education",
-        "confidence": 0.589,
+        "confidence": 0.5891,
         "sources": [
           "Advanced Technological Education"
         ]
@@ -62,7 +30,7 @@
       {
         "tag": "workforce development",
         "source_text": "skilled technical workforce",
-        "confidence": 0.5702,
+        "confidence": 0.5704,
         "sources": [
           "skilled technical workforce"
         ]
@@ -77,27 +45,19 @@
         "sources": [
           "Minority Serving Institutions"
         ]
-      },
+      }
+    ],
+    "geography_tags": [
       {
-        "tag": "institution of higher education",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.7813,
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
         "sources": [
-          "Institutions of Higher Education"
+          "Tribal Nations"
         ]
       }
     ],
-    "geography_tags": [],
-    "red_flag_tags": [
-      {
-        "tag": "higher education institutions only",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.7034,
-        "sources": [
-          "Institutions of Higher Education"
-        ]
-      }
-    ]
+    "red_flag_tags": []
   },
   "deadline": {
     "status": "date",

@@ -176,6 +176,8 @@ Each mapped tag includes:
 
 This ensures full traceability and auditability.
 
+Org profiles apply extra validation and filtering rules for precision. See `docs/org_profile_rules.md` for the full rules summary (v0.0.10+).
+
 ---
 
 ## 6. Final JSON Output Structure

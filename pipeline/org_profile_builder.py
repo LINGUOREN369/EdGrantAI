@@ -130,6 +130,21 @@ def build_org_profile(
         _append_geo("United States", "derived: geography mention in org text")
     if re.search(r"\b(global|worldwide|international)\b", text_lower):
         _append_geo("global", "derived: geography mention in org text")
+    # If org name/text contains a U.S. state name, tag single state
+    _US_STATES = [
+        "alabama", "alaska", "arizona", "arkansas", "california", "colorado", "connecticut",
+        "delaware", "florida", "georgia", "hawaii", "idaho", "illinois", "indiana",
+        "iowa", "kansas", "kentucky", "louisiana", "maine", "maryland", "massachusetts",
+        "michigan", "minnesota", "mississippi", "missouri", "montana", "nebraska",
+        "nevada", "new hampshire", "new jersey", "new mexico", "new york", "north carolina",
+        "north dakota", "ohio", "oklahoma", "oregon", "pennsylvania", "rhode island",
+        "south carolina", "south dakota", "tennessee", "texas", "utah", "vermont",
+        "virginia", "washington", "west virginia", "wisconsin", "wyoming", "district of columbia"
+    ]
+    for st in _US_STATES:
+        if re.search(rf"\b{re.escape(st)}\b", text_lower):
+            _append_geo("single state", f"derived: state name '{st.title()}' in org text")
+            break
     mapped_tags["geography_tags"] = geos
 
     # 4) Org-type enforcement based on self-description
@@ -170,6 +185,93 @@ def build_org_profile(
         if total >= min_occ and conf >= rf_threshold:
             filtered_rfs.append(item)
     mapped_tags["red_flag_tags"] = filtered_rfs
+
+    # 6) Mission tag filters & policy/grade-band rules (org-specific tightening)
+    missions = mapped_tags.get("mission_tags", []) or []
+    mission_filtered = []
+    restricted_mission = {
+        "after-school STEM programs",
+        "out-of-school STEM programs",
+        "informal STEM learning",
+        "STEM career pathways",
+    }
+    # Signals that must appear in text for restricted tags
+    sig_after_out = re.compile(r"\b(after\s*-?\s*school|afterschool|out\s*-?\s*of\s*-?\s*school|\bOST\b)\b", re.I)
+    sig_informal = re.compile(r"\b(informal|museum|library|science\s+center|science\s+museum|maker|makerspace|community\s*-?\s*based)\b", re.I)
+    sig_career = re.compile(r"\b(career\s+pathway|career\s+pathways|career\s+exploration|workforce|apprenticeship|internship|cte)\b", re.I)
+    sig_policy = re.compile(r"\b(policy|advocacy|legislat|statewide\s+policy|policymak)\b", re.I)
+
+    # Grade-band suppression helpers
+    has_k12 = bool(re.search(r"\bk\s*[-–]?\s*12\b", org_text, re.I))
+    grade_terms = re.compile(r"\b(elementary|middle\s+school|high\s+school|grades?\s*(?:k|\d+(?:-\d+)?))\b", re.I)
+    has_specific_grades = bool(grade_terms.search(org_text))
+
+    for item in missions:
+        tag = (item.get("tag") or "").strip()
+        conf = float(item.get("confidence", 0.0))
+        keep = True
+        # Restrict specific mission categories to explicit signals and conf >= 0.75
+        if tag in restricted_mission:
+            if tag == "informal STEM learning":
+                keep = conf >= 0.75 and (sig_informal.search(org_text) or sig_after_out.search(org_text))
+            elif tag == "STEM career pathways":
+                keep = conf >= 0.75 and bool(sig_career.search(org_text))
+            else:
+                # after-school / out-of-school
+                keep = conf >= 0.75 and bool(sig_after_out.search(org_text))
+
+        # Policy requirement
+        if keep and tag == "STEM education policy":
+            keep = bool(sig_policy.search(org_text))
+
+        # Grade-band suppression: if only generic K–12 is mentioned, allow only K-12 STEM education
+        if keep and has_k12 and not has_specific_grades:
+            if tag in {"elementary STEM education", "middle school STEM education", "high school STEM education"}:
+                keep = False
+
+        if keep:
+            mission_filtered.append(item)
+    mapped_tags["mission_tags"] = mission_filtered
+
+    # 7) Population rules: require explicit textual support for select tags; remove school districts as a population
+    pops2 = []
+    for item in mapped_tags.get("population_tags", []) or []:
+        tag = (item.get("tag") or "").strip().lower()
+        keep = True
+        if tag in {"rural students", "underserved communities", "low-income students"}:
+            pattern = None
+            if tag == "rural students":
+                pattern = re.compile(r"\brural\b", re.I)
+            elif tag == "underserved communities":
+                pattern = re.compile(r"under\s*-?\s*served", re.I)
+            elif tag == "low-income students":
+                pattern = re.compile(r"low\s*-?\s*income|title\s*[i1]", re.I)
+            keep = bool(pattern and pattern.search(org_text))
+        if tag == "school districts":
+            keep = False
+        if keep:
+            pops2.append(item)
+    mapped_tags["population_tags"] = pops2
+
+    # 8) Threshold enforcement (org-specific minimums)
+    def _enforce_threshold(items: list, min_conf: float) -> list:
+        out = []
+        for it in items or []:
+            if float(it.get("confidence", 0.0)) >= min_conf:
+                out.append(it)
+        return out
+
+    mapped_tags["mission_tags"] = _enforce_threshold(mapped_tags.get("mission_tags"), 0.70)
+    mapped_tags["population_tags"] = _enforce_threshold(mapped_tags.get("population_tags"), 0.65)
+    mapped_tags["org_type_tags"] = _enforce_threshold(mapped_tags.get("org_type_tags"), 0.75)
+    # Geography: keep explicit mentions regardless; otherwise enforce 0.85
+    g2 = []
+    for it in mapped_tags.get("geography_tags", []) or []:
+        src = (it.get("source_text") or "") + " " + " ".join(it.get("sources") or [])
+        explicit = bool(re.search(r"\b(united\s+states|u\.s\.|usa|u\.s\.a\.|global|worldwide|international|state name|derived: geography mention|derived: state name)\b", src, re.I))
+        if explicit or float(it.get("confidence", 0.0)) >= 0.85:
+            g2.append(it)
+    mapped_tags["geography_tags"] = g2
     version = load_taxonomy_version()
 
     profile = {
@@ -178,6 +280,17 @@ def build_org_profile(
         "taxonomy_version": version,
         "extracted_phrases": extracted_phrases,
         "canonical_tags": mapped_tags,
+        "validation": {
+            "rules_version": "0.0.10+",
+            "notes": [
+                "Dictionary-first; geography explicit or derived from state name",
+                "Restricted mission tags require explicit signals",
+                "Grade-band suppression if only generic K–12",
+                "Policy tag requires policy/advocacy signals",
+                "Population tags require explicit cues; no 'school districts' population",
+                "Org-specific thresholds applied"
+            ],
+        },
         "source": {
             "path": str(source_path) if source_path else None,
             "url": str(source_url) if source_url else None,

@@ -1,67 +1,47 @@
 {
   "grant_id": "nsf_teacher_corp_pilot",
-  "created_at": "2025-12-03T15:29:31.272644-05:00",
-  "taxonomy_version": "0.0.5",
+  "created_at": "2025-12-04T11:14:55.904433-05:00",
+  "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "National STEM Teacher Corps Pilot Program",
     "Regional Alliances",
     "National STEM Teacher Corps",
     "STEM Education",
     "Institutions of Higher Education",
-    "IHEs",
-    "Cooperative Agreement"
+    "Two- and four-year IHEs",
+    "community colleges"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
         "tag": "STEM education",
         "source_text": "STEM Education",
-        "confidence": 0.9583,
+        "confidence": 1.0,
         "sources": [
           "STEM Education"
+        ]
+      },
+      {
+        "tag": "community college STEM programs",
+        "source_text": "community colleges",
+        "confidence": 0.6473,
+        "sources": [
+          "community colleges"
         ]
       },
       {
         "tag": "K-12 STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7264,
+        "source_text": "National STEM Teacher Corps",
+        "confidence": 0.6211,
         "sources": [
           "National STEM Teacher Corps Pilot Program",
-          "National STEM Teacher Corps",
-          "STEM Education"
+          "National STEM Teacher Corps"
         ]
       },
       {
         "tag": "high school STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7169,
-        "sources": [
-          "National STEM Teacher Corps Pilot Program",
-          "National STEM Teacher Corps",
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "elementary STEM education",
-        "source_text": "STEM Education",
-        "confidence": 0.7157,
-        "sources": [
-          "National STEM Teacher Corps",
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "science education",
-        "source_text": "STEM Education",
-        "confidence": 0.708,
-        "sources": [
-          "STEM Education"
-        ]
-      },
-      {
-        "tag": "STEM teacher professional development",
         "source_text": "National STEM Teacher Corps",
-        "confidence": 0.6292,
+        "confidence": 0.6207,
         "sources": [
           "National STEM Teacher Corps Pilot Program",
           "National STEM Teacher Corps"
@@ -70,10 +50,9 @@
       {
         "tag": "after-school STEM programs",
         "source_text": "National STEM Teacher Corps Pilot Program",
-        "confidence": 0.5816,
+        "confidence": 0.5815,
         "sources": [
-          "National STEM Teacher Corps Pilot Program",
-          "National STEM Teacher Corps"
+          "National STEM Teacher Corps Pilot Program"
         ]
       },
       {
@@ -83,31 +62,46 @@
         "sources": [
           "National STEM Teacher Corps Pilot Program"
         ]
+      },
+      {
+        "tag": "middle school STEM education",
+        "source_text": "National STEM Teacher Corps Pilot Program",
+        "confidence": 0.566,
+        "sources": [
+          "National STEM Teacher Corps Pilot Program"
+        ]
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "National STEM Teacher Corps Pilot Program",
+        "confidence": 0.5639,
+        "sources": [
+          "National STEM Teacher Corps Pilot Program"
+        ]
       }
     ],
-    "population_tags": [],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
     "org_type_tags": [
       {
-        "tag": "institution of higher education",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.7815,
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
         "sources": [
-          "Institutions of Higher Education",
-          "IHEs"
+          "community colleges"
         ]
       }
     ],
     "geography_tags": [],
-    "red_flag_tags": [
-      {
-        "tag": "higher education institutions only",
-        "source_text": "Institutions of Higher Education",
-        "confidence": 0.7034,
-        "sources": [
-          "Institutions of Higher Education"
-        ]
-      }
-    ]
+    "red_flag_tags": []
   },
   "deadline": {
     "status": "unspecified",

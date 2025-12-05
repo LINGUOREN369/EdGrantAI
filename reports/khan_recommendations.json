@@ -1,0 +1,222 @@
+{
+  "org_profile": "khan_profile.json",
+  "recommendations": [
+    {
+      "grant_profile": "nsf_k12_ai_support_profile.json",
+      "score": 0.299,
+      "bucket": "Avoid",
+      "deadlines": [
+        "2025-11-07"
+      ],
+      "deadline_status": "date",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['education system partnerships']",
+        "Population overlap: ['K-12 students']"
+      ],
+      "explanation": {
+        "recommendation": "Maybe",
+        "bullets": [
+          "There is a partial overlap in mission with the grant focusing on 'education system partnerships'.",
+          "The target population of 'K-12 students' aligns with your organization's focus on K-12 education.",
+          "However, there are no organizational type overlaps specified in the grant, which may indicate eligibility uncertainty.",
+          "The grant does not list any substantial red flags, but the lack of clarity on organizational type is a risk.",
+          "You are eligible to apply based on your mission and target population, but confirmation on organizational type may be needed."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_cs_profile.json",
+      "score": 0.264,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [
+        "Mission overlap: ['education system partnerships']",
+        "Population overlap: ['K-12 students']"
+      ],
+      "explanation": {
+        "recommendation": "Maybe",
+        "bullets": [
+          "There is a partial overlap in mission with the grant, specifically in 'education system partnerships'.",
+          "The organization serves a population of 'K-12 students', which aligns with the grant's target population.",
+          "However, there are no overlapping tags under org type or geography, leading to a potential mismatch in eligibility.",
+          "No red flags are identified, which simplifies the application process, but further investigation into eligibility may be needed.",
+          "There are unspecified deadlines, indicating some flexibility, but also uncertainty in timing."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_faculty_suport_profile.json",
+      "score": 0.107,
+      "bucket": "Avoid",
+      "deadlines": [
+        "2022-07-27"
+      ],
+      "deadline_status": "date",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "There are no overlapping mission, population, org type, or geography tags, indicating a significant mismatch with the grant's focus.",
+          "The grant does not align with the organization's expertise in AI-powered tutoring and K-12 education.",
+          "The proposed grant's deadline has passed, making it impossible to apply.",
+          "There are no red flags mentioned, but the lack of relevance and urgency both contribute to the decision to avoid this grant.",
+          "The organization does not meet any eligibility conditions since there are no common tags with the grant."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_teacher_corp_pilot_profile.json",
+      "score": 0.107,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "The grant has no overlapping mission, population, or geography tags with the organization.",
+          "The organization focuses on a global geography, while the grant's geographic focus is unspecified.",
+          "There are no relevant org type overlaps, which disqualifies the application.",
+          "Without clear eligibility and compatibility based on the criteria, pursuing this grant is not advisable.",
+          "There are no defined deadlines or funding amounts, further complicating interest in this opportunity."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_AISL_profile.json",
+      "score": 0.07,
+      "bucket": "Avoid",
+      "deadlines": [
+        "2025-01-08"
+      ],
+      "deadline_status": "date",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "There are no overlapping mission tags between the organization and the grant, indicating a lack of alignment in focus areas.",
+          "There are no overlapping population tags, which suggests that the target beneficiaries of the grant do not match those served by the organization.",
+          "The organization type tags do not overlap; the grant requires specific eligibility that does not include the organization's designation as an education technology organization.",
+          "Geographic focus is misaligned as the organization serves globally, while the grant does not specify this alignment.",
+          "There are no red flags noted, but the lack of alignment in key areas means any application would likely not meet the grant's intended purposes."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_ATE_profile.json",
+      "score": 0.0,
+      "bucket": "Avoid",
+      "deadlines": [
+        "2024-10-03"
+      ],
+      "deadline_status": "date",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "There are no overlapping tags between the organization's mission, population, organization type, or geography and the grant criteria.",
+          "The grant does not specify any red flags, but the complete lack of overlap raises concerns about fit.",
+          "The organization is classified as a 501(c)(3) nonprofit and an education technology organization, yet there are no corresponding tags in the grant for these categories.",
+          "Geographically, the organization's global focus does not align with potential geographical limitations of the grant, which are unspecified but inferred to be more localized.",
+          "Since there are no matching mission or population tags, the alignment with the grant appears significantly limited."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_REU_profile.json",
+      "score": 0.0,
+      "bucket": "Avoid",
+      "deadlines": [
+        "2023-09-27",
+        "2024-08-21"
+      ],
+      "deadline_status": "multiple",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "There are no overlapping mission, population, org type, or geography tags between the organization and the grant.",
+          "The NSF REU program is specifically designed for undergraduate research involvement, which does not align with the organization's focus on K-12 and early childhood education.",
+          "The organization does not meet any eligibility criteria for this grant, as it is directed at education and research engagement for undergraduate students only.",
+          "No structural requirements or red flags are applicable, but lack of relevance to the organization's mission is significant.",
+          "The geographic focus of the organization is global, while the REU program is primarily U.S.-based."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_edu_core_research_profile.json",
+      "score": 0.0,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "There are no overlapping mission, population, org type, or geography tags between the organization and the grant.",
+          "The lack of overlap implies that the organization's focus may not align with the priorities of the grant.",
+          "This absence of alignment presents a significant risk in terms of relevancy and competitive edge.",
+          "Additionally, NSF typically expects proposals to tightly align with its funding objectives, which this grant does not seem to offer for this organization.",
+          "Without any red flags noted, the main concern is the complete lack of relevant overlap."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_pathway_profile.json",
+      "score": 0.0,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "There is no overlap in mission tags between the organization and the grant.",
+          "There is no overlap in population tags, which includes key areas of focus such as K-12 students and historically underserved students.",
+          "The organization type tags do not overlap with any specified in the grant, which may indicate eligibility mismatches.",
+          "Geographical focus is global for the organization, whereas the grant does not specify any geographic alignment.",
+          "Without any relevant overlap, the grant is likely not suitable for the organization's mission and activities."
+        ]
+      }
+    },
+    {
+      "grant_profile": "nsf_scholarship_STEM_profile.json",
+      "score": 0.0,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "funding_min": null,
+      "funding_max": null,
+      "reasons": [],
+      "explanation": {
+        "recommendation": "Avoid",
+        "bullets": [
+          "There are no overlaps in mission, population, org type, or geography between the nonprofit and the grant.",
+          "The grant has specific eligibility restrictions that are not listed, making it unclear if the organization qualifies.",
+          "The NSF PAPPG guides must be closely followed, indicating significant administrative requirements.",
+          "The grant permits a maximum of two proposals from each institution, which may create limitations for multiple submissions.",
+          "No funding range is provided, which adds uncertainty regarding financial requirements and expectations."
+        ]
+      }
+    }
+  ]
+}

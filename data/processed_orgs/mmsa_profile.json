@@ -1,38 +1,40 @@
 {
   "org_id": "mmsa",
-  "created_at": "2025-12-04T10:36:57.855282-05:00",
+  "created_at": "2025-12-04T11:05:51.020797-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "Maine Math & Science Alliance",
     "STEM education nonprofit",
     "National Science Foundation",
-    "STEM learning models",
     "STEM professional learning experiences",
+    "inquiry-based STEM instruction",
     "K\u201312 classrooms",
     "STEM education initiatives",
-    "community-based and rural STEM engagement",
-    "equitable access to STEM learning",
+    "STEM innovation initiatives",
+    "community-based and rural STEM engagement efforts",
     "diversity, equity, inclusion, and accessibility",
-    "STEM professional development programs",
-    "STEM teaching models",
+    "STEM educator training",
+    "rural and underserved STEM access",
+    "research-backed STEM professional development programs",
     "regional and statewide STEM educator networks",
     "Equity-driven STEM initiatives",
-    "rural and underserved students"
+    "underrepresented students"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
         "tag": "community-based STEM programs",
-        "source_text": "community-based and rural STEM engagement",
-        "confidence": 0.8449,
+        "source_text": "community-based and rural STEM engagement efforts",
+        "confidence": 0.8385,
         "sources": [
           "STEM education nonprofit",
-          "STEM learning models",
           "STEM professional learning experiences",
+          "inquiry-based STEM instruction",
           "STEM education initiatives",
-          "community-based and rural STEM engagement",
-          "equitable access to STEM learning",
-          "STEM professional development programs",
+          "STEM innovation initiatives",
+          "community-based and rural STEM engagement efforts",
+          "rural and underserved STEM access",
+          "research-backed STEM professional development programs",
           "regional and statewide STEM educator networks",
           "Equity-driven STEM initiatives"
         ]
@@ -43,30 +45,10 @@
         "confidence": 0.8174,
         "sources": [
           "STEM education nonprofit",
-          "STEM learning models",
           "STEM professional learning experiences",
           "STEM education initiatives",
-          "STEM professional development programs",
-          "STEM teaching models"
-        ]
-      },
-      {
-        "tag": "STEM education policy",
-        "source_text": "STEM education initiatives",
-        "confidence": 0.8102,
-        "sources": [
-          "STEM education nonprofit",
-          "STEM education initiatives",
-          "Equity-driven STEM initiatives"
-        ]
-      },
-      {
-        "tag": "STEM equity and access",
-        "source_text": "equitable access to STEM learning",
-        "confidence": 0.7767,
-        "sources": [
-          "equitable access to STEM learning",
-          "Equity-driven STEM initiatives"
+          "STEM innovation initiatives",
+          "STEM educator training"
         ]
       },
       {
@@ -75,129 +57,54 @@
         "confidence": 0.7607,
         "sources": [
           "STEM education nonprofit",
-          "STEM learning models",
           "STEM professional learning experiences",
           "STEM education initiatives",
-          "STEM professional development programs",
-          "STEM teaching models"
+          "STEM educator training",
+          "research-backed STEM professional development programs"
         ]
       },
       {
-        "tag": "after-school STEM programs",
-        "source_text": "STEM professional development programs",
-        "confidence": 0.7079,
+        "tag": "STEM equity and access",
+        "source_text": "Equity-driven STEM initiatives",
+        "confidence": 0.7374,
         "sources": [
-          "STEM education nonprofit",
-          "STEM education initiatives",
-          "community-based and rural STEM engagement",
-          "STEM professional development programs",
-          "Equity-driven STEM initiatives"
-        ]
-      },
-      {
-        "tag": "STEM career pathways",
-        "source_text": "STEM professional development programs",
-        "confidence": 0.7079,
-        "sources": [
-          "STEM learning models",
-          "STEM professional learning experiences",
-          "STEM professional development programs"
-        ]
-      },
-      {
-        "tag": "broadening participation in STEM",
-        "source_text": "equitable access to STEM learning",
-        "confidence": 0.7078,
-        "sources": [
-          "community-based and rural STEM engagement",
-          "equitable access to STEM learning",
+          "STEM innovation initiatives",
+          "rural and underserved STEM access",
           "Equity-driven STEM initiatives"
         ]
       },
       {
         "tag": "K-12 STEM education",
         "source_text": "STEM education initiatives",
-        "confidence": 0.7035,
+        "confidence": 0.7036,
         "sources": [
           "STEM education nonprofit",
           "K\u201312 classrooms",
           "STEM education initiatives",
-          "equitable access to STEM learning",
+          "STEM innovation initiatives",
+          "STEM educator training",
+          "research-backed STEM professional development programs",
           "regional and statewide STEM educator networks",
           "Equity-driven STEM initiatives"
         ]
       },
       {
-        "tag": "high school STEM education",
-        "source_text": "equitable access to STEM learning",
-        "confidence": 0.6998,
+        "tag": "underrepresented groups in STEM",
+        "source_text": "underrepresented students",
+        "confidence": 0.7024,
         "sources": [
-          "STEM education nonprofit",
-          "STEM learning models",
-          "STEM professional learning experiences",
-          "STEM education initiatives",
-          "community-based and rural STEM engagement",
-          "equitable access to STEM learning",
-          "STEM professional development programs",
-          "regional and statewide STEM educator networks"
-        ]
-      },
-      {
-        "tag": "out-of-school STEM programs",
-        "source_text": "STEM professional development programs",
-        "confidence": 0.697,
-        "sources": [
-          "community-based and rural STEM engagement",
-          "STEM professional development programs",
-          "Equity-driven STEM initiatives"
-        ]
-      },
-      {
-        "tag": "elementary STEM education",
-        "source_text": "equitable access to STEM learning",
-        "confidence": 0.6866,
-        "sources": [
-          "STEM education nonprofit",
-          "STEM professional learning experiences",
-          "STEM education initiatives",
-          "community-based and rural STEM engagement",
-          "equitable access to STEM learning",
-          "STEM professional development programs",
-          "regional and statewide STEM educator networks"
-        ]
-      },
-      {
-        "tag": "informal STEM learning",
-        "source_text": "STEM professional learning experiences",
-        "confidence": 0.6816,
-        "sources": [
-          "STEM learning models",
-          "STEM professional learning experiences",
-          "community-based and rural STEM engagement",
-          "equitable access to STEM learning"
-        ]
-      },
-      {
-        "tag": "middle school STEM education",
-        "source_text": "equitable access to STEM learning",
-        "confidence": 0.6698,
-        "sources": [
-          "STEM learning models",
-          "STEM professional learning experiences",
-          "community-based and rural STEM engagement",
-          "equitable access to STEM learning",
-          "STEM teaching models",
-          "regional and statewide STEM educator networks"
+          "rural and underserved STEM access",
+          "underrepresented students"
         ]
       }
     ],
     "population_tags": [
       {
-        "tag": "rural students",
-        "source_text": "rural and underserved students",
-        "confidence": 0.8409,
+        "tag": "historically underserved students",
+        "source_text": "underrepresented students",
+        "confidence": 1.0,
         "sources": [
-          "rural and underserved students"
+          "underrepresented students"
         ]
       },
       {
@@ -209,35 +116,11 @@
         ]
       },
       {
-        "tag": "historically underserved students",
-        "source_text": "rural and underserved students",
-        "confidence": 0.7693,
-        "sources": [
-          "rural and underserved students"
-        ]
-      },
-      {
         "tag": "K-12 teachers",
         "source_text": "K\u201312 classrooms",
-        "confidence": 0.7642,
+        "confidence": 0.7644,
         "sources": [
           "K\u201312 classrooms"
-        ]
-      },
-      {
-        "tag": "underserved communities",
-        "source_text": "rural and underserved students",
-        "confidence": 0.6879,
-        "sources": [
-          "rural and underserved students"
-        ]
-      },
-      {
-        "tag": "low-income students",
-        "source_text": "rural and underserved students",
-        "confidence": 0.6501,
-        "sources": [
-          "rural and underserved students"
         ]
       },
       {
@@ -263,8 +146,25 @@
         "confidence": 0.99
       }
     ],
-    "geography_tags": [],
+    "geography_tags": [
+      {
+        "tag": "single state",
+        "source_text": "derived: state name 'Maine' in org text",
+        "confidence": 0.99
+      }
+    ],
     "red_flag_tags": []
+  },
+  "validation": {
+    "rules_version": "0.0.10+",
+    "notes": [
+      "Dictionary-first; geography explicit or derived from state name",
+      "Restricted mission tags require explicit signals",
+      "Grade-band suppression if only generic K\u201312",
+      "Policy tag requires policy/advocacy signals",
+      "Population tags require explicit cues; no 'school districts' population",
+      "Org-specific thresholds applied"
+    ]
   },
   "source": {
     "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/orgs/mmsa.txt",
