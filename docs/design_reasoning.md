@@ -23,7 +23,7 @@ This document explains the design principles behind EdGrantAI: the taxonomy, pro
   - Output profiles: `data/processed_grants/{grant_id}_profile.json`
   - Prompts: `prompts/cke_prompt_nsf_v1.txt` (default)
 - Diagram
-  - See `docs/data_flow.md` (Mermaid) and `docs/data_flow.svg` (image).
+  - See `docs/workflow.png` for an overview of extraction → mapping → profiles → matching.
 
 ## Taxonomy Design
 - Scope: mission, population, org type, geography, red flags.
@@ -147,7 +147,12 @@ See also: `docs/mapping_funnel.md` for the full funnel and curation policy.
   - `python -m pipeline.build_taxonomy_embeddings --all`
 - Build a grant profile from a text file:
   - `python -m pipeline.grant_profile_builder data/grants/test_grant_1.txt`
-  - With options: `--grant-id`, `--out-dir`
+  - Options: `--grant-id`, `--out-dir`, `--all`
+- Build an org profile from a text file:
+  - `python -m pipeline.org_profile_builder data/orgs/org_0001.txt`
+  - Options: `--org-id`, `--out-dir`, `--all`
+- Rank grants for an org profile:
+  - `python -m pipeline.matching_engine --org data/processed_orgs/org_0001_profile.json --grants data/processed_grants --top 10 --explain`
 
 ## Performance & Scaling
 - Complexity: O(P × T_tax) per taxonomy (P = phrase count, T_tax = tag count)
@@ -168,7 +173,7 @@ See also: `docs/mapping_funnel.md` for the full funnel and curation policy.
 
 ## Outputs
 - Grant profile JSON: compact, human‑readable, includes evidence (phrases) and canonical tags with confidence.
-- Org profile JSON (future): same structure, plus normalized org metadata fields.
+- Org profile JSON: same structure, with org‑specific post‑processing for precision.
 
 ## Future Enhancements
 - Best‑only toggle: keep single highest‑confidence tag per taxonomy after thresholding.

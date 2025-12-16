@@ -1,4 +1,4 @@
-# EduGrant AI
+# EdGrant AI
 
 A lightweight, transparent, and high-impact grant-matching system for small education nonprofits.
 
@@ -6,22 +6,22 @@ A lightweight, transparent, and high-impact grant-matching system for small educ
 
 ## Overview
 
-EduGrant AI helps small education nonprofits quickly understand:
+EdGrant AI helps small education nonprofits quickly understand:
 - Which grants fit their mission
 - Which grants they are actually eligible for
 - Which grants they should not waste time applying to
 - Why a grant is or is not a good match
 
-Instead of giving nonprofits a random list of grants (like ChatGPT would), EduGrant AI provides:
+Instead of giving nonprofits a random list of grants (like ChatGPT would), EdGrant AI provides:
 - Structured, explainable matching
 - Taxonomy-driven tagging
 - Curated evergreen education grants
 - Eligibility analysis and red flags
 - Clear Grant Fit Reports
 
-EduGrant AI exists because **education funding is becoming less stable, more competitive, and increasingly dominated by private actors**. As public dollars decline, education nonprofits must rely on foundations, CSR programs, and individual philanthropists, but these opportunities are scattered across PDFs, poorly indexed, filled with jargon, and time-consuming to interpret. Large organizations have development teams to manage this complexity. **Small education nonprofits do not.** My mission is to bring structure, transparency, and equity to this landscape—and to ensure that smaller organizations are not left behind.
+EdGrant AI exists because **education funding is becoming less stable, more competitive, and increasingly dominated by private actors**. As public dollars decline, education nonprofits must rely on foundations, CSR programs, and individual philanthropists, but these opportunities are scattered across PDFs, poorly indexed, filled with jargon, and time-consuming to interpret. Large organizations have development teams to manage this complexity. **Small education nonprofits do not.** My mission is to bring structure, transparency, and equity to this landscape—and to ensure that smaller organizations are not left behind.
 
-EduGrant AI is built to be low-maintenance and high-impact — ideal for small education nonprofits with limited staff and no full-time grant writers.
+EdGrant AI is built to be low-maintenance and high-impact — ideal for small education nonprofits with limited staff and no full-time grant writers.
 
 Note on scope: EdGrantAI is currently NSF-first. The initial database and workflows focus on NSF solicitations and education programs, with a design that can expand to additional funders later.
 
@@ -46,7 +46,7 @@ This means the cost of applying to the wrong solicitation is higher than ever. T
 - the program was meant for universities only
 - the project did not match the directorate’s scope
 
-EduGrant AI eliminates this waste by showing nonprofits exactly which NSF programs fit — and which do not.
+EdGrant AI eliminates this waste by showing nonprofits exactly which NSF programs fit — and which do not.
 
 ---
 
@@ -57,7 +57,7 @@ Federal programs like NSF operate under open competition: organizations must app
 - Federal (NSF): Open competition; applicants must apply first; many programs have ~10–20% success rates; applications are detailed and time‑consuming; agencies must remain neutral and cannot pre‑screen or recommend programs; despite budget pressures, overall funding remains large while competition rises.
 - Private (e.g., Gates Foundation): Frequently invite‑only or curated RFPs; unsolicited applications are rarely accepted; funders pre‑select organizations they view as strong fits; fewer truly open opportunities; less time wasted applying if you are not invited.
 
-Because private cycles are often invitation‑only, the greatest ROI for a transparent matching tool is in the federal space, where anyone can apply — but applicants must choose wisely. EduGrant AI is designed to help small nonprofits invest time only where they are genuinely competitive.
+Because private cycles are often invitation‑only, the greatest ROI for a transparent matching tool is in the federal space, where anyone can apply — but applicants must choose wisely. EdGrant AI is designed to help small nonprofits invest time only where they are genuinely competitive.
 
 ---
 
@@ -79,13 +79,13 @@ This means:
 - Universities build their own internal systems, but they are private
 - Small nonprofits are left with nothing
 
-EduGrant AI fills this gap by providing public, transparent, and legally permissible grant intelligence that NSF itself cannot provide.
+EdGrant AI fills this gap by providing public, transparent, and legally permissible grant intelligence that NSF itself cannot provide.
 
 ---
 
-### How EduGrant AI Helps in a High-Competition, High-Uncertainty NSF Landscape
+### How EdGrant AI Helps in a High-Competition, High-Uncertainty NSF Landscape
 
-EduGrant AI provides:
+EdGrant AI provides:
 - Automatically updated NSF solicitations
 - Eligibility analysis (who can actually apply?)
 - Required partner detection
@@ -100,7 +100,7 @@ In a competitive environment, this system:
 - Helps RPPs and education organizations apply strategically
 - Levels a playing field that increasingly favors large institutions
 
-The funding is still there — but only for organizations who apply intelligently. EduGrant AI helps them do exactly that.
+The funding is still there — but only for organizations who apply intelligently. EdGrant AI helps them do exactly that.
 
 ---
 
@@ -116,7 +116,7 @@ Nonprofits can ask ChatGPT for a list of grants. But ChatGPT often produces:
 - No mission alignment scoring
 - No transparency in reasoning
 
-EduGrant AI is fundamentally different:
+EdGrant AI is fundamentally different:
 - Uses a curated, education-specific taxonomy
 - Extracts structured JSON from real RFPs
 - Evaluates mission alignment with explainability
@@ -128,9 +128,9 @@ EduGrant AI is fundamentally different:
 
 ## System Architecture
 
-![System Architecture](docs/v0.0.1workflow.png)
+![System Architecture](docs/workflow.png)
 
-- One JSON file per grant
+- One JSON profile per grant
 - One JSON profile per nonprofit
 - Matching is transparent and explainable
 
@@ -146,6 +146,7 @@ EdGrantAI/
 ├── LICENSE
 ├── requirements.txt
 ├── environment.yml
+├── Makefile
 │
 ├── data/
 │   ├── grants/
@@ -160,6 +161,13 @@ EdGrantAI/
 │       ├── red_flag_tags.json
 │       ├── schema_version.json
 │       ├── changelog.md
+│       ├── synonyms/
+│       │   ├── mission_tags_synonyms.json
+│       │   ├── population_tags_synonyms.json
+│       │   ├── org_types_synonyms.json
+│       │   ├── geography_tags_synonyms.json
+│       │   ├── red_flag_tags_synonyms.json
+│       │   └── nsf_programs_synonyms.json
 │       └── embeddings/
 │           ├── mission_tags_embeddings.json
 │           ├── population_tags_embeddings.json
@@ -173,7 +181,8 @@ EdGrantAI/
 │   ├── v0.0.1workflow.png
 │   ├── Tagging Pipeline Overview.md
 │   ├── design_reasoning.md
-│   └── grant_profile_build.md
+│   ├── grant_profile_build.md
+│   └── org_profile_rules.md
 │
 ├── pipeline/
 │   ├── __init__.py
@@ -183,10 +192,16 @@ EdGrantAI/
 │   ├── embedding_matcher.py
 │   ├── grant_profile_builder.py
 │   ├── org_profile_builder.py
-│   └── build_taxonomy_embeddings.py
+│   ├── build_taxonomy_embeddings.py
+│   ├── validate_taxonomy.py
+│   ├── build_synonyms.py
+│   ├── merge_auto_synonyms.py
+│   ├── deadline_extractor.py
+│   └── matching_engine.py
 │
 └── prompts/
-    └── cke_prompt_v1.txt
+    ├── cke_prompt_nsf_v1.txt
+    └── matching_explainer_prompt_v1.txt
 ```
 
 ---
@@ -215,6 +230,7 @@ Centralized configuration lives in `pipeline/config.py` and auto-loads `.env` va
   - `TAXONOMY_EMBEDDINGS_DIR` (default: `data/taxonomy/embeddings/`)
   - `SCHEMA_VERSION_PATH` (default: `data/taxonomy/schema_version.json`)
   - `PROCESSED_GRANTS_DIR` (default: `data/processed_grants/`)
+  - `PROCESSED_ORGS_DIR` (default: `data/processed_orgs/`)
 - Model names (override via env):
   - `OPENAI_CHAT_MODEL` (default: `gpt-4o-mini`)
   - `OPENAI_EMBEDDING_MODEL` (default: `text-embedding-3-large`)
@@ -286,40 +302,35 @@ These commands assume `.env` contains `OPENAI_API_KEY` (auto‑loaded by the pip
 
 ## Data Design
 
-Grant JSON Structure
-
-Each grant lives in its own JSON file:
+Grant profile JSON structure (produced by the pipeline):
 
 ```json
 {
-  "grant_name": "",
-  "grant_org": "",
-  "link": "",
-
-  "mission_tags": [],
-  "population_tags": [],
-  "org_type_tags": [],
-  "geography_tags": [],
-
-  "funding_range": { "min": 0, "max": 0 },
-  "deadline_type": "",
-
-  "eligibility_notes": "",
-  "red_flags": []
+  "grant_id": "nsf_AISL",
+  "created_at": "2025-01-02T12:34:56-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": ["informal STEM learning", "letters of collaboration", "United States"],
+  "canonical_tags": {
+    "mission_tags": [{"tag": "informal STEM learning", "source_text": "informal STEM learning", "confidence": 1.0}],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [{"tag": "United States", "source_text": "United States", "confidence": 1.0}],
+    "red_flag_tags": [{"tag": "letters of collaboration", "source_text": "letters of collaboration", "confidence": 1.0}]
+  },
+  "deadline": {"status": "date", "dates": ["2025-01-08"], "raw_mentions": ["Full proposals due January 8, 2025"]},
+  "source": {"path": "data/grants/nsf_AISL.txt", "url": "https://www.nsf.gov/..."}
 }
 ```
 
-This format is:
-- Interpretable
-- LLM-friendly
-- Easy to maintain
-- Scalable for a website
+Notes
+- Profiles store evidence (verbatim phrases) and canonical tags with confidence; no raw vector data.
+- A `funding` block is optional; if present, the matching engine will include `estimated_min`/`estimated_max` in reports.
 
 ---
 
 ## Taxonomy (Education-Focused)
 
-EduGrant AI uses a hand-curated education taxonomy (not clustering). This ensures consistent and meaningful matching.
+EdGrant AI uses a hand-curated education taxonomy (not clustering). This ensures consistent and meaningful matching.
 
 **Mission Tags**
 
@@ -415,28 +426,22 @@ This helps nonprofits avoid wasting 30–50 hours on ineligible grants.
 
 ---
 
-## How to Use This Repo
+## Quickstart
 
-1. Install and set env
+1) Install and set env
+- `pip install -r requirements.txt`
+- Create `.env` with `OPENAI_API_KEY=...`
 
-   - `pip install -r requirements.txt`
-   - `.env` with `OPENAI_API_KEY=...`
+2) Build taxonomy embeddings (once)
+- `make rebuild-taxonomy`
 
-2. Add new grants
+3) Process inputs into profiles
+- Grants from text files: `make grants-all` (reads `data/grants/*.txt` → writes `data/processed_grants/*_profile.json`)
+- Orgs from text files: `make orgs-all` (reads `data/orgs/*.txt` → writes `data/processed_orgs/*_profile.json`)
 
-   Create a JSON file in: `data/sample_grants/`
-
-3. Add nonprofit org profiles
-
-   Place JSON files in: `data/sample_org_profiles/`
-
-4. Run matching
-
-   Use: `notebooks/matching_engine_demo.ipynb`
-
-5. Generate reports
-
-   Use: `notebooks/demo_report_generator.ipynb`
+4) Generate recommendations
+- One org: `make recs ORG=data/processed_orgs/<org>_profile.json [TOP=10]`
+- All orgs: `make recs-all` (writes JSON files under `reports/`)
 
 ---
 
@@ -456,11 +461,11 @@ This helps nonprofits avoid wasting 30–50 hours on ineligible grants.
 
 ## How the Grant Profile Is Built
 
-See docs/grant_profile_build.md for the detailed steps.
+See `docs/grant_profile_build.md` for the detailed steps.
 
 Org profiles apply additional rules for higher precision (dictionary‑first, strict geography, mission/grade‑band/policy checks, population constraints, and per‑taxonomy thresholds). See:
-- docs/org_profile_rules.md
-- docs/mapping_funnel.md (dictionary → guardrails → embeddings)
+- `docs/org_profile_rules.md`
+- `docs/mapping_funnel.md` (dictionary → guardrails → embeddings)
 
 ---
 
@@ -476,4 +481,4 @@ Org profiles apply additional rules for higher precision (dictionary‑first, st
 
 ## Mission
 
-EduGrant AI’s mission is to support small education nonprofits that often lack staff, capacity, and grant-writing resources. By providing transparent, trustworthy funding intelligence, EduGrant AI helps democratize access to education funding.
+EdGrant AI’s mission is to support small education nonprofits that often lack staff, capacity, and grant-writing resources. By providing transparent, trustworthy funding intelligence, EdGrant AI helps democratize access to education funding.

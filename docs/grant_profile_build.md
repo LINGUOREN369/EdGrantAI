@@ -12,11 +12,11 @@
 
 3) Metadata Attachment
 - Reads and attaches the taxonomy version to the profile.
-- Code: `pipeline/grant_profile_builder.py:41`
+- Code: `pipeline/grant_profile_builder.py`
 
 4) Assemble + Save
 - Builds and writes `data/processed_grants/{grant_id}_profile.json` with: `grant_id`, `created_at`, `taxonomy_version`, `extracted_phrases`, `canonical_tags`.
-- Code: `pipeline/grant_profile_builder.py:52`, `pipeline/grant_profile_builder.py:85`
+- Code: `pipeline/grant_profile_builder.py`
 
 Timestamps
 - `created_at` is recorded in ISO8601 with timezone offset. Default timezone is `America/New_York` and can be overridden via the `TIMEZONE` environment variable.
@@ -31,6 +31,7 @@ Deadline
   - `status` (one of `date`, `multiple`, `rolling`, `unspecified`)
   - `dates` (ISO list when detected — e.g., `2025-03-15`)
   - `raw_mentions` (up to 10 lines with deadline cues)
+  - Code: `pipeline/deadline_extractor.py`
 
 Notes
 - Profiles do not store raw embedding vectors; only phrases and matched tags (with confidence) are saved.

@@ -31,7 +31,7 @@ This document describes the full set of components and steps used by EdGrant AI 
                    ┌──────────────────────────────────────────────────────────────┐
                    │             3. Grant Profile Builder                         │
                    │--------------------------------------------------------------│
-                   │ code: src/pipeline/grant_profile_builder.py                  │
+                   │ code: pipeline/grant_profile_builder.py                      │
                    │ merges:                                                      │
                    │   - extracted phrases                                        │
                    │   - canonical tags                                           │
