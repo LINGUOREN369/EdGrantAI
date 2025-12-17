@@ -1,5 +1,9 @@
 # EdGrant AI
 
+<p align="center">
+  <img src="docs/cover.svg" alt="EdGrant AI — Transparent grant matching for education nonprofits" width="100%" />
+</p>
+
 A lightweight, transparent, and high-impact grant-matching system for small education nonprofits.
 
 ---
@@ -47,17 +51,6 @@ This means the cost of applying to the wrong solicitation is higher than ever. T
 - the project did not match the directorate’s scope
 
 EdGrant AI eliminates this waste by showing nonprofits exactly which NSF programs fit — and which do not.
-
----
-
-### Federal vs. Private Grants
-
-Federal programs like NSF operate under open competition: organizations must apply without prior invitation. Success rates for many programs often hover around 10–20%, and proposals are time‑intensive to prepare. This makes choosing the right opportunity critical.
-
-- Federal (NSF): Open competition; applicants must apply first; many programs have ~10–20% success rates; applications are detailed and time‑consuming; agencies must remain neutral and cannot pre‑screen or recommend programs; despite budget pressures, overall funding remains large while competition rises.
-- Private (e.g., Gates Foundation): Frequently invite‑only or curated RFPs; unsolicited applications are rarely accepted; funders pre‑select organizations they view as strong fits; fewer truly open opportunities; less time wasted applying if you are not invited.
-
-Because private cycles are often invitation‑only, the greatest ROI for a transparent matching tool is in the federal space, where anyone can apply — but applicants must choose wisely. EdGrant AI is designed to help small nonprofits invest time only where they are genuinely competitive.
 
 ---
 
@@ -203,6 +196,12 @@ EdGrantAI/
     ├── cke_prompt_nsf_v1.txt
     └── matching_explainer_prompt_v1.txt
 ```
+
+---
+
+## Project Profile
+
+For a concise, shareable summary, see `docs/project_profile.md`.
 
 ---
 
