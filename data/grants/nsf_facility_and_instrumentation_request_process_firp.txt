@@ -18,3 +18,338 @@ Status: Cleared
 Posted date (Y-m-d): 2023-07-03
 URL: https://www.nsf.gov/funding/opportunities/firp-facility-instrumentation-request-process/nsf23-602
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Facility and Instrumentation Request Process (FIRP)
+
+I. Introduction
+
+To facilitate fundamental research in the atmospheric sciences, the Division of Atmospheric and Geospace Sciences (AGS) supports state-of-the-art instruments and facilities through the Facilities for Atmospheric Research and Education (FARE) Program. The FARE Program includes the Lower Atmosphere Observing Facilities (LAOF) and the Community Instruments and Facilities (CIF), which are summarized in the Program Description below.
+
+This FIRP solicitation describes the process by which Principal Investigators can request access to FARE assets through proposals for research, education, and/or outreach projects. FIRP comprises three proposal submission tracks that are distinguished by the type and complexity of the request. Track 1 proposals are small requests for limited field or laboratory activities that target education and outreach. Track 2 proposals pertain to the use of a single CIF or other small or single instrument facility within the LAOF. Track 3 proposals are for field campaigns that require significant lead time and planning.
+
+Track 1 proposals must describe the education and/or outreach activities that will be conducted with the FARE assets. Track 2 and 3 proposals are scientific proposals that describe the use of FARE assets as part of the research plan. All proposals must attach the Facility Request document as a supplementary document as further described in this solicitation. More details on the distinction between these Tracks is provided in the following section.
+
+II. Program Description
+
+Observational science (including field and laboratory-based research) is critical to improving understanding of the multitude of processes in the Earth's atmosphere. Many observations that are essential to unraveling the mysteries of the atmosphere can only be conducted using expensive platforms and/or highly specialized equipment. To facilitate this science, AGS provides access to a variety of specialized instrumentation and facilities that are supported through the Facilities for Atmospheric Research and Education (FARE) program. The suite of instruments and facilities is a combination of major research facilities (known as the Lower Atmosphere Observing Facilities, LAOF) supported through the National Center for Atmospheric Research (NCAR) and the University of Wyoming, and facilities funded through the Community Instruments and Facilities (CIF) solicitation NSF 20-596 . The instruments and facilities that may be requested through the FIRP solicitation, including facility provider or point of contact (POC) are listed here: https://www.nsf.gov/geo/ags/programs/fare/ . This list is continuously updated as the suite of available facilities changes.
+
+The intent of the FIRP solicitation is to invite proposals from the atmospheric and related science community to use the instrumentation and facilities that are sponsored by the FARE program.
+
+Institutions without significant observational capabilities are especially encouraged to apply to the FIRP. For all three Tracks, proposers are encouraged to explore innovative outreach efforts to include the participation of the full spectrum of talent in STEM in experiential learning.
+
+Submission Tracks
+
+The FIRP solicitation consists of three Tracks for requesting FARE-supported instrumentation and facilities. These Tracks are primarily based on the complexity of the request and determine the timelines and procedures that should be followed. Descriptions of the Tracks, instructions for proposal submission, and a summarizing table are provided below. Questions about the suitability of a track for a given project should be addressed to FARE program ( fare@nsf.gov ) as early as possible. If there is any ambiguity about which Track a project belongs to, contact the FARE Program about submission Track and timeline. If a proposal is submitted to the wrong Track, the proposal will be Returned Without Review (RWR).
+
+Proposals to all three Tracks may be submitted either as a single NSF proposal with subawards to collaborating institutions, or as collaborative proposals submitted as separate submissions from multiple organizations. For Track 1 proposals without a formal Statement of Interest (SoI), separately submitted collaborative proposals may be submitted after consulting with the FARE program.
+
+Proposals for EAGERs, RAISEs, and RAPIDs seeking the use of FARE facilities will be considered according to facility availability. PIs are instructed to email the FARE PD at fare@nsf.gov to discuss potential mission ideas.
+
+Proposals for Track 1 should select the FARE program in the "Where to Apply" section of Research.gov. Track 2 and 3 should select the relevant science program(s).
+
+Track 1 (Education and Outreach) : Track 1 proposals are requests for limited field or laboratory activities that target education and outreach. Track 1 proposals must include educational activities in formal and/or informal settings aimed at providing hands-on student training in field and/or laboratory based observational research, and/or provide significant public outreach through coordinated events. The total proposal cost must be under $75,000. No more than $50,000 of the total budget may be requested for facility use.
+
+PIs of funded or proposed field campaigns should include education and outreach in their original research proposal and not rely on Track 1 proposals to augment the campaign. The primary focus of Track 1 proposals must be education and outreach; projects with substantial research components should usually be submitted under Track 2 or Track 3.
+
+If a PI has had a Track 1 award with a particular facility, they may not submit another Track 1 proposal requesting the same facility within 3 years of the start date of the previous Track 1 award.
+
+Track 1 Aircraft Deployments
+
+A waiver for the Track 1 proposal budget cap of $75,000 may be allowed for aircraft-based educational deployments using the Wyoming King Air and the NCAR-operated C-130 and G-V. Track 1 requests for the C-130 and G-V may only be made in conjunction with already-funded field campaigns or planned test flights. Stand-alone Track 1 proposals may include the Wyoming King Air after consultation with the FARE program director. PIs are encouraged to look at the list of funded airborne deployments on the NCAR EOL webpage and consult with the FARE program director if they would like to add Track 1 educational flight(s) on a funded field deployment.
+
+Track 2 (Single Facility Request) : Track 2 proposals are primarily for U.S.-based research projects that require a single CIF, such as a laboratory facility or a single mobile radar/lidar facility, or a single instrument/instrument system within the LAOF facility pool, such as the Integrated Sounding System (ISS). Small international campaigns with straightforward logistics may be requested for Track 2 with approval from the FARE program director.
+
+Deployments including aircraft or a network of instruments, or multi-year field deployments, are not eligible under Track 2. NSF may accept a multi-year request for the use of laboratory-based equipment as a Track 2 request depending upon the complexity of the request. Final determination will be made by the FARE program after reviewing the Statement of Interest (SoI).
+
+Track 3 (Field Campaigns) : Track 3 proposals are for the deployment of major LAOF such as aircraft, multiple CIF, or a combination of LAOF and CIF. A proposal for a multi-year research campaign will fall under Track 3. Examples of Track 3 activities include research aircraft-based deployments, coordinated mobile remote sensing studies, and deployment of observing networks.
+
+Proposal timelines and process
+
+Track 1 (Education and Outreach):
+
+Statement of Interest
+
+Statements of Interest (SoI) for Track 1 requests are recommended, but not required. SoI guidelines can be found at the end of this section.
+
+Proposal
+
+Track 1 proposals should be submitted between 9 and 12 months prior to the start date of the use of the facility and at least 6 months prior to the requested award start date. If a Track 1 aircraft-based proposal intends to coordinate activities with a funded field deployment, the PIs must notify the FARE program director as soon as possible to allow enough time for coordination and planning.
+
+Track 1 PIs must engage with the relevant facility provider listed on the FARE webpage during the proposal preparation process to ascertain facility availability and suitability for a Track 1 proposal. The Track 1 PI will submit a request for the use of the facility to the facility provider with a copy to the FARE program at least 1 month prior to proposal submission. The facility provider will be expected to provide a budget estimate for the proposed facility use as a supplemental document for the Track 1 proposal. Facility use costs will be awarded directly to the facility provider via a supplement to the CIF or LAOF award. Track 1 proposal budgets are capped at $75,000, inclusive of all costs, with a maximum of $50,000 for facility use. These budget caps do not apply to requests pertaining to the use of FARE-supported airborne facilities. The Facility Request document and facility budget estimate must be uploaded to the NSF proposal as a supplementary document. Requests to use a facility for a Track 1 by the facility provider on behalf of another entity require advance discussion with the FARE PD.
+
+Track 1 proposals should be submitted to the FIRP Solicitation with FARE (1529) as the program in the "Where to Apply" section of Research.gov. Further guidance on proposal preparation is provided in Section V of this solicitation.
+
+Track 2 (Single Facility Request):
+
+Statement of Interest
+
+PIs are required to submit a SoI via email to the FARE Program, with a copy to the relevant science Program Director and facility manager at least 3 months prior to proposal submission (see proposal timelines and SoI instructions below). NSF will confirm whether the potential project is consistent with the FIRP solicitation and, if so, will provide an email to the PI with the proposal track and timeline information. This email must be uploaded as a document entitled "FIRP – Program Director Concurrence Email" in the Other Supplementary Documents section of the proposal.
+
+Proposal
+
+Track 2 proposals are required to be submitted between 9 and 15 months prior to the start of the use of the facility. If the research/field activity is not planned for the first year of the proposal, the proposal must be submitted at least 6 months prior to the requested award start date.
+
+Track 2 projects that include multiple institutions may be submitted either as a single NSF proposal with subawards to collaborating institutions, or as collaborative proposals submitted as separate submission from multiple organizations.
+
+Track 2 PIs need to engage with the facility provider during the proposal preparation process to ascertain the facility availability and suitability for the proposed research. The Track 2 PI must submit a request for the use of the facility to the facility provider and send a copy to the FARE program at least 2 months prior to the proposal submission. Facility usage costs for CIF need to be included as subaward(s). Facility usage costs for LAOF will be estimated by the facility manager for the requested facility and must be included as a supplementary document. Adjustments to the Facility Request document are allowed prior to the proposal submission. The final version of the Facility Request must be uploaded to the proposal as a Supplementary Document.
+
+Track 2 proposals should be submitted to this solicitation with the most relevant science program selected in the "Where to Apply" section of Research.gov. Further guidance on proposal preparation is provided in Section V below.
+
+Track 3 (Field Campaign):
+
+Statement of Interest
+
+PIs are encouraged to provide a SoI as soon as plans reach a mature stage and are required to submit the SoI at least 3 months prior to the proposal submission (see proposal timelines and SoI instructions below). NSF will confirm whether the potential project is consistent with the FIRP solicitation and, if so, will provide an email to the PI with the proposal track and timeline information. This email must be uploaded as a document entitled "FIRP – Program Director Concurrence Email" in the Other Supplementary Documents section of the proposal.
+
+Proposal
+
+Track 3 proposals have two submission time-frames, determined by the complexity of the facility deployment. Complexity of deployment is correlated with the lead time required to conduct the field campaign, which depends on the location of the project, the resource(s) required, the level of instrument integration needed, and the degree of interagency and/or international collaboration. NSF, in consultation with the facility provider(s), will determine the required proposal timeline.
+
+Activities that are deemed "straightforward" will have a submission window between 15 and 21 months in advance of the campaign start date.
+
+Activities that are deemed "complex" will have a submission window between 18 and 24 months in advance of the campaign start date.
+
+If the research/field activity is not planned for the first year of the proposal, the proposal must be submitted at least 6 months prior to the requested award start date.
+
+Track 3 projects that include multiple institutions may be submitted either as a single NSF proposal with subawards to collaborating institutions, or as collaborative proposals submitted as separate submissions from multiple organizations.
+
+Track 3 PIs must engage with the facility provider(s) during the proposal preparation process to ascertain the facility availability and suitability for the proposed research. The Track 3 PI is required to submit a request for the use of the facility to the facility provider and send a copy to the FARE program director at least 2 months prior to the proposal submission. The facility provider is expected to provide a budget estimate for facility use that can be used in the FIRP proposal. Facility usage costs for CIF must be included as subaward(s). Facility use costs for LAOF will be estimated by the facility manager for the requested facility and must be included as a supplementary document. Adjustments to the Facility Request document are allowed prior to the proposal submission. The final version of the Facility Request must be uploaded to the proposal as a supplementary document.
+
+Track 3 research proposals should be submitted to the FIRP Solicitation with the most relevant science program selected in the "Where to Apply" section of Research.gov. Further guidance on proposal preparation is provided in Section V below.
+
+Statement of Interest (SoI) guidelines:
+
+The SoI must be no longer than 3 pages and must contain the following information.
+
+Project title;
+
+Names and affiliations of PIs, Co-PIs, and Senior Personnel;
+
+Requested deployment schedule;
+
+Summary of the proposed activity and the scientific objectives;
+
+List of Facilities requested along with the anticipated deployment location;
+
+A rough order of magnitude total project budget estimate, exclusive of CIF and LAOF costs ;
+
+Expected involvement of other funding bodies, whether U.S. or international.
+
+The SoI must be emailed to the FARE Program with a copy to the cognizant science PD and the requested facility provider(s) on the timelines indicated above.
+
+Summary of solicitation requirements
+
+Track 1
+
+Track 1 - Aircraft Request
+
+Track 2
+
+Track 3 - Straightforward
+
+Track 3 - Complex
+
+Statement of Interest (SoI)
+
+Recommended
+
+Recommended
+
+Required
+
+Required
+
+Required
+
+SoI Timeline
+
+N/A
+
+N/A
+
+3 months prior to proposal submission
+
+3 months prior to proposal submission
+
+3 months prior to proposal submission
+
+Facility Request Timeline
+
+1 month prior to proposal submission
+
+1 month prior to proposal submission
+
+2 months prior to proposal submission
+
+2 months prior to proposal submission
+
+2 months prior to proposal submission
+
+Proposal Timeline
+
+9 to 12 months prior to start of facility use activity and at least 6 months before award start date.
+
+At least 12 months prior to start of facility use activity and at least 6 months before award start date.
+
+9 to 15 months prior to start of facility use activity and at least 6 months before award start date.
+
+15 to 21 months in advance of start of facility use activity and at least 6 months before award start date.
+
+18 to 24 months in advance of start of facility use activity and at least 6 months before award start date.
+
+Project Description Length
+
+5 pages
+
+5 pages
+
+15 pages
+
+20 pages
+
+20 pages
+
+Proposal Budget
+
+Total proposal including deployment not to exceed $75,000.
+
+No cap
+
+No cap
+
+No cap
+
+No cap
+
+Track 1 facility costs are awarded directly to the facility provider.
+
+Track 1 facility costs are awarded directly to the facility provider.
+
+Subaward for CIF assets (if necessary)
+
+Subaward for CIF assets (if necessary)
+
+Subaward for CIF assets (if necessary)
+
+Subaward for partner institutions (if necessary)
+
+Subaward for partner institutions (if necessary)
+
+Subaward for partner institutions (if necessary)
+
+Subaward for partner institutions (if necessary)
+
+Subaward for partner institutions (if necessary)
+
+Additional Supplementary Documents Required
+
+Facility Request
+
+Facility Request
+
+Facility Request
+
+Facility Request
+
+Facility Request
+
+Description of integration with existing flight campaign (NCAR-operated aircraft only)
+
+Experimental Design Plan (10 pages max)
+
+Experimental Design Plan (10 pages max)
+
+Experimental Design Plan (10 pages max)
+
+Roles and Responsibilities Document
+
+Roles and Responsibilities Document
+
+Budget for FARE assets
+
+Budget for FARE assets
+
+Budget for NCAR or Wyoming assets (if necessary)
+
+Budget for NCAR or Wyoming assets (if necessary)
+
+Budget for NCAR or Wyoming assets (if necessary)
+
+Budget for NCAR/EOL Field Catalog, Project Management, and additional support (if necessary)
+
+Budget for NCAR/EOL Field Catalog, Project Management, and additional support (if necessary)
+
+Budget for NCAR/EOL Field Catalog, Project Management, and additional support (if necessary)
+
+Program Director email on proposal timeline
+
+Program Director email on proposal timeline
+
+Program Director email on proposal timeline
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 5 to 15
+
+The number of awards will vary depending on the number of proposals received, their scientific merit, and programmatic considerations.
+
+Anticipated Funding Amount: $10,000,000 to $20,000,000
+
+Projects awarded under the FIRP solicitation will be funded by a combination of disciplinary science program and FARE program funding. Research proposal costs, such as PI salary, student support, travel and publications, materials and supplies will be funded by the relevant disciplinary science program(s). Field deployment and usage costs for LAOF and CIF will be funded by the FARE program.
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+If a PI has had a Track 1 award with a particular facility, they may not submit another Track 1 proposal requesting the same facility within 3 years of the start date of the previous Track 1 award.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

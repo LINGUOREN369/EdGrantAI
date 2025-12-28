@@ -18,3 +18,194 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2024-03-27
 URL: https://www.nsf.gov/funding/opportunities/lsamp-louis-stokes-alliances-minority-participation/nsf24-563
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Louis Stokes Alliances for Minority Participation (LSAMP)
+
+I. Introduction
+
+The Council on Competitiveness Commission, the National Science Board (NSB), and the Advisory Committee for the National Science Foundation's Directorate for STEM Education (EDU) have all issued policy reports on the state of the nation's needs to continue to strengthen its global competitiveness in an age of a changing economy. The 2020 Competing in the Next Economy report states that to prepare for the expansion of changing employment and impacts of innovation, automation and convergence of disciplines, America must take several steps to adapt, such as expanding the science, technology, engineering and mathematics (STEM)-educated workforce, establishing a greater opportunity for experiential learning, increasing access to lifelong education, and re-establishing hands-on skill training in K-12 education 1 . The National Science Board (NSB) report challenges the nation to find the "missing millions" of the population that are needed to diversify the nation's STEM workforce. Partnerships among public, private and non-profit sectors are necessary to accomplish this mission according to the NSB's Vision 2030 report. 2
+
+LSAMP was authorized by Congress and established in 1991 to assist the nation in diversifying its STEM workforce. LSAMP's efforts to increase diversity in STEM are aligned with the goals of NSF's Fiscal 2022-2026 strategic plan, "Leading the World in Discovery and Innovation, STEM Talent Development and the Delivery of Benefits from Research". The program accomplishes this mission by funding institutions of higher education (IHEs) through a collective (alliance) plan of action to enact a "STEM-based Learning Ecosystem" to implement evidence-based strategies for recruitment and retention to the STEM baccalaureate or STEM graduate degree for students from LSAMP populations. LSAMP populations are: Blacks and African-Americans, Hispanic and Latino Americans, American Indians, Alaska Natives, Native Hawaiians, and Native Pacific Islanders.
+
+The LSAMP model consists of high impact practices and approaches focused on the integration of the academic and social environment as well as professionalization for participation in the STEM workforce. The National Academies 2016 report "Barriers and Opportunities in Completing 2-Year STEM Degrees" recommends utilization of evidence-based recruitment and retention strategies to support the varied student pathways for completing STEM degrees. 3
+
+1 Making Impact 2019-2020 Report: https://www.compete.org/reports/all/3414
+
+2 National Science Board Vision 2030: https://nsf-gov-resources.nsf.gov/nsb/publications/2020/nsb202015.pdf?VersionId=TySo_d0KJ7zHCGTsauweSjp9b_Ngel6.
+
+3 https://doi.org/10.17226/21739
+
+II. Program Description
+
+A. Program Overview
+
+The LSAMP program invests in the nation's colleges and universities to aid student success, directly or indirectly, at all STEM pathways, thereby creating a new generation of STEM discoverers for the STEM enterprise nationally and internationally. With a focus on the participation of underrepresented groups, particularly those from named LSAMP populations, in national priority areas, specifically emerging science and technologies, the program's priorities are to:
+
+increase individual student engagement, retention, and completion of baccalaureate degrees for LSAMP populations;
+
+enable the successful transfer of LSAMP populations from two-year to four-year institutions in STEM degree programs;
+
+increase access to evidence-based, high quality and highly impactful practices in STEM recruitment and retention;
+
+facilitate seamless transition of underrepresented groups into STEM graduate programs and subsequent graduate degree completion;
+
+stimulate new research and learning on broadening participation in STEM disciplines.
+
+These priorities are intended to produce short and long-term outcomes resulting in the successful production of highly competitive and diverse talent for the STEM enterprise while concurrently contributing new knowledge to the field in broadening participation.
+
+Areas of emphasis that respond to national priorities and preparation for emerging sciences, include quantum information science, advanced materials and manufacturing, artificial intelligence, data science and analytics, climate change, cybersecurity, robotics, plant genetics/agricultural technologies, clean energy, and semiconductors/microelectronics.
+
+All proposals for LSAMP support must demonstrate creative and entrepreneurial thinking, innovative strategies, relevant pedagogies, and partnerships to maximize opportunities that prepare undergraduate and graduate students from LSAMP populations for 21st century STEM careers.
+
+B. Alliances
+
+LSAMP, at its core, is an alliance-based program that provides student and mentor support beginning at the undergraduate level. K-12 activities should be leveraged through other resources.
+
+An alliance is defined as a group of organizations working together for mutual benefit and support of the goals and objectives of the national LSAMP program. B2B, SPIO and SPRA are alliance-type projects. At a minimum, an alliance must consist of four IHEs. These projects are funded to implement comprehensive evidence-based strategies that ultimately result in the graduation of highly competitive STEM students from LSAMP populations who pursue graduate degrees or careers in STEM fields, particularly in emerging or trending fields of national priority. Other non-academic organizations may also participate in an alliance. Forming an alliance should be intentional and allow for building relationships among institutions.
+
+Alliances should be based on quality, not quantity, of partners and all participating institutions should be able to benefit from this collective arrangement. The number of institutions in an alliance should be commensurate with the scope of the project and the activities proposed should be realistic and beneficial to all alliance members.
+
+LSAMP alliances should directly address recruitment, preparation and retention of LSAMP populations. Alliances are expected to significantly increase the numbers of STEM degrees to students under-represented in STEM fields. These students may include those who transfer from two-year institutions to four-year STEM programs to complete the STEM baccalaureate degree. Students may also enter directly into undergraduate STEM programs from secondary school to fulfill the STEM baccalaureate degree.
+
+Well-established alliances must also produce and disseminate new scholarly research on broadening participation of LSAMP populations (or underrepresented and under-served populations in STEM disciplines and the nation's STEM workforce) and holistically assess the state of institutionalization and sustainability of the alliance.
+
+Alliances are highly encouraged to collaborate with institutions with active research awards in NSF's research directorates, the Office of Integrative Activities (OIA) which includes the Established Programs to Stimulate Competitive Research (EPSCoR) and the Office of International Science and Engineering (OISE). Additionally, alliances should leverage active projects in the Directorate for STEM Education (EDU), including projects in the Division of Equity for Excellence in STEM Education (EES). EES is the home for programs such as the Eddie Bernice Johnson INCLUDES initiative, Hispanic-serving Institutions, Tribal Colleges and Universities Program, Historically Black Colleges and Universities-Undergraduate Program and others. For more information on the EES program, please visit the division's website.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 45 to 60
+
+Anticipated Funding Amount: $38,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Alliance Development Grants (ADG) Institutions of Higher Education (IHEs) - Two-and-four-year IHEs (including community colleges) accredited in and having a campus located in the US, acting on behalf of their faculty members. Alliances: STEM Pathways Implementation-Only (SPIO): Institutions of Higher Education (IHEs) - Two-and-four-year IHEs (including community colleges) accredited in and having a campus located in the US, acting on behalf of their faculty members. STEM Pathways Research Alliance (SPRA): Institutions of Higher Education (IHEs) - Two-and-four-year IHEs (including community colleges) accredited in and having a campus located in the US, acting on behalf of their faculty members. Bridge to the Baccalaureate (B2B): B2B Alliances are composed entirely of two-year IHEs. The lead institution must award associate-level degrees in a STEM or STEM-related field. Associate-level degree-granting institutions that award four-year degrees in workforce development areas may be eligible to serve as the lead institution of a B2B alliance. Four-year institutions that award STEM baccalaureate degrees are ineligible to serve as lead institutions for B2B alliances but may be included as partner institutions for articulation purposes as a transfer pathway to four-year STEM degree programs. Funds are not budgeted for four-year institutions in B2B projects. Proposers should contact the LSAMP program staff for any questions on eligibility for B2B alliance support. Bridges to STEM Graduate Degrees in National Priorities (BD-Master's) Master's Comprehensive IHEs as defined by Carnegie Classification only. Carnegie Classification website: https://carnegieclassifications.acenet.edu/ . Bridges to STEM Graduate Degrees in National Priorities (BD-Doctoral) Four-year IHEs accredited in and having a campus located in the US, acting on behalf of their faculty members. STEM Networking Incentives and Engagement (NETWORKS) Institutions of Higher Education (IHEs) - Two-and-four-year IHEs (including community colleges) accredited in and having a campus located in the US, acting on behalf of their faculty members. Non-profit, non-academic organizations: Independent museums, observatories research laboratory professional societies and similar organizations located in the U. S. that are directly associated with educational or research activities. For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation. NETWORKS projects are limited to four collaborating organizations per proposal.
+
+Institutions of Higher Education (IHEs) - Two-and-four-year IHEs (including community colleges) accredited in and having a campus located in the US, acting on behalf of their faculty members.
+
+Alliances:
+
+STEM Pathways Implementation-Only (SPIO): Institutions of Higher Education (IHEs) - Two-and-four-year IHEs (including community colleges) accredited in and having a campus located in the US, acting on behalf of their faculty members.
+
+STEM Pathways Research Alliance (SPRA): Institutions of Higher Education (IHEs) - Two-and-four-year IHEs (including community colleges) accredited in and having a campus located in the US, acting on behalf of their faculty members.
+
+Bridge to the Baccalaureate (B2B): B2B Alliances are composed entirely of two-year IHEs. The lead institution must award associate-level degrees in a STEM or STEM-related field. Associate-level degree-granting institutions that award four-year degrees in workforce development areas may be eligible to serve as the lead institution of a B2B alliance. Four-year institutions that award STEM baccalaureate degrees are ineligible to serve as lead institutions for B2B alliances but may be included as partner institutions for articulation purposes as a transfer pathway to four-year STEM degree programs. Funds are not budgeted for four-year institutions in B2B projects. Proposers should contact the LSAMP program staff for any questions on eligibility for B2B alliance support.
+
+Bridges to STEM Graduate Degrees in National Priorities (BD-Master's)
+
+Master's Comprehensive IHEs as defined by Carnegie Classification only. Carnegie Classification website: https://carnegieclassifications.acenet.edu/ .
+
+Bridges to STEM Graduate Degrees in National Priorities (BD-Doctoral)
+
+Four-year IHEs accredited in and having a campus located in the US, acting on behalf of their faculty members.
+
+STEM Networking Incentives and Engagement (NETWORKS)
+
+Institutions of Higher Education (IHEs) - Two-and-four-year IHEs (including community colleges) accredited in and having a campus located in the US, acting on behalf of their faculty members.
+
+Non-profit, non-academic organizations: Independent museums, observatories research laboratory professional societies and similar organizations located in the U. S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+NETWORKS projects are limited to four collaborating organizations per proposal.
+
+Who May Serve as PI:
+
+Alliance Development Grant (ADG) Proposals
+
+The PI for ADG proposals must be an upper-level administrator/cabinet-level official from the executive leadership (i.e., Provost, Dean, VP of Academic Affairs, etc.) of the institution. A deviation from this requirement for PI designation requires a full justification. Faculty may be listed as Co-PIs.
+
+Alliances: Bridge to the Baccalaureate (B2B), STEM Pathways Implementation-Only (SPIO) and STEM Pathways Research Alliance (SPRA)
+
+The PI for alliances (B2B, SPIO, and SPRA) should be a cabinet-level official from the executive leadership (i.e., Provost, Dean, VP of Academic Affairs, etc.) of the institution and a member of the alliance governing board. The alliance governing board is a body of upper-level administrators from each partner institution that oversees the alliance. A deviation from this requirement for PI designation requires a full justification. Individuals from partner institutions must be designated as co-PIs on the proposal.
+
+To ensure production of new STEM education research knowledge as a required element of the SPRA project, one or more of the Co-PIs on an SPRA proposal must be a social or data scientist, disciplinary/interdisciplinary education researcher, or evaluator.
+
+Bridges to STEM Graduate Degrees in National Priorities (BD-Master's and BD-Doctoral) Proposals
+
+The PI for the BD-Master's and/or BD-Doctoral proposal should be a cabinet-level official from the executive leadership of the institution and a member of the alliance governing board. The alliance governing board is a body of upper-level administrators from each partner institution that oversees the alliance. Co-PIs may be members of the institution's graduate leadership team or STEM faculty. A deviation from this requirement for PI designation requires a full justification. One Co-PI must be the alliance director if the selected BD-Master's or BD-Doctoral site is different from the lead institution. See section V for more information on the requirement to established a Governing Board.
+
+STEM Networking Incentive and Engagement Proposals (NETWORKS)
+
+The PI and Co-PIs for STEM Networking Incentive and Engagement proposals may be faculty members.
+
+Limit on Number of Proposals per Organization:
+
+Alliance Development Grant (ADG) and Alliance Proposals (Bridge to the Baccalaureate (B2B, STEM Pathways Implementation-Only (SPIO) and STEM Pathways Research Alliance (SPRA)
+
+Only one ADG, B2B, SPIO, or SPRA proposal may be submitted by an eligible (lead) institution (IHE). Alliances (B2B, SPIO, SPRA) may hold only one active alliance award at a time. Institutions partnering in an alliance may not be a formal partner in more than one alliance at the same time. Formal partners are IHEs participating in an alliance that report enrollment and degree data to NSF. See Section VII on grantee reporting requirements.
+
+Bridges to STEM Graduate Degrees in National Priorities (BD-Master's) Proposals
+
+Up to two BD-Master's proposals may be submitted from an alliance. New proposals for additional cohorts from existing awardees may be submitted only after the current awards have expired. The final annual report must be submitted prior to the submission of a new proposal.
+
+Bridges to STEM Graduate Degrees in National Priorities (BD-Doctoral) Proposals
+
+Up to two BD-Doctoral proposals may be submitted from an alliance. New proposals for additional cohorts from existing awardees may be submitted once the current awards have expired. The final annual report must be submitted prior to the submission of a new proposal.
+
+An "alliance" may submit proposals to Bridges to STEM Graduate Degrees in National Priorities annual competitions. The following conditions apply:
+
+one proposal from each category (one BD-Master's and one BD-Doctoral)
+
+two BD-Master's or two BD-Doctoral proposals in a competition.
+
+Only one proposal from an "alliance institution" is eligible for consideration per competition within stipulations provided for BD-Master's and BD-Doctoral above.
+
+STEM NETWORK INCENTIVE AND ENGAGEMENT PROPOSALS (NETWORKS)
+
+No limit.
+
+Limit on Number of Proposals per PI or co-PI:
+
+Alliance Development Grants (ADG): Only one ADG proposal per PI or co-PI.
+
+Alliances: Bridge to the Baccalaureate (B2B), STEM Pathways Implementation-Only (SPIO) and STEM Pathways Research Alliance (SPRA) - One proposal per PI or co-PI.
+
+Bridges to STEM Graduate Degree in National Priorities (BD-Master's): Maximum of two proposals per PI or co-PI.
+
+Bridges to STEM Graduate Degree in National Priorities (BD-Doctoral): Maximum of two proposals per PI or co-PI.
+
+STEM Networking Incentive and Engagement Proposals (NETWORKS): No limit.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

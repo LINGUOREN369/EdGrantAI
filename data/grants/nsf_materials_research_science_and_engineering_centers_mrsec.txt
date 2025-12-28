@@ -10,3 +10,136 @@ Status: Cleared
 Posted date (Y-m-d): 2025-11-26
 URL: https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf26-500
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Materials Research Science and Engineering Centers (MRSEC)
+
+I. Introduction
+
+The Materials Research Science and Engineering Centers (MRSECs) program supports cutting-edge, multidisciplinary materials research and education to strengthen U.S. competitiveness in science, technology, and workforce development. MRSECs address fundamental problems of a scope and complexity requiring the scale, synergy, and infrastructure of a campus-based center, while fostering integration of research and education, strong industry connections, and participation in a national network of university-based centers.
+
+Proposals should broaden the MRSEC research portfolio or target emerging opportunities in materials science. While the program has historically emphasized experimental research, proposals that are theoretical, computational, or incorporate autonomous experimentation (AE) where robotics and AI accelerate closed-loop discovery—are strongly encouraged. Such efforts should retain disciplinary breadth and demonstrate competitive intellectual merit. MRSECs may also align with the Materials Genome Initiative by integrating experiment, theory, computation, and data-driven approaches to accelerate materials discovery while minimizing costs.
+
+Proposals are invited across diverse research areas, including:
+
+Semiconductors and Microelectronics: Developing resilient, sustainable materials for next-generation technologies, aligned with national CHIPS & Science Act.
+
+Biotechnology and Biomanufacturing: Designing novel, bioinspired materials, scaling high-performance polymer production, and developing functional biomaterials for electronics and sensing.
+
+Architected Materials Across Scales: Creating hierarchical and multifunctional materials through advanced synthesis, self-assembly, additive manufacturing, and 4D printing.
+
+Far-From-Equilibrium Materials: Understanding and controlling materials driven into metastable or non-equilibrium states.
+
+Structural Materials under Extreme Conditions: Addressing materials performance in extreme environments (temperature, pressure, radiation, corrosion, wear, etc.).
+
+Domestic Materials Development: Advancing recovery, reuse, and substitution of critical materials through novel design and processing of abundant domestic resources.
+
+All research topics should align with the scope of the Division of Materials Research (DMR). Catalysis-focused work must clearly address fundamental materials research distinct from efforts supported by other agencies.
+
+In addition to research, MRSECs are required to engage in impactful education and outreach with clear, measurable, and evidence-based goals. Activities may include strengthening STEM pathways (e.g., community college to four-year institutions), improving K–12 STEM performance, and building meaningful partnerships with non-R1 institutions, and others. Plans should map both the six-year award period and longer-term outcomes to ensure sustained impact.
+
+II. Program Description
+
+Materials Research Science and Engineering Centers (MRSEC) are supported to undertake materials research of a scope and complexity otherwise not feasible through traditional funding of individual research projects.
+
+A MRSEC may encompass two to three interdisciplinary research groups (IRGs). Each IRG involves typically on the order of 6-12 faculty members addressing a major topic or area, in which sustained support for the interactive effort by the several participants of complementary backgrounds, skills, and knowledge is critical to progress. The IRGs in a Center may be thematically related, or they may address different aspects of materials research typically supported by DMR. The MRSEC in its entirety is holistic, its rationale conditioned on the connection of all its parts, with synergy arising from common infrastructure, shared facilities, education and outreach activities, and other Center-spanning initiatives.
+
+MRSECs incorporate the following activities to an extent commensurate with the size and vision of the Center:
+
+Academic-institution-based materials research of the highest quality: each IRG must have a well-integrated research program distinguished by intellectual excellence and driven by a clear vision that could lead to fundamental advances, new discoveries, and/or technological developments of national and international significance. Each IRG must show clear benefits of a multi-investigator, interdisciplinary, and collaborative approach to address a major materials topic or area and must delineate the linkages between researchers within the IRG.
+
+Seed funding: NSF intends to provide flexibility for the Center to respond quickly and effectively to new opportunities and pursue high-risk/high-impact and transformative research. These may include (but are not limited to): seed support for faculty to further add or broaden existing efforts; emerging areas of interdisciplinary research; programs to link the university effort in materials with industry, national laboratories, and other sectors; the development of tools and cyber infrastructure for remote access to instrumentation; and innovative interdisciplinary educational ventures. Seed funding through the Center is not intended to provide a substitute for NSF individual investigator funding. Seed funding mechanisms and impact to the MRSEC is evaluated at post-award Site Visits of the MRSECs.
+
+Promotion of the integration of research and education, and development of effective education/outreach activities that are consistent with the Center size, leverage participant expertise and interest, and address local and national needs. Research Experiences for Undergraduates (REU) are required; see https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517 for specifics.
+
+A MRSEC should pursue activities with proven impacts in improving scientific education. It may also experiment with novel approaches as appropriate.
+
+Development of shared experimental and computational facilities, properly staffed, equipped and maintained, and accessible to users from the Center, the broader university community, and other organizations. A MRSEC program goal is to maintain the long-term health of the materials research infrastructure in the United States and each MRSEC is expected to contribute to the national network of materials research facilities.
+
+Promotion of partnerships by supporting a Center's active cooperation with industry and international organizations, and other sectors, such as national laboratories, non-profit organizations, and state and local governments, in order to stimulate and facilitate knowledge transfer among the participants and strengthen the links between university-based research and its application.
+
+Each MRSEC has the responsibility to manage and evaluate its own operation with respect to program administration, planning, content, and direction. NSF support is intended to promote optimal use of university resources and capabilities, and to provide maximum flexibility in setting research directions, developing cooperative activities with other organizations, and responding quickly and effectively to new opportunities in materials research and education that are important to the nation's needs and technology base.
+
+A MRSEC may address any area of research supported by the NSF Division of Materials Research which include 8 programs (known as Topical Materials Research Programs, TMRP): Biomaterials (BMAT), Ceramics (CER), Condensed Matter Physics (CMP), Condensed Matter and Materials Theory (CMMT), Electronic and Photonic Materials (EPM), Metals and Metallic Nanostructures (MMN), Polymers (POL), and Solid State and Materials Chemistry (SSMC). For a detailed description of the research supported by the 8 TMRP.
+
+Visit https://www.nsf.gov/materials . Inclusion of IRGs not appropriate for consideration by DMR may result in the proposal being returned without review. Proposers are strongly encouraged to contact the Program Director(s) listed in this solicitation to ascertain that the planned research fits within the portfolio of DMR or the DMR role in the suggested topical areas.
+
+In addition to research excellence, MRSECs provide the infrastructure of equipment, education, and outreach needed to ensure that the program as a whole meets its objectives and provides for effective coordination within and beyond the Center community. Centers are required to contribute to the network addressing common problems and applications. Center shared experimental and computational facilities constitute the Materials Research Facility Network, a network of facilities that helps to maintain and advance materials research infrastructure in the United States.
+
+Measures of Success . Proposals should advance one or more of the following measures of success, which must be included in proposal submission: Published papers, patents developed, jobs created or sustained, start-ups created, PhDs and postdoctoral researchers supported, undergraduate student research supported.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 2 to 5
+
+Anticipated Funding Amount: $15,000,000
+
+Anticipated funding amount is subject to the availability of funds.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposals: Submission of Preliminary Proposals is required. Please see the full text of this solicitation for further information.
+
+Full Proposals: For proposals submitted via Research.gov, PAPPG guidelines apply. For proposals submitted via Grants.gov, NSF Grants.gov Application Guide guidelines apply.
+
+For proposals submitted via Research.gov, PAPPG guidelines apply.
+
+For proposals submitted via Grants.gov, NSF Grants.gov Application Guide guidelines apply.
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization: 1
+
+Only one MRSEC preliminary proposal may be submitted by any one organization as the lead institution in this competition. An institution proposing research in several groups should submit a single MRSEC proposal with multiple Interdisciplinary Research Groups (IRGs). A MRSEC proposal must contain a minimum of 2 IRGs and a maximum of 3 IRGs. The IRGs in a Center may be thematically related, or they may address different aspects of materials research typically supported by DMR. Integration of multiple, differing IRGs into one MRSEC allows efficient utilization of resources, including common infrastructure, and better coordination of education and other activities of the Center.
+
+Institutions that were awarded a MRSEC in the FY 2023 competition as the lead institution are not eligible to submit a MRSEC proposal as a lead institution in this competition.
+
+MRSEC full proposals may be submitted by invitation only.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may be the Principal Investigator (PI) or co-PI for only one preliminary proposal, i.e., no investigator, PI or co-PI, can be listed on the NSF proposal Cover Sheet on more than one proposal.
+
+Additional Eligibility Info:
+
+U.S. IHEs with broad research and education programs in the area of condensed matter physics, solid state and materials chemistry, materials science and engineering, biomaterials and biophysics, and related areas of science and engineering may submit preliminary proposals .
+
+In order to reduce the burden of proposal writing for the materials research community and the burden of subsequent proposal review and evaluation for reviewers and NSF staff, NSF will accept full proposals for MRSECs by invitation only , based on the results of the preliminary proposal evaluation.
+
+Separately submitted collaborative proposals are not allowed. While more than one organization may participate in a single preliminary or full proposal, one organization must accept overall management responsibility for the proposal.

@@ -274,23 +274,8 @@ Use the provided Make targets to keep taxonomies in sync:
   - `make validate-taxonomy`
 - Rebuild then validate in one go:
   - `make taxonomy-refresh`
-
 - Generate synonyms (safe, format-level variants) for all taxonomies:
   - `make synonyms-build`
-
-- Download current NSF opportunities (writes text files under `data/grants/`):
-  - `make nsf-download` (uses Grants.gov; set `GRANTS_GOV_API_KEY` in `.env` for best results)
-  - Options via env: `STATUSES=posted|forecasted`, `SINCE=YYYY-MM-DD`, `MAX=2000`
-  - If you do not have an API key, the tool can use a fallback endpoint. See `python -m pipeline.fetch_nsf_grants --help`.
-
-- Download NSF awards (historical/awarded grants) — no API key required:
-  - `make nsf-awards-download`
-  - Options via env: `SINCE=YYYY-MM-DD`, `UNTIL=YYYY-MM-DD`, `MAX=2000`
-
-- Download NSF funding opportunities directly from nsf.gov (web scrape):
-  - `make nsf-opps-download` (saves pages under `data/grants/`)
-  - Options via env: `MAX=500`
-  - Uses a lightweight stdlib scraper that extracts readable text from each opportunity page; first line is the source URL.
 
 - Build grant files from a CSV (with solicitation URL enrichment):
   - `make nsf-from-csv` (defaults to `data/grants/nsf_funding.csv` if present, else `data/grants/NSF_database.csv`)
@@ -300,6 +285,17 @@ Use the provided Make targets to keep taxonomies in sync:
     - `OVERWRITE=1` to overwrite existing files
   - Output `.txt` files in `data/grants/` named from the CSV Title; the first line is the solicitation URL if available, followed by CSV fields and extracted page text.
   - When fetching is enabled, the tool also parses common NSF fields from the page (when present): solicitation number, deadline summary (uses `deadline_extractor`), estimated number of awards, and anticipated funding amount.
+  - The fetched solicitation page text is filtered to only include:
+    - “Summary of Program Requirements” (or “Synopsis of Program” if used)
+    - “I. Introduction”
+    - “II. Program Description”
+    - “III. Award Information”
+    - “IV. Eligibility Information”
+
+- One-command refresh (recommended)
+  - `make grants-refresh`
+  - Behavior: auto-detects CSV (prefers `data/NSF_database/nsf_funding.csv`), writes to `data/grants/`, overwrites existing files, prunes filtered rows, and keeps only pages where all four sections (I–IV) are found and extracted.
+  - Env overrides: `CSV=path/to.csv`, `OVERWRITE=1`, `PRUNE=1`.
 
 Quick embeddings rebuild checklist
 - Rebuild taxonomy embeddings:

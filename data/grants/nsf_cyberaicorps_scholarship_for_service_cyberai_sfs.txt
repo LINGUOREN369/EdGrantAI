@@ -12,3 +12,212 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2023-04-04
 URL: https://www.nsf.gov/funding/opportunities/cyberai-sfs-cyberaicorps-scholarship-service/nsf23-574
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+CyberCorps(R) Scholarship for Service (SFS)
+
+I. Introduction
+
+Cyberspace has transformed the daily lives of people and become critical to national priorities in commerce, education, energy, financial services, healthcare, manufacturing, and defense. Society's overwhelming reliance on cyberspace, however, has exposed the system's fragility and vulnerabilities. The challenges of a global hyper-connectedness are becoming more apparent. The privacy of personally identifiable information is often violated on a massive scale by persons unknown. The United States' competitive advantage is eroded by the exfiltration of significant intellectual property. Law enforcement is hobbled by difficulties of attribution, national boundaries, and uncertain legal and ethical frameworks. All these concerns now affect the public's trust in cyberspace and the ability of institutions to fulfill their missions.
+
+The National Science and Technology Council, with the cooperation of NSF, released the Federal Cybersecurity Research and Development Strategic Plan . This plan is a broad, coordinated Federal strategic plan for cybersecurity research and development, produced to preserve the growing social and economic benefits of cyberspace by thwarting adversaries and strengthening public trust of cyber systems. One of the priority areas is Artificial Intelligence (Al) that enables autonomous systems to perform tasks that have historically required human cognition and what are typically considered human decision-making abilities. The plan highlights the mutual needs and benefits of Al and cybersecurity. The emerging threats posed by Al-enhanced autonomous systems deserve serious attention. Conversely, Al techniques are expected to enhance cybersecurity by either automating certain routine tasks or assisting human system managers to monitor, analyze, and respond to adversarial threats to cyber systems. The CyberCorps® Scholarship for Service (SFS) program supports collaborative efforts among the Al, cybersecurity, and education research communities to foster a robust workforce with integrated Al and cybersecurity competencies, and to explore new collaborations at the intersection of cybersecurity and other priority areas such as quantum information science, next generation wireless networks, or aerospace. In addition, NSF contributes to multi-agency efforts for the National Initiative for Cybersecurity Education (NICE) . NSF recognizes that cybersecurity education and workforce development form critical elements for successful implementation and transition to practice of any advances in cybersecurity research and development.
+
+II. Program Description
+
+Cybersecurity is arguably one of the most important challenges confronting society in the information age. Neither governments nor individuals are exempt from the ravages of cyber-attacks. However, posing cyber conflict solely in terms of classic attackers and defenders understates the diversity and subtlety of the motivations, incentives, ethics, asymmetries, and strategies of the constituent actors in cyberspace. The intelligent adversary, whether a nation-state actor, an AI bot, an activist group, or a criminal, learns and evolves to exploit, disrupt, and overpower. Addressing the challenge of cybersecurity requires a coordinated multi-disciplinary approach, contributing to the body of knowledge on cybersecurity in multiple disciplines, and leading to practical, deployable technologies. These efforts require an innovative and efficient cybersecurity education system that will create an unrivaled cybersecurity workforce critical to US national security, continued economic growth, and future technological innovation in secure cyberspace.
+
+The goals of the CyberCorps® SFS Program are to: (1) increase the number of qualified and diverse cybersecurity candidates for government cybersecurity positions; (2) improve the national capacity for the education of cybersecurity professionals and research and development workforce; (3) hire, monitor, and retain high-quality CyberCorps® graduates in the cybersecurity mission of Federal Government; and (4) strengthen partnerships between institutions of higher education and federal, state, local, and tribal governments. Examples of partnerships between SFS institutions and government organizations include internship agreement, advisory boards, speaker series, participation in cybersecurity task forces, etc. The SFS Program welcomes proposals to establish or to continue scholarship programs in cybersecurity. All scholarship recipients must work after graduation for a federal, state, local, or tribal government organization in a position related to cybersecurity, or as educators in the field of cybersecurity at an SFS institution, for a period equal to at least the duration of the scholarship. A proposing institution must provide clearly documented evidence of a strong existing program in cybersecurity. In addition to information provided in the proposal narrative, such evidence may include ABET accreditation in cybersecurity; designation by the National Center of Academic Excellence in Cybersecurity (NCAE-C); or equivalent evidence documenting a strong program in cybersecurity. The SFS Program also supports efforts leading to an increase in the ability of the United States higher education enterprise to produce cybersecurity professionals.
+
+SFS Scholarships
+
+The SFS Program provides funds to institutions of higher education for student scholarships in support of education in areas relevant to cybersecurity and cybersecurity-related aspects of other related fields as appropriate, including artificial intelligence, quantum computing, and aerospace. Each scholarship recipient, as a condition of receiving a scholarship under the SFS Program, enters into an agreement under which the recipient, upon receipt of their academic degree, agrees to work for a period equal to at least the duration of the scholarship in the cybersecurity mission of an executive agency (as defined in 5 U.S. Code § 105) or, subject to prior approval, in the cybersecurity mission of:
+
+Congress, including any agency, entity, office, or commission established in the legislative branch;
+
+an interstate agency;
+
+a state, local, or tribal government; or
+
+a state, local, or tribal government-affiliated non-profit organization that is considered to be critical infrastructure (as defined in 42 U.S. Code§ 5195c(e)).
+
+The U.S. Office of Personnel Management (OPM) partners with NSF in this program by providing assistance in matching SFS students to potential agencies, coordinating students' transition into government employment, monitoring students' compliance with program requirements, and assessing whether the program helps meet the personnel needs of the federal government for information infrastructure protection. The term SFS Program Office means an office managing the SFS Program through a partnership between the NSF and the OPM. Grantee institutions provide scholarship support to students who compete successfully in a selection process developed by the institution, who meet the SFS eligibility criteria.
+
+The program's goal is to place all SFS students in government cybersecurity positions, with at least 70 percent of scholarship recipients securing placement in the federal government's executive branch. While SFS scholarship recipients are responsible for their own job searches, the SFS Program Office provides several tools to aid in the job search, including annual job fairs. Principal Investigators (PIs) and SFS scholarship students are expected to participate actively with the SFS Program Office to secure both a summer internship and permanent placement in the executive branch of the federal government. With permission of the SFS Program Office, a limited number of students, but no more than 20 percent of scholarship recipients, may be placed in a non-executive federal agency; state, local or tribal government organization; National Laboratories; or Federally Funded Research and Development Centers (FFRDCs). (See http://www.firstgov.gov/Agencies.shtml for a list of federal, state, local and tribal government agencies; see https://science.energy.gov/sbir/applicant-resources/national-labs-profiles-and-contacts/ for a list of National Laboratories; see https://www.nsf.gov/statistics/ for a list of FFRDCs.) Materials to assist PIs and scholarship recipients with the placement process are available through the SFS support website: http://sfs.opm.gov/ .
+
+With permission of the SFS Program Office, a limited number of students, but no more than 10 percent of scholarship recipients, may be placed as educators in the field of cybersecurity at qualified institutions of higher education that provide SFS scholarships; see https://sfs.opm.gov/Academia/lnstitutions for a list of current SFS projects. Such placement would fulfill the student's service obligation.
+
+During the scholarship period, students must participate in meaningful summer internships related to cybersecurity. Doctoral students may be allowed to replace their summer internship with a research activity following a recommendation from their academic advisor and approval of the SFS Program Office. Students must also participate in other SFS activities supported/recommended by their institutions such as conferences, competitions workshops, and seminars. These activities are aimed at developing a community of practice that will enhance students' individual and collective skills in an area increasingly important to the security of the United States.
+
+To be eligible for consideration for an SFS scholarship, a student must:
+
+be a citizen or lawful permanent resident of the United States;
+
+demonstrate a commitment to a career in cybersecurity;
+
+have demonstrated a high level of competency in relevant knowledge, skills, and abilities, as defined by the NICE Cybersecurity Workforce Framework;
+
+be a full-time student in a coherent formal program that is focused on cybersecurity at an awardee institution (a) with sophomore standing in an associate's degree program; or (b) with junior or senior standing in a bachelor's degree program; or (c) enrolled in a master's degree program; or (d) enrolled in a research-based doctoral program.
+
+Second-year students at community colleges are eligible for one year of support if there is a formal agreement between their community college and a four-year institution to transfer the student for two years of additional support to complete a bachelor's degree. A community college is eligible only as a sub-awardee of the partnering four-year SFS institution. A supported student who is enrolled in a community college is allowed to pursue a degree on a less than full-time basis, but not less than a half-time basis with prorated scholarship amounts.
+
+Each proposing institution must provide a description of its selection criteria and process. Internship placements and final job placements in government organizations typically require high-level security clearances, and scholarship recipients are required to undergo the background investigation necessary to obtain such clearances as part of the job and/or internship application process. This needs to be emphasized during the recruitment and initial counseling sessions as described below in the section on institutional responsibilities.
+
+The proposals must describe a project plan with goals, objectives, and corresponding evaluation metrics. They ought to provide evidence, if applicable, of a rigorous cybersecurity curriculum, student research opportunities, quality mentoring and counseling toward academic success and government career, extra-curricular activities to increase cybersecurity competencies, cybersecurity faculty's support for SFS scholars, and other information related to the Additional Solicitation Specific Review Criteria in section VI.A.2. SFS institutions typically require their scholars to have a minimum of four cybersecurity courses in their program of study. Proposals could focus on themes aligning with ongoing or emerging areas of cybersecurity such as, but not limited to, secure design and production of software and hardware systems, resilient cyberinfrastructure and software supply chain, cybersecurity in the age of artificial intelligence, cybersecurity in the post-quantum era, cyber operations, human and societal aspects of cybersecurity, and privacy.
+
+Proposing institutions, regardless of whether they submit new or renewal proposals, must have clearly articulated management and administrative plans for the following program elements:
+
+Verification of scholarship candidates' eligibility, including the recipients' academic merit, appropriate professional skills, and enrollment in a cybersecurity program.
+
+Budgeting for scholarships consisting of stipends, tuition, education-related fees, and other allowances described below. Scholarships are not based on student financial need.
+
+Provision of academic-year stipends of $27,000 per year for undergraduate students and $37,000 per year for graduate students. These charges shall be included in the budget under Participant Support costs. Although projects can request No-Cost Extensions (NCEs) at the end of the five-year period, the design of the cohort plan must ensure that the last cohort of scholars will complete their program of study within the five-year budget.
+
+Provision of scholarship amounts to be used for expenses normally incurred by full-time students at the institution, including tuition and education-related fees (does not include items such as meal plans, housing, or parking); and a professional allowance of $6,000 per academic year for the SFS Job Fair and other related travel, conferences, research materials, books and supplies including a one-time purchase of a laptop, professional training, and certifications, etc. While scholarship stipends and allowances must be included in the budget under Participant Support costs, detailed budgeting on the use of the $6,000 professional allowance is not required. Provision for coordination with SFS Program Office for summer internships and permanent job placements for each student based on the SFS Pl guidebook. Students are required to take government internship positions in the summer between their first and second year of scholarship study and are encouraged to take additional internships in the following years. Summer internships typically are paid for by the hiring agency. Funding for summer internships should not be included in the proposed SFS budget. Doctoral students may be allowed to substitute research activity for their summer internship following the recommendation of their academic advisor and approval of the SFS Program Office.
+
+Provisions for tracking the academic progress of students to determine their continued eligibility throughout the academic part of the program based on the SFS Pl guidebook. Post-graduation tracking of students to verify that they meet the service obligation will be the joint responsibility of the SFS Program Office and the academic institution.
+
+The above items must be clearly detailed in the Budget Justification section, or other appropriate sections of the proposal.
+
+Applications from institutions that have not previously participated in the SFS Program will be considered separately from proposals from renewing institutions. Institutions with a current SFS scholarship project must wait at least (a) until they are within 24 months from the current SFS award's end date, and (b) until they have expended at least 70 percent of their budget, before submitting another SFS proposal. All institutions that supported SFS students in the past must provide:
+
+specific evidence of their current SFS project achievements. Indicators of project success include, but are not limited to, placement statistics, faculty development activities, integration of research and education, mentoring of non-SFS institutions, partnerships with government and relevant employment sectors, community outreach with impact, and curricular/program innovations.
+
+development of innovative and potentially transformative interdisciplinary approaches to cybersecurity education and workforce development.
+
+specific plans and/or evidence of project sustainability and/or institutionalization efforts including information on students without SFS scholarships who were placed in government jobs and the retention of SFS scholarship recipients in the federal workforce beyond their initial obligation.
+
+The underrepresentation of many groups in cybersecurity and computing, including women, Blacks and African Americans, Hispanic Americans, American Indians, Alaska Natives, Native Hawaiians, Native Pacific Islanders, and persons with disabilities, deprives the nation of the opportunity to benefit from large segments of the population becoming cybersecurity professionals or researchers. Ending underrepresentation will require a range of measures, including institutional programs and activities as well as culture change across colleges, departments, classes, and research groups. Proposing institutions should describe their current demographics, existing initiatives in broadening participation, and provide plans for recruitment, mentoring, and retention of SFS scholars who are members of underrepresented racial and ethnic minority groups, women, first-generation/low-income students, persons with disabilities, or veterans. Proposers are especially encouraged to establish linkages, as appropriate, with the components of the national network of NSF INCLUDES projects (see https://www.nsf.gov/news/special_reports/big_ideas/includes.jsp ) and Broadening Participation in Computing (BPC) (see https://bpcnet.org/ ).
+
+Scholarship funds awarded to students for stipends, tuition and education-related fees, and student professional allowances must be listed as Participant Support Costs in the NSF proposal budget (Line F on the NSF budget form and Field Eon the Grants.gov budget). Additional funds up to $12,000 per student-year (year of one student support) may be requested for activities in other direct cost categories (e.g., faculty and staff salaries, travel, materials, supplies, etc.) that contribute to the effectiveness of the scholarship program and to the SFS goal of creating and maintaining a robust cybersecurity workforce. Any such costs must be listed under the appropriate NSF budget categories and must be explained in the Budget Justification.
+
+The Principal Investigator will have overall responsibility for the administration of the institution's award, the management of the project, and interactions with the SFS Program Office. The Pl and the grantee institution are expected to have or to develop an administrative structure that enables faculty, academic administrators, scholarship recipients, and others involved in the project to interact productively during the award period. The Pl is expected to be an integral participant in the educational activities of the SFS project and is required to participate in boot camps, annual SFS job fairs, and Pl briefings/meetings.
+
+Institutional Responsibilities
+
+The institution receiving the award ("Awardee") shall require that each recipient of a scholarship accepts the terms of the scholarship and agrees to provide the institution and the SFS Program Office with annual verifiable documentation of post­ scholarship employment and up-to-date contact information during the commitment phase defined in the CyberCorps® SFS agreement. The awardee is required to have SFS scholarship recipients complete counseling before receiving the CyberCorps® scholarship ("Initial Counseling"); and before they complete the Scholarship Phase ("Exit Counseling"). The Initial Counseling informs prospective SFS scholarship recipients about the SFS scholarship program and service obligation requirements; and the circumstances under which an SFS scholarship needs to be repaid or treated as a Direct Unsubsidized Loan to be repaid. The Exit Counseling provides information about fulfilling the SFS scholarship service obligation, options for temporarily deferring the period of completing the service obligation, and terms and conditions under which the CyberCorps® scholarship must be repaid.
+
+The awardee is required to collect signed CyberCorps® SFS agreements and submit them to the SFS Program Office.
+
+The Awardee is required to monitor the compliance of scholarship recipients with respect to their post-scholarship employment obligations, and provide to the SFS Program Office, on an annual basis, the verifiable post-scholarship employment documentation through the completion of scholarship recipients' post-scholarship employment obligations. Scholarship recipients must agree, as a condition of their scholarship, to provide this information to the Awardee and the SFS Program Office.
+
+As required by the 15 U.S. Code § 7442, a SFS scholarship recipient shall be financially liable to the United States if the individual:
+
+fails to maintain an acceptable level of academic standing;
+
+is dismissed from the applicable institution of higher education for disciplinary reasons;
+
+withdraws from the eligible degree program before completing the program;
+
+declares that he/she does not intend to fulfill the post-award employment obligation; or
+
+fails to fulfill the post-award employment obligation.
+
+Failure to satisfy the academic requirements of the program or to complete the service requirement will result in forfeiture of the scholarship award, which must either be repaid or reverted by the institution to a student loan pro-rated accordingly to reflect partial service completed.
+
+The Awardee is responsible for determining the repayment amounts and notifying the recipient and the SFS Program Office of the amounts owed when the service obligation is not fulfilled. The Awardee must collect the repayment amounts, including interest, in a manner consistent with the provisions of a Federal Direct Unsubsidized Stafford Loan under part D of Title IV of the Higher Education Act of 1965. All forfeited scholarship funds, less reasonable, allocable, and allowable Awardee costs associated with collection of the repayment not to exceed 5% of the forfeited amount, will be returned to the United States Treasury and may not be reused by the Awardee. Scholarship recipients in coordination with the Awardee and the Pl may petition the NSF Director, through the SFS Program Office, for the partial or total deferral (suspension) or discharge of any service or repayment obligation whenever compliance by the individual with the obligation is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be unconscionable. Extreme hardship could include but is not limited to financial/economic burden, medical situations, or other situations as determined by the Director of NSF. Awardees shall also consider using Forgivable Loan Promissory Notes or similar agreements between the institution and the student to facilitate repayment. Awardee institutions will be provided with additional guidelines and applicable federal regulations.
+
+Increasing National Capacity in Cybersecurity Education
+
+The SFS Program supports efforts that are likely to lead to an increase in the ability of the United States higher education enterprise to produce cybersecurity professionals. The proposals may be submitted via the Education Designation in the NSF-wide Secure and Trustworthy Cyberspace (SaTC-EDU) program. More information can be found at https://nsf.gov/funding/pgm_summ.jsp?pims_id=504709 . Also, as authorized by 15 U.S. Code§ 7442, the SFS Program in partnership with the National Security Agency (NSA) provides funding to improve cybersecurity education at the kindergarten through 12th grade levels to:
+
+increase interest in cybersecurity careers;
+
+help students practice correct and safe online behavior and understand the foundational principles of cybersecurity;
+
+improve teaching methods for delivering cybersecurity content for kindergarten through grade 12 computer science curricula; and
+
+promote teacher recruitment in the field of cybersecurity.
+
+The proposals addressing these efforts can be submitted to the GenCyber program at http://www.gen-cyber.com/host/ . Dear Colleague Letters (DCLs) may also be issued to inform the community about upcoming opportunities or special competitions for proposals addressing emerging areas of cybersecurity education and workforce development.
+
+Program Evaluation
+
+NSF conducts ongoing program monitoring and evaluation to determine how effectively the SFS Program is achieving its goals. In addition to project-specific evaluations, all project participants are expected to cooperate with this third-party program evaluation and respond to all inquiries, including requests to participate in surveys, interviews, and other approaches for collecting evaluation data. The awardee should strongly encourage SFS scholarship recipients to participate in surveys conducted by the project and/or SFS Program evaluators. Additional guidelines will be provided to institutions that receive Scholarship awards.
+
+Project-Specific Evaluation
+
+While the evaluation of the SFS Program is external to the projects at SFS institutions, SFS projects shall clearly state goals and have a project-level evaluation plan explaining how the goals will be measured at the institution level. Evaluation plans should include both a strategy for monitoring the project as it evolves to provide feedback to guide these efforts (formative evaluation) and a strategy for evaluating the effectiveness of the project in achieving its goals and for identifying positive and constructive findings when the project is completed (summative evaluation). The project-specific evaluations of the specific award activities should provide indicators of project achievement including, but not limited to, the areas of placement, student achievement, broadening participation, faculty development, curriculum, and institutional partnerships. The evaluation should assess and document project outcomes, accomplishments, and lessons learned. In addition, the awardees are also expected to cooperate with the SFS program-level monitoring and evaluation teams. Funds to support an evaluator independent of the project must be requested. The evaluator must be external to the project, though may be employed by a project's home institution if they work in a separate organizational unit that has a different reporting line from that of the project's home unit. The evaluator may not serve as a Pl, co-Pl, or Senior Personnel on the project. The proposal must identify appropriate assessment and evaluation plans for project improvement, as well as plans for programmatic evaluation at the end of the project for accountability purposes. The evaluation plans must clearly align with the stated goals of the project. Meaningful assessment and evaluation of NSF-funded projects should be based on appropriate metrics, keeping in mind the likely correlation between the effect of broader impacts and the resources provided to implement projects. For information about effective approaches to evaluation, see the following resources:
+
+The 2010 User-Friendly Handbook for Project Evaluation
+
+Online Evaluation Resource Library (OERL)
+
+Special Projects
+
+The program is also interested in ideas for forward-looking or unconventional activities that show real promise to have a broad national impact on cybersecurity education and workforce development but fall outside the SFS and SaTC-EDU program boundaries. Principal Investigators who have such ideas must first discuss them with an SFS Program Officer. If the program officer agrees that the activities would be appropriate for consideration by the program, the program officer may encourage the submission of an unsolicited proposal.
+
+III. Award Information
+
+Anticipated Type of Award: Continuing Grant
+
+Estimated Number of Awards: 12 to 16
+
+Anticipated Funding Amount: $20,000,000
+
+The estimated number of awards and the anticipated funding amount listed above are for new awards in FY 2024. The number of awards and funding level in future years are anticipated to be similar to FY 2024. Funding amounts and the number of awards subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Community colleges are eligible only as sub-awardees of the partnering four-year SFS institutions as described in the Program Description section.
+
+Institutions of Higher Education (IHEs) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Community colleges are eligible only as sub-awardees of the partnering four-year SFS institutions as described in the Program Description section.
+
+Who May Serve as PI:
+
+As of the submission deadline, PIs, co-PIs, or other senior project personnel must hold primary, full-time, paid appointments in research or teaching positions at US-based campuses of institutions eligible to submit to this solicitation (see above), with exceptions granted for family or medical leave, as determined by the submitting institution.
+
+Limit on Number of Proposals per Organization: 1
+
+Each performing organization is limited to one (1) proposal per annual SFS competition. Institutions with an active SFS scholarship project must wait at least (a) until they are within 24 months from the current SFS award's end date, and (b) until they have used at least 70 percent of their budget, before submitting another SFS proposal.
+
+Potential PIs are advised to contact their institutional office of research regarding processes used to select proposals for submission.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual must not participate as PI, Co-PI, or Senior Personnel on more than one (1) proposal submitted to the same deadline.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

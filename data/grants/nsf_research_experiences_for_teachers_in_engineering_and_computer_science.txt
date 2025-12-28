@@ -10,3 +10,136 @@ Status: Cleared
 Posted date (Y-m-d): 2023-10-30
 URL: https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf24-503
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Research Experiences for Teachers (RET) in Engineering and Computer Science Sites and Supplements
+
+I. Introduction
+
+The Research Experiences for Teachers (RET) program supports active participation in science, engineering, and education research by K-14 STEM educators. RET proposals are welcome in any of the research areas supported by the CISE and ENG directorates.
+
+The RET program seeks to support authentic summer research experiences for K-14 STEM educators to foster long-term collaborations between universities, community colleges, school districts, and industry partners. With this solicitation, the National Science Foundation focuses on a reciprocal exchange of expertise between K-14 STEM educators and research faculty, and (when applicable) industry mentors. Through high-quality mentorship, K-14 STEM educators will enhance their scientific disciplinary knowledge in engineering or computer science and translate their research experiences into classroom activities and curricula. At the same time, the hosting research faculty will deepen their understanding of classroom practices, current curricula, pedagogy, and K-14 educational environments.
+
+Participation of K-14 STEM educators in active research is an excellent way to reach broadly into the teacher talent pool of the U.S., facilitating the ability of educators to teach engineering and computer science concepts in a compelling way. Through an RET experience, educators can better encourage, stimulate, and guide their students to seek engineering and/or computer science careers, especially students historically underrepresented in these disciplines.
+
+This solicitation features two mechanisms for support of K-14 educator research: RET Sites and RET Supplements.
+
+II. Program Description
+
+The RET program encourages the active participation of K-14 educators in ongoing engineering and/or computer science research activities through Site awards and Supplements. RET Sites and Supplements can include pre- and/or in-service K-12 teachers and/or community college faculty as participants.
+
+A RET Site proposal must be submitted by a College, School, or Department of Engineering, Engineering Technology, or Computer and/or Information Science. NSF’s Directorates for Engineering (ENG) and Computer and Information Science and Engineering (CISE) strongly encourage all grantees to make special efforts to identify talented K-14 educators for participation in this RET opportunity.
+
+RET projects offer an opportunity to tap the nation's diverse teacher talent pool and broaden participation in engineering and computer science. Partnerships with inner city, rural, or other high-needs schools are especially encouraged. Proposals emphasizing broadening participation of the full spectrum of diverse talents that society has to offer are also encouraged. This includes participation of K-14 educators who are themselves underrepresented in engineering and computer science, or K-14 educators who serve underrepresented students in engineering and computer science.
+
+RET Sites and Supplements should focus on a reciprocal exchange of expertise between K-14 STEM educators and research faculty and/or industry mentors. K-14 STEM educators will enhance their scientific disciplinary knowledge in engineering or computer science. At the same time, the hosting research faculty will deepen their understanding of classroom practices, current curricula, pedagogy, and K-14 educational environments.
+
+RET Sites
+
+RET Sites are based on independent proposals, submitted for an annual deadline date to provide authentic summer research experiences for K-14 STEM educators and foster long-term collaborations between universities, community colleges, school districts, and industry partners. As part of the long-term partnership arrangements, involvement of undergraduate/graduate students with the integration of the RET curricular materials into classroom activities in the follow up academic year is particularly encouraged.
+
+RET Sites must involve 8-10 or more K-14 educators in an engineering and/or computer and/or information science research project for a duration of at least six weeks during the summer. RET Sites must have a well-defined research focus, with clearly articulated projects and activities, that enables a cohort experience for participants. Sites may be based in a single discipline or academic department or may offer interdisciplinary or multi-department research opportunities with a coherent intellectual theme. A proposal should reflect the unique combination of the proposing organization's interests and capabilities and those of any partnering organizations.
+
+RET Sites must include high-quality mentoring strategies to ensure participants receive consistent and effective support during their research experience. Sites are encouraged to include Co-PIs or senior personnel who have expertise in education research and/or curriculum development and/or broadening participation. RET Sites are also encouraged to include partnerships with industry mentors, particularly those with a regional presence.
+
+Projects should include academic-year activities to facilitate dissemination of classroom modules to other K-14 educators and a broader audience.
+
+RET Supplements
+
+An RET Supplement typically provides support for one or two K-14 STEM Educators to participate in research as part of a new or ongoing ENG or CISE-funded research project. However, centers or large research efforts may request support for a larger number of participants commensurate with the size and nature of the project.
+
+As with RET Sites, high-quality mentoring is important in RET Supplements and investigators should give serious attention to developing participants’ research skills, involving them in the culture of research in the discipline, and connecting their research experience with classroom activities and curricula. RET Supplement descriptions must also indicate what type of sustained follow-up will be provided during the academic year to help in translating the teacher's research experience and new understanding of engineering and/or computer science concepts into classroom practice. [CISE PIs can find more information in the most recent Dear Colleague Letter on REU and RET supplements.]
+
+Other Opportunities
+
+ENG and CISE strongly encourage the use of RET supplements to enable K-14 STEM educators to participate in Research Experiences for Undergraduates (REU) programs. See https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517 for a list of current, active REU Sites.
+
+The RET in Engineering and Computer Science program will allow PIs to involve participating K-14 educators in international research experiences in their proposals. PIs may contact NSF's Office of International Science and Engineering (OISE) staff, with expertise in the country or region of interest, for information about institutions and counterpart agencies. (Contacts for cognizant program managers(s) are available from the OISE webpage ( https://www.nsf.gov/od/oise/country-list.jsp ).
+
+NSF engages in a partnership with the Department of Energy (DOE) Office of Electricity (OE) to expand research opportunities in DOE mission-relevant areas through the ENG RET Sites program. Proposals that are selected for the DOE funding will involve DOE mission-relevant topics and may come from any of the NSF directorates or offices that handle ENG RET Site proposals. These topics include but are not limited to electric power sector research; clean energy technology research; risk science, decision science, social science, and data science using electric power sector data sets. A proposer to the NSF ENG RET Sites program does not need to take any additional steps to be considered for funding through DOE. Proposals that are considered for co-funding by DOE will be shared with DOE staff to assess alignment with DOE’s research interests, and the unattributed reviews and panel summaries for those proposals will also be shared with DOE.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 9
+
+Anticipated Funding Amount: $5,800,000
+
+The total anticipated annual funding for both RET Sites and Supplements is approximately $5,800,000 per year, subject to the availability of funds. It is anticipated that approximately 9 Site awards will be made per year. The maximum total request for a Site is $600,000 for a duration of up to three years. Supplements are limited to a maximum of $15,000 per teacher and/or community college faculty for a duration of one year, subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+RET Sites Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus and justify why the project activities cannot be performed at the US campus. Minority-Serving Institutions, community colleges, and institutions with strong programs serving persons with disabilities, are encouraged to apply. RET Supplements RET Supplement to an existing award: Active ENG or CISE awardees. RET Supplemental funding request submitted as part of a proposal to ENG or CISE for a new or renewal grant or cooperative agreement: Eligibility requirements of the specific funding opportunity apply.
+
+RET Sites
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus and justify why the project activities cannot be performed at the US campus. Minority-Serving Institutions, community colleges, and institutions with strong programs serving persons with disabilities, are encouraged to apply.
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus and justify why the project activities cannot be performed at the US campus. Minority-Serving Institutions, community colleges, and institutions with strong programs serving persons with disabilities, are encouraged to apply.
+
+RET Supplements
+
+RET Supplement to an existing award: Active ENG or CISE awardees.
+
+RET Supplement to an existing award: Active ENG or CISE awardees.
+
+RET Supplemental funding request submitted as part of a proposal to ENG or CISE for a new or renewal grant or cooperative agreement: Eligibility requirements of the specific funding opportunity apply.
+
+Who May Serve as PI:
+
+The principal investigator of a RET in Engineering and Computer Science Site proposal must have a full-time, tenured or tenure-track faculty appointment within a College/Department of Engineering or Engineering Technology or a College/Department of Computer and/or Information Science broadly defined [including e.g., Human-Computer Interaction (HCI), Software Engineering, Networking Science, Informatics] within the submitting US IHE. The PI must be a full-time Engineering and/or Computer Science faculty member whose primary job responsibilities are research and teaching and not a faculty member who is involved in an administrative capacity such as a dean or outreach coordinator.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may be listed as a PI or co-PI on no more than one RET site proposal per annual deadline.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

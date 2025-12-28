@@ -12,3 +12,88 @@ Status: Cleared
 Posted date (Y-m-d): 2025-04-10
 URL: https://www.nsf.gov/funding/opportunities/nsf-dfg-lead-agency-opportunity-chemistry-chemical-process/nsf25-537
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+NSF-DFG Lead Agency Opportunity in Chemistry and Chemical Process and Transport Systems
+
+I. Introduction
+
+The Directorate for Mathematics and Physical Sciences (MPS), Division of Chemistry (CHE) and the Directorate for Engineering (ENG), Division of Chemical, Bioengineering, Environmental, and Transport Systems (CBET) of the National Science Foundation (NSF) and the Divisions of Physics and Chemistry (PC) and Engineering Sciences 1 (ING 1) of the Deutsche Forschungsgemeinschaft (German Research Foundation, DFG) are pleased to announce a NSF-DFG Lead Agency Opportunity for Collaborative Research in Chemistry and Chemical Process and Transport Systems. The goal of this Lead Agency Opportunity is to reduce barriers to working internationally by allowing US and German researchers to submit a single collaborative proposal that will undergo a single review process while funding organizations maintain budgetary control over their awards. The prospective investigators must discuss within their research team where they feel the largest proportion of research lies and agree on a lead agency (either NSF or DFG). Proposals eligible for funding consideration through this Lead Agency Opportunity must have a research focus that falls within the scope of a participating division/program in both NSF and DFG. Prior to submitting the proposal, proposers should review the CHE, CBET, PC, and ING 1 program descriptions for research supported through these divisions. Proposals are expected to adhere to typical proposal budgets and durations for the relevant CHE, CBET, PC and ING 1 programs from which funding is sought. A list of participating NSF programs can be found at: https://www.nsf.gov/od/oise/IntlCollaborations/Germany.jsp . German researchers are invited to read https://www.dfg.de/nsf-che-cbet .
+
+Proposals submitted under this Opportunity will be reviewed by either NSF or DFG as the Lead Agency, depending on where the largest proportion of research lies. Proposals must provide a clear rationale for the need for a US-German collaboration, including the unique expertise and synergy that the collaborating groups will bring to the project. The results of the review process will be shared among the appropriate divisions (NSF/CHE and/or NSF/CBET as well as DFG/PC and/or DFG/ING 1) before making final recommendations.
+
+II. Program Description
+
+The core programs of ENG/CBET, MPS/CHE, DFG/PC, and DFG/ING 1 recognize that researchers in both the US and Germany perform world-class research. While both NSF and DFG always encourage international collaborations on core program submissions, the need for two separate review processes makes funding these types of collaborations difficult for US-German research teams. This solicitation is designed to eliminate this complication by allowing a collaborative proposal that includes both an eligible US collaborator and an eligible German collaborator to submit one joint proposal to one organization for one review process. Both agencies will honor the decision of this single review process, thereby paving the way for more potential US-German collaborative projects. Before a team can submit a proposal, they must decide which investigator will lead the overall joint US-German project. This is determined by where the greater proportion of research will be performed. The reviewing organization, NSF or DFG should be that of the lead investigator. This solicitation is the mechanism for NSF to act as the "lead" organization. For research teams that would like DFG as the lead organization, please see instructions at: https://www.dfg.de/nsf-che-cbet .
+
+Prior to submission, prospective PIs are strongly encouraged to contact cognizant program officers at NSF and DFG to discuss the suitability of their proposed research, as well as the project funding limits if they are not outlined on the program page in question. Additionally, the prospective PIs must discuss within their research team where they feel the largest proportion of research lies and agree on a lead agency (either NSF or DFG).
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 4 to 10
+
+Average award size and duration (varies with different participating program limits) are subject to the availability of funds.
+
+Anticipated Funding Amount: $2,000,000 to $5,000,000
+
+This funding amount is approximate and is subject to availability of funds. The overall funding for the program is established independently by each participating division. Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+A U.S. individual may appear as Principal Investigator (PI), co-PI, or senior/key personnel on only one proposal per annual cycle submitted in response to this solicitation. For programs with no submission deadline, the 12-month cycle starts with the proposal submission date. For proposals submitted to NSF/CHE, the submission will count towards the total proposal submission limit to the Disciplinary Research Programs (DRP), as defined in NSF CHE-DRP and CHE-DRP:NDP solicitations. For German Personnel, there is no limitation.
+
+If a U.S. individual is listed as PI, co-PI, or senior/key personnel on more than one proposal to this solicitation, then only the first submitted proposal will be considered. The remaining submission(s) will be returned without review.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

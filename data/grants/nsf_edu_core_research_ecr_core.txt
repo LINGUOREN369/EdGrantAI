@@ -11,3 +11,158 @@ Status: Cleared
 Posted date (Y-m-d): 2021-05-26
 URL: https://www.nsf.gov/funding/opportunities/ecrcore-edu-core-research/nsf21-588
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+EDU Core Research (ECR:Core)
+
+I. Introduction
+
+The nation faces extraordinary opportunities and challenges in aspiring to lead the world in science, technology, engineering, and mathematics (STEM). Rapid and exciting scientific advances leading to new approaches to solving critical societal problems, and a national emphasis on the importance of innovation point to unparalleled opportunities for the future. At the same time, these rapid technological advancements and societal changes are challenges requiring the U.S. to continue to inspire the next generation of STEM workers, including the skilled technical workforce, for the nation to remain competitive, spur innovation, and grow the economy. [1]
+
+The mission of the Directorate for STEM Education (EDU) is to achieve excellence in U.S. STEM education at all levels and in all settings (both formal and informal) to support the development of a diverse and well-prepared workforce of scientists, technicians, engineers, mathematicians and educators and a well-informed citizenry who have access to the ideas and tools of science and engineering. In fulfilling this mission, EDU seeks to support NSF’s mission to enhance the quality of life of all citizens and the health, prosperity, welfare, and security of the nation.
+
+The EDU Core research (ECR) program supports multiple solicitations under the ECR umbrella, including this ECR:Core solicitation. This EDU Core research (ECR:Core) solicitation accepts fundamental research proposals in any one or more of the STEM disciplines that address Research Areas and Topic Clusters described in this solicitation.
+
+There is a critical need to develop and accumulate knowledge based on fundamental research (whether curiosity-driven basic or use-inspired basic research [2] on STEM learning and learning environments, broadening participation in STEM, and STEM workforce development. Such foundational knowledge [3] in STEM education is essential to strategically guide the broader set of STEM education investments by the Federal government and other funding agencies and foundations, and to inform the activities of policymakers, researchers, and practitioners. This ECR:Core solicitation invites proposals to conduct fundamental research that advances knowledge across three Research Areas and several research Topic Clusters outlined below.
+
+[1] Subcommittee of the Advisory Committee of the Education and Human Resources Directorate (2020). STEM Education for the Future: A Visioning Report . https://nsf-gov-resources.nsf.gov/files/STEM-Education-2020-Visioning-Report.pdf?VersionId=tUx9eN9NEXtNHIghTfPOA7L81c28KMs7
+
+[2] Stokes, Donald (1997). Pasteur’s quadrant – Basic Science and Technological Innovation . Washington D.C.: Brookings Institution Press.
+
+[3] Common Guidelines for Education Research and Development (2013). A Report from the Institute of Education Sciences US Department of Education, and the National Science Foundation, ( https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf13126 )
+
+II. Program Description
+
+ECR investments in fundamental research are designed to advance the discovery and testing of general, explanatory knowledge that supports STEM education.
+
+ECR is a fundamental research program that supports both curiosity-driven basic and use-inspired basic research. As such, proposals submitted to this ECR:Core solicitation must have strong potential to make important contributions to general, explanatory knowledge (e.g., theories) pertaining to STEM learning and learning environments, broadening participation in STEM, or STEM workforce development. Fundamental research generates knowledge and understanding with the potential for broad relevance. By contrast, applied research, which ECR does not fund, aims to generate knowledge primarily or solely with specific relevance (e.g., to a particular curriculum or technology) with direct and immediate implications for practice. The potential implications of ECR fundamental research for improving STEM education practice may be indirect and long-term rather than direct and immediate. Indeed, the impact on practice might only be realized long after the end of a given project’s funding period. ECR:Core projects may also influence other intermediate research domains and communities, both basic and applied, before affecting practice. Whether they include curiosity-driven basic or use-inspired basic research, all successful ECR:Core proposals will focus on the advancement or refinement of foundational knowledge for STEM education.
+
+ECR supports and encourages multidisciplinary and interdisciplinary approaches to developing foundational knowledge for STEM education. The ECR program seeks to create a multidisciplinary portfolio and to fund projects from investigators representing a broad range of disciplinary backgrounds and approaches, including those from fields more typically associated with other NSF directorates and offices. The program encourages investigators to draw on all relevant disciplinary literatures, and to create teams that reach across disciplinary bounds when appropriate. This emphasis on multi- and inter-disciplinarity is consistent with the NSF Big Idea on Convergence: https://www.nsf.gov/news/special_reports/big_ideas/convergent.jsp . However, this ECR:Core solicitation does not require that individual proposals be multi- or interdisciplinary.
+
+ECR supports theoretically, methodologically, and analytically thorough research . The research questions or issues to be addressed in ECR:Core proposals should drive the choice of research design. Research designs may be qualitative, quantitative, or mixed methods. The research design must be described in sufficient detail to allow evaluation of its appropriateness to address the research questions or hypotheses proposed. The research could involve the collection of new data, secondary analyses using extant datasets, or meta-analyses/meta-syntheses. In addition, this ECR:Core solicitation supports research to develop innovative research methods, measurement approaches, and conceptual models to assess existing and emerging phenomena, and to test theories that inform core scientific questions about STEM learning and learning environments, broadening participation in STEM, and STEM workforce development. The Institute of Education Sciences (IES)-NSF Common Guidelines for research may serve as a guide in this regard: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf13126 .
+
+ECR embraces fundamental research involving all people in all STEM learning environments, including STEM workplaces. Proposals to ECR:Core could study people of any age (from infancy through the lifespan) or grade level (pre-K to graduate) in the context of any virtual, formal, or informal learning environment.
+
+ECR:Core Research Areas
+
+The ECR:Core portfolio spans three broad and overlapping Research Areas that map to the organizational structure of EDU investments: (1) Research on STEM Learning and Learning Environments, (2) Research on Broadening Participation in STEM fields, and (3) Research on STEM Workforce Development.
+
+Research Area I – Research on STEM Learning and Learning Environments
+
+This ECR:Core solicitation supports fundamental research projects that advance general, explanatory knowledge and understanding about STEM teaching and learning in the many environments and contexts in which such teaching and learning take place. Studies may inform or draw upon research from multiple disciplines that study learning at the level of the learner, the teacher, the learning environment, or the broader institutional or systemic context, as well as other organizations or individuals that may influence STEM learning.
+
+Research Area II – Research on Broadening Participation in STEM
+
+This ECR:Core solicitation supports fundamental research projects that advance general, explanatory knowledge and understanding related to broadening participation in STEM education and the STEM workforce as defined by NSF’s statutory mission. Broadening participation research may focus on the individual and/or the organizational factors that positively or negatively impact all individuals in STEM.
+
+Research Area III – Research on STEM Workforce Development
+
+This ECR:Core solicitation supports fundamental research on STEM workforce development and invites proposals that strengthen general, explanatory knowledge, and understanding about STEM workforce participation, skill-building approaches, workplace knowledge and competencies, learning in workplace contexts, and critical shifts in STEM workforce trends. ECR investments address basic questions concerning how best to prepare a STEM workforce that is ready to capitalize on the latest advances in technology and science, as well as to tackle current and future social and economic challenges. Of particular interest in this research area are frontier topics in the education and training of a workforce for the industries of tomorrow, pushing the boundaries of technology use in STEM workplace learning, and examining how learning will change for STEM workers because of advances in technology or changes in the working environment.
+
+ECR:Core Research Topic Clusters
+
+The ECR:Core solicitation invites proposals with a wide range of disciplinary perspectives and welcomes fundamental research proposals across the three research areas. Proposals submitted to ECR:Core often fall into one or more of the following research topic clusters. This list of research topic clusters is neither exhaustive nor mutually exclusive, and the program is open to other topic clusters that advance fundamental knowledge across the three research areas.
+
+Broadening participation in STEM education and the STEM workforce as defined by NSF’s statutory mission.
+
+Cognitive and neural underpinnings of STEM learning.
+
+Discipline-based education research in STEM fields.
+
+Factors at the institutional, structural, organizational, societal, and systemic levels that affect STEM teaching, learning, and participation in STEM education and the workforce.
+
+Factors at the cultural, affective, psychological, and demographic levels that affect STEM teaching, learning, and participation in STEM education and the workforce.
+
+Research on technology-enabled learning.
+
+Studies of the diffusion of knowledge and research on the translation and implementation of advances in STEM education and workforce development.
+
+Advances in methodology, measurement, and assessment in STEM education and workforce development research.
+
+Policy research and research that builds on and expands the theoretical foundations for evaluating STEM education and workforce development initiatives.
+
+Other topics that involve fundamental research in STEM learning and learning environments, broadening participation in STEM, and STEM workforce development.
+
+ECR:Core Proposal Types
+
+The amount of funding and duration requested in proposals submitted to this ECR:Core solicitation should align with the maturity of the proposed work and the size and scope of the empirical effort. The program has three levels of funding with a range of budget sizes, and proposals may request a duration of 3 to 5 years for any level: (1) Level I proposals may request up to $500,000; (2) Level II proposals may request up to $1,500,000; (3) Level III proposals may request up to $2,500,000. All proposals should justify the level of funding and duration in the project description.
+
+ECR:Core also welcomes and supports pilot studies, synthesis projects, and conferences related to advancing fundamental knowledge in one or more of the three Research Areas.
+
+Pilot Studies are small-scale, preliminary studies that investigate one or two components of a larger fundamental STEM education study that may be underdeveloped. Pilot studies should produce evidence or findings that help the research team make critical decisions about future work. Pilot study proposals may include high risk strategies or methods that need exploration (piloting) before further research is justified. Pilot studies are considered Level I proposals and should request less than $500,000 and up to a three-year grant period.
+
+Synthesis Proposals combine fundamental knowledge and findings on a topic of critical importance to STEM learning, education, broadening participation, or workforce development. They should strive both to present the state of the knowledge on an area, across disciplines where appropriate, as well as highlight issues for future research. Synthesis proposals should explain and justify the methodological approach (e.g., meta-analysis or meta-synthesis) to be adopted, and should outline the steps for literature identification, decision points (e.g., identifying inclusion and exclusion criteria and outcome measures of interest), and systematic techniques to ensure all relevant research is included and that information is gathered accurately across studies. Proposals should place particular emphasis on the goals and outcomes of the synthesis and the dissemination plan. Synthesis proposals may be budgeted at Level I or Level II.
+
+Conference Proposals plan for well-focused meetings related to the ECR goals to advance fundamental research in STEM learning, education, broadening participation, or workforce development. Budgets should be commensurate with the duration of the event and the number of participants. Proposals should include a conceptual framework for the conference, draft agenda, categories of possible participants, the outcomes or products that will result, and how these products serve the fundamental research goals of the ECR program. Investigators are encouraged to contact a cognizant ECR Program Officer prior to submission. Typical costs are $25,000 to $99,000. Further information about what to include in conference proposals may be found in the NSF Proposal and Award Policy and Procedures Guide .
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 40
+
+approximately 15 awards at level I; 12 awards at level II; 5 awards at level III, and 9 other awards.
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+Anticipated Funding Amount: $35,000,000
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

@@ -10,3 +10,90 @@ Status: Cleared
 Posted date (Y-m-d): 2022-02-10
 URL: https://www.nsf.gov/funding/opportunities/amps-algorithms-modern-power-systems/nsf22-569
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Algorithms for Modern Power Systems (AMPS)
+
+I. Introduction
+
+The electric power system is often considered to be one of the most complex machines designed by mankind. Its societal, economic, and national-security significance is acknowledged every time there is a major blackout. Insuring the reliable and economical production and delivery of electric power is a critical national objective.
+
+The Division of Mathematical Sciences (DMS) at the National Science Foundation (NSF) has a long history of supporting fundamental mathematical and statistical research relevant to the national interest. DMS has formed a partnership with joint proposal review and proposal management with the Office of Electricity Delivery & Energy Reliability (OE) at the U.S. Department of Energy (DOE) to support research projects that aim to develop the next generation of mathematical and statistical algorithms for improvement of the security, reliability, and efficiency of the modern power grid.
+
+II. Program Description
+
+The operational state of the power grid is often assessed through computer simulations using mathematical methods. These simulations, together with the mathematical techniques behind them, are invaluable to mitigating risks in the power grid and insuring the grid’s resilience. Unfortunately, even for the traditional power system, current computational and analytical techniques are unable to optimally and efficiently tackle many of the needed tasks. Development of improved techniques to model, simulate, predict, and control power system behavior will be beneficial to the power grid community. Moreover, insight into the fundamental and intrinsic properties of the power system that can expose the underlying mathematical and statistical structures of the grid could prove transformational for the design of improved systems. Such development and insight will be necessary for modeling and analyzing the emergent power system, which is characterized by increased volatility, complexity, and uncertainty, and which presents new computational challenges in an evolving security context.
+
+The AMPS program will support research projects that aim to address these mathematical and statistical challenges. Because the complicated nature of the power grid itself presents a major barrier to its modeling and simulation, the AMPS program aims to catalyze fruitful collaborative research projects to develop mathematical and statistical tools needed to address operational and planning issues for the power grid. The program encourages interdisciplinary efforts, with the involvement of experts in a variety of disciplines such as power system engineering, mathematics, statistics, and financial mathematics.
+
+Research topics could include, but are not limited to: new statistical and uncertainty-analysis-based methods that provide probabilistic or robust performance guarantees accounting for uncertainty and fluctuations in loads, generation, and other components of the system; methods for characterizing and controlling resiliency and reliability; probabilistic approaches to manage risk and uncertainty, uncertainty quantification; model reduction; model validation; anomaly detection; data analytics; risk hedging; network theory; and computational methods that are scalable without sacrificing performance.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 4 to 10
+
+Anticipated Funding Amount: $2,000,000
+
+Estimated number of awards and funding amounts are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

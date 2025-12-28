@@ -10,3 +10,128 @@ Status: Cleared
 Posted date (Y-m-d): 2025-01-02
 URL: https://www.nsf.gov/funding/opportunities/caig-collaborations-artificial-intelligence-geosciences/nsf25-530
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Collaborations in Artificial Intelligence and Geosciences (CAIG)
+
+I. Introduction
+
+The NSF Directorate for Geosciences (GEO), in partnership with the Directorate for Computer and Information Science and Engineering (CISE) and the Directorate for Mathematical and Physical Sciences (MPS), seeks to address grand challenge problems in the geosciences through innovations in artificial intelligence (AI) methods. In this solicitation, the geosciences collectively refer to the academic research communities supported in the Divisions of Atmosphere and Geospace (AGS), Earth (EAR), and Ocean (OCE) Sciences, and in the Office of Polar Programs (OPP), within GEO. AI is defined here as any computer analysis where the results are algorithmically refined without human intervention.
+
+AI methods have been identified as increasingly important tools for addressing grand challenge problems in the geosciences. The 2022 National Academies of Sciences, Engineering, and Medicine (NASEM) report, Next Generation Earth Systems Science at the National Science Foundation , identifies the need for an integrated approach to observation, computation, and modeling to accelerate convergence for significant scientific and educational goals. The NASEM report identifies opportunities and challenges in applying AI approaches to analysis of large datasets from observations and model outputs to advance understanding of complex Earth systems. Some of these challenges require technical advances whereas others require new partnerships and capacity building.
+
+On a technical level, AI models are often trained and tested on large datasets, which require data curation, storage, and specialized computational resources, such as graphics processing units (GPUs). NSF is addressing this technical challenge through a variety of initiatives. Notable programs include the Advanced Cyberinfrastructure Coordination Ecosystem; the Services & Support (ACCESS) program; and the National AI Research Resource (NAIRR) program. Geoscientists have not yet realized the full potential of these shared resources to carry out their AI applications. Motivated by this issue, NSF's National Discovery Cloud for Climate (NDC-C) initiative is seeking to unite advanced computing, data, software, and networking resources to democratize and improve the usability of cyberinfrastructure for climate-related science and engineering.
+
+In addition to these technical advances, geoscientists at all career stages require more opportunities to develop their awareness of AI and how to integrate it into their research. Building partnerships between the AI and geosciences communities is one method to overcome this challenge. NSF is fostering connections between these communities through its Collaborations in Artificial Intelligence and Geosciences (CAIG) program.
+
+II. Program Description
+
+The Collaborations in Artificial Intelligence and Geosciences (CAIG) program supports projects that advance AI techniques and/or innovative uses of sophisticated AI methods to enable significant breakthroughs in addressing geoscience research question(s). It is a partnership between GEO's Division of Research, Innovation, Synergies, and Education (GEO/RISE), CISE's Division of Information and Intelligent Systems (CISE/IIS) and Office of Advanced Cyberinfrastructure (CISE/OAC), and MPS's Division of Mathematical Sciences (MPS/DMS).
+
+The priority goals for the CAIG solicitation are to:
+
+Promote partnership between geoscientists and experts in mathematical sciences or computer science to address cutting-edge research that pushes the boundaries of the geosciences and AI.
+
+Enable significant breakthroughs in geosciences research question(s) through advancement in AI techniques and/or innovative uses of sophisticated AI methods to overcome geoscience research challenge(s) or bottleneck(s).
+
+Build workforce capacity for using advanced AI methods in the geosciences through educational and broadening participation activities.
+
+Proposers are strongly encouraged to contact program director(s) from the list of Cognizant Program Officers, in the Division(s)/Office(s) associated with the scientific discipline(s) for which the proposed AI developments would be applicable, to ascertain the appropriate focus and scope of intended proposal submissions.
+
+Specific Requirements :
+
+In addition to responding to one or more of the Major Priorities described above, proposals submitted to this solicitation must address all three of the following Specific Requirements. Text addressing these Specific Requirements should be provided in the Project Description section of the proposal and should be organized under a single subheading for "Program Specific Requirements" or individual subheadings for each of the three requirements listed (see Section V.A, Proposal Preparation Instructions). In addition to being evaluated for Intellectual Merit and Broader Impacts, proposals will be evaluated on how successfully they meet these requirements (see Section VI.A, Merit Review Principles and Criteria):
+
+Geosciences Advancement : Proposals must explicitly identify motivating science drivers and address how the proposed activities will advance geosciences research and/or education in response to these drivers. Projects should demonstrate the potential to improve understanding of the Earth system with AI approaches and/or to lower barriers for using these approaches by others in the geosciences.
+
+AI Impact : Proposals must describe the novel integration of AI methods, including any development of new methods, and justify how proposed activities overcome significant methodological and/or capacity bottlenecks that inhibit research progress in the geosciences.
+
+Partnerships : Proposed projects should consist of interdisciplinary teams of 2-3 lead collaborating Senior/Key Personnel and associated students, postdoctoral researchers, research software engineers, and/or similar staff (see Section III, Award Information). Project teams should constitute meaningful partnerships between geoscientists and experts in AI, mathematics, statistics, computer science, and/or cyberinfrastructure. Proposals should identify planned mechanisms for developing these partnerships, how partnerships will support the intended Geosciences Advancement and AI Impact, and how the partnerships will benefit all project participants, including pathways for cross-training students and other researchers in the methods to be pursued.
+
+Utilizing Shared Computing Resources :
+
+This solicitation does not support the development of new computer hardware capabilities or significant hardware acquisition, nor does it support projects that are primarily intended to develop new cyberinfrastructure. PIs are encouraged to consider using the wide range of NSF-supported advanced computing, data, and analysis capabilities, which are described in PAPPG Chapter II.E.7. PIs are also encouraged to explore emerging opportunities through NSF’s Office of Advanced Cyberinfrastructure (OAC), including the National Artificial Intelligence Research Resource Pilot and the National Discovery Cloud for Climate . Proposers may also request specific allocations for cloud computing in tandem with their proposal submission; this is described in further detail in the Proposal Preparation Instructions of this solicitation (Section V.A).
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 5 to 9
+
+Estimated number of awards is the number of projects to be supported per competition. The actual number of awards will be determined based on the results of the merit review process and availability of funds.
+
+Anticipated Funding Amount: $6,000,000 to $10,000,000
+
+Anticipated funding amount is per competition. Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs): Prospective proposers from Other Federal Agencies and FFRDCs, including NSF sponsored FFRDCs, must follow the guidance in PAPPG Chapter I.E.2 regarding limitations on eligibility.
+
+Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs): Prospective proposers from Other Federal Agencies and FFRDCs, including NSF sponsored FFRDCs, must follow the guidance in PAPPG Chapter I.E.2 regarding limitations on eligibility.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 2
+
+An individual may be designated as Senior/Key Personnel (which includes but is not limited to PI or co-PI) on at most two proposals per competition . NSF's definition for "Senior/Key Personnel" is provided in PAPPG Exhibit II-3.
+
+These eligibility constraints will be strictly enforced in order to treat everyone fairly and consistently . In the event that an individual exceeds the proposal submission limit, only the first two proposals received will be accepted. All additional proposals will be returned without review. The order proposals were received in will be assessed based on the earliest date and time of proposal submission recorded in the NSF system. No exceptions will be made .
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

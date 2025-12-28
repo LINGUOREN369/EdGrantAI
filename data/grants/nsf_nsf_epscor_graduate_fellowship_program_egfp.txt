@@ -11,3 +11,148 @@ Status: Cleared
 Posted date (Y-m-d): 2024-07-03
 URL: https://www.nsf.gov/funding/opportunities/egfp-nsf-epscor-graduate-fellowship-program/nsf24-588
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+NSF EPSCoR Graduate Fellowship Program (EGFP)
+
+I. Introduction
+
+In 1950, Congress established NSF, five years after Vannevar Bush sent a report titled Science – the Endless Frontier to President Harry S. Truman outlining a plan to create a new agency that would contribute to the development of the Nation's scientific talent ( https://www.nsf.gov/about/history/EndlessFrontier_w.pdf ). Bush's report created a blueprint for U.S. scientific research. He made the point that" There are talented individuals in every segment of the population ". Bush further wrote that " ... it is recommended that provision be made for... graduate fellowships... ". These words are reminders that investments in transformative science and people with high potential are key for keeping the U.S. strong and competitive.
+
+The NSF Graduate Research Fellowship Program (GRFP) acted on Bush's report and became NSF's first program. Since its inception, GRFP has received applications each year from exceptionally talented individuals who have the potential to make strong positive contributions to the U.S. STEM enterprise. Only a small subset of applicants are offered an NSF Graduate Research Fellowship every year. An additional elite group of applicants receive the distinction of being named an NSF Graduate Research Fellowship Honorable Mention in recognition of their outstanding achievements and potential for future contributions in STEM. GRFP Awardees and Honorable Mentions together represent some of the nation's most promising STEM talent. Unfortunately, due to funding limitations, NSF has been unable to provide GRFP Honorable Mentions with financial support for graduate school.
+
+The EPSCoR Graduate Fellowship Program (EGFP) aims to enhance the STEM capacity and competitiveness of EPSCoR jurisdictions by providing graduate degree-granting institutions with funding that can be used to provide fellowships to students who received a GRFP Honorable Mention. The EGFP program specifically seeks to empower IHEs from EPSCoR jurisdictions to attract and retain extremely high-quality graduate students.
+
+This program is an opportunity for GRFP applicants who received the distinction of GRFP Honorable Mention to obtain financial support for their graduate education in STEM disciplines, including the discipline of STEM education research, at an institution in an EPSCoR jurisdiction. Eligible students must have received a GRFP Honorable Mention no more than three years prior to the deadline date for submission of proposals to the EGFP. Students who receive support through this program are known as NSF EPSCoR Graduate Fellows, and are referred to as Fellows for the remainder of this solicitation.
+
+EGFP awards are made to institutions to support graduate students in specific fields of study. Institutions that receive funding through this program will be eligible to recruit and support meritorious GRFP Honorable Mentions to attend their institutions and pursue a graduate degree. Support from the EGFP program is only available for those fields specified by the NSF Directorates and Office participating in the EGFP. Students must be recruited for and pursue degrees in the field(s) addressed in each EGFP proposal.
+
+As authorized in the CHIPS and Science Act (Sections 10325, 10387, 10383, and 10393), the EGFP program will help NSF to increase its investments in EPSCoR jurisdictions, while growing STEM talent and providing an opportunity to support the development of a ready workforce in critical and emerging technologies. EGFP investments in the future STEM workforce are intended to build capacity for STEM research in EPSCoR jurisdictions, which in turn is intended to promote innovation and economic growth in EPSCoR jurisdictions and across the Nation.
+
+II. Program Description
+
+STEM Topics and Areas Eligible for Consideration
+
+The following NSF Directorates and Office are participating in this solicitation:
+
+Directorate for Biological Sciences (BIO)
+
+Directorate for Computer and Information Science and Engineering (CISE)
+
+Directorate for Engineering (ENG)
+
+Directorate for Geosciences (GEO)
+
+Directorate for Mathematical and Physical Sciences (MPS)
+
+Directorate for Social, Behavioral, and Economic Sciences (SBE)
+
+Directorate for STEM Education (EDU)
+
+Directorate for Technology, Innovation and Partnerships (TIP)
+
+Office of Integrative Activities (OIA)
+
+Each participating Directorate and Office has identified specific topics or areas that align with their unique goals and the programs they support. These topics or areas may differ from the field or sub-field the Honorable Mention recipients previously listed in their GRFP applications.
+
+The topics and area that will be considered for funding by each of the participating Directorates and Office are described below.
+
+Directorate for Biological Sciences (BIO) : BIO will consider proposals that engage Fellows with research on any topic normally supported by the Directorate for Biological Sciences with an emphasis on proposals that combine biology and artificial intelligence, that advance the bioeconomy, and/or create solutions for a resilient planet. More information about BIO is available on the NSF.gov website. https://www.nsf.gov/dir/index.jsp?org=BIO .
+
+Directorate for Computer and Information Science and Engineering (CISE) : CISE will consider proposals that engage Fellows with research on any topic normally supported by the Directorate for Computer and Information Science and Engineering. More information about CISE is available on the NSF.gov website. https://new.nsf.gov/cise .
+
+Directorate for Engineering (ENG) : ENG will consider proposals that engage Fellows with research on any topic normally supported by the Directorate for Engineering. More information about ENG is available on the NSF.gov website. https://www.nsf.gov/dir/index.jsp?org=ENG .
+
+Directorate for Geosciences (GEO) : GEO will consider proposals that engage Fellows with research on any topic normally supported by the Directorate for Geosciences. More information about GEO is available on the NSF.gov website. https://new.nsf.gov/about/directorates-offices#geo .
+
+Directorate for Mathematical and Physical Sciences (MPS) : MPS will consider proposals that engage Fellows with research on any topic normally supported by the Directorate for Mathematical and Physical Sciences. More information about MPS is available on the NSF.gov website. https://www.nsf.gov/dir/index.jsp?org=MPS .
+
+Directorate for Social, Behavioral, and Economic Sciences (SBE) : SBE will consider proposals that engage Fellows in any field or fields of study supported by the Directorate for Social, Behavioral, and Economic Sciences. More information about SBE is available on the NSF.gov website. https://new.nsf.gov/sbe .
+
+Directorate for STEM Education (EDU) : EDU will consider proposals that provide support for graduate students pursuing a master's or doctoral degree in STEM education. This includes degrees offered within STEM disciplines that involve discipline-based education research. More information about EDU is available on the NSF.gov website. https://new.nsf.gov/edu .
+
+Directorate for Technology, Innovation and Partnerships (TIP) : TIP will consider proposals that engage Fellows in graduate curricula designed in collaboration with non-academic employers to address skills gaps in the ten key technology areas that are described in Sec. 10387 of the CHIPS and Science Act and correspondingly the focus of the Directorate. NSF recognizes that each of these key technology areas spans multiple fields of study and expects graduate program offerings to demonstrate such multi-disciplinary training. Graduate programs eligible for support must incorporate experiential learning and problem-solving components beyond traditional research activities typically expected of graduate programs in STEM fields. Industry- and policy-based experiential learning opportunities are strongly preferred. Proposals considered for funding by TIP must indicate how specific non-academic employers have been engaged in the development or modification of relevant graduate curricula. More information about TIP is available on the NSF.gov website. https://new.nsf.gov/tip/latest .
+
+Office of Integrative Activities (OIA) : The Established Program to Stimulate Competitive Research (EPSCoR) in OIA will consider proposals that provide support for graduate students pursuing a master's or doctoral degree in a STEM discipline aligned with an EPSCoR Research Infrastructure Improvement (RII) award within the jurisdiction. These submissions should focus on leveraging existing NSF EPSCoR RII investments to improve research, education, broadening participation, and economic development in the jurisdiction. Proposals should identify graduate student experiences that synergize with the currently funded RII project(s) in ways that engage in academic, government, and private sector partners, as appropriate. Currently funded RII projects may be found on NSF's website at this link , by exploring the websites of EPSCoR jurisdictions , or by contacting an NSF EPSCoR RII Program Director .
+
+Institutional Responsibilities
+
+Proposing institutions must be prepared to provide NSF EPSCoR Graduate Fellows with a high-quality graduate experience in the discipline(s) in which each Fellow will pursue a graduate degree. Institutions must provide clear evidence of an existing graduate program in the discipline(s) relevant to the proposal. Only proposals focusing on one or more of the topics or areas described above will be considered for funding. Other proposals will be returned without review. See the Full Proposal Preparation Instructions section for more information about the expected contents of a proposal.
+
+Institutions receiving awards through this solicitation will be required to use the NSF Education and Training Application (ETAP) system to recruit prospective Fellows. Institutions may recruit potential Fellows from the pool of highly qualified individuals who received Honorable Mention recognition from the NSF GRFP no more than three years prior to the proposal submission deadline.
+
+NSF conducts ongoing program monitoring and evaluation to determine how effective its programs are at achieving their goals. Proposing institutions must present a plan for ensuring that all project participants, including employees of the proposing institution, as well as supported Fellows, will comply with NSF's requests for information related to program-level evaluation, including requests to participate in surveys, interviews, and other methods for collecting evaluation data. Prospective Fellows offered funding through this program must be informed of and agree to this obligation prior to receiving support.
+
+Proposing institutions should note that for this solicitation, a graduate student Mentoring Plan, prepared in accordance with the guidance contained in the PAPPG, must be included in the Other Supplementary Documents section of the proposal. In submission of each annual and final annual project report, the PI or co-PI is certifying that every graduate student receiving substantial support through this program had an Individual Development Plan (IDP) during the reporting period. NSF defines "substantial support" as support provided to an individual that is equal to one person month or more during the annual reporting period for the NSF award. Other requirements in the PAPPG that apply to all NSF research proposals and awards apply to EGFP proposals and awards.
+
+Fellow Responsibilities
+
+Prospective Fellows will connect with institutions offering fellowships via the NSF Education and Training Application (ETAP) system. In addition to completing an ETAP application, Fellows will also be required to submit any additional documentation required by the institution(s) offering fellowships to be considered for support. Prospective Fellows must have received the distinction of Honorable Mention from the NSF GRFP program no more than three years prior to the deadline date for the institution's proposal to the EGFP program. Fellows can apply to graduate programs that differ from those listed as field or sub-field in their previous GRFP application. To be eligible for ongoing support, fellowship recipients must be enrolled full-time in an eligible master's or doctoral degree-granting program and make ongoing satisfactory progress toward completion of their graduate degree. Fellows must remain enrolled in a degree program in the same discipline as when they were admitted by institution. Full-time enrollment must be certified by the awardee institution's registrar (or equivalent). Fellowships are granted by the institution and not portable to another institution. If a Fellow transfers to another institution, the Fellow will forfeit continued access to the fellowship.
+
+III. Award Information
+
+Anticipated Type of Award: Continuing Grant
+
+Estimated Number of Awards: 5 to 35
+
+Anticipated Funding Amount: $17,000,000
+
+Proposals must request at least the amount of funding required to support three Fellows over three years ($477,000 total). It is anticipated that no proposals will request support for more than 20 Fellows over three years ($3,180,000 total). It is also anticipated that the average award size will allow five Fellows to be supported for three years ($795,000 total).
+
+Number of awards and award sizes are subject to the availability of funds and quality of proposals submitted.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) that are accredited, have a campus located in an eligible EPSCoR jurisdiction at the time of proposal submission, and offer at least one master's and/or doctoral degree in a STEM discipline aligned with the topical focus area(s) described in this solicitation.
+
+Who May Serve as PI:
+
+As of the submission deadline, PIs, co-PIs, or other Senior/Key personnel must hold primary, full-time, paid, and continuing appointments at an institution that is eligible to submit in response to this solicitation (see above), with exceptions granted for family or medical leave, as determined by the submitting institution. Individuals holding term-limited appointments are not eligible.
+
+Limit on Number of Proposals per Organization: 1
+
+Each submitting organization is limited to one proposal per annual competition. Potential PIs are advised to contact their institutional office of research (or equivalent) regarding processes used to select proposals for submission.
+
+Institutions interested in supporting Fellows in multiple topical focus areas must submit a single proposal that addresses all topical areas of interest.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual must not participate as PI, Co-PI, or Senior/Key Personnel on more than one proposal submitted for the same deadline.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

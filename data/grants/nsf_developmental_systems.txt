@@ -12,3 +12,150 @@ Status: Cleared
 Posted date (Y-m-d): 2011-08-15
 URL: https://www.nsf.gov/funding/opportunities/developmental-systems/pd11-1119
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Division of Integrative Organismal Systems Core Programs (IOS)
+
+I. Introduction
+
+The Division of Integrative Organismal Systems (IOS) supports research aimed at improving our understanding of organisms as integrated units of biological organization. The division welcomes diverse approaches to research addressing organismal questions, and especially encourages integrative and interdisciplinary perspectives on complex problems in organismal biology.
+
+The goal of the IOS Core Programs Track is to understand the forces behind form; to predict why organisms are structured the way they are and function as they do in a variety of developmental, social, physiological, and natural environmental contexts. Projects that innovatively apply approaches that combine experimentation, computation, and modeling, and which lead to new conceptual and theoretical insights and testable predictions about integrated organismal properties are encouraged. Research that integrates data across spatial/temporal/biological scales, leads to transformative methods, tools, and resources, and/or seeks breakthroughs in the understanding of complex traits and emergent properties of organisms (e.g., robustness, resilience) is also emphasized.
+
+The Integrative Research in Biology (IntBIO) Track invites submission of collaborative proposals to tackle bold questions in biology that require an integrated approach to make substantive progress. Integrative biological research spans sub-disciplines and incorporates cutting-edge methods, tools, and concepts from each to produce groundbreaking biological discovery that is synergistic, such that the whole is greater than the sum of the parts. The research should produce a novel, holistic understanding of how biological systems function and interact across different scales of organization, e.g., from molecules to cells, tissues to organisms, species to ecosystems and the entire Earth. Where appropriate, projects should apply experimental strategies, modeling, integrative analysis, advanced computation, or other research approaches to stimulate new discovery and general theory in biology.
+
+Considerations for both tracks:
+
+Broader Impacts : IOS recognizes that an understanding of organismal form and function has many potential applications to societal needs. Investigators are encouraged to consider these applications as Broader Impacts of the proposed work (e.g., bio-based technologies, impacts on the bioeconomy including applications to the production of food, fibers, and fuels, applications addressing environmental issues, conservation or applications to human health and welfare). However, research addressing the mechanisms of human disease or disease therapeutics is not supported by IOS, and such proposals will be returned without review.
+
+IOS continues to support projects that provide unique educational and training opportunities for the next generation of researchers, scientific educators and scientifically literate citizens. To address the Broader Impacts review criterion, proposals can contain the development of innovative educational, broadening participation, and outreach activities or substantive participation in existing institutional infrastructure for education, training and outreach with additional budget requested to support those activities. Successful proposals often demonstrate close integration of the scientific and educational goals.
+
+Budget and Scope :IOS supports smaller focused single investigator projects as well as larger team science. IOS encourages submission of projects across the full range of conceptual scales and durations (1-5 years), with associated budget requests commensurate with the scope, scale, and duration of the work. The division reminds proposers that there are no budget minimums, and it will continue to support both small-scale projects and larger requests as appropriate for the work proposed.
+
+II. Program Description
+
+With this solicitation, IOS core programs accept proposals into two Tracks, the Core Programs Track and the Integrative Research in Biology (IntBIO) Track.
+
+A. Core Programs Track
+
+Proposals are welcomed in all of the core scientific program areas supported by the Division of Integrative Organismal Systems, including projects that cross traditional disciplinary boundaries. IOS is organized into five clusters that contain the core scientific programs. Click on a cluster name to go to the cluster web page and learn more about each cluster and its programs.
+
+Biological questions, rather than techniques or approaches, should guide program selection.
+
+After reading the cluster and program descriptions, discuss any questions about the potential fit of a project to one of the clusters with the program director you believe is most closely associated with your field of interest. Please consult the IOS webpage for information about specific Program Directors associated with each program. This interaction can be a critical aspect for ensuring that your proposal is assigned to the most appropriate program for review.
+
+The IOS core clusters/programs participating in submissions to this solicitation are:
+
+Behavioral Systems Cluster
+
+The Behavioral Systems cluster contains the Animal Behavior Program.
+
+Developmental Systems Cluster
+
+Programs within the Developmental Systems Cluster are the Plant, Fungal and Microbial Developmental Mechanisms Program, the Animal Developmental Mechanisms Program, and the Evolution of Developmental Mechanisms Program.
+
+Neural Systems Cluster
+
+Programs within the Neural Systems Cluster are the Organization Program, the Activation Program, and the Modulation Program.
+
+Physiological and Structural Systems Cluster
+
+Programs within the Physiological and Structural Systems Cluster are the Symbiosis, Infection, and Immunity (SII) Program (formerly Symbiosis, Defense and Self-recognition), the Physiological Mechanisms and Biomechanics Program (PMB), the Integrative Ecological Physiology Program (IEP), and the NSF-NIFA Plant Biotic Interactions Program (PBI).
+
+Important Note: PBI is jointly managed by the NSF and USDA-NIFA. Proposals intended for PBI should be submitted directly through its solicitation which can be found on the PBI webpage along with the program description and contact information for its program directors.
+
+Plant Genome Research Program
+
+The Plant Genome Research Program (PGRP) supports genome-scale research and tool development to address challenging questions of biological, societal, and economic importance. Proposals intended for PGRP should be submitted directly through its solicitation which can be found on the PGRP program webpage along with additional guidelines and current program contacts.
+
+Note: you must select a program name on the Cover Sheet during submission. Proposals submitted to the core track do not require a prefix in the title.
+
+B. Integrative Research in Biology (IntBIO) Track
+
+The Integrative Research in Biology (IntBIO) Track invites submission of collaborative proposals to tackle bold questions in biology that require an integrated approach to make substantive progress. Integrative biological research spans sub-disciplines and incorporates cutting-edge methods, tools, and concepts from each to produce groundbreaking biological discovery that is synergistic, such that the whole is greater than the sum of the parts. The research should produce a novel, holistic understanding of how biological systems function and interact across different scales of organization, e.g., from molecules to cells, tissues to organisms, species to ecosystems and the entire Earth. Where appropriate, projects should apply experimental strategies, modeling, integrative analysis, advanced computation, or other research approaches to stimulate new discovery and general theory in biology.
+
+Proposals submitted to the IntBIO Track must span sub-disciplinary boundaries within the BIO Directorate. Projects suitable for review in a single existing BIO program should be submitted to that program and not to the IntBIO track.
+
+Proposers are strongly encouraged to contact a cognizant program director prior to submission to obtain advice on suitability of the project idea for the IntBIO Track.
+
+To be responsive to the IntBIO track, proposals must:
+
+Articulate a fundamental overarching biological question or technical challenge that is addressed either through a bold, integrative hypothesis- or question-driven research, and that aims to produce outcomes that are synergistic and have potential to reveal new principles underlying function or interaction of biological systems.
+
+Include a graphical illustration that effectively conveys how integration will be accomplished through interconnection among sub-disciplines, elements, or systems and how integrated strategies will lead to a synergistic outcome.
+
+Have an optimally configured collaborative investigative team that includes two or more investigators with different perspectives and expertise. The role of each team member must be clearly described and justified. Team members may be from a single organization or multiple organizations.
+
+Describe a training and education plan, as part of broader impacts, that involves training in integrative approaches to biological research.
+
+The IntBIO Track is common to each of the core research program solicitations in the Divisions of Environmental Biology, Integrative Organismal Systems, and Molecular and Cellular Biosciences. Proposals should be submitted to a program in one of these divisions. Proposals submitted to this track will be evaluated by co-review or joint review across two or more of these BIO programs.
+
+IntBIO Track proposals intended for the PGRP or PBI programs within IOS may submit to this solicitation rather than their respective solicitations for this track only .
+
+Note: You must select a program name on the Cover Sheet and proposal titles for this track should start with the designation "IntBIO:"
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 150
+
+Anticipated Funding Amount: $70,000,000
+
+IOS estimates that approximately $70,000,000 will be available for new and continuing awards per fiscal year. Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

@@ -10,3 +10,102 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2024-05-02
 URL: https://www.nsf.gov/funding/opportunities/rtg-research-training-groups-mathematical-sciences/nsf24-570
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Research Training Groups in the Mathematical Sciences (RTG)
+
+I. Introduction
+
+Recognizing the need for more participation by U.S. citizens, nationals and permanent residents in the mathematical sciences and related disciplines, the Research Training Groups in the Mathematical Sciences (RTG) program seeks to build support and infrastructure along the graduate career pathway. It aims to enhance mathematical sciences research training in the United States ensuring a well-prepared community that meets the needs of the nation.
+
+The RTG program aligns with the goals listed in the NSF's 2022-26 Strategic Plan https://www.nsf.gov/news/special_reports/strategic_plan/ . It specifically responds to Strategic Goal 1 to empower STEM talent to fully participate in science and engineering, and Strategic Objective 1.2 to grow a STEM workforce to advance the progress of science and technology. RTG aims to encourage and enable students to pursue careers in mathematics, statistics, engineering and science, to become the next cohort of research professionals, and to train successive generations.
+
+Research training offered through the RTG program is expected to have significant positive impacts for the trainees through enhanced engagement and accelerated progress in research activities, experience in collaborative research, and close professional mentorship.
+
+II. Program Description
+
+A. Goals
+
+The long-range goal of the Research Training Groups in the Mathematical Sciences (RTG) program is to strengthen the nation's scientific competitiveness by increasing the number of well-prepared U.S. citizens, nationals, and permanent residents who pursue careers in the mathematical sciences, be they in academia, government, or industry. A significant part of this goal is to increase the quality, the proportion, and the absolute number of U.S. advanced degree recipients in the mathematical sciences. The program's focus is on graduate training. In addition to faculty and graduate students, the teams may, but are not required to, include undergraduate and/or postdoctoral trainees.
+
+The RTG program is intended to create sustainable programmatic capacity at institutions as well as help stimulate and implement permanent positive changes in research training within the mathematical sciences in the U.S. Thus, it is critical that an RTG site adequately plan how to continue the pursuit of RTG goals when NSF funding terminates. Proposals should provide appropriate documentation of institutional support for such efforts in the Facilities, Equipment, and Other Resources document.
+
+B. Program Requirements
+
+An RTG project is required to be directed by a principal investigator, with at least two and no more than eleven additional senior personnel, who will collaborate in management and participate fully in the RTG activities. Because of the level of commitment expected from senior/key personnel, an individual cannot serve as PI or co-PI on more than one Research Training Groups proposal or award at a time.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 3 to 10
+
+The award size is $400,000 to $600,000 per year. See Section V.A.(5) for detailed budget information.
+
+Anticipated Funding Amount: $12,000,000
+
+Subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) accredited in, and having a campus located in the US, acting on behalf of their faculty members. For proposals submitted by a single U.S.-based IHE, with or without subawards, it is required that the proposing IHE grant a doctoral degree in the mathematical sciences. For collaborative projects involving separately submitted collaborative proposals, the lead institution must grant a doctoral degree in mathematical sciences. Non-lead proposals may come from U.S.-based IHEs that do not grant a doctoral degree in mathematical sciences.
+
+For proposals submitted by a single U.S.-based IHE, with or without subawards, it is required that the proposing IHE grant a doctoral degree in the mathematical sciences.
+
+For collaborative projects involving separately submitted collaborative proposals, the lead institution must grant a doctoral degree in mathematical sciences. Non-lead proposals may come from U.S.-based IHEs that do not grant a doctoral degree in mathematical sciences.
+
+Who May Serve as PI:
+
+No restrictions on Principal Investigators.
+
+At least two and no more than eleven additional senior/key personnel are required for project activities and management.
+
+For Collaborative projects, the lead institution must grant a doctoral degree in mathematical sciences.
+
+Participating trainees (undergraduates, graduate students, and postdoctoral associates) supported with NSF funds in RTG must be citizens, nationals, or permanent residents of the United States or its territories and possessions.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+Because of the level of commitment expected, an individual cannot serve as PI or co-PI on more than one Research Training Groups proposal or award at a time. This rule does not apply to individuals listed as Other Senior/Key Personnel.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

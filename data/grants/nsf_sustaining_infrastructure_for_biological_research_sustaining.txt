@@ -10,3 +10,102 @@ Status: Current but no longer receiving proposals
 Posted date (Y-m-d): 2020-10-02
 URL: https://www.nsf.gov/funding/opportunities/sustaining-sustaining-infrastructure-biological-research/nsf21-503
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Sustaining Infrastructure for Biological Research (Sustaining)
+
+I. Introduction
+
+Transformative discoveries in the biological sciences are often catalyzed by the development and dissemination of new research tools and methods. For such advancements to take place, research infrastructure needs to be supported at all stages of its life-cycle that includes: Innovation (the design of novel or greatly-improved research infrastructure), Capacity (the scaling of or major improvements to infrastructure), and Sustainability (continued operation of existing infrastructure). The Division of Biological Infrastructure (DBI) supports this life-cycle of research resources in biology by having three different programs focused on each of these important stages of development of research infrastructure in resources and services. The goals of the Sustaining program are aligned with the third stage in this cycle to advance contemporary biology in any research area supported by the Directorate for Biological Sciences at NSF.
+
+DBI is particularly interested in increasing the participation of underrepresented groups in biological research and education such as women, persons with disabilities, and underrepresented minorities [1] [2] , and those from geographically underrepresented areas in science, technology, engineering, and mathematics (STEM). Proposals submitted to any program described in this solicitation are strongly encouraged to involve PIs, co-PIs, postdoctoral fellows, students, and other personnel who are members of these groups. Proposers are also strongly encouraged to consider involving veterans of the U.S. Armed Forces as part of NSF's broader effort to promote veteran involvement in STEM research and education.
+
+Proposers should review the Introduction section of the PAPPG for a general description of research topics normally outside the scope of NSF funding such as disease, clinical, or drug related or other biomedically related research. Proposals to develop or provide infrastructure that is primarily to enable research in these excluded topics will not be eligible for support under this program and will be returned without review.
+
+[1] https://ncses.nsf.gov/pubs/nsf19304/digest/introduction
+
+[2] https://www.nsf.gov/od/oia/activities/ceose/reports/CEOSE_ReportToCongress_RP_FVmp_508.pdf
+
+II. Program Description
+
+The Sustaining Infrastructure for Biological Research Program (Sustaining) supports the continued operation of existing research infrastructure that advances contemporary biology in any research area supported by the Directorate for Biological Sciences (BIO) at NSF. The Sustaining Program focuses primarily on sustaining critical research infrastructure that is cyberinfrastructure or biological living stocks and that is broadly applicable to a wide range of researchers. Projects are expected to ensure continued availability of existing, mature resources that will enable important science outcomes achieved by users representing a broad range of research supported by BIO and its collaborating organizations.
+
+The Sustaining Program is an operation and maintenance funding opportunity, which differs from other programs in the Division of Biological Infrastructure in that it does not provide funds for research or development leading to new capabilities or features, methods, or tools.
+
+Competitive proposals will clearly describe the resource that will be sustained and present documentation of its past impacts in science and education and a compelling justification for why these impacts are expected to sustain or grow during the proposed award period.
+
+Requests for sustaining awards may not include funds for research or development leading to new capabilities, or features, but must be limited to activities and materials essential for maintaining the current level of functionality. Budgets must describe only those expenses to be covered with the NSF funds and may not reference expenses covered by other sources of funding. The budget justification should clearly identify how the NSF funds will be allocated to the major activities and deliverables identified in the proposal. Requests may include costs related to two general areas:
+
+Human resource costs of daily operations, updating technical components as required by external technology changes for instrumentation or cyberinfrastructure; scaling of codes, schemas and physical capacities as required to accommodate new users of existing functionality or expanded content; and costs of providing support and training to user communities.
+
+Costs associated with development and implementation of policies and procedures that shift some fraction of the cost burden onto revenue that is recovered directly from the members of user and stakeholder communities.
+
+This program serves all research areas supported by the BIO. Funds are limited, and individual awards may not be sufficient to cover 100% of the operating costs of a given resource. While institutional cost-share is not allowed, it is expected that resources supported under this program will make every effort to generate revenue through the development of a business plan that will spread some of its operating costs onto its user community or other funding sources in a manner that does not unduly restrict open and fair access for research, education and the public. Continued support through this program may be contingent on evidence of cost recovery efforts to reduce the dependency on direct NSF support for ongoing operations. In developing a business plan, PIs should be aware that proposals submitted to any NSF research program that rely on the use of infrastructure such as data repositories, collections, or computational services may include in their budget funds to cover the cost of certain fees associated with those resources (see NSF 19-069 , Effective Practices for Data, https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19069 ).
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 1 to 3
+
+Approximately 1-3 new awards will be made per year.
+
+Anticipated Funding Amount: $5,000,000
+
+Approximately $5 Million is anticipated for this activity. Funding levels for awards vary and are contingent upon availability of funds and demand for sustained resources.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research labs, professional societies and similar organizations in the U.S. associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or Co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

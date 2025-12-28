@@ -13,3 +13,140 @@ Status: Cleared
 Posted date (Y-m-d): 2023-07-31
 URL: https://www.nsf.gov/funding/opportunities/dmr-tmrp-division-materials-research-topical-materials-research/nsf23-612
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Division of Materials Research: Topical Materials Research Programs (DMR-TMRP)
+
+I. Introduction
+
+Materials Research is the field of science where physics, chemistry, materials science, and engineering naturally converge in the pursuit of the fundamental understanding of the properties of materials and the phenomena they host. Materials are abundant and pervasive, serving as critical building blocks in technology and innovation. Materials Research impacts life and society, as it shapes our understanding of the material world and enables significant advances spanning the range from nanoelectronics to health-related fields. The development and deployment of advanced materials are major drivers of U.S. economic growth.
+
+Research supported by the Division of Materials Research (DMR) focuses on advancing the fundamental understanding of materials, materials discovery, design, synthesis, characterization, properties, and materials-related phenomena. DMR awards enable understanding of the electronic, atomic, and molecular structures, mechanisms, and processes that govern nanoscale to macroscale morphology and properties; manipulation and control of these properties; discovery of emerging phenomena of matter and materials; and creation of novel design, synthesis, and processing strategies that lead to new materials with unique characteristics. These discoveries and advancements transcend traditional scientific and engineering disciplines. Projects supported by DMR are not only essential for the development of future technologies and industries that address societal needs, but also for the preparation of the next generation of materials researchers.
+
+II. Program Description
+
+This solicitation covers submission of proposals to DMR Topical Materials Research Programs (these are also variously known as Individual Investigator Award (IIA) Programs, or Core Programs, or Disciplinary Programs). Proposals are invited to the following Topical Materials Research Programs that are participating in this solicitation:
+
+Biomaterials (BMAT): [ Program Description ]
+
+Ceramics (CER): [ Program Description]
+
+Condensed Matter Physics (CMP): [ Program Description ]
+
+Electronic and Photonic Materials (EPM): [ Program Description ]
+
+Metals and Metallic Nanostructures (MMN): [ Program Description ]
+
+Polymers (POL): [ Program Description ]
+
+Solid State and Materials Chemistry (SSMC): [Program Description ]
+
+Please note that the Condensed Matter and Materials Theory (CMMT) program is NOT participating in this solicitation as it is governed by its own solicitation. Proposers to the CMMT program must apply through solicitation NSF 23-611 .
+
+Projects currently supported by DMR Programs can be found by using the NSF Awards Search engine at https://www.nsf.gov/awardsearch/advancedSearch.jsp .
+
+Important Additional Information:
+
+All proposals submitted to these DMR-TMRPs (other than the following exceptions) must be submitted through this solicitation, otherwise they will be returned without review.
+
+Exceptions are proposals through mechanisms that have their own solicitation, such as CAREER and RUI/ROA. CAREER proposals must be submitted to the CAREER program by the deadline date specified in the program solicitation. RUI/ROA proposals have no deadline: they should be submitted through the RUI/ROA solicitation but are subject to the same submission constraints as other proposals submitted to the DMR Topical Materials Research Programs.
+
+Proposals under the following special categories are also welcome through this solicitation:
+
+Grant Opportunities for Academic Liaison with Industry (GOALI) (see PAPPG Chapter II.F )
+
+Facilitating Research at Primarily Undergraduate Institutions ( RUI/ROA )
+
+Dear Colleague Letter: NSF and US-Israel Binational Science Foundation, NSF 20-094
+
+Dear Colleague Letter: United States-Ireland-Northern Ireland R&D Partnership, NSF 20-064
+
+Investigators are advised that the dates from April 15 th to June 15 th should, optimally, be avoided for submissions.
+
+Proposals that fall outside the scope and mission of the Division of Materials Research or the Synopses of the participating DMR-TMRPs will be returned without review. If prospective investigators have questions, they are encouraged to consult with the cognizant Program Officer(s) well in advance of submission.
+
+Prior to preparing any proposal for submission to the DMR TMRPs requesting funding through a discretionary mechanism, such as EAGER/RAPID, supplemental funding, or support for a conference/workshop, the PI must contact a TMRP Program Director to determine the appropriateness of the proposal for both the program and the particular type of proposal. Proposals of these types and supplement requests submitted without prior approval by a TMRP Program Director will be returned without review.
+
+Supplemental funding is intended only for unanticipated opportunities that arise during the course of the project. Projects anticipating the inclusion of Research Experiences for Undergraduates (REU), or Research Experiences for Teachers (RET) activities should include those as part of the research proposal. Exceptions include the Career-Life Balance initiative , MPS AGEP-GRS Dear Colleague Letter and MPS-GRSV Dear Colleague Letter .
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 250
+
+Anticipated Funding Amount: $66,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+See "Limit on Number of Proposals per PI or Co-PI" below.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+The NSF fiscal year begins on October 1 st and ends on September 30 th of the following year. The submission date of a proposal from an investigator, whether as PI or co-PI, to any of the programs covered by this solicitation cannot be within the same fiscal year as another proposal from the same investigator, whether as PI or co-PI, to any DMR-TMRP. A list of DMR-TMRPs can be found at https://www.nsf.gov/funding/programs.jsp?org=DMR , under "Topical Materials Research Programs." Failure to observe this submission constraint will lead to the offending proposal(s) being returned without review. This restriction also includes proposals under Grant Opportunities for Academic Liaison with Industry (GOALI), Facilitating Research at Primarily Undergraduate Institutions (RUI/ROA), Computational and Data-Enabled Science and Engineering (CDS&E), international collaborative research programs, as well as any other type of proposal submitted directly to the TMRPs. There are no limits to participating as Faculty Associate (as defined in PAPPG Exhibit II-3.A.2) on multiple proposals concurrently under review.
+
+Exceptions:
+
+In the rare case involving continued funding of two current DMR projects that are expiring in the same fiscal year an exception may be considered after consultation with the cognizant Program Officer(s).
+
+Proposals for EAGER, RAPID, RAISE, and conferences, as well as supplemental funding requests for existing grants, are not subject to the limitations in this solicitation and may be submitted any time after consultation with and approval from the cognizant Program Officer(s). EAGER/RAPID/RAISE and conference proposals, as well as requests for supplemental funding submitted without prior approval by a Program Officer will be returned without review.
+
+CAREER proposals are exempt from the limitation on the number of proposals per fiscal year, as are proposals to non-TMRP programs within DMR, such as Designing Materials to Revolutionize and Engineer our Future (DMREF), Materials Research Science and Engineering Centers (MRSEC), Partnerships for Research and Education in Materials (PREM), Materials Innovation Platforms (MIP), national facilities, and Research Experiences for Undergraduates (REU) sites. The number of proposal submissions to divisions of NSF other than DMR is not limited. Only proposals that have been withdrawn do not count against the submission limit.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

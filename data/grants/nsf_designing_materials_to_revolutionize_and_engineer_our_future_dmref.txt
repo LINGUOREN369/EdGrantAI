@@ -17,3 +17,250 @@ Status: Cleared
 Posted date (Y-m-d): 2024-11-04
 URL: https://www.nsf.gov/funding/opportunities/dmref-designing-materials-revolutionize-engineer-our-future/nsf25-508
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Designing Materials to Revolutionize and Engineer our Future (DMREF)
+
+I. Introduction
+
+DMREF is the primary program by which NSF supports the Materials Genome Initiative (MGI) . MGI recognizes the importance of materials science and engineering to the well-being and advancement of society and aims to "deploy advanced materials at least twice as fast as possible today, at a fraction of the cost." MGI contributes to American leadership in Advanced Manufacturing by supporting cross-sector and cross-disciplinary collaborations that open new avenues for innovation in efficiently solving national challenges through fundamental scientific research. Consideration of the full range of material characteristics, properties, and manufacturing processes needed to attain the desired cost and performance of products is integral to achieving the ultimate goal of MGI. Therefore, the MGI approach seeks to seamlessly integrate computation, experiment, and data to predict and control materials properties and to enable manufacturing of high-performance materials at low cost, thus fueling the successful discovery of new materials and their rapid deployment and incorporation into manufactured products and devices.
+
+The MGI will utilize challenges to help unify and accelerate adoption of the Materials Innovation Infrastructure through expansion and exploitation of capabilities in autonomous experimentation, artificial intelligence and machine learning, and robotics and automation to identify solutions to issues of national interest. These challenges will inspire and help grow an MGI-ready workforce. The MGI Challenges will be organized under the following areas: 1) Protecting and improving human health, 2) Delivering sustainable and resilient energy, 3) Thriving in extreme environments, 4) Enhancing structural performance, 5) Protecting the environment, 6) Propelling the information and communications technology revolution, and 7) Advancing Critical and Emerging Technology.
+
+Consistent with the 2021 MGI Strategic Plan , DMREF will support interdisciplinary teams of researchers, working synergistically in a “closed loop” fashion, to build the fundamental knowledge base needed to advance the design, development, and “manufacturability” (i.e., properties relevant to manufacturing, process-property relationships, property-performance metrics, potential pathways for scale-up, economic feasibility, supply-chain considerations, or life-cycle issues) of materials. MGI highlights three sets of goals:
+
+Unify the Materials Innovation Infrastructure (MII), a framework of integrating advanced modeling, computational and experimental tools, and quantitative data;
+
+Harness the power of materials data; and
+
+Educate, train, and connect the materials research and development workforce.
+
+II. Program Description
+
+This solicitation is open to all materials research topics and is responsive to the recent National Academies 2023 Report ‘NSF Efforts to Achieve the Nation’s Vision for the Materials Genome Initiative’. DMREF reflects the Administration’s priorities for strengthening American leadership in technologies and industries of the future that are critical to the nation’s health, economic prosperity, national security, and scientific enterprise. DMREF supports fundamental science and engineering research important for enabling emerging technologies including microelectronics , artificial intelligence , quantum information science , advanced manufacturing , and biotechnology . DMREF is supportive of OSTP’s multi-agency research and development priorities including clean energy technologies and infrastructure. Furthermore, DMREF aligns with national priorities for defense and homeland security, information technologies and high-performance computing, critical minerals and sustainability, human health and welfare. DMREF supports the development of digital twins for materials and of critical and emerging technologies as have been identified in a report by the National Science and Technology Council (NSTC).
+
+Unifying the Materials Innovation Infrastructure
+
+DMREF will support activities that significantly accelerate the materials discovery-to-use timeline by building the fundamental knowledge base needed to advance the design, development, or manufacturability (i.e., properties relevant to manufacturing, process-property relationships, property performance metrics, scalable synthesis routes, economic feasibility, supply chain considerations, or life cycle issues) of materials with desirable properties or functionality. Accordingly, DMREF will drive the integration of experiment, theory, computation, data analytics, and artificial intelligence, as well as the development of new tools, processing approaches, and infrastructure to achieve its objective.
+
+The 2021 MGI Strategic Plan re-envisioned the linear Materials Development Continuum described in the original Strategic Plan to promote integration and iteration of knowledge across the entire path to deployment. The complexity and challenge of activities addressed by this initiative require a transformative interdisciplinary approach to discovering new materials or states of matter, advancing understanding of materials properties and the underlying chemistry / physics phenomena, predicting and controlling materials properties and their function (through chemical structure, applied fields, or other means), and informing the design of material systems. DMREF will undertake this challenge by building a vibrant research community, forming interdisciplinary teams to conduct research in a “closed-loop” fashion, providing ready access to materials data, and leveraging data science and machine learning while educating, training, and promoting the future MGI workforce.
+
+The integrated research activities could involve some combination of:
+
+Strategies to advance fundamental knowledge related to materials design and manufacturability through testing methodology (which may include novel synthetic approaches, innovative processing, or advanced characterization techniques).
+
+Theory, computation / simulation, or modeling that leverage machine learning (ML), artificial intelligence (AI), data mining, or sparse approximation to predict behavior or assist in simplifying the analysis of multidimensional input data.
+
+Automated, high-throughput, and/or autonomous experimentation that accelerate the empirical search of materials space with laboratory systems leveraging principles of cyber-physical systems.
+
+Validation through synthesis, growth, processing, characterization, and/or device demonstration.
+
+The proposed research must involve a collaborative and iterative 'closed-loop' process wherein theory guides computational simulation, computational simulation guides experiments, and experimental observation further guides theory. This collaborative and iterative process will require a team of PIs with the requisite expertise. Accordingly, projects proposed to this solicitation will be directed by a team of at least two Senior Personnel with complementary expertise.
+
+Creativity and innovation are encouraged to obtain the maximum predictive power or fundamental insight through computation, data-intensive methods, and theory to achieve the goals of DMREF. Theoretical and computational efforts may include 1) models that apply across or at multiple scales of length (such as electronic, atomic, molecular, nano-, micro-, and meso-scale) or time; 2) different chemistry or physics models to capture specific processes or phenomena; 3) advanced simulations of materials properties (including properties in conjunction with new device functionality); and 4) statistical models / algorithms, ML, or AI methods. Recent reports have addressed the use of artificial intelligence and digital twins to accelerate the development and implementation of materials and manufacturing innovations.
+
+Harnessing the Power of Materials Data
+
+The United States Office of Science and Technology Policy (OSTP) issued a memorandum ensuring free, immediate, and equitable access to federally funded research. DMREF aligns with the NSF Public Access Plan . Scientific data underlying peer-reviewed scholarly publications resulting from federally funded research should be made freely available and publicly accessible by default by time of publication. Immediate public access to America’s research publications and data will serve the collective goals of accelerating scientific discovery, strengthening translation and policy making, and lowering the barriers of access to science for all of America.
+
+The document ‘Transforming Science Through Cyberinfrastructure: Coordination Services’ presents NSF’s blueprint for national coordination services including allocation and user support for NSF’s high performance and high throughput computing infrastructure. A 2017 report ‘Building a Materials Data Infrastructure’ provides actionable recommendations for addressing challenges associated with harnessing the vast amounts of data generated by increasingly sophisticated experimental and computational tools. Accordingly, DMREF will support activities that develop a sustainable and broadly useful data infrastructure to accelerate materials research and bolster the materials innovation infrastructure.
+
+Consistent with the MGI Strategic Plan , DMREF will support activities that advance the development of a national materials data network by promoting:
+
+a required data management and sharing plan that is responsive to the FAIR (Findable, Accessible, Interoperable, and Reusable) principles, and also extensible, scalable, and sustainable;
+
+the development, maintenance, and deployment of reliable, interoperable, and reusable software for the next-generation design of materials; and
+
+the establishment of new collaborative capabilities for managing large, complex, heterogeneous, distributed data supporting materials design, synthesis, and longitudinal study.
+
+A DMREF proposal may include data and/or software cyberinfrastructure development to address needs of the community. These should be commensurate with and support the scientific goals of the DMREF project. Larger scale cyberinfrastructure development efforts may be appropriate for the Cyberinfrastructure for Sustained Scientific Innovation ( CSSI ) program.
+
+DMREF projects should leverage existing cyberinfrastructure wherever appropriate and possible. Examples include, but are not limited to, the Open Knowledgebase of Interatomic Models ( OpenKIM ), The Materials Project , cyberinfrastructure created through CSSI , the Autonomous Research System ( ARES ), the Automatic FLOW for Materials Discovery ( AFLOW ) and Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support ( ACCESS ). Additionally, the National Artificial Intelligence Research Resource ( NAIRR ) Pilot aims to connect US researchers and educators to computational, data, and training resources needed to advance AI research that employs AI.
+
+DMREF proposals must provide a plan for comprehensive data management that ensures transparency, data sharing, and open-source software, including an explicit statement of which open-source license(s) and repositories, if applicable, will be used. This requires that the data and findings of any DMREF grant are made available in a robust and dependable way that outlasts the lifetime of the project and is responsive to the FAIR principles where all generated data is Findable, Accessible, Interoperable, and Reusable.
+
+Educate, Train, and Connect the Next-Generation Workforce
+
+Broader impacts associated with DMREF projects encompass both the scientific impact on society and the development of human resources. NSF’s first Strategic Goal is to empower STEM talent to fully participate in science and engineering. DMREF encourages input and participation from the full spectrum of talent that society has to offer which includes underrepresented and underserved communities. Aligning with Goal 3 of the 2021 MGI Strategic Plan , DMREF promotes education, training, and workforce development that can communicate across all components of the materials development continuum.
+
+DMREF aligns with America's Strategy for STEM Education , and more specialized plans including those for workforce development in quantum information science and semiconductors . Building a world-class materials science and engineering workforce proficient in the tools and techniques necessary to accelerate the discovery, development, and deployment of advanced materials is one of the three primary goals of the MGI Strategic Plan . Students who will go on to become experts in materials synthesis, processing, or manufacture must have enough training to understand materials modeling and theory, while modelers and theorists must understand the vocabulary and challenges of those who make, characterize, and implement materials solutions. Considering DMREF's emphasis on an integrated approach to materials science and engineering research, cross-disciplinary educational and public outreach activities are encouraged. As such, proposals are strongly encouraged to describe substantial efforts to enhance the development of a next-generation workforce that is prepared to advance materials science and engineering research with an integrated approach consistent with the aims of the MGI. A 2019 Report addresses the strategic plan's goals for education and training initiatives which are critical for achieving MGI's national objectives.
+
+Cloud Computing Resources
+
+Proposals may request cloud computing resources to use public clouds such as Amazon Web Services (AWS), Google Cloud Platform (GCP), IBM Cloud, and Microsoft Azure. Cloud computing resources described in proposals may be obtained through an external cloud access entity ( CloudBank ) supported by NSF.
+
+Proposers should describe this request in a Supplementary Document. The total budget of the project, including any cloud computing resource request from CloudBank , may not exceed the budget limit for this solicitation. See Section V for further details.
+
+If incorporating this request into the proposal, a proposer should include “CloudAccess” (one word without space) as a keyword on the Project Summary page, at the end of the Overview section (before the section on Intellectual Merit).
+
+Where to Direct Your Proposal
+
+The DMREF program will support, but is not limited to, efforts that span research in materials, chemistry, physics, mathematics, statistics, biology, computer science, and engineering, thereby bridging Program and Divisional interests. Proposal review will be coordinated and funded among the participating NSF Programs, Divisions, and Offices, as appropriate.
+
+In Step 2 (Where to Apply) in the proposal setup wizard in Research.gov, PIs should direct the proposal to the participating Directorate and Division with which the topic of the proposal is most closely aligned. Secondary division(s) may be selected, as appropriate.
+
+Special Instructions for Directing Proposals to the Division of Information & Intelligent Systems (IIS)
+
+In recent years the research community has witnessed a rapid increase in the impact of AI on materials research. Increased computing power, the growing availability of large materials datasets, and algorithmic advances in ML enable multidisciplinary acceleration of materials research.
+
+Proposals that incorporate substantial collaboration with AI, and potentially in other areas of information and intelligent systems (e.g., data science, human-computer interaction) are encouraged to identify IIS as a secondary division to consider the proposal. Co-funding from IIS may be available to teams that present an ambitious plan for incorporating use-inspired or foundational AI into the research plan. DMREF-IIS awardees will be encouraged to address and report on a set of AI-specific requirements as a condition of the award.
+
+Special Instructions for Directing Proposals to the Division of Innovation and Technology Ecosystems (ITE)
+
+The 2021 MGI Strategic Plan re-envisioned the linear Materials Development Continuum described in the original Strategic Plan to promote integration and iteration of knowledge across the entire path to deployment. When integrated with design, discovery, and development of materials or their properties, the Directorate of Technology, Innovation and Partnerships (TIP) is interested in co-funding DMREF projects submitted to this funding opportunity that demonstrate in a significant manner either (a) technology prototyping / validation, starting in the lab and transitioning to a relevant practical environment; and/or (b) technology or system prototype deployment, testing and/or demonstration at-scale in a practical (potentially operational) environment. Such projects should also incorporate either (1) a clear domestic talent development strategy and/or (2) feature new partnerships with federal agencies, industry, and/or countries.
+
+Partnerships
+
+The MGI Strategic Plan recognizes the importance of partnerships among universities, industries, Federal Agencies, and National and Federal Laboratories to provide opportunities for real world experience in applying the MGI approach. Furthermore, this Plan recognizes the importance of identifying complementary international efforts for collaboration. A National Academies Report also describes opportunities for national and international partnerships with DMREF teams.
+
+While not required, DMREF projects may benefit from collaboration with NSF-supported MGI-related efforts (e.g., Material Innovation Platforms ) and facilities [e.g., National High Magnetic Field Laboratory ( NHMFL ), ChemMatCARS , and Center for High Energy X-ray Sciences ( CHEXS )].
+
+Considering the importance to revitalize American manufacturing, collaborations with industrial partners are encouraged. If there are strong collaborations with industry, Grant Opportunities for Academic Liaison with Industry (GOALI) can be used in conjunction with this effort. See PAPPG Chapter II.F.5 for additional information and guidance about GOALI.
+
+Collaborative Proposals involving two or more academic institutions may also be appropriate ( PAPPG Chapter II.E.3).
+
+Opportunity for PIs to Engage with Federal and International Partners
+
+This solicitation provides an opportunity for DMREF teams to collaborate with MGI-related efforts supported by DMREF’s federal and international partners to 1) bolster the scientific/engineering aspects of the critical iterative feedback loop to accelerate materials research consistent with MGI principles, 2) facilitate the translation of fundamental materials research toward application, and 3) provide educational, training, and workforce development opportunities.
+
+Federal Partners
+
+This solicitation offers a specific opportunity to collaborate with the following federal partner agencies: Air Force Research Laboratory (AFRL) which supports the United States Air Force (USAF) and the United States Space Force (USSF), including the Air Force Office of Scientific Research (AFOSR), the United States Combat Capabilities Development Command (DEVCOM) Army Research Laboratory (ARL) and Ground Vehicle Systems Center (GVSC), the Department of Energy (DOE) Office of Energy Efficiency & Renewable Energy (EERE), Office of Naval Research (ONR), and National Institute of Standards and Technology (NIST).
+
+Federal personnel must not be listed on the Cover Sheet or designated as Senior/Key Personnel on the NSF proposal. Letters of Collaboration are not required from DMREF’s federal partners, but the collaborating PI must be identified in the Project Description which must thoroughly explain how this collaboration would benefit both the DMREF team and federal partner in advancing the goals of the project. The Management Plan must describe how this activity would be implemented. The Budget may include funds, such as student support or travel, to enable these activities. No funds may be budgeted, or sub-awarded, to the federal partner: these personnel will participate as non-NSF funded collaborators. Partnership with other federal agencies is not required and no funding preference will be given to proposals simply because of collaboration with federal partners. Partnership with multiple federal agencies / investigators is permitted.
+
+Air Force Research Laboratory (AFRL), supporting the United States Air Force (USAF) and the United States Space Force (USSF), including the Air Force Office of Scientific Research (AFOSR)
+
+This solicitation supports partnership with the AFRL, supporting both the USAF and USSF under the Department of the Air Force (DAF). The AFRL's Materials and Manufacturing Directorate ( AFRL/RX ), which develops materials, processes, and advanced manufacturing technologies in support of the DAF needs, will provide the primary AFRL interface with DMREF, although this solicitation is open to partnership with PIs from any AFRL Directorate and the Air Force Office of Scientific Research (AFOSR). Teams that exercise this option must agree to participate in biennial meetings at AFRL headquarters in Dayton, OH, and funds may be budgeted for this purpose. ‘AFRL’ must be included as a Key Word in the Project Summary.
+
+Department of Energy (DOE) Office of Energy Efficiency & Renewable Energy (EERE)
+
+DOE’s EERE is working to build a clean energy economy that involves energy efficiency in buildings and industry, renewal energy, and sustainable transportation and fuels. Although this solicitation is open to partnership with PIs from any EERE Office, EERE’s primary interface with DMREF is through its Energy Materials Network ( EMN ), which aims to accelerate solutions to the nation’s toughest materials challenges in the energy sector. Teams that exercise this option must agree to participate in technical review meetings, and funds may be budgeted for this purpose. ‘EERE’ must be included as a Key Word in the Project Summary.
+
+Office of Naval Research (ONR)
+
+ONR's mission is to plan, foster, and encourage scientific research to maintain future naval power and preserve national security. ONR’s primary interface with DMREF will be through their Division of Aerospace Science Research that supports research in the areas of Aerospace Structures and Materials , Propulsion Materials , Hypersonic Materials , and Energetic Materials . DMREF teams that wish to partner with ONR are encouraged to visit ONR program pages and contact the ONR Program Officer in the area of their interest. The Program Officer contacted should be documented in the proposal. ‘ONR’ must be included as a Key Word in the Project Summary.
+
+National Institute of Standards and Technology (NIST)
+
+NIST supports the MGI through its cross-cutting Materials Genome Program, coordinated through the Material Measurement Laboratory (MML). Information about NIST’s efforts in support of the MGI, including the many people and programs involved, can be found at the NIST MGI website . ‘NIST’ must be included as a Key Word in the Project Summary.
+
+US Combat Capabilities Development Command (DEVCOM) Ground Vehicle Systems Center (GVSC)
+
+DEVCOM-GVSC has the mission to develop, integrate, demonstrate, and sustain ground vehicle systems capabilities to support Army modernization priorities and improve readiness. The Ground Vehicle Materials Engineering Directorate provides materials technologies and engineering support to ground systems from cradle to grave to enhance warfighter readiness, including tactical, logistics, and combat systems. Information about interests and competencies can be found here . Areas of research include damage tolerant structural materials, design and process co-optimization and advanced manufacturing. ‘GVSC’ must be included as a Key Word in the Project Summary.
+
+US Combat Capabilities Development Command (DEVCOM) Army Research Laboratory (ARL)
+
+DEVCOM-ARL provides foundational research in support of U.S. Army modernization, focused on disruptive science and technology for the long term by performing research that answers the hardest S&T questions for Army capabilities. ARL executes research in 11 Foundational Research Competencies and 51 Core Competencies. The Materials and Manufacturing Core Competencies focus on advanced materials, materials systems and manufacturing science proving the Soldier with novel, unique, and affordable capabilities through materials and manufacturing science to enable creation of future transformational capabilities. Research opportunities may include: (1) Novel building-block materials for disruptive protection, (2) Multi-functional and adaptive materials with tunable and extraordinary properties, (3) Interactions between materials and intense energy fields (magnetic, electric, pressure, etc.), (4) Materials and interfaces in energy storage and battery technologies with emergent characteristics (safety, damage tolerance, charge-rate, energy density, temperature resilience, etc.), (5) Materials for energy conversion processes and technologies emphasizing electrical power generation or long-term energy storage, and (6) Novel materials and mechanisms for advanced power conversion, power transfer, and solid-state thermal management. ‘ARL’ must be included as a Key Word in the Project Summary.
+
+International Partners
+
+DMREF aligns with the opportunities and grand challenges outlined in NSF’s 2022-2026 Strategic Plan . Strategic Objective 3.2 is to lead globally by cultivating a global Science and Engineering community based on shared values and strategic cooperation.
+
+Recognizing the potential for international collaboration to accelerate materials research and education objectives, NSF has partnered with the United States-Israel Binational Science Foundation (BSF), India’s Department of Science and Technology (DST), the Natural Sciences and Engineering Research Council of Canada (NSERC), and Germany’s Deutsche Forschungsgemeinschaft (DFG) for this solicitation.
+
+International personnel must not be listed on the Cover Sheet or designated as Senior/Key Personnel on the NSF proposal. Letters of Collaboration are not required from investigators associated with DMREF’s international funding partners, but the collaborating PI must be identified in the Project Description which must thoroughly explain how this collaboration would benefit both the DMREF team and international partner in advancing the goals of the project. The Management Plan must describe how this activity would be implemented. The budget may include funds, such as student support or travel, to enable these activities. No NSF funds may be budgeted, or sub-awarded, to the international partner: these personnel will participate as non-NSF funded collaborators. International partners are not required, and no funding preference will be given to proposals simply because of collaboration with international partners. Only one international partner (country) is permitted per proposal.
+
+DMREF-Israel Collaborative Proposals
+
+BSF is an organization owned by the two governments with the aim of facilitating scientific relations between them. The Israeli component of the United States-Israel Collaborative Projects will be funded by the BSF using special funds provided by the Israeli government.
+
+Israeli researchers applying under this heading must meet BSF eligibility requirements and must apply through an institution eligible to receive BSF funding. Please see BSF eligibility rules BSF eligibility rules and follow guidelines outlined in Dear Colleague Letter NSF 20-094 : Special Guidelines for Submitting Collaborative Proposals under National Science Foundation (NSF) and United States-Israel Binational Science Foundation (BSF) Collaborative Research Opportunities.
+
+DMREF-India Collaborative Proposals
+
+The Indian component of the United States-India Collaborative Projects will be funded by DST. Indian investigators applying under this heading must meet eligibility requirements as given in the call for proposals on the DST website. DST investigators involved in the implementation of two or more projects that were previously supported by the DST International Group and that are not expected to be completed by 31 December 2025 are not eligible to be a member of a research team. This limitation does not apply to projects supported by other divisions or groups within DST.
+
+DMREF-Canada Collaborative Proposals
+
+The Canadian component of the United States-Canada Collaborative Projects may be supported by NSERC, subject to the availability of funds. Canadian investigators applying under this heading must meet NSERC eligibility requirements and submit a simplified application to the NSERC Alliance program. Please see NSERC eligibility rules and the NSERC-DMREF website for more details.
+
+DMREF-Germany Collaborative Proposals
+
+The German component of the United States-Germany Collaborative Projects will be funded by DFG. German investigators applying under this heading must meet DFG eligibility requirements. Please see DFG eligibility rules . Proposals involving private companies whose participation requires the conclusion of a cooperation agreement in accordance with the rules of DFG are not eligible.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 20 to 25
+
+The number of awards will depend on the availability of funds and the quality of the proposals.
+
+Anticipated Funding Amount: $40,000,000
+
+Anticipated funding amount is pending availability of funds.
+
+Anticipated funding amount is pending availability of funds. These funds will be partitioned among the participating Divisions (funds are not pooled), each of which are expected to support proposals of scientific interest to that Division. Proposals on topics situated at the boundaries between two or more Divisions may be co-reviewed by those Divisions. Such proposals, if highly ranked, may be eligible for co-funding by those Divisions. It is anticipated that the majority of projects will involve co-funding.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Who May Serve as PI:
+
+By the submission deadline, any PI, co-PI, or other Senior/Key project personnel must hold either:
+
+A tenured or tenure-track position, or
+
+A primary, full-time, paid appointment in a research or teaching position with exceptions granted for family or medical leave, as determined by the submitting institution.
+
+An investigator who is a PI or co-PI of a DMREF award based on a proposal submitted in response to the previous DMREF Solicitation ( NSF 23-530 ) cannot be a PI or co-PI for this DMREF solicitation, but may serve as Senior/Key Personnel. Proposals violating this limitation will be returned without review.
+
+Limit on Number of Proposals per Organization: 5
+
+Each organization is limited to serving as lead on five (5) DMREF proposals. In the event that an organization exceeds this limit, the first five proposals will be accepted based on their times of submission, whereas the rest of the proposals will be returned without review, without exception. There is no limit on the number of proposals in which an organization may serve in a Collaborative, non-lead role.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+No individual may appear as Senior/Key Personnel (PI, Co-PI, Faculty or Other Senior/Key Personnel) on more than one (1) DMREF proposal submitted in response to this solicitation. In the event that an individual exceeds this limit, any DMREF proposal submitted to this solicitation with this individual listed as Senior/Key Personnel after the first DMREF proposal is received at NSF will be returned without review, without exception. Changes in investigator roles post-submission to meet the eligibility requirements will not be allowed. It is the responsibility of the submitters to confirm that the entire team is within the eligibility guidelines.
+
+Individuals from DMREF's international (or federal) partners should not be listed on the cover sheet of the NSF proposal and are not considered NSF Senior/Key Personnel. An individual from Israel may participate in only one DMREF-BSF proposal. Investigators from India may participate in only one DMREF-DST proposal as a DST PI. Co-PIs from India can be involved in up to two DMREF-DST proposals. Investigators from Canada may participate in only one DMREF-NSERC proposal as the Applicant (Canadian principal investigator) but may be co-applicants (co-PI) on more than one project. There is no limit to the number of DMREF-DFG projects to which a German investigator can participate.
+
+Additional eligibility criteria apply. Please see the full text of this solicitation for further information.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

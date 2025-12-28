@@ -10,3 +10,120 @@ Status: Cleared
 Posted date (Y-m-d): 2024-03-22
 URL: https://www.nsf.gov/funding/opportunities/fdt-biotech-foundations-digital-twins-catalyzers-biomedical/nsf24-561
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Foundations for Digital Twins as Catalyzers of Biomedical Technological Innovation (FDT-BioTech)
+
+I. Introduction
+
+Digital twins offer tremendous potential to revolutionize healthcare delivery by enabling data-informed decision-making under uncertainty. The National Academies of Science, Engineering and Medicine (NASEM) published a report in 2023 entitled “Foundational Research Gaps and Future Directions for Digital Twins.” This report defines a digital twin as “a set of virtual information constructs that mimics the structure, context, and behavior of a natural, engineered, or social system (or system-of-systems), is dynamically updated with data from its physical twin, has a predictive capability, and informs decisions that realize value”. In addition, this report recognizes that in the healthcare sciences such virtual representations of human physiology and pathology have the potential to enable novel pathways for the development and evaluation of new biomedical technologies. Achieving this vision requires a convergent research approach that engages disciplines spanning mathematics, statistics, biomedical engineering, and computational sciences to address the broad range of emerging needs for developing foundational concepts behind digital twins. This anticipated paradigm shift hinges on fundamental scientific and engineering breakthroughs by interdisciplinary teams for developing, validating, and sharing human digital twin frameworks, capable of integrating data from individuals, populations, and devices to catalyze new discoveries and innovation in healthcare systems.
+
+The Foundations for Digital Twins as Catalyzers of Biomedical Technological Innovation (FDT-BioTech) program aims to accelerate innovations in biomedical technologies through development of principled mathematical, statistical, and engineering foundations for digital twins and synthetic human models in healthcare applications. The specific focus of FDT-BioTech is on digital, in silico models that could be used in the evaluation of medical devices and to advance regulatory sciences. The work is also expected to contribute more broadly to the development and implementation of human digital twins. This FDT-BioTech program provides an opportunity to form cohesive collaboration teams including mathematicians, statisticians, biomedical engineers, computer scientists, physicians, and experts from other domains. This collaboration will advance our understanding of foundational mechanisms behind computational representations of physiologic systems; verification, validation, and uncertainty quantification in a biomedical context; transferability, generalizability, and robustness; ethics, security, and privacy; and validation and sharing mechanisms, particularly in terms of regulatory relevance.
+
+II. Program Description
+
+This interagency solicitation is a collaboration between the U.S. National Science Foundation (NSF), National Institutes of Health (NIH) and Food and Drug Administration (FDA). The Foundations for Digital Twins as Catalyzers of Biomedical Technological Innovation (FDT-BioTech) supports innovative and transformative research to advance the mathematical, statistical, and engineering approaches underpinning digital twins in biomedical and healthcare domains ultimately enabling unique tools for innovative evaluation of novel emerging technology that can potentially de-risk therapeutic, biologic, and medical device development and accelerate the introduction of safe and effective medical technologies for improved patient outcomes. Additionally, the emerging concepts of digital twins demonstrate a high potential to revolutionize preclinical and clinical research through reliable in silico investigations, as well as transform clinical practice by providing a framework for patient monitoring, management, and optimal decision making.
+
+Furthermore, collectively, digital twins can be used to develop digital cohorts for accelerating innovation in biomedical technology. For instance, ensembles of digital twin humans could allow for on-demand enrollment of digital cohorts and pipelines for development, tuning, testing, and monitoring in the digital world. Digital study populations can display the variability observed in human populations, including under-represented subgroups and rare conditions, thereby addressing the fundamental problem of algorithmic and other biases which remains inaccessible with current paradigms. Ultimately, leveraging digital models of patients, disease processes, and medical devices is an agile modern approach to technological development and represents a paradigm shift in the development and evaluation of medical products and new technologies. However, achieving this vision hinges on fundamental advances in mathematics, statistics, computational sciences, and engineering.
+
+Note: Projects may leverage virtual representations at multiple scales including a single physiologic or pathologic system, multiple systems, whole-humans, or populations; and be patient-specific or synthetically-derived. Virtual representations may include artificial intelligence (AI), first-principles, mechanistic, or empirical models. The virtual representations should be capable of interfacing with medical technologies and thus may include virtual representations of medical devices.
+
+The rationale for FDT-BioTech is the current knowledge gaps that obstruct the development and use of digital twins in biomedical and other domains. Filling this gap requires novel crosscutting interdisciplinary approaches, where mathematical and statistical foundations play a pivotal role. Some examples of new developments in the foundation of digital twins with strong potential to spur new advances in biotechnology include but are not limited to the following:
+
+Computational representations of physiological systems at appropriate scales: The virtual representation of real-world physiology is at the core of a human digital twin. The human body is a dynamic and complex system whose behaviors are extremely difficult to model and predict. Tools to adequately build computational representations are lacking. New mathematical, statistical and machine learning methods are needed to enable novel computationally efficient pathways for the integration of prior information into the systematic combination of physical data and their digital counterparts. These strategies may include hybrid modeling approaches – combining mechanistic models, machine learning, and data-driven models – and surrogate models – statistical data-fit models, reduced order models, and simplified models. Furthermore, these models must be capable of assimilating dynamic multi-modal data at different spatial and temporal scales, dynamically updating and adapting, coupling multiphysics systems, and operating with limited data or accounting for extrapolation. These requirements may necessitate new model management workflows including assessing model evolution and drift. Understanding the tradeoffs associated with model and computational choices will increase confidence in predictive insights and digital twin-informed decision making. Moreover, digital twins not only integrate data streams from their physical twin but also data and outcomes from similar physical counterparts. New mathematical, statistical and machine learning methods are needed that could enable novel computationally efficient pathways for integration of prior information into the systematic combination of physical data and their digital counterparts.
+
+Verification, Validation, and Uncertainty Quantification (VVUQ): Appropriate verification, validation, and uncertainty quantification (VVUQ) are essential to build confidence and trust in digital twins. The complexity of the digital twin ecosystem may require new and advanced strategies and workflows that consider VVUQ as a continuous process. New data collection technologies (quality, source, structure) may affect algorithm or solution verification. Further, the state of the physical twin will evolve over time; and new strategies are needed to ensure the virtual representation accurately reflects these changes (i.e., adaptive model validation). The current lack of evidence of digital twin predictive capabilities adversely impacts the use of digital twins in the healthcare domain. There is a critical need for understanding the confidence interval of digital twin outputs while accounting for various types of uncertainties including modeling uncertainties, measurement and data uncertainties, and process uncertainties. One benefit of digital twins is the ability to test what-if scenarios, such as the performance of a therapeutic, biologic, or diagnostic device. However, to harness this potential, the outputs from the digital twin should be representative of the physical twin’s response (i.e. commutable) even when based on unseen data or extrapolation. New approaches, including but not limited to tools for causal inference, covariate adjustment, extreme value analysis, and neural solvers of partial differential equations, are needed for assessment of the digital twin utility in a broad range of settings.
+
+Transferability, Generalizability and Robustness : Most digital twins are designed with a particular purpose in mind. To leverage these digital twins for new purposes or scenarios (i.e. testing novel medical technologies), new techniques and tools are required to quantify and improve the transferability of digital twin predictions. There is also a need for techniques to advance the generalizability of evaluation findings on synthetic data from digital twin models to findings on patient data, including performance on various population subgroups. Another fundamental question is associated with the analysis of the robustness of the digital twin models, so that the medical devices designed and evaluated using digital twins are ensured to exhibit the expected standards of safety and effectiveness.
+
+Ethics, Security, and Privacy : Ethics, security, and privacy are critical to the success of digital twin ecosystems; and include fidelity and reliability of the models, security and access to data, recognition that data and models built on that data may be biased, and ethical use of the data and model outputs. The current limited understanding of the sources and types of biases has led to considerable concern in the community that synthetic human models, including digital twins, may inadvertently propagate or even further exacerbate current inequalities in healthcare delivery. For example, bias may be introduced in data measurement technologies, data labeling, data sources (i.e. is the data representative of the population, have rare conditions been included, small data sets); as well as models, algorithms, and decision-making processes based on this data. Understanding, measuring, and minimizing potential latent biases require novel or advanced methods of statistical inference as current approaches are underdeveloped. Further, strategies to ensure protection of privacy of individual’s data used to develop the DT (at various scale), and equitable impacts and distribution of resources within the context of digital twins are needed. Development of such foundational approaches have potential to accelerate the widespread adoption of digital twins not only in biomedical sciences but also numerous application domains.
+
+Validation and Sharing Mechanisms : There is a critical need to design computational infrastructure, platforms, and best practices for in silico databanks for medical technology evaluation with pre-defined data sequestration provisions. The lack of methods and platforms with broad involvement of the interdisciplinary scientific community substantially impacts the development, validation, and adoption of digital twins in biomedicine. Furthermore, innovative tools are needed for management, maintenance, service, test data reuse, and auditing of banks of digital twins under privacy- and integrity-preserving federated settings. This in turn will allow for a synergistic acceleration of innovation in a wide range of medical technology areas. Finally, the widespread adoption of digital twins and in silico models for human health will only be realized by more collaborative solutions to sharing and validation of models with established protocols between different digital twin sources as opposed to the status of a disconnected, site-specific collection of digital twin data and human in silico models.
+
+The above list of themes provides examples for possible research initiatives that may be supported by the FDT-BioTech solicitation. Proposals with complementary aims, not listed here, will also be considered. Furthermore, these research themes are clearly not mutually exclusive, and a given project may address multiple themes.
+
+Ethical, Legal, and Social Implications (ELSI): It is essential to recognize ethical, legal, and social implications (ELSI) during the development of human digital twins and synthetic humans. A digital twin ecosystem that does not include ESLI at the start will build inequity into core design and implementation principles perpetuating disparities in health, infrastructure, and resources. All proposals must identify potential ELS implications of the proposed work and outline ways to mitigate negative implications.
+
+This program encourages teams to consider the generalizability of their approaches to other systems, populations, or non-biomedical applications.
+
+In addition to the examples described in this solicitation, the program welcomes submissions of proposals that contain outcomes (methods and models) with a clear dissemination plan, made available as practical, open-source tools that industry can utilize in support of the development of new biomedical technologies. Such tools should be of production quality, shared with the research community, and facilitate interoperability with other tools and data infrastructure. Proposals targeting such tools should include project personnel with cyberinfrastructure development expertise. Furthermore, these tools can include innovative science-based approaches including methodologies and datasets and are meant to support innovators in early stages of development as they prepare toward securing premarket authorization by the FDA. Examples of regulatory science tools published by the Office of Science and Engineering Laboratories, Center for Devices and Radiological Health (OSEL/CDRH/FDA) are available in FDA’s catalog of regulatory science tools ( Catalog of Regulatory Science Tools to Help Assess New Medical Devices | FDA ). Furthermore, FDA will offer opportunities to the FDT-BioTech PIs to discuss and submit their software code implementing the developed methods and algorithms and receive feedback on its relevance to current and emerging regulatory science challenges within the precompetitive space.
+
+Successful projects are anticipated to be collaborative in nature and have at least two senior/key personnels, with participation from both the mathematical sciences and at least one of the domain knowledge disciplines such as the biomedical sciences or computer science with cyberinfrastructure development expertise. In particular, interdisciplinary teams with PI and co-PI from the mathematical sciences, biomedical sciences and computer science with cyberinfrastructure development expertise are encouraged. These requirements will help to ensure that the proposals are truly integrative.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 6 to 10
+
+The number of awards will depend on the quality of the received proposals and the budget availability.
+
+Anticipated Funding Amount: $4,000,000 to $5,000,000
+
+$4,000,000 to $5,000,000 in FY24, contingent on availability of funds.
+
+The duration of the awards should be up to 3 years. The award size and duration should be consistent with the project scope.
+
+Collaborative projects from multiple organizations are accepted, according to standard NSF procedures. The total budget (direct and indirect cost) for a collaborative project from multiple organizations must not exceed $1,000,000.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may serve as PI or co-PI on no more than ONE proposal. Participating in a proposal as other senior/key personnel does not count in this limit. Changes in investigator roles post-submission to meet the eligibility limits will not be allowed. It is the responsibility of the submitters to confirm that the entire team is within the eligibility guidelines.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

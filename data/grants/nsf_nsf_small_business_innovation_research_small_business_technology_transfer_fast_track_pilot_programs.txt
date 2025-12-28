@@ -28,3 +28,214 @@ Status: Cleared
 Posted date (Y-m-d): 2024-06-17
 URL: https://www.nsf.gov/funding/opportunities/sbir-sttr-fast-track-nsf-small-business-innovation-research-small-business/nsf24-582
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+NSF Small Business Innovation Research / Small Business Technology Transfer Fast-Track Pilot Programs (SBIR-STTR Fast-Track)
+
+I. Introduction
+
+The NSF SBIR/STTR programs focus on stimulating technical innovation from diverse entrepreneurs and startups by translating new scientific and engineering discoveries emerging from the private sector, federal labs, and academia into products and services that can be scaled and commercialized into sustainable businesses with significant societal benefits.
+
+These NSF SBIR/STTR Fast-Track pilot programs enable companies based on previous NSF awards (NSF award lineage) to submit a single proposal that, if awarded, can provide a faster pathway from Phase I to Phase II funding. Receipt of full funding under the Fast-Track pilot programs is contingent on the results of a company's Phase II transition review.
+
+The NSF SBIR/STTR Fast-Track pilot programs are part of the Directorate for Technology, Innovation and Partnerships (TIP) , which was recently launched to accelerate innovation and enhance economic competitiveness by catalyzing partnerships and investments that strengthen the links between fundamental research and technology development, deployment, and use.
+
+Cognizant Program Officer(s):
+
+Please note that the following information is current at the time of publishing. See program website for any updates to the points of contact.
+
+NSF SBIR/STTR Inbox, telephone: (703) 292-5111, email: sbir@nsf.gov
+
+NSF SBIR/STTR Inbox, telephone: (703) 292-5111, email: sbir@nsf.gov
+
+Applicable Catalog of Federal Domestic Assistance (CFDA) Number(s):
+
+47.041 --- Engineering
+
+47.049 --- Mathematical and Physical Sciences
+
+47.050 --- Geosciences
+
+47.070 --- Computer and Information Science and Engineering
+
+47.074 --- Biological Sciences
+
+47.075 --- Social Behavioral and Economic Sciences
+
+47.076 --- STEM Education
+
+47.079 --- Office of International Science and Engineering
+
+47.083 --- Office of Integrative Activities (OIA)
+
+47.084 --- NSF Technology, Innovation and Partnerships
+
+II. Program Description
+
+The aim of the NSF SBIR/STTR Fast-Track pilot programs is to enable eligible companies (see Section IV of this document) that have a complete R&D team (i.e., no “to-be-determined” team members) to submit a single proposal that, if awarded, can provide a faster pathway from Phase I to Phase II funding. A Fast-Track proposal will include a Phase I component and a Phase II component, each with a corresponding budget. Both Phase I and Phase II components of a Fast-Track proposal will be reviewed prior to the start of a Fast-Track project. On completion of the Phase I component, and contingent upon the results of a company's Phase II transition review (see below for details), a Fast-Track awardee company will be able to transition directly to the Phase II component of the project. The primary benefits for Fast-Track awardee companies are (i) a pathway at the start of an awarded Fast-Track project to the full funding opportunities of the NSF SBIR/STTR Phase I and Phase II programs, and (ii) a faster transition from Phase I to Phase II than for traditional NSF SBIR/STTR Phase I awardees. Receipt of full funding under the Fast-Track programs is contingent upon the success of a company's Phase II transition review.
+
+The NSF SBIR/STTR Fast-Track pilot programs welcome proposals from almost all areas of technology. The program website presents a number of topic areas, but these are only meant to be suggestive of the types of topic areas that are anticipated. The programs are also open to proposals that focus on technical and market areas not explicitly noted in the aforementioned topics. Proposals that do not have an obvious fit in one of the specific topic areas can be submitted to “Other Topics”. NSF encourages eligible companies from all technology sectors and geographic areas to apply for funding.NSF does not test, verify, or otherwise use the technology developed under its SBIR/STTR Fast-Track awards.
+
+The NSF SBIR/STTR Fast-Track pilot programs are expected to be highly competitive. Only a fraction of proposals submitted will be selected for an award. Thus, there may be many qualified businesses applying to the programs that do not receive funding.
+
+NSF evaluates SBIR/STTR Fast-Track proposals under three distinct, but related merit review criteria: Intellectual Merit, Broader Impacts, and Commercialization Potential.
+
+In addition to the standard NSF Merit Review Criteria (Section VI.A.), the following provides additional clarification of how Intellectual Merit and Broader Impact might be applied to startups and small businesses (Section II and IV.A.2).
+
+The Intellectual Merit criterion encompasses the potential to advance knowledge and leverage fundamental science or engineering research techniques to overcome technical risk. This can be conveyed through the Research and Development (R&D ) of the project.
+
+NSF SBIR/STTR Fast-Track proposals are evaluated via the concepts of Technical Risk and Technological Innovation. Technical Risk assumes that the possibility of technical failure exists for an envisioned product, service, or solution to be successfully developed. This risk is present even to those suitably skilled in the art of the component, subsystem, method, technique, tool, or algorithm in question. Technological Innovation indicates that the new product or service is differentiated from current products or services; that is, the new technology holds the potential to result in a product or service with a substantial and durable advantage over competing solutions on the market. It also generally provides a barrier to entry for competitors. This means that if the new product, service, or solution is successfully realized and brought to the market, it should be difficult for a well-qualified, competing firm to reverse-engineer or otherwise neutralize the competitive advantage generated by leveraging fundamental science or engineering research techniques.
+
+The Broader Impacts criterion encompasses the potential for the company to drive a benefit to society in terms of addressing major societal challenges. Considering the products developed under these programs will have a broad societal reach, will be widely distributed, and will therefore have impacts that are far reaching with people and communities.It is important to ensure adequate assessment of potential benefits and unintended consequences of the proposed technology.
+
+The NSF SBIR/STTR Fast-Track pilot programs support the vision of the NSF, which is a nation that leads the world in science and engineering research and innovation to the benefit of all, without barriers to participation. Proposers may also consider the Broader Impacts Review Criterion at 42 U.S.C. §1862p-14 as related to the potential for broadest societal impact.
+
+An additional, solicitation-specific merit review criteria focused on Commercialization Potential is also required. The Commercialization Potential of the proposed product or service is the potential for the resulting technology to disrupt the targeted market segment by way of a strong and durable value proposition for the customers or users.
+
+The proposed product or service addresses an unmet, important, and scalable need for the target customer base.
+
+The proposed small business is structured and staffed to focus on aggressive commercialization of the product/service.
+
+The proposed small business can provide evidence of good product-market fit (as validated by direct and significant interaction with customers and related stakeholders).
+
+More details and information regarding the NSF SBIR/STTR merit review criteria can be found in Section VI.A of this solicitation and the NSF SBIR/STTR website .
+
+The review of an NSF SBIR/STTR Fast-Track proposal includes both the Phase I and Phase II components of the proposal. A team submitting an NSF SBIR/STTR Fast-Track proposal must have NSF-funded research lineage (see Section IV); customer discovery training in order to develop an understanding of the target market, product-market fit and initial target customers; and a complete team (no “to-be-determined” members).
+
+The Phase I and Phase II components of an NSF SBIR/STTR Fast-Track proposal will be reviewed and evaluated separately. For cases in which reviewers and the cognizant Program Officer deem that the Phase I component is meritorious, but the Phase II component is not, the Program Officer may consider recommending the Fast-Track proposal for a traditional NSF SBIR/STTR Phase I award. The company would subsequently be eligible to apply for NSF SBIR/STTR Phase II funding via the traditional process (i.e., not via the Fast-Track process).
+
+An NSF SBIR/STTR Fast-Track proposal must include specific, quantifiable performance targets for the Phase I component of the project. These Phase I targets may be renegotiated with the cognizant Program Officer during post-review diligence, so that at the start of the Fast-Track project there will be agreed performance targets in place for the Phase I component.
+
+Phase II Transition Review : The Phase II transition review will consist of two stage gates:
+
+Stage Gate 1: Progress Evaluation.
+
+Approximately three (3) months prior to the end of the Phase I component, the NSF SBIR/STTR Fast-Track recipient will be required to participate in a reverse site visit during which they will present to NSF the results of the Phase I project to date. Detailed guidance regarding the reverse site visit will be provided to the recipient four to six weeks prior to the reverse site visit. NSF will evaluate progress made by the Fast-Track recipient company during the Phase I component, taking into account a number of factors including, but not limited to:
+
+Phase I performance compared with the agreed performance targets;
+
+commercial progress and commercial traction during Phase I;
+
+team suitability for Phase II; and
+
+additional resources – including company personnel, advisors, and funding that are accessible to the company for technical, regulatory, or commercial activities associated with the Phase II component.
+
+Based on the results of NSF's SBIR/STTR Fast-Track Stage Gate 1 review, if NSF determines, based on this progress evaluation, that a Fast-Track award recipient should have the opportunity to transition to the Phase II component, the company will advance to Stage Gate 2.
+
+Alternatively, NSF may decide that an NSF SBIR/STTR Fast-Track award will not transition to the Phase II component. In such cases, the Fast-Track project will be limited to Phase I funding, and the award will conclude at the end of the Phase I component. NSF will communicate its decision and rationale back to the Fast-Track awardee. The company will not be eligible to apply for regular SBIR/STTR Phase II funding based on the Fast-Track award. NOTE: NSF's decision not to provide SBIR/STTR Phase II funding following Stage Gate 1 is not subject to reconsideration or termination review as defined in Chapter XII.A.4 of the PAPPG.
+
+Stage Gate 2: CAP Review
+
+NSF SBIR/STTR Fast-Track award recipients who progress beyond the Stage Gate 1 will be required to prepare and submit administrative and supporting financial documentation for review by the NSF Cost Analysis and Pre-Award (CAP) Branch. See https://www.nsf.gov/bfa/dias/caar/sbirrev.jsp for detailed requirements. CAP reviews are conducted to evaluate a prospective recipient's ability to manage a federal award effectively and efficiently, as well as to establish the reasonableness of the dollar amount for the Phase II component of the award. Based on the results of the Stage Gate 2 review, NSF may decide that a Fast-Track award will not receive additional Phase II funding, and the award will conclude at the end of the Phase I component. NSF will communicate its decision and rationale back to the Fast-Track recipient. The company will not be allowed to apply for regular SBIR/STTR Phase II funding based on the Fast-Track award. NOTE:NSF's decision not to provide SBIR/STTR Phase II funding following Stage Gate 2 is not subject to reconsideration or termination review as defined in Chapter XII.A.4 of the PAPPG.
+
+Companies who pass both Stage Gates 1 and 2 will receive a funding increment for the Phase II component of the award, and they will be eligible to apply for the same Phase II supplemental funding opportunities as are available to a traditional NSF SBIR/STTR Phase II awardee.
+
+III. Award Information
+
+Anticipated Type of Award: Fixed Amount Cooperative Agreement
+
+Estimated Number of Awards: 36
+
+Approximately 20 awards for SBIR Fast-Track, pending the availability of funds.
+
+Approximately 16 awards for STTR Fast-Track, pending the availability of funds.
+
+Anticipated Funding Amount: $56,000,000
+
+Approximately $31 M for SBIR Fast-Track
+
+Approximately $25 M for STTR Fast-Track
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Small businesses concerns must meet ALL of the following requirements: Proposers that have submitted a SBIR/STTR Fast-Track Project Pitch and received an official invitation from a cognizant NSF SBIR/STTR Program Officer within the 4 months preceding the proposal submission date. To start this process, proposers must first create a log in and submit a Project Pitch document via the NSF SBIR/STTR Fast-Track Project Pitch online form . The cognizant NSF SBIR/STTR Program Officer will use the Project Pitch to determine whether the proposed project is a good fit for the Fast-Track program. Companies qualifying as a small business concern are eligible to participate in the NSF SBIR/STTR Fast-Track pilot programs (see Guide to SBIR/STTR Program Eligibility for more information). Please note that the size limit of 500 employees includes affiliates. The firm must be in compliance with the SBIR/STTR Policy Directive and the Code of Federal Regulations . For STTR proposals, the proposing small business must also include a partner research institution in the project, see additional details below. The SBIR/STTR Fast-Track pilot effort shares the same goals as the NSF SBIR/STTR Phase I and Phase II funding opportunities, but the Fast-Track pilot programs have different eligibility requirements.Small businesses applying to the NSF SBIR/STTR Fast-Track pilot programs must have 1) a lineage of NSF research funding, 2) at least one Senior/Key Personnel to have undergone formal customer discovery training, and 3) the entire team must already be in place (not yet to be determined) at the time of proposal submission. If the small business concern does not meet all three of these criteria, their proposal will be transferred to the NSF SBIR/STTR Phase I program for consideration. Lineage Eligibility Requirement. The technical innovation in the Fast-Track proposal must be derived from a prior NSF research award that is either currently active or was active within the previous five years from the date of submission of the Fast-Track proposal. The Fast-Track Project Pitch and proposal must include the NSF award number and title of the research award that is relied upon to meet the lineage requirement. The Fast-Track proposal's PI or at least one Senior/Key Personnel must have been supported under the lineage award. If the Fast-Track team member relied upon to meet the lineage requirement is named on the lineage award, no further documentation will be required. If not, the Fast-Track proposal must include a letter from the PI or a Co-PI of the lineage award confirming that either the PI or a named Senior/Key Personnel on the Fast-Track team was engaged in research undertaken under the lineage award. In addition to regular NSF research awards (e.g., CAREER, individual investigator awards, center/institute awards, etc.), Partnerships for Innovation (PFI) and NSF Graduate Research Fellowship Program (GRFP) awards do count as NSF lineage for SBIR/STTR Fast-Track eligibility. NSF Innovation Corps (I-Corps) and NSF SBIR/STTR awards do not count as NSF research lineage and do not convey SBIR/STTR Fast-Track eligibility . Formal Customer Discovery Eligibility Requirement. Companies must have received formal customer discovery training, defined as follows, within the previous two years from the date of the Fast-Track proposal submission. At least one of the Senior/Key Personnel on the Fast-Track proposal must have undergone formal customer discovery training in relation to the proposed technology via a suitably qualified program, such as the NSF I-Corps program or a program at an incubator or accelerator, with a result that at the start of the Fast-Track project the proposing company has a clear understanding of the product-market fit and initial target customers for the proposed technology. Complete Team Eligibility Requirement. Companies must have a complete Fast-Track team in place at the time of proposal submission – i.e., there must be no “to-be-determined” company personnel in budget lines A or B; all company personnel in budget lines A and B must have confirmed their availability for the proposed Fast-Track project per the proposed Phase I and Phase II component budgets; the proposing team must possess the required expertise to perform the proposed Fast-Track project; and the team members must dedicate sufficient time to the technical tasks that must be undertaken to achieve the objectives of the Fast-Track project. In compliance with the CHIPS and Science Act of 2022, Section 10636 (Person or entity of concern prohibition) (42 U.S.C. 19235): No person published on the list under section 1237(b) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105-261; 50 U.S.C. 1701 note) or entity identified under section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (10 U.S.C. 113 note; Public Law 116-283) may receive or participate in any grant, award, program, support, or other activity under the Directorate for Technology, Innovation and Partnerships. Individuals who are a current party to a Malign Foreign Talent Recruitment Program are not eligible to serve as a Senior/Key Person on an NSF proposal or on any NSF award made after May 20, 2024. See current PAPPG for additional information on required certifications associated with Malign Foreign Talent Organization. The Authorized Organizational Representative (AOR) must certify that all individuals identified as Senior/Key Personnel have been made aware of and have complied with their responsibility under that section to certify that the individual is not a party to a Malign Foreign Talent Recruitment Program. The small business concern's R&D must be performed within the United States. Startups and small businesses funded by NSF must be majority U.S.-owned companies. The companies may not be majority-owned by one or more venture capital operating companies (VCOCs), hedge funds, or private equity firms. Proposals from joint ventures and partnerships are permitted, provided the proposing entity qualifies as a small business concern (see Guide to SBIR/STTR Program Eligibility for more information). “Collaborative Proposal from Multiple Organizations” (a special proposal type in Research.gov) are not allowed. Socially and economically disadvantaged small businesses and women-owned small businesses are also encouraged to apply.
+
+Small businesses concerns must meet ALL of the following requirements:
+
+Proposers that have submitted a SBIR/STTR Fast-Track Project Pitch and received an official invitation from a cognizant NSF SBIR/STTR Program Officer within the 4 months preceding the proposal submission date. To start this process, proposers must first create a log in and submit a Project Pitch document via the NSF SBIR/STTR Fast-Track Project Pitch online form . The cognizant NSF SBIR/STTR Program Officer will use the Project Pitch to determine whether the proposed project is a good fit for the Fast-Track program.
+
+Companies qualifying as a small business concern are eligible to participate in the NSF SBIR/STTR Fast-Track pilot programs (see Guide to SBIR/STTR Program Eligibility for more information). Please note that the size limit of 500 employees includes affiliates. The firm must be in compliance with the SBIR/STTR Policy Directive and the Code of Federal Regulations . For STTR proposals, the proposing small business must also include a partner research institution in the project, see additional details below.
+
+The SBIR/STTR Fast-Track pilot effort shares the same goals as the NSF SBIR/STTR Phase I and Phase II funding opportunities, but the Fast-Track pilot programs have different eligibility requirements.Small businesses applying to the NSF SBIR/STTR Fast-Track pilot programs must have 1) a lineage of NSF research funding, 2) at least one Senior/Key Personnel to have undergone formal customer discovery training, and 3) the entire team must already be in place (not yet to be determined) at the time of proposal submission. If the small business concern does not meet all three of these criteria, their proposal will be transferred to the NSF SBIR/STTR Phase I program for consideration. Lineage Eligibility Requirement. The technical innovation in the Fast-Track proposal must be derived from a prior NSF research award that is either currently active or was active within the previous five years from the date of submission of the Fast-Track proposal. The Fast-Track Project Pitch and proposal must include the NSF award number and title of the research award that is relied upon to meet the lineage requirement. The Fast-Track proposal's PI or at least one Senior/Key Personnel must have been supported under the lineage award. If the Fast-Track team member relied upon to meet the lineage requirement is named on the lineage award, no further documentation will be required. If not, the Fast-Track proposal must include a letter from the PI or a Co-PI of the lineage award confirming that either the PI or a named Senior/Key Personnel on the Fast-Track team was engaged in research undertaken under the lineage award. In addition to regular NSF research awards (e.g., CAREER, individual investigator awards, center/institute awards, etc.), Partnerships for Innovation (PFI) and NSF Graduate Research Fellowship Program (GRFP) awards do count as NSF lineage for SBIR/STTR Fast-Track eligibility. NSF Innovation Corps (I-Corps) and NSF SBIR/STTR awards do not count as NSF research lineage and do not convey SBIR/STTR Fast-Track eligibility . Formal Customer Discovery Eligibility Requirement. Companies must have received formal customer discovery training, defined as follows, within the previous two years from the date of the Fast-Track proposal submission. At least one of the Senior/Key Personnel on the Fast-Track proposal must have undergone formal customer discovery training in relation to the proposed technology via a suitably qualified program, such as the NSF I-Corps program or a program at an incubator or accelerator, with a result that at the start of the Fast-Track project the proposing company has a clear understanding of the product-market fit and initial target customers for the proposed technology. Complete Team Eligibility Requirement. Companies must have a complete Fast-Track team in place at the time of proposal submission – i.e., there must be no “to-be-determined” company personnel in budget lines A or B; all company personnel in budget lines A and B must have confirmed their availability for the proposed Fast-Track project per the proposed Phase I and Phase II component budgets; the proposing team must possess the required expertise to perform the proposed Fast-Track project; and the team members must dedicate sufficient time to the technical tasks that must be undertaken to achieve the objectives of the Fast-Track project.
+
+Lineage Eligibility Requirement. The technical innovation in the Fast-Track proposal must be derived from a prior NSF research award that is either currently active or was active within the previous five years from the date of submission of the Fast-Track proposal. The Fast-Track Project Pitch and proposal must include the NSF award number and title of the research award that is relied upon to meet the lineage requirement. The Fast-Track proposal's PI or at least one Senior/Key Personnel must have been supported under the lineage award. If the Fast-Track team member relied upon to meet the lineage requirement is named on the lineage award, no further documentation will be required. If not, the Fast-Track proposal must include a letter from the PI or a Co-PI of the lineage award confirming that either the PI or a named Senior/Key Personnel on the Fast-Track team was engaged in research undertaken under the lineage award. In addition to regular NSF research awards (e.g., CAREER, individual investigator awards, center/institute awards, etc.), Partnerships for Innovation (PFI) and NSF Graduate Research Fellowship Program (GRFP) awards do count as NSF lineage for SBIR/STTR Fast-Track eligibility. NSF Innovation Corps (I-Corps) and NSF SBIR/STTR awards do not count as NSF research lineage and do not convey SBIR/STTR Fast-Track eligibility .
+
+Formal Customer Discovery Eligibility Requirement. Companies must have received formal customer discovery training, defined as follows, within the previous two years from the date of the Fast-Track proposal submission. At least one of the Senior/Key Personnel on the Fast-Track proposal must have undergone formal customer discovery training in relation to the proposed technology via a suitably qualified program, such as the NSF I-Corps program or a program at an incubator or accelerator, with a result that at the start of the Fast-Track project the proposing company has a clear understanding of the product-market fit and initial target customers for the proposed technology.
+
+Complete Team Eligibility Requirement. Companies must have a complete Fast-Track team in place at the time of proposal submission – i.e., there must be no “to-be-determined” company personnel in budget lines A or B; all company personnel in budget lines A and B must have confirmed their availability for the proposed Fast-Track project per the proposed Phase I and Phase II component budgets; the proposing team must possess the required expertise to perform the proposed Fast-Track project; and the team members must dedicate sufficient time to the technical tasks that must be undertaken to achieve the objectives of the Fast-Track project.
+
+In compliance with the CHIPS and Science Act of 2022, Section 10636 (Person or entity of concern prohibition) (42 U.S.C. 19235): No person published on the list under section 1237(b) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105-261; 50 U.S.C. 1701 note) or entity identified under section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (10 U.S.C. 113 note; Public Law 116-283) may receive or participate in any grant, award, program, support, or other activity under the Directorate for Technology, Innovation and Partnerships.
+
+Individuals who are a current party to a Malign Foreign Talent Recruitment Program are not eligible to serve as a Senior/Key Person on an NSF proposal or on any NSF award made after May 20, 2024. See current PAPPG for additional information on required certifications associated with Malign Foreign Talent Organization. The Authorized Organizational Representative (AOR) must certify that all individuals identified as Senior/Key Personnel have been made aware of and have complied with their responsibility under that section to certify that the individual is not a party to a Malign Foreign Talent Recruitment Program.
+
+The small business concern's R&D must be performed within the United States. Startups and small businesses funded by NSF must be majority U.S.-owned companies.
+
+The companies may not be majority-owned by one or more venture capital operating companies (VCOCs), hedge funds, or private equity firms. Proposals from joint ventures and partnerships are permitted, provided the proposing entity qualifies as a small business concern (see Guide to SBIR/STTR Program Eligibility for more information).
+
+“Collaborative Proposal from Multiple Organizations” (a special proposal type in Research.gov) are not allowed.
+
+Socially and economically disadvantaged small businesses and women-owned small businesses are also encouraged to apply.
+
+Who May Serve as PI:
+
+The primary employment of the Principal Investigator (PI) must be with the small business concern at the time of award and for the duration of the award, unless a new PI is approved by NSF. Primary employment is defined as at least 51 percent employed by the small business. NSF normally considers a full-time work week to be 40 hours and considers employment elsewhere of greater than 19.6 hours per week to be in conflict with this requirement. The PI must have a legal right to work for the proposing company in the United States, as evidenced by citizenship, permanent residency, or an appropriate visa. The PI does not need to be associated with an academic institution. There are no PI degree requirements (i.e., the PI is not required to hold a Ph.D. or any other degree). A PI must devote a minimum of three calendar months of effort per six months of performance to an NSF SBIR/STTR Fast-Track project.
+
+Limit on Number of Proposals per Organization: 1
+
+An organization must wait for a determination from NSF (e.g., award, decline, or returned without review) regarding a pending NSF SBIR/STTR Fast-Track pilot proposal before submitting a new Project Pitch in the next window.
+
+An organization that has submitted a traditional SBIR/STTR Project Pitch, received an invitation to submit a traditional SBIR/STTR Phase I proposal, or has a traditional SBIR/STTR Phase I proposal under review may not submit a Fast-Track Project Pitch until either the traditional SBIR/STTR Project Pitch has been declined (i.e., not invited) or the outcome of the invited traditional SBIR/STTR proposal submission has been made available to the organization.
+
+Proposals that have been Returned Without Review may be submitted using the same Project Pitch invitation (assuming that the proposal is received within 4 months of the original invitation).
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+For NSF SBIR Fast-Track – 1 PI, co-PIs are not allowed.
+
+For NSF STTR Fast-Track - 1 PI and 1 Co-PI are required (the PI must be an employee of the proposing small business and the Co-PI must be part of the STTR partner research institution). An individual may be listed as the PI for only one proposal submitted at a time to the NSF SBIR/STTR programs (including traditional and Fast-Track).
+
+For NSF STTR Fast-Track proposals, a person may act as co-PI on an unlimited number of proposals.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposal Preparation Instruction: This solicitation contains information that deviates from the standard NSF Proposal and Award Policies and Procedures Guide (PAPPG) proposal preparation guidelines. Please see the full text of this solicitation for further information.
+
+Full Proposal Preparation Instruction: This solicitation contains information that deviates from the standard NSF Proposal and Award Policies and Procedures Guide (PAPPG) proposal preparation guidelines. Please see the full text of this solicitation for further information.
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

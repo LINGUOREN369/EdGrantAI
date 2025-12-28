@@ -17,3 +17,218 @@ Status: Cleared
 Posted date (Y-m-d): 2024-02-14
 URL: https://www.nsf.gov/funding/opportunities/ds-developmental-sciences/nsf24-544
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Developmental Sciences (DS)
+
+I. Introduction
+
+The Developmental Sciences program is housed in the Division of Behavioral and Cognitive Sciences, part of NSF's Social, Behavioral, and Economic Sciences Directorate. This program supports basic research that advances our understanding of perceptual, cognitive, linguistic, social, cultural, and biological processes related to human development across the lifespan. This solicitation provides instructions and details (supplementary to the PAPPG) for the preparation of proposals submitted to the Developmental Sciences Program.
+
+II. Program Description
+
+The Developmental Sciences program supports basic research that advances our understanding of perceptual, cognitive, linguistic, social, cultural, and biological processes related to human development across the lifespan. Research supported by this program will expand our knowledge of the underlying developmental processes that support social, cognitive, and behavioral functioning, thereby illuminating ways for individuals to live productive lives as members of society.
+
+The Developmental Sciences program supports research that addresses developmental processes within the domains of perceptual, cognitive, social, emotional, language, and motor development across the lifespan by working with any appropriate populations for the topics of interest including infants, children, adolescents, adults (including aging populations), and non-human animals. The program also supports research investigating factors that affect developmental change, including family, peers, school, community, culture, media, physical, genetic, and epigenetic influences. The program funds research that incorporates multidisciplinary, multi-method, and/or longitudinal approaches; develops new methods, models, and theories for studying development; and integrates different processes (e.g., memory, emotion, perception, cognition), levels of analysis (e.g., behavioral, social, neural) and time scales. The program funds basic research that advances our understanding of developmental processes and mechanisms; the program does not fund clinical trials and/or research focused primarily on health outcomes.
+
+The program seeks to support research that (1) involves diverse methodologies and theoretical perspectives; (2) includes participants from a range of communities, ethnicities, socioeconomic backgrounds, and cultures; and (3) helps diversify research project leadership (PIs and co-PIs), ideas, and approaches via equity-centered collaborative models. Proposals that include participants from historically marginalized groups and/or groups underrepresented in developmental science research should demonstrate cultural competence within the research team to conduct research with these communities. PIs should provide clear evidence of equity-centered collaborative practices with community members.
+
+Multidisciplinary and/or multi-method projects often call for the expertise of multiple team members. Proposals submitted to the Developmental Sciences program are encouraged to describe how the research team structure will ensure equitable participation and engagement within research teams with respect to the conceptualization of research, decision-making processes, and interpretation of research results.
+
+PIs should explicitly describe and motivate sampling choices. This includes sample size and sample composition. Sample size justification should be provided in the context of a range of independent and interacting factors that drive sample size estimates. The sample composition should also be explicitly motivated. This includes demographic descriptions of participants using identity markers that are relevant in context. PIs are encouraged to consider demographic markers, as appropriate, in their analytic plan. Representativeness of samples relative to the underlying population to which findings are expected to generalize should be explicitly addressed.
+
+We also encourage PIs to address the boundary conditions of expected effects. As such, PIs are required to clearly and explicitly address anticipated constraints on the generalizability of the proposed studies. In doing so, PIs should align sampling, methodological, and analytic decisions with the anticipated scale of inference (i.e., generalizability) of empirical findings. For guidance on writing constraints on generalizability statements, PIs should consult relevant resources available to psychological researchers.
+
+A list of recent awards made by the program demonstrates the range of sub-fields, methods, and topics typically supported by the program. If a researcher is unsure whether the Developmental Sciences Program and NSF more broadly are appropriate for a proposal topic, they are encouraged to email a one-page summary of their project to the program officer(s) before a proposal submission.
+
+Additional Relevant Funding Opportunities
+
+The NSF Developmental Sciences Program supports multiple types of proposals:
+
+Standard Research Proposals
+
+Conference/Workshop Proposals
+
+Research Experiences for Undergraduates (REU) Supplemental Funding Requests
+
+Non-Academic Research Internships for Graduate Students (INTERN) Supplemental Funding Requests
+
+Faculty Early Career Development (CAREER) Program Proposals
+
+Mid-career Advancement (MCA) program supplemental funding
+
+Career-life balance supplemental funding
+
+Facilitating Research at Primarily Undergraduate Institutions: Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA) Proposals and Supplemental Funding Requests
+
+Research Coordination Network (RCN) Proposals
+
+Rapid Response Research (RAPID) Proposals
+
+Early-concept Grants for Exploratory Research (EAGER) Proposals
+
+Research Advanced by Interdisciplinary Science & Engineering (RAISE) Proposals.
+
+This list does not exhaust the full range of types of proposals described in Chapter II of the PAPPG . Rather, these are the types that may be most relevant for proposals submitted to the Developmental Sciences Program. Researchers are always welcome to consult with program officers about which NSF mechanisms and programs might best serve their research needs. Any requests for supplemental funding should be discussed with Program Officers before submission.
+
+Research Proposals
+
+Most faculty-level proposals submitted to the Developmental Sciences Program are "standard" research proposals. A project can be proposed to be carried out by a single researcher or a research team comprising a principal investigator along with co-principal investigators, other senior/key personnel, postdoctoral researchers, or other personnel (including specialists from other disciplines and other countries) as needed for the conduct of the research.
+
+Specific guidelines on proposal preparation are described in the PAPPG. Note that for collaborative projects across institutions, the Developmental Sciences program allows researchers to submit a single proposal with subawards or a collaborative proposal submitted as separate submissions from multiple organizations.
+
+Typical award sizes for the program are included in descriptions of recent awards . There is no award ceiling, but please be advised that a typical research award in the Developmental Science Program is in the range of $200,000-$600,000 total budget, inclusive of indirect costs. Most projects are scoped to a three-year duration and related expenses. Requested costs must relate directly to the aims of the research; the PAPPG describes allowable and unallowable costs. Proposals that contain budgets significantly beyond this range may be returned without review.
+
+Conference Proposals
+
+The Developmental Sciences Program supports thematic conferences or workshops designed to highlight broadly relevant disciplinary or interdisciplinary research gaps and needs, future research priorities, innovations, and grand challenges. The program does not support standing conferences hosted by professional societies. The program does not support gatherings whose purpose is primarily to convey the results of completed research. The program encourages hybrid or virtual conferences when appropriate, as well as the inclusion of postdoctoral researchers, graduate students, and members of groups underrepresented in developmental science and STEM as active conference participants. These typically have total cost budgets, including direct and indirect costs, of approximately $35,000. Conference proposals may only be submitted following an invitation from the Program Directors.
+
+Conference proposals should generally be submitted at least 1 year in advance of the proposed event. While conference proposals may be submitted at any time, the program may elect to have them reviewed by review panels along with research proposals submitted to the regular proposal deadline. Please consult Chapter II.F of the PAPPG for information about preparing and submitting conference proposals, including a list of required elements and budget exclusions, while keeping in mind the Developmental Science Program's specific interests and limitations.
+
+Research Experiences for Undergraduates (REU) Supplemental Funding Requests
+
+An REU supplement usually provides support for one or two undergraduate students to participate in research as a part of a new or ongoing NSF-funded research project. For REU requests submitted to the Developmental Sciences Program, proposers are advised that the PI should be a post-PhD developmental scientist who holds existing NSF award(s).
+
+REU requests generally should be submitted as part of a standard research proposal; post-award supplemental funding is intended only for unanticipated opportunities that arise during the course of the project. Researchers must contact the Developmental Sciences program officers prior to submitting a supplemental funding request. See the REU Sites and Supplements guidelines for additional details. Supplemental funding requests can be submitted at any time.
+
+The Developmental Sciences Program will consider REU funding requests for up to $6000 per student and no more than two students per year, to support the cost of the student's research training.
+
+Faculty Early Career Development (CAREER) Program Proposals
+
+The NSF Developmental Sciences Program participates in the NSF-wide CAREER Program for junior faculty (untenured but tenure-track or equivalent). CAREER proposals have a maximum duration of five years. In addition to research costs, proposers may include expenses for specialized training to enhance the research and their future professional trajectory. CAREER proposals also must have an educational component.
+
+Researchers who want to submit CAREER proposals should consult the CAREER-specific guidelines for eligibility information, allowable costs, submission deadlines (which are different than Developmental Sciences proposals), and other CAREER Program requirements. CAREER proposals that are submitted to the Developmental Sciences Program will be reviewed during the fall review cycle; a PI may not submit both a CAREER and a standard research proposal in the same cycle.
+
+Unlike standard research proposals, the minimum CAREER award is $400,000. CAREER award sizes in Developmental Sciences typically range from $400,000-$600,000.
+
+Facilitating Research at Primarily Undergraduate Institutions: Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA)
+
+The Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA) funding opportunities support research by faculty members at predominantly undergraduate institutions (PUIs). RUI proposals support PUI faculty in research that engages them in their professional field(s), builds capacity for research at their home institution, and supports the integration of research and undergraduate education. ROAs similarly support PUI faculty research, but these awards typically allow faculty to work as visiting scientists at research-intensive organizations where they collaborate with other NSF-supported investigators. RUI proposals are reviewed alongside other standard proposals in the Developmental Sciences program and must be submitted by the deadline specified in this solicitation.
+
+Rapid Response Research (RAPID) Proposals
+
+RAPID awards are to support urgent research. The urgency is that unanticipated research data would be lost if the researchers had to wait for the completion of a normal review cycle. This might be because of the unanticipated availability of access to rarely available phenomena, specialized equipment, research sites, or specialized informants. RAPID support is often requested for quick-response research on natural or anthropogenic disasters and other unanticipated events. To be successful in obtaining RAPID support, investigators must convincingly argue that the particular situation to be investigated will produce data that are unlikely to be found in any other situation and that are essential for identified and important research questions. If the research is routine, failure to plan ahead is not a sufficient rationale for RAPID support.
+
+Proposals are accepted anytime however, researchers must have prior approval from a Developmental Sciences program officer to submit a RAPID proposal to the program. In this initial email, proposers should briefly explain the data to be collected, why these data are scientifically important, an estimate of the needed budget, and a timeline for the research. The Project Description for RAPID proposals are limited to 5 pages and only internal NSF review is required so funding can be made available relatively quickly. Please consult Chapter II.F of the PAPPG for further instructions on the preparation and submission of RAPID proposals.
+
+Early-Concept Grants for Exploratory Research (EAGER) Proposals
+
+The Developmental Sciences Program supports EAGER proposals for funding research on untested but potentially transformative research ideas and approaches.
+
+Proposals are accepted at anytime, however researchers must have prior approval from a Developmental Sciences program officer to submit an EAGER proposal. The EAGER proposal type should not be used for proposals that could be submitted to a regular competition, so the initial inquiry should explain carefully why the anticipated project fits the EAGER criteria. The Project Description is limited to no more than 8 pages, and only an internal NSF review is required. Please consult Chapter II.F of the PAPPG for further instructions on the preparation and submission of EAGER proposals.
+
+The Developmental Sciences Program rarely supports EAGER budgets over $200,000, which is less than the maximum allowed by the PAPPG. The maximum duration is 24 months.
+
+Additional Program Considerations
+
+Broader Impact Activities
+
+The program supports a wide range of broader impact activities, and successful projects will include creative, well-integrated, effective, evidence-based broader impact activities developed within the context of the mission, goals, and resources of the organizations and people involved. The expertise of collaborators, the proposal budget, and the budget justification should reflect this integration. Example activities include but are not limited to those that create effective methods of science outreach and engagement with local communities or the public at large; translate research to benefit broader societal needs; involve early career researchers and students who are veterans, persons with disabilities, or from other groups that are underrepresented in science, technology, engineering and mathematics (STEM); or foster new partnerships, including if focused on capacity building (e.g., with Minority Serving Institutions, two-year colleges or internationally). Additional guidance for broader impacts may be found in the PAPPG and the Dear Colleague Letter: A Broader Impacts Framework for Proposals Submitted to NSF's Social, Behavioral, and Economic Sciences Directorate .
+
+Community Engagement in Research
+
+Community engagement refers to substantive interaction with community partner organizations and anchor institutions such as governments; federal, state, and local agencies; schools, libraries, health, and social service providers; tribes and Indigenous-serving organizations; nonprofits; cultural organizations; and businesses. Co-production of knowledge includes the integration of different knowledge systems and methodologies to systematically understand the phenomena, systems, and processes being studied in a research project. A co-produced approach includes research in which local partners and organizations fully engage in the complete research process cycle from the development of research questions to the collection, use, and stewardship of data and the interpretation, application, and dissemination of results.
+
+Proposals that include community engagement, partnerships with communities and international collaboration should either (1) have already established agreed-upon partnerships, documented with the appropriate letters of collaboration and budget allocations, or (2) provide a clear plan for community engagement and partnership-building as part of the first year of the grant. Both options must follow best practices in community partnerships, especially if partnerships are to be established with underrepresented communities. Successful proposals will have the appropriate expertise on the PI's team to conduct community-based research, participatory research, or place-based research. Sufficient funding should be allocated in the budget to support mutually beneficial and respectful interactions that not only produce meaningful research and education or outreach outcomes but also focus on the concerns of partnering communities, including questions of data sovereignty, co-authorship, or co-review of project outcomes.
+
+Projects Involving Collaboration with Foreign Organizations or Work in Foreign Countries
+
+As stated in the PAPPG, NSF rarely provides direct funding to support foreign organizations and only provides support for the U.S. portion of collaborative projects. If foreign organization involvement is essential to the project, subawards or consultant arrangements may be considered if the foreign organization contributes unique resources not otherwise available, or significant education, training, and/or research opportunities to the U.S. Such information must be provided in the project description section of the proposal. For studies in countries other than the United States, the project description should discuss, where appropriate, collaborations with scientists and students from the host country, and how these individuals will be involved in the project.
+
+Collaborations should be well justified, in that they represent true intellectual collaboration and use the expertise and specialized skills, facilities, and resources of the foreign collaborator. The structure of the collaboration should be fair and equitable with evidence of local participation and co-leadership across testing sites. Letters of collaboration must be included in the other supplementary documents section of the proposal. Where relevant, arrangements to allocate samples and data between host country organizations or institutions and U.S. organizations or institutions should be discussed in the proposal. Investigators are encouraged to include any such permits (including legally required collecting, import, and export permits for samples, instrumentation, and data), authorizations, and agreements, in the other supplementary documents section of the proposal.
+
+Data Management
+
+As stated in the PAPPG , principal investigators (PIs) are expected to share with other researchers, at no more than incremental cost and within a reasonable time, the data, samples, physical collections, and other supporting materials created or gathered in the course of work under NSF grants. The Developmental Sciences Program is committed to the establishment, maintenance, validation, description, and distribution of high-quality data sets generated by program-funded projects. Proposals should generate data products that are findable, accessible, interoperable, and reusable (FAIR). The Developmental Sciences data should be shared (barring ethical limitations on sharing) upon publication according to requirements stated in the PAPPG.
+
+Plans for the dissemination and sharing of research results should be traceable from the beginning to the end of a project (proposal, review, and annual/final report). PIs are required to provide updates on the status of metadata and data archiving in annual and final annual project reports.
+
+Permits, Permissions, and Collaborations
+
+PIs are responsible for obtaining the required authorizations from federal, state, or local authorities for any collecting or other activities and for advising NSF that they have been obtained or requested. The proposal should briefly list the permits that are required and the timeline for approvals in the supplementary figures and tables document. For proposals that require support from centrally supported facilities, investigators must obtain letters of collaboration from the managing organization that follow the standard text recommended in Chapter II.D.2 of the PAPPG, and those letters should be included as a supplementary document.
+
+Human Subjects Research
+
+Projects involving human subjects must indicate this on the cover sheet, including the status of IRB approval and federal-wide assurance, and will need to provide Institutional Review Board approval before any award is processed (see Chapter II.E.5. of the PAPPG). Though IRB approval is not required at the time of proposal submission, the program encourages PIs to briefly address the status of approval or the plan for IRB approval in the project description and provide any additional ethical considerations related to human subjects research in the ethics statement supplementary document.
+
+Vertebrate Animal Research
+
+Projects involving vertebrate animals must indicate this on the cover sheet, including the status of IACUC approval and PHS Assurance, and must provide IACUC approval and current PHS Assurance information before any award is processed (see Chapter II.E.4 of the PAPPG). Though IACUC approval and PHS Assurance are not required at the time of proposal submission, the program encourages PIs to briefly address the status of approval or plan for vertebrate animals approvals in the project description and discuss any additional ethical considerations related to vertebrate animal research in the ethics statement supplementary document. For proposals with plans for primary data analysis in captive or laboratory animals, PIs are encouraged to discuss in the project description or ethics statement: 1) the Essential 10 items in the ARRIVE Guidelines 2.0 (Animal Research: Reporting of In Vivo Experiments) and 2) the 3R principles of Replacement, Reduction and Refinement and how the proposed study can accelerate progress toward meeting these goals.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 12
+
+Anticipated Funding Amount: $6,500,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+State and Local Governments: State educational offices or organizations and local school districts.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Foreign organizations: For cooperative projects involving U.S. and foreign organizations, support will only be provided for the U.S. portion.
+
+Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs): Contact the appropriate program before preparing a proposal for submission.
+
+Who May Serve as PI:
+
+PIs and co-PIs must be researchers who have a Ph.D. or equivalent education and experience, sufficient to allow them to carry out independent basic research. PIs are encouraged to include undergraduate and graduate students in their research projects, but not as PI/co-PI or senior/key personnel.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+For a given Developmental Sciences proposal submission deadline, an individual may only be listed as a PI, co-PI, faculty associate or subaward lead on one proposal. Researchers may be listed in other capacities (e.g., collaborator, consultant) on one additional proposal. Exceeding the limit of submissions per PI will result in a proposal returned without review in the reverse order received. Based on a need for portfolio diversity, we encourage recent recipients to explore alternative funding opportunities rather than seek additional funding from Developmental Sciences.
+
+Given the timeline of the submission and review process for each review cycle, proposals that have been declined must be substantially revised to be considered. Exceptions to this policy require prior approval by a cognizant program officer. A proposal that has not been substantially revised will be returned without review as per the PAPPG.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

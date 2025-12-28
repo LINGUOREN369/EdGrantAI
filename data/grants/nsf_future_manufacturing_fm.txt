@@ -25,3 +25,164 @@ Status: Current but no longer receiving proposals
 Posted date (Y-m-d): 2024-01-09
 URL: https://www.nsf.gov/funding/opportunities/fm-future-manufacturing/nsf24-525
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Future Manufacturing (FM)
+
+I. Introduction
+
+Future Manufacturing is a cross-directorate program supported by NSF's Directorates for Engineering (ENG), Technology, Innovation and Partnerships (TIP), Mathematical and Physical Sciences (MPS), STEM Education (EDU), Biological Sciences (BIO), Computer and Information Science and Engineering (CISE), Social, Behavioral, and Economic Sciences (SBE), the Office of Integrative Activities (OIA), and the Office of International Science and Engineering (OISE).
+
+Future Manufacturing supports fundamental research and education that will enable new manufacturing approaches to eliminate scientific technological, educational, economic, and social barriers that limit current manufacturing. Proposals should provide examples of how the research results could lead to transformational manufacturing advances that address significant problems. The research may be use-inspired, strongly motivated by the need to create knowledge or knowhow to help develop practical solutions to address societal challenges. Proposals should provide a vision statement describing the new manufacturing capabilities that could be enabled by the proposed research, and the potential industrial, economic, environmental and societal benefits. They should also describe the implications of the proposed activities on the education of a diverse and skilled technical workforce.
+
+Future Manufacturing will require major advances in technologies for the sustainable synthesis and production of new materials, chemicals, quantum and semiconductor devices and integrated systems of assured quality with high yield and at reasonable cost. It will require advances in artificial intelligence and machine learning, new cyber infrastructure, new approaches for mathematical and computational modeling, new dynamics and control methodologies, new ways to integrate systems biology, synthetic biology and bioprocessing, new processes that enhance human worker capabilities and efficiencies, and new ways to benefit the economy, workforce, human behavior, and society. It will require intelligent robots that are adaptable co-workers, and new processes designed with a better understanding of human factors for both efficiency and enhanced human worker capabilities.
+
+Future Manufacturing may involve the production and/or use of quantum computing, quantum sensing, and quantum communication and network technologies. Fundamental research and unconventional approaches to manufacturing quantum devices, circuits, and systems could help meet the demanding requirements for operation at sub-1K temperatures; achieve extreme precision in device fabrication and heterogeneous integration; enable reproducibility, scalability, circuit controls, packaging, and assembly; and formulate novel device and system manufacturing approaches to reduce the cost of quantum-cyber systems.
+
+The results of the Future Manufacturing program, when translated to practice, should lead to the formation of new industries and organization structures, enable new manufacturing capabilities among a broad range of producers, enhance U.S. competitiveness in the development and production of new products, bolster economic growth, benefit society at large, and educate diverse students and workforce participants with the skills required for leadership in Future Manufacturing.
+
+Future Manufacturing proposals in both tracks should demonstrate the need for sustained support of a multidisciplinary team using a convergence research approach. Inclusion of minority-serving institutions, primarily undergraduate institutions, and community colleges is especially encouraged. Proposals must describe how the project team is appropriate to realize the project's goals, how activities of a multidisciplinary team are well-integrated throughout the project, and how the team will assure effective collaboration among all participants. A compelling rationale must be presented for a multi-institution structure of the project, if appropriate. Please see "Proposal Preparation Instructions" for additional details.
+
+Proposals may take advantage of significant efforts underway to improve the nation's manufacturing capabilities. For example, proposals may leverage activities of other manufacturing initiatives such as the Manufacturing USA Institutes, NSF's Engineering Research Centers, EPSCoR-supported advanced manufacturing research collaborations, and NSF's manufacturing-focused Industry-University Cooperative Research Centers.
+
+Educational efforts are encouraged to leverage, interface with, or adapt aspects of proven NSF funding opportunities such as Non-Academic Research Internships for Graduate Students (INTERN), Advanced Technological Education (ATE), Improving Undergraduate STEM Education (IUSE), Established Program to Stimulate Competitive Research (EPSCoR), Research Experiences for Undergraduates (REU), Research Experiences for Teachers (RET), Research in the Formation of Engineers (RFE), Professional Formation of Engineers: Research Initiation in Engineering Formation (PFE: RIEF), NSF Research Traineeship (NRT) and Revolutionizing Engineering Departments (IUSE/PFE: RED).
+
+II. Program Description
+
+This Future Manufacturing solicitation will support fundamental research and education in the following two tracks:
+
+Future Manufacturing Research Grants (FMRG)
+
+Awards in this track will support fundamental, multidisciplinary, and integrative research and education to enable Future Manufacturing in one or more of the thrust areas described below. FMRG funding is intended to provide support for several principal investigators with complementary expertise, graduate students, senior/key personnel (including post-doctoral researchers), their collective research needs (e.g., materials, supplies and travel) and educational activities. The integrative contributions of the team should clearly be greater than the sum of the contributions of each individual member of the team.
+
+FMRG proposals must describe the current state of art in the relevant manufacturing area and the specific challenges that will be addressed by the proposed research. They must present a compelling technical rationale and convincing technical approach to enable Future Manufacturing to address these challenges. An essential part of this argument is to explain clearly how the proposed research will overcome barriers that limit current manufacturing to provide new manufacturing capabilities not currently available and how that will transform manufacturing practice. Proposals must include a prospective vision for translation of fundamental research results to manufacturing practice, even if that translation is not part of the proposed research. They must explain the potential benefits and challenges of new manufacturing to the economy, environment, communities and to society as a whole.
+
+Future Manufacturing Seed Grants (FMSG)
+
+Awards in this track will provide support to stimulate fundamental research and education in one or more of the thrust areas described below through multidisciplinary team-building, the exploration of new fundamental research concepts or approaches, and the initiation of research and educational activities that could provide the basis for a subsequent proposal for an FMRG.
+
+FMSG proposals should describe the building of multidisciplinary research teams that will engage community stakeholders to develop new directions in Future Manufacturing. Proposals must describe innovative and creative methods to establish new research directions and plans to demonstrate their feasibility. A variety of activities may be proposed, including pilot research projects to obtain preliminary results that could strengthen a proposal to a future solicitation, workshops, development of new partnerships, benchmarking current manufacturing capabilities on a global scale, and prototyping new educational activities. Proposals should demonstrate how the composition of the multidisciplinary team is appropriate for the scope of proposed activities. The Broader Impacts section of FMSG proposals should explain how proposed educational activities will equip a diverse range of students and workforce participants with skills to engage in Future Manufacturing, and how proposed activities will benefit the economy, environment, labor force, and industry and society at large.
+
+Considerations for Proposals in Both Tracks
+
+Successful proposals in both tracks will reflect interdisciplinary convergence research to enable new manufacturing capabilities, innovative education and workforce development plans, and research into the benefits and challenges of new manufacturing to communities, environment, the economy, and society. Proposals in both tracks will be reviewed by experts in the subject area of each proposal and may be reviewed by experts engaged to evaluate the educational and societal aspects of the proposal. An emphasis on workforce development and inclusion will support the NSAM’s objectives to expand and diversify the advanced manufacturing talent pool; develop, scale, and promote advanced manufacturing education and training; and strengthen connections between employers and educational organizations.
+
+Projects should actively promote diversity, equity, inclusion, and accessibility in all activities by engaging participants reflecting the full spectrum of diverse talent in science, technology, engineering, and mathematics (STEM), and including the Missing Millions (see National Science Board Vision 2030 report) as PIs, co-PIs, postdoctoral researchers, students, and other personnel. Participation and collaboration are encouraged from PIs and co-PIs from a broad range of institutions, including predominantly undergraduate institutions (PUIs), minority-serving Institutions (MSIs), institutions classified in the Carnegie Classification of Institutions of Higher Education as R2, D/PU, or M1-3, Community Colleges, and institutions in jurisdictions eligible for the Established Program to Stimulate Competitive Research (EPSCoR).
+
+Future Manufacturing supports multidisciplinary teams with the necessary depth and breadth to explore transformative and convergent approaches addressing manufacturing challenges. This strategy toward manufacturing research and education, its emphasis on teaming, and its focus on the long-term distinguish Future Manufacturing from complementary programs at NSF.
+
+International collaborations in both tracks are welcome, and proposers may take advantage of opportunities provided by existing NSF programs that promote international collaborations; NSF funds should be used to support only U.S.-based participants in any international collaboration.
+
+New materials and new processes may be inextricably linked in some applications of Future Manufacturing. If new materials are involved in Future Manufacturing activities, proposals must address explicitly the coupling between those new materials and new processes that will be required to produce them and should focus on the manufacturing aspects of the process/structure/property relationship.
+
+Transformative advances in manufacturing processes and products may create opportunities to implement innovations in social and organizational aspects of manufacturing where human workers interact with emerging technological advances to outperform either human workers or automation alone. Proposals submitted to this solicitation may address such opportunities through an optional Future of Work (FW) research component that enhances the Intellectual Merit of the proposal. The FW component should include expertise in appropriate social, economic, and/or behavioral disciplines. It will contain fully integrated research on the human worker, including a social, organizational, cognitive, behavioral, or health perspective. The optional FW component should show potential to alter established relationships between manufacturing, work, and society, to strengthen the social fabric, to promote human agency and dignity, to enhance the mental and physical well-being of manufacturing workers and the broader community, to protect the environment, and to facilitate ongoing innovation and continual constructive disruption in manufacturing. Proposals with an FW component have additional formatting requirements. See "Proposal Preparation Instructions" for specifics.
+
+Partnerships with industry, including Grant Opportunities for Academic Liaison with Industry (GOALI) proposals, are encouraged in proposals in both tracks. When industrial collaborators are involved, the proposal must contain a rationale for the collaboration, an explanation of the industrial collaborators' contributions and responsibilities to the project, and a description of how the collaboration will be managed. The proposal must contain a letter of collaboration from each industrial organization participating in the project that specifies the tasks that the industrial partner will carry out. GOALI proposals must be prepared in accordance with the guidance provided in Chapter II.F.5 of the PAPPG.
+
+To take advantage of potential synergies among activities supported by awards, a Future Manufacturing kickoff meeting will be held within three months of the award issuances. Recipients in both tracks will present their research and educational plans, discuss community engagement, and explore strategies to build diverse research and education communities in Future Manufacturing. Every PI and co-PI from all participating institutions is required to attend the kickoff meeting, which is expected to be in the Washington DC area, and proposers should include costs of participating in their budgets.
+
+There will also be an annual grantees' conference for sharing of successes, challenges, and future plans, and for NSF program officers to review progress. At least one PI and one co-PI from each award will be required to attend the conference, which is expected to be in the Washington DC area, and all PIs and co-PIs will be encouraged to participate. Proposers should include costs of participating in their budgets.
+
+This solicitation focuses on three thrust areas described below. Proposals should address Future Manufacturing in one or more of the thrust areas. The discussion of each thrust area is not intended to be limiting, and examples mentioned in each area are not intended to indicate any special interest on the part of NSF in the example topics. They are presented only to illustrate possible considerations in each thrust area .
+
+Future Cyber Manufacturing Research
+
+Research in this thrust area exploits opportunities at the intersection of computing and manufacturing with the potential to radically transform concepts of manufacturing. It anticipates new abstractions in design and manufacturing, the availability of a data infrastructure that capitalizes on the convergence of innovative sensors, actuators, devices and systems; new manufacturing approaches for semiconductor and quantum devices; low-latency and reliable secure sensing and communications; cloud and edge computing; data analytics; mathematical and computational modeling; uncertainty quantification and risk analysis; advanced controls; human-centric automation, teleoperation, and human-robot interaction; digital twins; and artificial intelligence and machine learning to increase the generality and reliability and reduce the expense of manufacturing processes and system control. Research may exploit opportunities at the intersection of quantum platforms and manufacturing with the potential to advance cyberinfrastructure with quantum computing, quantum sensing, and/or quantum communication/network technologies. Recent advances in machine learning and predictive analytics, autonomy, wireless communications, cyber-physical-human systems, the industrial internet of things, and advanced computing systems and services provide powerful incentives to rethink, reconceptualize, reinvent, and explore new possibilities for manufacturing.
+
+Future Eco Manufacturing Research
+
+Research in this thrust area will enable holistic manufacturing processes that encompass the entire manufacturing lifecycle and account for energy consumption, health and environmental impact, and cost effectiveness. Fundamental research could enable manufacturing processes that are designed from the start to produce products that degrade naturally or on cue or can be re-purposed without harmful byproducts and without reliance on technologies that are potentially harmful to the environment and society at large. Research in this thrust area could lead to new processes or synthesis of manufacturable materials, chemicals, devices, systems, and products that enable facile and direct re-purpose, reuse, or up-cycling into environmentally benign products. As semiconductor devices have become an integral part of daily life, research in eco-friendly semiconductor manufacturing processes for future micro-/nano-electronics and quantum devices and systems could reduce environmental impacts while being cost-effective. The goal of such research in eco manufacturing is to keep resources in use as long as possible, extract their maximum value while in use, and recover materials at the end of their service life.
+
+Future Biomanufacturing Research
+
+Research in this thrust area will enable biologically based production of therapeutic cells and molecules, chemicals, pharmaceuticals, materials, polymers, and fuels, as well as bio-based technologies for computing, signal processing, communication, and sensing in biological, electronic, and quantum systems. Fundamental research to enable new biomanufacturing will expand knowledge in biology and engineering to create products that interact effectively and seamlessly with cells, living tissues, and synthetic substrates. In addition, the seamless integration of new biological knowledge with manufacturing technology during product and process development may overcome longstanding barriers to scalability of new types of biomanufacturing platforms. Research should uncover and exploit fundamental biological principles, including quantum sensing and imaging, to address scaling challenges in biomanufacturing that will facilitate rapid transition from benchtop to production readiness. Research in this thrust area may complement and leverage advances at NSF centers for biomanufacturing and has the potential to enable new biomanufacturing paradigms that can benefit personalized healthcare, sustainable energy, environmental sustainability, and society at large.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 16
+
+In each year of the solicitation, depending on the quality of submissions and the availability of funds:
+
+-- approximately 8 FMRG will be awarded as Standard Grants or Continuing Grants for a period up to four years; and
+
+-- approximately 8 FMSG will be awarded as Standard Grants or Continuing Grants for a period up to two years.
+
+Proposals Involving Multiple Organizations. The PAPPG describes two kinds of collaborative proposal formats. This solicitation allows only a single proposal submission with subawards administered by the lead organization (Chapter II.E.3.a). For proposals involving multiple organizations, a lead organization must submit a proposal that describes the entire project. Funds may be distributed to other participating organizations as subawards from the lead organization. A budget on the standard NSF budget form and budget justification should be included for each subawardee. Separately submitted collaborative proposals will be returned without review.
+
+Anticipated Funding Amount: $28,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+State and Local Governments
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+An investigator may participate as PI, co-PI, or Senior/Key Personnel in at most one proposal—encompassing the proposal submitted by a lead organization and any subawards—in each track (FMRG and FMSG) per submission year. In the event that an investigator exceeds this limit, proposals received within the limit will be accepted based on earliest date and time of proposal submission. The remainder will be returned without review.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

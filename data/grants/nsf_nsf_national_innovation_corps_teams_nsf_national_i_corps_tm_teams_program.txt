@@ -16,3 +16,184 @@ Status: Cleared
 Posted date (Y-m-d): 2025-09-26
 URL: https://www.nsf.gov/funding/opportunities/nsf-national-innovation-corps-teams-nsf-national-i-corps-tm/nsf25-549
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+NSF National Innovation Corps Teams (NSF National I-Corps (TM) Teams) program
+
+I. Introduction
+
+America's prosperity has originated, in part, from the ability to capitalize economically on ground-breaking discoveries from science and engineering research. Simultaneously, a knowledgeable, creative workforce has maintained the country's global leadership in critical areas of technology. Taken together, these outcomes result from substantial, sustained investment in science and engineering. A strong capacity for leveraging foundational scientific discoveries into powerful engines of innovation is essential to maintain the competitive edge for the United States into the future.
+
+The NSF Directorate for Technology, Innovation and Partnerships (TIP) seeks to benefit all Americans by accelerating key technologies to advance U.S. competitiveness. The directorate partners across sectors to advance three primary focus areas – accelerating technology translation and development, fostering regional innovation and economic growth, and preparing the American workforce for better-quality, higher-wage jobs. Through the NSF National I-Corps Teams program, TIP seeks to accelerate the development of new technologies, products, processes and services that arise from foundational research. NSF National I-Corps Teams investments strategically strengthen the innovation ecosystem by addressing the challenges inherent in the early stages of the innovation process. This solicitation supports collaborations between academia and industry that are designed to overcome many of the obstacles in the path of innovation.
+
+II. Program Description
+
+The NSF National I-Corps Teams program provides NSF-funded faculty, students, and other researchers with entrepreneurial education, mentoring, and funding to accelerate the translation of knowledge derived from foundational research into emerging products, processes, and services that may attract subsequent third-party funding.
+
+The selected teams participate in the NSF National I-Corps Teams program curriculum. This curriculum, now delivered exclusively in an online format, typically includes a Kick-off meeting with entrepreneurial immersion training, weekly training meetings, and a Lessons Learned Closing Presentation.
+
+An NSF National I-Corps team includes an Entrepreneurial Lead, Technical Lead, and the Industrial Mentor. During the training program, the team will be expected to spend significant time conducting active customer discovery, including interviewing potential customers and potential partners. More details on the NSF National I-Corps Teams program may be found in the NSF I-Corps Teams FAQs .
+
+The outcomes of NSF National I-Corps Teams projects will be threefold: 1) a decision on a clear path forward based on an assessment of the business model, 2) substantial first-hand evidence for or against product-market fit, with the identification of customer segments and corresponding value propositions, and 3) a narrative of a compelling technology demonstration for potential partners and investors.
+
+Requirements:
+
+To be eligible to pursue funding in the NSF National I-Corps Teams program, proposers must have received a prior award from NSF in a scientific or engineering field relevant to the proposed innovation that is currently active or that has been active within five years from the date of the NSF National I-Corps Teams proposal submission. The lineage of the prior award extends to the PI, co-PIs, Senior Personnel, Postdoctoral Researchers, Professional Staff or others who were supported under the award. The prior award may range from a single-investigator award to a large, distributed center.
+
+Proposing NSF National I-Corps teams without a prior award from NSF are also eligible to apply based on participation in a Regional NSF I-Corps Training Program hosted by an NSF I-Corps Hub. A senior member of the Regional I-Corps Program staff must provide a letter of recommendation for the team to be considered for the NSF National I-Corps Teams Program. This letter is to be submitted with the Executive Summary application and should be included in the Other Supplementary Documents in the proposal.
+
+The technology underlying the effort must: 1) have an explicit connection to an IHE (beyond personnel); 2) be consistent with NSF requirements for intellectual merit; and 3) represent a deep technical innovation based on discovery in fundamental science and/or engineering.
+
+Before an I-Corps Teams proposal may be submitted, PIs must complete a series of steps that may lead to an invitation to submit a proposal. The steps are as follows:
+
+1. Team Formation:
+
+Identify at least three NSF National I-Corps Team members. The NSF National I-Corps team will consist of three roles:
+
+The Entrepreneurial Lead (EL) may be a postdoctoral scholar, graduate, or other student, staff member, researcher, or other personnel with relevant knowledge of the technology and a deep commitment to investigating the commercial potential and landscape surrounding the innovation. The Entrepreneurial Lead will typically guide translation of the technology, should the NSF National I-Corps Teams project demonstrate the potential for commercial viability.
+
+The Technical Lead (TL) may be a faculty member, senior research scientist, or postdoctoral scholar with deep and direct technical expertise in the relevant core technology about which the National NSF I-Corps team is exploring commercial potential. Typically, the TL will also serve as the Principal Investigator (PI) of the award.
+
+The Industry Mentor (IM) may be an experienced entrepreneur or business leader with expertise in transitioning technology out of academic labs. The IM should be a third-party resource and may be recommended by the proposing institution. The IM will be responsible for advising the team on its progress throughout the NSF National I-Corps Program and will usually have contacts in the industry area(s) being explored. For more details on the role of the IM, please see the NSF I-Corps Teams FAQs .
+
+Teams may have an additional member in the role of co-EL, co-TL, or co-IM. Teams with more than four members will typically not be supported.
+
+2. Executive Summary Preparation:
+
+Prepare a two-page (maximum) Executive Summary that describes the following:
+
+Team Members. Composition and roles (EL, TL, and IM, plus any additional co-EL, co-TL or co-IM) of the team members proposing to participate in the NSF National I-Corps Teams program and a brief description of each member's professional expertise.
+
+Principal Investigator. Principal Investigator (PI) and a brief description of their connection to the team. In most cases the PI will also be the TL.
+
+Lineage. Relevant current/prior NSF awards establishing team eligibility, including that of a Regional I-Corps Training Program if appropriate.
+
+Technology. Brief description of the core technology.
+
+Application/Market. Brief description of the potential commercial application.
+
+Current Plan. Brief description of the current commercialization plan.
+
+If the proposed NSF National I-Corps Team is applying based on participation in an NSF Regional I-Corps training program hosted by a current NSF I-Corps Hub, a senior member of the Hub must provide a letter of recommendation for the Team to be considered in the NSF National I-Corps Teams program. This letter is to be submitted with the Executive Summary application and included in the Other Supplementary Documents. The technology underlying the effort must: 1) have an explicit connection to an IHE (beyond personnel); 2) be consistent with NSF requirements for intellectual merit; and 3) represent a deep technical innovation based on discovery in foundational science and/or engineering.
+
+3. NSF Contact:
+
+Submit the initial application, called an Executive Summary, via the Executive Summary Form for review. This will require creating a login account.
+
+4. Executive Summary Review Process:
+
+NSF National I-Corps Teams Executive Summaries will be reviewed by NSF program staff. Teams may be contacted for additional information or invited to participate in an interview to verify the information in the Executive Summary application. Teams selected to participate in the NSF National I-Corps Teams program will be contacted to select a cohort and invited to submit a proposal.
+
+5. Proposal Submission:
+
+The NSF National I-Corps Teams program will not accept proposals that have not been authorized for submission by a cognizant NSF Program Officer. Uninvited proposals will be returned without review.
+
+Each team member will be asked to agree to all program requirements: meeting the target number of interviews (typically, a minimum of 100 interviews) with potential customers and potential partners from their proposed target market(s) ecosystem during the program, allocating the time required to meet the program requirements, agreeing to attend all NSF National I-Corps Teams meetings, and committing fully to the NSF National I-Corps Teams program before receiving approval to submit a proposal to NSF.
+
+See Section V on Proposal Preparation for instructions about preparing an NSF National I-Corps Teams proposal.
+
+6. I-Corps Teams Program Participation
+
+All NSF National I-Corps team members are required to participate in the NSF National I-Corps Teams program. This curriculum, delivered exclusively in an online format, typically includes a Kick-off meeting with Entrepreneurial Immersion Training, a weekly training meeting and a Lessons Learned Closing Presentation. An NSF National I-Corps team includes the EL, TL, and IM. More details on the NSF National I-Corps Teams program can be found in the NSF I-Corps Teams FAQs . Dates for upcoming cohorts are posted on the NSF I-Corps Teams program website .
+
+The NSF National I-Corps Teams program provides a real-world, hands-on, immersive learning experience to evaluate the commercial opportunity around the innovation. The main activity is customer discovery where the team “leaves the lab” to evaluate the potential product-market fit and the wider business model. The team's progress in customer discovery will be shared with the entire cohort to facilitate group learning. At the end of the curriculum, teams are expected to have performed at least one hundred (100) interviews with potential customers and potential partners from their proposed target market(s).
+
+NSF National I-Corps teams are encouraged to travel to reach their customer discovery goals when feasible. Travel to customer discovery interviews typically does not need approval by NSF, however, teams must obtain written prior approval from their NSF I-Corps Program Officer for travel to an academic conference. International travel is not allowed.
+
+Outcomes from an NSF National I-Corps Teams Grant:
+
+Successful completion of the NSF National I-Corps Teams Program is expected to contribute to one or more of the following:
+
+Enhanced entrepreneurial mindset among NSF-funded researchers,
+
+Students prepared to be competitive entrepreneurially,
+
+Informed decision about the commercial potential of the proposed technology,
+
+Selection of a licensing commercialization strategy
+
+Submission of a SBIR/STTR proposal,
+
+Formation of a for-profit, start-up business, and
+
+Development of a business model suitable for review by third-party investors.
+
+NSF will seek to collect outcomes from the grantees along the lines listed above during the post-award period.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant
+
+Estimated Number of Awards: 240
+
+Estimated program budget and number of awards are subject to the availability of funds.
+
+Anticipated Funding Amount: $12,000,000
+
+The anticipated funding amount is approximately $12,000,000 subject to availability of funds.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Recovery of indirect costs (F&A) shall be limited to $5,000. As such, this program does require mandatory cost sharing, and, therefore, is an exception to NSF's cost sharing policy.
+
+Indirect Cost (F&A) Limitations:
+
+Recovery of indirect costs (F&A) shall be limited to $5,000. As such, this program does require mandatory cost sharing, and, therefore, is an exception to NSF's cost sharing policy.
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Principal Investigator (PI) Limit:
+
+Multiple awards based on the same core technology generally will not be supported.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+Multiple I-Corps awards to a PI participating on a currently active I-Corps team generally will not be supported. Collaborative proposals are not eligible for the I-Corps Teams Program.
+
+Additional Eligibility Info:
+
+Proposers must have either 1) received a prior award from NSF in a scientific or engineering field relevant to the proposed innovation that is currently active or that has been active within five years from the date of the NSF National I-Corps Teams proposal submission or 2) have participated in a NSF Regional I-Corps Training program hosted by an NSF I-Corps Hub and have a letter of recommendation signed by a senior member of the NSF Regional I-Corps program staff.

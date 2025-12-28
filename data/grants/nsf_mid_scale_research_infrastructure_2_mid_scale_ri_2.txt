@@ -15,3 +15,180 @@ Status: Cleared
 Posted date (Y-m-d): 2023-03-20
 URL: https://www.nsf.gov/funding/opportunities/mid-scale-ri-2-mid-scale-research-infrastructure-2/nsf23-570
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Mid-scale Research Infrastructure-2 (Mid-scale RI-2)
+
+I. Introduction
+
+The need for a well-defined NSF mid-scale research infrastructure funding program has been recognized by stakeholders in the scientific community and by Congress in the American Innovation and Competitiveness Act (AICA) of 2017. Responding to Congress, the National Science Board report, "Bridging the Gap: Building a Sustained Approach to Mid-scale Research Infrastructure and Cyberinfrastructure at NSF" 1 , highlights that:
+
+"The research community has identified mid-scale research infrastructure as a key enabler of scientific advances on shorter timescales than required for the larger projects funded within the MREFC (Major Research Equipment and Facilities Construction) account. Mid-scale research infrastructure can also provide the foundations for new innovative large infrastructure, and, in the process, train early-career researchers in the development, design, construction, and effective use of cutting-edge infrastructure. Likewise, cyberinfrastructure (CI) is key to solving the challenges of collecting, processing, and distributing the big data so prevalent in today's science and engineering endeavors. Infrastructure investments at the required mid-level can also help maintain the United States' standing among global partners and competitors."
+
+The NSB Report notes that many mid-scale projects have potential for high scientific impact and have a level of community support as indicated by National Academies reports, directorate strategic plans and/or other advisory groups.
+
+The Mid-scale Research Infrastructure programs are aimed at transforming scientific and engineering research fields as well as science, technology, engineering and mathematics (STEM) education research by making available new capabilities, while simultaneously training early-career researchers in the development, design, and construction of cutting-edge infrastructure.
+
+In addition to its impacts on advancing discovery, research infrastructure also has the potential to have significant economic and workforce development benefits. As a result, it is important that the nation's academic mid-scale infrastructure portfolio reflect the geographic and institutional diversity of the U.S. Organizations in jurisdictions eligible for NSF's Established Program to Stimulate Competitive Research (EPSCoR) are particularly encouraged to lead Mid-scale RI-2 proposals.
+
+This solicitation for Mid-scale RI-2 activities supports implementation of projects with a total cost ranging from $20 million to below the threshold for Major Facilities projects, currently $100 million. Mid-scale RI-2 projects will directly enable advances in any of the research domains supported by NSF, including STEM education research. Projects may also include upgrades to existing research infrastructure.
+
+1 https://www.nsf.gov/nsb/publications/2018/NSB-2018-40-Midscale-Research-Infrastructure-Report-to-Congress-Oct2018.pdf .
+
+II. Program Description
+
+Mid-scale RI-2 is an NSF-wide competitive program that addresses scientific demand for research infrastructure in the $20 million -$100 million cost range for implementation. Mid-scale RI-2 is intended to support visionary projects that are high-priority national needs as identified by research communities of the United States, rather than projects primarily serving regional, campus or local interests. Solving the most pressing scientific and societal problems of the day – such as those called out in National Academies reports and decadal surveys, identified through research community planning and prioritizing exercises or other emerging national priorities – using new technologies, techniques, and concepts is encouraged in this competition. The scientific justification should demonstrate how the proposed research infrastructure provides potentially transformative research capability or access relative to what is currently available to the general U.S. research community. Investigators whose preliminary proposals are for capabilities similar to those currently available to the U.S. research community are unlikely to be invited to submit full proposals. All proposals should show the project's value and benefit to the U.S. science community.
+
+Proposals for research infrastructure that is part of a larger project must clearly state the impact of the proposed infrastructure on the project, whether and how any specific part(s) of the infrastructure would be identified with NSF, and the benefit to the U.S. research communities that NSF supports.
+
+The Total Project Cost (TPC) submitted to NSF for implementation must be at least $20 million but less than $100 million. Mandatory cost analyses will be conducted on proposals considered for award and will need to demonstrate a high probability that the project can be completed in less than $100 million. Projects whose most likely risk-adjusted costs are found to exceed this threshold, as determined via the NSF cost analysis, will not be considered for funding from the Mid-scale RI-2 Program. NSF will utilize independent cost estimate reviews (in some cases performed by contractors or other government agencies) to inform the cost analysis.
+
+PIs are reminded of the GAO cost escalation and uncertainly requirements as outlined in the RIG ( Section 4.2.2.3 ). Besides the award duration, careful consideration should also be given to the 2-year cycle of the Mid-scale RI-2 Program, from solicitation publication to eventual award decision, and its potential impact on the anticipated total project cost. Thus, proposed budgets should carefully consider validity of quotes, market forces, escalation (including inflation), and other potential influencing factors that could push the risk-adjusted total project cost above the programmatic threshold.
+
+If a PI finds, while developing the project budget, that the total project cost could reasonably exceed the upper limit of the Mid-scale RI-2 Program, they should consult with the cognizant Program Officer about other potential options.
+
+NSF defines Research Infrastructure (RI) as any combination of facilities, equipment, instrumentation, or computational hardware or software, and the necessary human capital in support of the same. Major facilities and mid-scale projects are subsets of research infrastructure. The NSF Mid-scale RI-2 Program supports the implementation of unique and compelling RI projects at a national scale. Mid-scale RI-2 projects may include any combination of equipment, instrumentation, cyberinfrastructure, broadly used large-scale data sets, and the commissioning and/or personnel needed to successfully complete the project. Mid-scale RI-2 projects should fill a research community-defined scientific need or national research priority that enables current and next-generation U.S. researchers and a diverse STEM workforce to remain competitive in the global research environment. Mid-scale RI-2 investments are expected to demonstrate high potential to significantly advance the Nation's research capabilities. Mid-scale RI-2 projects will directly enable advances in any of the research domains supported by NSF, including STEM education research. Projects may also include upgrades to existing research infrastructure.
+
+Mid-scale RI-2 is intended to support the implementation stage of a wide variety of RI projects. Mid-scale RI-2 therefore uses an inclusive definition of implementation, which can include traditional stand-alone construction or acquisition as well as a degree of final development for infrastructure and equipment projects. For example, it could include a spiral development step leading to the acquisition of a larger system for cyberinfrastructure or other shared community research capability.
+
+Guidance on Proposals for Research Cyberinfrastructure Projects:
+
+The Mid-scale RI-2 program will consider proposals for research cyberinfrastructure (CI) projects that aim to significantly enable new science and engineering research at national and international scales. Such research CI proposals must be strongly driven by the identified research needs of one or more science and engineering communities supported by NSF, advance the Nation's holistic research cyberinfrastructure ecosystem, and comprise innovative technical and operational objectives. Proposals that specifically focus narrowly on data storage or seek to support broadly provisioned high-performance computing resources will not be supported by the Mid-scale RI-2 program. Prospective principal investigators (PIs) with questions should contact the Mid-scale RI-2 program team.
+
+The Mid-scale RI-2 program will NOT consider preliminary or full proposals that include any of the following:
+
+Pre-implementation research and development and other community or technical preparatory activities;
+
+Science or engineering research (except for validation of operational capability);
+
+Post-implementation research, operations, or maintenance;
+
+Education and outreach activities other than student training in the implementation of state-of-the-art research infrastructure;
+
+Projects with total project costs outside this solicitation's budgetary limits, either during initial submission or identified during subsequent review and NSF cost analyses;
+
+General-purpose buildings, support systems and equipment that are not directly required for the implementation and eventual operation of the proposed infrastructure and/or that support multi-purpose usage in addition to research;
+
+Infrastructure that is primarily at the regional, campus or local scale;
+
+Multiple pieces of infrastructure/instrumentation that are grouped together, either within a single campus or for a collection of consortium or campus labs, to meet the minimum Total Project Cost but would not be widely recognized as a single, well-integrated entity that addresses documented national research priorities;
+
+Other organized activities, such as research centers, that are not consistent with the definition of NSF mid-scale research infrastructure provided in this solicitation; or
+
+Continuation or renewal of projects funded by the Mid-scale RI-2 program.
+
+All Mid-scale RI-2 proposals seeking support are subject to return without review if noncompliance with any of the above bulleted items or guidance on research cyberinfrastructure projects is established prior to review, or declination if noncompliance is established as a result of merit review.
+
+Proposals for mid-scale research infrastructure should describe the types of research for which the infrastructure would be used. These should be in fields of science, engineering, mathematics, or STEM education research that are typically supported by NSF programs. The proposed infrastructure can be used for both fundamental research and/or translational research.
+
+Mid-scale projects are ideal opportunities for training the next generation of leaders in engineering, science and technology and creators of cutting-edge new capabilities, which are otherwise uncommon. As such, proposals must include a well-developed plan for student training in all activities leading to and including the implementation of mid-scale research infrastructure , and involve a diverse workforce in mid-scale research infrastructure development, and/or associated data management. To maximize the impact of Mid-scale RI-2 investments, proposals must not only focus on innovative, potentially transformative research infrastructure, but also on the opportunities the project's implementation presents to expand diversity and student training in all aspects of the project's implementation.
+
+Strong project management and cost controls should be demonstrated features of the proposed Project Execution Plan (PEP), in particular, the identification and mitigation of foreseeable risks; scope, schedule, and budget management; and project controls, including plans for budget and schedule contingency, as appropriate. Please consult NSF's RIG for definitions of certain terms used in this solicitation, such as the PEP.
+
+The Mid-scale RI-2 program will evaluate projects based on standard NSF merit review criteria of Intellectual Merit and Broader Impacts, as well as the solicitation-specific criteria presented below. Evaluation of the proposed RI's science drivers, relevance to community-established strategic goals (as identified by NASEM studies, roadmaps, and other strategic planning initiatives), demonstration of technical maturity, project management, and planning for operations will be key elements reviewed. Strong project management and robust cost estimation will be emphasized in the Mid-scale RI-2 proposal review. The use of GAO best practices, as described in the RIG, for cost estimation is encouraged. Proposers are strongly encouraged to account for all foreseeable costs in the project budget, including adequate plans for risk mitigation.
+
+In the Facilities, Equipment and Other Resources section of the proposal, proposers should include an aggregated description of the internal and external resources that the organization and its collaborators will provide to the project, should it be funded. The description should not include any quantifiable financial information.
+
+Required supporting materials should be included as Supplementary Documents, as necessary, and must be searchable. See Section V.A for additional information.
+
+Preliminary proposals will be evaluated and ranked for Intellectual Merit and Broader Impacts and the additional solicitation-specific review criteria via external merit review panels and/or ad hoc reviews. The PIs of highly ranked preliminary proposals will be invited to submit full proposals. Additional NSF-organized Site Visits and Reverse Site Visits may be part of the review process for proposals selected for further consideration; additional design reviews may also be required.
+
+Proposals will be funded for no more than five (5) years.
+
+Prior to making a funding decision, additional steps may be required as part of NSF's compliance with applicable federal environmental authorities such as the National Environmental Policy Act (NEPA), the National Historic Preservation Act (NHPA), and the Endangered Species Act (ESA). For example, these statutes require NSF to consider the potential impacts of activities associated with proposals under consideration for NSF funding on a broad range of environmental resources (NEPA), significant historic properties (NHPA), and endangered and/or threatened species (ESA). To assist NSF in determining which environmental statutes may apply and what level of environmental oversight may be appropriate, preliminary proposals and full proposals should indicate whether activities are anticipated to impact the natural or cultural environment, especially those involving renovation, construction, or major fixed equipment installation. In order to support NSF's federal environmental review and compliance obligations, additional information may be requested from the PI. For projects that are invited to submit full proposals, an Organization Environmental Impacts Checklist must be provided as a Single Copy Document. Details are provided under the Full Proposal Preparation section in this Solicitation.
+
+International Projects:
+
+Projects with an international component may be submitted to the Mid-scale RI-2 program, in accordance with the eligibility requirements above. International projects typically involve partnering a U.S. project with one or more international collaborators in a specific institution or organization. Successful international projects include (1) true intellectual collaboration with a foreign partner and (2) benefits that are realized from the expertise, specialized skills, facilities, phenomena, or other resources that the foreign collaborator or research environment provides.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 2 to 5
+
+Subject to the availability of funds and quality of proposals received.
+
+Anticipated Funding Amount: $150,000,000 to $200,000,000
+
+Total funds available are anticipated to be approximately $150 million to $200 million over five years.
+
+Individual awards from $20 million up to but not including $100 million are anticipated for advanced design and implementation, pending availability of funds. Duration of the award may be up to five (5) years.
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Proposals may only be submitted by organizations located in the United States, its territories or possessions, as follows: Institutions of higher education (Ph.D.-granting and non-Ph.D.-granting), acting on behalf of their faculty members, that are accredited in and have their main campus in the United States, its territories or possessions. Distinct academic campuses (e.g., that award their own degrees, have independent administrative structures, admissions policies, alumni associations, etc.) within multi-campus systems qualify as separate submission-eligible institutions. Not-for-profit, non-degree-granting domestic U.S. organizations, acting on behalf of their employees, for example (but not limited to) independent museums and science centers, observatories, research laboratories and similar organizations that are directly associated with the Nation's research activities. These organizations must have an independent, permanent administrative organization (e.g., a sponsored projects office) located in the United States, its territories or possessions, and have 501(c)(3) tax status. Consortia as follows: A legally incorporated, not-for-profit consortium that includes two or more submission-eligible organizations as described in items (1) and (2) above. Such a consortium is one with an independent administrative structure (e.g., a sponsored projects office) located in the United States, its territories or possessions and has 501(c)(3) status. Submission-eligible organizations as described in items (1) and (2) above, on behalf of an informal consortium. The cover sheet of such a proposal must identify both a PI and co-PI(s) from at least two Mid-scale RI-2 submission-eligible organizations (items 1 and/or 2 above) as lead investigators in the consortium. These consortium proposals may also include as partners other U.S. and non-U.S. organizations that are not eligible to submit Mid-scale RI-2 proposals. In either case, the proposal title should indicate that a consortium is proposing. For-profit commercial organizations, especially U.S. small businesses with strong capabilities in scientific or engineering research or education, are eligible for infrastructure development support through subawards/subcontracts as private sector partners with submitting organizations; they may not submit proposals. Such partnerships must be substantive and meaningful, and build capacity for infrastructure development within Mid-scale RI-2 submission-eligible organization(s). Unless otherwise specified in the award, the title to the resulting infrastructure should be retained by the Mid-scale RI-2-eligible performing organization(s). Prospective PIs may contact the cognizant Mid-scale RI-2 program officer regarding organizational eligibility, and for information on other NSF funding opportunities for instrumentation and research infrastructure. Additionally: Major Facilities-related Proposals: The Mid-scale RI-2 program will not accept proposals for an instrument or other infrastructure that augments an ongoing NSF Major Multi-user Research Facility (Major Facility) project in the construction stage since the scope of those projects is already defined. A list of such facilities can be found at https://www.nsf.gov/bfa/lfo/ . FFRDC-related Proposals: Although NSF's Federally Funded Research and Development Centers (FFRDCs) are eligible to submit under item 2) above, proposals involving another Federal agency or one of its FFRDCs can only be submitted as a consortium proposal by a Mid-scale RI-2 submission-eligible organization under item 3(b) above. In addition to at least two Mid-scale RI-2 eligible organizations, the proposal must include the agency/FFRDC (or its managing organization) as a partner in the consortium, even if the role of the FFRDC in the project is solely to house the infrastructure. The research infrastructure must make unique contributions to the needs of researchers within the consortium and/or establish access to new multi-user research capabilities. Preliminary inquiry to the cognizant Mid-scale RI-2 point of contact should be made before preparing a proposal for submission.
+
+Institutions of higher education (Ph.D.-granting and non-Ph.D.-granting), acting on behalf of their faculty members, that are accredited in and have their main campus in the United States, its territories or possessions. Distinct academic campuses (e.g., that award their own degrees, have independent administrative structures, admissions policies, alumni associations, etc.) within multi-campus systems qualify as separate submission-eligible institutions.
+
+Not-for-profit, non-degree-granting domestic U.S. organizations, acting on behalf of their employees, for example (but not limited to) independent museums and science centers, observatories, research laboratories and similar organizations that are directly associated with the Nation's research activities. These organizations must have an independent, permanent administrative organization (e.g., a sponsored projects office) located in the United States, its territories or possessions, and have 501(c)(3) tax status.
+
+Consortia as follows: A legally incorporated, not-for-profit consortium that includes two or more submission-eligible organizations as described in items (1) and (2) above. Such a consortium is one with an independent administrative structure (e.g., a sponsored projects office) located in the United States, its territories or possessions and has 501(c)(3) status. Submission-eligible organizations as described in items (1) and (2) above, on behalf of an informal consortium. The cover sheet of such a proposal must identify both a PI and co-PI(s) from at least two Mid-scale RI-2 submission-eligible organizations (items 1 and/or 2 above) as lead investigators in the consortium. These consortium proposals may also include as partners other U.S. and non-U.S. organizations that are not eligible to submit Mid-scale RI-2 proposals. In either case, the proposal title should indicate that a consortium is proposing. For-profit commercial organizations, especially U.S. small businesses with strong capabilities in scientific or engineering research or education, are eligible for infrastructure development support through subawards/subcontracts as private sector partners with submitting organizations; they may not submit proposals. Such partnerships must be substantive and meaningful, and build capacity for infrastructure development within Mid-scale RI-2 submission-eligible organization(s). Unless otherwise specified in the award, the title to the resulting infrastructure should be retained by the Mid-scale RI-2-eligible performing organization(s). Prospective PIs may contact the cognizant Mid-scale RI-2 program officer regarding organizational eligibility, and for information on other NSF funding opportunities for instrumentation and research infrastructure.
+
+A legally incorporated, not-for-profit consortium that includes two or more submission-eligible organizations as described in items (1) and (2) above. Such a consortium is one with an independent administrative structure (e.g., a sponsored projects office) located in the United States, its territories or possessions and has 501(c)(3) status.
+
+Submission-eligible organizations as described in items (1) and (2) above, on behalf of an informal consortium. The cover sheet of such a proposal must identify both a PI and co-PI(s) from at least two Mid-scale RI-2 submission-eligible organizations (items 1 and/or 2 above) as lead investigators in the consortium. These consortium proposals may also include as partners other U.S. and non-U.S. organizations that are not eligible to submit Mid-scale RI-2 proposals. In either case, the proposal title should indicate that a consortium is proposing. For-profit commercial organizations, especially U.S. small businesses with strong capabilities in scientific or engineering research or education, are eligible for infrastructure development support through subawards/subcontracts as private sector partners with submitting organizations; they may not submit proposals. Such partnerships must be substantive and meaningful, and build capacity for infrastructure development within Mid-scale RI-2 submission-eligible organization(s). Unless otherwise specified in the award, the title to the resulting infrastructure should be retained by the Mid-scale RI-2-eligible performing organization(s). Prospective PIs may contact the cognizant Mid-scale RI-2 program officer regarding organizational eligibility, and for information on other NSF funding opportunities for instrumentation and research infrastructure.
+
+In either case, the proposal title should indicate that a consortium is proposing.
+
+For-profit commercial organizations, especially U.S. small businesses with strong capabilities in scientific or engineering research or education, are eligible for infrastructure development support through subawards/subcontracts as private sector partners with submitting organizations; they may not submit proposals. Such partnerships must be substantive and meaningful, and build capacity for infrastructure development within Mid-scale RI-2 submission-eligible organization(s). Unless otherwise specified in the award, the title to the resulting infrastructure should be retained by the Mid-scale RI-2-eligible performing organization(s). Prospective PIs may contact the cognizant Mid-scale RI-2 program officer regarding organizational eligibility, and for information on other NSF funding opportunities for instrumentation and research infrastructure.
+
+Additionally:
+
+Major Facilities-related Proposals: The Mid-scale RI-2 program will not accept proposals for an instrument or other infrastructure that augments an ongoing NSF Major Multi-user Research Facility (Major Facility) project in the construction stage since the scope of those projects is already defined. A list of such facilities can be found at https://www.nsf.gov/bfa/lfo/ .
+
+FFRDC-related Proposals: Although NSF's Federally Funded Research and Development Centers (FFRDCs) are eligible to submit under item 2) above, proposals involving another Federal agency or one of its FFRDCs can only be submitted as a consortium proposal by a Mid-scale RI-2 submission-eligible organization under item 3(b) above. In addition to at least two Mid-scale RI-2 eligible organizations, the proposal must include the agency/FFRDC (or its managing organization) as a partner in the consortium, even if the role of the FFRDC in the project is solely to house the infrastructure. The research infrastructure must make unique contributions to the needs of researchers within the consortium and/or establish access to new multi-user research capabilities. Preliminary inquiry to the cognizant Mid-scale RI-2 point of contact should be made before preparing a proposal for submission.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There is no limit on the number of preliminary proposals an organization may submit as the lead organization. Full proposals are to be submitted only if/when invited by NSF. There is no limit to participation as a partner organization or subawardee.
+
+Although more than one organization may participate in a proposal, a single organization must accept overall management responsibility for the project. The proposal must be submitted by one organization, with funding provided to any other organization through subawards. The use of the separately submitted collaborative proposal method is not permitted.
+
+Limit on Number of Proposals per PI or co-PI: 2
+
+An individual may serve as the Principal Investigator (PI) or a co-Principal Investigator (co-PI) for no more than two (2) proposals. A PI or co-PI for a preliminary proposal that is not invited for a full proposal submission may serve as a participant or co-PI on an invited full proposal at the full-proposal organization's and PI's discretion.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Submission of Letters of Intent is required. Please see the full text of this solicitation for further information.
+
+Preliminary Proposals: Submission of Preliminary Proposals is required. Please see the full text of this solicitation for further information.
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

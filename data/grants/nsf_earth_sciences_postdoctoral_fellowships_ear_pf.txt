@@ -11,3 +11,110 @@ Status: Cleared
 Posted date (Y-m-d): 2024-10-02
 URL: https://www.nsf.gov/funding/opportunities/ear-pf-earth-sciences-postdoctoral-fellowships/nsf25-500
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Earth Sciences Postdoctoral Fellowships (EAR-PF)
+
+I. Introduction
+
+The Division of Earth Sciences (EAR) is in the Geosciences Directorate. EAR supports proposals for research geared toward improving the understanding of the structure, composition, and evolution of the Earth, the life it supports, and the processes that govern the formation and behavior of the Earth's materials. The results of this research will create a better understanding of the Earth's changing environments, and the natural distribution of its mineral, water, biota, and energy resources and provide methods for predicting and mitigating the effects of geologic hazards such as earthquakes, volcanic eruptions, floods, and landslides. EAR awards postdoctoral fellowships that focus on any of the disciplinary or cross-disciplinary research areas supported by the division.
+
+II. Program Description
+
+A. Appropriateness for EAR Priorities
+
+The EAR postdoctoral fellows are expected to propose a strong, coherent research program in or across any area of Earth Science within the scope of the disciplines covered in the Division of Earth Sciences (EAR) ( https://www.nsf.gov/div/index.jsp?div=EAR ). Proposals that address interdisciplinary questions encompassed by one or more traditional EAR disciplines are also appropriate for this solicitation. The EAR Division supports proposals for research geared toward improving the understanding of the structure, composition, and evolution of Earth, the evolutionary history of the life it supports, and the processes that govern the formation and behavior of Earth materials. EAR is particularly interested in proposals that address the priority science questions outlined in A Vision for NSF Earth Sciences 2020-2030: Earth in Time (2020) ( https://nap.nationalacademies.org/catalog/25761/a-vision-for-nsf-earth-sciences-2020-2030-earth-in ) from the National Academies of Sciences, Engineering, and Medicine. Candidates are encouraged to approach the fellowship as an opportunity to broaden their experience with research that moves beyond their previous research focus, and that takes a broad view of integrating disciplines, extending technical approaches to problems, or expanding collaborations. All proposals must include an earth science research effort; proposals that are solely focused on education will not be considered. The EAR Division has made it a priority to address the challenges in advancing culture that achieves outcomes of creating opportunities everywhere for everyone, and increasing participation in the geoscience discipline. Proposers are encouraged to explicitly address this priority in their proposed activities. Principal Investigators are strongly encouraged to contact the Program Director in their area of science (see https://www.nsf.gov/div/index.jsp?div=EAR ) to discuss the appropriateness of their research for EAR funding.
+
+In addition, fellowship proposers are expected to include a program of personal professional development activities as part of their proposal. Such activities may include training or experiences important for careers in academia, government, industry, and/or other career paths. As a rough guideline, fellows should plan on their professional development activities taking no less than 10% and no more than 25% of their time. Proposers are encouraged to discuss the proposed professional development activities with their proposed mentor(s) prior to proposal submission so that the professional development activities can be incorporated into the mentoring plan described in the letter(s).
+
+Artificial intelligence will be considered a priority area within this program. Proposers seeking to address this priority should explain in their proposal how they will integrate artificial intelligence into their research and/or broader impact activities.
+
+B. Host Organizations
+
+The fellow must affiliate with a primary host organization. Eligible primary organizations include U.S. IHEs, non-profit, non-academic organizations, or for-profit research organizations that are eligible to receive NSF funding. Federally funded research and development centers (FFRDCs) and NSF-funded FFRDCs, are ineligible as primary host organizations. Any federal agencies or federally funded centers, facilities or institutes are ineligible as primary host organizations. Foreign organizations are also ineligible as primary host organizations. Multiple host organizations are permitted and may be appropriate for those looking to pursue interdisciplinary work, collaborative opportunities, and/or activities related to broadening participation. Regardless of the number of host organizations proposed, a primary host organization, which will receive and administer the award, must be identified.
+
+In general, NSF expects that the fellowship will support work at an organization(s) other than the fellow's graduate institution or current affiliated institution because the fellowship objectives include broadening the perspectives and experiences of the fellows and promoting interdisciplinary research careers. Consequently, all candidates must present strong justification for their choice of host organization(s) and must clearly explain the benefits of this choice for their research and for their professional development goals. All proposals will be evaluated in the context of the potential benefits of the host organization to enable the proposed research, broader impacts, and career development of the PI.
+
+PIs are encouraged to expand their network of collaborators and implement the fellowship at an organization new to the PI. However, PIs who choose to carry out the postdoctoral fellowship at the organization where they received their PhD or their current organization at the time of submission must present a strong justification with clear explanation of the benefits of this choice to their research and career development goals. Proposals that fail to justify the reason for carrying out their fellowship at an organization that is not new to the PI will be returned without review.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 8 to 10
+
+Total of approximately 8 - 10 awards each year are anticipated, subject to availability of funds and the quality of proposals received. Each award has a two-year duration.
+
+Anticipated Funding Amount: $2,784,000
+
+Funding amount pending the availability of funds and the quality of proposals received.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Earth Sciences Postdoctoral Fellowship proposals are submitted directly by the fellowship candidate to NSF. Each fellowship candidate must affiliate with a primary host institution. Awards will be made to the institution.
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+Federally funded research and development centers (FFRDCs) and NSF-funded FFRDCs, are ineligible as primary host organizations. Any federal agencies or federally funded centers, facilities or institutes are ineligible as primary host organizations. Foreign organizations are also ineligible as primary host organizations.
+
+Who May Serve as PI:
+
+To be eligible to submit a proposal to the EAR-PF Program an individual must, as of the full proposal deadline, meet all the following criteria:
+
+Be a U.S. citizen, national, or permanent resident (i.e., have a "green card") at the time the proposal is submitted.
+
+Have earned the doctoral degree (PhD), or expect to have earned the doctoral degree prior to the required start date of the fellowship.
+
+Not have worked for more than a total of 24 full-time-equivalent months in positions that require the doctoral degree by the EAR-PF deadline date.
+
+Not have submitted concurrently the same project to another program at NSF.
+
+By signing and submitting the proposal, the fellowship candidate is certifying that they meet the eligibility criteria specified in this program solicitation. Willful provision of false information in this request and its supporting documents or in reports required under an ensuing award is a criminal offense (U.S. Code, Title 18, Section 1001).
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+Individuals may submit only one proposal per year.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

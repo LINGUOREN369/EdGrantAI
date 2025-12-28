@@ -9,3 +9,112 @@ Status: Cleared
 Posted date (Y-m-d): 2024-07-11
 URL: https://www.nsf.gov/funding/opportunities/eri-engineering-research-initiation/nsf24-590
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Engineering Research Initiation (ERI)
+
+I. Introduction
+
+NSF investments in engineering research and education are critical building blocks for the nation's future economic growth and prosperity. Engineering breakthroughs have addressed national challenges, enriched our understanding of natural systems, fostered new technologies, fortified the nation's infrastructure, and introduced the exciting possibilities of engineering to the next generation. The Directorate for Engineering (ENG) supports the development of the full spectrum of diverse talent in the engineering workforce versed in the forefronts of engineering research and promotes the success of new academic investigators in their careers as researchers, educators, and innovators. The goal of the ERI program is to broaden the base of scientists and engineers in academia who dedicate their careers to advancing engineering research and education in societally important fields relevant to ENG.
+
+II. Program Description
+
+The ERI program is part of the capacity-building strategy of the Directorate for Engineering to direct its investments in engineering research across the nation. This solicitation provides support for investigators who have yet to receive sufficient research funding from Federal Agencies to initiate their engineering research programs and to be in a more competitive position for future proposal submissions.
+
+ERI provides resources to enable impactful scientific work that will improve the research and scientific training environment at the institution through the conduct of fundamental research. Research activities may include efforts that catalyze new research partnerships, disseminate results, and/or lay a foundation to support preparation for future grant competitions.
+
+NSF strongly encourages participation in this ERI program by PIs from the full spectrum of diverse talent in STEM. This includes PIs who are new investigators, from historically under-represented or under-served populations, and/or from institutions including Minority Serving Institutions (MSIs), Primarily Undergraduate Institutions (PUIs), and two-year colleges. Proposals from institutions in EPSCoR jurisdictions are especially encouraged.
+
+Proposers may submit proposals only in engineering research areas supported by programs within the participating Divisions of the Directorate for Engineering. The list of ERI-eligible ENG programs is provided in Section V.A, Proposal Preparation and Submission Instructions.
+
+Special Opportunities (Partnerships)
+
+Partnership with the Department of Energy
+
+The Water Power Technologies Office (WPTO) of the Department of Energy's (DOE) Office of Energy Efficiency and Renewable Energy (EERE) continues its special funding focus on new science and engineering proposals submitted to the Engineering Research Initiation (ERI) solicitation. The objective of the WPTO is to enable research, development, and testing of emerging technologies to advance marine energy as well as next-generation hydro-power and pumped storage systems for a flexible, reliable grid. To achieve these objectives, WPTO has long funded proposals on various aspects of marine energy and hydro-power systems. Priority topics for this special funding focus include:
+
+Marine Energy and Powering the Blue Economy: Marine energy has significant potential to power various markets and applications in the blue economy including micro-grids in remote coastal communities, ocean-based scientific and commercial missions limited by incumbent energy sources, and ocean and coastal-based applications like desalination and aquaculture where marine energy can improve the resilience and economic sustainability. Proposals in this research area may address technology challenges, engaging end users in industry and communities new use cases for marine energy integration, and socioeconomic aspects of marine energy development.
+
+Hydro-power and Climate Change Impacts: Hydro-power currently provides about 7% of U.S. electricity generation each year, but climate change is impacting its future. This includes impacts on balancing intermittent renewables on the grid, pumped storage hydro-power, providing black start capabilities after extreme events like hurricanes and fire, and serving as flood protection and water supply for irrigation, consumption, and recreation. Addressing these impacts involves climatology and hydrology, impacts on ecosystems, and risks and opportunities for hydro-power operation and planning at basin scales or larger. Proposals in this research area should seek to advance climate, hydrologic, water resource, or power systems monitoring or modeling as it relates to climate change impacts at watershed or energy-shed scales.
+
+A proposer to the NSF ERI program solicitation does not need to take any additional steps to be considered for co-funding through this partnership. All ERI proposals in these topical areas will be considered for this funding, with the exception of proposals that have a DOE staff member as an unfunded partner. Such collaborations could be considered for funding with NSF funds, but not with WPTO funds. All proposals in these areas of mutual interest must be well-aligned with an NSF program that accepts ERI proposals. Proposals that are considered for co-funding by WPTO may be shared with WPTO staff to assess alignment with WPTO's research interests, and the unattributed reviews and panel summaries for those proposals may also be shared with WPTO. WPTO observers may also attend ERI panel discussions. Investigators who are interested in this opportunity may email eri@nsf.gov for additional information.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 55
+
+The number of awards will depend on the availability of funds and the quality of the proposals. The awards will be two-years in duration.
+
+Anticipated Funding Amount: $11,000,000
+
+An ERI award, including indirect costs, must not exceed $200,000 for a duration of 24 months. The award funds may be used for research expenses, trainee support (e.g., students and/or postdocs), Principal Investigator (PI) salary and may include modest equipment cost necessary for the successful initiation and conduct of the proposed research. ERI awards are eligible for supplemental funding as described in the NSF Proposal & Award Policies & Procedures Guide (PAPPG).
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+In line with the program goals, ERI welcomes the submission of proposals to this funding opportunity from Institutions of Higher Education (IHEs) not currently classified as a Doctoral University with "Very High Research Activity" (R1 institutions) according to the 2021 Carnegie Classification: https://carnegieclassifications.iu.edu/ . These include two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Eligibility is based on Classification on the date of proposal submission deadline. The participation of non-R1 institutions from the full spectrum of diverse talent in STEM are encouraged including historically under-represented or under-served populations, diverse institutions including Minority Serving Institutions (MSIs), Primarily Undergraduate Institutions (PUIs), and two-year colleges. Proposals from EPSCoR jurisdictions are especially encouraged.
+
+Who May Serve as PI:
+
+The PI of an ERI proposal must hold a doctoral degree in a field supported by NSF and must hold an appointment at an ERI-eligible institution. Postdoctoral fellow researchers are not eligible to serve as PI on an ERI proposal.
+
+At the time of the proposal submission deadline , the PI may not have been a PI or Co-PI on any current or prior awarded NSF research grant (including subaward) or have had research support from any other Federal Agency (within the United States or abroad) totaling $200,000 or more within the past five (5) calendar years from the proposal submission deadline date, with the following exceptions:
+
+Grants not directly for research purposes such as workshops, conferences, travel, instrumentation and equipment (e.g., Major Research Instrumentation; MRI), Research Experiences for Undergraduate Students (REU) and Research Experiences for Teachers (RET) Sites, etc.;
+
+Awards that exclusively support pre-tenure-track activities (postdoctoral fellowships and Graduate Research Fellowships/GRFP);
+
+I-Corps, Phase I Small Business Innovation Research (SBIR), or Small Business Technology Transfer (STTR) awards; and
+
+Awards that originated as NSF or other Federal funds but were distributed locally without naming the submitting ERI PI in the Federal funding proposal (such as: NASA Space Grant Project or other non-NSF federally-funded opportunities, NSF EPSCoR Research Infrastructure Improvement Program.).
+
+The Department Chair's/Dean's letter must explicitly verify each of the PI eligibility criteria. See Section V.A. for additional information.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may serve as PI or Senior/Key Personnel on only one ERI proposal per deadline in response to this solicitation. Only one PI per proposal is allowed. Co-Principal Investigators (Co-PIs) are not allowed.
+
+Separately submitted collaborative proposals (see PAPPG II.E.3 for definition) are not allowed.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

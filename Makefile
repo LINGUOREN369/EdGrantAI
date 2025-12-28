@@ -1,11 +1,11 @@
-.PHONY: rebuild-taxonomy validate-taxonomy taxonomy-refresh help grants-all orgs-all recs recs-all nsf-download nsf-awards-download nsf-opps-download nsf-from-csv
+.PHONY: rebuild-taxonomy validate-taxonomy taxonomy-refresh help grants-all orgs-all recs recs-all nsf-download nsf-awards-download nsf-opps-download nsf-from-csv grants-batch grants-refresh
 
 # Defaults for matching engine
 GRANTS_DIR ?= data/processed_grants
 ORGS_DIR ?= data/processed_orgs
 TOP ?= 10
 
-	help:
+help:
 	@echo "Available targets:"
 	@echo "  rebuild-taxonomy     Rebuild embeddings for all taxonomies (force)"
 	@echo "  validate-taxonomy    Validate taxonomy lists vs. embeddings (strict)"
@@ -19,6 +19,8 @@ TOP ?= 10
 	@echo "  nsf-awards-download  Download NSF awarded grants into data/grants (via NSF Awards API)"
 	@echo "  nsf-opps-download    Download NSF funding opportunities pages into data/grants (scrapes nsf.gov)"
 	@echo "  nsf-from-csv         Build grant text files from CSV under data/grants/NSF_database*.csv"
+	@echo "  grants-batch         Build next N (COUNT=20) grant profiles from data/grants/"
+	@echo "  grants-refresh       One-shot: rebuild data/grants from CSV with filtering + section extraction"
 
 rebuild-taxonomy:
 	python -m pipeline.build_taxonomy_embeddings --all --force
@@ -100,3 +102,19 @@ nsf-opps-download:
 nsf-from-csv:
 	@echo "[nsf-from-csv] Building grant files from CSV"; \
 	python -m pipeline.build_grants_from_csv $${CSV:+--csv "$$CSV"} --out-dir data/grants $${NO_FETCH:+--no-fetch} $${OVERWRITE:+--overwrite}
+
+# Build next N grant profiles (skips those already processed)
+# Env: COUNT=20 by default
+grants-batch:
+	@echo "[grants-batch] Building next $${COUNT:-20} grant profiles"; \
+	python -m pipeline.process_grants_batch --count "$${COUNT:-20}"
+
+# One command to refresh grant text files from CSV with recommended flags
+# Automatically detects CSV (defaults to data/NSF_database/nsf_funding.csv).
+# Env overrides:
+#   CSV=path/to.csv    Specify CSV path explicitly
+#   OVERWRITE=1        Overwrite existing files (default on)
+#   PRUNE=1            Delete .txt for filtered-out rows (default on)
+grants-refresh:
+	@echo "[grants-refresh] Rebuilding grant texts from CSV with filtering and selected sections"; \
+	python -m pipeline.refresh_grants $${CSV:+--csv "$$CSV"} $${OUT_DIR:+--out-dir "$$OUT_DIR"}

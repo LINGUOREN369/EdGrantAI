@@ -19,3 +19,122 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2023-08-21
 URL: https://www.nsf.gov/funding/opportunities/embrace-empowering-broader-academic-capacity-education/nsf23-617
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+EMpowering BRoader Academic Capacity and Education (EMBRACE)
+
+I. Introduction
+
+"Talent is the treasure on which America’s S&E [scientific and engineering] enterprise and the nation’s prosperity, health, and security depend." (National Science Board, Vision 2030 ). With the increasing number of complex geoscience-related problems faced by society, e.g., natural and social conditions and implications of climate change, natural hazards, growing capacity and retaining scientists with diverse experiences, perspectives, and concerns are essential to reach crucial findings and arrive at effective solutions. Efforts to ensure a healthy and impactful growth of the research enterprise, to broaden participation, to build capacity, and to promote and to include the participation of the full spectrum of diverse talent in STEM require initiatives to expand investments for research and education at non-R1 institutions. Such investments shall bolster institutional capacity, ability to collaborate or pursue collaborative potential, and STEM workforce development.
+
+Of the nearly 4,000 U.S. institutions of higher education (IHEs; IPEDS), ~150 are considered R1 with "very high research activity" (Carnegie Classification). The remaining "non-R1" IHEs encompass the vast majority of colleges and universities where geoscientists are trained and earn degrees. Fifty-two percent of the approximately $5 billion awarded to universities and colleges by the Directorate for Geosciences (GEO) between 2013 and 2019 went to 20 universities ( AGI, 2020 ), of which 19 are classified as R1. NSF and GEO have prioritized the goal to "increase both the involvement of communities underrepresented in STEM and enhance capacity throughout the nation" ( NSF 22-068 ). The EMpowering BRoader Academic Capacity and Education (EMBRACE) program acknowledges that non-R1 institutions are underrepresented in GEO and epitomize sites of research capacity building opportunities.
+
+GEO recognizes that faculty members at non-R1 institutions possess valuable research, teaching, and mentoring skills that meaningfully contribute to the S&E enterprise.
+
+II. Program Description
+
+The EMBRACE program is intended to expand the portfolio of institution types funded by the Divisions of Atmospheric and Geospace Science, Earth Sciences, Ocean Sciences, and the Office of Polar Programs within GEO. To enhance access to funding for faculty members at non-R1 institutions, EMBRACE supports projects that tackle well-focused scientific problems relevant to GEO. Funding support includes budget accommodations to mitigate barriers that include high teaching loads, increased expectations for teaching and mentoring, low or no start-up packages, and limited institutional infrastructure and research support personnel. Emerging results from EMBRACE activities should enable the submission of subsequent successful proposals to other NSF funding opportunities. The combination of the proposed activities and their potential to increase capacity and collaboration for research/education and for training should be transformative for students, the investigators, and the institutions.
+
+The expected outcome of EMBRACE is to attract, grow, and retain diverse talent in the U.S. research enterprise. Investments made through EMBRACE provide needed resources, enable impactful activities, and enhance the research and scientific training environment at non-R1 institutions. These investments reflect the integrated GEO efforts to broaden, strengthen, and diversify the STEM workforce. In bolstering the capacity, collaboration, and workforce at non-R1 institutions, EMBRACE will help cultivate and retain diverse talent that can provide new perspectives and solutions on current and future challenges that humans face.
+
+GEO strongly encourages participation by faculty members at non-R1 institutions from the full spectrum of diverse talent in STEM.
+
+To be competitive, EMBRACE proposals must include a well-formulated plan to address a scientific problem relevant to GEO, present compelling broader impacts, and describe how the proposed activities are potentially transformative for students, investigators, and the institutions. EMBRACE proposals should also describe how proposed activities could lead to specific future proposals and enhance the capacity of students, faculty members, and institutions. EMBRACE supports two categories of proposals: Seed and Growth .
+
+Seed proposals aim to offset the lack of resources (e.g., start-up, analytical equipment, laboratory space) and/or dedicated research time faced by faculty members at non-R1 institutions by providing funds to (1) initiate research and/or education programs at their own institutions; and/or (2) build or catalyze research collaborations or partnerships:
+
+within the same institution; or
+
+across peer institutions; or
+
+with research-intensive institutions; or
+
+with industry or other non-academic entities; or
+
+any combination mentioned above.
+
+Proposers may pursue activities that establish viable independent research programs and/or collaborations to launch, or re-launch, their research careers. Awards from Seed proposals can help collect initial observations and/or obtain proof-of-concept results.
+
+Seed proposals may request up to $200,000 total, for a maximum of 24 months.
+
+Growth proposals enable faculty members at non-R1 institutions to establish independent GEO-related disciplinary research programs by engaging undergraduate and/or graduate students, or post-doctoral scholars. With the intent to offset high teaching/mentoring loads and potential lack of research infrastructure, Growth proposals allow faculty members to initiate or sustain disciplinary research and related educational activities at their institution.
+
+Growth proposals may request up to $400,000 total, for a maximum of 48 months.
+
+All EMBRACE award recipients are highly encouraged to participate in an annual virtual conference held by GEO. This conference will provide EMBRACE PIs an opportunity to network and share experiences and results with other recipients and interested faculty members at non-R1 institutions.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 20 to 25
+
+Anticipated Funding Amount: $6,000,000
+
+Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Proposals may only be submitted by institutions of higher education (IHEs) not currently classified as a Doctoral University with “Very High Research Activity” (R1 institutions) according to the Carnegie Classification and Integrated Postsecondary Education Data System . Non-R1 institutions include two- and four-year IHEs [such as tribal colleges and universities (TCUs), historically black colleges and universities (HBCUs), other non-R1 minority serving institutions (MSIs), two-year colleges (2YCs), primarily undergraduate institutions (PUIs), and emerging research and masters level institutions] accredited in and having a campus located in the U.S., acting on behalf of their faculty members.
+
+Proposals may only be submitted by institutions of higher education (IHEs) not currently classified as a Doctoral University with “Very High Research Activity” (R1 institutions) according to the Carnegie Classification and Integrated Postsecondary Education Data System .
+
+Non-R1 institutions include two- and four-year IHEs [such as tribal colleges and universities (TCUs), historically black colleges and universities (HBCUs), other non-R1 minority serving institutions (MSIs), two-year colleges (2YCs), primarily undergraduate institutions (PUIs), and emerging research and masters level institutions] accredited in and having a campus located in the U.S., acting on behalf of their faculty members.
+
+Who May Serve as PI:
+
+Principal Investigators (PIs) must hold primary appointments at institutions eligible to submit proposals in response to this solicitation. Submission from PIs at R1 institutions will be returned without review.
+
+Limit on Number of Proposals per Organization:
+
+There is no limit on the number of proposals per institution. Separately submitted collaborative proposals are allowed if the collaborating institutions are also non-R1s. Participation by R1 institutions must be included only using the subaward mechanism.
+
+Limit on Number of Proposals per PI or co-PI:
+
+An individual may be designated as PI or co-PI on up to two proposals per annual competition. An individual may not be a PI or co-PI on an active NSF award. Questions about possible exceptions should be directed to geo-embrace@nsf.gov .
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

@@ -9,3 +9,130 @@ Status: Cleared
 Posted date (Y-m-d): 2023-09-26
 URL: https://www.nsf.gov/funding/opportunities/ritel-research-innovative-technologies-enhanced-learning/nsf23-624
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Research on Innovative Technologies for Enhanced Learning (RITEL)
+
+I. Introduction
+
+Technologies are rapidly emerging and it is critical to research their impact for teaching and learning. The general public must be prepared to excel in highly technological, interactive and AI-driven education and work environments. Emerging technologies are transforming teaching and learning, in formal (K-12, higher education), informal and other settings, particularly in support of STEM learning.
+
+The COVID-19 pandemic led to new, unprecedented, and unexpected reliance on remote learning and work, which led to new and changing roles of teachers/educators, parents, families, workers, and other collaborators. Looking to the future, finding new ways to learn and teach is of great importance, and there is much interest in the role of emerging technologies to reimagine learning.
+
+Further, many people have experienced first-hand the power and possibilities of technologies such as generative AI. Now more than ever, while emerging technologies can lead to exciting new innovations in teaching and learning, issues of ethics, privacy, and security are of extreme importance. Educational technologies must be integrated in an ethical, responsible, and effective way. Projects should engage a wide range of stakeholders (e.g., students, teachers, mentors, workers, and families) as partners in the co-design process to address these issues intentionally.
+
+While some technologies are becoming more accessible, others are still out of reach for many communities. Research is needed that considers how to employ emerging technologies in authentic (real-world) environments.
+
+New technologies need to be investigated through innovative teaching, educating, and mentoring practices in a variety of settings, to include formal settings such as physical and virtual classrooms, as well as informal settings (e.g., museums, nature centers, libraries, public participation in scientific research, and other online experiences). Further, given the rapidly changing landscape of work, research in emerging technologies for learning can support just-in-time learning, upskilling, reskilling, and pervasive and lifelong learning. Emerging technologies must be grounded in the experiences of educators and students, particularly with respect to cognitive, social, and behavioral aspects.
+
+Given the complexities surrounding the design of technology and learning environments, high-impact research requires interdisciplinary teams, with expertise across disciplines, including but not limited to the learning sciences, discipline-based education research, computer science, engineering, human-computer interaction, design, the social and behavioral sciences, together with ethics, policy, and privacy. This program envisions cross-disciplinary teams that approach teaching and learning technologies with complementary perspectives and scientific rigor.
+
+II. Program Description
+
+The purpose of the Research on Innovative Technologies for Enhanced Learning (RITEL) program is to support early-stage research in emerging technologies for teaching and learning that respond to pressing needs in authentic (real-world) educational environments. RITEL supports future-oriented exploratory and synergistic research in emerging technologies (including, but not limited to, artificial intelligence (AI), robotics, and immersive or augmenting technologies) for teaching and learning. The program accepts proposals that focus on learning, teaching, or a combination of both. The scope of the program is broad and includes teaching and learning in science, technology, engineering, and mathematics (STEM) and in foundational areas that enable STEM (e.g., self-regulation, literacy, communication, collaboration, creativity, and socio-emotional skills). RITEL supports research in all learning contexts (e.g., formal, informal, workplace) and for all learner populations. RITEL has a special interest in learner/educator populations and in developing new educational technologies that are cost-effective for budget-limited school districts, colleges, and universities.
+
+Research in this program should be informed by the convergence (synthesis) of multiple disciplines: e.g., learning sciences; discipline-based education research; computer and information science and engineering; design; and cognitive, behavioral, and social sciences. These interdisciplinary areas of research could include (but are not limited to) affective computing, human-centered AI, learning analytics, social/educational robotics, intelligent conversational agents/assistants, and virtual/embodied agents.
+
+RITEL is an exploratory research program that serves as an incubator to support cutting-edge research in advanced learning and teaching technologies. Research should be theory-driven and apply human-centered design methods to explore proof-of-concept or feasibility of innovative learning technologies in support of new learning and/or teaching experiences. Emerging and innovative technologies have the potential to reshape teaching and learning processes, which in turn can influence new technology designs. RITEL encourages projects that explore new ideas and involve risk.
+
+RITEL is unique in its requirement that projects must advance fundamental research in both learning (and/or teaching) and technology.
+
+All projects must be framed in terms of a pressing need in an authentic educational environment. The research should address a meaningful and practical teaching and/or learning problem identified by educators and/or other stakeholders who have expertise in the specific context.
+
+This program supports a broad range of projects across:
+
+Content areas: STEM and other foundational areas supported by NSF that enable STEM learning and teaching (e.g., self-regulation, literacy, communication, collaboration, creativity, curiosity, and social skills).
+
+Populations and contexts : learners, teachers, mentors, educators, and other workers in formal (e.g., K12, higher education) or informal settings; and individual, collective, and collaborative learning and teaching across the lifespan.
+
+The primary goal should be investigating a new technology in the context of advancing teaching and/or learning. RITEL will not fund projects that are primarily about development of a technology.
+
+All projects must have clear research objectives that integrate teaching and/or learning and technology research to advance the respective fields (e.g., learning sciences, discipline-based education research, computer and information sciences, engineering, and/or social, cognitive, and behavioral sciences) as described below:
+
+Teaching and/or learning research
+
+For teaching, this includes researching new teaching processes and approaches (e.g., andragogy and pedagogy).
+
+For learning, this includes researching new learning processes, principles, and theories (e.g., cognitive, behavioral, affective, socio-cultural, social, epistemological, problem-based, project-based, developmental, and other perspectives).
+
+Technology research
+
+Examples of emerging technology research include (but are not limited to): AI-driven technologies; virtual, immersive, embodied, interactive, or augmented environments; multimodal modeling/sensing of cognitive or affective states; language and speech processing; learning analytics and dashboards; and robotics.
+
+The technology research must advance fields involving computer science, information science, and/or engineering.
+
+It is insufficient to simply implement or test an existing technology, even if innovative. Incremental advances in existing technologies or deployment/implementation of existing technologies in novel learning contexts will not be funded through this program.
+
+Project ideas that do not align with this solicitation may fit with other NSF programs. Please see programs such as: "Education Core Research (ECR)," "Innovative Technology Experiences for Students and Teachers (ITEST)," "Improving Undergraduate STEM Education (IUSE)," "Human-Centered Computing (HCC)," and the "Science of Learning and Augmented Intelligence," as well as cross-cutting opportunities such as "Smart and Connected Communities (S&CC)".
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant
+
+Estimated Number of Awards: 20 to 25
+
+Contingent upon availability of funds.
+
+Anticipated Funding Amount: $25,000,000
+
+Each project will be funded for a duration of 3 years and up to $900,000.
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may participate as PI, co-PI, or other Senior Personnel in no more than one (1) proposal in response to this solicitation for each submission date. In the event that an individual exceeds the limit, the first proposal received (based on the date and time stamp of proposal submission) will be accepted and the remainder will be returned without review. No exceptions will be made.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

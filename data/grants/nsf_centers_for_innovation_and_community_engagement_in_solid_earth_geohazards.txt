@@ -12,3 +12,108 @@ Status: Cleared
 Posted date (Y-m-d): 2023-12-12
 URL: https://www.nsf.gov/funding/opportunities/centers-innovation-community-engagement-solid-earth/nsf24-515
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Centers for Innovation and Community Engagement in Solid Earth Geohazards
+
+I. Introduction
+
+The Earth's tectonics underpin many of the planet's processes at a broad range of spatial and temporal scales, including earthquakes, volcanic eruptions, landslides and allied hazards. These solid Earth geohazards are responsible for trillions of dollars in damage and the loss of millions of lives in the history of the U.S., and these risks are anticipated to increase in the future as population increases in hazardous areas. Major advances in our understanding of the fundamental forces that drive catastrophic events are needed to respond effectively to this risk and to engage a well-informed populace living in the midst of these hazards.
+
+The Centers for Innovation and Community Engagement in Solid Earth Geohazards are intended to catalyze, coordinate, and produce transformative research in the Earth processes that lead to solid Earth geohazards. Centers provide community-scale leadership in two areas: convergence and innovation in systems-level science, and community engagement to develop a diverse and inclusive workforce, as well as a well-prepared and informed public.
+
+Centers will be built around a compelling research challenge or theme of significant scale and complexity that would require a coordinated approach beyond what can be accomplished by a small team of researchers. The program will support basic research on Earth processes, as well as the development of new methods needed to advance the science. The program will help facilitate new collaborations within observational, experimental, theoretical and computational domains that will be essential to address the most exciting questions at the cutting edge of Earth science. This program does not support efforts to operationalize monitoring, forecasting, or prediction of hazards, though partnerships could provide support for these activities.
+
+Progress in advancing science requires a diverse and inclusive workforce that is highly skilled. Centers will meaningfully improve the national welfare through broadening participation activities, including historically underrepresented groups, and advance the geoscience workforce. The program's focus on societally relevant problems provides a platform to engage and train students and postdocs from communities that have been historically underrepresented in science, technology, engineering, and mathematics (STEM). Additionally, knowledge-sharing between groups carrying out fundamental research and those focused on mitigating and forecasting future hazards is critical for the health and safety of our country. Consequently, Centers will expand the impact of fundamental research to a wide range of stakeholders.
+
+II. Program Description
+
+Centers for Innovation and Community Engagement in Solid Earth Geohazards must have the following attributes:
+
+1) Centers must have a vision for innovative and transformative research that is ambitious in scope . The complexity of the research would require more extensive resources, such as combinations of talents, skills, and/or disciplines or specialized infrastructure, that would not be feasible with standard support to individual investigators or small collaborative groups, such as is provided through core programs in the NSF Earth Sciences Division (for example, Geophysics, Tectonics, Geomorphology and Land-use Dynamics, Hydrologic Sciences, Petrology and Geochemistry, and others). While center proposals can be built upon prior support, Principal Investigators should ensure that their proposed project does not significantly overlap with ongoing federally-funded research for themselves or any of their team members. Developing a distinct and distinctive science portfolio is essential for each center. PIs considering potential projects that cross the shoreline should contact Program Officers in the Marine Geology and Geophysics program in the Division of Ocean Sciences.
+
+2) Centers must have a vision and integrated set of activities for community engagement that places a major emphasis on supporting activities that educate the next generation of researchers . Centers must provide an exceptionally stimulating and dynamic environment for education in which the needs of students and researchers from all sectors of U.S. society are considered while positioning them to benefit from interactions with a large, interdisciplinary group of scientists at all career levels. Centers will also prioritize broadening participation of historically underrepresented groups in all facets of center activities, and proposals should demonstrate how this will be accomplished. Centers will be expected to take explicit steps to develop a culture of equity and inclusion at all levels of operation and in all research endeavors.
+
+3) Strategic planning will be a key element of a Center. Strategic plans will cover all aspects of a center, including research, workforce development and other broader impact activities; management; broadening participation; and center-wide data approaches, including the development of explicit milestones to be achieved in each of these domains. Strategic plans will be openly available to the broader scientific community.
+
+4) Centers will have appropriately-scaled management plans that address the leadership of the center, how decisions will be made, including the roles of any internal committees, and how synergy among projects and activities will be actively promoted in service of the Center's vision. They include appropriately scaled mechanisms for the ongoing assessment of research outcomes and broader impacts; development and implementation of strategic plans; allocation of resources; the ability to initiate new lines of research and terminate support for lower priority efforts; and approaches to encourage and promote effective communication throughout the center and with partners. Serving as the Principal Investigator of a center award requires scientific leadership and vision. It is also a significant commitment of time and will be a primary professional focus for the life of the Center. Similarly, all team members should expect the center to be a significant part of their professional efforts. Reviewers will be asked to evaluate the qualifications of the team and the resources available to the project, including researcher time and commitment.
+
+Centers will practice strong project management . Therefore, centers will align proposed scope with realistic budgets and timelines for achieving those goals. Centers will also identify important milestones within the timeline of their award period that progress to the accomplishment of the Center's goals. Additional information on project management expectations for Center Operation proposals is provided in the proposal preparation guidance below.
+
+5) Centers will be responsible for sound development and management of any shared facilities, infrastructure or cyberinfrastructure required to meet the scientific goals of the center. Centers should demonstrate a plan for equitable development and access to instrumentation, laboratory, and analytical facilities; analysis tools; community models; computing and software resources; and data. NSF encourages the use and re-use of existing instrumentation, cyberinfrastructure, and facilities, including instrumentation pools, experimental or analytical capabilities, computational resources, software, and data sets. Centers are expected to deploy modern best practices in cyberinfrastructure development and implementation, including working towards FAIR (findability, accessibility, interoperability, and reusability) data practices, and data-sharing across collaborative groups, developing open-source and sustainable software and improving access to high performance computing, among others. New approaches to data management and cyberinfrastructure and innovations in providing support to the scientific community are encouraged. All center researchers are expected to store, access, share, and archive data, with emphasis on data-sharing across collaborative teams.
+
+6) Partnerships between the Center and Other Organizations will be defined by strong collaborations that are led by the Center's Principal Investigators. Collaborations with partner organizations will support the execution of the Principal Investigators' and Center's vision and strategic plan. Proposals will demonstrate the alignment of the partners' goals with overall goals of the center. The role of the partners in center activities will be clearly articulated, and resources that partners bring to the Center will be explicitly stated. The project scope that will be supported by these resources will also be clearly defined. Partners' level of involvement in the center management team and their influence on programmatic decision making will be explained in the management plan. Partnerships may include stakeholders at the interface of the built environment and the natural system. Partnerships with engineers, decision and policy makers, and other stakeholders with mandates outside of basic science, can serve as important broader impacts for centers depending on their focus or organizational structure. Strong collaborations with computer and data scientists and facilities that support cutting edge computational methods, such as intelligent systems like machine learning, could forge new modes of inquiry at the frontiers of this emerging field. Additionally, collaborations across these domains and institutions should provide cross-training and opportunities for a diverse and inclusive workforce that can rise to tomorrow's challenges.
+
+Center Operations
+
+In FY 2024, the program will consider proposals built around a compelling research challenge or theme related to any solid Earth Geohazard processes, including earthquakes, volcanoes, landslides, and other solid Earth or tectonic process. The proposal's scope will align with one or more of the priorities outlined in the National Academies of Science, Engineering, and Medicine decadal survey report. The Earth in Time including: What is an earthquake? What drives volcanism? What are the causes and consequences of topographic change? and How can Earth science research reduce the risk and toll of geohazards?
+
+Center Operations proposals are expected to outline broad, strategic, center-scale activities in accordance with the Center Attributes, as described earlier in this section. Centers will be agile structures that respond rapidly to emerging opportunities, promote synergy, enhance collaborations, and engage in potentially transformative research. Centers will integrate research, innovation, education, science communication, and efforts to broaden participation.
+
+Center proposals will organize their scope into Major Activities, which will provide the framework for aligning the proposed scope with realistic budgets and timelines for achieving Center goals. A Major Activity will most frequently be a major research thrust of the Center but may also be a large-scale effort for workforce development, community-building, broadening participation, or other comparable effort to support broader impacts.
+
+Centers may need flexibility to advance Major Activities or to respond quickly and effectively to emerging research and/or broader impact opportunities through subaward seed funding. These emerging areas may include (but are not limited to): high-risk research projects; emerging areas of interdisciplinary research; development of new cyberinfrastructure to support the Center; support for early-career faculty or for investigators changing fields; and innovative educational, diversity-promoting, or outreach ventures. Seed funding is not intended to provide a substitute for NSF individual investigator funding, nor should it be used to fund foundational operational support for the Center. Proposals should describe the criteria and mechanisms for selecting and evaluating projects that may require seed funding.
+
+Key milestones will include periodic site visits and other oversight by NSF staff. The initial Center Operation awards will be made for up to five years (contingent on acceptable progress). Additional information is provided in the proposal preparation guidance for Center Operation full proposal.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 1 to 2
+
+Anticipated Funding Amount: $7,000,000
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization: 1
+
+Only one proposal may be submitted by any Lead institution.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+Any one individual may be the Principal Investigator (PI) or co-PI for only one Center Operation proposal. Individuals may be listed as participating Other Senior/Key Personnel on more than one proposal.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

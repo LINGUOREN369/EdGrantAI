@@ -18,3 +18,206 @@ Status: Cleared
 Posted date (Y-m-d): 2024-04-04
 URL: https://www.nsf.gov/funding/opportunities/iusepfe-red-iuseprofessional-formation-engineers-revolutionizing/nsf24-564
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+IUSE/Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)
+
+I. Introduction
+
+The goal of the RED program is to catalyze revolutionary, not incrementally reformist, changes to the education of the next generation of engineers. Revolutionary means radically, suddenly, or completely new; producing fundamental, structural change; or going outside of or beyond existing norms and principles. The complex problems facing society in the 21 st Century demand changes to the way engineers are educated and the integration of new modes of learning for engineering students [ 1 ]. For example, solving the National Academy of Engineering (NAE) Grand Challenges will require engineers who not only have deep technical knowledge, but also an understanding of the societal and global contexts in which those problems occur [ 2 ]. Obstacles to change that have been cited include underlying departmental and curricular structures, faculty reward systems, and faculty development. Among the common challenges facing engineering departments are how to weave both technical and professional skills throughout the curriculum, including skills defined by the ABET ( www.abet.org ) outcomes; how to promote and incentivize faculty engagement in the change process; and how to create cultures of inclusion that are welcoming to students and faculty of all types. Revolutionary change is needed in the structure of departments and the way students are educated to meet these challenges.
+
+The RED program is intended to address the holistic formation of engineers. Engineering has many unique aspects that differ from other STEM disciplines. Engineering undergraduate programs prepare students for professional practice; in engineering, the BS degree provides eligibility to qualify for the Professional Engineer license [ 3 ]. Furthermore, in the high-tech environment upon which the global economy is based, the perennial debate about workforce shortages of engineers requires a more precise understanding of dynamic industry needs and of the abilities of departments to address them. Therefore, NSF is taking a holistic look at how engineers are being prepared for lifelong careers in technical and socio-technical professions. The RED program seeks to respond to the call from different stakeholders (e.g., industry, the public, government, and the profession itself) for Professional Formation of Engineers with a broad set of professional abilities. Professional Formation of Engineers (PFE) refers to the formal and informal processes and value systems through which people become engineers. This includes the ethical responsibility of practicing engineers to sustain and grow the profession to improve quality of life for all people. The RED program also seeks to address the fact that the percentages of persons from underrepresented groups entering into and remaining in the practice of engineering are still unacceptably low, impacting the future health of the national workforce.
+
+[1] National Academy of Engineering. 2013. Educating Engineers: Preparing 21 st Century Leaders in the Context of New Modes of Learning: Summary of a Forum . Washington, DC: The National Academies Press. https://doi.org/10.17226/18254
+
+[2] National Academy of Engineering. (n.d.). Grand Challenges - Grand Challenges for engineering . Grand Challenges - Grand Challenges for Engineering. https://www.engineeringchallenges.org/
+
+[3] National Council of Examiners for Engineering and Surveying. (2023, December 7). PE exam . NCEES. https://ncees.org/exams/pe-exam/
+
+II. Program Description
+
+Overview
+
+While previous efforts have made pedagogical changes to the way engineering and engineering technology students are educated, RED projects must consider the cultural, organizational, structural, and pedagogical changes needed to transform the department to one in which students are engaged, develop their technical and professional skills, and establish identities as professional engineers. In recent years there has been a growing recognition of the need to create and support an innovative and inclusive engineering profession for the 21 st Century. Doing so requires an understanding of how engineers are formed and how to inculcate them with the technical and professional skills needed to solve the complex problems facing society. While some innovation has been adopted in the freshman and senior years, the middle two years remain largely untouched [ 4 ]. Educating the next generation requires that coherent technical and professional threads be developed and woven across all four years. The RED program is focusing on the middle two years because of the significance of these years play in the retention and development of engineering students and the relative lack of research on them compared to first-year and capstone research [ 4 ]. Further, the RED program focuses on structural and cultural change because past attempts have shown that curricular and pedagogical change does not take hold if underlying structures remain the same. In addition, RED funding has demonstrated the need to engage both internal (e.g., faculty, staff, administrators, students) and external (e.g., industry, community) stakeholders to build shared vision in departmental change projects [ 5 , 6 ]. In particular, RED projects should seek to actively include faculty at all levels throughout the project development lifecycle and to explore how to better support those faculty making change [ 7 ]. Projects are expected to include an underlying theory of change to inform the activities and expected outcomes [8-10 ]. RED projects should create a seamless educational experience for students in their disciplinary degree programs, bridging the foundational science and engineering courses and capstone projects. The result will be students who are prepared to be professionals in their chosen paths after graduation. Proposals from IHEs with documented success (or a clear plan to be able to demonstrate success) in awarding degrees to students from groups underrepresented in engineering are strongly encouraged.
+
+Specific activities supported by the RED solicitation may include, but are not limited to:
+
+Establishing convergent technical and professional threads that must be woven across the four years, especially in core technical courses of the middle two years, in internship opportunities in the private and public sectors, and in research opportunities with faculty;
+
+Exploring strategies for institutional, systemic, and cultural change, including new approaches to faculty governance or department structures and to restructuring faculty incentive or reward systems;
+
+Exploring collaborative arrangements with industry and other stakeholders who are mutually interested in developing the best possible professional formation environment and opportunities for students;
+
+Exploring strategies to bridge the engineering education research-to-practice gap, primarily through faculty development and adoption of best practices in the professional formation of engineers; and
+
+Exploring revolutionary means of recruiting and retaining students and faculty reflective of the modern and swiftly changing demographics of the United States.
+
+Exploring new modes of delivering content (or facilitating learning) that respond to the learning needs of a diverse student body, making engineering more accessible.
+
+RED Planning (Track 1): The RED Planning track supports efforts necessary to build capacity and establish collaborations endeavoring to address the broader goals of the RED program. Planning grants are designed to foster and facilitate the engineering community into thinking about how to form convergent research that supports the goals of the RED program. Planning grants must be led by IHEs that meet one or more of the following criteria (a) two-year institutions that support transfer students [ 11 ], (b) institutions in EPSCoR jurisdictions, (c) Primarily Undergraduate Institutions (PUIs), or (d) Minority Serving Institution (MSIs).
+
+Planning grants funded through this solicitation are expected to cultivate potential RED research teams and to develop competitive RED proposals for future submissions. As a result of planning grant activities, potential RED teams should be better equipped to carry out the activities associated with a track 2, 3, or 4 RED grant. Proposers supported through this mechanism may use the funding to organize activities that help stimulate the formation of RED teams (in terms of PI, co-PI, Senior/Key Personnel, and organization type) and to crystalize the ideas and research plans to be presented in a potential RED proposal.
+
+Examples of planning grant activities can include, but are not limited to:
+
+Workshop(s) to recruit and form a team in line with the goals expressed in this solicitation
+
+Structured mentoring for PIs and co-PIs focused on submitting for mid-size NSF awards Development of research goals Leadership and management of mid-size projects
+
+Development of research goals
+
+Leadership and management of mid-size projects
+
+Development of a research plan that is responsive to the RED solicitation
+
+Building cohesiveness within the team based on best practices to address collaboration challenges such as those described in Proximity and Innovation: A Critical Assessment [ 12 ]: Geographical distance: The physical distance between researchers at collaborating institutions Cognitive distance: The degree of overlapping specialized knowledge between members of an inter- or multidisciplinary team Social distance: The “trust and friendship” (at the micro-level) among members of the team; the personal trust between team members necessary for the team to be successful Organizational distance: The methods or networks used to exchange information, knowledge, and make decisions; The level of autonomy afforded to each member of the team Institutional distance: The level of shared values, norms, and language present among collaborating team members and institutions
+
+Building cohesiveness within the team based on best practices to address collaboration challenges such as those described in Proximity and Innovation: A Critical Assessment [ 12 ]:
+
+Geographical distance: The physical distance between researchers at collaborating institutions
+
+Cognitive distance: The degree of overlapping specialized knowledge between members of an inter- or multidisciplinary team
+
+Social distance: The “trust and friendship” (at the micro-level) among members of the team; the personal trust between team members necessary for the team to be successful
+
+Organizational distance: The methods or networks used to exchange information, knowledge, and make decisions; The level of autonomy afforded to each member of the team
+
+Institutional distance: The level of shared values, norms, and language present among collaborating team members and institutions
+
+Assessment of planning grant goals
+
+Given the complexity of a RED proposal, NSF recognizes that many teams will identify important research priorities but may not have the full complement of skills needed to effectively address the challenge. The planning grant can be used to support team formation activities that create opportunities for the development of partnerships between researchers and institutions that are bi-directional and mutually beneficial, thus engaging a wide array of perspectives and scientific talent to address the national needs and grand challenges presented in the RED solicitation. The National Institutes of Health Collaboration Team Science Field Guide can provide a starting point for team formation activities. Planning grants are expected to have at least one individual who was a PI, co-PI, or Senior/Key Personnel on an awarded RED project involved in the planning grant in an advisory, mentorship, or leadership position.
+
+RED Planning (Track 1) proposals should be prepared in accordance with the guidance for the Planning type of proposal contained in PAPPG Chapter II.F.1 and the solicitation specific instructions in Section V.A., below.
+
+RED Adaptation & Implementation (Track 2)
+
+The RED A&I track support projects that use evidence-based and evidence-generating change strategy approaches and actions that are adapted to the local context. The goal of this track is to:
+
+Generate new knowledge related to the adaptation of proven change strategies and actions in a new context.
+
+Strategies should be developed with impact on the student as the focus. Proposed efforts must be grounded in sound educational theory and work to enable a continuous progression of professional formation through the four-year experience. Efforts should address 21 st Century T-shaped skills [13] (i.e., cross-disciplinary breadth), and they should be aligned with stakeholder expectations. This track encourages proposals from two-year or four-year institutions that are interested in adopting change strategies at a single institution.
+
+RED Innovation (Track 3):
+
+The RED Innovation track supports projects that involve radically, suddenly, or completely new approaches and action; producing fundamental, structural change; and that go outside of or beyond existing norms and principles. Innovations in similar departments across multiple institutions is particularly encouraged. This track has two goals:
+
+Generate new knowledge on best practices for meaningfully and thoughtfully incorporating into the middle two years and technical core of the engineering curriculum oft-neglected “professional skills” (i.e. 21 st Century skills, design, communication, teamwork, historical and contemporary social context, lifelong learning, and ethics). Changes in the middle two years need to be integrated with freshman and senior experiences in order to form an unbroken sequenced thread through the curriculum so that the process of professional formation deepens and strengthens as students move through engineering programs.
+
+Generate new knowledge on how to transform the departmental cultures to be environments that are inclusive, innovative, equitable and supportive of faculty, faculty development to support cultural or structural change, and build new department structures and cultures through innovative practices and policies that support significant holistic professional formation.
+
+Strategies should be developed with impact on the student as the focus. Proposed efforts must be grounded in sound educational theory and work to enable a continuous progression of professional formation through the four-year experience. Efforts should address 21 st Century T-shaped skills (i.e., cross-disciplinary breadth), and they should be aligned with stakeholder expectations.
+
+RED Innovation Partnerships (Track 4): The RED Innovation Partnerships track holds identical goals to the RED Innovation (Track 3) track but also recognizes that developing revolutionary changes capable of spanning multiple contexts adds additional complexity and may therefore require additional resources and support. In addition to the Track 3 goals, projects in Track 4 have an additional goal to:
+
+Generate new knowledge on best practices and the support structures necessary for meaningfully and thoughtfully leveraging or managing cross-institutional partnerships in ways that enable transferability and interoperability of research findings.
+
+Collaborative partnerships that include IHEs that are (a) two-year institutions that support transfer students, (b) institutions in EPSCoR jurisdictions, (c) PUIs, and/or (d) MSIs are strongly encouraged.
+
+References :
+
+[4] Lord, S.M. and Chen, J.C. (2014) Curriculum Design in the Middle Years. Cambridge Handbook of Engineering Education Research , Johri and Olds, eds. New York: Cambridge University Press.
+
+[5] Doten-Snitker, K., Margherio, C., Litzler, E., Ingram, E., & Williams, J. (2021). Developing a shared vision for change: Moving toward inclusive empowerment. Research in Higher Education, 62, 206-229. https://doi.org/10.1007/s11162-020-09594-9
+
+[6] Margherio, C., Doten-Snitker, K., Williams, J., Litzler, E., Andrijcic, E., & Mohan, S. (2020). Cultivating strategic partnerships to transform STEM education. Transforming Institutions: Accelerating Systemic Change in Higher Education.
+
+[7] Cutler, S., & Strong, A. C. (2023). The Overlooked Impact of Faculty on Engineering Education. International Handbook of Engineering Education Research, 286.
+
+[8] Reinholz, D. L., & Andrews, T. C. (2020). Change theory and theory of change: what’s the difference anyway?. International Journal of STEM Education, 7, 1-12. https://doi.org/10.1186/s40594-020-0202-3
+
+[9] Reinholz, D. L., White, I., & Andrews, T. (2021). Change theory in STEM higher education: a systematic review. International Journal of STEM Education, 8(1), 37. https://doi.org/10.1186/s40594-021-00291-2
+
+[10] Connolly, M. R., & Seymour, E. (2015). Why Theories of Change Matter. WCER Working Paper No. 2015-2. Wisconsin Center for Education Research. Retrieved from the University of Wisconsin-Madison, Wisconsin Center for Education Research website: https://wcer.wisc.edu/publications/abstract/wcer-working-paper-no.-2015-02
+
+[11] Sislin, J., & Mattis, M. C. (Eds.). (2006). Enhancing the community college pathway to engineering careers. National Academies Press.
+
+[12] Boschma, R. (2005). Proximity and innovation: a critical assessment. Regional studies, 39(1), 61-74.
+
+[13] Tranquillo, J. (2017). The t-shaped engineer. Journal of Engineering Education Transformations, 30(4), 12-24.
+
+Prospective PIs are encouraged to consider the IUSE: EDU program for projects that are outside the scope of RED (see https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505082 ). Specifically, the IUSE:EDU Institutional and Community Transformation (ICT) track promotes innovative approaches to using research to catalyze change that addresses challenges across and within institutions (institutional transformation), as well as within and across specific disciplines (community transformation). In addition, IUSE: Innovation in Two-Year College STEM Education (ITYC) represents NSF’s intentional investment in two-year institutions and supports the development and implementation of evidence-based practices that improve STEM education at two-year institutions of higher education (see https://new.nsf.gov/funding/opportunities/iuse-innovation-two-year-college-stem-education ). Prospective PIs are not allowed to submit identical or substantively similar proposals to multiple NSF programs .
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 13 to 19
+
+The program estimates making 10-13 awards for projects in Track 1. The program estimates making a total of 3-6 awards for projects in Tracks 2, 3, & 4.
+
+The budget for Planning (Track 1) proposals is up to $75,000 per year for a duration of up to 2 years.
+
+The budget for Adaptation & Innovation (Track 2) proposals is a maximum of $1,000,000 for a duration of up to 5 years.
+
+The budget for Innovation (Track 3) proposals is between $1,000,000 and $2,000,000 for a duration of up to 5 years.
+
+The budget for Innovation Partnerships (Track 4) proposals is between $1,500,000 and $2,500,000 for collaborations across multiple institutions for a duration of up to 5 years.
+
+Anticipated Funding Amount: $7,000,000 to $8,000,000
+
+Estimated program budget and number of awards are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Who May Serve as PI:
+
+For all tracks, the Principal Investigator (PI) must be a Department Chair/Head (or equivalent) of a department for whom a significant percentage of students will graduate or transfer to a program with a bachelor’s degree in engineering or engineering technology. The PI must be empowered to provide leadership for the proposed change process. In cases where the institutional responsibilities of a Department Chair/Head do not enable them to support the degree of change being sought, a Dean, Provost, or other senior leader may serve as PI, provided they will be responsible for the active leadership of the RED project. The qualifications of the PI can be justified in the required letter from senior institutional leadership.
+
+It is recommended that projects consider including individuals with expertise in (a) engineering education research and (b) organizational change on the leadership team.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

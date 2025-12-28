@@ -16,3 +16,134 @@ Status: Cleared
 Posted date (Y-m-d): 2023-05-05
 URL: https://www.nsf.gov/funding/opportunities/ityc-iuse-innovation-two-year-college-stem-education/nsf23-584
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+IUSE: Innovation in Two-Year College STEM Education (ITYC)
+
+I. Introduction
+
+NSF's Directorate for STEM Education (EDU) seeks to address the specific opportunities and challenges evident at two-year institutions of higher education in its effort to accelerate the impact of emerging and evidence-based practices in undergraduate STEM education across the country. This solicitation aligns with the NSF 2022-2026 Strategic Plan 1 and the National Science Board (NSB) Vision 2030 2 both of which emphasize innovation across the STEM education landscape to cultivate a STEM workforce that is well-equipped to participate fully in the scientific enterprise and contribute to the progress of science. The ITYC program recognizes that two-year institutions of higher education serve as a gateway to higher education 3 and that their faculty, staff, and administrators are uniquely positioned to create innovative solutions that advance NSF’s priority of enhancing STEM education to better prepare the future STEM workforce. The NSF also appreciates that two-year colleges are distinct in the national undergraduate STEM education ecosystem and play a pivotal role in providing affordable access to higher education and career-relevant STEM pathways to the workforce 3 .
+
+There are more than 1,000 unique public and independent two-year colleges throughout the country, and these institutions serve as important entry points for many students who want to earn a STEM degree. In the Fall of 2020, for example, at least 6.2 million credit-earning students attended two-year colleges either full- or part-time to obtain academic credentials and/or transfer to four-year colleges and universities, making up 39% of all undergraduates in the United States 5 . Among students who earned a Science and Engineering Bachelor's degrees almost half (47%) had completed some coursework at two-year colleges 3 . As such, two-year colleges represent a wealth of STEM potential and are poised to be major contributors to the productivity of STEM graduates of the future.
+
+Through its investments, the ITYC program seeks to promote bold, potentially transformative projects that:
+
+center students in the effort to advance innovation and promote success in STEM education at two-year colleges, and
+
+enhance the capacity of two-year colleges to harness the talent and potential of their student and faculty populations through innovative disciplinary, multi-department, and college-wide efforts.
+
+These goals may be achieved through projects in STEM fields 7 that address the experiences, pathways and courses of STEM majors and non-majors at two-year colleges. Project teams are encouraged to leverage the expertise that result from authentic partnerships across disciplines, institutions, and communities.
+
+The ITYC program addresses undergraduate STEM education and therefore is aligned with the NSF's Improving Undergraduate STEM Education (IUSE) framework. More information about the IUSE program can be found on the IUSE:EDU program website. Depending on the scope and nature of the project, investigators should consider applying to IUSE:EDU.
+
+The ITYC program seeks to support the advancement of STEM education in general education and STEM transfer courses and pathways at two-year colleges. The Advanced Technological Education (ATE) program supports projects that improve the education of technicians in science and engineering at two-year colleges. For support with projects that address technical education, please see the ATE program website for more information.
+
+II. Program Description
+
+A. Program Overview
+
+The ITYC program aims to support potentially transformative projects that will advance innovative evidence-based practices in undergraduate STEM education at two-year colleges that are in line with the program goals specified in the previous section. The program features two Tracks: (1) A Focus on the Academic Experiences of Two-Year College Students and (2) Leveraging Two-Year College Strengths and Innovation.
+
+Within these two Tracks, ITYC projects may focus on developing innovative materials, practices, and partnerships at the frontier of STEM education, and/or projects that adapt and implement strategies that reflect upon proven or promising approaches from previous NSF projects or from other sources in the STEM education community 8 . In either case, projects must be in STEM fields, including emerging and converging STEM areas, that support the advancement of courses, pathways, or co-curricular activities for students enrolled as STEM majors and non-majors at two-year colleges. Projects are expected to leverage prior fundamental and/or applied research in STEM education and provide theoretical and empirical justification for all proposed activities. Projects that propose innovative approaches that are designed to address gaps in the research literature or educational practice or are based on ideas that have not been tried out in STEM education are encouraged.
+
+The ITYC program recognizes that students at two-year colleges follow a variety of academic pathways that may result in certificates, degrees, direct entrance to the workforce, or transfer to four-year institutions in lieu of two-year college graduation. Successful ITYC proposals will therefore utilize or develop student-centered practices that embrace the numerous on-ramps, pathways and career pivots that shape the two-year college student experience. These proposals may include but are not limited to projects that seek to transform gateway STEM courses, develop and implement authentic research experiences, utilize effective mentorship models, connect STEM courses to the local community through experiential learning opportunities, leverage students' backgrounds and experiences, and/or generate knowledge about factors associated with the impact of these advances in the context of two-year colleges.
+
+Additionally, the ITYC program supports authentic partnerships that build an institution's capacity to support students by focusing on activities that may include but are not limited to faculty professional development, the establishment of communities of practice, development of innovative models for on- and off-ramps, and many other structural innovations that contribute to the goals of the ITYC program. Proposers are encouraged to use disaggregated institutional data to address the specific needs of their student population or to justify the proposed enhancements in student experiences and/or institutional capacity-building activities.
+
+Proposals may include the procurement of equipment (up to 30% of the project budget) to support STEM coursework where student access to specialized equipment will enhance their academic experience. Proposals that include equipment should clearly describe how it will advance STEM education at the two-year college and provide a plan for sustaining these activities and the equipment beyond the funding period.
+
+B. Program Tracks
+
+The ITYC program invites proposals to two tracks: 1) A Focus on the Academic Experiences of Two-Year College Students and 2) Leveraging Two-Year College Strengths and Innovation . Planning proposals for both tracks are also welcome as a part of this program.
+
+Track 1: A Focus on the Academic Experiences of Two-Year College Students
+
+Track 1 projects involve direct engagement with students at two-year colleges and focus on developing and/or adapting approaches to promote successful outcomes in STEM courses by placing students at the center of the effort. These projects hinge on the recognition that students at two-year colleges bring a range of experiences and educational backgrounds that influence their pathways in STEM. Student populations could include full and part-time students, students enrolled at multiple colleges, and students participating in dual enrollment and/or dual credit programs. The faculty, staff and administration of two-year colleges are invited to develop projects that recognize the potential within their student populations to optimize the student experience in STEM courses and pathways. Stipends for student time and engagement with project activities are supported.
+
+Examples of Track 1 projects include, but are not limited to , the transformation of introductory, developmental or laboratory courses for both STEM majors and non-majors. This may include development and/or implementation of active learning approaches, project-based experiences, contextualized STEM learning activities that provide relevance and connections to students’ experiences, and school/work-life balance. Projects aimed at developing and/or implementing instructional and pedagogical practices to enhance student engagement, motivation, and success in these same introductory courses align with program goals. Projects that focus on these courses should consider students’ prior experiences ,as well as the metrics used to measure progress.
+
+Proposed projects to Track 1 may also seek to develop authentic research experiences in courses and/or generate models for undergraduate research experiences specific to the two-year college context. Projects may also focus on engaging student voices to guide the design of academic experiences that connect STEM education to students' communities. This may include project activities such as service-learning initiatives, community-based projects, internships, and other experiential learning opportunities which may involve early exposure to emerging scientific fields in work-based settings.
+
+Alternatively, projects might engage in STEM education research conducted by faculty and other researchers on cognitive and non-cognitive factors associated with two-year college student learning and motivation, and success. Researchers/faculty may also engage in discipline-based education research (DBER) that generates knowledge specific to the advancement of STEM education at two-year colleges.
+
+Track 1 projects have a maximum award of $500,000 for up to three years. Institutions that have not received NSF funding in the past 5 years are eligible for a maximum of $600,000 for up to four years. A prior subaward from a separate lead institution does not exclude an institution from eligibility for this incentive. Institutions eligible for this incentive would not have an award or collaborative award with their own award number that started in the past five years.
+
+Track 2: Leveraging Institutional Strengths and Innovation
+
+Proposals submitted under this category are intended to foster single department, multi-department, or college-wide projects to accelerate innovation and build appropriate capacity in the targeted unit to enable innovation in STEM education at two-year colleges. Track 2 projects should promote student success and increase participation in STEM through novel approaches or through existing practices already known to positively impact student participation and retention outcomes. Track 2 projects may achieve this by leveraging college-wide strengths or by fostering partnerships with external stakeholders that expand capacity and impact student success.
+
+Examples of Track 2 projects include, but are not limited to , professional development of faculty, staff, and administrators, expanding the roles of teaching and learning centers, or establishing a community of practice within or among institutions. Professional development for two-year college faculty, for example, may focus on building expertise in a wide range of emerging practices such as implementing evidence-based STEM education approaches, creating novel mechanisms to identify talent and recruit students into STEM programs, or enhancing capacity to conduct STEM education research. In particular, proposals that aim to develop innovative strategies that effectively engage part-time faculty in these professional development activities are supported.
+
+Track 2 also promotes the successful advancement of students through key transitions, such as the transfer of students from two-year to four-year institutions and the transition from secondary education to two-year colleges. Track 2 projects may, for example, seek to create innovative dual credit, dual enrollment, or bridge programs by partnering with local school districts to effectively support students through this transition. Proposed projects may also create inter-institutional partnerships for designing pathways or bridge programs to support students as they transition to a four-year institution seeking a bachelor's degree or to a work-based setting in pursuit of a career in STEM.
+
+Track 2 projects have a maximum award of $500,000 for up to three years. Institutions that have not received NSF funding in the past 5 years are eligible for a maximum of $600,000 for up to four years. A prior subaward from a separate lead institution does not exclude an institution from eligibility for this incentive. Institutions eligible for this incentive would not have an award or collaborative award with their own award number that started in the past five years.
+
+Research and Practice: The ITYC program welcomes proposals to both Track 1 and Track 2 that generate new knowledge as part of a research study about factors associated with the success of students who are pursuing their education at two-year institutions. If included, the proposed studies must address problems of practical significance, be informed by the research literature, driven by well-focused research question(s), aligned with research methods including justification, and be designed to bridge the gap between research and practice 9 . The program accepts a wide range of methodological approaches that are aligned with the research questions and are appropriate for answering them. Research and Practice Proposals can be submitted under either Track 1 or Track 2 based on alignment of the proposal with the selected track.
+
+Partnerships and Collaborations: Mutually beneficial partnerships or collaborations within and across institution types are supported in both Track 1 and Track 2. For example, a collaboration across STEM disciplines within the proposing institution or a partnership among several two-year colleges implementing similar interventions could strengthen the ability of these departments and/or institutions to share resources and expertise and could increase the amount of new knowledge produced. Partnerships with 4-year colleges and universities could create clear transfer pathways for two-year college students that would not otherwise exist or could leverage additional expertise and resources. Collaborations with work-place partners could extend STEM pathways directly to career opportunities. Please see the PAPPG Chapter II.D.3 for additional guidance on preparing collaborative proposals. In all collaborative proposals to Track 1 and Track 2, two-year colleges must be the lead institution. Other types of institutions may serve as collaborators as necessary for the success of the project. All collaborative proposals will require a robust management plan that describes the role of contributors in leadership positions from each institution.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 15 to 20
+
+The program estimates making awards for up to 20 projects across both tracks.
+
+Anticipated Funding Amount: $10,000,000
+
+The estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Proposals may only be submitted by two-year colleges of higher education (either Associates College or Baccalaureate / Associates Colleges) that are accredited and offer undergraduate educational degree programs in science, technology, engineering, and mathematics (STEM). Baccalaureate, Master's, and Doctoral institutions, and Professional Organizations may partner with a two-year college as a subaward or as a collaborator. For all collaborative proposals, two-year colleges must be the lead organization. Please see PAPPG Chapter II.E.3 for additional guidance on collaborative proposals.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Voluntary committed cost sharing is prohibited.
+
+Voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

@@ -13,3 +13,132 @@ Status: Cleared
 Posted date (Y-m-d): 2020-03-13
 URL: https://www.nsf.gov/funding/opportunities/pfe-rief-pfe-research-initiation-engineering-formation/nsf20-558
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+PFE: Research Initiation in Engineering Formation (PFE: RIEF)
+
+I. Introduction
+
+Engineering faculty have deep understanding of their technical fields and the primary responsibility for educating future engineers. Engineering faculty have used novel classroom techniques or developed programs to enhance the education of their students, develop interest in engineering at the K12 level, and inform the public. Many of these faculty are interested in gathering evidence for the effectiveness of these practices or understanding the factors that affect their students’ learning. The Professional Formation of Engineers: Research Initiation in Engineering Formation (PFE: RIEF) program is designed to provide these faculty with the opportunity to conduct this research while at the same time being mentored on social science research approaches. The intent is that by completing a PFE: RIEF project, engineering faculty will be prepared to take a stronger leadership role in research on the professional formation of engineers, thus expanding the community of engineering education researchers. An award under PFE: RIEF is one possible pathway toward securing research funding from the RFE program.
+
+The Professional Formation of Engineers: Research Initiation in Engineering Formation (PFE: RIEF) solicitation is a funding opportunity in the Engineering Directorate’s (ENG) multi-year initiative, the Professional Formation of Engineers, established to create and support an innovative and inclusive engineering profession for the 21st Century.
+
+Professional Formation of Engineers (PFE) refers to the formal and informal processes and value systems through which people become engineers. It also includes the ethical responsibility of practicing engineers to sustain and grow the profession in order to improve quality of life for all peoples. Processes of formation are holistic, carefully attending to how knowledge and identity interrelate in the larger context of one’s career and life.
+
+Professional Formation includes, but is not limited, to:
+
+Introductions to the profession at any age;
+
+Acquisition of deep technical and professional skills, knowledge, and abilities in both formal and informal settings/domains;
+
+Development of outlooks, perspectives, ways of thinking, knowing, and doing;
+
+Development of identity as an engineer and its intersection with other identities; and
+
+Acculturation to the profession, its standards, and norms.
+
+Research is welcome that considers the construction of engineering knowledge, engineering identity, and the engineering profession, as well as interventions that expand the boundaries of each of these.
+
+Professional formation occurs within a complex system that includes formal classrooms; informal settings such as maker spaces (hands-on, do-it-yourself environments where community members gather to create, invent, and learn); co-curricular activities; industry experiences (including co-ops and internships); community-based learning experiences; as well as early career (co-op or internship) work, research experiences, mentor/mentee, and sponsor/sponsoree relationships, etc. To facilitate such activities, engineers must understand and navigate this complex system for successful professional formation and practice. They must oversee and participate in developing and maintaining this system, with smooth and clear pathways to and through the profession. Pathways may include, but are not limited to, formal and informal education, apprenticeship, credentialing, and licensure.
+
+Engineering formation activities serve societal needs by supporting an innovative and inclusive engineering profession for the 21st Century. Challenges facing the engineering profession require new ideas about how to reshape processes of professional formation in multiple areas, such as:
+
+Advancing holistic engineering formation. The US labor market requires a sufficient number of talented and well educated US engineers with outlooks, perspectives, and ways of thinking, knowing, and doing appropriate for professional practice across economic sectors. These include not only technical competence but also twenty-first century skills, “T-shaped” skills, critical thinking, creativity, intercultural competencies, entrepreneurship, and mindsets supporting sustainability. These competencies relate to several ABET-identified learning outcomes, including abilities to analyze social context in both historical and contemporary settings; to communicate effectively in listening, speaking, writing, and visual representation; to engage effectively in diverse teams; to reflect and act ethically; to engage in lifelong learning; and to design in context. Creating greater opportunities and preparation for engineers to engage interdisciplinary endeavors, especially in relation to complex sociotechnical systems (e.g., electric power grid; food-water-energy systems; telecommunications systems; machine learning and robotics; healthcare system; etc.) will enable the future workforce to adapt to changes in national priorities and emergent technologies.
+
+Diversifying pathways to and through engineering. Research projects that align with this theme explore how engineering programs can create alternative pathways for students with a broad range of backgrounds, interests, and experiences; investigate how informal or real world experiences germane to engineering-such as military service or being a "maker" - serve as pathways to engineering; identify engineering norms of knowing, thinking, and doing that reflect and perpetuate climates and cultures of inequality, including but not limited to normative masculinities, heteronormativities, whiteness, and able-bodiedness in the profession; develop effective strategies to reshape these norms in ways that increase opportunities for engineers from groups traditionally underrepresented in engineering, including those with disabilities, as well as engineers from underserved or non-traditional backgrounds; develop engineering identities and processes of acculturation to the profession that are compatible with intersecting non-normative identities; or investigate how to fundamentally restructure courses, curricula, or programs to substantially boost student success, especially for under-represented populations, including those with disabilities, and veterans. Research on approaches that lower barriers for students to transfer into or between engineering programs, from other majors or community colleges for example, is also sought.
+
+Exploring citizen engineering, credentialing and expertise. Research in this area explores how to build capacity within communities and the general public to make well-informed decisions about engineering priorities; develop processes for engineers and the public to collaboratively define, ideate, and implement creative solutions related to major sociotechnical challenges in society; explores the relationships among credentialing, expertise, and formation of engineers, developing new methods to assess, credential, and accredit engineering formation; characterizes how credentials are valued and interpreted in different settings; considers alternatives for obtaining professional credentials or expertise at manageable cost and time invested.
+
+Developing engineering-specific theories of how engineers are formed. Theories on development of engineering epistemologies and identities, and methodologies to characterize different aspects of professional formation processes at the level of individuals, groups, institutions, and in society at large.
+
+Understanding how change in engineering formation processes travels, translates, transfers, diffuses, and/or scales. This topic includes studies on how to improve the translation of engineering formation research to practice or scale innovations to have systemic impact. This topic also supports activities that inform engineering formation efforts and investments or spawn new research.
+
+These, and many other challenges in the professional formation of engineers, require expertise in both engineering and the social sciences to understand the issues and develop solutions. The PFE: RIEF program specifically targets those individuals who are passionate educators and/or have technical disciplinary research programs, allowing them to build from this base to develop wider innovations in the professional formation of engineers grounded in engineering education research.
+
+II. Program Description
+
+A wide range of research topics related to the Professional Formation of Engineers can be addressed in PFE: RIEF proposals; the emphasis of PFE: RIEF is on initiating research projects in professional formation of engineers rather than supporting research on any specific topic. PFE: RIEF projects should combine engineering approaches with those from learning and cognitive sciences, engineering education, social sciences, and related fields in synergistic ways and enable engineering faculty to develop expertise in engineering education research.
+
+PFE: RIEF awards are intended to expand the community of engineering faculty conducting research related to professional formation of engineers. Possible outcomes commensurate with the goals of this program are:
+
+Support engineering faculty in developing expertise in professional formation of engineers.
+
+Increase the number of faculty and universities who will initiate projects and programs in research on professional formation of engineers.
+
+The intent of the PFE: RIEF program is to expand the community of engineering faculty conducting research related to engineering formation rather than to create an additional funding channel for researchers with social science expertise.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 15
+
+Anticipated Funding Amount: $3,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research labs, professional societies and similar organizations in the U.S. associated with educational or research activities.
+
+Who May Serve as PI:
+
+The PFE: RIEF program is designed to expand the community of engineering faculty equipped to conduct research in professional formation of engineers. At least one (co) PI must be a member of an engineering department AND not have received engineering education or professional formation funding through EEC in the last three years.
+
+Submissions from faculty with active disciplinary research programs, or faculty seeking a shift in their research focus, are especially encouraged. The program is not intended to create an additional funding channel for researchers with expertise in social science or education research; such researchers should apply to the Research in the Formation of Engineers program ( https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505681 ), or other related NSF opportunities.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

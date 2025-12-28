@@ -15,3 +15,106 @@ Status: Cleared
 Posted date (Y-m-d): 2023-04-04
 URL: https://www.nsf.gov/funding/opportunities/amtry-archaeometry/nsf23-573
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Archaeometry (AMTRY)
+
+I. Introduction
+
+Three anthropological science programs, Archaeology, Biological Anthropology and Cultural Anthropology, are housed in the Division of Behavioral and Cognitive Sciences, part of NSF's Social, Behavioral and Economic Sciences Directorate. As a group, these programs support basic research that advances anthropological theory, expands our understanding of human cultural and biological variation in the past and present and informs contemporary efforts to improve the human condition. The Archaeology Program focuses specifically on processes that have shaped past behavior in humans and their fossil relatives. This solicitation provides instructions and details (supplementary to the PAPPG) for preparation of proposals submitted to the Archaeometry competition within the Archaeology Program. Separate solicitations exist for the Archaeology Doctoral Dissertation Improvement Grant and Archaeology Senior Research competitions.
+
+II. Program Description
+
+The Archaeology Program administers an annual Archaeometry competition with a target date of December 1. The goal is to fund projects in two main categories:
+
+To develop or refine anthropologically relevant archaeometric techniques. Examples include the development of methods to identify specific types of organic residues on ceramics or development of field applicable analytic techniques.
+
+To support laboratories which provide relevant services. This includes support of service laboratories which, for example, may provide dating trace element, isotopic and dendrochronological analyses. It also includes support for data archives, which function to strengthen basic archaeological infrastructure.
+
+Projects which apply standard archaeometic techniques with the goal to answer specific archaeological questions should be submitted to the Archaeology Senior Research Awards competition. Proposals are evaluated by both ad hoc reviewers and a panel composed of individuals who combine both archaeological and archaeometric expertise.
+
+Proposals with a relevant cultural or biological orientation may be appropriate for co-review with the Cultural Anthropology or Biological Anthropology programs. Archaeometry proposals may also be reviewed with geological and biological science programs. Review with many other NSF programs may also be possible. Co-review may be requested by the PI but ultimately is at the discretion of the participating programs.
+
+The program encourages PIs to consider the full scope of ethical implications that their proposed research has on individuals, communities, environments and the scientific enterprise and to discuss these in the proposal's project description. The program also encourages a wide range of broader impact activities as part of research grants, including research outcomes with inherent benefit to society, efforts to broaden participation in STEM research, and training and outreach activities.
+
+If a researcher is unsure whether the Archaeometry competition and NSF more broadly are appropriate for a proposal topic, they are encouraged to email a one-page summary of their project to the program officer(s) prior to a proposal submission.
+
+Additional Program Considerations
+
+Broader Impact Activities: Successful projects will include creative, well-integrated, effective, evidence-based broader impact activities developed within the context of the mission, goals and resources of the organizations and people involved. The expertise of collaborators, the proposal budget and the budget justification should reflect this integration. Example activities include but are not limited to those that create effective methods of science outreach and engagement with local communities or the public at large; translate research to benefit broader societal needs; involve early career researchers as well as groups and regions that traditionally have not participated fully in science, mathematics, and engineering; or foster new partnerships, including if focused on capacity building (e.g., with Emerging Research Institutions). Additional guidance for broader impacts may be found in the PAPPG .
+
+Ethical Considerations: The Archaeology Program aspires to continually improve the integration of ethical considerations and practices into research projects. Such considerations could relate to community-engaged research or co-production of knowledge with living populations (e.g., research participants, descendant communities), many of whom are underrepresented in the STEM research enterprise; environmental impact of research; researcher safety; data archiving and sharing, and other issues. Discussion of relevant ethical issues should be included in the proposal's project description.
+
+Projects Involving Collaboration with Foreign Organizations or Work in Foreign Countries: As stated in the PAPPG, NSF rarely provides direct funding to support foreign organizations and only provides support for the U.S. portion of collaborative projects. If foreign organization involvement is essential to the project, subawards or consultant arrangements may be considered if the foreign organization contributes unique resources not otherwise available, or significant education, training or research opportunities to the U.S. Such information must be provided in the project description section of the proposal. For studies in countries other than the United States, the project description should discuss, where appropriate, collaborations with scientists and students from the host country, and how these individuals will be involved in the project.
+
+Collaborations should be well justified, in that they represent true intellectual collaboration and use the expertise and specialized skills, facilities and resources of the foreign collaborator. Letters of collaboration must be included in the other supplementary documents section of the proposal. Refer to the PAPPG for instructions for submitting letters of collaboration. Principal investigators are encouraged to provide U.S. students and junior researchers with international research experiences. Where relevant, arrangements to allocate samples and data between host country organizations or institutions and U.S. organizations or institutions should be discussed in the proposal. Investigators are encouraged to include any permits (including legally required collecting, import and export permits for samples, instrumentation and data), authorizations and agreements, in the other supplementary documents section of the proposal.
+
+Data Management: As stated in the PAPPG, principal investigators are expected to share with other researchers, at no more than incremental cost and within a reasonable time, the data, samples, physical collections and other supporting materials created or gathered in the course of work under NSF grants. The Archaeology Program is committed to the establishment, maintenance, validation, description and distribution of high-quality data sets generated by program-funded projects. Proposals should generate data products that are findable, accessible, interoperable and reusable (FAIR). It is expected that data be shared (barring ethical limitations on sharing) within two years of final data collection. See proposal preparation and submission instructions below for additional information.
+
+Plans for the dissemination and sharing of research results will be traceable from the beginning to the end of a project (proposal, review and annual/final report). PIs are required to provide updates on the status of metadata and data archiving in annual and final project reports. See reporting requirements below for additional information.
+
+Permits, Permissions and Collaborations: PIs are responsible for obtaining the required authorizations from international, federal, state or local authorities for any collecting or other activities and for advising NSF that they have been obtained or requested. The proposal should briefly list the permits that are required and the timeline for approvals.
+
+Human Subjects Research: Projects involving human subjects must indicate this on the cover sheet, including status of Institutional Review Board (IRB) approval and federal-wide assurance, and will need to provide IRB approval prior to any award being processed (see the PAPPG). Though IRB approval is not required at the time of proposal submission, the program encourages PIs to briefly address the status of approval or the plan for IRB approval in the project description and provide any additional ethical considerations related to human subjects research as part of the discussion of ethical considerations in the project description.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 4
+
+Anticipated Funding Amount: $600,000 to $700,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+PIs and co-PIs must be researchers who have a Ph.D. or equivalent education and experience, sufficient to allow them to carry out independent basic research. PIs are encouraged to include undergraduate and graduate students in their research projects, but not as PI/co-PI or senior personnel.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

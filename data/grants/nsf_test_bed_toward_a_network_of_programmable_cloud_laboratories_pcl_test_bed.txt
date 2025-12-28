@@ -20,3 +20,186 @@ Status: Cleared
 Posted date (Y-m-d): 2025-07-15
 URL: https://www.nsf.gov/funding/opportunities/pcl-test-bed-test-bed-toward-network-programmable-cloud-laboratories/nsf25-541
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Test Bed: Toward a Network of Programmable Cloud Laboratories (PCL Test Bed)
+
+I. Introduction
+
+A. Automated Laboratory Science
+
+The NSF Directorate for Technology, Innovation and Partnerships (NSF TIP) seeks to establish test beds to advance the development, operation, integration, deployment, and demonstration of new, innovative critical technologies. These test beds would provide access to innovative technologies that support new modes of work across research, development, and industry while also providing the opportunity to demonstrate commercial viability of new technologies and prospects for establishment of new enterprises and/or industry sectors. Such test beds would additionally nurture a workforce with the skills needed to operate the test beds with the expectation that the operation would continue after NSF and any other Federal funding ends.
+
+This NSF solicitation calls for the establishment of a Programmable Cloud Laboratories (PCL) Test Bed consisting of a network of Programmable Cloud Laboratory Nodes (PCL Nodes) with the key objectives of accelerating automated science and engineering and democratizing access to state-of-the-art instruments, including AI-based methods across multiple domains of science and engineering. The National Security Commission on Emerging Biotechnology, created and tasked by Congress to examine the critical intersection of emerging biotechnology and national security, recommended that NSF establish a network of "cloud labs," to enable access to cutting edge tools and accelerate data generation to support biotechnology R&D. This PCL Test Bed funding opportunity aligns with this recommendation.
+
+Progress in automated laboratory science has already begun, as demonstrated by efforts such as the Acceleration Consortium at the University of Toronto ( https://acceleration.utoronto.ca/ ), the NIST Autonomous Formulation Lab, AFL ( https://www.nist.gov/ncnr/ncnr-facility-upgrades/autonomous-formulation-lab-afl ), and the CAPeX: Pioneer Center for Accelerating P2X Materials Discovery in Denmark ( https://capex.dtu.dk/ ). Workshops organized by the NSF TIP Directorate in October 2023 and January 2024 — on Creating a National Network of Cloud and Self-Driving Labs ( https://events.mcs.cmu.edu/ac-sdl_workshop/ ) and the FUTURE Labs Workshop ( https://research.ncsu.edu/futurelabsworkshop/program/ ) and by the NSF Computer and Information Science and Engineering Directorate ( https://nsf-sdl-2023.github.io ), have identified the need for developing supporting infrastructure for automated research facilities and encouraging early adopters in this space in order to establish a successful and sustainable cohort of cloud labs, with capabilities to execute distributed experiments as well as self-driving experiments.
+
+B. The Programmable Cloud Laboratories Test Bed
+
+The vision of the PCL Test Bed program is to establish and operate distributed lab facilities with technological and human capacity to enable integration, testing, evaluation, validation, and translation of cutting-edge technology solutions in automated science and engineering. The PCL Test Bed consists of a set of independent PCL Nodes. For the current solicitation, only organizations with pre-existing instrument facilities are eligible to apply to this program to be a PCL Node.
+
+Some or all the instruments in an existing facility may be dedicated for use by the PCL Node, including the possibility of time-sharing of existing instruments. Proposals may include costs of enhancing existing instruments or other lab capabilities in their budgets, and/or the cost of acquisition of new instruments. Any new instruments and/or capability acquired under this program must be fully available for use in this program and the usage must comply with the guidelines specified in the Code of Federal Regulations, 2 § CFR 200.313, including provisions related to equipment use, as detailed in 2 § CFR 200.313(c) .
+
+The PCL Test Bed will focus initially on specific Science Drivers chosen from biotechnology, chemistry, materials science, or other well-justified areas of science and engineering that are able to benefit immediately from the cloud lab approach. Once awarded, PCL Node projects will collaborate to establish common protocols and standards for laboratory workflows, data management, instrument validation, experiment verification, use of AI tools and models, and for other areas. Each PCL Node will have the ability to support the data needs of the Node and be equipped to develop and/or implement new AI tools for improved operation and experimentation.
+
+A key goal of this program is to advance the testing and scale-up in real-world environments of automated science and engineering technologies and techniques (e.g., reproducibility of experiments, curation and exchange of experimental results, AI/ML training data, etc.). In addition, the PCL Test Bed will serve to demonstrate to potential users new techniques and technologies in automated science and engineering in a neutral, realistic, and rigorous environment, minimizing their need to perform additional rounds of in-house evaluation prior to use. To fulfill these goals, PCL Nodes are expected to propose pilot activities for testing the reliability and reproducibility of methods for automated science and engineering; testing scale-up of experiments, including high-throughput runs; performing failure analyses; and assessing safety and research security of the Node.
+
+The PCL Test Bed will help accelerate scientific discovery by improving access to automated instrumentation for design-build-test-learn cycles facilitating the collection of experimental data for machine learning to be integrated with traditional scientific workflow and enabling development of "self-driving" labs. Researchers, including early-career scientists and engineers, would be empowered by the potentially increased pace of experimentation and by the anticipated improvements in the reproducibility of experiments. The capabilities provided by the Test Bed would help expedite commercialization and serve to lower costs for deep-technology startups.
+
+II. Program Description
+
+This solicitation invites organizations with pre-existing instrument facilities to apply to be a PCL Node , as part of a distributed PCL Test Bed . The solicitation also requires awardees to run Recruitment and On-Boarding Workshops to attract new users, including those from under-resourced institutions, who will conduct science on the PCL Node and Test Bed to result in accomplishments in basic and translational research, education, and workforce development.
+
+A PCL Node may incorporate some or all of the instruments at an existing facility, including time-sharing of instruments with the PCL Node. In limited circumstances, and with adequate justification in the context of specified science drivers, a PCL Node may propose modest requests for acquiring a new instrument and/or enhancement of existing instruments or other lab capabilities that would become part of the PCL Node.
+
+Proposals may not request support for physical plant infrastructure, e.g., building, utilities, and related costs. Proposals requesting funds for these items as part of the proposal budget will be considered non-compliant and will be returned without review.
+
+A. Test Bed Objectives
+
+The PCL Test Bed will help realize the vision of automated science and engineering through activities such as advancing the design, development, testing, and refinement of the laboratory protocols and standards necessary for creating the AI-driven autonomous laboratories of the future. Experiments identified in proposed science drivers will provide the driving force toward measurable progress in automated science and engineering.
+
+The PCL Test Bed will help develop critical elements essential to the success of autonomous labs and automated science and engineering. These may include (but are not limited to):
+
+Execution of programmable workflows based on open instrument APIs and open lab protocols for experiment design, instrument validation, workflow verification, and others. Scientific workflows may be executed within a single PCL Node or across multiple nodes. PCL Nodes may be heterogeneous in their size (i.e., number of instruments) and capabilities (i.e., types of instruments).
+
+Development of common open metadata and data standards for science drivers, including for publication of data, models, and results. All projects should plan to collaborate across the Test Bed to establish protocols and standards that facilitate laboratory automation. PCL Nodes will collaborate with other (external) partners spanning industry, academia, government labs, and others.
+
+Use of AI for "self-driving" experiments in which automated systems design, execute, and analyze experiments using AI and Machine Learning.
+
+Use of AI in lab automation to improve operational efficiency.
+
+Support for distinct usage modes that can be supported by the capabilities and capacity of the PCL Nodes including, for example: Power users executing complex experiment workflows across multiple nodes. High-throughput users executing many variants of the same workflow. First-time users experimenting with lab automation in a cloud lab. These users would have demonstrated lab experience and would be looking to solve scientific problems of significance. Prototyping users testing specific workflows prior to replicating the entire instrument setup and workflow in their own labs for "on premise" use. Industry users including, but not limited to, startups and small businesses funded by the federal Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) programs using the system for research and testing. Education users using the Test Bed for undergraduate and graduate research and to augment classroom instruction. Research users conducting basic and translational research in science, e.g., biotechnology, chemistry, materials science, as well as in enabling technologies, e.g., development of new instrumentation, robotics, and AI/ML.
+
+Power users executing complex experiment workflows across multiple nodes.
+
+High-throughput users executing many variants of the same workflow.
+
+First-time users experimenting with lab automation in a cloud lab. These users would have demonstrated lab experience and would be looking to solve scientific problems of significance.
+
+Prototyping users testing specific workflows prior to replicating the entire instrument setup and workflow in their own labs for "on premise" use.
+
+Industry users including, but not limited to, startups and small businesses funded by the federal Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) programs using the system for research and testing.
+
+Education users using the Test Bed for undergraduate and graduate research and to augment classroom instruction.
+
+Research users conducting basic and translational research in science, e.g., biotechnology, chemistry, materials science, as well as in enabling technologies, e.g., development of new instrumentation, robotics, and AI/ML.
+
+Exploring challenges in research security . While ease of access and use are important considerations, all PCL Nodes in the Test Bed must also implement measures to prevent inappropriate use of laboratory facilities. This includes developing protocols for allowing secure access to the overall Test Bed as well as protocols for monitoring use of the Test Bed.
+
+Demonstrating ease of access . Like cloud computing, the PCL Test Bed has the potential of providing easy access to a set of powerful resources and capabilities to a larger set of science and engineering users. There is also tremendous potential to increase the productivity of Test Bed users and of providing access to communities of users that have not previously had easy access to such resources.
+
+Experimentation in Enabling Technologies . PCL Node proposals may choose to incorporate experimentation with enabling technologies for improved lab operation/productivity, increased reliability, reproducibility, and other aspects related to the PCL Node. For example, this may include the development of digital twins for the laboratory and laboratory workflows to enable pre-execution feasibility analysis experiments, supporting use in classroom instruction, and identifying key bottlenecks. The emphasis of such experimentation should be on improving the effectiveness of the PCL Test Bed in achieving its goals. This is another area where collaborations across the Test Bed and/or with external collaborators, e.g., industry partners, are encouraged.
+
+B. Science Drivers
+
+Each PCL Node proposal should include a clear description of one or more specific science driver(s) that will provide a framework for the development of the PCL Node, especially in Years 1 and 2. This should include examples of commonly used and key experimental protocols/workflows, and their mapping to the node's available facilities and expertise. Experiments may range from synthesis to optimization to characterization. PCL Nodes are encouraged to include at least some " self-driving " experiments in this phase, where AI and/or other automated methods are employed to use data output from one experiment to determine the next step(s) in the experiment workflow.
+
+As described in section V.B. Budgetary Information below, the proposal budget should include support for scientists (senior researchers, postdocs, and/or students) working towards the science drivers, with the clear understanding that these project participants are being supported to synergistically test and improve the capabilities of nodes while making progress towards science drivers and supporting the broader Test Bed.
+
+As described in item E. Recruitment and On-Boarding Workshops below, PCL Node proposals must incorporate new users of the Test Bed in Years 3 and 4 of this effort, or earlier if the equipment is fully operational. This will be facilitated by holding Recruitment and On-Boarding Workshops targeted at new users. Thus, early active outreach to this community of new users is encouraged to help cultivate that user base. In general, PCL Node proposals should include a quantitative assessment of the pool of likely users of the proposed Node/Test Bed, their projected utilization of the Node over time, and the value that such users will derive from utilizing the capabilities of the PCL Test Bed.
+
+While examples of science drivers are provided below, proposals that propose other science drivers with a similar level of specificity and potential impact are also encouraged. Nodes working on science drivers in the same general areas of science will be required to collaborate with each other.
+
+Support for Science Drivers
+
+For any science driver, users must be able to program their corresponding experiment workflows. Tools must be available at the respective PCL Node to enable users to analyze data generated from their science workflows, including applying AI/ML methods to determine the next steps of an experiment, which could be performed at the same Node or at other Nodes in the PCL Test Bed. To facilitate interoperability among PCL Nodes, workflows must generate detailed reports for auditability and reproducibility, summarizing methods used, quality control procedures, data analysis procedures and other experiment details. PCL Nodes must adhere to standards, such as Good Manufacturing Practice (GMP) or Good Laboratory Practice (GLP), to ensure and document reproducibility, traceability, and regulatory compliance. The nodes must also implement appropriate biosafety and biosecurity measures in accordance with Dual Use Research of Concern/Pathogens with Enhanced Pandemic Potential (DURC/PEPP) policies.
+
+Science Driver Example 1: Advanced Materials
+
+Advancing materials development for many segments of materials science requires manipulations to process solid input raw materials and make measurements on solid material outputs. Examples of key advanced materials include ceramics, polymers, superconductors, electronic materials, 2D materials, and alloys. Whereas a wet chemistry PCL Node could employ liquid transfer protocols in its synthesis and characterization sections, solid materials require solid proportioning, blending, and transfer. Materials like ceramics and composites also can require high temperature melting or sintering with PCL handling of the hot output material.
+
+Characterizations of solid materials in a PCL lab will generally involve surface analytical measurements such as X-ray methods, microscopy, and other methods potentially involving pulverization, dispersion, or solubilization. Advanced materials are also commonly characterized by their properties under use conditions. Other types of testing, such as physical-mechanical, thermal, rheological, and optical testing can be contemplated in this type of PCL Node.
+
+It is also possible to envision a PCL Node for Advanced Materials where synthesis is performed by wet or dry methods on different "front end" instruments and results are fed to a shared characterization "back end" set of instruments that are agnostic to the synthetic method employed for the material.
+
+Science Driver Example 2: High-throughput characterization services for bioeconomy supply chain (Biotechnology)
+
+Biotechnology offers a path to overcome supply chain issues that impact economic and national security. High-throughput characterization infrastructure is essential for both academia and industry as they test and characterize cellular, acellular, and engineered protein solutions to use-inspired applications including but not limited to production of active pharmaceutical ingredients, recovery of critical minerals, and food security applications that benefit the U.S. bioeconomy. However, existing automated lab facilities often have limited flexibility in terms of remote access and programmability, and the diversity of experiments they can support. The PCL Test Bed could provide a comprehensive set of remotely accessible, end-to-end services for high quality recombinant protein production, advanced molecular biological, biochemical and biophysical assays, plant transformation and/or prototyping of engineered organisms. A scalable, high-throughput PCL platform may include capabilities to facilitate experimentation underpinning applications of biotechnology to bioeconomy solutions. While each proposal should detail the specific use case(s) or supply chains that it would advance, potential PCLs could address areas such as but not limited to synthetic biology, protein design and production, -omics analysis, phenotyping and/or characterization. Such a PCL could include capabilities like DNA synthesis; cloning; plasmid preparation; protein expression in cell-based and/or cell-free systems; post-translational modifications; and protein purification. Capabilities might also include cell sorting, cell screening, and cell phenotyping. In addition, inclusion of structural and functional characterization services should provide a broad range of molecular biological, biochemical and biophysical assays including, but not limited to, protein identification and quantitation; analysis of post-translational modifications; structure, function and material property analysis. A key component of work like this would be the curation of the acquired data in ways that make it amenable to further training /refinement of AI/ML models.
+
+Science Driver Example 3: High-Throughput Experimentation for Catalyst Discovery (Chemistry)
+
+High-throughput experimentation (HTE) has become an established technique for chemical reaction catalyst optimization that integrates consistent reproducible experimental data with catalyst descriptors and data science/machine learning tools for optimal catalyst prediction across a range of substrates. Accessibility to automated HTE tools and data rich analysis is currently limited to a relatively small number of labs with the required technology, and further limited by the need for extensive catalyst libraries as well as specialized instrumentation that supports light-catalyzed, electrochemical, or pressurized processes. A HTE PCL Node would expand the accessibility of HTE tools and provide access to large catalyst libraries with corresponding descriptor libraries. Complementary facilities for catalyst and/or ligand synthesis could be envisioned. Expanded access to this technology would significantly enhance the ability of a wider range of experimentalists to adopt data science tools and interpret results of machine-assisted chemical catalyst optimization, to support more efficient chemical synthesis to address urgent societal needs.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 4 to 6
+
+PCL Nodes
+
+Up to 6 PCL Node awards will be made. Only existing shared instrument facilities, or labs of similar capabilities, may submit a proposal to this program. The current solicitation does not support ab initio creation of new lab facilities. Plans for expansion or modification of existing shared instrument facilities can be included with justification for how this will advance the use of the PCL Nodes for the benefit of the proposed science drivers and the PCL Test Bed.
+
+A PCL Node is an independent site at one physical location. Each PCL Node will be funded up to $5M/year for 4 years, for a total budget not to exceed $20M per PCL Node. The requested amount should be well justified based on the specific science drivers, experimental capabilities, and a broad user community that will be supported and, in general, on the level of expertise and resources that will be made available by the PCL Node to proposed groups of users.
+
+A PCL Node is expected to provide remote access to a suite of instruments via open standardized interfaces (e.g., application programmable interfaces, or APIs); adhere to best practices and standards developed in collaboration with other nodes across the PCL Test Bed, e.g., for instrument use and validation, metadata, data, and AI models; allow users to specify and run bespoke experiments; and provide the necessary technical expertise to assist users with the facility. The set of PCL Nodes will be linked together — via computational networking as well as common science problems, data and AI standards — to form the PCL Test Bed. PCL Nodes will support experiments in one or more Science Drivers covering sub-disciplines of science and/or engineering in biotechnology, chemistry, materials science, and others. Notably, NSF will require PCL Nodes to work together on the development and deployment of conceptually common experimental design protocols, laboratory protocols, and metadata and data standards.
+
+Each PCL Node will recruit new users for the Test Bed via Recruitment Workshops to further research and translation activities within the science drivers, provide access to new technology to accelerate research progress at all levels and from across the entire United States to support all Americans, explore the capacity and capabilities of the Nodes and the Test Bed, and advance research programs at under-resourced institutions. Following the Recruitment Workshops, led by the PCL Node, On-Boarding Workshops will instruct the selected outside users on how to access the Node and Test Bed resources.
+
+Workshops will be expected to be publicized to the appropriate user communities by the PIs. NSF may also support public dissemination of the progress of PCL Nodes moving to Recruitment Workshops by issuance of Dear Colleague Letters (DCLs).
+
+Anticipated Funding Amount: $100,000,000
+
+Awards will be made as Cooperative Agreements and funds will be allocated one year at a time, subject to availability of funds, quality of proposals received, and progress against proposer- and NSF-defined metrics.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization: 1
+
+An institution may submit only a single proposal in response to this solicitation, as the lead institution .
+
+If more than one proposal is submitted from an institution, the first proposal submitted from that institution will be considered, and remaining proposals will be returned without review.
+
+An institution may serve as a non-lead institution on more than one proposal.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may serve as PI, co-PI, or Senior Personnel only on one proposal submitted in response to this solicitation.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

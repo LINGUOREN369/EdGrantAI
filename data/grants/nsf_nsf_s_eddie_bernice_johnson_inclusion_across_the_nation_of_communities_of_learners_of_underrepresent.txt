@@ -41,3 +41,314 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2022-07-27
 URL: https://www.nsf.gov/funding/opportunities/nsfs-eddie-bernice-johnson-inclusion-across-nation/nsf22-622
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+NSF's Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (INCLUDES) Initiative
+
+I. Introduction
+
+The vision of NSF's Eddie Bernice Johnson INCLUDES Initiative is to catalyze the STEM enterprise to work collaboratively for inclusive change, resulting in a STEM workforce that reflects the Nation’s population. The INCLUDES Initiative seeks to broaden participation in STEM fields through a National Network. The National Network is composed of INCLUDES funded projects, other NSF-funded projects with broadening participation components, scholars engaged in broadening participation research and evaluation, Subcommittee on Federal Coordination in STEM Education (FC-STEM) agencies, and organizations that support the goals of the INCLUDES Initiative. INCLUDES is distinguished by its focus on collaborative infrastructure building to achieve systemic impacts and results at scale. The INCLUDES theory of change (see Exhibit 1) illustrates the projects, approaches, and outcomes that guide the program’s work.
+
+Inclusion of talent from all sectors of society in the STEM workforce is necessary for the health and vitality of science and engineering and its societal relevance. This solicitation seeks to support diverse perspectives, networks, and approaches. New and established partnerships may propose projects engaging with any educational level or context.
+
+With this solicitation, NSF continues to offer opportunities to propose projects that: a) contribute rigorous research to the knowledge base about broadening participation in STEM and b) motivate and accelerate collaborative efforts to sustain systemic change and demonstrably broaden participation in STEM, especially in STEM fields that lack participation that reflects the talent throughout the Nation’s population. Researchers and practitioners with experience and expertise in institutions committed to broadening participation are strongly encouraged to consider this opportunity.
+
+Proposals must align with the four INCLUDES key principles, described below: (1) broadening participation in STEM, (2) enabling sustainable change in systems, (3) scaling up outcomes in ways that advance equity, and (4) building collaborative infrastructure. These key principles should be integrated throughout proposals and should align with the proposed activities.
+
+Exhibit 1. The INCLUDES Initiative Theory of Change Illustrated
+
+KEY PRINCIPLES
+
+1. Broadening Participation in STEM
+
+The INCLUDES Initiative seeks to improve collaborative efforts aimed at enhancing the preparation, participation, and contributions of the full spectrum of talents in STEM. Each project should address a specific broadening participation challenge. A broadening participation challenge is a clear, concise statement that describes the need being addressed by the project, the population of focus, and the intended unit of change (e.g., institutions, systems).
+
+2. Enabling Sustainable Change in Systems
+
+The INCLUDES Initiative aims to support projects that take actionable steps to transform policies, practices, relationships, approaches, and/or mindsets, with the goal of making STEM cultures more inclusive and broadening participation in STEM.
+
+3. Scaling Up Outcomes in Ways That Advance Equity
+
+The INCLUDES Initiative requires projects to scale up proven and promising strategies for broadening participation in STEM. Scaling up in equitable ways requires understanding who is most impacted by the broadening participation challenge being addressed and why and how they are affected. Projects that realize equitable scale must partner with the identified beneficiaries of the project’s work in the development and implementation of plans to scale; scale up in ways that can be measured as equitable across the involved system(s); expand evidence-based practices and partnerships that address current and historical barriers to participation; and ensure that mechanisms for scale distribute power and resources across participating organizations.
+
+4. Building Collaborative Infrastructure
+
+All INCLUDES projects must operationalize five design elements of collaborative infrastructure in ways that catalyze and accelerate systemic change and lead to substantially broadened participation, relative to reported baseline measures. Collaborative infrastructure is a framework that guides organizations coming together to develop a shared goal or vision; mutually reinforcing activities; objectives and measures to map progress; plans for continuous communication; and potential for expansion, sustainability, and scale. INCLUDES projects must build collaborative infrastructure into their approach to broadening participation in STEM. The five design elements of collaborative infrastructure are:
+
+Shared Vision: Networks and partnerships work collaboratively to develop a strategic plan centered on a shared vision to address an identified broadening participation challenge and achieve related outcomes.
+
+Shared Vision: Networks and partnerships work collaboratively to develop a strategic plan centered on a shared vision to address an identified broadening participation challenge and achieve related outcomes.
+
+Partnerships: Project teams consist of partnering organizations that engage in mutually reinforcing activities and act collaboratively to accomplish project goals.
+
+Partnerships: Project teams consist of partnering organizations that engage in mutually reinforcing activities and act collaboratively to accomplish project goals.
+
+Goals and Metrics: Progress toward well-defined, relevant goals and measurable objectives and outcomes is documented and communicated.
+
+Goals and Metrics: Progress toward well-defined, relevant goals and measurable objectives and outcomes is documented and communicated.
+
+Leadership and Communication: Projects include internal and external communication plans and explain how they develop leadership capacity and distribute leadership within and among partnering organizations.
+
+Leadership and Communication: Projects include internal and external communication plans and explain how they develop leadership capacity and distribute leadership within and among partnering organizations.
+
+Expansion, Sustainability, and Scale: Projects describe their overall contribution to broadening participation in the nation's STEM workforce and carry out plans that will lead to the expansion, sustainability, and scale up of proven and promising approaches.
+
+Expansion, Sustainability, and Scale: Projects describe their overall contribution to broadening participation in the nation's STEM workforce and carry out plans that will lead to the expansion, sustainability, and scale up of proven and promising approaches.
+
+II. Program Description
+
+With this solicitation, NSF invites proposals for five types of projects (described below)that connect and contribute to the National Network: (1) Design and Development Launch Pilots, (2) Collaborative Change Consortia, (3) Alliances, (4) Network Connectors, and (5) Conferences. Investigators planning to submit a proposal are strongly encouraged to submit a one-page description of their proposal idea to nsfincludes@nsf.gov at least three months prior to proposal submission. An INCLUDES program director with related expertise will review and provide feedback on the alignment of the idea with the solicitation.
+
+Proposals that address broadening participation challenges not yet represented in the INCLUDES portfolio of projects are encouraged. Proposals that focus on broadening participation in STEM innovation and entrepreneurship are especially encouraged. For more information on funded INCLUDES projects, see: https://www.nsf.gov/awardsearch/simpleSearchResult?queryText=nsf+includes .
+
+1. Design & Development Launch Pilots (DDLPs) explore new strategies and models for collaborative approaches to broadening participation in STEM. Successful proposals will identify a specific broadening participation challenge to address, measurable objectives, and collaborative partners, with explanation of the role of each partnering individual or organization. Successful pilot projects will test and deliver models that enable new collaborative efforts or new approaches to broaden participation in STEM.
+
+DDLP activities should engage appropriate communities in testing the feasibility of a process for change, building infrastructure for collaborative change, and identifying potential mechanisms for sustaining the efforts. Teams of organizations might come together locally, regionally, nationally, by disciplinary focus, or by other multisector categories. Early in the first year, partners are expected to refine their collective commitment to a common set of objectives and plans to achieve them. No later than the second year, successful teams are expected to carry out and report on results and share findings with the National Network and other stakeholders.
+
+DDLPs should facilitate innovative partnerships, networks, and theories of action for broadening participation in STEM, with the goal of establishing future alliances, centers, or other large-scale networks. DDLPs can explore and build capacity for the development of collaborative infrastructure. Submissions from a broad range of diverse institutional partnerships, principal investigators, and contexts are encouraged.
+
+The INCLUDES Initiative will not consider “planning grant” proposals in this solicitation. Ideas for projects formerly funded by the INCLUDES Initiative as planning grants should be submitted as DDLP proposals.
+
+Design and Development Launch Pilot proposals may request up to $30 0,000 per year for up to two years. Prior INCLUDES support is not required to be eligible for a DDLP award. A DDLP award is not a required prerequisite to a proposal for other INCLUDES project types.
+
+2. Collaborative Change Consortia are networks that implement, study, and scale up systemic strategies that address a critical broadening participation challenge in STEM. Collaborative Change Consortia build the infrastructure necessary to: 1) foster collaboration, 2) broaden participation in STEM at city, state, or regional levels of impact by operationalizing the five design elements of collaborative infrastructure, and 3) contribute rigorous and innovative research to the knowledge base about broadening participation in STEM. These projects should result in research findings and sustainable, replicable models for city, state, and/or regional implementation and impact.
+
+Consortium partners work to achieve common goals through well-defined, common objectives and use lessons learned, promising practices, evidence-based mechanisms, the science of broadening participation, and research and evaluations from past and present efforts to transform systems in order to broaden participation in STEM at scale and provide new research.
+
+Consortium proposals must include:
+
+a shared vision and strategy for broadening the participation of an identified population(s) in STEM, along with relevant metrics of progress and key milestones/goals to be achieved during the funding period and beyond;
+
+a shared vision and strategy for broadening the participation of an identified population(s) in STEM, along with relevant metrics of progress and key milestones/goals to be achieved during the funding period and beyond;
+
+multi-sector partnerships and plans to build infrastructure to achieve progress on the project’s goals;
+
+multi-sector partnerships and plans to build infrastructure to achieve progress on the project’s goals;
+
+a framework for continuous communication, data management, capacity building, networking, expansion, sustainability, and visibility of the project network;
+
+a framework for continuous communication, data management, capacity building, networking, expansion, sustainability, and visibility of the project network;
+
+a plan for contributing rigorous and innovative research to the knowledge base on broadening participation in STEM;
+
+a plan for contributing rigorous and innovative research to the knowledge base on broadening participation in STEM;
+
+a plan for contributing project evaluations, data, new scientific findings/discoveries, and promising practices to the INCLUDES National Network;
+
+a plan for contributing project evaluations, data, new scientific findings/discoveries, and promising practices to the INCLUDES National Network;
+
+planned connections and contributions to the National Network online community and the INCLUDES Coordination Hub;
+
+planned connections and contributions to the National Network online community and the INCLUDES Coordination Hub;
+
+a logic model or other heuristic that identifies outcomes reflecting the implementation of systemic change at scale and progress toward developing an inclusive STEM enterprise.
+
+a logic model or other heuristic that identifies outcomes reflecting the implementation of systemic change at scale and progress toward developing an inclusive STEM enterprise.
+
+Collaborative Change Consortia may, but are not required to, build on the work of current or previously-funded INCLUDES projects. A Consortium award is not a required prerequisite to a proposal for other INCLUDES project types.
+
+Collaborative Change Consortium proposals may request up to $1,000,000 per year for up to five years.
+
+3. Alliances are large-scale networks that implement, study, and scale up systemic strategies that address a critical broadening participation challenge in STEM. Like Collaborative Change Consortia, Alliances build the infrastructure necessary to foster collaboration and broaden participation in STEM, but for Alliances, the level of impact should be national and supported by a backbone organization. Alliances engage partners to operationalize the five design elements of collaborative infrastructure; work to achieve common goals through well-defined, common objectives; contribute rigorous and innovative research to the knowledge base about broadening participation in STEM; leverage NSF’s broadening participation investments; and use lessons learned, promising practices, evidence-based mechanisms, the science of broadening participation, and research and evaluations from past and present efforts to transform systems and broaden participation in STEM at scale. Alliances are required to:
+
+Develop a shared vision and strategy for broadening the participation of an identified population(s) in STEM, along with relevant metrics of progress and key milestones/goals to be achieved at a national level, during the funding period and beyond;
+
+Develop a shared vision and strategy for broadening the participation of an identified population(s) in STEM, along with relevant metrics of progress and key milestones/goals to be achieved at a national level, during the funding period and beyond;
+
+Establish multi-sector partnerships and build infrastructure to achieve progress on the project’s goals;
+
+Establish multi-sector partnerships and build infrastructure to achieve progress on the project’s goals;
+
+Contribute rigorous and innovative research to the knowledge base on broadening participation in STEM;
+
+Contribute rigorous and innovative research to the knowledge base on broadening participation in STEM;
+
+Establish a "backbone" (i.e., support) organization that provides a framework for continuous communication, data management, capacity building, networking, expansion, sustainability, and visibility of the project network beyond a single city, state, or region;
+
+Establish a "backbone" (i.e., support) organization that provides a framework for continuous communication, data management, capacity building, networking, expansion, sustainability, and visibility of the project network beyond a single city, state, or region;
+
+Advance a logic model or other heuristic that identifies Alliance outcomes, reflecting the implementation of change at a national scale and progress toward developing an inclusive STEM enterprise;
+
+Advance a logic model or other heuristic that identifies Alliance outcomes, reflecting the implementation of change at a national scale and progress toward developing an inclusive STEM enterprise;
+
+Collaborate with the INCLUDES Coordination Hub to share project evaluations, data, new scientific findings/discoveries, and promising practices with the INCLUDES National Network and build critical knowledge that enables measurable progress toward INCLUDES goals;
+
+Collaborate with the INCLUDES Coordination Hub to share project evaluations, data, new scientific findings/discoveries, and promising practices with the INCLUDES National Network and build critical knowledge that enables measurable progress toward INCLUDES goals;
+
+Participate in a network of peer alliances and the INCLUDES National Network to achieve INCLUDES goals; and
+
+Participate in a network of peer alliances and the INCLUDES National Network to achieve INCLUDES goals; and
+
+Work to build connections to other organizations and broadening participation stakeholders to join in and expand the INCLUDES National Network.
+
+Work to build connections to other organizations and broadening participation stakeholders to join in and expand the INCLUDES National Network.
+
+Alliance proposals may request up to $2,000,000 per year for up to five years.
+
+4. Network Connectors initiate or maintain linkages to the INCLUDES National Network for projects or partnerships that are not currently funded by the INCLUDES Initiative. Network connector proposals may be submitted by existing NSF-funded and non-NSF funded projects seeking funding to provide or participate in:
+
+new collaborations that expand the impact of active or previously-funded INCLUDES projects;
+
+new collaborations that expand the impact of active or previously-funded INCLUDES projects;
+
+new opportunities for collaboration across the INCLUDES National Network;
+
+new opportunities for collaboration across the INCLUDES National Network;
+
+novel ideas to bring a community of NSF-funded projects into the INCLUDES National Network;
+
+novel ideas to bring a community of NSF-funded projects into the INCLUDES National Network;
+
+efforts to equitably scale up innovative and evidence-based approaches to broadening participation in STEM;
+
+efforts to equitably scale up innovative and evidence-based approaches to broadening participation in STEM;
+
+NSF-funded research activities with the goal of broadening participation in STEM;
+
+NSF-funded research activities with the goal of broadening participation in STEM;
+
+development of shared goals, measures, and mutually reinforcing activities to build collaborative infrastructure for broadening participation in STEM;
+
+development of shared goals, measures, and mutually reinforcing activities to build collaborative infrastructure for broadening participation in STEM;
+
+communicating knowledge and results from the NSF broadening participation portfolio of programs and projects, NSF Center-scale activities, or other major Foundation investments; or
+
+communicating knowledge and results from the NSF broadening participation portfolio of programs and projects, NSF Center-scale activities, or other major Foundation investments; or
+
+communicating findings from the science of broadening participation research community to the INCLUDES National Network, especially pertaining to new efforts to translate basic research into practice.
+
+communicating findings from the science of broadening participation research community to the INCLUDES National Network, especially pertaining to new efforts to translate basic research into practice.
+
+Network Connectors implement connections to NSF-funded or other existing projects and evidence-based approaches. A letter of collaboration from a leader of the existing project is needed. Institutions and organizations that are new to the National Network who are looking to adopt or adapt evidence-based practices that emerged from current or previously-funded INCLUDES projects are encouraged to apply.
+
+Network connector proposals may request up to $250,000 per year for up to two years. Requests that exceed $250,000 may be considered, depending on the description of need in the proposal and the proposed activities.
+
+5. Conferences provide platforms for new collaborations or exchange of ideas that strengthen the INCLUDES National Network. Conference proposals may be submitted by current or former INCLUDES award recipients or organizations that are not currently part of the INCLUDES portfolio.
+
+The INCLUDES Initiative will consider conference proposals on an ongoing basis. Please note that although Conference proposals may be accepted at any time, proposals received after the second Tuesday in May target date each year may not be reviewed until the next fiscal year.
+
+Conference proposals may request up to $100,000 for one year. Please refer to the instructions in Section V.A. and in PAPPG Chapter II.F.8 for additional guidance on preparing conference proposals.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 10 to 15
+
+In any one competition, the INCLUDES Initiative anticipates funding up to:
+
+Two (2) Design and Development Launch Pilots
+
+Two (2) Design and Development Launch Pilots
+
+Two (2) Collaborative Change Consortia
+
+Two (2) Collaborative Change Consortia
+
+One (1) Alliance
+
+One (1) Alliance
+
+Five (5) Network Connectors
+
+Five (5) Network Connectors
+
+Five (5) Conferences
+
+Five (5) Conferences
+
+Alliances will be awarded as Cooperative Agreements
+
+Anticipated Funding Amount: $5,500,000
+
+for all project types in each competition year.
+
+Anticipated funding amount, number of awards, and average award size and duration are contingent upon the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+State and Local Governments
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+An organization may serve as a lead organization on only one proposal per project type, not including conferences. Proposals that exceed the organizational limit will be returned without review. No exceptions will be made.
+
+For Network Connectors, Design and Development Launch Pilots, and Conferences, full proposals must be submitted as a single submission from a lead organization, with other collaborating organizations included as subawardees.
+
+Collaborative Change Consortia and Alliances may submit proposals in one of two ways:
+
+a single submission from a lead organization, with other collaborating organizations included as subawardees, OR
+
+a single submission from a lead organization, with other collaborating organizations included as subawardees, OR
+
+separate submissions from a lead organization and two collaborating organizations, with any additional collaborating organizations included as subawardees.
+
+separate submissions from a lead organization and two collaborating organizations, with any additional collaborating organizations included as subawardees.
+
+See PAPPG Chapter II.E.3 for additional information on collaborative proposals.
+
+Limit on Number of Proposals per PI or co-PI:
+
+An individual may serve as a PI or Co-PI on only one INCLUDES proposal per annual due date, not including conferences . Proposals that exceed the PI or Co-PI limit will be returned without review. No exceptions will be made.
+
+A PI or co-PI of an active INCLUDES Alliance may not be a PI or co-PI on a proposal under this solicitation, if the Alliance would still be active at the start of the new award. This limit does not include conference proposals.
+
+Prior INCLUDES funding is not required to be eligible to submit a proposal for any project type. The inclusion of former or current INCLUDES investigators in proposals is encouraged, but not required.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

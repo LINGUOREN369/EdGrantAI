@@ -20,3 +20,144 @@ Status: Cleared
 Posted date (Y-m-d): 2024-12-18
 URL: https://www.nsf.gov/funding/opportunities/antarctic-research-not-requiring-us-antarctic-program-field/nsf25-526
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Antarctic Research Not Requiring U.S. Antarctic Program (USAP) Field Support
+
+I. Introduction
+
+The Antarctic region is a critical frontier for exploration and discovery. NSF investments in Antarctic Science support a broad portfolio of cutting-edge and transformative research across a spectrum of interlinked disciplinary areas. ANT supports research programs across all major areas of Antarctic and Southern Ocean science that seek to improve understanding of the wide range of environments, organisms, and processes that shape this unique continent, its surrounding continental shelves and adjacent ocean basins. A key component of this research is the identification and characterization of processes, feedbacks, and responses of the Antarctic system to physical, geochemical, and biological drivers. ANT also supports transformative astrophysics and geospace science that uses Antarctica as an observing platform.
+
+ANT welcomes proposals that leverage international and interagency collaborations and coordinates with programs across NSF and with other federal and international partners to co-review and co-fund Antarctic-related proposals as appropriate.
+
+ANT encourages input and participation from the full spectrum of talent that society has to offer.
+
+II. Program Description
+
+This solicitation supports research that advances understanding of the biota and physical systems operating in the Antarctic region and adjacent seas primarily through laboratory, modeling, and theoretical work encompassing terrestrial, marine, cryospheric, atmospheric, and space settings. It particularly encourages projects using existing samples, data, and models; the development of new instrumentation and observing technologies; workshops, conferences, and Research Coordination Networks (RCN) to advance, coordinate, or synthesize research.
+
+Proposers who require USAP logistical support should consult the Antarctic Sciences web page for current opportunities. For projects that have fieldwork but would deploy solely with another Antarctic program or other non-USAP entity, the PI must reach out to contact the cognizant Program Officer during the concept formation stage to discuss deployment details. The Program Officer will provide guidance on the most appropriate ANT solicitation to use.
+
+Core Program
+
+The ANT programs support research that:
+
+Improves understanding of interactions among the Antarctic region and global systems;
+
+Improves understanding of the dynamic linkages among processes operating in the Antarctic and Southern Ocean and linkages to global Earth systems, which helps inform decision making regarding environmental change;
+
+Advances fundamental understanding of Earth systems and the biological, geochemical, and physical processes in the Antarctic and Southern Ocean as drivers and responders to changes on a global scale;
+
+Expands fundamental knowledge of Antarctic systems, biota, and processes;
+
+Utilizes the unique characteristics of the Antarctic region as a science observing platform;
+
+Builds capacity and enhances the US workforce for polar-related science.
+
+Program Priority Areas
+
+Research investments are guided, in part, by the National Academies of Sciences August 2015 report entitled "A Strategic Vision for NSF Investments in Antarctic and Southern Ocean Research" ( https://www.nap.edu/catalog/21741/a-strategic-vision-for-nsf-investments-in-antarctic-and-southern-ocean-research ). This report affirmed the need to maintain strong core research programs and identified the following three major themes as drivers for Antarctic Research Priority Areas:
+
+The Changing Antarctic Ice Sheets Initiative - How fast, and by how much, will sea level rise?
+
+Decoding the genomic and transcriptomic bases of biological adaptation and response across Antarctic organisms and ecosystems - How have Antarctic biota evolved and adapted to the polar environment, and how might changing systems impact their populations?
+
+A next-generation cosmic microwave background program - How did the Universe begin and what are the underlying physical laws that govern its evolution and ultimate fate?
+
+ANT supports proposals that promote effective collaboration between Polar and cyberinfrastructure researchers. Such proposals should provide significant benefit to the Antarctic research community including (i) cost-effective transfer of data from remote field locations; (ii) long- term sustainable curatorship, standardization, management and discovery of data and metadata; (iii) visualization, manipulation, and analysis, particularly for understanding complexity; (iv) access and interoperability across scientific disciplines; (v) promotion of effective use of High Performance Computing (HPC) for direct and sustainable advances in current Antarctic research; and (vi) e-learning and educational tools based on cyberinfrastructure components. Proposals that establish or enhance Virtual Organizational resources for Antarctic research, and its broader impacts, are also encouraged. The Program works collaboratively with NSF’s Office of Advanced Cyberinfrastructure and NSF’s GEO Cyberinfrastructure Working Group for reviewing and funding purposes.
+
+Existing Sample/Data Use and Modeling
+
+To help derive the full benefits from prior efforts and investments, ANT encourages proposals that seek to address pressing Antarctic science questions through using or reprocessing existing data and samples. Proposers should investigate the utility of samples available from individual researchers and sample/data facilities such as the Polar Rock Repository ( http://research.bpcrc.osu.edu/rr/ ), Marine Geology Repository ( http://osu-mgr.org ), National Ice Core Laboratory ( https://icecores.org/ ), Polar Geospatial Center ( https://www.pgc.umn.edu/ ), USAP Data Center ( http://www.usap-dc.org/ ), Antarctic Meteorological Research and Data Center ( https://amrc.ssec.wisc.edu/ ), Biological and Chemical Oceanography Data Management Office ( https://www.bco-dmo.org/ ), and the EarthScope Consortium ( https://www.earthscope.org/ ).
+
+Instrumentation and Research Facilities
+
+ANT encourages and supports development of scientific instrumentation for use in polar regions to: (1) enable multi-disciplinary research; (2) reduce the on-ice footprint of research and/or operations in Antarctica; and (3) to enhance capabilities for in situ observing on the continent and in the surrounding ice-covered waters.
+
+There are specific proposal preparation requirements for instrument development (see Section V, Proposal Preparation and Submission Instructions) and additional merit review criteria apply (see Additional Solicitation Specific Review Criteria in Section VI). It is recommended that investigators contact a relevant Antarctic Sciences Program Director prior to submission. It is also recommended that investigators review opportunities available through NSF’s Major Research Instrumentation Program ( https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260 ) to determine whether work to be proposed is suitable for submission to that program.
+
+Education and Outreach
+
+The integration of research and education is essential to NSF’s mission, and NSF strives to broaden participation in science and to make the results of research projects widely accessible to students and the public. ANT seeks to meet these objectives by supporting the engagement of students, educators, and the public in Antarctic research projects.
+
+Proposals can take advantage of existing sample/data collections to offer opportunities for graduate or undergraduate thesis work and/or Postdoctoral researchers to provide a means to expose under-represented groups to Antarctic research. Teams may also consider submitting proposals under this general theme to NSF’s Research Experiences for Undergraduates (REU) program solicitation or engaging with the Polar STEAM program ( www.PolarSTEAM.info ) to work with an educator, artist or writer.
+
+Investigators who wish to propose projects that are primarily education and outreach efforts are encouraged to contact the Polar Education Program Director for the Office of Polar Programs and to submit proposals via other relevant solicitations in the Directorate of Geosciences and the Directorate for STEM Education. ANT encourages scientists to partner with education researchers when submitting proposals focused primarily on education, and to consider efforts that make use of innovative technologies and pedagogies to provide large groups of students, educators, and the public remote access to research in the Antarctic. Proposals that engage audiences with long-term investments in Antarctic research and logistics, with databases that have extended lifespans, or with public participation in scientific research, such as crowdsourcing or citizen science related to the Antarctic, are also encouraged.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 50
+
+Anticipated Funding Amount: $60,000,000
+
+The Antarctic Sciences Section anticipates committing annually up to approximately $60 million across the full Antarctic Program (to include both field and non-field-based projects and activities) for an estimated 50 awards, as either standard or continuing awards, contingent on the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

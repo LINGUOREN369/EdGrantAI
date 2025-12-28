@@ -25,3 +25,118 @@ Status: Cleared
 Posted date (Y-m-d): 2014-07-01
 URL: https://www.nsf.gov/funding/opportunities/rui-roa-pui-facilitating-research-predominantly-undergraduate/nsf14-579
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Facilitating Research at Primarily Undergraduate Institutions: Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA)
+
+I. Introduction
+
+Predominantly undergraduate institutions (PUIs) play a critically important role in U.S. science, engineering, and technology through their substantial contributions to education and to research. NSF encourages research by faculty members of these institutions to ensure a broad national base for research and to help faculty members stay at the cutting edge of their disciplines. Such research not only contributes to basic knowledge in science and engineering but also provides an opportunity for integration of scientific discovery into undergraduate education. As the ultimate in inquiry-based learning, undergraduate research is a critical component of high-quality education in science, technology, engineering, and mathematics (STEM). Undergraduate research experiences provide a strong foundation for careers in science and engineering and for graduate study. A significant number of STEM professionals receive bachelor degrees from predominantly undergraduate institutions.
+
+For the purposes of this solicitation PUIs are defined in terms of the nature of the institution, not solely on the basis of highest degree offered. Included by the definition are two- and four-year colleges, masters-level institutions, and smaller doctoral institutions that, institution-wide, have awarded 20 or fewer Ph.D./D.Sci. degrees in all NSF-supported fields during the combined previous two academic years. (see "Eligibility Information" below).
+
+This solicitation describes mechanisms by which NSF programs provide support for research by faculty members of PUIs. In general, all NSF directorates may support RUI and ROA activities within programs announced through their solicitations or program descriptions. However, some programs do not accept RUI/ROA submissions (including RUI/ROA Eligibility Certifications and RUI Impact Statements). Prospective PIs are advised to carefully read pertinent program guidelines and to contact cognizant NSF program officers for guidance.
+
+Research in Undergraduate Institutions (RUI). RUI supports research by individual PUI faculty members and groups of collaborating PUI investigators. RUI proposals support PUI faculty in research that engages them in their professional field(s), builds capacity for research at their home institution, and supports the integration of research and undergraduate education. Faculty at PUIs may submit proposals to a broad range of NSF programs, consistent with eligibility requirements in program-specific solicitations and/or special competitions. Proposals from faculty at PUIs need not be submitted as RUI proposals, but doing so allows for an up-to-five-additional-page RUI Impact Statement and requires a Certification of RUI/ROA Eligibility. The RUI Impact Statement provides an opportunity to provide reviewers with information on the potential impact of the proposed research activity on the PIs institution and department, and on the faculty and student participants. The Certification of RUI/ROA Eligibility confirms at the institutional level that the criteria for RUI/ROA eligibility are met. (See Section V below for information on these documents).
+
+RUI may also provide support for research instrumentation or other research tools depending on the availability of relevant funding opportunities in individual NSF divisions. (PUIs can also apply for instrument funding through NSF’s Major Research Instrumentation (MRI) program ( https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5260 ), which accepts proposals to obtain shared scientific and engineering instrumentation for research and research training. See the MRI solicitation for program-specific requirements.)
+
+Research Opportunity Awards (ROAs). ROAs typically enable PUI faculty to pursue research as part of a collaborative research team as visiting scientists at other NSF-supported institutions. A ROA is intended to increase the PUI faculty member’s research capability and effectiveness, to improve research and teaching at his or her home institution, and to enhance the NSF-funded research of the host principal investigator (PI). Most frequently, ROA activities are summer experiences, but partial support of sabbaticals is sometimes provided.
+
+Prospective investigators should discuss their research plans with NSF program officers before considering submitting a formal RUI/ROA proposal or request. Program officers are typically listed as "Contacts" on program web pages. There are a number of ways to search for NSF programs including:
+
+NSF Interdisciplinary/crosscutting programs: Numerous programs specifically targeting interdisciplinary research and/or are Foundation-wide (crosscutting) opportunities exist at NSF. Examples of such opportunities can be found at: https://www.nsf.gov/funding/pgm_list.jsp?type=xcut .
+
+Programs by topic: Funding opportunities may be found by searching on keywords using the NSF “Find Funding” page at https://nsf.gov/funding/ .
+
+Programs by Directorate/Division: PIs may also search for appropriate programs through the NSF Directorate/Division webpages at https://nsf.gov/staff/orglist.jsp .
+
+NSF Award Search: Abstracts of awards and the programs that funded them can be found at https://www.nsf.gov/awardsearch/advancedSearch.jsp . Use the “keyword” box to select word/phrases relevant to your proposed project.
+
+For general RUI/ROA questions, please use the RUI/ROA points of contact information at https://www.nsf.gov/crssprgm/rui_roa/contacts.jsp .
+
+IMPORTANT NOTE: Proposed RUI/ROA activities are evaluated and funded by NSF programs in the disciplinary areas of the proposed research and are funded at their discretion. Funding for RUI/ROA awards is contained within research and education program allocations and not held as a separate allocation.
+
+II. Program Description
+
+A. Research in Undergraduate Institutions (RUI)
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 245
+
+The number of awards varies across disciplinary research programs. In recent years NSF has made approximately 200 RUI awards and 45 ROA awards per year.
+
+Anticipated Funding Amount: $56,000,000
+
+Funding for RUI/ROA awards is contained within research and education program allocations and is not held as a separate allocation; funds are provided at the discretion of divisions and offices. However, in recent years NSF has invested on average approximately $53 million each year in RUI research projects and over $3 million in ROA awards annually. All awards are subject to the availability of funds.
+
+RUI awards will be made as standard or continuing grants.
+
+ROA awards will be made as supplements to existing NSF awards, requests to re-budget existing NSF awards to include ROA activities, or as standard or continuing grants.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Eligible predominantly undergraduate institutions (PUIs) are accredited colleges and universities (including two-year community colleges) that award Associate's degrees, Bachelor's degrees, and/or Master's degrees in NSF-supported fields, but have awarded 20 or fewer Ph.D./D.Sci. degrees in all NSF-supported fields during the combined previous two academic years.
+
+Eligible predominantly undergraduate institutions (PUIs) are accredited colleges and universities (including two-year community colleges) that award Associate's degrees, Bachelor's degrees, and/or Master's degrees in NSF-supported fields, but have awarded 20 or fewer Ph.D./D.Sci. degrees in all NSF-supported fields during the combined previous two academic years.
+
+Who May Serve as PI:
+
+See Additional Eligibility Information in Section IV.B of this solicitation.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+The number of allowed proposals per PI varies by program and prospective PIs should contact cognizant program officers for guidance.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

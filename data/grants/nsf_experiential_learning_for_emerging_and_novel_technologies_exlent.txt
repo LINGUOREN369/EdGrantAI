@@ -11,3 +11,178 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2024-11-18
 URL: https://www.nsf.gov/funding/opportunities/exlent-experiential-learning-emerging-novel-technologies/nsf25-511
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Experiential Learning for Emerging and Novel Technologies (ExLENT)
+
+I. Introduction
+
+The United States needs a STEM workforce with the skills required to rapidly accelerate and translate science and engineering discoveries into innovative technologies and wide-scale solutions. The NSF and the National Science Board recognize that emerging technology innovation requires identifying and developing American talent with unique and creative ideas that can shape the formation of new and breakthrough scientific fields and ensure the Nation’s competitiveness in emerging technologies 1 , 2 . In support of NSF’s goal to support the American STEM workforce, the STEM Education (EDU) and Technology, Innovation and Partnerships (TIP) directorates are investing in the Experiential Learning for Emerging and Novel Technologies (ExLENT) program to establish new pathways for all learners to pursue careers in emerging technology fields. Micron Technology, through the Micron Foundation, seeks to support these endeavors through collaborative partnership.
+
+The goal of ExLENT is to expand the American workforce in emerging technology fields (e.g., advanced manufacturing, advanced wireless, artificial intelligence, biotechnology, quantum information science, semiconductors, and microelectronics) by increasing all learners’ access to emerging technology career training and pathways through experiential learning opportunities. Ideal experiential learning opportunities place individuals in authentic workplace environments that foster learning by engaging in the process of identifying and solving real-world problems. Experiential learning, from internship and co-operative programs to service-based learning and research opportunities, has demonstrated success in attracting and retaining students in STEM fields at all educational levels 3 . Although these entry-level opportunities are becoming more common in higher education, access to experiential learning activities remains limited and particularly challenging for individuals not enrolled at a college or university. Further, individuals who have not followed traditional educational pathways into STEM fields, including military veterans, often have essential skills employers covet (i.e., time management, teamwork, communication, and leadership), yet they may not have access to the STEM-specific training and learning opportunities required for entering a career in an emerging technology field. Common barriers to obtaining STEM educational or professional training include 1) limited opportunities to participate in internships, certificate programs and other experiential learning activities; 2) financial, familial, and/or community responsibilities; and 3) general unavailability of support services needed to engage in educational programs (childcare, transportation, resume writing, etc.) 4 .
+
+The ExLENT program requires proposals to address these barriers and to provide mechanisms (i.e., financial, social, and educational/professional support) to ensure participants have viable on-ramps into emerging technology careers. Creating such on-ramps to expand access to those who are not yet engaged in the STEM workforce and to enable the pursuit of careers in emerging technology fields requires broad-based support and expertise from a variety of sectors. Therefore, this program also aims to encourage cross-sector partnerships among companies; state, local, and tribal government offices; non-profits; schools; professional organizations; and/or institutions of higher education (including two-year and minority serving institutions (MSIs)) to provide experiential learning opportunities in emerging technology fields for all individuals. These cross-sector partnerships should capitalize upon the expertise that each partner brings to the program, resulting in a collaborative, coordinated program that will provide participants with pathways into emerging technology careers.
+
+All ExLENT projects are expected to contribute to the knowledge base that informs best practices in STEM education. Projects are expected to have a well-designed plan for gathering and analyzing appropriate data and for assessing the effectiveness of specific strategies via formative and summative assessment. Projects can also demonstrate intellectual merit through evaluation of project activities, impacts, or outcomes. The ExLENT program expects that projects developed in response to this solicitation will reimagine and/or transform existing approaches to identifying, attracting, and retaining talent in emerging technology fields.
+
+II. Program Description
+
+The ExLENT program aims to connect industry, local government, agencies, schools, professional organizations, and/or non-profits in order to provide individuals the experiential STEM learning opportunities needed to accelerate the Nation’s innovation capacity. Given the breadth of age and educational/professional experiences of potential learners, there will be no “one-size fits all” requirement for this program. Experiential learning opportunities supported by ExLENT can serve a broad range of learners including secondary school youth and adults at any stage of career development. Further, proposed experiential learning activities can range from fully immersive experiences, such as internships, to extensive course-based activities that are constructed by (or driven by) workplace partner input to approximate real-world experiences. See examples of experiential learning activities at: https://www.nsf.gov/pubs/_img/ehr/due/ExLinEmTechFigurefinal.jpg .
+
+The ExLENT program seeks to fund new and/or existing cross-sectoral partnerships to design engaging activities that provide individuals with (1) the opportunity to gain new skills and (2) the resources necessary to successfully navigate a career path into emerging technology fields, whether they are exploring new careers, striving toward career entry, or seeking to upskill or reskill their capabilities. Proposals should leverage evidence-based best practices in experiential learning to attract learners to emerging technology careers; establish pathways into emerging technology fields for all individuals across all geographies; and to further develop and hone the talent of workers in these rapidly evolving fields. Successful proposals will outline a comprehensive program curriculum that includes:
+
+Experiential learning opportunities that provide participants with an enhanced understanding of the emerging technology landscape and training in the STEM entrepreneurial and technical skills that increase their employability.
+
+Workplace-driven career exploration activities that allow participants varied pathways into, and job opportunities in, emerging technology fields.
+
+Mentorship to support participants’ professional development and pursuit of careers in emerging technology fields, providing them with paths beyond the ExLENT program.
+
+Establishment of a participant cohort designed to help participants develop a STEM career identity and a sense of community within the emerging technology fields.
+
+Intentional support from all stakeholders, regardless of background or geographic location, to create environments that value all perspectives critical for innovation and that promote a competitive, resilient emerging technology workforce.
+
+ExLENT Proposal Tracks
+
+Recognizing that the familiarity with (and preparedness for) a career in an emerging technology field varies widely, this solicitation provides three tracks to best support the broad range of learners:
+
+Pivots
+
+Beginnings
+
+Explorations
+
+Regardless of track, proposals should identify the type(s) of participants they seek to support and outline the appropriate training, support, and mentorship activities to be provided for the intended participants (aligned with participant age and level of education/professional experience). Proposals should also include mechanisms to address barriers (e.g., economic, social, behavioral, and occupational) so that participants can fully contribute to and benefit from the economy of the future.
+
+Track : Pivots
+
+The Pivots track aims to attract individuals not currently enrolled in post-secondary educational programs, and have acquired useful skills such as time management, communication, and teamwork in non-emerging technology careers. This may include participants who require upskilling to work in emerging technology fields. Participants benefitting from this track should be highly motivated to change their career trajectory into an emerging technology field. Proposed projects should provide participants with experiential learning opportunities that build skills and competencies necessary for current professionals to pivot into careers in emerging technology fields.
+
+Track : Beginnings
+
+The Beginnings track aims to provide individuals possessing some existing STEM competencies (e.g., those with stackable certificates in STEM or those enrolled in associate’s degree programs, etc.) with experiential learning opportunities that deepen knowledge and skills in emerging technology fields. Proposed projects should enable participants to pursue or advance their career in an emerging technology field.
+
+Track: Explorations
+
+The Explorations track aims to provide individuals with limited or no specialized STEM education the inspiration and opportunity to explore the potential of a career path in emerging technology fields. Proposed projects in this track should provide participants with experiential learning opportunities that build interest, motivation, and knowledge in emerging technology fields and identify pathways to careers in these areas. Proposals submitted to this track should focus on a wide range of participants and may include those enrolled in traditional education pathways (e.g., secondary school, college, and/or military). Alternatively, a proposal might focus on participants who are not enrolled in a traditional educational pathway (i.e., self-learners, members of incubators) who are inclined to explore hands-on learning and development opportunities in emerging technology fields.
+
+Key Features of ExLENT Projects
+
+Each ExLENT project should demonstrate an integrative and comprehensive approach that includes the following key features:
+
+Provides pathways into the emerging technology workforce.
+
+Allows for the participation of all individuals spanning the full range of backgrounds and experiences.
+
+Provides in situ emerging technology-specific, competitively compensated, professional work experiences or emerging technology-specific career exploration for participants.
+
+Where relevant, includes attention to issues of cybersecurity, safety, and/or privacy in considering applications of emerging technologies in professional settings and/or in other experiential learning opportunities.
+
+Involves cross-sector partnerships between appropriate stakeholders committed to an integrated, collaborative network to best support participants.
+
+Builds community between all those involved in the project by using a cohort model for engaging participants.
+
+Provides both mentoring by peers and mentoring by experienced emerging technology professionals for participants that includes career development planning beyond program participation.
+
+Includes plans that ensure all learners will have positive and impactful experiences, opportunity, and access regardless of their background or geographic location.
+
+Includes a sustainability plan that explains how partners will continue to provide pathways into the emerging technology workforce after the project’s conclusion.
+
+Includes an evaluation plan that examines the extent to which the program delivered on its proposed activities.
+
+Upon award, all ExLENT projects must use the NSF Education and Training Application system (ETAP - https://etap.nsf.gov/ ) to manage and collect participant demographic information. ETAP is a customizable common application system that connects individuals (such as students and teachers) with NSF-funded education and training opportunities and collects high-quality data from both applicants and participants in NSF-funded opportunities. Award recipients are also encouraged to use ETAP to manage participant applications.
+
+References and notes:
+
+1. The State of U.S. Science and Engineering in 2022 https://ncses.nsf.gov/pubs/nsb20221
+
+2. STEM Labor Force of Today https://ncses.nsf.gov/pubs/nsb20212
+
+3. Kuh, G.D. 2008 High-Impact Educational Practices: What They Are, Who Has Access to Them and Why They Matter. Report from the Association of American Colleges and Universities.
+
+4. Hora, M., Chen, Z., Parrott, E. and Her, P. 2020. Problematizing college internships: Exploring Issues with access, program design and developmental outcomes. International Journal of Work-Integrated Learning 21(3): 235-252.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 25 to 35
+
+ExLENT awards are expected to be up to three (3) years in duration with a total budget up to $1,000,000.
+
+Anticipated Funding Amount: $30,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+State and Local Governments including those entities interested in workforce development and education. Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs): Prospective proposers from Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs), including NSF sponsored FFRDCs, must follow the guidance in PAPPG Chapter I.E.2 regarding limitations on eligibility.
+
+State and Local Governments including those entities interested in workforce development and education.
+
+Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs): Prospective proposers from Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs), including NSF sponsored FFRDCs, must follow the guidance in PAPPG Chapter I.E.2 regarding limitations on eligibility.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

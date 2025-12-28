@@ -10,3 +10,146 @@ Status: Cleared
 Posted date (Y-m-d): 2025-12-10
 URL: https://www.nsf.gov/funding/opportunities/collaboratory-advance-mathematics-education-learning-k-12/nsf26-501
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12
+
+I. Introduction
+
+The Collaboratory for Advancing Mathematics Education and Learning (CAMEL) program will establish Collaborative Networks to integrate cross-disciplinary and cross-sector perspectives to support translation between research and practice, and the generation of high value datasets aimed to solve important problems in K-12 math learning and education. The program will also establish a Collaboratory with a National Coordinator that will synergize resources, research efforts, and coordination among the Collaborative Networks. CAMEL will be a new networked organizational form that prioritizes community-building and capacity-building among researchers, education practitioners, and data scientists.
+
+II. Program Description
+
+The CAMEL initiative partners with the Walton Family Foundation (WFF) and other philanthropic groups to advance K-12 math learning and education. It builds on studies of how people learn generally, how people learn math specifically, and how fundamental knowledge of human cognition and behavior could generalize to inform classroom strategies. It also includes how insights and experiences from education practitioners can inform theory and inspire new research directions. This two-way integration of knowledge combined with high value data sets and sophisticated analyses has the potential to reveal new insights into math learning and education. Specifically, CAMEL advances K-12 math learning and education through: 1) effective collaboration between scientific researchers and education practitioners; 2) innovative use of data science, AI, and technology; and 3) establishment of a "collaboratory" to facilitate collaboration and provide necessary training and education in data science and management.
+
+To implement these goals, the CAMEL solicitation has two Phases:
+
+Phase I: CAMEL Collaborative Networks
+
+Phase I will create CAMEL Collaborative Networks (CAMEL-CN) that bridge researchers and education practitioners. CAMEL-CN proposals must integrate cross-disciplinary and cross-sector perspectives in the generation of high value datasets aimed to solve important problems in K-12 math learning and education. Proposals may be submitted through one or both of the pathways below (1a or 1b):
+
+1a) Novel Dataset Pathway : Creation of novel high-value K-12 math datasets that address current deficiencies in existing datasets, and ensure that the products of the research and education are widely applicable.
+
+1b) Existing Dataset Pathway : Re-use of existing K-12 math datasets for new, potentially high impact use-cases through support for curation and safe sharing of these datasets.
+
+Datasets are expected to:
+
+Address important research questions on K-12 math learning or have a clear use case.
+
+Address current deficiencies in data sampling and collection to ensure the data collection is representative of all K-12 learners.
+
+Protect student privacy by removing potentially identifiable information (PII) or having an approach to PII that ensures that no PII will be inappropriately shared.
+
+Be AI-ready and contain quality annotation or labels necessary for model training.
+
+Be large enough to train, build, and evaluate highly accurate models.
+
+Be thoroughly evaluated and analyzed for quality, robustness, viability, and bias.
+
+Be Findable, Accessible, Interoperable, and Reusable (FAIR).
+
+Each network is expected to:
+
+Address an important issue(s)/question(s) in mathematics learning/education that requires the collective expertise of researchers from the science of learning (e.g., neuroscience; cognitive, developmental, and social sciences; computer science; machine learning; engineering; and education research), education practitioners, and data scientists.
+
+Have a clear plan for access, preparation and annotation of the data so that it can be used by others.
+
+Have a clear and technical plan for sharing the data and promoting its usage.
+
+Engage in collaborative, integrative research and development that incorporates perspectives of the network members.
+
+Engage in the design of cross-network activities related to the National Coordinator for CAMEL (see Phase II).
+
+Phase II: Establishment of a Collaboratory and National Coordinator for CAMEL.
+
+Phase II is open to Phase I awardees only. Representatives from each CAMEL-CN will participate in intensive brainstorming activities, using the Ideas Lab mechanism (see NSF PAPPG Chapter II.F.6.). Through the Ideas Lab, a CAMEL National Coordinator will be selected for establishing the collaboratory and outcomes assessment. The collaboratory is digital infrastructure designed with the goal of synergizing research efforts and resources (e.g., datasets, tools, and workforce) and stimulating collaboration across the CAMEL-CNs for new research and development.
+
+The envisioned collaboratory is more than a collection of datasets and communication technology; it leverages a new networked organizational form that prioritizes community-building among researchers, education practitioners, and data scientists. The collaboratory also prioritizes capacity-building in data science that translates research to practice through: 1) training and education; 2) building trust and collaboration; 3) co-learning to broaden expertise and converge on shared goals; and 4) agreements on norms, principles, values, and rules.
+
+Responsibilities of the National Coordinator and Collaboratory will include outcomes assessment. The first concrete outcomes from CAMEL Phase I are the 5-6 new or re-purposed high-value, AI-ready datasets. The quality of these datasets and use of these datasets will have been strengthened by the co-production of knowledge from the collaborative networks. Tracking of the usage of these datasets will be achieved through the National Coordinator and Collaboratory in Phase II; this extends to the knowledge gained or tools developed from using these datasets. In addition to dataset generation, the Collaborative Networks and Collaboratory are designed to foster collaboration and bridge researchers and educators. Measures of success include interactions within the collaboratory as well as future collaborations. The Collaboratory is also designed to provide training and education in data science, which can be tracked through the use of tools within the collaboratory as well as the career trajectories of those involved.
+
+Proposals should advance one or more of the following measures of success:
+
+Publications from research
+
+Datasets established or expanded
+
+New technologies or techniques established
+
+Improvements in student educational outcomes
+
+Undergraduates and graduate students trained in a specific critical area
+
+New infrastructure built
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant
+
+Estimated Number of Awards: 6 to 7
+
+Anticipated Funding Amount: $9,000,000
+
+Up to $9.0 million is expected to be available in Fiscal Year (FY) 2026. Contingent on the availability of funds and receipt of competitive proposals, NSF expects to make 6-7 awards under this solicitation. Awards are expected to be up to three years in duration with a maximum award size of $1,500,000 in total costs over the full duration of the project.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Submission of Letters of Intent is required. Please see the full text of this solicitation for further information.
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: For proposals submitted via Research.gov, PAPPG guidelines apply. For proposals submitted via Grants.gov, NSF Grants.gov Application Guide guidelines apply.
+
+For proposals submitted via Research.gov, PAPPG guidelines apply.
+
+For proposals submitted via Grants.gov, NSF Grants.gov Application Guide guidelines apply.
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may appear as Principal Investigator (PI) or Co-PI in no more than one Phase I proposal submitted in response to this solicitation.
+
+Proposers are responsible for adhering to this limit. In cases where an investigator appears in these roles in two or more proposals, the first compliant proposal received will be accepted and the excess proposal(s) will be returned without review. No exceptions will be made.
+
+Partners (e.g., WFF) and their staff are ineligible to be involved in any proposals submitted to this funding opportunity, including as unfunded collaborators, via letters of collaboration or support, or via any other means.

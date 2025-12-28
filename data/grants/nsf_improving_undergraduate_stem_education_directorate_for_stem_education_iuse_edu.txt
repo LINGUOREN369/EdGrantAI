@@ -15,3 +15,224 @@ Status: Cleared
 Posted date (Y-m-d): 2022-10-19
 URL: https://www.nsf.gov/funding/opportunities/iuse-edu-improving-undergraduate-stem-education-directorate-stem/nsf23-510
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)
+
+I. Introduction
+
+The National Science Foundation's (NSF's) Improving Undergraduate STEM Education (IUSE) Initiative is a Foundation-wide effort to accelerate improvements in the quality and effectiveness of undergraduate education in all STEM fields 1 . Undergraduate STEM education is critical for preparing both a diverse STEM workforce and a STEM-literate public that is ready to support and benefit from the progress of science 2 . The IUSE initiative provides a Foundation-wide framework of investments to support the agency's commitment to the highest caliber undergraduate STEM education. By improving the quality and effectiveness of undergraduate education in all STEM fields, IUSE investments enable NSF to lead national progress toward a diverse and innovative workforce and a STEM-literate public.
+
+Through the IUSE framework, NSF coordinates its investments in undergraduate programs and undergraduate STEM education to maximize impact, and to use shared metrics and appropriate program evaluation approaches. These investments are made across all directorates and address both STEM education in general and specific disciplinary needs. IUSE investments support a variety of activities including the inclusion of inquiry-based and active learning approaches in undergraduate STEM instruction, efforts to increase undergraduate STEM research experiences and courses, and research on the persistence and graduation of students in STEM programs. In addition, specific emerging cross-disciplinary needs include data science preparation for students in all majors, recruitment and retention of women and of students from groups underrepresented in STEM degree programs, incorporation of undergraduate research in STEM fields for STEM majors and non-majors, and re-envisioning of introductory courses in light of new research findings and theories. IUSE also seeks to broaden participation in STEM fields from all sectors and groups in society and proposers are encouraged to establish linkages, as appropriate, with components of the national network of NSF INCLUDES projects 3 .
+
+The IUSE: Directorate for STEM Education (IUSE: EDU) program seeks to promote novel, creative, and transformative approaches to generating and using new knowledge about STEM teaching and learning to improve STEM education for all undergraduates. Through its investments, the program seeks to support development, and implementation, and research efforts that (1) bring recent advances in STEM disciplinary and interdisciplinary knowledge into undergraduate education, (2) adapt, improve, and incorporate evidence-based practices into STEM teaching and learning, and (3) lay the groundwork for institutional improvement. Investments made by the IUSE: EDU program seek to contribute to the educational and capacity-building goals of the NSF Directorate for STEM Education and to the strategic goals and objectives of the NSF 4 .
+
+II. Program Description
+
+A. Program overview:
+
+The IUSE: EDU program supports projects designed to contribute to a future in which all undergraduate students are fully engaged in their STEM learning. The IUSE: EDU program promotes (1) Engaged Student Learning: the development, testing, and use of teaching practices and curricular innovations that will engage students and improve learning, persistence, and retention in STEM, and (2) Institutional and Community Transformation: the transformation of colleges and universities to implement and sustain highly effective STEM teaching and learning.
+
+All projects supported by IUSE: EDU must:
+
+Demonstrate a strong rationale for project objectives or incorporate and build on educational practices that are demonstrably effective
+
+Contribute to the development of exemplary undergraduate STEM education
+
+Add to the body of knowledge about what works in undergraduate STEM education and the conditions that lead to improved STEM teaching and learning
+
+Measure project progress and achievement of project goals
+
+To accomplish these goals, IUSE: EDU projects may focus their activities at any level, including the student, faculty, institutional or community 5 levels. Development, propagation, adaptation, and transferability of evidence-based practices are also important considerations. Projects should consider designing materials and practices for use in a wide variety of institutions or institutional types. Topics of interest to the IUSE: EDU program include, but are not limited to, the following:
+
+Development and study of the efficacy of innovative teaching and learning practices and resources
+
+Development, testing, and dissemination of instruments for measuring student outcomes
+
+Efforts to increase the diversity of the STEM workforce including K-12 teachers and/or the faculty and institutions engaged in work to improve undergraduate STEM education
+
+Faculty professional development to increase the use of evidence-based teaching practices
+
+Implementation of and research on sustained change processes involved in adopting evidence-based and effective instruction within or across departments, disciplines, or institutions
+
+Efforts to achieve STEM educational goals through innovative partnerships, for example with community organizations, local, regional, or national industries, centers for teaching and learning, professional societies, or libraries,
+
+Propagating and sustaining transformative and effective STEM teaching and learning through institutional practices or involvement of professional societies
+
+IUSE: EDU also welcomes proposals to conduct workshops and conferences aimed at improving undergraduate STEM education, developing implementation practices, and/or assembling research partnerships and agendas.
+
+All IUSE: EDU projects are expected to increase knowledge about effective STEM education. This may be achieved through posing one or more research questions that will be answered through the course of the study or through evaluation of project activities, impacts, or outcomes 6 . Projects should include a well-designed plan to gather data and should specify methods of analysis that will be employed to answer the questions posed and mechanisms to evaluate success of the project. Projects should also specify strategies for generating and using formative and summative assessment of project processes, outputs, and/or outcomes.
+
+The IUSE: EDU program strongly encourages collaboration among disciplinary instructors, departmental and institutional administrators, and educational researchers in the design and implementation of a project. Transferability and propagation are important aspects for IUSE: EDU-supported efforts and should be addressed throughout a project's lifetime. Dissemination plans should ensure that resources and findings from the project are accessible for multiple audiences, such as researchers and educators. Ultimately, results and findings from IUSE: EDU projects are expected to contribute to EDU's larger themes focusing on STEM learning and learning environments, broadening participation and institutional capacity in STEM, and/or STEM professional workforce development.
+
+The IUSE: EDU program recognizes that putting existing research-based practices into place may be the most important local need for improving undergraduate STEM education. Consequently, conceptual replication or adaptation studies are encouraged to foster propagation of evidence-based STEM teaching and learning approaches in new environments. The 2018 Companion Guidelines on Replication & Reproducibility in Education Research describes conceptual replication as studies that "seek to determine whether similar results are found when certain aspects of a previous study's method and/or procedures are systematically varied." 7 Conceptual replication or adaptation projects may study the impact of an intervention in a new population of students, faculty, or institutional types. These projects might also modify components of an intervention to better meet local needs, implement an intervention in a new environment, improve or adapt assessment instruments, or re-envision the analytic approach to measuring impact. For the purposes of the IUSE: EDU Program, replication studies are intended to broaden or deepen our understanding of the efficacy and applicability of evidence-based practices. As a result, replication or adaptation studies should be designed to enable universities and two- and four-year colleges to adopt, adapt, or improve curricular materials, curriculum design, practices, policies, faculty capacity, organizational culture, or climate in ways that improve the learning and learning environments of undergraduate STEM students.
+
+Researchers interested in conducting fundamental research are also encouraged to consult EHR's Core Research (ECR) Program 8 .
+
+B. Program tracks and levels:
+
+The IUSE: EDU program features two tracks: (1) Engaged Student Learning and (2) Institutional and Community Transformation . Several levels of scope, scale, and funding are available within each track, as detailed below.
+
+Track 1: Engaged Student Learning
+
+The Engaged Student Learning (ESL) track focuses on design, development, and research projects that involve the creation, exploration, or implementation of tools, resources, and models. Projects must show high potential to increase student engagement and learning in STEM. Projects may focus directly on students or indirectly serve students through faculty professional development or research on teaching and learning. Whatever the focus, all projects should be both evidence-based and knowledge-generating, with well-developed plans to study student experiences and evaluate student outcomes. NSF's investment in research and development for Engaged Student Learning in undergraduate STEM education encompasses a range of approaches including:
+
+Development and implementation of novel instructional methods or adaptation of existing evidence-based pedagogies in STEM disciplines or in multi-disciplinary or interdisciplinary courses or programs
+
+Design and assessment of metrics aiming to measure STEM teaching and learning or student outcomes
+
+Local, regional, or national efforts to develop and disseminate tools, resources, or models designed to improve STEM teaching and learning
+
+Discipline-based educational research or research that spans multiple disciplinary domains
+
+Faculty learning through professional development
+
+Re-envisioning or adaptation of learning environments
+
+Co-curricular activities that increase student motivation and persistence in STEM
+
+Investigation of novel instructional tools or learning systems, including cyber-learning or learning technologies
+
+Synthesis or meta-analysis of prior work to examine differences in findings across studies and variations in the types of interventions, for whom, and under what conditions
+
+Collaborations between two-year and four-year institutions to develop innovative pathways for student transfers and success
+
+In keeping with the mission of the NSF's Directorate for STEM Education, ESL projects can contribute to developing the STEM and STEM-related workforce, advancing a disciplinary STEM field, broadening participation in STEM, educating a STEM-literate public, improving K-12 STEM education through undergraduate pre-service STEM teacher preparation, encouraging life-long learning, and/or building STEM capacity in higher education.
+
+Three levels of funding are available for ESL projects. These funding levels should align with the scale and scope of the effort and the capacity of the team to conduct the proposed study. The scale of the work refers to the number of students, faculty, departments, institutions, or other groups that the work engages while the scope of the work refers to the range of project components involved. Inclusion of investigators and/or institutions new to NSF as project team members or collaborative partners is encouraged as a mechanism for expanding project impact and for building capacity in STEM disciplinary, interdisciplinary, or multi-disciplinary engaged student learning.
+
+ESL Level 1
+
+ESL Level 1 projects have a maximum award of $400,000 and a maximum duration of three years. Awards at this level will support early-stage or exploratory research projects 6 , as well as projects that propose adaptation of existing pedagogies and methodologies in novel environments on a small scale. Proposals from a single institution involving one or more faculty members in a single discipline or across several disciplines are appropriate for this level, as are partnerships across disciplines, institutions, or communities focused on a unifying thematic approach or problem. Pilot data illustrating initial efforts may be helpful in assessing the viability of the project, but projects with a strong grounding in the relevant literature are also appropriate for this level. Investigators from institutions new to the IUSE program are encouraged to consult NSF 20-034 , Dear Colleague Letter: Stimulating Participation from Institutions New to the Improving Undergraduate STEM Education: Education and Human Resources Program.
+
+The annual deadline for ESL Level 1 submissions is the third Wednesday in January.
+
+ESL Level 2
+
+ESL Level 2 project awards range from $400,001 to $750,000 and have a maximum duration of three years. ESL Level 2 projects should have a scale and scope beyond what would be expected for ESL Level 1 projects. ESL Level 2 projects are intended to support design and development efforts or impact studies 6 to improve student learning, including department-wide reform efforts, interdisciplinary or multi-disciplinary collaborations, or partnerships across institutions. ESL level 2 projects may be from a single institution or involve multi-institutional collaborations. Partnerships with professional societies, industries, or community partners are also appropriate for this level.
+
+The annual deadline for ESL Level 2 submissions is the third Wednesday in July.
+
+ESL Level 3
+
+ESL Level 3 project awards range from $750,001 to $2 million and have a maximum duration of five years. Projects at this scale and scope are expected to benefit large numbers of students or broad communities of faculty and instructors through large-scale design and development studies or impact research 6 . ESL Level 3 projects are expected to demonstrate sufficient scale and scope to warrant this level of support. ESL Level 3 projects are expected to contain highly developed research plans including significant research questions or large-scale evaluation efforts. Budgetary requests should be commensurate with the scope and scale of the proposed project. Collaborations among disciplinary instructors, departmental and institutional administrators, and educational researchers are likely to strengthen ESL Level 3 proposals. In addition, ESL Level 3 proposals are likely to involve two or more institutions, although submissions from single entities will be considered if the scale and scope of the project is appropriate.
+
+To determine suitability of a project for consideration as an ESL Level 3 effort, or for assistance in distinguishing between ESL Level 3 and ICT Level 2 projects (see below), proposers are encouraged to contact an NSF program officer prior to preparation and submission of a full proposal.
+
+The annual deadline for ESL Level 3 submissions is the third Wednesday in July.
+
+Track 2: Institutional and Community Transformation
+
+The Institutional and Community Transformation (ICT) track funds innovative work applying evidence-based practices that improve undergraduate STEM education and research on the organizational change processes involved in implementing evidence-based practices. The emphasis of this track is on systemic change that may be measured at the departmental, institutional, or multi-institutional level, or across communities of STEM educators and/or educational researchers.
+
+Institutional and Community Transformation projects are expected to include one or more theories of change to guide the proposed work 9 . A theory of change functions to identify and organize the dimensions of the proposed work and is a critical component of ICT projects. Competitive proposals will examine the impact of deliberate interventions in undergraduate STEM education. While proposed projects will vary in approach and the underlying theory/theories of change identified, promising proposals will recognize that STEM higher education is a complex system and that achieving goals involves analyzing and addressing organizational factors, such as institutional policies and practices or opportunities for professional growth.
+
+ICT projects may focus on departments or colleges within institutions, entire institutions, on groups of institutions, or on STEM communities of educators, practitioners, and/or educational researchers. NSF's investment in research and development in institutional and community transformation encompasses a range of approaches, such as:
+
+Transformation of high-enrollment, lower-division courses within a discipline or across disciplines to include evidence-based teaching practices
+
+Developing disciplinary or interdisciplinary teaching evaluation rubrics that are rooted in a common research-based framework
+
+Development and propagation of faculty communities of practice to support efforts to improve accessibility or sustainability of evidence-based educational approaches
+
+Examination of change processes in colleges, universities, or academic communities and developing metrics and identifying best practices to guide the process of institutional transformation
+
+Re-envisioning of learning environments or support networks for faculty and students
+
+Inclusion of non-tenure-track faculty or instructors through policy or professional development
+
+Identification of common elements across disciplines, programs, institutions, or systems that support students from groups underrepresented in STEM to be successful.
+
+Three levels of funding are available for Institutional and Community Transformation projects.
+
+These funding levels align with the scale and scope of the empirical effort and the capacity of the team to conduct the proposed research. The scale of the work refers to the number of students, faculty, departments, institutions, or other groups that the work engages while scope refers to the range of project components involved. Inclusion of investigators and/or institutions new to NSF as project team members or collaborative partners is encouraged as a mechanism for expanding project impact and for building capacity in institutional and community transformation.
+
+ICT Capacity-Building
+
+ICT Capacity-Building proposals may be submitted as individual or collaborative projects. The maximum award size is $200,000 for a single institution proposal or $400,000 for a multi-institution proposal. The maximum duration of both single and multi-institutional proposals is two years.
+
+Capacity-Building proposals are expected to enable institutions that have not served as the lead institution on a prior ICT award to identify a project of interest. Funding for these projects is intended to support efforts to assess institutional needs, formulate departmental and/or institutional commitments, develop necessary campus partnerships, audit prior institutional efforts, gather data, learn about relevant theories of change, identify relevant institutional practices and policies, and/or formulate plans for advancing institutional or community transformation. Proposers are encouraged to include a variety of participants such as disciplinary or educational researchers, assessment and evaluation experts and advisors, and institutional leaders. Funds awarded for ICT Capacity-Building proposals are intended to defray costs such as coordinating among project participants, sharing data, and attending relevant meetings including IUSE: EDU PI meetings. The project timeframe is intended to allow institutions to host one or more working meetings at which stakeholders and potential research partners might ultimately develop an ICT Level 1 or Level 2 proposal.
+
+The annual deadline for ICT Capacity-Building submissions is the third Wednesday in January.
+
+ICT Level 1
+
+ICT Level 1 proposals have a maximum award size of $400,000 and a maximum duration of three years. Awards at this level are intended for early-stage exploratory projects 6 or small to mid-scale projects that build on prior work.
+
+The annual deadline for ICT Level 1 submissions is the third Wednesday in January.
+
+ICT Level 2
+
+ICT Level 2 project awards range from $400,001 to $2 million and a maximum duration of five years. ICT Level 2 awards are intended to support design and development work or impact research 6 . Projects at this scale and scope may be disciplinary, interdisciplinary or multi-disciplinary in nature and are intended to examine and/or incorporate broad communities of institutions, departments, or faculty. ICT Level 2 projects are expected to demonstrate sufficient scale and scope to warrant support at this level. Prior work need not have been funded through the IUSE: EDU Program but should provide data and document expertise of the project team in support of project objectives. ICT Level 2 work is expected to contain robust research plans including either significant research questions or large-scale evaluation efforts, along with appropriate assessment efforts.
+
+To determine suitability of a project for consideration as an ICT Level 2 effort, or for assistance in distinguishing between ICT Level 2 and ESL Level 3 projects (see above), proposers are encouraged to contact an NSF program officer prior to preparation and submission of a full proposal.
+
+The annual deadline for ICT Level 2 submissions is the third Wednesday in July.
+
+Conferences
+
+Proposals for conferences addressing important challenges in undergraduate STEM education may be submitted at any time following consultation with a program officer. Conference proposals that address diversity in STEM teaching and learning, and those involving collaborations of educational researchers and disciplinary scientists to ensure that STEM teaching reflects cutting-edge STEM disciplinary research are especially encouraged. Information about preparing Conference Proposals is contained in PAPPG Chapter II.E.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 135
+
+The program estimates making awards for 50 Level 1 projects, 30 Level 2 and 3 projects, 15 Capacity-Building projects, and 40 conferences and workshops.
+
+Anticipated Funding Amount: $61,000,000
+
+The program estimates that approximately $61,000,000 will be available for new awards per fiscal year. See section III below for further information about the anticipated number of awards in the program's two tracks and the average size and duration of awards. The estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 3
+
+An individual may serve as PI or co-PI on no more than three IUSE: EDU proposals submitted during the period of October 1 through September 30. This eligibility constraint will be strictly enforced. In the event that an individual exceeds this limit, proposals will be accepted based on earliest date and time of proposal submission (i.e., the first three proposals will be accepted and the remainder will be returned without review). No exceptions will be made.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

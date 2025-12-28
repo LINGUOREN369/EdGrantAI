@@ -17,3 +17,208 @@ Status: Cleared
 Posted date (Y-m-d): 2022-11-30
 URL: https://www.nsf.gov/funding/opportunities/oceanographic-facilities-equipment-support/nsf23-525
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Oceanographic Facilities and Equipment Support
+
+I. Introduction
+
+A. Background
+
+NSF supports construction, conversion, acquisition, and operation of major shared-use oceanographic facilities. The University-National Oceanographic Laboratory System (UNOLS) schedules the use of these facilities and other expeditionary programs. The Programs described in this solicitation support facilities necessary to conduct Federally funded research and training of oceanographers. Examples of these facilities and support services are ships, submersibles, large shipboard equipment, shared-use instruments to collect and analyze data, sea-going technical staff, pooled equipment management, at-sea internet connectivity and data repository services.
+
+NSF highly encourages routine institutional purchase of ship and technical support days for science and educational outreach purposes, as well as support from non-federal sources for oceanographic research activities.
+
+The Division of Ocean Sciences (OCE) comprises three Sections: Integrative Programs (IPS), Marine Geosciences (MGS), and Ocean Sciences (OS). IPS comprises the Ship Operations Program (Ship Ops), Ship Acquisition and Upgrade (SAU), Oceanographic Technology and Interdisciplinary Coordination (OTIC) Program, Oceanographic Education (OE) Program, Ocean Drilling Program (ODP), and the Ocean Observatories Initiative (OOI), as well as the programs pertaining to oceanographic facilities described in this solicitation.
+
+Oceanographic facility awards are made for the operation, conversion, and upgrade of open-ocean, coastal, near-shore and Great Lakes platforms, instrumentation, equipment, and technical support services used for research and educational programs. Awards are principally directed to support large facilities that lend themselves to shared usage. Most of these facilities also receive partial support from other Federal agencies, state and local governments, and private sources. The primary objective of these awards is to ensure the availability of appropriate oceanographic facilities for NSF-funded investigators and education programs. Individual project-based facilities and instrumentation, limited to one, or a small group of, investigator(s), are supported through appropriate research programs, not IPS programs.
+
+B. Science Imperatives
+
+Vessels in the U.S. Academic Research Fleet (ARF) provide at-sea laboratories necessary to effectively and safely support oceanographic scientists, post-doctoral scholars, graduate and undergraduate students as well as engineers, technicians, and teachers as they pursue fundamental questions in marine science. These intellectual endeavors broaden human understanding, and spur new questions, about the largest and most influential environment on the surface of the planet. The ARF and related facilities are instrumental in collecting the observational and physical data that are critical in advancing human understanding of how these dynamic and natural processes work and affect our environment. The data collected and archived have led to the identification of new energy resources, have aided the discovery of life in extreme environments at and below the sea floor, and have enabled the search for marine organisms with the potential to treat human disease. At-sea sampling and observing have allowed researchers to:
+
+Better understand, model, and predict the responses of marine populations to long- and short-term changes in ocean conditions;
+
+More fully understand the physical state of the earth with regard to seismic activity and its effects on human populations; and,
+
+Discover changes in deep ocean circulation and heat distribution around the planet, leading to a better understanding of causes and consequences of climate change.
+
+Oceanographic expeditions are also an extension of university classrooms and consistently provide extraordinary educational experiences. Voyages expose participants to new ideas, teach fundamental scientific principles through observation and practice, and inevitably raise questions that stimulate new thinking about how the oceans work. An increased awareness of humanity's responsibility to bring this science into the classroom and to the public has resulted in the development of new avenues to share these scientific findings. The internet is now routinely and effectively bringing active science to classrooms with real-time images, data and two-way communication between scientists at sea and students in schools across the country. These efforts have extended the sea-going experience from a handful of participants to thousands of students across the country, as well as to the general public. Scientists on academic research vessels use these opportunities to present their data through web-based approaches either at their home institutions or through websites maintained by community organizations.
+
+II. Program Description
+
+The objective of this solicitation is to provide properly equipped and managed facilities in support of oceanographic research primarily funded by NSF.
+
+Relationship to other NSF Programs: OCE facility awards are generally limited to support for shared-use facilities. Other facility or equipment requirements generated by a single research project should be included as an integral part of the scientific funding request for that project. Prospective principal investigators seeking scientific support should refer to the NSF website ( https://beta.nsf.gov/funding ) for information about funding opportunities and science program descriptions.
+
+All OCE research proposals and any proposal submitted to NSF requesting support for research ship time must include a UNOLS Ship-time & Marine Equipment Request Form (SME). The SME serves several purposes:
+
+Identifies sea-going field work projects requiring research vessel support;
+
+Enables OCE to predict and plan for vessel, technical services, and equipment requirements; and
+
+Assists ship operators and program managers in preparing ship schedules and cruise logistics.
+
+The ship time request form can be obtained from the UNOLS web site ( https://www.mfp.us/programme/map ). Any investigator who needs assistance in requesting ship time should contact the UNOLS Office at office@unols.org .
+
+The individual programs covered within this solicitation include:
+
+Oceanographic Technical Services (Tech Services)
+
+Oceanographic Instrumentation (OI)
+
+Shipboard Scientific Support Equipment (SSSE)
+
+Detailed descriptions of the programs are provided below. Additional information and guidance on using the specific templates should be accessed at https://www.nsf.gov/geo/oce/programs/ips/index.jsp .
+
+1. Oceanographic Technical Services Program (Tech Services)
+
+The purpose of the Oceanographic Technical Services (Tech Services) Program is to enhance the scientific productivity of research programs that utilize vessels of the ARF, as well as shore-based, shared-use facilities. The shore-based facilities offer support to the ARF through access to a centralized facility, rather than requiring each institution to duplicate efforts. The shared-use facilities include two winch pools, two van pools and a wire pool. In addition, the following shared-use facilities are supported through the Technical Service Program: Rolling Deck to Repository (R2R) (long-term underway data management), SWAB (radioisotope testing), University of Hawaii Data Acquisition System (UHDAS) (ADCP support), HiSeasNet (internet connectivity), MARine Sediment SAMpling (MARSSAM) (coring and dredging support), Multibeam Advisory Committee (MAC) (multibeam sonar support), SATellite Network Advisory Group (SATNAG), and the Technician Pool.
+
+Tech Services includes the maintenance and calibration of instruments/sensors, logistical assistance, the management of shore-based equipment pools, and at-sea support of the instrumentation and shared-use equipment available to sea-going researchers.
+
+Except for shore-based facilities, all institutions requesting Tech Services funding must provide basic at-sea and shore-based technical services (Basic Services, described below). The full extent of Basic Services considered for support depends on the shared-use instruments made available, the scientific capabilities of the research vessel(s), and the management structure of the technical support activities.
+
+Institutions may also include requests for Specialized Support Services associated with NSF-funded shipboard research projects. To qualify for such support, the specialized shared-use instrumentation must be maintained and operated under the direction of the Tech Services Program.
+
+Activities in support of Basic Services should be addressed in the narrative sections of the proposal. These sections should describe the institution's plan for the fundamental activities necessary for the successful completion of all scientific research expeditions utilizing shipboard and shared-use instrumentation, including shore and sea-going support provided to all ship users as well as the training and travel necessary to do so effectively. Typical Basic Services activities include, but are not limited to:
+
+Basic Technician Activities Ashore:
+
+Communication and coordination in preparation of each research expedition.
+
+Logistics of loading, unloading and shipping.
+
+Management, calibration and repair of shipboard and shared-use instrumentation and satellite communication systems.
+
+Management of data including distribution and contribution to R2R.
+
+Basic Technician Activities at Sea:
+
+Support and operation of shipboard and shared-use instrumentation and satellite communication systems.
+
+Serve as a liaison between the research vessel and scientific staff including safety and over the side operations.
+
+Assistance with installation and removal, operation of, and interfacing with temporarily installed PI-provided equipment.
+
+Charges for Basic Services are based on the total annual operating days of each ship and represented as a daily rate for each ship. This day rate multiplied by the total number of operating days will represent the total operating budget for Basic Services.
+
+Specialized Support Services are for the costs to support efforts that are not distributed to all users (i.e., not included in the day rate), and that require technical support beyond basic services for their successful operation. Examples include the Oceanographic Data Facility (ODF) for processing of hydrographic data; additional, cruise-specific technicians; portable seismic support; internet expansions, etc. This is not limited to expeditions scheduled aboard the institution's own vessels and is often provided through the shared-use facilities described above. Support for these services is not included in the Basic Services day rate and is charged only to those who use the service.
+
+In general, the maintenance and calibration for shared-use instrumentation falls under the Basic Services component of the Program. However, the following activities are appropriate to consider for Specialized Support Services:
+
+Shipping specialized instruments to research vessel
+
+Installation of specialized instruments on research vessel
+
+Technician(s) salary and overtime required for operation of specialized instruments
+
+Expenses associated with the support of additional basic services technician(s) at-sea when previously approved by program manager
+
+Spare parts and expendable supplies required for operation of specialized instruments
+
+The Program will evaluate each request for a Specialized Support Service individually and requires a budget for each specialized effort. The Program does not allow for requests for:
+
+Upkeep and operation of scientific instrumentation that is under development or maintained for individual research projects
+
+Routine underway watch-standing
+
+Data reduction or analysis
+
+2. Oceanographic Instrumentation (OI)
+
+The purpose of the Oceanographic Instrumentation Program is to enhance the scientific capabilities and productivity of Federally funded oceanographic field research projects that utilize the ARF research vessels as well as shore-based, shared-use facilities. A principal criterion for this Program is that the instrumentation requested is for shared use. Shared-use instrumentation is operated, maintained, and repaired by the requesting institution. It is expected to be made available for use on other vessel/projects when possible. Costs associated with maintenance and operation of instrumentation acquired under this program will be included in the institution's Tech Services Program proposal.
+
+Proposals may include "shipboard" instrumentation, which is predominantly installed for operation aboard a single vessel, or "portable" instruments that will be made available to other ARF vessels. Examples of "shipboard" instruments include, but are not limited to, shipboard computer networks, meteorological sensor suites, and hull-mounted sonars. Items considered "portable" instruments include biological net systems, coring equipment, towed instruments such as undulating profilers or side-scan sonars, current meters, moored current profilers, surface buoy systems and associated instruments.
+
+Proposals for the acquisition or upgrade of specialized instrumentation utilized in a shore-based laboratory (e.g., mass spectrometers, department computer systems) are not eligible for support under the OI Program. This type of proposal should be submitted to the appropriate research program in OCE or to the NSF Major Research Instrumentation (MRI) program. OI requests must be justifiable in terms of multi-project utilization in support of NSF-funded science. Instrumentation or equipment that is project-specific in nature, i.e., justifiable only in terms of a single project or principal investigator, is not eligible for support from the OI Program. These requests should be submitted to the appropriate science program.
+
+Proposals for instrumentation may include costs associated with design or fabrication if it is demonstrably more efficient to build it in-house rather than to purchase it commercially. Appropriate documentation should be provided to address this. Costs associated with installation may also be included. Routine maintenance items should be included with the appropriate Ship Operations or Tech Services Program and are not appropriate for OI.
+
+Costs for instruments less than $5000 will not be considered for award. These should be procured through the appropriate Ship Operations or Tech Services programs. It is acceptable to request funding for composite systems of lower cost components where a suitable justification for the component nature of the system is provided
+
+3. Shipboard Scientific Support Equipment (SSSE)
+
+The purpose of the Shipboard Scientific Support Equipment (SSSE) Program is to improve safety, promote regulatory compliance, and enhance scientific capabilities and productivity of Federally funded oceanographic research projects that utilize research vessels as well as shore-based, shared-use facilities. All equipment funded through the SSSE Program is considered shared use. Shared-use equipment is operated, maintained, and repaired by the requesting institution. It is expected to be made available for use on other vessel/projects when possible. Costs associated with maintenance and operation of equipment acquired under this program will be included in the institution's Ship Operations or Tech Services Program as appropriate.
+
+Proposals may include "permanent" installations or "portable" equipment required to upgrade or enhance the capabilities of an existing oceanographic research vessel. This includes equipment such as load-handling systems and components (winches, cranes, frames, etc.), navigation and communication equipment, and safety and regulatory-related items.
+
+Requests must be justifiable in terms of multi-project utilization in support of NSF-funded science. Equipment that is project-specific in nature, i.e., justifiable only in terms of a single project or principal investigator, is not eligible for support from the SSSE Program. These requests should be submitted to the appropriate science Program. Routine maintenance items should be included in the appropriate Ship Operations or Tech Services Program and are not appropriate for SSSE.
+
+Costs for equipment less than $5,000 will not be considered for award. These should be procured through the appropriate Ship Operations or Tech Services programs. It is acceptable to request funding for composite systems of lower cost components. where a suitable justification for the component nature of the system is provided.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 25 to 50
+
+Oceanographic Technical Services (Tech Services). Awards will be made in the form of a five-year, continuing grant, however other funding mechanisms may be considered.
+
+Oceanographic Instrumentation (OI). Awards will be made in the form of a one or two-year standard grant, depending on the award.
+
+Shipboard Scientific Support Equipment (SSSE). Awards will be made in the form of a one or two-year standard grant, depending on the award.
+
+Anticipated Funding Amount: $47,500,000
+
+Funding under this solicitation is intended to cover the three previously listed facilities programs within OCE.
+
+Each program is anticipated to have several awards over the solicitation performance period.
+
+Estimated program budget and number of awards are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research labs, professional societies and similar organizations in the U.S. associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

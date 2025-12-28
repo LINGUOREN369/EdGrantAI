@@ -11,3 +11,142 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2024-01-22
 URL: https://www.nsf.gov/funding/opportunities/innovations-graduate-education-program/nsf24-529
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Innovations in Graduate Education (IGE) Program
+
+I. Introduction
+
+Innovation in science, technology, engineering, and mathematics (STEM) graduate education is vital to meet the needs of science and society in the 21 st century. There are multiple drivers for change including: (i) recent major national reports on the state of STEM graduate education, (ii) the accelerating pace of science and engineering discoveries and technological innovations, (iii) national STEM workforce trends, (iv) the growing globalization of science and engineering, and (v) calls to align graduate education practices and models with the needs of students and enhanced understanding of how people learn. 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9
+
+More recent drivers for innovation in STEM graduate education include heightened attention to (vi) graduate admissions policies, (vii) student mental health and wellness, and (viii) the potential uses of emerging technologies such as generative artificial intelligence (AI) and large language models 10 , 11 , 12 , 13 . There is increasing recognition, also, that addressing the grand challenges in science and engineering requires interdisciplinary and broad professional training, which is atypical for most graduate programs. Additionally, there is a growing body of evidence that diversity and inclusivity accelerate scientific innovation, hence there is a national need to identify and adopt practices that are effective in broadening participation in STEM graduate programs. 14
+
+To address this wide range of issues, innovation is needed at multiple levels and scales ranging from the interpersonal level of student-advisor and mentor-mentee relationships through the level of the graduate program to the broad systemic environment of policies and procedures. Improved understanding through research is particularly needed at this latter level about how large-scale interventions impact graduate student outcomes and that cut across programs, institutions, and disciplines. To identify effective innovations at all scales, the IGE program calls for new approaches to a) pilot, test, and validate innovative and effective STEM graduate education models and programming, and b) examine the systemic impact of new and recent innovations in graduate education policies, procedures, and interventions.
+
+II. Program Description
+
+The IGE program is dedicated to (a) piloting, testing, and validating innovative approaches to graduate education, and (b) supporting research on the graduate education system and rigorous examination of outcomes associated with systemic graduate education interventions and policies. The IGE program seeks to generate the knowledge required for the customization and implementation of the most successful, transformative approaches.
+
+The goals of the IGE Program are to:
+
+Generate the knowledge base needed to inform the development of bold, new, and potentially transformative approaches to graduate education as well as their customization, implementation, and broader adoption.
+
+Catalyze rapid advances in STEM graduate education broadly as well in particular disciplinary and interdisciplinary STEM fields.
+
+The IGE Program calls for proposals in two tracks to:
+
+Design, pilot, and test new, innovative and transformative approaches for inclusive STEM graduate education (Track 1);
+
+Examine the impact of innovative systemic policies, procedures, and interventions on graduate education outcomes (Track 2);
+
+Examine the potential to extend a successful approach developed in one discipline or context to other disciplines or contexts (Tracks 1 and 2);
+
+Develop approaches that are informed by learning science and the existing body of knowledge about STEM graduate education (Tracks 1 and 2).
+
+The primary beneficiaries for all IGE research projects (Track 1 and Track 2) must be master's and/or doctoral students in STEM-designated degree programs. Eligible degree programs include research-based STEM master's and doctoral degree programs, Professional Science Master's programs and MEng programs with research training but do not include programs that only award certificates or professional degrees [such as Doctor of Audiology (AuD), Doctor of Dental Surgery (DDS), Doctor of Education (DEd), Doctor of Naprapathy (DN), Doctor of Nursing Practice (DNP), Doctor of Osteopathic Medicine (DO), Doctor of Podiatric Medicine (DPM), Doctor of Physical Therapy (DPT), Doctor of Science in Physical Therapy (DScPT), Juris Doctor (JD), Master of Liberal Arts (MLA), Doctor of Medicine (MD), Doctor of Naturopathic Medicine (ND), Doctor of Optometry (OD), Doctor of Occupational Therapy (OTD), Doctor of Pharmacy, (PharmD), Doctor of Psychology (PsyD), Doctor of Speech-Language Pathology (SLPD)].
+
+IGE RESEARCH PROJECTS
+
+With this solicitation, NSF invites proposals for two types of projects (described below):
+
+Track 1: Career Preparation and Student Success Pilots: IGE supports projects that generate knowledge about new, potentially transformative improvements in graduate education and workforce development that prepare the next generation of scientists and engineers for the full range of possible STEM career paths to advance the nation's STEM enterprise.
+
+Track 1 proposals focus on novel, pilot interventions in a single STEM program or at a single institution benefiting STEM students across multiple graduate programs. Track 1 will also support proposals examining the potential to extend a successful approach developed in one discipline or context to other disciplines or contexts. Examples of topics that Track 1 projects may address include, but are not limited to: student professional skill development; career preparation and vocational counseling; faculty training and faculty professional development; entrepreneurship; experiential and project-based learning; outreach and community engagement; international experiences; virtual networks; pedagogical innovations related to generative AI and large language models; personalized learning; STEM identity and belonging; and mentoring. Projects should address how the proposed approach would serve a broad population of students from diverse backgrounds.
+
+Track 1 proposals may request a total budget (up to three years in duration) between $300,000 and $500,000.
+
+Track 2: Systemic Interventions and Policies: IGE Track 2 awards support research projects that are expected to generate knowledge about the graduate education system and outcomes of systemic intervention and policies. IGE Track 2 projects may be implemented at different scales: within a field of study across multiple institutions and programs; across multiple fields of study within a single institution; or across multiple institutions and fields of study. Specifically encouraged are proposals that address one of the following six areas:
+
+1. Funding models and funding mechanisms with a priority emphasis on studies on the effects of traineeships, fellowships, internships, and teaching and research assistantships on graduate student outcomes addressing differences by sex, race, ethnicity, and citizenship and student debt load.
+
+2. Graduate student mental health and wellbeing with a priority emphasis on projects that include research, data collection, and assessment of the state of graduate student mental health and wellbeing, factors contributing to and consequences of poor graduate student mental health, and the development, adaptation, and assessment of evidence-based strategies and policies to support emotional wellbeing and mental health.
+
+3. Mentoring policies, procedures, and models with a priority emphasis on studies of effects of graduate education and mentoring policies and procedures on degree completion, including differences by (i) sex, race and ethnicity, and citizenship; and (ii) student debt load.
+
+4. Graduate research environments and teams with a priority emphasis on proposals to study differences in graduate research environments (e.g., academic, industry, government, hybrid; place-based; team vs. independent; formal and informal social supports) and associated outcomes or develop and assess new or adapted interventions, including approaches that improve mentoring relationships, develop conflict management skills, and promote healthy research teams;
+
+5. Inclusive recruitment, admissions, retention, and completion strategies including, but not limited to, studies of the impact of previously implemented and/or new innovations in policies or other interventions designed to broaden participation in STEM graduate education of students who are members of groups underrepresented in the STEM workforce; and
+
+6. Credentialing and degree milestones including, but not limited to, studies assessing the impact of systemic innovations in graduate degree milestones, micro-credentials, stackable credentials, and competency-based approaches on graduate education outcomes such as student recruitment, retention, completion, skills development, and employment readiness.
+
+Track 2 proposals may request a total budget (up to five years in duration) up to $1,000,000.
+
+Leadership teams (PI/Co-PIs) for both tracks are encouraged to include experts in education research, the learning sciences and/or evaluation, as appropriate, as well as in the principal science domain(s) as needed to design and implement a robust and appropriate research plan.
+
+IGE welcomes proposals from early-career investigators and complements the Faculty Early Career Development (CAREER) Program's mission and focus. For information about the CAREER program, please refer to the Dear Colleague Letter: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf22099 . However, researchers at all stages of their careers including mid-career faculty and investigators from non-academic organizations are welcome to apply.
+
+IGE especially welcomes proposals that reflect collaborations between IGE proposals and existing NSF Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (INCLUDES) Initiative projects, provided the collaboration will strengthen both projects. Researchers at minority serving institutions and emerging research institutions are strongly encouraged to submit proposals.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 16 to 20
+
+IGE Track 1 Awards (6 to 10 anticipated in FY 2024) are expected to be up to three (3) years in duration with a total budget between $300,000 and $500,000.
+
+IGE Track 2 Awards (6 to 12 anticipated in FY 2024) are expected to be up to five (5) years in duration with a total budget up to $1,000,000.
+
+The estimated number of awards and the anticipated funding amounts listed above for both Track 1 and Track 2 are for FY 2024. The number of awards and funding amounts in FY 2025 and FY 2026 are subject to the availability of funds.
+
+Anticipated Funding Amount: $14,000,000
+
+The anticipated funding amount of $14,000,000 is for FY 2024.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization: 2
+
+An eligible organization may participate in two Innovations in Graduate Education proposals per annual competition. Participation includes serving as a lead organization on a non-collaborative proposal or as a lead organization, non-lead organization, or subawardee on a collaborative proposal. Organizations participating solely as evaluators on projects are excluded from this limitation. Proposals that exceed the organizational eligibility limit (beyond the first two submissions based on timestamp) will be returned without review regardless of the organization's role (lead, non-lead, subawardee) in the returned proposal.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may serve as Lead Principal Investigator (PI) or Co-PI on only one proposal submitted to the IGE program per annual competition. Proposals that exceed the PI/Co-PI eligibility limit (beyond the first submission based on timestamp) will be returned without review regardless of the individual's role (PI or Co-PI) in the returned proposal.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

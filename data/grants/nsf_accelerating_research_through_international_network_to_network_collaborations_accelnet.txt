@@ -11,3 +11,104 @@ Status: Current but no longer receiving proposals
 Posted date (Y-m-d): 2023-08-25
 URL: https://www.nsf.gov/funding/opportunities/accelnet-accelerating-research-through-international-network-network/nsf23-619
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Accelerating Research through International Network-to-Network Collaborations (AccelNet)
+
+I. Introduction
+
+The scientific enterprise is increasingly collaborative and international. Today's research collaborations function as dynamic multi-team systems that impact the growth of global knowledge. Internationally coauthored publications are more highly cited than domestic-only publications and are increasing in number across most research fields. High-impact research is more common in cases where novel combinations of research are brought together and in countries that foster links with foreign researchers to create new communities of excellence. Diversity in research teams also leads to greater innovation. AccelNet facilitates the building of international and diverse networks of networks to create a global research enterprise in grand challenges identified by research communities and/or NSF.
+
+The AccelNet program builds on NSF investments in research networks, research infrastructure, large-scale research facilities, and research centers inside and outside the U.S. By supporting activities that foster strategic international linkages among research networks (as specifically defined below), AccelNet aims to accelerate research in a way that would not be possible without time for a collaborative, cooperative, synergistic effort at an international scale. AccelNet does not support proposals that wish to launch a single new network, expand a single network, expand existing NoNs, expand operations to new areas, or simply build capacity abroad.
+
+Team Science References: Adams (2013) Nature ; Coccia and Wang (2016) PNAS ; Cooke and Hilton (2015) The National Academies ; Fortunato et al. (2018) Science ; Uzzi et al. (2013) Science ; Wagner et al. (2015) PLoS ONE ; Wagner and Jonkers (2017) Nature ;
+
+DEI and Innovation References: Forrester (2020) Nature ; Amano et al. (2016) PLOS Biol , Jonsen et al. (2011) Int J Cross Cult Management , Hofstra et al. (2020) PNAS
+
+II. Program Description
+
+A. Overview
+
+The AccelNet program encourages collaboration over competition by soliciting proposals for international networks of networks that aim to 1) accelerate scientific research at a rate that would not be possible without concerted international cooperation in research planning; 2) make NoN members more competitive for research awards following the period of award; 3) recruit and foster a US-based diverse and internationally competent workforce trained in conducting and leading multi-team international collaboration. Any area funded by the National Science Foundation is eligible, particularly those addressing grand research challenges identified within research communities and/or NSF.
+
+An integral part of large-scale international NoNs is building multi-team science. To facilitate the long-term success of awarded projects, the AccelNet program provides training in conducting team science for US-based PIs during the first year of the award. To facilitate workforce development, the AccelNet program provides support for US-based students and early-career researchers to participate in professional development opportunity alongside the AccelNet annual PI meeting.
+
+Proposed international networks of networks may vary in size and maturity, but a minimum of three domestic, foreign, and/or inherently multinational research networks are required — at least one must wholly operate outside the US. AccelNet does not support proposals that wish to launch a single new network, expand a single network, expand existing NoNs, expand operations to new areas, or simply build capacity abroad. In exceptional cases, an established NoN may be eligible if the proposed activities demonstrate new linkages and/or synergies among research networks that alter the scope and direction of the existing NoN to a significant degree.
+
+NoNs must demonstrate synergies across multiple networks that leverage expertise, data, facilities, and/or other resources for mutual benefit across the NoN. Proposed NoNs must exhibit a model of shared NoN governance across the networks. NoN networking activities may be virtual, hybrid, or a combination of both. Examples of NoN activities include, but are not limited to network retreats, NoN workshops, international and interdisciplinary personnel or data exchanges, sharing of unique facilities, working groups, training activities, and development and dissemination of products and practices. Exchanges between domestic networks may be included only if international network members are also traveling to the domestic exchange site.
+
+B. Definitions
+
+Solicitation-Specific Definition of Network: a geographically distributed team of researchers who cooperate on research activities within or across fields to collect and share resources, knowledge, and expertise. Networks cannot be so large that regular and sustained cooperation is not feasible or practical. Members must be from disparate organizations (not labs or groups of researchers within a university or university system, or an existing network of networks) and must engage at scales larger than lab-to-lab collaborations between universities. Large professional networks and organizations are not considered research networks for the purposes of this solicitation, but smaller working research groups within them that cooperate regularly may be. A formally recognized research network will have a network name, website, or similar identification features, but not all networks need be at that stage of maturity (particularly in the Design Track).
+
+Solicitation-Specific Definition of Network of Networks (NoN): a federation of international independent, non-overlapping networks (as described above) that converge on a clearly articulated research theme and set of questions. Networks may include stakeholders from universities, government agencies, non-profit organizations, and private industry, so long as the goals are focused on advancing the frontiers of science, engineering, and STEM education. Proposed NoNs should be of a scale and complexity that would not be possible within a single research network, within a single nation, or through the normal modes of NSF research support. Key members in each network (at various career stages) must have clearly defined roles and responsibilities central to generating synergy across networks. Proposals must demonstrate the benefits of participation in the NoN for unfunded networks and the contribution each network makes to the NoN.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 10 to 14
+
+Anticipated Funding Amount: $10,000,000
+
+Anticipated Funding Amount: $10 million, pending availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Tribal Governments: The governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a, et seq.)
+
+Who May Serve as PI:
+
+Restrictions only apply to Implementation Track Phase 2:
+
+Implementation Track Phase 2 proposals may only be submitted by Implementation Track Phase 1 recipients with an active award and can be submitted no earlier than 12 months after the start date of the award. Each Phase 1 team can only receive one Phase 2 award.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may appear as PI or Co-PI in no more than one proposal submitted in response to this solicitation, whether Design or Implementation.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

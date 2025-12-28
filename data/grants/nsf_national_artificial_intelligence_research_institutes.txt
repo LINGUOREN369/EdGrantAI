@@ -29,3 +29,96 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2023-07-31
 URL: https://www.nsf.gov/funding/opportunities/national-artificial-intelligence-research-institutes/nsf23-610
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+National Artificial Intelligence (AI) Research Institutes
+
+I. Introduction
+
+AI is advancing rapidly, enabled and significantly fueled by federally-funded research. Increasingly sophisticated and integrated approaches for AI systems appear in applications across all sectors of the economy, and new challenges emerge for advancing, applying, and governing these promising technologies. AI holds the potential to transform lives across our Nation through increased economic prosperity, improved educational opportunities and quality of life, and enhanced security. At the same time, the potential capabilities and complexities of AI, combined with the wealth of interactions with human users and the environment, make it critically important to further advance our understanding of AI, including aspects of transparency, security, and control. Among federal research investments, institute-scale activities enable multidisciplinary, multi-stakeholder teams to focus on larger-scale, longer-time horizon challenges in both foundational and use-inspired AI research, and development of the future AI workforce, as well as addressing some of society's grand challenges. National AI Research Institutes will serve as national nexus points for collaborative efforts spanning institutions of higher education, federal agencies, industry, and nonprofits/foundations in such areas. They should also accelerate the transition of AI innovations into many economic sectors, and nurture and grow the next generation of talent. A long-term, substantive, and highly visible investment in AI research, infrastructure, and workforce development will realize the potential of, and enable the U.S. to maintain global leadership in, AI.
+
+II. Program Description
+
+Building upon the nationwide network of AI Research Institutes, this National AI Research Institutes program solicitation will fund Institutes comprised of scientists, engineers, and educators united by a common focus on advancing the research frontiers in AI. The program seeks to build a broader nationwide network to pursue transformational advances in a range of economic sectors, and science and engineering fields. AI Research Institutes will have as their primary focus the advancement of multidisciplinary, multi-stakeholder research on larger-scale, longer-time-horizon challenges in AI research than are supported in typical research grants. They will accelerate the development of transformational technologies by grounding that research in critical application sectors that can serve as motivation for foundational research advances and provide opportunities for the effective fielding of AI-powered innovation.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 5
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+In Theme 1, NSF and the Simons Foundation expect to co-fund up to two National AI Research Institutes. The Simons Foundation intends to provide up to $20 million and NSF intends to provide up to $20 million to support up to two new awards in FY 2024 - FY 2028, subject to the availability of funds. The average total size and duration of a grant will be $4M per year for 5 years, evenly split between NSF and SF.
+
+NSF and partners plan to make one award in theme 2 and two or more awards in Theme 3, subject to the availability of funds.
+
+Anticipated Funding Amount: $100,000,000
+
+Institute awards will be made for between $16,000,000 and $20,000,000 for four to five years ($4,000,000 per year on average). Proposals outside this range may be returned without review. Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization: 2
+
+An organization may submit no more than two preliminary proposals to this solicitation as lead institution. This limit is solicitation-wide and applies across the groups and themes. An organization may submit up to two full proposals that correspond to preliminary proposals reviewed under this solicitation. In the event that an organization exceeds these limits, preliminary proposals will be accepted based on earliest date and time of preliminary proposal submission, i.e., the first two preliminary proposals will be accepted, and the remainder will be returned without review. A full proposal that does not correspond to a preliminary proposal reviewed in this program will be returned without review.
+
+Limit on Number of Proposals for Senior Personnel: 1
+
+An individual may be designated as senior personnel (which includes but is not limited to PI or co-PI) on at most one preliminary proposal, and at most one full proposal to this solicitation. This limit is solicitation-wide and applies across the groups and themes. In the event that an individual exceeds this limit, proposals will be accepted based on earliest date and time of submission, i.e., the first compliant preliminary or full proposal will be accepted, and the remainder will be returned without review.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposals: Submission of Preliminary Proposals is required. Please see the full text of this solicitation for further information.
+
+Preliminary Proposals: Submission of Preliminary Proposals is required. Please see the full text of this solicitation for further information.
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Projects in Theme 1 (AI for Astronomical Sciences) will be jointly funded with the Simons Foundation. Half of the total allowed budget (up to $10M) must be prepared by following the NSF Proposal and Award Policies and Procedures Guide (PAPPG), and the other half of the budget (up to $10M) must be prepared by following instructions from the Simons Foundation, included with the announcement of this funding opportunity at the Simons Foundation website ( https://www.simonsfoundation.org/grant/nsf-simons-national-artificial-intelligence-ai-research-institutes-in-the-astronomical-sciences/ ). Note that the Simons Foundation has a specific indirect cost rate policy .
+
+Indirect Cost (F&A) Limitations:
+
+Projects in Theme 1 (AI for Astronomical Sciences) will be jointly funded with the Simons Foundation. Half of the total allowed budget (up to $10M) must be prepared by following the NSF Proposal and Award Policies and Procedures Guide (PAPPG), and the other half of the budget (up to $10M) must be prepared by following instructions from the Simons Foundation, included with the announcement of this funding opportunity at the Simons Foundation website ( https://www.simonsfoundation.org/grant/nsf-simons-national-artificial-intelligence-ai-research-institutes-in-the-astronomical-sciences/ ). Note that the Simons Foundation has a specific indirect cost rate policy .
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

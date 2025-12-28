@@ -9,3 +9,90 @@ Status: Cleared
 Posted date (Y-m-d): 2022-04-28
 URL: https://www.nsf.gov/funding/opportunities/pfc-physics-frontiers-centers/nsf22-592
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Physics Frontiers Centers (PFC)
+
+I. Introduction
+
+Physics addresses an inspiring range of phenomena, from quarks to the cosmos, from the Big Bang to the end of the universe, and all energy, length and time scales in between. The results of physics research touch everyone's life every day and promise solutions to some of our most daunting challenges. In a very real sense, advancing the intellectual frontiers in science, generally, and physics, in particular, is vital to the nation's health, prosperity, and defense. The purpose of the Physics Frontiers Centers (PFC) program is to support timely, aggressive, and forward-looking research that has the potential to lead to a major advance in physics, and, thereby, to advances in other fields and to benefits for society.
+
+Major advances in physics are produced by efforts of all sizes. Over time, individual investigators and the small research group have consistently been among the most important producers of ideas and innovations. However, as projects have become increasingly more complex, large collaborations with hundreds of members are needed to address certain problems involving large-scale tools and facilities. An increasingly important mode of discovery-class research has developed that engages intermediate-sized collaborations that involve a mix of disciplines and/or talents, infrastructure for shared use, and center-scale activities. It is this mode of research that the PFC program is designed to address.
+
+The PFC program will enable university-based investigators to address research areas that require more resources than are normally available to individual investigators or small groups, such as combinations of talents, skills, and/or disciplines or specialized infrastructure. Centers, groups, or institutes funded through the program are expected to address the most exciting questions at the very edge of current understanding. Such activities frequently take new research directions and always involve considerable technical risk. Organization of such activities will vary widely, depending on the particular needs of the research. It follows that maximum flexibility in the design of units funded through the program is essential, so the specific organization of the unit, whether it be a group, a center, or an institute, is left to the creativity of the Principal Investigators. Proposals to the program will be evaluated through use of the two National Science Board approved merit review criteria of intellectual merit and broader impacts. In addition to this, a major deciding factor in determining whether an activity qualifies for PFC funding is the synergy and value added that justifies center-scale support.
+
+Units supported through the PFC program are expected to provide an exceptionally stimulating environment for education so that students will benefit from interactions with a large, often interdisciplinary, group of scientists at all career levels. Awardees should strongly attract the most talented and motivated graduate and undergraduate students and postdocs and provide them with broad educational experiences. They should actively seek to enhance the participation of underrepresented groups in the scientific enterprise and as participants in the proposed unit. And they should reach out to involve k-12 students and the public in ways that increase science interest and literacy.
+
+Activities supported through the program are in all sub-fields of physics within the purview of the Division of Physics: atomic, molecular, optical, plasma, elementary particle, nuclear, particle astro-, gravitational, and biological physics. Proposals using experimental, theoretical, or computational methods, or any combination, will be considered. Interdisciplinary projects that connect these physics areas to other disciplines and physics sub-fields not within the purview of the Division of Physics may also be considered, although the bulk of the effort must fall within one of those areas within the purview of the Division of Physics. Such projects will be considered and reviewed in consultation with other relevant Divisions.
+
+II. Program Description
+
+The PFC program is designed to provide support to enable research at the frontiers of physics when the activities are of a scope and complexity that would not be feasible with standard individual investigator or small group support. Through the PFC program university researchers can form centers, institutes, or large group efforts that lead to major new ideas, discoveries, or broad advances in physics or at the boundaries of physics with other disciplines. Proposals for PFC support may address any area within the purview of the Division of Physics, including interdisciplinary and emerging areas of research.
+
+Since the PFC program is designed to foster research at the intellectual frontiers, new types of joint efforts may be needed to address the most promising problems. Therefore, preconceived specifications as to the organization of the effort are kept to a minimum. In all cases, however, a unit must demonstrate that the whole is substantially greater than the sum of the parts. The unit must have a Director who takes overall responsibility for the effort. There must be a management and governance plan to indicate how the unit will operate. Such a plan must contain information on the overall management and reporting structure, how research projects are chosen, the existence and makeup of any advisory board(s) to be used, and the senior investigators responsible for different parts of the unit's research and education activities. All units are expected to be actively engaged in activities that promote the participation of groups that have been traditionally underrepresented in the sciences, and these activities should be clearly described. Outreach to the scientific community and the general public must also be described. Specific plans for these three topics must be clearly delineated in the proposal.
+
+The main characteristics of a PFC-supported unit are tailored by the Principal Investigators to most effectively address the chosen physics goals. Therefore, every unit will be different. Some may be centers; others may be institutes. Some may be stand-alone efforts; others may be intellectually-connected parts of a larger unit. Whatever the type of organization, it is expected that the PFC-supported unit will have some or all of the following characteristics of successful units of similar size and complexity in physics and other fields. In no particular order, these are: (1) combining talent, skills, or facilities required for a major advance in physics; (2) combining groups, departments, institutions, etc. required to make a major advance in physics; (3) providing critical mass or specialized infrastructure needed for an advance by the unit, and often the broader field; (4) providing the context and/or organization to bring together leaders and students to initiate work in a promising new area, a new interdisciplinary field, an important application, or a new facility of strategic importance to physics; (5) fostering field-wide exploration of frontier research within the community at large; (6) making available specialized infrastructure to others; and (7) creating innovative projects to promote education, the participation of traditionally underrepresented groups in science, and public outreach using the center as a focal point.
+
+Investigators making up the unit requesting PFC funding may already have, or choose to apply for, funding outside the context of the PFC funds. The combination of PFC support with other support for the major investigators will be handled in the following way: If the existing individual support is for work not related to the PFC, it must be listed in the proposal to indicate the context of the proposed work. If an existing grant is related to the objectives of the proposed PFC, that support could be considered to be a base for the incremental PFC support that would then contribute to the additional benefits expected from the PFC. If no related support exists, or if the PIs so choose, the PFC budget can include all support for the activity. Examples of both approaches exist, and the PIs are encouraged to discuss such matters with the cognizant Program Director prior to submitting the preliminary proposal. Whatever the choice made, however, it is critical to demonstrate that the research for which PFC funds are requested is connected to the overall PFC-supported activity in such a way as to foster progress that would not be realized in the absence of the synergy provided by the PFC effort.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 3 to 5
+
+Anticipated Funding Amount: $6,000,000 to $8,000,000 in FY 2023, pending availability of funds and the quality of proposals received.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization: 2
+
+No more than two preliminary proposals may be submitted by any one institution. The same limitation applies to full proposals.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+Any one individual may be the Principal Investigator (PI) or co-Principal Investigator (co-PI) for only one preliminary proposal. The same limitation applies to full proposals. Individuals may be listed as participating senior investigators on more than one proposal.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposals: Submission of Preliminary Proposals is required. Please see the full text of this solicitation for further information.
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

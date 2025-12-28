@@ -11,3 +11,136 @@ Status: Cleared
 Posted date (Y-m-d): 2020-08-07
 URL: https://www.nsf.gov/funding/opportunities/ddrig-arctic-doctoral-dissertation-research-improvement-grants/nsf20-597
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Arctic Doctoral Dissertation Research Improvement Grants (Arctic DDRIG) Arctic Social Sciences, Arctic System Sciences, and Arctic Observing Network (DDRIG)
+
+I. Introduction
+
+The Arctic Sciences Section (ARC) in the Office of Polar Programs (OPP) funds scientific research about the Arctic region and provides operational support for Arctic research activities. Science programs provide support for disciplinary, interdisciplinary, and convergence investigations directed at understanding the Arctic region and its connectivity with lower latitudes.
+
+A geographic definition of the Arctic region is provided by the United States Arctic Research and Policy Act (ARPA) of 1984 Section 112 ( https://www.nsf.gov/od/opp/arctic/iarpc/arc_res_pol_act.jsp ). Because this solicitation includes research on phenomena that link the Arctic to lower latitudes, the ARPA definition should not be viewed as strictly constraining the location of the work proposed. Proposals conducting research outside the Arctic geographic region should contain a clear statement of how the proposed research will increase our knowledge of the Arctic.
+
+II. Program Description
+
+The Arctic Sciences Section solicits proposals for dissertation-level research to enhance our understanding of the Arctic, from advancing fundamental disciplinary understanding of important Arctic processes, to complex interdisciplinary studies of couplings among social, biological, physical, and geochemical components of the Arctic system and the changing connections between the Arctic and lower latitudes. Of special interest is research focused on understanding processes relevant to social and environmental change. All proposals should discuss explicitly how their results would contribute to increasing our understanding of the Arctic region or its interaction with global systems.
+
+Doctoral Dissertation Research is supported within the Arctic Section by the following programs:
+
+Arctic Social Science:
+
+The Arctic Social Sciences Program (ASSP) supports research on Arctic social and cultural systems, present and past, and research relevant to understanding these systems. ASSP welcomes research proposals in all social science disciplines that are funded by the NSF Directorate of Social, Behavioral and Economic Sciences . Topics of particular interest are outlined in the final report for the Arctic Horizons process (arctichorizons.org/final-report). These community recommended research priorities include:
+
+Past and present drivers of change in the Arctic, including resource, cultural, climate, and economic changes
+
+Convergent research on socioecological systems
+
+Demographics of past and present migration
+
+Community and social health
+
+Food, water, and energy security
+
+Sustainability and sustainable development
+
+Globalization
+
+Urban and rural systems
+
+Innovations in data curation, management, sharing, discoverability, and access, including those contributing to synthesis science
+
+The Arctic Social Sciences Program especially encourages projects that are circumpolar and/or comparative; involve collaborations between researchers and those living in the Arctic; or form partnerships among disciplines, regions, researchers, communities, and/or students (K-12, undergraduate, or graduate). The program has a special interest in a wide range of Indigenous scholarship, including Indigenous science and knowledge systems; community participatory-based research models and knowledge co-production; Indigenous conceived and led research projects; and more.
+
+Arctic System Science:
+
+The Arctic System Science Program supports projects that study systems of the Arctic operating at multiple temporal and spatial scales, systems that can inform our understanding of Arctic processes, and the relationship of Arctic systems to other global and regional systems. For ARCSS, the “Arctic system” is defined very broadly to encourage creative proposals. PIs should ask themselves if their work addresses interactions among several components of the Arctic system, explores emergent behavior in linked subsystems, or otherwise provides essential knowledge, and they should apply that knowledge to system-level understanding.
+
+ARCSS projects are often but not always interdisciplinary and can focus on the relationships among physical, chemical, biological, geological, ecological, social, cultural, and/or economic processes. ARCSS welcomes proposals focusing on the cycles of carbon, water, and energy in the functioning of Arctic systems, as well as the relationship of these cycles to human and social processes occurring in the Arctic. ARCSS also accepts proposals that contribute to better understanding of the interactions and feedbacks between humans and the environment. Theoretical and methodological approaches can include (but are not limited to) political ecology, historical ecology, human ecodynamics, food security, resilience theory, Indigenous and local knowledge, socioecological systems, coupled natural human systems, risk and vulnerability studies, ecosystem services, and sustainability studies. ARCSS also encourages projects aimed at creating new knowledge through synthesis of published science, reports and previously collected data to better understand the Arctic system at multiple scales.
+
+Arctic Observing Network
+
+The goal of the Arctic Observing Network (AON) program is to support integrated and sustained long-term measurements of Arctic system characteristics to address hypotheses about mechanisms underlying Arctic environmental system change and its global connections through observation and analysis. These projects should address major drivers and/or impacts of system change and generate data that are intended for wider use by the scientific research community in understanding the changing Arctic system. AON supports scientific observations and Indigenous Knowledge of biodiversity, ecosystems, human societies, land, ice, marine and freshwater systems, and the atmosphere as well as their social, natural, and/or physical environments. The AON Program will also consider proposals for: (1) development of in situ or remote sensors and autonomous systems that directly enhance AON observations, (2) design and optimization of coordinated and scalable observing networks, and (3) management of AON data, data access, and data discovery. AON projects should contribute to Arctic system modeling and should leverage other existing national (e.g., US Arctic Observing Network) and international observing efforts (e.g., Sustained Arctic Observing Networks - https://www.arcticobserving.org/ ).
+
+Proposals that involve process study, model developments, or short-term deployments may be suited to other NSF Arctic programs. Prospective project teams should contact the Program Director to discuss the project and determine if it is within AON Program scope. All AON projects must conform to the Office of Polar Programs Data Policy . AON data are considered community data and not subject to any embargo period. Rapid release of data via a national data center is a requirement for AON projects. There are exceptions for social sciences data, data involving Indigenous or local knowledge, and cases where data release might cause harm. Proposals must include a data and information management plan that describes how free and rapid access to quality-controlled and fully-documented data and information will be achieved during the course of the award. Proposers should be aware that posting figures and tables on a website is not sufficient. The plan must include transfer of all data to a recognized data repository by the conclusion of the award.
+
+When possible, the Report on the Goals and Objectives for Arctic Research - https://www.arctic.gov/goals-and-objectives/ - of the US Arctic Research Commission, and the Arctic Research Plan - https://www.iarpccollaborations.org/plan/index.html - of the Interagency Arctic Research Policy Committee (IARPC) should be referenced, as appropriate, for alignment with national research objectives and performance elements related to Arctic observations. For proposals involving knowledge co-production and/or local community engagement, prospective PIs are strongly encouraged to put into practice and document that they have made efforts to follow the IARPC Principles for Conducting Research in the Arctic - https://www.nsf.gov/geo/opp/arctic/conduct.jsp .
+
+DDRIG Specific Information
+
+Doctoral Dissertation Research Improvement Grants (DDRIG) provide support to enhance and improve the conduct of doctoral dissertation projects conducted by doctoral students enrolled in U.S. IHEs who are conducting scientific research that enhances basic scientific knowledge.
+
+Although most grants are for a shorter time period, DDRIG awards may be up to three years in duration. The dissertation does not have to be completed during that time period, but costs associated with research activities to be reimbursed with DDRIG funds must be incurred while the award is active.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 25
+
+Anticipated Funding Amount: $1,250,000
+
+Anticipated Funding Amount is $1,250,000 per year approximately pending availability of funds. Project budgets should be developed at scales appropriate for the work to be conducted. The total direct costs for Arctic DDRIG awards may not exceed $40,000; indirect costs are in addition to this maximum direct cost limitation and are subject to the awardee’s current Federally negotiated indirect cost rate.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Who May Serve as PI:
+
+The proposal must be submitted through regular organizational channels by the dissertation advisor(s) on behalf of the graduate student. The advisor is the Principal Investigator (PI); the student is the Co-Principal Investigator (Co-PI). The student must be the primary author of the proposal with mentorship from the advisor (PI). The student must be enrolled at a U.S. institution of higher education.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no limitations on the number of DDRIGs that may be submitted by an organization on behalf of a single faculty member during a specific competition or over the course of her/his career. But an organization may submit only two proposals (an original submission and if necessary, a resubmission) for any given student over their career, barring special dispensation from the Arctic Sciences Section for a second resubmission. Such dispensations are rare; they are exclusively at the discretion of the Arctic Program Officer(s).
+
+A student and her/his advisor therefore should carefully consider at what point during the student's graduate program the student is ready to submit a DDRIG proposal keeping in mind that proposal processing normally takes approximately six months.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

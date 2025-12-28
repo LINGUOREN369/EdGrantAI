@@ -16,3 +16,148 @@ Status: Current but no longer receiving proposals
 Posted date (Y-m-d): 2023-06-07
 URL: https://www.nsf.gov/funding/opportunities/citap-cyberinfrastructure-technology-acceleration-pathway/nsf23-597
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Cyberinfrastructure Technology Acceleration Pathway (CITAP)
+
+I. Introduction
+
+CITAP intends to develop and deploy a core service for translation of research software CI to production quality as a new dimension of the ACCESS program across the NSF-funded advanced CI ecosystem, which has become essential to computational- and data-intensive research across all of S&E. The ecosystem is a key catalyst for discovery and innovation, and plays a critical role in ensuring U.S. leadership in S&E, economic competitiveness, and national security, consistent with NSF's mission. NSF, through OAC, has published a vision that calls for the broad availability and innovative use of an agile, integrated, robust, trustworthy, and sustainable CI ecosystem that can drive new thinking and transformative discoveries in all areas of S&E research and education.
+
+OAC’s blueprint for national CI coordination services entitled " Transforming Science Through Cyberinfrastructure: Coordination Services " was informed by community input and national initiatives such as the 2019 NSF-funded National Cyberinfrastructure Coordination Service Conference specifically focused on the CI service ecosystem. NSF envisions a fabric of national coordination CI services that can effectively support a broad and diverse set of requirements, users, and usage modes from all areas of S&E research and education. It is also essential that this fabric of services is agile and can evolve and adapt to respond to emerging requirements and emerging technology landscapes.
+
+The NSF-funded advanced CI ecosystem relies on the contributions of CI developers from a diverse array of organizations, such as academic institutions, government agencies, industry, non-profits, and non-governmental organizations. For the ecosystem to incorporate and make available research CI software innovations sustainably, it is imperative that efficient coordination enables each constituent to realize benefits aligned with their interests, such as in the following examples:
+
+S&E researchers are motivated to specify their requirements and to identify the most effective and efficient methods to support their research.
+
+CI technology developers are motivated to see their solutions adopted widely and may be eager to assist in adapting the solution where needed.
+
+CI resource providers are motivated to smoothly incorporate well-documented utilities or services into their platform that add value for their user community, provided they do not disrupt or delay ongoing operations.
+
+Open-source developers are motivated by broadened availability of the new technology so that additional community members can engage in its improvement or support.
+
+Commercial developers are also motivated by broadened availability of their brand on a variety of national CI platforms.
+
+Sponsors of research, e.g., NSF, other agencies, and institutions, may have a variety of motivations to see research technologies become operational services that avoid re-inventions, accelerate time-to-science, and increase reproducibility.
+
+OAC’s ACCESS program reaches across the NSF-funded advanced CI ecosystem with three goals central to translating research CI software innovations to production quality:
+
+Provide key capabilities, including the discovery of and access to available resources, timely expert technical guidance and focused instruction on effective uses of these CI capabilities, and support for developmental efforts to support the evolving portfolio of NSF-funded S&E;
+
+Ensure the effective management, reliable operation, monitoring and measurement, evolution, and overall use of computing resources, and integrate these resources into a coherent, coordinated national ecosystem ; and
+
+Increase user accessibility , enable collaborative partnerships, simplify the use of CI in dynamic system-of-systems scenarios, support access to relevant data, and enable timely access to novel technologies and solutions.
+
+Formation of partnerships can enable collective efforts that serve many constituents. Partnerships can help the ACCESS program to translate research CI software innovations centered on S&E domains or geographic regions with common interests and can provide synergistic relationships vital to the development and sustainable provisioning of new technologies. CITAP proposals are expected to describe how such partnerships will be promoted and designed to persist beyond the award funding. Acceleration of technology translation may incorporate collaboration with a variety of NSF projects, academic institutions, non-governmental organizations (NGOs), and or commercial enterprises. Expansion of the participation of women and individuals from groups traditionally underserved in innovation, technology translation, and entrepreneurship is especially encouraged. CITAP proposals are not required to pursue or achieve commercialization outcomes.
+
+The ACCESS program is expected to be the foundation of the CITAP processes. The awardee will leverage ACCESS services, for example, as one input to understanding user requirements for CI software. ACCESS has also established road maps helpful to integrate with HPC resource providers. As innovations reach production status, they will be added to the ACCESS database of available services.
+
+Novel research CI software deserving translation from R&D to production may originate from a range of OAC programs, such as (but not limited to) Cyberinfrastructure for Sustained Scientific Innovation (CSSI) , OAC Core Research , Cybersecurity Innovation for Cyberinfrastructure (CICI) , Cyberinfrastructure for Emerging Science and Engineering Research (CESER) , and Campus Cyberinfrastructure (CC*) programs, and their precursors. Technologies that successfully traverse the CITAP process are expected to be available to the NSF-funded S&E community as production capabilities, for example through integration into the CI ecosystem as part of the High Performance Computing (HPC) or High Throughput Computing (HTC) resources/services funded by OAC, including Advanced Computing Systems & Services (ACSS) , the Partnership to Advance Throughput Computing (PATh) facilities, or the Major Research Instrumentation Program (MRI) . Production capabilities may also be distributable as downloadable packages.
+
+In addition to OAC programs that CITAP may use to identify candidate research CI software warranting production status, NSF’s TIP Directorate has multiple programs that may be sources of valued CI innovations as they cultivate organizations that accelerate technology translation via open science or commercialization. TIP’s Partnerships for Innovation ( PFI ) program helps researchers translate basic research into technologies and spurs university spinoff companies. The PFI program offers researchers a technology testbed to gain market insights, launch a commercial application, or facilitate industry adoption. Lessons learned from PFI’s investment in translational research or technology development partnerships that transition ideas from lab to marketplace may be informative to the design and implementation of CITAP operational processes. TIP’s Regional Innovation Engines program (“ NSF Engines ”) harness the nation’s science and technology research and development enterprise and regional-level resources to catalyze robust partnerships rooted in scientific and technological innovation to positively impact the economy within a geographic region, address societal challenges, and advance national competitiveness. Likewise, TIP’s Pathways to Enable Open-Source Ecosystems ( POSE ) program harnesses the power of open-source development for the creation of new organizations that advance technology solutions to solve problems of national and societal importance. Translation of new open-source technologies can benefit significantly from organizational infrastructure to widen their adoption and cultivate self-sustaining maintenance and upgrades through a distributed community of developers and a broad base of users across academia, industry, and government.
+
+CITAP proposals are invited to consider whether collaboration with TIP programs could enhance sustainability of the novel research CI software after the CITAP processes reach production operations.
+
+II. Program Description
+
+Over the last decade, OAC investments in CI research, CI resource provisioning, and community development have created a portfolio of programs that produce innovative solutions to advance S&E research and education across the nation. The NSF-funded advanced CI ecosystem, coordinated by the ACCESS program, comprises a variety of advanced computing high-performance and high-throughput computational systems, networks, and data resources that can benefit from integration of additional research CI innovations.
+
+A clearer process, or “pathway,” is needed as part of the ACCESS program to identify and translate research CI software innovations into production-quality services that will achieve OAC’s vision of an agile CI ecosystem of broadly available, robust, and trustworthy technology. CITAP proposals should address all pertinent technical challenges to reaching production-quality readiness, as well as the organizational challenges associated with potentially distributing, operating and upgrading these services in a sustainable manner. After the translation process becomes operational, the new pathway may also align with TIP’s programmatic priorities in technology development partnerships, open science communities, and/or commercial enterprises.
+
+The eventual CITAP project will be expected to maintain well-defined interfaces with the CI research and developer community as well as with HPC host systems to maximize their potential impact on S&E, and to ensure nondisruptive translation of CI innovations to production. The CITAP awardee must work cooperatively with host systems, such as (but not limited to) service providers funded by the NSF ACSS and ACCESS programs, as appropriate, to maintain a successfully coordinated ecosystem.
+
+CITAP awardees should consider how the integration of the innovative CI projects into production can be responsive to opportunities for improved efficiencies and performance in the operations of the CI ecosystem. Such services will serve as a bridge between the "push" from new innovations from the S&E research community and the "pull" from needs identified by CI resource providers, NSF technology development partners such as other agencies and NGOs, and the S&E research community.
+
+CITAP proposals are expected to demonstrate expertise in process design. Proposals should demonstrate capability to follow established data, software, and systems engineering methods. Proposals are invited to develop innovative mechanisms, and to foster governance partnerships for the nondisruptive and sustained integration of software services into the NSF-funded advanced computing (including HPC/HTC) production systems, or as downloadable packages.
+
+NSF anticipates maturation and evolution of the pathway to identify and translate innovative CI capabilities into production operations. CITAP proposals should include a process design phase for year 1, followed by a pilot phase for years 2 and 3. Results from the pilot phase will inform a performance review to determine the merit and likelihood of success if deployed in an Initial Operations phase for years 4 and 5, with high and broad availability to the S&E research community during the project award period. Contingent on a successful review of the 4 th year review, the operational awardee may be invited by NSF to submit a renewal proposal for operational services for up to five years commencing at the end of the 5 th year of the original award. A possible renewal award focused on full operations would be contingent upon the availability of funds, successful evaluation of CITAP services performed, and NSF merit review recommendation of award for the renewal proposal.
+
+CITAP proposals must include the following three phases. Plans for additional activities relevant to CITAP goals are also welcome.
+
+Design Phase
+
+Design of the CI technology acceleration pathway should define, at a minimum, a workflow to identify, openly prioritize, and handle the breadth of potential research CI software technologies, the pathway constituents who will influence its design, programs and partners (including host systems and possible industrial partners), applicable stages of technology translation from research to production status, the organizational model of governance, indicators of progress/success, selection of use cases representative of S&E researchers’ needs, integration and distribution targets, and processes to evaluate the technology acceleration pathway. Pathway design should address custodial ownership, and IP considerations if raised by constituents, for each given solution candidate once it graduates into production, including how long the candidate will be sustained and processes to retire them, engagement mechanisms with both the solution developers, partners, and CI resource provider hosts, and ongoing metrics to gauge usefulness to S&E research and education communities. The pathway design should describe applicable indicators of progress toward sustainability of the research CI innovation.
+
+Pilot Development & Testing Phase
+
+During the Pilot Development and Testing phase, proposers should develop, document, and begin executing technology acceleration pathway processes for representative use cases that determine (in an open manner using established criteria and metrics, and with community inputs) which innovative technologies to move along toward production, which systems or platforms are suitable for their deployment, and reasonable timeframes to be integrated sustainably into the production systems. When applicable, mitigation plans and alternative approaches should be proposed. Governance agreements should be established and evaluated among contributing partners where applicable, including industrial partners, non-governmental organizations, or others where applicable. The proposed methods should carefully consider the time spent in technology cultivation, development, users’ requirements, operations and maintenance (O&M), and integration compatibility assessment. For example, technologies intended for deployment on advanced computing resources coordinated by the ACCESS program should address the requisite conditions necessary to fulfill the Integration Roadmaps of the targeted resources. Each element of the technology acceleration pathway should be tested, refined, and documented. As the technology acceleration pathway pilot anticipates performance reviews toward graduation to the initial operational phase, it should anticipate economy-of-scale aspects to allow for less time and budget necessary for each innovative technology to be accelerated. Proposals should describe the pathway’s anticipated capacity to concurrently translate new technologies and provide collaborative maintenance during its launch periods.
+
+Initial Operational Phase
+
+The Initial Operational phase will, for a period of at least 2 years, implement the proposed governance structure, deploy processes for technology selection, translate research CI software innovations to production-ready status, integrate them into host systems and or make them available as downloadable packages, collaboratively maintain them during launch periods, promote longer-term partnerships to sustain and upgrade where applicable, and or retire technologies no longer in demand, across the advanced CI ecosystem at NSF-funded programs and CI resource providers. During the Initial Operations phase, the awardee will report on the progress of each CI innovation being addressed based on its respective technology readiness level. Initial Operations will include monitoring key performance indicators that reflect feedback from all involved constituent types, e.g., S&E researchers, developers, and HPC host system administrators.
+
+CITAP PIs will be expected to leverage collaborative interactions with those who govern the programs or systems where technologies will be deployed. Service to the ACCESS program will include participation on the Executive Council for governance. Constituent interactions can be facilitated via ACCESS’ Resource Provider Forum, External Advisory Board, Researcher Advisory Committee, and or engagement with ACCESS constituent communications.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 1
+
+Anticipated Funding Amount: $10,000,000
+
+A total of $10,000,000 is available for this solicitation for a period of performance of up to five years.
+
+Estimated program budget size/duration are subject to the availability of funds.
+
+There is the potential for a subsequent renewal award for operational services for up to five years commencing at the end of the 5 th year of the original award. A possible renewal award focused on full operations would be contingent upon the availability of funds, successful evaluation of CITAP services performed, and NSF merit review recommendation of award for the renewal proposal.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization: 1
+
+Organizations are limited to one CITAP proposal per competition. In the event that an organization exceeds this limit, proposals will be accepted based on earliest date and time of proposal submission, i.e., the first proposal will be accepted, and the remainder will be returned without review. No exceptions will be made.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may serve as PI or co-PI on only one proposal per competition. In the event that an individual exceeds this limit, proposals will be accepted based on earliest date and time of proposal submission, i.e., the first proposal will be accepted, and the remainder will be returned without review. No exceptions will be made.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

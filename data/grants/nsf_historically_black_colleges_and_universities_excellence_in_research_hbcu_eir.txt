@@ -11,3 +11,108 @@ Status: Cleared
 Posted date (Y-m-d): 2023-06-07
 URL: https://www.nsf.gov/funding/opportunities/hbcu-eir-historically-black-colleges-universities-excellence-research/nsf23-598
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Historically Black Colleges and Universities - Excellence in Research (HBCU-EiR)
+
+I. Introduction
+
+The Historically Black Colleges and Universities - Excellence in Research HBCU-EiR funding opportunity was established in response to direction provided in the Senate Commerce and Justice, Science and Related Agencies Appropriations Subcommittee Report (Senate Report 115-139) and is built on prior and continuing efforts by the National Science Foundation (NSF) to strengthen research capacity at Historically Black Colleges and Universities (HBCUs). Senate Report 115-139 provided guidance to NSF to establish the HBCU Excellence in Research program, to provide opportunities for both public and private HBCUs, particularly for those who have not been successful in larger NSF Research & Related Activities competitions, in order to stimulate sustainable improvement in their research and development capacity. HBCU-EiR supports such capacity building by funding research projects across all NSF Directorates.
+
+II. Program Description
+
+The primary goal of the HBCU-EiR funding opportunity is to increase support for researchers at HBCUs interested in pursuing research in domains that align with NSF's research program areas. HBCU-EiR is designed to establish stronger connections between researchers at HBCUs and NSF's core research programs. Outcomes from HBCU-EiR support are intended to be leveraged to empower researchers to subsequently apply for disciplinary specific program funding, for example through core divisional solicitations, in the future.
+
+HBCU-EiR is managed by the Office of Integrative Activities in collaboration with a liaison group consisting of program directors who are representatives from each NSF directorate. Members of the liaison group are listed in this solicitation as cognizant program officers. Liaisons or core program directors can assist in determining the appropriate secondary unit of consideration. Proposals submitted to EiR are routed with assistance from the liaison group for review to the most appropriate research program(s) in one (or more) of the Directorates using the secondary unit of consideration (as designated by the principal investigator). Final placement of the proposal for review, and assignment of the cognizant program officer, is made by NSF.
+
+Proposals will undergo merit review by the appropriate research program. Letters of intent are required so that the HBCU-EiR liaison group can facilitate the establishment of appropriate connections between prospective PIs and the most relevant NSF research program(s) prior to proposal submission. Interdisciplinary proposals are welcome.
+
+Project budgets and duration should be on a scope and scale commensurate with the needs of the project. While HBCU-EiR research proposals do not have budgetary restrictions, with the exception of the cap on allowable costs for equipment purchases and required travel funds, proposing PIs are strongly encouraged to consider the typical funding levels in the secondary unit of consideration by reviewing the appropriate program portfolio of recently funded awards (see individual program web-pages, search for awards at https://www.nsf.gov/awardsearch/advancedSearch.jsp ), or by consulting with the appropriate member of the liaison group. Funding requests outside the typical range should have corresponding detailed budget justifications that demonstrate the relevance of the request to the project.
+
+The most competitive HBCU-EiR proposals will fully address both the intellectual merit and the broader impacts criteria as described in Section VI below. Additionally, the project description should describe how the proposed project will further the PI's research, improve research opportunities for students and serve to improve research capacity at the institution. EiR will consider requests for support for the purchase of research instrumentation or other research tools not already available to conduct the proposed research. Such support should not exceed 30% of the proposed budget.
+
+PIs with active or recently funded HBCU-UP Research Initiation Awards https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5481 are strongly encouraged to consider submission of an HBCU-EiR proposal. PIs with no prior research funding or who have held no external research funding in the last three years should consider applying to the Research Initiation Awards track in the HBCU-UP solicitation prior to submitting an HBCU-EiR proposal. Particularly if the proposed activities would be strengthened by additional preliminary data or proof of concept.
+
+PIs with an established history of successful research funding should apply directly to research programs in NSF directorates and not to the HBCU-EiR mechanism.
+
+EiR proposals must be in fields of science, technology, engineering, mathematics or education research that are typically supported by NSF programs to be found at https://www.nsf.gov/funding/browse_all_funding.jsp.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 30 to 35
+
+Estimated number of awards is pending the availability of funds and the number and quality of proposal submissions.
+
+Anticipated Funding Amount: $28,000,000
+
+Estimated funding amount is pending the availability of funds and the number and quality of proposal submissions.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Proposals may only be submitted by accredited Historically Black Colleges and Universities (HBCUs) that have faculty members who conduct research in science and/or engineering and/or STEM education.
+
+Proposals may only be submitted by accredited Historically Black Colleges and Universities (HBCUs) that have faculty members who conduct research in science and/or engineering and/or STEM education.
+
+Who May Serve as PI:
+
+The Principal Investigator for an Excellence in Research Project must be a full-time faculty member or researcher at the HBCU from which the proposal is submitted.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+An individual may serve as PI or co-PI on only one proposal per deadline.
+
+An individual may serve as PI or co-PI on a maximum of 2 HBCU-EiR awards during the course of their career.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Submission of Letters of Intent is required. Please see the full text of this solicitation for further information.
+
+Letters of Intent: Submission of Letters of Intent is required. Please see the full text of this solicitation for further information.
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

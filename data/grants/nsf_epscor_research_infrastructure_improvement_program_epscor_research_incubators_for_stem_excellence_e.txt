@@ -12,3 +12,186 @@ Status: Cleared
 Posted date (Y-m-d): 2024-12-13
 URL: https://www.nsf.gov/funding/opportunities/e-rise-epscor-research-infrastructure-improvement-program-epscor/nsf25-522
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+EPSCoR Research Infrastructure Improvement Program: EPSCoR Research Incubators for STEM Excellence (E-RISE)
+
+I. Introduction
+
+A. EPSCoR Mission and Goals
+
+The Established Program to Stimulate Competitive Research (EPSCoR) fulfills the mandate of the U.S. National Science Foundation (NSF) to promote scientific progress nationwide. NSF EPSCoR pursues a mission to enhance the research competitiveness of targeted jurisdictions (state, territory or commonwealth) by strengthening science, technology, engineering and mathematics (STEM) capacity and capability through a diverse portfolio of investments from talent development to local infrastructure. NSF envisions EPSCoR jurisdictions as recognized contributors to the national and global STEM research enterprise.
+
+The goals of NSF EPSCoR are to:
+
+Catalyze the development of research capabilities and the creation of new knowledge that expands jurisdictions' contributions to scientific discovery, innovation, learning, and knowledge-based prosperity;
+
+Establish sustainable STEM education, training, and professional development pathways that advance jurisdiction-identified research areas and workforce development;
+
+Broaden direct participation of individuals, institutions, and organizations in the project's science and engineering research and education initiatives;
+
+Effect sustainable engagement of project participants and partners, the jurisdiction, the national research community, and the general public through data-sharing, communication, outreach, and dissemination; and
+
+Impact research, education, and economic development beyond the project at academic, government, and private sector levels.
+
+B. EPSCoR and E-RISE Eligibility Criteria
+
+NSF EPSCoR eligibility is based on a jurisdiction's most recent five-year history of total funds awarded by NSF relative to the Foundation's total research budget for that same period (see EPSCoR eligibility ). An EPSCoR-eligible jurisdiction is defined as a state, U.S. territory, or U.S. commonwealth that previously did not qualify via the established eligibility criteria in any prior year but has become eligible under the current NSF EPSCoR eligibility list. The CHIPS and Science Act ( P.L. 117-167 ) suspends inclusion of new or graduation of existing EPSCoR jurisdictions through fiscal year 2027. Additional details on EPSCoR eligibility are available on the NSF EPSCoR website (see RII eligibility ).
+
+E-RISE seeks to provide investments in promoting and incubating sustainable research infrastructure and capacity to position teams of researchers in the jurisdiction to be leaders in a STEM topical area at a national and/or international level.
+
+For entities to be eligible to apply for E-RISE funding, the EPSCoR-eligible jurisdiction must demonstrate its commitment to developing its research foundation and improving the quality of STEM research conducted at its universities and colleges by having an active Jurisdictional Steering Committee with current by-laws in place to support jurisdiction-wide STEM research and by having a jurisdictional Science and Technology (S&T) Plan the that been officially accepted and approved by the jurisdiction within the past five years.
+
+II. Program Description
+
+A. E-RISE Goals
+
+NSF EPSCoR investments support and build STEM-driven, jurisdiction-wide research activities and incubators with the potential to position the team to be nationally and internationally competitive within a chosen research field. The E-RISE program is designed to provide EPSCoR-eligible jurisdictions with funding to support the ability to competitively engage in high quality research in a scientific field. It also incubates novel, leading-edge ideas that will lead to increased research capacity and competitiveness in the topical area and sustainable improvements in the jurisdiction's academic research infrastructure and human networks related to the chosen topical area. E-RISE projects should include of the breadth of institutions in the jurisdiction, including primarily undergraduate institutions and two-year institutions, and minority-serving institutions and also should link to any NSF active areas of support.
+
+E-RISE aims to support EPSCoR-eligible jurisdictions to:
+
+Build a jurisdiction-wide network of teams of researchers and sectors that conduct and develop high-quality research in a defined STEM disciplinary area or topic of choice that is aligned with jurisdictional priority areas and EPSCoR's mission and goals.
+
+Develop high quality hypothesis or problem-driven research projects, including projects that explore emerging or interdisciplinary research areas with high potential impact, and that will sustain project outcomes beyond the E-RISE funding.
+
+Develop effective STEM education and workforce development opportunities within the research topic(s) that engage a breadth of audiences across the jurisdiction and establish meaningful partnerships at the individual and institutional levels both within the jurisdiction and beyond.
+
+E-RISE projects are intended to result in sustainable infrastructure in a jurisdiction that positions research teams to be leaders in a STEM topical area at a national and/or international level.
+
+B. Key Elements of E-RISE Projects
+
+E-RISE proposals must detail alignment with EPSCoR goals. The project's topical area should be identified and justified by leveraging an assessment of a jurisdiction's needs, challenges and opportunities, the strengths of the proposing team and the jurisdiction's priorities. Those priorities are typically identified in the jurisdiction's S&T Plan, but may also be drawn from other jurisdiction plans, reports, or publications prepared by appropriate authorities or bodies, especially in cases where a jurisdiction's S&T plan has not yet been revised to include research infrastructure priorities.
+
+E-RISE projects should be designed using the six key elements outlined below.
+
+1) Building of a jurisdiction-wide network of individuals, institutions, and organizations to develop high-quality research aligned with jurisdictional scientific priority areas and the EPSCoR mission and goals
+
+The focused research topic of a submission must include a comprehensive and integrative approach that aligns a scientific area of significant regional or jurisdictional importance and an area of recognized national or global interest. Proposals should present high quality hypothesis-driven or problem- driven projects that will contribute to the field and that will prepare the E-RISE network for success beyond the award period. A track record of prior collaboration with proposed collaborators is not required, but there is an expectation that project teams will include individuals with recognized expertise in the topic area and of individuals with a history of successfully collaborating.
+
+To align with jurisdiction scientific priorities, a successful project will have a cohesive and evolving plan that details intended engagement with the jurisdiction's E-CORE team(s) and with other existing E-RISE teams. Project teams must include a networking/partnership manager who will manage project administration and coordinate communications, outreach, and other engagement efforts with the jurisdiction.
+
+2) Collaborative engagement across different institution types and sectors
+
+E-RISE projects must demonstrate meaningful collaboration and engagement such that all team members are valued and welcomed, creatively contribute, and gain mutual benefit from participating. Such efforts are essential for increasing capacity across institution types, retaining the STEM workforce within research ecosystems and for scaling the innovation, creativity and productivity of research ecosystems. E-RISE projects should include and leverage individuals that represent the collective intellectual capacity of the jurisdiction regardless of institution type (e.g., research-intensive institutions, emerging research institutions, primarily undergraduate institutions, minority-serving institutions, two-year colleges) or sector (e.g., non-academic, government, industry). There should be a plan to gather feedback from participants that allows the project leadership to assess its progress and adjust as needed to continuously improve efforts to ensure collaboration and engagement. Submissions must document substantive partnerships that are clear, deep, and meaningful and contribute directly to a collaboration that is well-positioned to produce outcomes that leverage the research capacity of an entire jurisdiction.
+
+In cases where jurisdictions may have limited expertise or resources to support needs in the area, collaboration with additional EPSCoR jurisdictions is allowable, providing the proposing team can justify the need and how the collaboration benefits the home jurisdiction. Likewise, non-EPSCoR and international collaborations may be included with appropriate justification, but EPSCoR funds may not be directed to non-EPSCoR entities or organizations.
+
+3) Development of a skilled workforce that is relevant to the project and its outcomes (Workforce Development)
+
+E-RISE projects should include development of innovative formal and/or informal educational plans to prepare a skilled workforce, at multiple levels (e.g., K-12, two-year college, undergraduate, graduate, university faculty), driven by the future education, workforce development, and labor market needs relevant to the E-RISE proposal's research topic. Furthermore, in response to the anticipated needs of the future workforce, projects should develop strong educational programs in the proposed research areas that can be implemented across institutions of higher learning and directly contribute to building a skilled workforce in research topics associated with the proposal.
+
+4) Incorporation of use-inspired perspectives and societal impact (SI)
+
+E-RISE projects should include components that address explicit connection of the research to its end use, and how this directly connects to innovation and policy, which in turn leads to societal impact. Projects should enable the convergence of multidisciplinary teams, including social scientists, that span innovation research to understand and build the science, scale it up, and orient it within the perspective of socio-economic implications.
+
+5) Building of a pathway to project sustainability
+
+In the third year of the E-RISE award, the project team will be eligible to apply for a renewal project award for an additional three-years of support. The three-year renewal project award will be made based on the project's overall performance to date, satisfactory progress against the project's strategic plan, and the feasibility and potential impact of activities proposed for the renewal project period. E-RISE projects should provide a clear and well-defined pathway toward sustainability and research capacity for the team and the project that extends beyond the initial project award period, as well as beyond the potential renewal award period. The project should identify specific strategies for identifying both existing and emerging priority areas, innovative approaches to securing necessary financial support, and creativity in leveraging other NSF, federal, state, and private resources.
+
+6) Development of a continual improvement cycle
+
+E-RISE projects should provide a project-wide embracement of a cycle of continual process improvement. To facilitate continued assessment, each E-RISE project must include an independent (to the project) evaluator that is able to assess progress towards all project elements outlined above. Additionally, it is strongly recommended that proposals include a preliminary timetable or Gantt chart for achieving project goals, and that proposals include a logic model with a clearly articulated theory of change that identifies appropriate indicators of progress toward the desired outcomes. If awarded, the project will create a comprehensive Strategic Plan that will be used to identify when project milestones and goals are met and the resulting outcomes. The final Strategic Plan will need to be approved by NSF. Outputs and outcomes will be assessed yearly by the project team and, if needed, connections may be made in consultation with NSF and subsequently incorporated not a revised Strategic Plan. Activities and products described by the Strategic Plan will be reported through the EPSCoR Data Outcomes Collection System (EDOCS). Even though the award will be initially made for four years, each year's funding increment is dependent on progress towards the goals of the project and mitigation to challenges encountered as demonstrated through the continuous improvement cycle and reported through annual reporting to NSF EPSCoR.
+
+III. Award Information
+
+Anticipated Type of Award: Continuing Grant
+
+Estimated Number of Awards: 15
+
+Up to 15 awards annually (pending the quality of proposals and availability of funds). More than one award per jurisdiction will be considered pending the availability of funds.
+
+Awards will be funded for four years, with eligibility to request renewal project funding through the submission of a renewal project proposal at the end of year three. Continued funding over the four years of the initial award, and approval for renewal project funding will be contingent upon satisfactory progress as based on the annual reporting requirements and progress towards implementing the strategic plan.
+
+Anticipated Funding Amount: $31,500,000
+
+Up to $31,500,000 annually, to support up to 15 newly funded E-RISE awards. Number of awards is approximate and subject to the availability of funds and quality of the proposals submitted.
+
+Funding requests must be for a duration of four (4) years, with a maximum budget $8,000,000 total for four years and the potential for a renewal project award with a maximum budget of $4,500,000 total for an additional three (3) years. Within the maximum award budget, there is no restriction on the amount requested annually. When applicable, renewal project awards will only be made subsequent to the closure of the original award.
+
+Note that in only rare and exceptional circumstances will no-cost extensions of the initial award or the renewal project award be granted beyond the grantee-approved no-cost extension.
+
+NSF EPSCoR support of a proposed Research Infrastructure Improvement activity should not duplicate other available federal, jurisdictional, or institutional resources and should add significant and sustainable value to increasing the jurisdiction's scientific competitiveness at the national or regional level.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of higher education (PhD-granting and non-PhD-granting), acting on behalf of their faculty members, that are accredited in and have a campus in the United States, its territories, or possessions. Distinct academic campuses within multi-campus systems (e.g., campuses that award their own degrees and have independent administrative structures, admissions policies, and alumni associations) qualify as separate submission-eligible institutions. Campuses that plan to submit a proposal through the Sponsored Projects Office of other campuses or organizations should contact NSF EPSCoR to discuss eligibility as early as possible and at least six weeks before submitting such a proposal.
+
+Distinct academic campuses within multi-campus systems (e.g., campuses that award their own degrees and have independent administrative structures, admissions policies, and alumni associations) qualify as separate submission-eligible institutions.
+
+Campuses that plan to submit a proposal through the Sponsored Projects Office of other campuses or organizations should contact NSF EPSCoR to discuss eligibility as early as possible and at least six weeks before submitting such a proposal.
+
+Non-profit, non-degree-granting domestic U.S. organizations, acting on behalf of their employees, that include (but are not limited to) independent museums and science centers, observatories, research laboratories, professional societies, and similar organizations that are directly associated with the Nation's research or educational activities. These organizations must have an independent, permanent administrative organization (e.g., an office of sponsored research) located in the United States, its territories, or possessions, and have 501(c)(3) tax status.
+
+Tribal Governments with the governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a, et seq.) or Indigenous communities that are not recognized by the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a, et seq.).
+
+E-RISE proposals may only be submitted by organizations within jurisdictions meeting the EPSCoR eligibility criteria .
+
+E-RISE proposals may not be submitted by organizations that serve as the lead organization on a current E-RISE or RII Track-1 award, unless that award is in its final year or under a no-cost extension and will not be renewed. However, individuals employed by said organizations may serve as funded project participants or collaborators in roles other than PI or co-PI on an E-RISE proposal submitted by another organization within the jurisdiction. Such engagement must not be duplicative of currently funded activities, including current EPSCoR Research Infrastructure Improvement awards.
+
+E-RISE submissions should be multi-institutional or multi-organizational, with a lead organization and additional collaborating partner(s), which may include academic and non-academic organizations. E-RISE collaborations must be indicative of building a jurisdiction-wide network of expertise in the chosen research topic.
+
+NSF encourages the participation of Emerging Research Institutions as lead organization and/or collaborative partners in E-RISE submissions:
+
+Emerging Research Institutions are defined in 42 § USC 18901 as institutions of higher education with an established undergraduate or graduate program that have less than $50,000,000 in Federal research expenditures within the year of the most currently available data.
+
+Collaborations with other EPSCoR jurisdictions, non-EPSCoR jurisdictions, and international entities are allowed provided there is appropriate justification outlining a critical need that cannot be fulfilled in the home jurisdiction. However, since EPSCoR funds may only be allocated for activities and personnel within an EPSCoR jurisdiction, participation of collaborators in non-EPSCoR jurisdictions must be as unfunded collaborators.
+
+Who May Serve as PI:
+
+Principal Investigators must hold at least 50% appointments in eligible organizations within an EPSCoR jurisdiction.
+
+Each collaborating organization must be represented by a PI, co-PI, or other senior/key personnel.
+
+Limit on Number of Proposals per Organization: 1
+
+Only one submission per organization is allowed where the organization serves as the lead either on a single proposal with subawards or as the lead on a set of separately submitted collaborative proposals. An organization may be the lead on only one E-RISE award. There is no limit on the number of submissions per jurisdiction.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may serve as PI or co-PI on only one RII Track-1 award, E-RISE submission, or E-RISE award at any given time (unless an existing RII Track-1 or E-RISE award is in its final year, or in a no-cost extension, and has not been selected for a renewal project award). However, an individual may serve as other senior/key personnel, or in roles other than PI or co-PI, on any number of E-RISE submissions or awards.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

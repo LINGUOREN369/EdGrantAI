@@ -21,3 +21,192 @@ Status: Cleared
 Posted date (Y-m-d): 2022-11-21
 URL: https://www.nsf.gov/funding/opportunities/mri-major-research-instrumentation-program/nsf23-519
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Major Research Instrumentation (MRI) Program Instrument Acquisition or Development
+
+I. Introduction
+
+A. Program Goals
+
+The goal of the Major Research Instrumentation (MRI) Program is to increase access to shared-use/multi-user instrumentation for scientific and engineering research and research training. MRI is intended to be a capacity-building program that builds research capabilities across diverse institution types (institutions of higher education and not-for-profit scientific/engineering research organizations). MRI advances the National interest by providing U.S. organizations with instrumentation that opens new opportunities to advance the frontiers in science and engineering research and research training.
+
+The MRI Program provides for state-of-the-art instruments through acquisition from vendors and development of next-generation research instruments that advance the state-of-the-art in science and engineering research. For development proposals the Program seeks to leverage the strengths of private sector partners to build instrument development capacity at MRI submission-eligible organizations.
+
+MRI supports instrumentation across NSF's Directorates and Divisions. The Program focuses on multi-user/shared instrumentation that often supports research needs across disciplinary boundaries. The MRI Program is intended to provide flexibility to the research community to select the most appropriate NSF Division(s) to advance their shared-use instrumentation needs.
+
+MRI encourages proposals that facilitate U.S. leadership in microelectronics research and training. Additionally, a separate Track has been added to MRI for proposal requests that include the acquisition, development, installation, operation, and maintenance of equipment and instrumentation to reduce consumption of helium.
+
+B. Background Information
+
+The America COMPETES Act (ACA) of 2007 (Public Law 110-69) establishes the maximum award limit for MRI proposals commensurate with the appropriated budget for the Program. For the current MRI competition, the maximum amount of an award under the Program is $4 million. Proposals that request funds from NSF in the range $100,000-$4 million will be accepted from all eligible organizations. Proposals that request funds from NSF less than $100,000 will be accepted only from all eligible organizations for the disciplines of mathematics or social, behavioral and economic sciences and from non-Ph.D.-granting institutions of higher education for all NSF-supported disciplines.
+
+Cost sharing requirements for new awards in the MRI Program, previously established by the ACA, are waived for a period of 5 years beginning with the FY 2023 MRI competition. Institutional submission limits for Track 1, Track 2 and Track 3 proposals remain.
+
+Inclusion of voluntary committed cost sharing is prohibited by National Science Board policy.
+
+II. Program Description
+
+A. General Information
+
+MRI Program Scope
+
+An MRI proposal may request support for the acquisition or development of a research instrument or components that when combined serve as an integrated research instrument. An MRI-supported instrument is intended to serve multiple users both in research and in the training of the next generation of instrument users and/or developers. MRI provides support to acquire critical research instrumentation without which advances in fundamental science and engineering research may not otherwise occur. MRI also provides support to develop next-generation research instruments that open new opportunities to advance the frontiers in science and engineering research.
+
+MRI-supported instrumentation is, in general, too costly or not appropriate for support through other NSF programs. An instrument acquired or developed with support from the MRI Program is expected to be operational by the end of the award period to enable the research/research training activities committed to in the proposal.
+
+The MRI Program does not typically fund common, general-purpose ancillary equipment that would normally be found in a laboratory and/or is relatively easily procured by the organization. The Program does not support research, education or outreach activities that are enabled by the requested instrumentation, nor does MRI support requests for multiple independent instruments. MRI also does not support instrumentation used primarily for science and engineering education courses and outreach, or enables research that is primarily outside of NSF-supported fields of science and engineering; however the instrument's use in those activities may occur at a secondary level and serve as broader impacts.
+
+The MRI Program welcomes substantive and meaningful partnerships for instrument development, including partnerships between the academic and private sectors. MRI proposals involving partnerships with applicability to other NSF investments are also encouraged. Such proposals are expected to create innovative advances with wide scientific or commercial impact. Investigations of commercial impact should not be included in MRI proposals but support for such investigations may be sought through, for example, the NSF's Innovation Corps (I-Corps) Team program ( https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504672 ); as MRI development projects mature, applications to this program are strongly encouraged.
+
+An MRI research instrument need not be physically located in a conventional laboratory setting, nor does an instrument need to be "physical" at all. MRI continues to support distributed/networked instruments and cyberinstrumentation that is not appropriate for support through other NSF programs. MRI encourages proposals that facilitate U.S. leadership in microelectronics research and training.
+
+MRI will accept requests that include the purchase, installation, operation, and maintenance of equipment and instrumentation to reduce consumption of helium. Support for such requests will be limited to equipment and instrumentation that serve shared-use research instrumentation. A request may be part of a Track 1 or Track 2 proposal (within the budgetary limits that apply to those tracks) or be requested separately as a "Track 3" proposal. Proposals in Track 1 and Track 2 that request support for instrumentation that require the use of helium must describe plans for the conservation and/or recovery and reuse of helium; plans to submit a separate Track 3 proposal are not sufficient to constitute such plans.
+
+a. Instrument Acquisition
+
+The science and engineering research enterprise relies on the availability of modern instrumentation, much of which can be acquired with little or no modification from existing sources, An MRI acquisition proposal is characterized by a purchase or upgrade of a generally available, yet sophisticated, instrument with little or no modification and risk. MRI does not support the lease/rental of a research instrument, but the purchase of a currently leased instrument at fair market value may be considered.
+
+b. Instrument Development
+
+Advancing the frontiers of science and engineering research also requires new generations of sophisticated research instrumentation with required capabilities that may not yet exist. NSF encourages individual investigators and teams of researchers to apply for instrument development support. A development proposal should demonstrate the need for a new or extensively upgraded instrument with new performance, enabling enhanced or potentially transformative research opportunities, open up new areas of research and research training and/or have potential as a commercial product. "Performance" may include, for example, accuracy, reliability, resolving power, throughput speed, sample capacity, flexibility of operation, breadth of application, user-friendliness, and/or new types of measurement or information gathering. MRI development efforts typically require longer timescales for completion than acquisition efforts, and involve design, construction, testing and commissioning such that the equipment cost may not represent the largest portion of the budget. A development proposal also tends to involve greater risk to complete, requiring a risk mitigation plan.
+
+The MRI program does not consider the acquisition of components simply combined in a new system, the mere purchase of an upgrade, early-phase enabling technology development, or the development of devices, products or techniques/protocols to constitute instrument development. The purchase of a computer(s) and the subsequent porting of application-specific software also does not constitute instrument development. A development project should lead to a stable multi-user instrument at the end of the award period that will serve multiple researchers for an extended period of time.
+
+A development proposal with a commercial partner(s) must be substantive, meaningful and build capacity for instrument development within MRI submission-eligible organizations; a proposal that "outsources" the development to the commercial partner will be considered to be an acquisition proposal by the MRI program. A development proposal must describe the improved performance of the new instrument over existing options and the expected impact of this new instrument on the broader research community.
+
+Additionally:
+
+MREFC-related Proposals: The MRI program will not accept proposals for an instrument that augments an NSF Major Research Equipment and Facilities Construction (MREFC) project unless the project is receiving operations funding outside of the MREFC account. A list of such facilities can be found at https://www.nsf.gov/bfa/lfo/ .
+
+FFRDC-related Proposals: Proposals for the acquisition or development of an instrument involving another Federal agency or one of their Federally Funded Research and Development Centers (FFRDCs) 3 must be submitted as a consortium proposal by an MRI submission-eligible organization as described in item 3(b) under "Eligibility Information". In addition to at least two MRI submission-eligible organizations, the proposal must include the agency/FFRDC (or its managing organization) as a partner in the consortium, even if the role of the FFRDC in the project is solely to house the instrument. An instrument must make unique contributions to the needs of researchers within the consortium and/or establish access to new multi-user research capabilities. Preliminary inquiry to the cognizant MRI point of contact should be made before preparing a proposal for submission.
+
+The MRI program will NOT support proposal requests that include the following:
+
+Construction, renovation or modernization of rooms, buildings or research facilities. This category refers to the space where sponsored or unsponsored research activities (including research training) occur, whether "bricks-and-mortar", mobile, or virtual;
+
+Large, specialized experimental facilities that are constructed with significant amounts of common building material using standard building techniques. In general instruments can be decoupled from the structure or environment that contains them;
+
+General purpose and supporting equipment; this category includes (but is not limited to) general purpose ancillary computers or laboratory instruments. Supporting equipment refers to basic, durable components of a research facility that are integral to its operation (e.g., fume hoods, elevators, laboratory casework, general-purpose computational or data storage systems). It also includes supporting facilities such as vehicle charging stations;
+
+Sustaining infrastructure and/or building systems. This category includes (but is not limited to) the installation of or upgrades to infrastructure related to the supply of power, ventilation, water or research gases, routine multi-purpose computer networks, standard safety features, and other general-purpose systems (e.g., toxic waste removal systems and telecommunications equipment.);
+
+General-purpose platforms or environment. This category may include (but is not limited to) general-purpose fixed or non-fixed structures as well as manned or unmanned vehicles, the purpose of which is to host, support or transport an instrument, which is not an integral part of the research instrument and/or which can be re-purposed for non-scientific uses.;
+
+Instrumentation used primarily for science and engineering education courses.
+
+Proposals seeking support for the above items or activities are subject to return without review (if noncompliance is established prior to review) or decline (if noncompliance is established during the merit review process).
+
+B. Eligible Fields of Science and Engineering
+
+A proposal for a major research instrument should describe the types of research for which it will be used. These should be in fields of science, engineering, mathematics or education research that are typically supported by NSF programs 2 . However, as long as they are in such NSF-supported fields, the specific research projects for which the instrumentation will be used need not be funded by NSF or other agencies of the Federal government.
+
+The MRI Program does not provide support for instrumentation to be used in medical education (such as medical school courses). Instrumentation intended for research with disease-related goals, including work on the etiology, diagnosis or treatment of physical or mental disease, abnormality, or malfunction in human beings or animals, is normally not supported. Instrumentation for research on animal models of such conditions or the development or testing of drugs or other procedures for their treatment also is not eligible for support. However, instrumentation for bioengineering research, with diagnosis- or treatment-related goals that applies engineering principles to problems in biology and medicine, while also advancing engineering knowledge, is eligible for support. Instrumentation for research in bioinformatics and biocomputing, or for bioengineering research to aid persons with disabilities, is also eligible.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant
+
+Estimated Number of Awards: 100
+
+Approximately 100 awards are anticipated depending on the available budget and the number and quality of submissions.
+
+Anticipated Funding Amount: $75,000,000
+
+It is anticipated that approximately $75 million will be available for new awards, pending availability of funds and numbers/quality of proposals, with approximately 1/4 of the available MRI funding expected to support Track 2 awards. NSF strongly encourages MRI proposals that seek to develop next-generation research instruments that open new frontiers of research; therefore up to 1/3 of the MRI awards are expected to support instrument development in either track; within their submission limit, organizations are encouraged to submit proposals for innovative development projects.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Organizations that may apply for the MRI program: Submission Eligibility Proposals may only be submitted by organizations located in the United States, its territories or possessions, as follows. (Campuses or organizations that plan to submit a proposal through the sponsored projects office (SPO) of other campuses or organizations should contact NSF to discuss eligibility as early as possible and at least six weeks before submitting such a proposal.) Institutions of higher education (Ph.D.-granting and non-Ph.D.-granting), acting on behalf of their faculty members, that are accredited in and have their main campus in the United States, its territories or possessions. Distinct academic campuses (e.g., that award their own degrees, have independent administrative structures, admissions policies, alumni associations, etc.) within multi-campus systems qualify as separate submission-eligible institutions. Not-for-profit, non-degree-granting domestic U.S. organizations, acting on behalf of their employees, for example (but not limited to) independent museums and science centers, observatories, research laboratories and similar organizations that are directly associated with the Nation's research activities. These organizations must have an independent, permanent administrative organization (e.g., a sponsored projects office) located in the United States, its territories or possessions, and have 501(c)(3) tax status. To facilitate access to unique instrumentation for a broad user base of U.S. scientists and engineers, and to encourage collaboration and sharing of state-of-the-art instrumentation, the MRI program accepts proposals from consortia of organizations. Consortium proposals may be submitted as follows: 3a. Legally incorporated, not-for-profit consortia that include two or more submission-eligible organizations as described in items (1) and (2) above may submit proposals on behalf of the consortium. The cover sheet must clearly indicate the consortium nature of the proposal in the title. Such a consortium is one with an independent administrative structure (e.g., a sponsored projects office) located in the United States, its territories or possessions and have 501(c)(3) status. 3b. Submission-eligible organizations as described in items (1) and (2) above may submit, as part of their limit, proposals on behalf of consortia. The cover sheet of such a proposal must a) clearly indicate the consortium nature of the proposal in the title, and b) it must identify both a PI and co-PI(s) from at least two MRI submission-eligible organizations (items 1 and/or 2 above) as lead investigators in the consortium. These consortium proposals may also include as partners other U.S. organizations that are not eligible to submit MRI proposals. For-profit commercial organizations, especially U.S. small businesses with strong capabilities in scientific or engineering research or education, are eligible for instrument development support through subawards/subcontracts as private sector partners with submitting organizations; they may not submit proposals. Such partnerships must be substantive and meaningful, and build capacity for instrument development within MRI submission-eligible organization(s). Title to the resulting instrument should be retained by the MRI-eligible performing organization(s). Prospective PIs may contact the cognizant MRI program officer regarding organizational eligibility, and for information on other NSF funding opportunities for instrumentation; see also Section IX for a list of related NSF programs for research instrumentation. Organization Categories All MRI-eligible organizations belong to one of the following three categories: Ph.D.-granting institutions of higher education are accredited colleges and universities that have awarded more than 20 Ph.D. or D.Sc. degrees in NSF-supported fields during the combined previous two academic years. Additionally, any organization that awards Ph.D. or D.Sc. degrees in NSF-supported fields is considered to be a Ph.D.-granting institution if the only degrees it awards in NSF-supported fields are post-Bachelor's degrees. Non-Ph.D.-granting institutions of higher education are accredited colleges and universities (including two-year community colleges) that award Associate's degrees, Bachelor's degrees, and/or Master's degrees in NSF-supported fields, and have awarded 20 or fewer Ph.D./D.Sc. degrees in all NSF-supported fields during the combined previous two academic years. Non-degree-granting organizations are those that do not award Associate's degrees, Bachelor's degrees, Master's degrees, or Ph.Ds. or D.Sc. For the purposes of the MRI program, non-degree-granting organizations also include institutions of higher education that award all of their degrees outside of NSF-supported fields.
+
+Submission Eligibility
+
+Proposals may only be submitted by organizations located in the United States, its territories or possessions, as follows. (Campuses or organizations that plan to submit a proposal through the sponsored projects office (SPO) of other campuses or organizations should contact NSF to discuss eligibility as early as possible and at least six weeks before submitting such a proposal.)
+
+Institutions of higher education (Ph.D.-granting and non-Ph.D.-granting), acting on behalf of their faculty members, that are accredited in and have their main campus in the United States, its territories or possessions. Distinct academic campuses (e.g., that award their own degrees, have independent administrative structures, admissions policies, alumni associations, etc.) within multi-campus systems qualify as separate submission-eligible institutions.
+
+Not-for-profit, non-degree-granting domestic U.S. organizations, acting on behalf of their employees, for example (but not limited to) independent museums and science centers, observatories, research laboratories and similar organizations that are directly associated with the Nation's research activities. These organizations must have an independent, permanent administrative organization (e.g., a sponsored projects office) located in the United States, its territories or possessions, and have 501(c)(3) tax status.
+
+To facilitate access to unique instrumentation for a broad user base of U.S. scientists and engineers, and to encourage collaboration and sharing of state-of-the-art instrumentation, the MRI program accepts proposals from consortia of organizations. Consortium proposals may be submitted as follows: 3a. Legally incorporated, not-for-profit consortia that include two or more submission-eligible organizations as described in items (1) and (2) above may submit proposals on behalf of the consortium. The cover sheet must clearly indicate the consortium nature of the proposal in the title. Such a consortium is one with an independent administrative structure (e.g., a sponsored projects office) located in the United States, its territories or possessions and have 501(c)(3) status. 3b. Submission-eligible organizations as described in items (1) and (2) above may submit, as part of their limit, proposals on behalf of consortia. The cover sheet of such a proposal must a) clearly indicate the consortium nature of the proposal in the title, and b) it must identify both a PI and co-PI(s) from at least two MRI submission-eligible organizations (items 1 and/or 2 above) as lead investigators in the consortium. These consortium proposals may also include as partners other U.S. organizations that are not eligible to submit MRI proposals.
+
+3a. Legally incorporated, not-for-profit consortia that include two or more submission-eligible organizations as described in items (1) and (2) above may submit proposals on behalf of the consortium. The cover sheet must clearly indicate the consortium nature of the proposal in the title. Such a consortium is one with an independent administrative structure (e.g., a sponsored projects office) located in the United States, its territories or possessions and have 501(c)(3) status.
+
+3b. Submission-eligible organizations as described in items (1) and (2) above may submit, as part of their limit, proposals on behalf of consortia. The cover sheet of such a proposal must a) clearly indicate the consortium nature of the proposal in the title, and b) it must identify both a PI and co-PI(s) from at least two MRI submission-eligible organizations (items 1 and/or 2 above) as lead investigators in the consortium. These consortium proposals may also include as partners other U.S. organizations that are not eligible to submit MRI proposals.
+
+For-profit commercial organizations, especially U.S. small businesses with strong capabilities in scientific or engineering research or education, are eligible for instrument development support through subawards/subcontracts as private sector partners with submitting organizations; they may not submit proposals. Such partnerships must be substantive and meaningful, and build capacity for instrument development within MRI submission-eligible organization(s). Title to the resulting instrument should be retained by the MRI-eligible performing organization(s).
+
+Prospective PIs may contact the cognizant MRI program officer regarding organizational eligibility, and for information on other NSF funding opportunities for instrumentation; see also Section IX for a list of related NSF programs for research instrumentation.
+
+Organization Categories
+
+All MRI-eligible organizations belong to one of the following three categories:
+
+Ph.D.-granting institutions of higher education are accredited colleges and universities that have awarded more than 20 Ph.D. or D.Sc. degrees in NSF-supported fields during the combined previous two academic years. Additionally, any organization that awards Ph.D. or D.Sc. degrees in NSF-supported fields is considered to be a Ph.D.-granting institution if the only degrees it awards in NSF-supported fields are post-Bachelor's degrees.
+
+Non-Ph.D.-granting institutions of higher education are accredited colleges and universities (including two-year community colleges) that award Associate's degrees, Bachelor's degrees, and/or Master's degrees in NSF-supported fields, and have awarded 20 or fewer Ph.D./D.Sc. degrees in all NSF-supported fields during the combined previous two academic years.
+
+Non-degree-granting organizations are those that do not award Associate's degrees, Bachelor's degrees, Master's degrees, or Ph.Ds. or D.Sc. For the purposes of the MRI program, non-degree-granting organizations also include institutions of higher education that award all of their degrees outside of NSF-supported fields.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+The MRI Program especially seeks broad representation of groups, institutions, and geographic regions that are underrepresented in STEM disciplines. Proposals from women, underrepresented minorities, persons with disabilities and early-career PIs are encouraged, as are proposals that benefit early-career researchers and proposals with PIs from geographically under-served regions, including EPSCoR jurisdictions. Additionally, proposals with PIs from under-resourced institutions, including from emerging research institutions, where MRI can significantly build capacity for research., are encouraged.
+
+Limit on Number of Proposals per Organization:
+
+Two (2) in Track 1, one (1) in Track 2 and one (1) in Track 3 as described below. Potential PIs are advised to contact their sponsored projects office well in advance of the MRI submission window regarding processes used to select proposals for submission.
+
+The MRI program requires that an MRI-eligible organization may, as a performing organization, submit or be included as a significantly funded 2 subawardee in no more than three MRI proposals in Tracks 1 and 2 as defined below, with no more than two (2) submissions in Track 1 and no more than one (1) submission in Track 2. One (1) additional submission is permitted in the newly defined Track 3. As a result, it is now possible for an institution to submit up to four MRI proposals within the Track limits described above.
+
+Any MRI proposal may request support for either the acquisition or development of a research instrument or an upgrade of an existing research instrument. Within their submission limit, NSF strongly encourages an organization to submit proposals for innovative development projects.
+
+Track 1: Track 1 MRI proposals are those that request funds from NSF greater than or equal to $100,000 1 and less than $1,400,000.
+
+Track 2: Track 2 MRI proposals are those that request funds from NSF greater than or equal to $1,400,000 up to and including $4,000,000.
+
+Track 3 MRI proposals are those that request funds from NSF greater than or equal to $100,000 1 and less than or equal to $4,000,000 for requests that include the purchase, installation, operation, and maintenance of equipment and instrumentation to reduce consumption of helium.
+
+2 An unfunded collaboration does not count against the submission limit. Inclusion as a funded subawardee on a development proposal at a level in excess of 20% of the total budget requested from NSF, or as a funded subawardee, when allowed, on any acquisition proposal, will be counted against an organization's proposal submission limit. Separately submitted linked collaborative proposals count against the submission limit of each of the submitting organizations. However, if a subaward to an organization in a development proposal is 20% or less of the proposal's total budget request from NSF, the subawardee's submission limit will not be affected. For subawards within a linked collaborative proposal, the 20% threshold applies to the budget request from NSF in the proposal containing the subaward(s), not to the combined budget request from NSF for the collaborative project.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

@@ -10,3 +10,146 @@ Status: Cleared
 Posted date (Y-m-d): 2020-05-13
 URL: https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Plant Biotic Interactions
+
+I. Introduction
+
+The Plant Biotic Interactions (PBI) program supports basic research projects aimed at improved understanding of the interactions between plants, microbes and invertebrates, and applied research projects that translate new knowledge into novel methods of sustainably increasing crop yields. Agricultural production systems are increasingly facing challenges from limited availability of resources, such as water and fertilizer, to extreme weather conditions. At the same time, demand for agricultural products is increasing as the global population increases. Production of enough food to meet the demands of the growing world population will require novel approaches to increase crop yields in a sustainable manner. A deeper understanding of the fundamental, complex interactions between plants and their associated microbes and invertebrates is expected to lead to novel cropping systems that support plants with improved capacities to extract nutrients from their environments, ward off diseases and thrive in the face of extreme environmental conditions.
+
+The last three decades have seen enormous growth in our understanding of the molecular mechanisms that mediate the interaction of plants with their symbionts, pests and pathogens. As a result, a sophisticated and fertile conceptual framework now guides research in this field. Deepening mechanistic understanding, combined with rapidly expanding technical capacity to apply what has been learned to crop plants, points to the need to facilitate synergies between basic and applied research in the effort to improve agricultural practice. The PBI program supports basic and translational research as well as projects across this continuum. Previous organizational structures and priorities at NSF/BIO and USDA/NIFA impeded fluid development of practical applications of fundamental knowledge and insights. PBI was created to establish a programmatic environment that encourages intensive pursuit of fundamental understanding while also supporting the translation of the results of basic research to agricultural practice. Combining the expertise and experience of long-standing grant programs at the NSF and USDA/NIFA, PBI supports the best fundamental and applied research in plant biotic interactions. In addition, proposals will be considered that include both basic and translational aspects. Thus PIs need not tailor aims or experimental systems to the specific mission of one or the other agency.
+
+II. Program Description
+
+The PBI program seeks to support important fundamental and translational research on the mechanisms and principles that mediate the interaction of plants with their biotic partners. All types of symbiosis are considered, including pathogenic, commensal and mutualistic relationships. Modes of inquiry include genetic, genomic, biochemical, metabolic and imaging-based approaches at molecular, cellular, organismal, population and community levels. Synergies are sought between modeling and experimental approaches and between exploration of fundamental principles and the deployment of insights gained by these approaches in agricultural settings. Experimental systems should be employed as appropriate to the questions asked, with feasibility of the work an important consideration in merit review. Proposals that apply novel fundamental knowledge to agriculturally relevant systems should include information about the agricultural importance of the system (e.g. economic information) if available.
+
+Central to the program's interests are the mechanisms involved in recognition between plants and their biotic partners and the downstream physiological consequences of that recognition. Approaches include inquiries into genetic and genomic responses, cellular signaling (and, more broadly, signaling architecture), and effects on nutritional, metabolic and developmental processes. In addition to classical systems such as the rhizobia-legume symbiosis, the program supports inquiries into recognition and signaling between pathogenic plants and their hosts, and also the recognition and downstream processes involved in pollen-pistil interactions. The PBI program supports research on immune function, including the role of pattern- and effector-driven immunity; the role of epigenetic processes in regulating immune responses and virulence strategies (including trans-generational inheritance of immune states); circadian regulation of immunity; the role of reactive oxygen species; immune priming and systemic acquired resistance.
+
+In addition to focused inquiries into particular host-microbe or host-invertebrate relationships, questions concerning complex symbioses such as multipartite interactions between viruses, bacteria, fungi and/or host plants, as well as community level processes such as the rules that govern the assembly and function of rhizosphere and phylosphere microbiomes are also relevant to this program.
+
+Much remains to be learned about the components involved in recognition and signaling between plants and their biotic partners. Discovery-based efforts can be useful in this context. However, in order for a proposal to be competitive for funding it is essential that project aims calling for such efforts be thoroughly integrated into a larger project plan focused on gaining insights into mechanisms of general importance or to developing solutions to agriculturally important problems. Similarly, lateral expansion of knowledge gained in the study of model systems is also appropriate, but again, the rationale for such efforts must include an important biological question or a potential translational application in an agricultural setting.
+
+Sponsoring Agency Mission Specific Research
+
+The Plant Biotic Interactions program supports USDA Strategic Goals ( https://www.usda.gov/sites/default/files/documents/usda-fy-2022-2026-strategic-plan.pdf ), especially Goal 2 – Maximize the ability of American agricultural producers to prosper by feeding and clothing the world; Goal 5 – Strengthen the stewardship of private lands through technology and research; Goal 6 – Foster productive and sustainable use of our National Forest System Lands and Goal 7 – Provide all Americans access to a safe, nutritious and secure food supply. The Plant Biotic Interactions program directly aligns with the USDA Research, Education, and Economics Action Plan ( https://www.ree.usda.gov/sites/default/files/2017-08/2016USDA_%20REEProgressReportR2.pdf ) and specifically addresses: Goal 1 – Local and Global Food Supply and Security, Sub goals 1A, 1B, and 1C (which focus on Crop Production, Health, Genetics, Genomics, Genetic Resources, and Biotechnology); and Goal 2 - Responding to Climate and Energy Needs, Sub goals 2A and 2B (which focus on Climate Variability, Bioenergy/Biofuels and Bio based Products) by developing and extending approaches to enhance local and global food supply and security, while also responding to climate and energy.
+
+SUBMISSIONS TO OTHER SOLICITATIONS THAT ARE REVIEWED BY PBI
+
+Research in Undergraduate Institution (RUI) Proposals
+
+PBI will accept Research in Undergraduate Institution (RUI) proposals. Information on the scope of RUI projects and the format of these proposals can be found at https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5518 .
+
+Research Coordination Network (RCN) Proposals
+
+PBI will accept Research Coordination Network (RCN) Proposals. Information on the scope of RCN projects and the format of these proposals can be found at https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=11691 .
+
+ADDITIONAL FUNDING OPPORTUNITIES
+
+Conference Proposals and Supplemental Funding: Please contact a PBI/NIFA and/or PBI/NSF program director for advice on applying for conference or supplementary support.
+
+EA rly-concept G rants for E xploratory R esearch and Grants for RAPID Response Research: EAGERs and RAPIDs on topics relevant to PBI should be submitted following the standard guidelines by selecting "Proposal and Award Policies and Procedures Guide” on the proposal coversheet and then selecting the applicable type from the pull-down menu.
+
+CAREER Proposals: Although not covered by this solicitation, CAREER proposals submitted on topics relevant to PBI will be reviewed along with those submitted in response to this solicitation. Additional CAREER proposal information can be found here: https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503214 .
+
+Supplemental Funding Requests
+
+Please note that supplemental funding is intended for unanticipated opportunities only and should be justified on this basis. Requests for support of planned Research Experiences for Undergraduates (REU), Research Experiences for Teachers (RET), Research Assistantships for High School Students (RAHSS), and Research Opportunity Awards (ROA) activities should be included in the proposal budget. See https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517 for additional guidance on budget preparation.
+
+International Activities
+
+NSF and USDA/NIFA are interested in promoting international cooperation that links scientist and engineers from a range of disciplines and organizations to solve significant global agricultural challenges. Proposals including international collaboration are encouraged when those efforts enhance the merit of the proposed work by incorporating unique resources, expertise, facilities or sites of international partners. The U.S. team's international counterparts generally should have support or obtain funding through other non-NSF sources.
+
+Investigators may also request supplemental funding for projects already supported by NSF. Investigators should consult early in the application process with both the disciplinary program manager and the International Science and Engineering (ISE) country program manager. ISE works with all NSF areas to co-fund new awards and supplements that meet these criteria. Information about additional international funding opportunities and links to ISE country program manager contacts may be found at https://www.nsf.gov/od/iia/ise/index.jsp . PBI proposals may also participate in funding through the U.S.-Israel Binational Science Foundation (BSF, https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf17120 ).
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 25 to 30
+
+Anticipated Type of Award: Continuing Grant or Standard Grant
+
+Estimated Number of Awards: 25 to 30 awards per year, pending availability of funds
+
+Anticipated Funding Amount: $18,500,000
+
+Approximate Funding Amount: $18,500,000 depending on availability of funds
+
+$10.5M from NSF for new standard or continuing grant awards, and approximately $8M from USDA/NIFA for new awards. Both estimates depend on availability of appropriations. USDA/NIFA will support projects for up to four years in duration. Although there are no formal upper or lower limits to award amounts, they typically range from $50,000 to $300,000 per year, with durations of two to four years (and five years for CAREER awards). Enactment of additional continuing resolutions or an appropriations act may affect the availability or level of funding for this program.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research labs, professional societies and similar organizations in the U.S. associated with educational or research activities.
+
+USDA/NIFA Eligible applicants include: (1) State agricultural experiment stations; (2) colleges and universities (including community colleges offering associate degrees or higher); (3) university research foundations; (4) other research institutions and organizations; (5) Federal agencies, (6) national laboratories; (7) private organizations or corporations; (8) individuals who are U.S. citizens, nationals, or permanent residents; and (9) any group consisting of 2 or more entities identified in (1) through (8). Eligible institutions do not include foreign and international organizations.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or Co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: For awards made by NSF, Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. For awards made by USDA/NIFA, Section 1462(a) and (c) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (NARETPA) limits indirect costs for the overall award to 30 percent of Total Federal Funds Awarded (TFFA) under a research, education, or extension grant. The maximum indirect cost rate allowed under the award is determined by calculating the amount of indirect costs using: the sum of an institution’s negotiated indirect cost rate and the indirect cost rate charged by subawardees, if any; or 30 percent of TFFA (TFFA = Field K., Total Costs and Fee, on SF-424 R&R Budget). The maximum allowable indirect cost rate under the award, including the indirect costs charged by the subawardee(s), if any, is the lesser of the two rates. See Part V section 7.9 of the NIFA Grants.gov Application Guide for further indirect cost information. See webpage at http://nifa.usda.gov/indirect-costs for indirect cost options.
+
+Indirect Cost (F&A) Limitations:
+
+For awards made by NSF, Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply.
+
+For awards made by USDA/NIFA, Section 1462(a) and (c) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (NARETPA) limits indirect costs for the overall award to 30 percent of Total Federal Funds Awarded (TFFA) under a research, education, or extension grant. The maximum indirect cost rate allowed under the award is determined by calculating the amount of indirect costs using:
+
+the sum of an institution’s negotiated indirect cost rate and the indirect cost rate charged by subawardees, if any; or
+
+30 percent of TFFA (TFFA = Field K., Total Costs and Fee, on SF-424 R&R Budget).
+
+The maximum allowable indirect cost rate under the award, including the indirect costs charged by the subawardee(s), if any, is the lesser of the two rates.
+
+See Part V section 7.9 of the NIFA Grants.gov Application Guide for further indirect cost information. See webpage at http://nifa.usda.gov/indirect-costs for indirect cost options.
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

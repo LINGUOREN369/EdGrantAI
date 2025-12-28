@@ -10,3 +10,128 @@ Status: Cleared
 Posted date (Y-m-d): 2024-12-06
 URL: https://www.nsf.gov/funding/opportunities/let-life-environments-through-time/nsf25-517
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Life and Environments Through Time (LET)
+
+I. Introduction
+
+The Life and Environments through Time (LET) Program is part of the Division of Earth Sciences (EAR) within the Directorate for Geosciences (GEO). EAR supports investigations of the evolution, processes, and properties of Earth through this and three other programs:
+
+Chemical Evolution of the Solid Earth and Volcanology
+
+Structure and Physics of the Solid Earth
+
+Water, Landscape, and Critical Zone Processes.
+
+EAR also provides support for instrumental and observational infrastructure, cyberinfrastructure, and educational and outreach activities. Projects may employ any combination of field, laboratory, and computational studies with observational, theoretical, or experimental approaches.
+
+Interdisciplinary and multidisciplinary proposals may require joint review within EAR, GEO, or other NSF Directorates, and may be considered for joint support. Projects should be submitted to the solicitation most strongly aligned with the primary objectives or hypotheses regardless of methods.
+
+EAR invites submission of collaborative projects that articulate a fundamental overarching Earth Science question that is addressed through integrative hypothesis- or question-driven research. The project also should lead to outcomes that have potential to reveal new principles underlying the function or interaction of Earth systems.
+
+II. Program Description
+
+LET projects address research questions by integrating geobiology, geochemistry, paleobiology, paleoecology, sedimentology, and sedimentary geology archives, proxies, techniques, and concepts. LET welcomes projects that challenge the conceptual bases, have broad implications, and inform future research directions on these disciplines.
+
+Examples of topics within the broad scope of LET include scientifically and societally relevant areas of interest. These include but are not limited to:
+
+Patterns and processes related to the origin, ecology, and evolution of life on Earth.
+
+Biological, geochemical, mineralogical, sedimentological, and geological processes responsible for forming and shaping the Earth's sedimentary lithosphere and its materials.
+
+Paleoclimate, climate proxy, and model-based studies advancing knowledge of the drivers, mechanisms, and feedback systems of Earth’s climate.
+
+Development of geochemical and geobiological proxies, tools, methods, and models that will advance the understanding of life and environments through time.
+
+Biological, geochemical, and physical processes through which critical minerals and materials are mobilized, concentrated, and separated.
+
+Research that aims to better understand geohealth and the effects of environmental pollution, geochemical exposures, and climate change on human health and well-being.
+
+Research on bioeconomy to address regional or global societal challenges such as climate change, carbon sequestration, bioremediation, and environmental sustainability.
+
+Studies on conservation paleobiology to advance knowledge on environmental and human drivers of ecological change.
+
+Studies of geological hydrogen that advance knowledge on geochemical and microbial processes that stimulate or enhance hydrogen production from geological materials and reservoirs.
+
+Proposals with research that crosses programmatic or cluster boundaries at the U.S. National Science Foundation (NSF) are welcomed and encouraged. Principal Investigators (PIs) are encouraged to contact the cognizant program directors before submission of proposals that may cross program boundaries. LET commonly co-reviews proposals with other NSF programs, sections, and clusters. Within the Geosciences Directorate, common co-review partners include EAR’s Water, Landscapes, and Critical Zone (WaLCZ) and Infrastructure programs, the Division of Ocean Science’s Marine Geosciences and Ocean Sections, and all programs within the Office of Polar Programs. Proposals on scientific research with environmental and industrial applications can be co-reviewed with the Environmental Engineering and Sustainability Cluster of the Directorate for Engineering. LET also commonly co-reviews with Clusters in the Division of Environmental Biology in the Directorate for Biological Sciences, and with the Biological Anthropology Program within the Directorate for Social, Behavioral, and Economic Sciences.
+
+Proposals for community workshops that can guide the community on new research topics and grand challenge questions are encouraged, and those that have plans to broadly disseminate the discussions and outcomes will be prioritized.
+
+The LET Program supports a wide range of broader impacts activities. These broader impacts activities should be developed within the context of the people involved in the project and the mission, goals, and resources of the organizations involved. The expertise of the collaborators, the proposal budget, and budget justification should reflect this integration. Examples of activities that may be proposed include, but are not limited to, broadening participation in the geosciences, scientific infrastructure enhancement, public engagement, establishing new or expanding partnerships with industry, government, academic, and international institutions, and translating research to benefit broader societal needs.
+
+In addition to opportunities described in this LET solicitation, LET also funds proposals submitted in response to the Faculty Early Career Development ( CAREER ) Program, Research Coordination Networks ( RCN ), EMpowering BRoader Academic Capacity and Education ( EMBRACE ) Program and Mid-Career Advancement ( MCA ) solicitations. The LET Program also accepts Rapid Response Research (RAPID), EArly-concept Grants for Exploratory Research (EAGER), Planning, and Conference proposal requests (see guidance in Chapter II.F of the PAPPG) and supplemental funding requests requests (see guidance in Chapter VI.E of the PAPPG); these additional proposal submissions require approval from an LET program director prior to preparing a submission. Where LET participates in cross-agency competitions, such as the Paleo Perspectives on Present and Projected Climate ( P4CLIMATE ) competition, proposals that are suitable for review within these competitions must be submitted directly to these solicitations rather than to LET. If there is doubt as to the appropriate destination for a proposal, prospective PIs are encouraged to contact the LET program directors prior to submission. LET welcomes inquiries on any proposal type prior to submission.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 50
+
+Anticipated Funding Amount: $14,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

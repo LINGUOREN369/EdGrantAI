@@ -43,3 +43,162 @@ Status: Cleared
 Posted date (Y-m-d): 2025-08-06
 URL: https://www.nsf.gov/funding/opportunities/idss-integrated-data-systems-services/nsf25-544
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Integrated Data Systems & Services (IDSS)
+
+I. Introduction
+
+The transformation of research data to knowledge and discovery at national scale requires high-performing data systems and services that are broadly accessible and reliable for the research community. Such systems and services must be functionally well-defined; be able to interface seamlessly with other external systems as appropriate, such as scientific instrumentation, repositories, and computing resources; support the ability of researchers to adhere to scientific openness and reproducibility aims; and be able to evolve with changing research methods and technologies.
+
+A growing number of national efforts and agency initiatives such as the NSF-led interagency National Artificial Intelligence Research Resource (NAIRR) Pilot are actively developing highly performant and interconnected data infrastructure. Recent federal- reports 12 have emphasized the need for coordinated planning and deployment of operational data infrastructure to broadly support the research and education community.
+
+Through programs such as CSSI, CC*, and other investments, NSF has long supported the development of innovative foundational and application-specific cyberinfrastructure resources and systems to address data-intensive research needs at the campus, regional, and community scales. The primary goal of the IDSS program is to support national-scale operational data cyberinfrastructure that broadly advances and enables data- and artificial intelligence-driven research for many communities. Additional goals include:
+
+defining expectations for design, development and operational performance of data systems that provide critical services to the research and education community;
+
+enabling research and education communities to maximize the value, use, and reuse of research data;
+
+increasing awareness and emphasis on addressing the end-to-end data lifecycle, and facilitating the user journey by providing stable and easily usable services for scientific end users; and
+
+developing the workforce of capable data infrastructure developers and managers.
+
+II. Program Description
+
+Scope. The IDSS program supports national-scale performant operational systems and services that broadly facilitate open, data-intensive and artificial intelligence-driven science and engineering research, innovation, and education. IDSS projects should be aimed to broadly impact the science and engineering research and education community in a transdisciplinary and demonstrably multi-disciplinary way, enabling researchers and educators from diverse domains and disciplines to utilize research data, integrate data, and connect data sources with other scientific resources such as computing resources, facilities, instrumentation and repositories. Projects that aim to primarily benefit a single science discipline, domain, project, or application are not supported.
+
+Emphasis on integration. The IDSS program supports projects that demonstrably contribute to the vision of an integrated, federated and accessible advanced research cyberinfrastructure ecosystem that meets the Nation’s foundational needs for world-leading data, computing, and networking capabilities. Projects are expected to leverage and interconnect with other existing operational cyberinfrastructure systems and services and other data and relevant facilities, whether supported by NSF or by other entities, as appropriate to project objectives. Inline with this emphasis, all proposed projects, including collaborative projects, must be submitted as a single proposal in which a single award is being requested (PAPPG Chapter II.E.3.a). The involvement of partner organizations should be supported through subawards administered by the submitting organization.
+
+Scientific data lifecycle. The IDSS program aims to develop a portfolio of projects that collectively enable data utilization pathways and workflows across the end-to-end scientific data lifecycle. The IDSS program has an inclusive and flexible view of the scientific data lifecycle that may include stages and functionalities such as acquisition, transfer, management, exploration, analysis, curation, sharing, synthesis, discovery, and archiving, as may be defined by a project or community. A given IDSS project need not support all stages of a reference data lifecycle but must be clear about how the project enables one or more scientific pathways through all or few stages of a lifecycle.
+
+Storage and curation. The IDSS program supports integrated resources, services and environments to enable hosting, manipulation of, and workflows for research data. The IDSS program does not support costs for permanent long-term hosting, storage, archival, and curation of the research data itself. Projects that involve partnerships, fee-based models, or other such mechanisms to support these long-term data storage and curation costs are encouraged.
+
+Innovation and adaptability: A portion of an IDSS project is expected to be dedicated to innovation and improvement of operational services over the lifetime of the award. Proposed projects designed to enable research communities to build customized tools and capabilities upon the IDSS-supported project infrastructure are also encouraged. Projects that have the goal of cyberinfrastructure innovation without operations expectations and plans are not supported.
+
+Relationship to other funding programs. Proposed IDSS projects should not be appropriate for funding by any other current NSF programs or solicitations. The IDSS program is complementary to other production/operations-oriented national-scale cyberinfrastructure programs supported by the Office of Advanced Cyberinfrastructure (OAC) including the Advanced Systems and Services Program (ACSS) and the ACCESS coordinated services program. ACSS and ACCESS address advanced computing needs of the broad S&E community; the IDSS program focuses on data infrastructure. The IDSS program is also complementary to the OAC CSSI and CC* programs. CC* emphasizes institutional and regional capabilities and CSSI primarily supports data and software infrastructure development; IDSS supports national-scale operational projects. Prospective proposers of pilot- and prototype-stage projects should consider other OAC programs such as CSSI or other relevant NSF programs.
+
+Programmatic areas of interest
+
+Current areas of particular interest to the IDSS program include, but are not limited to and may involve a combination of:
+
+Projects that facilitate the connection of data sources with advanced computing resources and analytic environments in integrative ways for an appropriately broad array of use cases.
+
+Projects that address the emerging data-intensive workflows and data integration needs of artificial-intelligence (AI)-driven research (including research about AI and research using AI capabilities).
+
+Projects that focus on enabling one or more specific points in the data lifecycle applied at a national scale.
+
+Projects that enhance the ability of the research and education community to access and utilize open research data supported by other federal agencies are welcome, provided that such projects are not primarily benefitting a single science discipline, domain, project, or application, and are complementary to, not overlapping with investments being made by those other agencies for similar purposes.
+
+Proposal categories and descriptions
+
+IDSS offers the following three categories of proposals:
+
+Category I. Development, deployment, and operation of novel national-scale integrated data systems and services, which may include interfacing with or leveraging other existing capabilities, systems and services as appropriate to the project.
+
+Between $10 million to $30 million for up to 5 years. Potentially renewable.
+
+Category II. Transition of established smaller scale, regional, pilot, or prototype data-focused systems and services to national-scale production/operational quality/level. This may also include enhancement and expansion of existing national-scale data-focused operational systems and services.
+
+Up to $9 million for up to 3 years. Potentially renewable.
+
+Category III. Planning grants for future potential development/deployment or transition/enhancement IDSS projects.
+
+Up to $500,000 for up to 2 years. Not renewable.
+
+Category I projects. Projects proposed in this category are intended to result in deployment and operation of novel national-scale data-focused systems and services to support a broad range of data-intensive and AI-driven research use cases. Proposals that are effectively continuations of existing data infrastructure projects with minimal changes are not supported and may be returned without review. The proposed data systems and services must be clearly motivated by identified AI and/or other use cases representing the broad disciplinary and geographically diverse research and education communities, and analysis of current and future demand for associated data usage and utilization patterns. Projects are expected to leverage and interconnect with other existing operational cyberinfrastructure systems and services and other data and relevant facilities, whether supported by NSF or by other entities, as appropriate to project objectives. Projects are also encouraged to explore novel models for future dynamic national cyberinfrastructure federation.
+
+Category II projects. Projects proposed in this category have similar expectations as Category I projects and are intended to result in similar outcomes as Category I projects. While Category I projects may result in entirely new systems and services or compositions of systems and services, Category II projects are expected to build upon an established existing performant project with defined capabilities, systems and services, which may include pilots and prototypes, that are demonstrably successful at serving an array of users at a smaller-than-national scale and which seeks to scale up to a national operational infrastructure. Category II projects may also include targeted enhancements and expansions of existing national-scale data-focused operational systems and services.
+
+Category III projects. Projects proposed in this category are intended as planning grants to develop plans and prepare for proposing future Category I or Category II IDSS proposals. Category III proposals cannot include any technical development or operational activities. Activities to engage targeted research/user communities are supported and encouraged as part of a planning effort.
+
+The source code of any software developed under an IDSS project must be made publicly available and assigned an identified open-source software license.
+
+Potential for renewal awards.
+
+In Category I or Category II, there is a possibility of a renewal award contingent upon availability of funds and the successful evaluation of the project’s performance as well as NSF merit review of the renewal proposal. Contingent on a successful third-year review, a Category I project may be invited by NSF to submit a renewal proposal for up to five years commencing at the conclusion of the original award. Contingent on a successful second-year review, a Category II project may be invited by NSF to submit a renewal proposal focused on operations and innovation during operations for up to five years commencing at the conclusion of the original award. Note that renewal proposals will need to be developed as fully as though the proposer were applying for the first time and should cover all the information required in a proposal for a new project, including Results from Prior NSF Support. Category III awards are not eligible for renewal.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Cooperative Agreement
+
+Estimated Number of Awards: 3 to 9
+
+The estimated number of awards in each Category is as follows: 1 to 2 (Category I), 1 to 2 (Category II), 1 to 5 (Category III).
+
+The type of award in each category is as follows: Cooperative Agreement (Category I and II), Standard Grant (Category III)
+
+All projects must be submitted as single proposals. Collaborative research proposals are not permitted and will be returned without review.
+
+Anticipated Funding Amount: $500,000 to $60,000,000
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs): Prospective proposers from other Federal Agencies and FFRDCs, including NSF sponsored FFRDCs, must follow the guidance in PAPPG Chapter I.E.2 regarding limitations on eligibility.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization: 1
+
+An organization may submit only one proposal as lead institution for each of Category I and Category II for each solicitation deadline but may be a subawardee on other Category I and II proposals responding to this solicitation. The restriction to no more than one submitted proposal as lead institution is to help ensure that there is appropriate institutional commitment necessary for responsible oversight, by the potential recipient institution, of a national data infrastructure resource. This restriction does not apply to Category III proposals.
+
+In the event that any organization exceeds this limit, any proposal submitted to this solicitation from an organization after the first proposal is received at NSF will be returned without review. No exceptions will be made.
+
+Category III. There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may participate as PI, co-PI, or other Senior Personnel on at most one proposal across Categories I and II for each solicitation deadline. Thus, if an individual participates on a Category I proposal, the individual may not participate in a Category II proposal, or vice versa. Note that any individual whose biographical sketch is provided as part of the proposal will be considered as Senior Personnel in the proposed activity, with or without financial support from the project. Other staff who will be funded under an IDSS proposal are not subject to this restriction.
+
+This restriction does not apply to Category III proposals.
+
+In the event that any individual exceeds this limit, any proposal submitted to this solicitation with this individual listed as PI, co-PI, or Senior Personnel after the first proposal is received at NSF will be returned without review. No exceptions will be made.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

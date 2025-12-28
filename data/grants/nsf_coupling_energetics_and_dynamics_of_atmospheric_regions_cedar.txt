@@ -10,3 +10,86 @@ Status: Cleared
 Posted date (Y-m-d): 2024-11-13
 URL: https://www.nsf.gov/funding/opportunities/cedar-coupling-energetics-dynamics-atmospheric-regions/nsf25-510
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR)
+
+I. Introduction
+
+The Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR) Program is a community-guided, upper atmospheric research program in the Geospace Cluster. The goal is to understand the behavior of atmospheric regions from the middle atmosphere upward through the thermosphere and ionosphere into the exosphere in terms of coupling, energetics, dynamics, and chemistry and composition on regional and global scales. These processes are related to the sources of perturbations that propagate upward from the lower atmosphere as well as to solar radiation and particle inputs from above and are controlled by various dynamical and electro dynamical processes in different geographical regions. Both external and internal processes in different regions are also strongly coupled and can influence each other's responses. Additional elements include comparative aeronomy studies of other planets' atmospheres in our solar system directly relevant to Earth's upper atmosphere.
+
+II. Program Description
+
+The objectives of the CEDAR program include the study of 1) dynamics, energetics and comparative aeronomy of the upper atmosphere of the Earth and other planets in our solar system; 2) coupling among the mesosphere, ionosphere, thermosphere, and exosphere; 3) horizontal coupling between adjacent geographic regions; 4) and impacts from lower atmosphere, magnetosphere and solar radiation and, (5) utilization of novel methods (for example, artificial intelligence and machine learning tools), open data and open science practices to advance the upper atmospheric research. Proposers are strongly encouraged to take a systems perspective of geospace in their projects and explore innovative ways to integrate observation and modeling to answer science questions. Observational datasets from any relevant sources may be included but data from NSF funded observations are particularly welcome.
+
+CEDAR projects utilize individual or networks of instruments as well as facilities to explore coupling and transport effects between different altitudes at local, regional and/or global scales. Sophisticated modeling, data assimilation methods and research tools such as AI and ML methods, open data and open science practices are within the scope of this solicitation.
+
+The CEDAR Program has a strong emphasis on supporting participation by students and early career scientists who benefit from the interdisciplinary nature of the research and the multi-faceted approach involving theory, modeling, simulations, instrument development, data analysis, field measurements and laboratory research activities.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 10 to 15 annually pending availability of funds
+
+Anticipated Funding Amount: $3,000,000 annually pending availability of funds
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 2
+
+Only two research proposals per investigator, either as a PI, co-PI, or in a sub-award, are allowed per target date in the CEDAR Program.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

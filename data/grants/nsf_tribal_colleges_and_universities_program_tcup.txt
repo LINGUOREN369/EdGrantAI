@@ -22,3 +22,150 @@ Status: Cleared
 Posted date (Y-m-d): 2021-06-23
 URL: https://www.nsf.gov/funding/opportunities/tcup-tribal-colleges-universities-program/nsf21-595
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Tribal Colleges and Universities Program (TCUP)
+
+I. Introduction
+
+The National Science Foundation (NSF) supports research at the frontiers of knowledge, across all STEM fields and all levels of STEM education. NSF enables innovation and discovery in STEM by educating and preparing a STEM workforce motivated to participate at the frontiers of science and STEM industries. NSF is committed to ensuring that the vibrance of the nation's cultures is well represented in the STEM workforce and that individuals engaged in STEM fields are trained to participate fully in the global research enterprise, as articulated in the National Science Board's Vision 2030.
+
+To meet the challenges presented by the nation's increasing STEM needs, the Tribal Colleges and Universities Program is committed to enhancing the quality of STEM education and research at federally recognized Tribal Colleges and Universities, and Alaska Native-serving and Native Hawaiian-serving institutions that meet federal enrollment criteria for minority-serving status (please see eligibility section). TCUP seeks to support STEM education initiatives that prepare a STEM workforce that is broadly inclusive and capable of performing in an international research and development environment, thus ensuring that the U.S. remains a global STEM leader.
+
+In alignment with the Directorate for STEM Education (EDU) and Division of Equity for Excellence in STEM (EES) goals, TCUP has the following funding priorities: successful advancement of students through critical transition points between high school and college, between two-year and four-year programs or institutions, between undergraduate and graduate studies, and into the workforce; innovation in instruction and curriculum development; providing access to original STEM research experiences for TCUP students; and promoting STEM entrepreneurship and community collaborations. Proposals submitted to TCUP are encouraged to address one or more of these priorities.
+
+Improving student performance in science and mathematics requires an adequate supply of well-qualified STEM teachers, and community colleges play a vital role in preparing these teachers, particularly among under-served populations. TCUP strongly encourages PIs to address STEM teacher preparation at either the associate or baccalaureate level to help increase the number and quality of future science and mathematics teachers.
+
+II. Program Description
+
+Paul Boyer wrote in Tribal Colleges Shaping the Future of Native America , "tribal colleges provide essential services that enrich the communities surrounding them." 2 Since their founding, TCUs have provided their communities with essential services, including technical and vocational job skills training, lower-division liberal arts instruction, paraprofessional preparation, college preparation, educational support to pre-college students and teachers, informal instruction, baccalaureate degree programs of study, and graduate programs of study. TCUs are also incubators, repositories, and curators of culture, language, and history. They are the hub of STEM teaching, STEM research, and STEM education research that is important to Native communities, including environmental quality and food sovereignty. They are the focal points for STEM and are resources for tribal governments for environmental, technological, economic, and educational policy matters.
+
+TCUP promotes continued quality and improvement in science (including sociology, psychology, anthropology, economics, statistics, and other social and behavioral sciences as well as natural science and education disciplines), technology, engineering and mathematics research, instructional, and outreach programs at Tribal Colleges and Universities, Alaska Native-serving institutions and Native Hawaiian-serving institutions.
+
+TCUP support is available for projects that build capacity in instruction and research, or that build upon that capacity to partner with the community. TCUP allows proposers flexibility and creativity in the design of efforts to improve STEM education. Proposed activities should result from analysis of institutional needs, address institutional and NSF goals, and have the potential to result in significant and sustainable improvement of STEM programs. TCUP emphasizes the expansion of course and degree offerings; development of research opportunities, faculty skills, and STEM-education technologies; and the integration of community goals and traditional knowledge with mainstream STEM education and research. Partnerships among institutions of higher education and collaborations with K-12 schools, tribal government units, or other relevant groups are encouraged.
+
+The mission of TCUP from its inception has been to build capacity for improved STEM instruction or increased STEM instructional capacity, including curricular offerings, in TCUP Institutions. NSF recognizes that the TCUP investment has created a pool of knowledge that includes such areas as the influences upon learning among indigenous populations and the effect of increasing STEM educational opportunities upon communities. The following funding strands are designed to meet specific needs of the TCUP STEM enterprise.
+
+Instructional Capacity Excellence in TCUP Institutions (ICE-TI) , TCUP's signature strand, provides support to design, implement, and assess comprehensive transformative institutional efforts to strengthen STEM education and research at eligible institutions. ICE-TI projects create and/or adapt and assess innovative models and materials for teaching and learning in STEM, embody knowledge about how students learn most effectively in STEM teaching and learning activities, and bring STEM disciplinary advances into the undergraduate or graduate experience. Projects that may result in new STEM degrees at the associate, baccalaureate, or master's levels are encouraged. Proposers are encouraged to analyze the STEM strengths and potential of the institution. Based on this analysis, they should design appropriate innovative educational strategies to increase the capacity and effectiveness of the institution to attract, retain, and educate students in STEM. The students should graduate prepared to enter the STEM workforce and/or pursue further study at the baccalaureate or graduate level.
+
+Dissemination of successful models, effective methods, and innovative materials for educating STEM students are critical aspects of ICE-TI projects. Activities that include pre-college students and educators, particularly those designed to improve interest in and readiness for post-secondary STEM studies, are particularly encouraged. Such activities include efforts to improve the transition from pre-college to undergraduate studies, such as structured series of summer intensive activities and projects, out-of-school enhancement activities, dual-credit projects between TCUP institutions and their area high schools, and in-service training for education professionals.
+
+Previous TCUP support has resulted in significant development of STEM instructional capacity, and institutions that have received multiple TCUP implementation awards have benefited from the multiplier effect of that funding. Thus, the program encourages new proposals that capitalize upon the previous investments to establish new inquiries that can lead to discovery critical to and unique to TCUP communities. Such areas of investigation may include research on factors that affect the reservation or similar community, such as water and air quality, environmental variabilities, anthropological and paleontological artifacts, reintroduction and reestablishment of indigenous plants and animals, economics, and societal influences and impacts. It can also include long-term investigations into the role STEM education plays in unique populations of learners. Work conducted as a TCUP investigation must constitute original hypothesis-driven research. Successful proposals must articulate research questions that are relevant to the investigation and must include methods and metrics by which the questions will be studied. Proposals must include a dissemination plan that includes publication in peer-reviewed journals.
+
+The Targeted STEM Infusion Projects (TSIP) strand provides support to achieve a short-term, well-defined goal to improve the quality of STEM education at eligible institutions. Targeted STEM Infusion Projects might develop innovative learning experiences in emerging fields of science and engineering and add traditional knowledge to the scope or content of STEM courses. Projects might develop creative uses of cyberinfrastructure for instruction in STEM and next generation STEM undergraduate or graduate programs, including artificial intelligence or industries of the future. Typically, projects are focused on one activity within a single STEM department; however, interdisciplinary and cross-disciplinary projects are encouraged. Projects that have an emphasis on the maker movement, including components necessary to create maker spaces (e.g., equipment, materials, supplies), are eligible activities for TSIP support. TSIPs are encouraged to include pre-college students when appropriate.
+
+Competitive proposals will clearly describe the STEM education innovation that the project will realize. Appropriate short-term goals should be easily measured by appropriate metrics and attainable within the project period.
+
+TCUP for Secondary and Elementary Teachers in STEM (TSETS) - TSETS provides support for TCUP institutions to provide professional development for in-service K-12 STEM teachers practicing within a TCUP eligible institution's local service area. Project activities must include strong STEM content and concepts and may include (but not required) relevant pedagogy, for professional development that is provided during the academic year, summer intensive programs, summer research opportunities, or other means. To facilitate mutual peer mentoring, at least two teachers from each participating school should be included in the professional development. If two teachers from each school are not available, virtual mentoring arrangements can be supported if they are developed in advance and described in the proposal.
+
+In addition to the common requirements for all TCUP proposals, TSETS Proposals must include the following:
+
+A plan for retaining each participant in the instructional training components for at least three years, although research opportunities can be designed and offered for shorter or fewer commitments,
+
+A project leadership team that includes at least three individuals, including a TCU STEM faculty member, a TCU education faculty member, and a local K-12 STEM teacher leader.
+
+TSETS budgets may include the following:
+
+Teacher stipends, travel, equipment, and instructional materials.
+
+Equipment and instructional materials for training
+
+Support that enables on-line capability for participants as needed (e.g., laptops, software, mobile devices, data plans or internet connectivity).
+
+Support for project leadership teams and training consultants.
+
+Project evaluation may include measures of participant interest, such as persistence or continuation in the training opportunity, and should include a measure of enhancement of participant content knowledge or instructional practice. Evaluation may not include measures of impact on pre-college students.
+
+TCUP Enterprise Advancement Centers (TEA Centers) - TEA Centers coalesce an institution's STEM and/or STEM education research expertise into a team, designed to support and promote the STEM goals, needs, aspirations, or interests of the chartering reservation, tribe(s) or local community. TEA Centers may address a critical tribal or community need or focus on a realm of STEM research or design that is beyond the scope of individual research grants or that is of interest to multiple tribes.
+
+To enable TCUs' continued growth as intellectual resources for their communities and tribal governments, TCUP invites proposals for TEA Centers. These centers are envisioned as intellectual hubs on the STEM and STEM education specific interests or needs of the tribe or community that the TCU is best positioned to address. Those interests may be related to, for example, research in STEM disciplines supported by NSF, including environmental sciences, social and behavioral sciences, and engineering, as well as indigenous research, service learning, and STEM entrepreneurship.
+
+TEA Centers will typically be organized to address a critical tribal or community STEM need and should include a strategic plan describing the need and the methodologies by which the need will be met. Centers may focus on a realm of STEM research that is beyond the scope of individual investigator grants or that is of interest to multiple tribes. Institutional research expertise will be required, although some capacity may be gained through the appointment of visiting faculty fellows.
+
+TCUs that demonstrate significant STEM or STEM education research capacity may propose projects for up to five years of support. Such TEA Centers may be renewed based upon demonstration of adequate progress, discovery of new realms of opportunity not originally anticipated but still aligned with the original theme, and on-going commitment from the partnering tribal or community entities. The award can be used to support faculty, fellowships, visiting faculty, students, trainees, research materials and supplies, equipment, necessary travel, and other valid expenses. Construction of facilities typically will not be considered or supported, although modest renovations to STEM equipment and resources may be considered, in accordance with NSF guidelines.
+
+Cyberinfrastructure Health, Assistance, and Improvements (CHAI) - Many STEM educational experiences require secure access to reliable high-speed internet and secure storage. To ensure that TCUP institutions can engage in STEM areas such as computational sciences and artificial intelligence, cyberinfrastructure must be enhanced. TCUP invites proposals from TCUP-eligible institutions of higher education to support the upgrading of cyberinfrastructure necessary to conduct, expand, manage, and administer STEM programs of study, including research. Through CHAI, support TCUP institutions can apply to purchase hardware and software needed for current STEM courses and programs, and to develop new ones. Eligible upgrades include but are not limited to: routers; firewalls; server blades; storage area networks; and smartboards or Wi-Fi-enabled equivalents.
+
+A limited number of Preparing for TCUP Implementation (Pre-TI) projects will be funded to support activities that can ground an institution's readiness for implementation-level projects. Examples of activities include, but are not limited to, completion of an assessment of the institution's current STEM instructional capacity, or the conversations and consultations necessary to formulate a shared vision of what that capacity should be and how to achieve it. Provided specifically for those TCUP-eligible institutions of higher education that have never received a TCUP implementation-level award, Pre-TI grants can support staff and faculty release time, travel, stakeholder gatherings, and associated administrative costs.
+
+TCUP Partnerships - NSF continues to be committed to the work and success of TCUP institutions in providing their students with high-quality STEM instruction. That work and success can be enriched by collaborations with other institutions of higher education to enhance and extend the students' exposure to STEM. For example, successful partnerships can ensure the successful transition of students from one educational level to the next. As with all other TCUP funding opportunities, partnership proposals are encouraged to include tribal or Native pre-college students to the greatest practicable extent. An effective partnership might involve TCUP-eligible institutions in a region, and a university with strong regional ties to the TCUP institutions and that offers upper division or graduate coursework in STEM.
+
+TCUP Partnerships seek to develop:
+
+TCUP institutions' capacity to provide STEM programs of study.
+
+Partnerships with universities to facilitate and improve the transfer and success of TCUP students seeking degrees in STEM.
+
+Outreach and support strategies at partner universities to improve access and success of TCUP students seeking degrees in STEM.
+
+Proposals may be submitted collaboratively by a consortium of institutions, including TCUP and non-TCUP institutions. One TCUP institution must be identified to take the lead on organizational activities, although each institution will independently manage its award. Support of non-TCUP partners must be obtained prior to submission, as TCUP funds may not be subcontracted to non-TCUP institutions. Individuals interested in preparing a TCUP Partnership proposal should contact NSF program directors (TCUP and those in specific disciplinary programs) to ensure they understand the financial implications and limitations of these projects.
+
+Small Grants for Research (SGR) - As the STEM instructional capacity of TCUP institutions increases, so does their stature in the research community. Research is encouraged in all TCUP proposals as appropriate. TCUP also offers funding to support research of STEM or STEM education faculty through Small Grants for Research (SGR). These awards support STEM or STEM education faculty members at TCUP-eligible institutions to initiate or pursue research endeavors in an NSF-supported STEM discipline or in STEM education. These activities can be centered at the PI's home institution, but may also involve activities at other locations, such as an NSF-funded Center, a research-intensive institution, or a national laboratory. SGR awards are intended to further the faculty member's research capability and effectiveness, to improve research and teaching at the PI's home institution and may support students in research experiences.
+
+2 Tribal Colleges Shaping the Future of Native America, A Special Report , The Carnegie Foundation for the Advancement of Teaching, 1989.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 17 to 55
+
+Up to 6 ICE-TI awards will be made pending the availability of funds. Up to 10 TSIP awards, up to 5 TSETS awards, up to 10 Small Grants for Research, and up to 3 Pre-TI awards will be made pending the availability of funds. Up to 3 TCUP Partnership collaborative awards will be made pending the availability of funds; other NSF programs may provide support for non-TCUP-eligible institutions. Up to 8 TEA Centers awards will be made pending the availability of funds. Up to 10 CHAI awards will be made pending the availability of funds.
+
+Anticipated Funding Amount: $10,799,836
+
+Approximately $10,300,000 for TCUP ICE-TI, TSIP, TSETS, TEA Centers, CHAI, Pre-TI, TCUP Partnerships, and SGR projects, pending availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Organizations eligible to submit TCUP proposals are federally recognized Tribal Colleges and Universities, Alaska Native-serving institutions and Native Hawaiian-serving institutions. Multiple campuses of one university system are normally encouraged to consider collaborative submissions. Executive Order 13021 defines Tribal Colleges and Universities ("tribal colleges") as those institutions cited in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note), and other institutions that qualify for funding under the Tribally Controlled Community College Assistance Act of 1978, (25 U.S.C. 1801 et seq.), as well as Navajo Community College as authorized in the Navajo Community College Assistance Act of 1978, Public Law 95-471, Title II (25 U.S.C. 640a note). The term "Alaska Native-serving institution" means an institution of higher education that is an eligible institution under section 1058(b) of the Higher Education Act; and that, at the time of submission, has an undergraduate enrollment that is at least 20 percent Alaska Native students. The term "Native Hawaiian-serving institution" means an institution of higher education that is an eligible institution under section 1058(b) of the Higher Education Act; has a Carnegie classification of baccalaureate or associates college; and has, at the time of submission, an undergraduate enrollment that is at least 10 percent Native Hawaiian students. By signing and submitting the proposal, the proposer is certifying that they meet the eligibility criteria specified in this program solicitation. Willful provision of false information in this request and its supporting documents or in reports required under an ensuing award is a criminal offense (U.S. Code, Title 18, Section 1001). Eligibility may be verified by consulting the Integrated Postsecondary Education Data System (IPEDS) or other certified federal government data sources. Other institutions of higher education are eligible to submit collaborative proposals as non-leads with TCUP-eligible institutions under the TCUP Partnerships strands; limitations apply.
+
+Who May Serve as PI:
+
+For the Instructional Capacity Excellence in TCUP Institutions (ICE-TI), TCU Enterprise Advancement (TEA) Centers, and TCUP Partnerships award strands, the principal investigator (PI) is expected to be the president, chief academic officer, another senior academic officer responsible for oversight and management of curriculum and instructional policies for the institution, or a senior STEM faculty member. Typically, the PI for Targeted STEM Infusion Projects (TSIP) or TCUP for Secondary and Elementary Teachers in STEM proposals (TSETS) would be a member of the STEM faculty, but STEM education faculty are encouraged to be part of the key leadership team. The PI for Small Grants for Research (SGR) proposals should be the lead researcher and would typically be a member of the STEM or STEM education faculty. For Cyberinfrastructure Health, Assistance, and Improvements (CHAI), the PI should be a senior STEM faculty member, but the chief information officer (CIO) is strongly encouraged to be part of the key leadership team. Prospective PIs are encouraged to consult TCUP program staff.
+
+Limit on Number of Proposals per Organization:
+
+Eligible institutions may submit only one TEA Center proposal per year but may receive and administer concurrent awards. Preparing for TCUP Implementation (Pre-TI) awards are designed to support TCUP development activities for TCUP-eligible institutions that have received no prior TCUP support, no TCUP support within the previous five years, or are embarking on a significantly novel STEM strategic plan. No other restrictions apply.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

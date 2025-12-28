@@ -22,3 +22,150 @@ Status: Cleared
 Posted date (Y-m-d): 2018-04-30
 URL: https://www.nsf.gov/funding/opportunities/csd-chemical-structure-dynamics-program/pd18-9101
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Division of Chemistry: Disciplinary Research Programs: No Deadline Pilot (CHE-DRP:NDP)
+
+I. Introduction
+
+This solicitation represents an enhanced mechanism for the chemistry research community to submit individual or small team research proposals to three (3) of the NSF Division of Chemistry's Disciplinary Research Programs: Chemistry of Life Processes (CLP), Chemical Structure and Dynamics (CSD) or Chemical Theory, Models and Computational Methods (CTMC) programs. Proposals can be submitted at anytime starting September 1, 2022.
+
+This solicitation only applies to the CLP, CSD, and CTMC programs. Investigators wishing to submit proposals to any of the other 6 CHE DRPs (i.e., CAT, CMI, CMFP, ECS, MSN, and SYN) should follow the instruction described in the Division of Chemistry: Disciplinary Research Programs (CHE-DRP) Solicitation ( NSF 22-605 ).
+
+II. Program Description
+
+CHE supports a large and vibrant research community engaged in fundamental discovery, invention, and innovation in the chemical sciences. The projects supported by CHE explore the frontiers of chemical science, develop the foundations for future technologies and industries that meet changing societal needs, and prepare the next generation of chemical researchers.
+
+Some of the areas supported by CHE include:
+
+designing, synthesizing and characterizing new molecules, catalysts, surfaces, and nanostructures - especially those with a focus on sustainability;
+
+increasing our fundamental understanding of chemical species, their structures, and their chemical transformations, kinetics, and thermodynamics;
+
+developing new tools and novel instrumentation for chemical discovery, including those in data discovery science where increasing volumes and varieties of data are harnessed to advance innovation;
+
+determining structure-function relationships in biological systems and contributing to our understanding of the fundamental rules of life;
+
+observing, manipulating, and controlling the behavior of matter and energy in nanometer dimensions such as the quantum regime;
+
+understanding chemical processes in the environment;
+
+expanding chemical understanding through data sharing, mining, and re-purposing; and expanding state-of-the-art data analytics tools;
+
+solving complex chemical problems by the development of new theories, computations, models, and tools;
+
+contributing to industries of the future as relevant to the chemical sciences: quantum information systems, biotechnology, advanced manufacturing, artificial intelligence.
+
+With this solicitation, the Division of Chemistry is piloting the removal of deadlines for the submission of proposals to three of the nine Disciplinary Research Programs (DRPs, also known as core programs). The no-deadline pilot seeks to assess the benefits and challenges of removing deadlines in proposal submission for the chemistry research community: the removal of deadlines on proposal submission is intended to allow principal investigators (PIs) more flexibility and better facilitate interdisciplinary research. It may, however, have unanticipated consequences for PIs, reviewers, and institutions.
+
+This solicitation covers submission to the following three CHE DRPs:
+
+Chemistry of Life Processes (CLP), Element code 688300. [Program Description]
+
+Chemical Structure and Dynamics (CSD), Element code 910100. [Program Description]
+
+Chemical Theory, Models and Computational Methods (CTMC), Element code 688100. [Program Description]
+
+Projects currently supported by CHE programs can be found using the NSF Awards Search engine at https://www.nsf.gov/awardsearch/advancedSearch.jsp .
+
+To identify awards from a specific program, enter the element code associated with that program (e.g. 688300 for CLP; 910100 for CSD; 688100 for CTMC).
+
+Please note that the other 6 CHE DRP programs (i.e., CAT, CMI, CMFP, ECS, MSN, and SYN) are NOT participating in this solicitation as they are governed by a different solicitation. Proposals to these 6 CHE DRPs should be submitted instead to solicitation NSF 22-605 .
+
+Important Additional Information:
+
+Other than the exceptions discussed below, all proposals to the CLP, CSD, and CTMC programs must be submitted through this solicitation, otherwise they will be returned without review.
+
+Proposals under the following special categories are welcome through this solicitation and can be submitted anytime starting September 1, 2022:
+
+Grant Opportunities for Academic Liaisons with Industry (GOALI). GOALI proposals should be submitted through this solicitation, with titles starting with GOALI: and the "GOALI" type of proposal selected. See additional guidance in the PAPPG.
+
+Facilitating Research at Primarily Undergraduate Institutions (RUI), ( https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5518 ). RUI proposals should be submitted through the RUI solicitation , with titles starting with RUI:.
+
+EAGER, RAPID, RAISE, and conference proposals may be submitted at any time in response to the PAPPG, after consultation with the cognizant NSF Program Officer. These types of proposals are not subject to the limits on the number of proposals per PI. In addition, supplemental funding requests to existing grants may be submitted at any time in accordance with the PAPPG, after consultation with the cognizant NSF Program Officer. Such requests also are not subject to the limits on the number of submissions per PI.
+
+CAREER proposals should be submitted through the CAREER solicitation by the deadline specified for CAREER proposals.
+
+Information Sharing with other Funding Agencies or Private Foundations
+
+When permitted under an MOU between NSF and another funding agency or private foundation, NSF may share information from proposals for consideration of joint funding and may invite employees of such organizations to attend merit review panels as observers.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 105
+
+Approximately 105 awards, subject to availability of funds.
+
+Anticipated Funding Amount: $45,000,000
+
+Approximately $45,000,000, pending availability of funds, for new and continuing awards. For specific information, PIs may consult the individual program or use the NSF award search engine to search for awards by program or Program Officer.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 2
+
+Through this solicitation, during a one-year period beginning September 1, 2022 (and annually thereafter), proposers may serve as PI, Co-PI, or senior/key personnel on at most two proposals across all nine (9) CHE Disciplinary Research Programs provided at least one of the two proposals is multi-investigator or a collaborative proposal. While both proposals may be multi-investigator or collaborative, proposers may serve on at most one proposal as the sole PI.
+
+This restriction includes proposals under Grant Opportunities for Academic Liaison with Industry (GOALI) and Facilitating Research at Primarily Undergraduate Institutions ( RUI), as well as proposals submitted to the Division of Chemistry: Disciplinary Research Programs (CHE-DRP) Solicitation ( NSF 22-605 ).
+
+Proposals for EAGER, RAPID, RAISE, and conferences, as well as supplemental funding requests to existing grants, are not subject to this limitation and may be submitted at any time after consultation with the cognizant NSF Program Officer.
+
+Proposals submitted to other solicitations (e.g., Centers for Chemical Innovation , Major Research Instrumentation , Research Experiences for Undergraduates (REU) Sites , Launching Early-Career Academic Pathways in the Mathematical and Physical Sciences (LEAPS-MPS) , or CAREER) are also not subject to this restriction.
+
+If a PI submits more proposals as PI/coPI/Senior Personnel than this solicitation allows, only the earliest compliant proposal(s) will be retained and any subsequent proposals will be returned without review.
+
+A declined proposal to the CLP, CSD, or CTMC programs is eligible for resubmission only after either a minimum of four (4) months have passed since the declination or one year after the date of its initial submission, whichever comes first. This moratorium will allow PIs the time required to consider the merit review results and revise/restructure the declined proposal accordingly. A resubmitted proposal that has not clearly considered the major comments or concerns resulting from the prior NSF review may be returned without review, as outlined in the NSF Proposal and Award Policies and Procedures Guide (PAPPG).
+
+Proposers are encouraged to contact the cognizant NSF Program Officers listed in this solicitation if help is needed to resolve submission eligibility questions.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

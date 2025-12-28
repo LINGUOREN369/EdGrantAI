@@ -10,3 +10,184 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2024-06-28
 URL: https://www.nsf.gov/funding/opportunities/research-science-technology-enterprise-indicators-statistics/nsf24-587
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Research on the Science and Technology Enterprise: Indicators, Statistics, and Methods (NCSES S&T)
+
+I. Introduction
+
+The National Center for Science and Engineering Statistics (NCSES) of the National Science Foundation (NSF) is responsible for the collection, acquisition, analysis, reporting and dissemination of objective, statistical data related to the science and technology (S&T) enterprise in the United States and other nations. This information should be relevant and useful to practitioners, researchers, policymakers and the public. NCSES uses this information to prepare a number of statistical data reports as well as analytical reports related to the characteristics of scientists and engineers, including the National Science Board's biennial report, Science and Engineering (S&E) Indicators.
+
+The America COMPETES Reauthorization Act codifies the role of NCSES in supporting research using the data that it collects and its role in research methodologies related to its work. The legislation specifies the responsibilities of NCSES in supporting the education and training of researchers who use large-scale data sets, such as the ones NCSES now collects. The following activities form the core of NCSES work:
+
+The collection, acquisition, analysis, reporting, and dissemination of statistical data related to the United States and other nations;
+
+Support of research that uses NCSES data;
+
+Methodological research in areas related to its work; and
+
+Education and training of researchers in the use of large-scale nationally representative data sets.
+
+II. Program Description
+
+NCSES welcomes proposals for research, conferences, and studies to advance the understanding of the S&T enterprise and encourage development of methods that will improve the quality of our data. Research could include: improved approaches to indicator construction and presentation, new S&T indicator development, strengthening of data collection methodologies and privacy protection to improve surveys that collect S&T data, investigations of alternate data sources to study S&T topics, analyses to inform STEM education and workforce policy, and innovations in the communication of S&T statistics. NCSES encourages proposals that analyze NCSES data or NCSES data in conjunction with those from other sources but does not limit the work to the analysis of the data it collects.
+
+A. AREAS OF INTEREST
+
+Potential topics for consideration include but are not limited to:
+
+Improving analytical techniques to produce better indicators of issues related to: (1) the characteristics of scientists and engineers, (2) the demand, supply, and career pathways of science and engineering personnel, including those without bachelor’s degrees (3) outcomes and impacts of research and development (R&D) expenditures in various sectors, countries, and fields including emerging science and technology fields, (4) estimates of current and near-term future S&T resources; and (5) measures of U.S. competitiveness in S&T.
+
+Improving analytical techniques to produce better indicators of issues related to: (1) the characteristics of scientists and engineers, (2) the demand, supply, and career pathways of science and engineering personnel, including those without bachelor’s degrees (3) outcomes and impacts of research and development (R&D) expenditures in various sectors, countries, and fields including emerging science and technology fields, (4) estimates of current and near-term future S&T resources; and (5) measures of U.S. competitiveness in S&T.
+
+Developing new and/or improved methods of measuring the inputs, outputs, interactions, and social or economic impacts of S&T activities. These methods could involve the use of administrative records, social media, or novel data extraction methods.
+
+Developing new and/or improved methods of measuring the inputs, outputs, interactions, and social or economic impacts of S&T activities. These methods could involve the use of administrative records, social media, or novel data extraction methods.
+
+Developing new data, analyses, and/or indicators of the globalization of science, engineering, and technology, as well as analyses leading to a better understanding of the changing global economy. This could include: international comparisons of S&T capabilities and activities, indicators of international education and mobility of scientists and engineers, and foreign investment in S&T activities.
+
+Improving data collection methodologies for S&T surveys and censuses, including those conducted by NCSES. Such studies could research improvements in the target population, sample frame, and sample design, focusing on coverage and sampling error. Also included are developments of new data collection techniques and operational efficiencies such as adaptive survey design and passive data collection. Studies focused on the respondent experience and reduction in respondent burden such as modular survey design are also relevant.
+
+Improving analysis and data processing methodologies for NCSES data by researching topics such as imputation techniques, privacy protections, or data consistency with related surveys or administrative data. This research could also involve investigations of linkage of alternate data sources to supplement NCSES data and reporting.
+
+Pursuing innovations in the dissemination of S&T statistics to encourage communication of the information in a timely and user-friendly fashion. This could include interactive visualizations, studies of user needs, and new reporting formats for indicators.
+
+Pursuing innovations in the dissemination of S&T statistics to encourage communication of the information in a timely and user-friendly fashion. This could include interactive visualizations, studies of user needs, and new reporting formats for indicators.
+
+B. DATA AVAILABILITY
+
+NCSES encourages proposers to use NCSES data for their research. NCSES conducts the following surveys for which data are available:
+
+STEM Education
+
+Survey of Graduate Students and Postdoctorates in Science and Engineering (GSS)
+
+Survey of Earned Doctorates (SED)
+
+Science and Engineering Workforce
+
+Early Career Doctorates Survey (ECDS)
+
+Survey of Doctorate Recipients (SDR)
+
+National Survey of College Graduates (NSCG)
+
+National Training, Education, and Workforce Survey (NTEWS)
+
+Survey of Postdocs at Federally Funded Research and Development Centers
+
+Government Funding for Science and Engineering
+
+S urvey of Federal Funds for Research and Development
+
+Survey of Federal Science and Engineering Support to Universities, Colleges, and Nonprofit Institutions
+
+Survey of State Research and Development Expenditures
+
+Higher Education Research and Development
+
+Higher Education Research and Development Survey (HERD)
+
+Survey of Science and Engineering Research Facilities
+
+Research and Development
+
+Annual Business Survey (ABS)
+
+Business Enterprise Research and Development Survey (BERD)
+
+Federal Facilities Research and Development Survey
+
+FFRDS Research and Development Survey
+
+Nonprofit Research Activities Survey (NPRA)
+
+For a broad overview of all of the surveys see: https://www.nsf.gov/statistics/srvyoverview/overview.cfm
+
+To explore public use data, see: https://ncsesdata.nsf.gov/explorer .
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 5 to 10
+
+Based on the quality of proposals and the availability of funds, NSF expects to make 5 to 10 awards each year.
+
+Anticipated Funding Amount: $1,500,000
+
+subject to the availability of funds
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Standard research proposals: Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus. Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities. Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131. Doctoral Dissertation Research Improvement Grant proposals: Doctoral Degree granting IHEs accredited in, and having a campus located in, the US acting on behalf of their faculty members.
+
+Standard research proposals:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Doctoral Dissertation Research Improvement Grant proposals: Doctoral Degree granting IHEs accredited in, and having a campus located in, the US acting on behalf of their faculty members.
+
+Who May Serve as PI:
+
+Standard research proposals: No special restrictions or limits.
+
+Doctoral Dissertation Research Improvement Grant proposals: The dissertation advisor must be listed as the Principal Investigator and the student must be listed as the co-Principal Investigator.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

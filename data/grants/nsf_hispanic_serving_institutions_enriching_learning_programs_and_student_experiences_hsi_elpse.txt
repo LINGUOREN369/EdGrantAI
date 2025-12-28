@@ -73,3 +73,286 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2024-02-21
 URL: https://www.nsf.gov/funding/opportunities/hsielpse-hispanic-serving-institutions-enriching-learning-programs/nsf24-551
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Hispanic-Serving Institutions: Enriching Learning, Programs, and Student Experiences (HSI:ELPSE)
+
+I. Introduction
+
+The Hispanic Serving Institution (HSI) Program is supported by the National Science Foundation (NSF) as a cross-divisional effort with multiple funding opportunities that support the nation's colleges that have been designated as Hispanic Serving Institutions. This program is part of a Foundation-wide effort to accelerate improvements in the quality and effectiveness of undergraduate education in all STEM fields including the learning, social, behavioral, and economic sciences. With Congressional support, the NSF uses this program to build capacity at institutions of higher education that typically do not receive high levels of NSF grant funding.
+
+The HSI:ELPSE solicitation supports the two goals shared amongst all current and previous funding opportunities in the NSF HSI Program:
+
+Enhance the quality of undergraduate science, technology, engineering, and mathematics (STEM) education at HSIs.
+
+Increase the recruitment, retention, and graduation rates of students pursuing associates or baccalaureate degrees in STEM at HSIs.
+
+The HSI designation comes from a set of criteria employed by the US Department of Education 4 . Beyond these quantitative criteria, however, HSIs represent a diverse collection of institutions that serve students with many intersecting characteristics. The HSI program celebrates the capacity for HSI-educated individuals to bring their experiences to scientific and societal problems and develop unique ideas, methods, and potential solutions 5 .
+
+The HSI:ELPSE solicitation welcomes proposals from the breadth of two- and four-year Hispanic Serving Institutions across the nation 6 . Within each HSI's unique context, the HSI:ELPSE solicitation encourages institutions to adopt and operationalize student-centered frameworks and work to ensure that the institution is adequately prepared to serve their students.
+
+The HSI:ELPSE solicitation seeks to build upon the organizational capacity of HSIs to support activities that meet the goals of the HSI program and demonstrate potential to broaden participation in STEM disciplines. To this end, the solicitation and the tracks discussed below reflect two core principles.
+
+Each HSI is unique. Student outcomes are intricately connected to each institution's strengths and challenges, shaped by local contexts, guided by bold leaders, and inclusive of a complex set of stakeholders.
+
+Enriching the student experience in a way that supports student learning and positive outcomes requires institutions to move beyond monolithic demographic descriptors and examine the intersecting characteristics and lived realities that can be applied to students as individuals and in groups.
+
+Ideally, successful projects will allow institutions to move towards and/or sustain a population of STEM students with characteristics, enrollment patterns, and outcomes that align with those for the entirety of the student body. Meeting those goals may require institutions to go beyond solely sorting students into coarse demographic groups as they examine whether their practices and policies fully address the needs of their students.
+
+Each individual student has an identity that reflects several distinct characteristics such as first-generation status, gender, ethnicity, academic major, race, financial need, and many others. All HSI:ELPSE proposals should be designed with an intersectional lens that acknowledges and accounts for the intersection of student characteristics and experiences.
+
+The use of an intersectional lens is meant to strengthen proposals' efforts to focus authentically on students' assets and needs. For instance, institutions with a high proportion of commuter students should carefully consider how students' time on campus might impact the scheduling and delivery of certain project components. As another example, if a project plans to offer undergraduate research or other experiential learning opportunities, then consideration should be given for the inclusion of stipends to allow working students to participate without sacrificing income that could be necessary for basic needs or educational expenses.
+
+II. Program Description
+
+Overview
+
+The HSI:ELPSE solicitation is specifically focused on studying and improving student experiences and outcomes in the following settings:
+
+STEM courses, particularly for students pursuing STEM degrees;
+
+Certificate, minor, and/or degree programs;
+
+Academic departments or divisions; and
+
+Schools and colleges that represent a part of the entire institution (e.g., a School of Engineering or a College of Natural Sciences).
+
+Subject to the specific requirements of each track detailed below, the HSI:ELPSE solicitation welcomes proposals aligned with one or both of the following areas:
+
+Courses, Curricula, and Pedagogy: Efforts that have a direct impact on students' classroom experiences and progression through degree programs. These projects might center on innovations in one or more of the following areas: specific courses; majors, minors or certificate programs; non-majors STEM courses; full- and part-time faculty pedagogy; course-based undergraduate research or internship opportunities; or academic supports within or outside of the classroom.
+
+Institutional Structures and Pathways: Efforts that study and/or improve systems and opportunities that go beyond students' direct experiences in their courses and degree programs. Projects of this type might center on innovations in one or more of the following: 2-year to 4-year transfer pathways; dual-enrollment or dual-degree programs; academic advising; faculty or staff professional development; growth towards being Hispanic-serving; preparation for graduate studies or the STEM workforce; department-, division-, or college-based undergraduate research and internship programs.; Projects with a focus on this theme should make use of disaggregated institutional data to support the need of the project and contextualize the proposed project's aims and activities.
+
+The examples provided do not by any means constitute an exhaustive list, and proposers are encouraged to explore any factors that impact outcomes for undergraduate STEM students at their institution.
+
+Project Tracks
+
+This solicitation accepts proposals in two projects tracks. Additional opportunities for planning and conference proposals are also discussed below.
+
+Implementation and Evaluation Projects (IEP) Track
+
+The track welcomes projects looking to implement, adapt, or study promising practices and also invites theoretically grounded, methodologically rigorous research projects on undergraduate experiences in STEM at HSIs. IEP projects include activities that are anticipated to support research and efforts to improve the HSI undergraduate experience for STEM majors and for non-majors enrolled in STEM courses.
+
+Examples include, but are not limited to, the following types of activities:
+
+redesigning STEM courses, degree programs, student support systems, or practices;
+
+developing new STEM courses, certificates, minors and degree programs;
+
+enacting professional development for faculty, staff, and administrators to implement student-centered pedagogy, advising, leadership or other practices;
+
+conducting research studies to better understand aspects of undergraduates' STEM experiences in the focal areas of the HSI:ELPSE solicitation (courses, programs, departments, and schools/colleges);
+
+developing institutions' understanding of their students, practices, and HSI designation, particularly institutions that have been recently classified as HSIs; and
+
+building out the data infrastructure and methodologies that would allow an institution to collect and conduct thorough analyses of student data.
+
+Proposals can focus on improving student learning and outcomes, broadening participation of historically underrepresented student groups in STEM at HSIs, or other efforts aligned with the HSI:ELPSE solicitation's areas of focus. The IEP track is intended to be a broad opportunity, and encourages the submission of high-risk, high reward approaches with transformative potential.
+
+Common Expectations for Level 1 and Level 2 IEP Projects: There are two funding levels that determine the maximum budget, timeline, and scope for the proposed projects. The following elements are expected within all IEP proposals, regardless of funding level:
+
+Proposals are expected to address at least one of the goals of the HSI program and be aligned with one or more of the areas described above: Courses, Curricula, and Pedagogy; or Institutional Structures and Pathways.
+
+Proposals should be evidence-based, which could include indigenous knowledge and other traditions that may be transmitted outside of the traditional scholarly literature. Project components should be supported as appropriate by a review of the relevant literature.
+
+Proposals should be situated in the context of the institution and must include an Institutional Data Narrative as part of the proposal's 15-page Project Description that uses data, disaggregated to the extent that is feasible for proposers, to provide insights into the institution and its students.
+
+Activities, supports, evaluation and, if required, research plans must be designed using an intersectional lens. Specifically, proposers are encouraged to discuss how the project components account for students' intersecting membership in populations described by demographic characteristics and/or lived experiences (e.g., low-income, commuter, parenting, first-generation, or veteran status).
+
+Collaborative proposals from either single or multiple institutions must use a portion of the Management Plan to describe the roles of all senior personnel as well as the nature of the collaboration between institutions. It is imperative that all collaborating institutions have a clear and appropriate voice in the leadership and execution of the project as it applies to their students.
+
+All IEP proposals must include a detailed evaluation plan, executed by an experienced and independent evaluator, that will provide both formative and summative feedback on the project's progress towards its stated goals. Each evaluation plan should include clear evaluation questions, quantitative and/or qualitative data streams beyond baseline institutional research data, specified methods for data analysis, and a mechanism for providing a written evaluation report to the project team at least annually. Please see "Proposal Preparation and Submission Instructions" below for additional information about the expectations for project evaluation.
+
+All IEP proposals that plan to financially support undergraduate students, for instance as tutors, peer mentors, research assistants, or other trainees must include a student mentoring plan of maximum 1 page as a supplemental document. This document should discuss specific strategies that will be utilized to provide academic, professional, and other valuable types of mentoring to these students. A student mentoring plan is not required if a project solely intends to provide incentives to students serving as research subjects without additional training requirements or duties. This solicitation specific required plan is separate and distinct from the mentoring plan required by the PAPPG for proposals that request funding to support postdoctoral scholars or graduate students.
+
+Proposals may involve single operational units or departments of a college or multiple disciplines within a single division, school, or college at the institution. Collaborative proposals from multiple institutions or organizations are also welcome. Please see the Proposal Preparation Section below for additional guidelines regarding the submission of a complete proposal.
+
+IEP Level 1: Up to 3 Years with a maximum budget of $500,000.
+
+Awards at this level will support early-stage or exploratory projects that look to enrich the student experience, improve teaching and learning, broaden participation in undergraduate STEM, or improve student outcomes at HSIs. While IEP Level 1 proposals should be evidence-based as discussed above, they may be more exploratory and would generally be of a smaller scale than IEP Level 2 proposals.
+
+The core activities of Level 1 projects may be wholly novel or may center on the replication and validation of promising approaches or high impact practices that may be novel at the institution. While STEM education or broadening participation research plans are welcome in Level 1 IEP proposals, they are not required. However, in the absence of a research plan, proposals must describe a plan to generate knowledge through the analysis and broad dissemination of data and outcomes obtained through project evaluation.
+
+Level 1 IEP proposals are welcome to submit letters of collaboration from internal or external partners including faculty, administrators, corporations, non-profits or other entities as appropriate. These letters should adhere to the guidelines outlined in Chapter II.D.2.i.(iv) of the NSF PAPPG and should not be letters of support as described in that section.
+
+IEP Level 2: Up to 5 Years with a maximum budget of $1,000,000
+
+IEP Level 2 projects are supported for up to five years and should include efforts that are beyond the proof-of-concept stage and have potential to result in sustainable positive outcomes that align with the goals of the HSI program. Level 2 projects have a scale and scope beyond what would typically be expected for IEP Level 1 projects.
+
+Level 2 projects must include substantial educational research plans intended to generate new knowledge that may improve our understanding of how to build institutional capacity at HSIs, to meet the goals of enhancing the quality of undergraduate student experiences in STEM, and/or improving the recruitment, retention, and graduation rates of students pursuing STEM degrees at HSIs. Research plans should include specific and actionable research questions, be theoretically grounded, and draw from data streams that look beyond those traditional institutional research measures. The HSI program has no methodological preference and welcomes qualitative, quantitative and mixed-methods studies as appropriate given the foci of each proposed study.
+
+Specific plans to sustain and institutionalize successful project components should be included as part of the Project Description. All IEP Level 2 proposals must include letters of support from upper-level institutional administrators, at the Dean level or higher, with responsibility for faculty affairs and/or undergraduate STEM education in the proposal's focal unit(s). These letters should outline concrete mechanisms and institutional commitments for institutionalization and sustainability of the project activities and should be uploaded as supplemental documents.
+
+Level 2 IEP proposals are welcome to submit additional letters of collaboration from internal or external partners including faculty, administrators, corporations, non-profits or other entities as appropriate. These letters should adhere to the guidelines outlined in Chapter II.D.2.i.(iv) of the NSF PAPPG and should not be letters of support as described in that section.
+
+Educational Instrumentation (EI) Track: Up to 2 years with a maximum budget of $200,000.
+
+The goal of the Educational Instrumentation (EI) Track is to increase access to the computing resources and/or laboratory instrumentation needed to provide high quality undergraduate education in STEM. The EI track welcomes proposals centered on instrumentation to improve educational experiences and outcomes in any STEM discipline represented across NSF's Directorates and Divisions.
+
+Eligibility: The EI track is open to all HSIs in EPSCoR jurisdictions and to HSI Primarily Undergraduate Institutions (PUIs) in all other (non-EPSCoR) jurisdictions. Eligible PUIs are accredited colleges and universities (including two-year community colleges) that award associate degrees, bachelor's degrees, and/or master's degrees in NSF-supported fields but have awarded 20 or fewer Ph.D./D.Sci. degrees across all NSF-supported fields during the combined previous two academic years.
+
+Institutions may submit at most two EI proposals each year.
+
+Focus: All proposals to the EI track should be to support instrumentation and/or computing resources used primarily for undergraduate STEM courses. Examples include, but are not limited to:
+
+Instrumentation to be used by majors and non-majors engaged in traditional laboratory instruction, course-based undergraduate research experiences, or other activities occurring within one or more STEM courses at the proposing institution.
+
+Hardware to be used in computer laboratories specifically dedicated to students in one or more STEM degree programs. The requested equipment should support specific courses but might also be used by majors engaged in undergraduate research, internships, cooperative learning or other experiential opportunities.
+
+As noted in the PAPPG, the acquisition cost of equipment includes modifications, attachments, and accessories necessary to make an item of equipment usable for the purpose for which it will be purchased.
+
+The project description for EI proposals is limited to six (6) pages and should address how the requested equipment will impact recruitment, retention, graduation and other positive outcomes for undergraduate STEM students. This should, at a minimum, include the following:
+
+a discussion of the need for the requested equipment;
+
+a discussion of how students would benefit from the requested equipment, along with the estimated number of students that would directly benefit each year over at least a two-year period;
+
+a description of the courses, degree programs, and other opportunities impacted;
+
+plans for maintenance and procurement of necessary consumables as needed;
+
+plans for faculty, staff, or student training as necessary; and
+
+a discussion of how the project team will assess progress, document outcomes, and evaluate success in achieving project goals.
+
+Restrictions: The EI track will not support proposals that include the following:
+
+Instrumentation and/or computing facilities intended primarily to support undergraduate research experiences in specific investigators' labs.
+
+Sustaining infrastructure and/or building systems. This category includes (but is not limited to) the installation of or upgrades to infrastructure related to the supply of power, ventilation, water or research gases, routine multi-purpose computer networks, standard safety features, and other general-purpose systems (e.g., toxic waste removal systems and telecommunications equipment).
+
+Construction, renovation, or modernization of rooms, buildings, or research facilities. This category refers to any space where educational activities occur, whether "bricks-and-mortar", mobile, or virtual.
+
+General purpose computer labs, software, or related requests that are not primarily dedicated to undergraduate STEM courses, regardless of their use by majors or non-majors.
+
+Proposals seeking support for the above items or activities are subject to return without review (if noncompliance is established prior to review) or decline (if noncompliance is established during the merit review process).
+
+Budget Guidelines for EI Proposals: The following guidelines are in effect for EI proposals.
+
+At most 10% of the proposal budget, including indirect costs, may be devoted to training activities for faculty or staff responsible for the use and maintenance of the requested equipment. Such requests should be carefully justified, and in general should only be made if there is specific, demonstrable need and no comparable equipment is already in use at the institution. Salary support, including fringe benefits and indirect costs, may only be requested for individuals providing such training and would contribute to the 10% maximum. Travel costs associated with training for operations and maintenance may be an eligible expense but must also be well-justified.
+
+Necessary software and a limited supply of essential consumables may be requested and should be carefully justified. EI funds may not be used for paper, ink, or other consumable materials necessary for printing or regular use of standard computing resources.
+
+Additional Opportunities
+
+Planning Proposals: The HSI:ELPSE solicitation welcomes planning proposals at any time to develop, organize, and/or strengthen key data, human, and educational resources. Proposers should refer to Chapter II.F.1 of the NSF PAPPG for specific budget and proposal preparation guidelines relating to planning proposals and should note the target dates provided for this mechanism. As detailed in the PAPPG, PIs must contact a program director on the HSI:ELPSE solicitation to discuss their proposal idea and determine if a planning grant is appropriate. Furthermore, written permission to submit a planning proposal must be obtained from an HSI program director and uploaded at the time of submission.
+
+Planning proposals can focus on the development of a future submission to the IEP track or can be centered on institutional efforts to better serve their undergraduate STEM students. Examples of planning proposals include, but are not limited to the following:
+
+identifying or developing models, frameworks, research or evaluation designs central to the development of a strong future submission to the HSI:ELPSE solicitation;
+
+developing or revising strategic plans for STEM education that leverage student-centered frameworks and practices;
+
+strengthening collaborations among faculty, administration, and staff in STEM departments, divisions, schools, or colleges;
+
+strengthening collaborations among institutions of higher education, including two-year colleges and rural institutions;
+
+establishing partnerships with industry and/or community organizations;
+
+piloting systems and approaches to collect, organize, and analyze student data;
+
+offering leadership training, substantial retreats, or other mechanisms allowing administrators or one or more units within the institution to explore student-centered practices.
+
+Workshops and Conferences: Proposals for workshops and conferences addressing topics that contribute to the goals of the HSI Program may be submitted at any time following consultation with an HSI Program Officer. Proposals for conferences that seek to address critical challenges in undergraduate STEM education at HSIs, including issues related to recruitment, retention, completion, and transfer are particularly encouraged. Non-profit organizations and other institutions that are not HSIs are eligible to submit conference proposals. These institutions may include, but are not limited to K-12 schools, community-based organizations, and professional organizations that are working to support the goals of the HSI program. Information regarding the preparation of a Conference proposal can be found in the PAPPG Chapter II.F.9.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 23 to 33
+
+The program anticipates making:
+
+7 - 9 Educational Instrumentation awards Project length: Up to two years Award Size: $200,000
+
+Project length: Up to two years
+
+Award Size: $200,000
+
+10 - 14 IEP Level 1 awards Project length: Up to three years Award Size: $500,000
+
+Project length: Up to three years
+
+Award Size: $500,000
+
+6 - 10 IEP Level 2 awards Project length: Up to five years ; Award Size: $1,000,000
+
+Project length: Up to five years ;
+
+Award Size: $1,000,000
+
+Anticipated Funding Amount: $19,000,000
+
+Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+To be eligible for funding in the IEP Track, an institution must meet the following criteria: Be an accredited institution of higher education. Offer Undergraduate STEM educational programs that result in certificates or degrees. Satisfy the definition of an HSI as specified in section 502 of the Higher Education Act of 1965 (20 U.S.C. 1101a). In particular, institutions will be required to submit an updated eligibility letter from the U.S. Department of Education as a supplementary document. Be designated as an HSI by the U.S. Department of Education ( https://www2.ed.gov/about/offices/list/ope/idues/eligibility.html#tips ) at the time of submission. Documentation from the Department of Education confirming HSI status must be submitted as a supplemental document.
+
+Be an accredited institution of higher education.
+
+Offer Undergraduate STEM educational programs that result in certificates or degrees.
+
+Satisfy the definition of an HSI as specified in section 502 of the Higher Education Act of 1965 (20 U.S.C. 1101a). In particular, institutions will be required to submit an updated eligibility letter from the U.S. Department of Education as a supplementary document.
+
+Be designated as an HSI by the U.S. Department of Education ( https://www2.ed.gov/about/offices/list/ope/idues/eligibility.html#tips ) at the time of submission. Documentation from the Department of Education confirming HSI status must be submitted as a supplemental document.
+
+To be eligible for funding in the Educational Instrumentation Track, the institution must meet the four criteria listed above at the time of submission and: Be an eligible Primarily Undergraduate Institution (PUI). Eligible PUIs are accredited colleges and universities (including two-year community colleges) that award Associates degrees, Bachelor's degrees, and/or Master's degrees in NSF-supported fields, but have awarded 20 or fewer Ph.D./D.Sci. degrees in all NSF-supported fields during the combined previous two academic years; or Be located in an EPSCoR jurisdiction at the time of submission.
+
+Be an eligible Primarily Undergraduate Institution (PUI). Eligible PUIs are accredited colleges and universities (including two-year community colleges) that award Associates degrees, Bachelor's degrees, and/or Master's degrees in NSF-supported fields, but have awarded 20 or fewer Ph.D./D.Sci. degrees in all NSF-supported fields during the combined previous two academic years; or
+
+Be located in an EPSCoR jurisdiction at the time of submission.
+
+A current list of EPSCoR jurisdictions can be found here: https://new.nsf.gov/funding/initiatives/epscor/state-websites .
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+Educational Instrumentation Proposals: Eligible institutions may submit up to two proposals per year.
+
+Implementation and Evaluation Proposals: Eligible institutions may submit up to a total of three IEP proposals per solicitation deadline, regardless of level. An institution may, for example, submit three Level 1 IEP proposals, or one Level 1 IEP proposal and two Level 2 IEP proposals in the same deadline.
+
+Limit on Number of Proposals per PI or co-PI: 2
+
+An individual may be listed as PI or Co-PI on at most two proposals per submission deadline.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

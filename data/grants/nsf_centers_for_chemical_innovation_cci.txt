@@ -14,3 +14,138 @@ Status: Cleared
 Posted date (Y-m-d): 2023-04-05
 URL: https://www.nsf.gov/funding/opportunities/cci-centers-chemical-innovation/nsf23-575
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Centers for Chemical Innovation (CCI) Phase I (center development) and Phase II (major research centers)
+
+I. Introduction
+
+The Centers for Chemical Innovation (CCI) Program supports research centers focused on major, long-term fundamental chemical research challenges. CCIs are agile structures that respond rapidly to emerging opportunities, demonstrate synergy and added value from collaborations, and engage in chemical research with high potential to transform the field. CCIs integrate research with broader impacts in innovation, higher education and professional development, broadening participation, and informal science communication.
+
+II. Program Description
+
+CCI awards support the formation and development (Phase I) or sustained funding (Phase II) of research centers that can address major research challenges in fundamental chemistry. Successful centers will tackle challenges of large scope and impact, producing transformative research leading to innovation and enhanced economic competitiveness. CCI awards will bring researchers with shared and complementary interests into productive contact to foster synergy, potentially transformative research, and innovation.
+
+The Division of Chemistry is considering new Phase I proposals and Phase II proposals in FY 2024. Both phases are described in this solicitation. There are no institutional limits on the number of preliminary proposals or full proposals; however, new Phase I preliminary proposals and full proposals from institutions currently leading a CCI effort (Phase I or Phase II) are discouraged.
+
+Investigators are strongly urged to contact a cognizant Program Officer (listed in Section VIII of this solicitation) when considering submitting a preliminary proposal or proposal.
+
+A CCI is built around a compelling chemistry research challenge. The proposed research should be ambitious and have significant potential for transformative impact in chemistry. The CCI Program is intended to support science that cannot be effectively done by individual investigators or small teams, but requires the synergistic, coordinated efforts of a research center. The potential for synergy is explicitly evaluated during the review process. At the same time, Principal Investigators should ensure that their proposed project does not significantly overlap with ongoing Federally funded research for themselves or any of their team members. Developing a distinct and distinctive science portfolio is essential for any CCI.
+
+Serving as the Principal Investigator of a center award requires scientific leadership and vision. It is also a significant commitment of time and will be a primary professional focus for the life of the Center. Similarly, all team members should expect the CCI to be a significant part of their professional efforts. For this reason, researchers are permitted to participate in only one CCI submission at each stage of the CCI review in response to this solicitation. Reviewers will be asked to evaluate the qualifications of the team and the resources available to the project, including researcher time and commitment.
+
+CCIs are expected to integrate their research with activities that broaden the impact of their research. A Phase I team will pilot activities in these areas. A Phase II CCI is expected to implement broad, strategic, center-scale activities in each of the areas below:
+
+Innovation - A center-wide plan for innovation will demonstrate strategies and capabilities for translating their research to key non-academic stakeholders via intellectual property protection, licensing, entrepreneurship, partnerships, development and distribution of open source tools, or other knowledge transfer paths.
+
+Higher Education and Professional Development - center-wide plan for the education and professional development of undergraduate and graduate students supported by the CCI, including co-mentorship or other collaborative education and continued professional development and mentoring for postdoctoral research associates. This may also include education in various aspects of innovation (intellectual property, entrepreneurship, etc.) and other higher education activities (i.e., new undergraduate- or graduate-level course materials or curricula).
+
+Broadening participation - center-wide plans for increasing engagement by underrepresented groups. Partnerships with Minority-Serving Institutions are strongly encouraged.
+
+Informal science communication - center-wide plans for communicating the CCI research to public audiences (outside the K-12 classroom).
+
+Strategic planning is an enabling activity for a developing center team. These plans cover all aspects of a CCI, including research, broader impact activities (in the four areas noted above), management, diversity and inclusion, and center-wide data approaches. Phase I Principal Investigators are required to complete strategic planning activities during the first year of the award and to submit their strategic plan to NSF within 15 months of the start of the award. All aspects of the strategic plan will be evaluated by external reviewers and NSF staff during Phase I post-award oversight and during Phase II proposal review and post-award oversight. Developing a strong strategic plan will require consultation with strategic planning experts. Phase I proposers will commit to strategic planning in their proposal (management plan section). Phase II proposers will discuss their approach to ongoing strategic planning activities.
+
+Center Management Plans address leadership of centers, how decisions will be made, including the roles of any internal committees, and how synergy among projects and activities will be actively promoted in service of a center's vision. They include mechanisms for the ongoing assessment of research outcomes and broader impacts; development and implementation of strategic plans; allocation of resources; the ability to initiate new lines of research and terminate support for lower priority efforts; and approaches to encourage and promote effective communication throughout the center and with partners.
+
+Data Management and Sharing Plans will describe how all center researchers will store, access, share and archive data, with emphasis on data-sharing across collaborative teams. This is a particularly challenging prospect as the Center expands, so proposals should address features such as how each team member will gain access to data in real time, how data will be validated and archived and how, as the team expands, new members will be integrated into the data management and sharing plan in ways that enhance collaboration and synergy. New approaches and pilot activities in data management are encouraged during Phase I. Center-wide implementation is expected during Phase II.
+
+CCIs may collaborate with researchers from industry, government laboratories, and international organizations. CCIs are encouraged to send CCI faculty, their students, and their postdoctoral research associates to conduct collaborative research with these partners, and CCI funding may be used to support travel and research costs associated with such collaborative activities. CCI funds may not be used to support industrial or international researchers. NSF does not normally support research or education activities by scientists, engineers or educators employed by Federal agencies or Federally Funded Research and Development Centers (FFRDCs). A CCI considering funding research activities by a partner in a Federal agency or FFRDC must provide a compelling argument that their proposed funded collaboration can make unique contributions to the CCI project. International and non-academic partners must provide a letter of collaboration in the supplementary documents section of the Phase I or Phase II proposal (see PAPPG, Chapter II.D.2 for recommended format). Details of their contributions to the project may also be discussed in the Facilities, Equipment and Other Resources section of the proposal.
+
+Phase I Centers for Chemical Innovation
+
+The FY 2024 Phase I CCI competition is open to projects in all fields supported by the Division of Chemistry, and must have scientific focus and significant potential for transformative impact in chemistry. The NSF Division of Chemistry particularly encourages fundamental chemistry projects aligned with articulated budget priorities, including Advanced Manufacturing, Artificial Intelligence, Biotechnology, Quantum Information Science and Sustainability.
+
+A Phase I awardee must engage in research, broader impact activities, and center development activities over the three-year duration of this award. The research activities may build on pre-existing efforts, but new, collaborative results attributed to the CCI award are expected. The Phase I award will also develop broader impact activities in the four required areas (see below), including piloting and developing center-scale activities. Center development includes the development of a strategic plan covering all aspects of a CCI (see below).
+
+The team of investigators for a Phase I proposal must include at least four senior researchers with complementary expertise. While there is no upper limit on the number of Phase I investigators, proposers are cautioned to avoid teams that are too large to collaborate effectively. The available resources should also be carefully considered in assembling the team. CCIs may collaborate with researchers from industry, national laboratories and international organizations. See detailed guidance above for non-U.S. or non-academic researchers.
+
+Key milestones during Phase I include submission of the strategic plan (15 months); mandatory oversight review (16-18 months after the start of the Phase I award); submission of a Phase II proposal (approximately 25 months after the start date of the Phase I award); and a review of the Phase II proposal (approximately 30 months after the start of the Phase I award). During the panel review of the Phase II proposal, the proposing teams will be invited to participate in a short video-conference presentation and discussion with the panel.
+
+Phase II Centers for Chemical Innovation
+
+In FY 2024, CHE will consider new Phase II proposals resulting from Phase I awards initiated in FY 2021.
+
+In FY 2026, CHE will consider new Phase II proposals resulting from Phase I awards initiated in FY 2023 as well as renewal proposals for Phase II CCIs initiated in FY 2021.
+
+There is no minimum or maximum number of investigators in a Phase II proposal. The teams may include investigators from other disciplines, but the CCI should retain a clear focus in scientific areas supported by the NSF Division of Chemistry.
+
+Key milestones during Phase II include site visits and other oversight. The initial Phase II award is made for five years (contingent on acceptable progress). A proposal and its thorough review are required for renewal of up to five additional years (for a total of up to 10 years funding at Phase II). Additional information is provided in the proposal preparation guidance for a Phase II full proposal.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 4
+
+In FY 2024, NSF anticipates making up to three new Phase I awards (each up to $1,800,000 for 3 years) as standard or continuing grants. NSF also anticipates up to one new Phase II award (up to $4,000,000 per year for 5 years) as a cooperative agreement. Both of these plans are pending availability of funds and submission of sufficient quality proposals.
+
+In FY 2026, NSF anticipates making up to two Phase II awards (new and renewal), pending availability of funds and submission of sufficient quality proposals.
+
+Anticipated Funding Amount: $9,400,000
+
+in FY 2024, pending availability of funds and submission of sufficient quality proposals.
+
+$8,000,000 in FY 2026, pending availability of funds and submission of sufficient quality proposals
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+While these proposals will reflect the research of many investigators, only one Principal Investigator (PI) should be identified; no co-PIs are permitted. All other investigators are considered Other Senior Personnel (Faculty Associates). The PI must be affiliated with an eligible submitting organization.
+
+An investigator may participate (as PI or Other Senior Personnel) in only one CCI preliminary proposal, one CCI Phase I full proposal, and one CCI Phase II full proposal submitted to this competition. In cases where an individual appears in two or more proposals at the same stage, any submitted proposals involving that person may be returned without review.
+
+The Phase II eligibility is limited to teams from the Phase I awards initiated in FY 2021.
+
+The FY 2026 Phase II CCI competition is open to projects funded as Phase I awards in FY 2023 as well as renewals of Phase II proposals funded in FY 2021.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An investigator may participate (as PI or Other Senior Personnel) in only one CCI preliminary proposal, one CCI Phase I full proposal, and one CCI Phase II full proposal submitted to this competition. In cases where an individual appears in two or more proposals at the same stage, any submitted proposals involving that person may be returned without review.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposals: Submission of Preliminary Proposals is required. Please see the full text of this solicitation for further information.
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

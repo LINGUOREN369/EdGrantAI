@@ -20,3 +20,304 @@ Status: Current but no longer receiving proposals
 Posted date (Y-m-d): 2015-08-03
 URL: https://www.nsf.gov/funding/opportunities/nheri-natural-hazards-engineering-research-infrastructure/nsf15-598
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Natural Hazards Engineering Research Infrastructure (NHERI) Network Coordination Office, Computational Modeling and Simulation Center, and Post-Disaster, Rapid Response Research Facility
+
+I. Introduction
+
+This section provides an overview of the Natural Hazards Engineering Research Infrastructure (NHERI), which originally was described and competed under program solicitation NSF 14-605, Natural Hazards Engineering Research Infrastructure (NHERI) 2015-2019. NSF 14-605 competed the four NHERI components: Network Coordination Office (NCO), Cyberinfrastructure (CI), Computational Modeling and Simulation Center (SimCenter), and Experimental Facility (EF), which included a post-disaster, rapid response research (RAPID) Facility. No awards for the NCO, SimCenter, and RAPID Facility, however, were made under NSF 14-605 . This solicitation only requests proposals for the NCO, SimCenter, and RAPID Facility, and Section II provides further description of these three components. Proposals submitted to this solicitation for any of the other components, i.e., CI and an EF other than a RAPID Facility, will be returned without review.
+
+A. Introduction
+
+During the past several decades, the United States has experienced major earthquake and windstorm (e.g., tornado and hurricane) events, resulting in loss of life, injuries, extensive damage, and loss of basic services vital for post-disaster response and recovery. Such impacts have led to long recovery periods for communities, states, and the nation. The use of experimental testing, computational modeling and simulation, research data, and their integration with theory have become increasingly important research resources to create the knowledge and innovation needed to mitigate the impact of earthquakes and windstorms on our nation's physical civil infrastructure: buildings and other structures, underground structures, and critical lifelines such as communications, energy, transportation, and water/wastewater systems (References 1-6, Section IX).
+
+The National Science Foundation (NSF) has supported the construction (fiscal year (FY) 2000 - 2004) and operations (FY 2005 - 2014) of distributed, multi-user, national earthquake engineering research infrastructure (experimental facilities and cyberinfrastructure) through the George E. Brown, Jr. Network for Earthquake Engineering Simulation (NEES). Through use of NEES, NSF-supported researchers have advanced fundamental knowledge about the seismic performance of civil infrastructure and created sustainable technologies for structural design, structural rehabilitation, and site remediation; computational, simulation, and visualization research tools; experimental simulation techniques and instrumentation; and sensor technologies. In addition, researchers have deployed NEES equipment, sensors, and data acquisition systems to capture large aftershock building response and generate site profiling data following the 2010 Chile and 2010/2011 New Zealand earthquakes. NEES operations was managed under a five-year cooperative agreement during FY 2010 - FY 2014 with Purdue University, hereinafter referred to as the "incumbent." The NEES research infrastructure supported by the incumbent is described at http://www.nees.org . NSF's support for operations of the NEES experimental facilities and research ended on September 30, 2014. However, through NSF support, the incumbent will continue to operate only the NEEShub cyberinfrastructure through September 30, 2015, to provide continued operations for the research community and to assist the NHERI CI Awardee with the cyberinfrastructure transition.
+
+NHERI will be a distributed, multi-user, national facility that will provide the natural hazards engineering community with access to research infrastructure (earthquake and wind engineering experimental facilities, cyberinfrastructure, computational modeling and simulation tools, and research data), coupled with education and community outreach activities. NHERI will enable the community to make research and educational advances collaboratively that can contribute knowledge and innovation to prevent natural hazards from becoming societal disasters. This knowledge base could potentially transform how future civil infrastructure will be designed and how existing civil infrastructure might be rehabilitated.
+
+In accordance with the National Science Board (NSB) Statement on Competition, Recompetition, and Renewal of NSF awards (NSB-08-16) ( https://www.nsf.gov/nsb/publications/2008/nsb0816_statement.pdf ), NHERI will be openly competed and will consist of the following components/awards:
+
+NCO - one award made under this solicitation;
+
+SimCenter - one award made under this solicitation;
+
+RAPID Facility - one award made under this solicitation;
+
+CI - one award made under NSF 14-605 ; and
+
+EF for earthquake engineering and wind engineering research - six or seven awards made under NSF 14-605 .
+
+For all NHERI awards, the lead institution on each cooperative agreement, hereinafter referred to as the "Awardee" in this solicitation, together with all its partner organizations and others supported on the award, are responsible for complying with the terms and conditions of the cooperative agreement. The primary research enabled by NHERI will be conducted by investigators supported through separate NSF awards.
+
+B. Role of NHERI Operations
+
+The NSF awards for NHERI made under NSF 14-605 and this solicitation will contribute to NSF's roles in the National Earthquake Hazards Reduction Program ( http://www.nehrp/gov ) and the National Windstorm Impact Reduction Program. NHERI's earthquake engineering components and activities will form the successor to NEES.
+
+NHERI will be part of the NSF-supported portfolio of large, multi-user facilities. The NSF Large Facilities Manual (NSF 15-089) ( https://nsf-gov-resources.nsf.gov/pubs/2015/nsf15089/nsf15089.pdf?VersionId=G4eS8JPUx1gf.Q8jytI16KO5juyTIv7i ) provides information about the development, construction, and operations of NSF-supported large facilities. As an NSF-supported large facility, within the first two years of the award, Awardees may undergo an NSF business systems review in accordance with the NSF Business Systems Review Guide (NSF 13-100) ( https://nsf-gov-resources.nsf.gov/pubs/2013/nsf13100/nsf13100.pdf?VersionId=UrvOJ53LX4J37AFeYahdyfP3RRCEFL6N ).
+
+II. Program Description
+
+NSF 14-605 competed the four NHERI components: Network Coordination Office (NCO), Cyberinfrastructure (CI), Computational Modeling and Simulation Center (SimCenter), and Experimental Facility (EF), which included a post-disaster, rapid response research (RAPID) Facility. No awards for the NCO, SimCenter, and RAPID Facility, however, were made under NSF 14-605 . To complete NHERI, this solicitation requests proposals only for the NCO, SimCenter, and RAPID Facility, which are described below in Sections II.B through II.F. Proposals submitted to this solicitation for any other component, i.e., CI and an EF other than a RAPID Facility, will be returned without review. Because the NCO, SimCenter, and RAPID Facility integral awards for an integrated NHERI facility, this section includes information about the overall concept for NHERI originally described in NSF 14-605 and the four components of NHERI listed in NSF 14-605: NCO, CI, SimCenter, and EF.
+
+A. Vision for NHERI
+
+NHERI will support multi-hazards engineering research and education, with a focus on earthquake and wind engineering. Historically, research on physical civil infrastructure materials, design, and performance has focused on resilience for a single natural hazard. However, civil infrastructure designed to be multi-hazard resilient will contribute toward broader societal goals, i.e., protect people and property, maintain continuity in essential operations and services, and recover rapidly from a natural hazard event. Design of civil infrastructure is also changing, as strategies for green civil infrastructure are emerging, addressing societal goals for a sustainable nation. Examples of sustainable strategies include sustainable materials, minimization of non-renewable energy use, use of on-site renewable energy source(s), and maximization of material reuse and recyclable components. However, civil infrastructure designs for single hazard resilience do not always take advantage of new technologies for sustainable civil infrastructure and may not provide multi-hazard resilience. NHERI will support research on sustainable civil infrastructure for resilience to single and multiple hazards, such as earthquakes and windstorms.
+
+NHERI will enable research and education that can contribute knowledge and innovation for civil infrastructure, over its lifespan, to be multi-hazard resilient and sustainable. NHERI will also support NSF's core value to broaden opportunities and expand participation of groups, institutions, and geographic regions that are underrepresented in science, technology, engineering, and mathematics (STEM) (Reference 7, Section IX). NSF is committed to this principle of inclusiveness.
+
+The vision for NHERI is to enable frontier research and education to:
+
+Understand, model, and predict the lifecycle performance of civil infrastructure, from component to holistic system levels, under different natural hazard events;
+
+Reduce the reliance on physical testing for modeling the performance of civil infrastructure under natural hazard events through advanced computational modeling and simulation capabilities;
+
+Build the basic science knowledge and computational modeling and simulation capabilities to evaluate multi-hazard resilient and sustainable civil infrastructure and communities;
+
+Translate research into innovative mitigation strategies and technologies to reduce the impact of natural hazards on existing and new sustainable civil infrastructure and communities; and
+
+Integrate research, education, and outreach to train a broad and inclusive STEM workforce to conduct and translate research into an innovation ecosystem for multi-hazard resilient and sustainable civil infrastructure and communities.
+
+B. NHERI Construct: Operational Goals and Governance, Awardee, and User Roles
+
+To support this vision, the operational goals for NHERI are the following:
+
+Effective Council of Awardees (hereinafter referred to as the Council), which provides the collective and coordinated leadership for NHERI to operate as an integrated, cohesive, and transparent national facility in service to the natural hazards engineering community;
+
+Excellence in Awardee leadership, management, award administration, performance assessment, user support, and safe and secure operations of its resources, services, and data infrastructure;
+
+Active involvement of the natural hazards engineering community in Governance and Awardee activities;
+
+Open and equal access to NHERI, with NHERI used by an external and broadly inclusive user base of researchers and educators;
+
+Evidence-based development of the current and next generation workforce to conduct natural hazards engineering research, educational activities, and professional practice; and
+
+Value-added strategic partnerships that bring additional unique national and international resources and capabilities to NHERI.
+
+The NHERI construct will consist of the Awardees (NCO, CI, SimCenter and EF), Governance, and Users, with the role for each outlined below in Tables 1, 2, and 3, respectively. The RAPID Facility is considered part of the EF cohort. The Awardees and user community will work together, through Awardee and Governance activities, to establish a shared community vision for NHERI, set natural hazards engineering research and education agendas and priorities, and make NHERI a value-added and productive national facility.
+
+Awardees : The awards will have the roles shown in Table 1; the requirements and responsibilities for all Awardees and for each component/Awardee are outlined later in this section.
+
+Table 1. Awardees
+
+Component
+
+Role
+
+NCO
+
+The NCO will serve as the scientific national and international leader, community focal point, and network-wide coordinator for Governance, cross-Awardee, and community-building activities. Key activities will include convening the Governance groups, working with the Council to develop consensus-based policies and procedures for NHERI and the annual Council work plan, implementing the Facility Scheduling Protocol to provide users access to the EFs, leading development of the NHERI Science Plan, running NHERI-wide education and community outreach programs, and building strategic partnerships.
+
+CI
+
+The CI Awardee will serve as the integrator for enabling NHERI to be a virtual organization for the natural hazards engineering community, by providing an array of information, resources, and services, including the definitive NHERI website, NHERI data repository, software service delivery platform with computational modeling, simulation, and educational tools, collaboration tools, access to computing resources, and user training and support. The CI Awardee will establish and implement a NHERI-wide cybersecurity plan with all Awardees.
+
+SimCenter
+
+The SimCenter will develop and deliver to the CI Awardee for integration onto the CI Awardee's software service delivery platform, a portfolio of computational modeling and simulation software and educational modules that reflects a balance of community-prioritized, new capabilities for earthquake, wind, and multi-hazard engineering research and education. The Awardee will provide training and technical support to users of its software tools.
+
+EF, including RAPID Facility
+
+Each EF will provide resources, services, and staffing to enable earthquake engineering, wind engineering, or post-disaster, rapid response research. Each EF will provide a well-maintained and fully functioning facility and support users who are provided access through the NCO's Facility Scheduling Protocol. Data generated by EF resources and its users will be archived in the NHERI data repository.
+
+Governance : The Governance structure will be implemented through the four groups shown in Table 2. The "Committees" group may include multiple committees. Each group, including each separate committee under "Committees," will publish an Annual Community Report on the NHERI website. For each of these groups, the names of member organizations and names, including chair positions, must not be included in proposals; rather these groups will be appointed post-award by either the NCO or the user community. The number of in-person meetings to be budgeted for by the NCO is listed in Table 2; for additional meetings, travel costs should be minimized through the use of electronic communication and videoteleconferencing.
+
+Table 2. Governance
+
+Group
+
+Role
+
+Membership
+
+Meeting Frequency
+
+Council
+
+To provide collective and coordinated leadership for NHERI as a national facility.
+
+All Awardee Principal Investigators (PIs).
+
+At least quarterly.
+
+Network Independent Advisory Committee (NIAC)
+
+To provide independent guidance and advice to the Council on the following: (a) progress, plans, and performance of the Awardees and annual Council work plan, (b) an assessment of the level of community engagement and user satisfaction across NHERI, with input from the User Forum survey results, (c) an assessment of NHERI’s continuing value added for and impact on research and educational advancements, and (d) assessment of the transparency and efficiency of the NCO's Facility Scheduling Protocol.
+
+Diverse representation from the broad scientific and engineering communities served by NHERI. Members may not be from an Awardee institution. The NCO will appoint the NIAC members, with input from the Council.
+
+At least semi-annually, with one in-person meeting annually.
+
+User Forum
+
+To provide the Council with independent advice on community user satisfaction, priorities, and needs relating to the use and capabilities of NHERI. Through financial and secretariat support provided by the NCO, the User Forum will conduct annual community user satisfaction surveys for NHERI. Representatives from the User Forum will participate as observers in the NCO's Facility Scheduling Protocol.
+
+User representatives from the broad scientific and engineering communities served by NHERI, elected by the user community; members may not be from an Awardee institution.
+
+At least semi-annually; with one in-person meeting annually.
+
+Committees
+
+To advise the Council on community priorities and needs for NHERI, serving and benefiting multiple Awardees and avoiding duplication of effort and costs among Awardees. The Committee structure will be established by the Council.
+
+Dependent upon purpose; may consist of community/user representatives and/or cross-Awardee staff. The NCO will appoint the committee members, with input from the Council.
+
+Dependent upon purpose of each committee .
+
+Users: Users will contribute to and participate in NHERI, as appropriate, as shown in Table 3.
+
+Table 3. Users
+
+Composition
+
+Role
+
+Users will come from the natural hazards engineering and related communities, including groups, regions, and institutions underrepresented in STEM, and may include both U.S. and international users.
+
+Conduct research and education activities using NHERI’s resources and services. An EF may require that users pay user fees/recharge rates to cover costs not supported by the NSF NHERI award; therefore, users should check with the EF before submitting an NSF proposal.
+
+Contribute computational modeling, simulation, and educational tools to NHERI.
+
+Participate in Awardees' activities.
+
+Provide input on the NHERI Science Plan for future research and education directions.
+
+Serve on Governance groups to represent the priorities, needs, requirements, and feedback from the user community.
+
+Provide feedback in user satisfaction surveys.
+
+Figure 1 shows a notional diagram for the NHERI construct.
+
+Figure 1. Notional NHERI Construct
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 3
+
+Up to three awards as follows:
+
+One award for the Network Coordination Office (NCO).
+
+One award for the Computational Modeling and Simulation Center (SimCenter).
+
+One award for the Post-Disaster, Rapid Response Research (RAPID) Facility.
+
+Anticipated Funding Amount: $19,100,000
+
+The anticipated funding amount of $19,100,000 is the estimated total for up to five years for up to three awards (three Awardees). The table below shows the anticipated annual base budget support for each Awardee, contingent upon the annual budgets of NSF, the annual performance of the Awardee, and the extent of utilization of Awardee resources by NSF-supported research and education awards. For the RAPID Facility Awardee, a one-time budget increase of up to $1,200,000 in year two will be available for new equipment acquisition and commissioning, contingent upon the outcome of the year one merit review and NSF approval.
+
+Additional support, either through an increase in the base budget or as a supplement, may be provided as follows, contingent upon annual appropriations for NSF and NSF approval:
+
+For all Awardees, as appropriate, to support annual Council work plan activities.
+
+For the RAPID Facility, to repair damaged equipment, based on the Special Award Conditions listed in Section VII.B, Award Conditions.
+
+Anticipated Annual Support
+
+Awardee
+
+Year One
+
+Year Two
+
+Year Three
+
+Year Four
+
+Year Five
+
+Network Coordination Office award base budget
+
+$700,000
+
+$900,000
+
+$900,000
+
+$900,000
+
+$700,000
+
+Computational Modeling and Simulation Center award base budget
+
+$2,000,000
+
+$2,200,000
+
+$2,300,000
+
+$2,200,000
+
+$2,200,000
+
+Post-Disaster, Rapid Response Research Facility award base budget
+
+$500,000
+
+$1,800,000
+
+$600,000
+
+$600,000
+
+$600,000
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Universities and Colleges - Universities and two- and four-year colleges (including community colleges) accredited in, and having a campus located in, the US acting on behalf of their faculty members. Such organizations also are referred to as academic institutions.
+
+Who May Serve as PI:
+
+The PI must be a full-time employee of the lead institution by the start date of the NSF cooperative agreement award.
+
+Limit on Number of Proposals per Organization: 2
+
+An academic institution may submit up to two proposals as the lead institution, but may not submit more than one proposal as the lead institution in any one of the following three proposal categories:
+
+Network Coordination Office (NCO),
+
+Computational Modeling and Simulation Center (SimCenter), and
+
+Post-Disaster, Rapid Response Research (RAPID) Facility.
+
+A full proposal involving more than one organization must be submitted as a single administrative package from the lead institution; collaborative full proposals with multiple administrative packages will not be accepted and will be returned without review. If the Principal Investigator of a full proposal leaves or transfers to another institution during the review process or after an award is made, the proposal/award remains with the lead institution. Additionally, the lead institution cannot be changed after submission of the full proposal. National laboratories and private sector companies, as well as non-U.S. institutions, may participate in NHERI award activities using their own resources and cannot receive NSF support from an award made under this solicitation; however, this shall not be interpreted to prohibit purchases, services, or sales contracts/agreements with these entities. A proposal for the RAPID Facility must have all facility resources owned, operated, and maintained by the lead institution and located within the United States to facilitate access by NSF-supported users.
+
+Limit on Number of Proposals per PI or Co-PI: 1
+
+An individual may appear as Principal Investigator (PI) or co-PI in no more than one full proposal. Applicants are responsible for ensuring that no individual is listed as PI or co-PI in more than one proposal. If an individual is included as PI or co-PI in two or more proposals submitted by the full proposal deadline, then the first proposal submitted, based on the FastLane system time stamp, will be deemed the one allowable submission. All subsequent proposals that include the individual as PI or co-PI will be returned without review.
+
+Furthermore, a PI or co-PI may serve as PI or co-PI on only one award made under NSF 14-605 and this solicitation, i.e., a PI or co-PI named on an award made under NSF 14-605 may not serve as a PI or co-PI on an award made under this solicitation. A proposal submitted to this solicitation with a PI or co-PI named on the NSF proposal cover sheet who receives an award under NSF 14-605 will be returned without review. NSF will not allow substitutions of PIs and co-PIs on proposals and/or subsequent awards to circumvent this requirement.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Submission of Letters of Intent is required. Please see the full text of this solicitation for further information.
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide, Part I: Grant Proposal Guide (GPG) Guidelines apply. The complete text of the GPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=gpg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov Guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )
+
+Full Proposals:
+
+Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide, Part I: Grant Proposal Guide (GPG) Guidelines apply. The complete text of the GPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=gpg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov Guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.

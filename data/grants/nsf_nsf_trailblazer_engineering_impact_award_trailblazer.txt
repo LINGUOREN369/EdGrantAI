@@ -12,3 +12,96 @@ Status: Cleared
 Posted date (Y-m-d): 2025-12-11
 URL: https://www.nsf.gov/funding/opportunities/trailblazer-nsf-trailblazer-engineering-impact-award/nsf26-502
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+NSF Trailblazer Engineering Impact Award (TRAILBLAZER)
+
+I. Introduction
+
+The Emerging Frontiers and Multidisciplinary Activities (EFMA) Office in the Directorate for Engineering provides funding opportunities for researchers to advance the frontiers of fundamental engineering research. The EFMA office supports the Emerging Frontiers in Research and Innovation ( EFRI ) program, which provides critical, strategic support of fundamental discovery at the leading edges of engineering research and education. The EFRI program invests in research teams that show a high potential to contribute to new areas of fundamental or applied research, catalyze development of new industries or capabilities that increase the leadership position for the country, and/or make significant progress towards addressing a national need or grand challenge.
+
+The NSF Trailblazer Engineering Impact Award (TRAILBLAZER) program complements the EFRI program by supporting individual innovative and creative scientists and engineers to conduct research in emerging engineering frontiers, not limited to the topics currently and previously supported by the EFRI program. For the program to support the best possible researchers and research projects, individuals that meet the PI eligibility criteria from all geographic locations across the U.S. are strongly encouraged to respond to this solicitation.
+
+TRAILBLAZER project outcomes are expected to catalyze development of new industries or capabilities that increase the leadership position for the country and make significant progress towards addressing a national need or grand challenge, particularly in current priority areas that include, but are not limited to, artificial intelligence (AI), bioengineering, quantum engineering, robotics, and nuclear engineering. These outcomes will be realized through the leadership and vision of a single investigator who demonstrates a deep capacity for research excellence, creativity, collaboration, and innovation.
+
+A distinctive feature of the TRAILBLAZER program is that the PI must demonstrate how their track record of innovation and creativity will be uniquely leveraged to pursue new research directions that are distinct from their previous or current research areas. TRAILBLAZER PIs are expected to develop a compelling vision for the proposed research and lead an effective team to conduct the proposed research activities. These teams are finalized after the award and not at the time of proposal submission. Proposed projects are expected to use exceptionally innovative approaches and/or make unconventional hypotheses to generate pioneering technological advances through a thought leader driven approach.
+
+TRAILBLAZER is not intended to expand a current research program into the proposed area of research. Projects that are extensions of ongoing or previous research are not eligible.
+
+II. Program Description
+
+The TRAILBLAZER program supports individual investigators to undertake projects that have the potential to address new areas of fundamental research related to national needs and/or grand challenges, advance US global leadership in engineering and science, and/or catalyze the convergence of engineering and science domains. The principal investigator must articulate how they would design and lead potentially transformative research projects and make major contributions toward solving significant research problems. The principal investigator must also have a demonstrated record of success and impact in an area of engineering research. Building on this track record of research excellence, creativity and innovation, TRAILBLAZER PIs are expected to propose unconventional hypotheses in new areas distinct from their current or previous research. In this context, the proposed projects should focus on bold, innovative, and potentially risky approaches to address problems that may seem intractable. The proposed research must hold potential for transformative outcomes, address a national need and/or grand challenge, and offer a clear leadership role for Engineering.
+
+Research topics should be relevant to the broad mission of NSF. The TRAILBLAZER program will consider proposals from investigators who propose projects that have the potential for unusually broad impact in engineering research and education, stimulate development of emerging technologies, and/or imagine novel investigative tools. TRAILBLAZER projects should realize the convergence of engineering and science domains.
+
+The TRAILBLAZER proposal does not require a detailed experimental plan or preliminary data. Review of the proposal will focus on the investigator's history of being a creative and innovative researcher, and the suitability of the proposed project for the TRAILBLAZER program.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 5
+
+Anticipated Funding Amount: $15,000,000
+
+Pending the availability of funds.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Submission of Letters of Intent is required. Please see the full text of this solicitation for further information.
+
+Preliminary Proposals: Submission of Preliminary Proposals is required. Please see the full text of this solicitation for further information.
+
+Full Proposals: For proposals submitted via Research.gov, PAPPG guidelines apply. For proposals submitted via Grants.gov, NSF Grants.gov Application Guide guidelines apply.
+
+For proposals submitted via Research.gov, PAPPG guidelines apply.
+
+For proposals submitted via Grants.gov, NSF Grants.gov Application Guide guidelines apply.
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+The PI must hold a tenured or tenure-eligible faculty appointment at the Associate or Full Professor rank or equivalent at an organization that is eligible to submit as described under "Who May Submit Proposals." Additionally, the PI must have an appointment in an Engineering School or College and/or have earned an Engineering Doctorate degree. If the proposal is submitted by a non-profit, non-academic organization, the PI must meet the following requirements: (1) the PI has a continuing appointment that is expected to last the 3 years of a TRAILBLAZER award; and (2) the appointment has substantial research responsibilities.
+
+Prior or concurrent funding support for other projects that overlap with the proposed TRAILBLAZER project will preclude eligibility for a TRAILBLAZER award.
+
+Only single PI TRAILBLAZER proposals will be accepted in response to this solicitation. Collaborative proposals, as described in PAPPG Chapter II.E.3.a. and II.E.3.b,are not allowed. Any proposal submitted with subawards, or as separate submissions from multiple organizations, will be returned without review.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An eligible Principal Investigator may submit only one TRAILBLAZER proposal in response to this solicitation. If an individual is listed as PI on more than one proposal submitted in response to this solicitation, all proposals submitted after the first one will be returned without review. No co-PIs are permitted for either the preliminary proposal or full proposal submission.

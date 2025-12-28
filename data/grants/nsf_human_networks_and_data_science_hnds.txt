@@ -13,3 +13,176 @@ Status: Cleared
 Posted date (Y-m-d): 2023-03-13
 URL: https://www.nsf.gov/funding/opportunities/hnds-human-networks-data-science/nsf23-568
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Human Networks and Data Science (HNDS)
+
+I. Introduction
+
+The systems of networks in which humans are embedded are highly complex. They range from the ever-changing connections between neurons in the human brain to the climates and political structures in which human societies are embedded. The data collected to measure human behavior can be equally complex, whether they arise from designed experiments, field observations, private digital records or from incidental measurements collected from the digital traces that people leave online, with cell phones or the Internet of Things. The Human Networks and Data Science (HNDS) program supports applications of data science lying at the intersection of the social, computer and statistical sciences. HNDS aims to apply methods of data and network science to large quantities of data to advance theories in the social, behavioral and economic (SBE) sciences.
+
+HNDS advances research in the SBE sciences in two ways. First, infrastructure projects funded under HNDS-I develop user-friendly large-scale next-generation data resources and relevant analytic techniques to advance fundamental research in SBE areas of study. Second, core research projects funded under HNDS-R make theoretical contributions to SBE disciplines by applying data-intensive methods to explain human behavior, including the application of social data science and the construction of models of existing or emerging human networks at all levels of human experience.
+
+II. Program Description
+
+The HNDS program offers two tracks: one for infrastructure projects and one for core research activities. Infrastructure projects (HNDS-I) will develop user-friendly large-scale next-generation data resources and relevant analytic techniques to advance fundamental research in SBE areas of study. Successful infrastructure proposals will construct, within the financial resources provided by the award, databases or relevant analytic techniques and produce a finished product that will enable data-intensive research in the social sciences. The databases or techniques should have significant impacts, either across multiple fields or within broad disciplinary areas, by making possible new data-intensive research in the SBE sciences.
+
+Core research projects (HNDS-R) will advance theory in a core SBE discipline by the application of data and network science methods. This includes the leveraging of large data sets with diverse spatio-temporal scales of measurement and linked qualitative and quantitative approaches, as well as multi-scale, multi-level network data and techniques of network analysis. Supported projects are expected to yield results that will enhance, expand and transform theory and methods, and that generate novel understandings of human behavior – particularly understandings that can lead to significant societal benefits or opportunities. HNDS-R encourages core research proposals that make innovative use of NSF-supported data networks, databases, centers and other forms of scientific infrastructure including those developed by HNDS-I (formerly RIDIR) projects .
+
+HNDS-Infrastructure
+
+The goal of the HNDS-I competition is to produce one or both of two types of finished products:
+
+Databases, which may consist of a new large-scale database, a substantial expansion or revision of an extant database or the merging of extant databases. Databases might include traditional relational data in digital form, collections of historical data, images, video and audio recordings, administrative data, records or any other form of structured sets of data. The database must be accompanied by a usable interface that allows for the application of extant analytic tools or analytical tools that are developed as part of the project. Within this competition, the justification for the database rests on the potential it provides for enabling “data-intensive SBE research,” which can be used by substantial numbers of investigators. Central to the evaluation of proposals are the types, scope and potential significance of the research such a database would afford. For this competition, data-intensive research is defined as research involving data resources that extend well beyond the storage requirements, computational intensiveness or complexity that is currently typical in SBE areas of research. HNDS-I proposals should make clear how the proposed activities will enable promising SBE research that would not otherwise be possible. The investigations enabled by such data-intensive research may be within or between any new or existing SBE field or fields. It may involve linkages between SBE sciences and other fields of science, although this is not required.
+
+Analytic or technological tools which would enhance database use or address significant research questions within the SBE sciences. While a strong proposal would produce a tool of general utility, it is desirable that the applicant link or discuss the tool within the context of a specific database or set of databases. The tool must be made readily available to a broad research community at no more cost than is necessary to cover the expenses of its provision.
+
+Successful HNDS-I proposals will describe products that will have significant impacts by enabling new types of data-intensive research. These products should be fundamental and generalizable rather than narrow and specific. Database proposals should define or identify a resource that can be used to answer scientific questions that could not otherwise be addressed. Analytic tool development proposals should be directed towards the same goal of enabling researchers to address new and significant SBE science questions. Investigators are encouraged to think broadly and to create a vision that extends intellectually to more than one SBE area of research, potentially linking to other fields of science as well. Proposals should describe the bodies of data and other significant attributes regarding data structures, metadata, analytics or tools needed to facilitate research. Investigators are encouraged to think creatively about data and consider new data collections, repurpose existing data and new approaches to data as appropriate for the research questions of interest. Novel approaches are encouraged. Proposals should have a well-defined work plan with steps sufficiently detailed to enable a clear understanding of specific work activities and milestones.
+
+An explicit goal of the HNDS-I competition is to establish broad and large-scale databases with relevant analytic tools that will be used by a large number and wide range of researchers. It is anticipated that successful proposals may extend well beyond a single discipline. The relevance of the proposed work should be of interest to a broad intellectual community by virtue of its potential or actual generalizability or extendibility.
+
+HNDS-I proposers should examine the following questions in an integrated manner in their proposals, to the extent that they are relevant to their own projects:
+
+Science: What broad, important, fundamental research questions will be addressed? What research communities would be interested in exploring these questions?
+
+What broad, important, fundamental research questions will be addressed?
+
+What research communities would be interested in exploring these questions?
+
+Information technology: What kinds of data are to be involved, including the metadata and the broader infrastructure in which data are embedded? How will the data be collected? If the database structures are novel (e.g., not a relational database), what would be their design? What analytic or statistical approaches will be provided to analyze the data? What infrastructure and financial support is required to ensure access to and long-term maintenance of these large-scale data?
+
+What kinds of data are to be involved, including the metadata and the broader infrastructure in which data are embedded? How will the data be collected? If the database structures are novel (e.g., not a relational database), what would be their design? What analytic or statistical approaches will be provided to analyze the data?
+
+What infrastructure and financial support is required to ensure access to and long-term maintenance of these large-scale data?
+
+Governance: How will the research communities involved in the project address governance as they relate to issues such as sustainability, access, and ethical use of data relating to privacy and data confidentiality? How will issues such as interoperability and potential integration with existing resources be addressed?
+
+How will the research communities involved in the project address governance as they relate to issues such as sustainability, access, and ethical use of data relating to privacy and data confidentiality?
+
+How will issues such as interoperability and potential integration with existing resources be addressed?
+
+Supplementary Documents for HNDS-I Proposals
+
+In addition to the supplementary documents required in the PAPPG , HNDS-I proposals must include two additional documents uploaded under other supplementary documents. Although, at the principal investigator’s discretion these issues may also be discussed in the proposal’s project description, they must be directly addressed in the supplementary documents.
+
+Technical Plan: A specific and detailed plan and technical details must be presented for how the project goals will be achieved. For example, some considerations to discuss in this section might include: (1) Technicians, either by name or by competence/job qualifications should be identified; (2) If students are involved, how will they be trained? (3) How will the broader research community be informed of the product and trained in its use? A detailed schedule with milestones should be included. (This list is not intended to be complete, page limit: 2 pages.)
+
+Sustainability Plan: How will the product be sustained after the expiry of the award? How will it be maintained and made accessible to the research community? Every project must include an estimate of its annual operational cost if it were to become fully operational. (Page limit: 1 page.)
+
+HNDS-Core Research
+
+HNDS-R seeks proposals that advance theory across the SBE sciences by leveraging large data sets containing a diverse collection of spatially and/or temporally varying measurements at different scales, or by analyzing human network data and the construction of models of human behavior in the context of the networks that influence human life. HNDS-R proposals should address theoretical, disciplinary-specific questions in the SBE sciences from a data-intensive modeling approach that moves away from simplifying assumptions and toward more complex, realistic processes and structures. Such structures might include multidimensional hierarchical networks with nonstationary topology and dynamic systems from which networks emerge. Proposals that leverage NSF-supported data networks, databases, centers and other forms of scientific infrastructure or databases established with HNDS-I or RIDIR awards are particularly encouraged. Please consult the published list of HNDS-I and RIDIR supported infrastructure for more information.
+
+Successful HNDS-R proposals will:
+
+Address a clearly defined theoretical problem in a way that improves understanding of causal mechanisms, AND
+
+Make novel use of data analytics and leverage “big” data sets, AND/OR
+
+Model human behavior using network analysis to improve understanding of how behavior and complex psycho-social systems change over time and in response to shocks or perturbations.
+
+Proposals that are data-driven rather than theoretically motivated are unlikely to be competitive.
+
+HNDS-R is particularly interested in supporting convergent research teams with the expertise necessary to integrate theory across the statistical, computer and social sciences and to address problems involved in scaling smaller datasets and models to larger and real-world applications.
+
+HNDS-R will consider a wide range of award sizes. Project scope, goals and teams should be commensurate with the requested funding amounts.
+
+Additional requirements for HNDS-R proposals
+
+The HNDS-R program will co-review and co-fund projects with other SBE programs. Most HNDS-R proposals should be submitted to a primary core program in the SBE directorate. Investigators should discuss their proposal with the program officer of that primary core program to ensure that it is a good match to that program's call.
+
+HNDS-R proposals can, in special circumstances, be submitted directly to this program solicitation. Investigators must consult with the HNDS program officer before submission for permission and guidance, including determining which program(s) are most suitable for their project. If a proposal is submitted directly to HNDS-R, written permission from the program officer to do so must be submitted as a supplementary document.
+
+HNDS-R proposals should follow the guidance in this solicitation and the guidelines of the core programs that will co-review them. For information about SBE fields to which proposals might be relevant, investigators should consult the NSF funding search page . When appropriate, HNDS-R proposals can also be co-reviewed with programs outside of SBE.
+
+Whether submitted to another primary core program or directly to this program solicitation:
+
+The proposal title should begin with the prefix “HNDS-R:”.
+
+The project summary must explicitly state the SBE discipline(s) involved in the project.
+
+The project summary must include a list of up to five keywords describing the areas of research or applications addressed by the project.
+
+If a proposal is submitted to another core program as the primary Unit of Consideration (UOC), the proposal cover sheet should indicate HNDS-R as a second UOC to guarantee consideration by the HNDS program.
+
+General Considerations
+
+Proposers submitting to either HNDS-I or HNDS-R are strongly encouraged to include, as part of the project description, a discussion of any social and public policy issues that relate to the type, use and acquisition of data associated with their project. Topics bearing on these issues could include the ethical uses of these data, the protection of human-subject privacy and data confidentiality, and how the broader social impacts of the enabled research can enhance the well-being of society and its members. Proposers should make clear the relationship between any new large-scale databases to be developed and existing large-scale databases in related areas.
+
+Ethical use of data, including the privacy and protection of human subjects, is of paramount importance. If the proposed project will involve the use of human data or data related to human activities, PIs should consult with their local institutional review board (IRB) to obtain either IRB approval or official letters of exemption. Proposals will not be recommended for award until and unless appropriate IRB approval or exemption documents have been submitted to NSF. Consult the PAPPG for NSF policies on proposals involving human subjects.
+
+For proposals involving the use of vertebrate animals, sufficient information must be provided in the project description to enable reviewers to evaluate the choice of species, number of animals to be used and any necessary exposure of animals to discomfort, pain or injury. Consistent with the requirements of the Animal Welfare Act [7 U.S.C. 2131 et seq] and the regulations promulgated by the Secretary of Agriculture [9 CFR, 1.1-4.11], NSF requires that proposed projects involving use of any vertebrate animal for research or education be approved by the submitting organization's Institutional Animal Care and Use Committee (IACUC) before an award can be made. See PAPPG for NSF policies on proposals involving vertebrate animals.
+
+Proposers should also be aware of the federal government’s long-term policy regarding “ Increasing Access to the Results of Federally Funded Scientific Research .” This memorandum from the Office of Science and Technology Policy, announced on February 22, 2013 can be viewed on the OSTP web site. See PAPPG, Chapter XI.D.2.c for NSF policy on public access to copyrighted material.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant
+
+Estimated Number of Awards: 5 to 25
+
+The HNDS-I track anticipates funding approximately 4 large infrastructure projects; HNDS-R anticipates funding from 5 to 20 core research projects. Project scope, goals, and teams should be commensurate with the requested funding amounts. Most HNDS-R proposals will be co-reviewed with other SBE programs.
+
+Anticipated Funding Amount: $8,000,000
+
+Total anticipated amount for all awards per year: $8 million. Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+An individual may be listed as a PI or co-PI on only one HNDS-I proposal per year.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

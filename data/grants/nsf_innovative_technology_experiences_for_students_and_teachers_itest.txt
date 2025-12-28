@@ -12,3 +12,262 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2022-04-12
 URL: https://www.nsf.gov/funding/opportunities/itest-innovative-technology-experiences-students-teachers/nsf22-585
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Innovative Technology Experiences for Students and Teachers (ITEST)
+
+I. Introduction
+
+The world is experiencing rapid acceleration in the development of new information and communication technologies (ICT). The convergence of both technological and computational advancement has led to the transformative emergence of artificial intelligence, quantum computing, biotechnology, robotics, and transdisciplinary research across the fields of science, technology, engineering, and mathematics (STEM). The economic prosperity and national security of the United States is reliant upon our capacity to remain competitive in these and continuously evolving technological and computational fields. Remaining competitive, however, is contingent upon our nation’s capacity to educate students in the skills and expertise needed to conceptualize and develop the next generation of technological and computational innovation.
+
+To strengthen the competitiveness of the STEM and computational U.S. workforce, learning and teaching must be reimagined to better represent the diverse cultural composition and perspective of our nation’s people, and be expanded to encompass all pathways for students to receive an equitable, high-quality STEM education that includes learning with technology and applying computing to technical problem-solving. Widespread inequality in education and lack of access to technology is leaving too many students unable to participate in, or contribute to, the nation’s critical technical and computational infrastructure. As a result, the nation’s workforce is unprepared to solve the most pressing scientific and technical problems of our time—affecting not only our nation’s competitiveness, but its national security. In the Biennial Report to Congress (2019-2020) [1] the Committee on Equal Opportunities in Science and Engineering (CEOSE) suggests “diverse perspectives are necessary for solving critical scientific and social challenges, such as disease, hunger, poverty, safety and security. Yet, statistics show relatively little diversity in the fields of science, technology, engineering and mathematics necessary to solve those issues.” The ITEST program, mandated by Congress by the American Competitiveness in the Twenty-first Century Act of 2000 , [2] is one way in which the National Science Foundation (NSF) is responding to the challenge and opportunity to address inequities in STEM education related to the technological and computational workforce.
+
+The overarching vision of the ITEST program is to support applied research and development that provides pre-kindergarten to high school students with equitable and inclusive access to robust, rigorous, and effective learning opportunities using technology integral to a high-quality education in science, technology, engineering, and mathematics. Three core ITEST Pillars ( Innovative Use of Technologies in Learning and Teaching , Partnerships for Career and Workforce Preparation , and Strategies for Equity in STEM Education) frame the opportunities for all students to acquire the foundational preparation in fields aligned with the technological and computational workforce, including students in underserved regions and Tribal Nations where access to technology and virtual learning remains a substantial challenge. Students emerging from their STEM education with proficiency in emerging technological and computational fields will find increasing career opportunities (Office of Occupational Statistics and Employment Projections, 2021).
+
+Proposed ITEST projects are expected to (1) engage students in technology-rich learning to develop disciplinary and/or transdisciplinary STEM content knowledge, including skills in data literacy and evidence-based decision-making and reasoning; (2) prioritize the full inclusion of groups who have been underrepresented and/or underserved, including but not limited to Blacks and African Americans, Alaska Natives, Hispanics and Latinos, Native Americans, Native Hawaiians, Native Pacific Islanders, persons with disabilities, neurodiverse students, and women in the STEM/ICT workforce; (3) motivate students to pursue appropriate education pathways to technology-rich careers; and (4) leverage strategic and community partnerships to expand education pathways in communities through public and private partnerships and collaborations.
+
+[1] National Science Foundation (2020). Committee on Equal Opportunities in Science and Engineering (CEOSE) Biennial Report to Congress: Making Visible the Invisible--Bold Leadership Actions . Retrieved from: CEOSE | 2019-2020 Biennial Report to Congress (nsf.gov)
+
+[2] American Competitiveness in the Twenty-first Century Act of 2000. AICA PL 106-313 PUBLIC LAW 106–313—OCT. 17, 2000. Retrieved from: https://www.congress.gov/106/plaws/publ313/PLAW-106publ313.pdf Section 110
+
+II. Program Description
+
+The following three ITEST Pillars are the core intellectual foci of the ITEST program. In aggregate, these Pillars advance the solicitation’s career and workforce objectives. Each Pillar is required to be presented in all proposals . The perspectives, issues, and elements discussed under each Pillar are for consideration by investigators within the context of the proposed research and development.
+
+A. ITEST Pillars
+
+Pillar 1. Innovative Use of Technologies in Learning and Teaching
+
+ITEST requires that proposed activities engage students and/or informal learners in the use of technologies that will support acquisition of the foundational preparation in STEM and information and communication technologies.
+
+When responding to this Pillar, consideration should be given to how specific disciplinary concepts will be taught, such as how the proposed technology will be used to improve or deepen students’ conceptual and disciplinary understanding, critical thinking skills, development of competencies in computing, computational thinking, data literacy, and evidence-based decision-making and reasoning. It is not sufficient for students to gain only experience in how to use technology. Students need to learn the creative ideas and STEM knowledge behind technology, such as the highly creative application of artificial intelligence used to solve scientific and social problems for the benefit of society or Quantum information science (QIS) as a new field of science and technology. When addressing more than one STEM discipline, as in transdisciplinary learning, discussion of the research on integrative teaching and learning processes is an important consideration.
+
+The following details are considerations for clear descriptions of this required Pillar:
+
+Discuss the key design features of the interventional technology, including grounding in relevant scholarly literatures and/or evidence from practice; how the intervention provides innovative STEM learning experience with age and grade appropriateness, and contributes to broadening participation of students underrepresented and/or underserved in STEM; how the learning process itself will be studied to understand how and under what conditions the technology may have an effect on students’ STEM learning.
+
+Discuss how students’ engagement with the proposed technology-infused disciplinary or transdisciplinary learning activities will strengthen disciplinary knowledge, skills, and dispositions in one or more disciplinary areas; explain the measures for cognitive outcomes (such as changes in knowledge) and social or affective outcomes (such as changes in motivation, engagement, interest, dispositions, or attitudes) and how they are appropriate for participants.
+
+Discuss any professional development of PreK-12 teachers or other relevant educators in the use of technology in the classroom or informal settings for STEM learning; the ways in which the technology will be designed specifically for teaching, and/or integrated within a curriculum, including discussion of specific research methods for understanding how the professional development activity for teachers will ultimately demonstrate an effect on their students’ disciplinary understanding and skills in STEM/ICT.
+
+Pillar 2. Partnerships for Career and Workforce Preparation
+
+Core to this Pillar is the call for investigators to work with community stakeholders to identify and define opportunities for proposed research to support students’ awareness and preparation for careers in the technological and computational workforce.
+
+Opportunities, such as entrepreneurship, apprenticeships, externships, internships, and mentoring can promote or support students’ STEM engagement and interest in STEM/ICT careers. Community stakeholders may include, but are not limited to, neighborhood or community groups, nonprofit or philanthropic organizations, businesses, libraries, museums, educational institutions, and other agencies.
+
+The voices, knowledge, and experiences of individuals who have been underrepresented and/or underserved in STEM should be considered to play a key role at the center of strategic partnerships, collaborations, and career guidance to ensure that students have full and equitable opportunities to prepare for the future workforce. Such community-based strategies include, for example: project leadership, research positions, conceptualization of the partnership, decision-making processes, and interpretation and dissemination of evidence and research results.
+
+The following details are considerations for clear descriptions of this required Pillar:
+
+Describe how partnerships will strengthen existing collaborations and/or develop new connections between educational institutions, employers, and their communities; how will opportunities, such as entrepreneurship, apprenticeships, externships, internships, and mentoring promote or support students’ STEM engagement and interest in STEM/ICT careers. Specify how partnerships directly engage students, parents, and/or teachers in STEM career-based learning experiences, as is age-appropriate and may capitalize on formal and/or informal learning contexts to support academic learning.
+
+Discuss partnerships led by, or that actively incorporate the values and diverse perspectives of individuals from groups that are underrepresented and/or underserved in the technological and computational fields.
+
+Successfully sustaining a partnership requires trust to identify and negotiate differences between policies and culture. Discuss the collaborative theory of action, how it is being implemented, and the ways in which the partnership will benefit students, educators, and strategic partners, such as schools, industries, and professional organizations.
+
+Pillar 3. Strategies for Equity in STEM Education
+
+"The goal of broadening participation is not only an issue of fairness and equal opportunity but is the means of bringing diversity and intellectual breadth to the transformation of science itself." (NSF GPRA Report 2009 and in CEOSE 2011-2012).
+
+The ITEST program seeks to advance NSF’s vision of STEM inclusivity by leveraging diversity of intellectual and cultural perspectives to meet the goal of a fully inclusive and fully diverse STEM workforce. Ensuring equity and strengthening access and inclusion for the diverse groups of PreK-12 learners who are underrepresented and/or underserved in STEM fields is fundamental to broadening participation in the high-quality careers and high-paying jobs in the technological and computational STEM workforce. Exclusion from participation diminishes the nation’s capacity for creative and innovative scientific discovery, including new technologies and advances in computing capacity that the U.S. depends upon for global economic competitiveness.
+
+The following details are considerations for clear descriptions of this required Pillar:
+
+Discuss specific strategies for including participants from underrepresented and/or underserved groups. In this solicitation underrepresented and underserved groups in STEM fields include, but not limited to, Blacks and African Americans, Alaska Natives, Hispanics and Latinos, Native Americans, Native Hawaiians, Native Pacific Islanders, persons with disabilities, persons from economically disadvantaged backgrounds, women, and individuals or representatives of lesbian, gay, bisexual, transgender and queer (LGBTQ) communities.
+
+Discuss strategies needed to overcome any challenges and inequities that exist in areas of practice or organizational culture/climate that have affected participants’ inclusion in the STEM enterprise.
+
+Discuss how strategies and approaches might be advancing educators teaching in communities with high populations of underrepresented and underserved students in STEM.
+
+Discuss explicit strategies for addressing or accommodating the specific characteristics and needs of all targeted underrepresented and/or underserved participants.
+
+B. Research Project Types and Requirements
+
+ITEST proposals must advance the goals of increasing student knowledge of, and interest in, STEM and ICT careers as well as the development of STEM / ICT knowledge and skills required for pursuit of those careers. Proposals should clearly identify the specific age- and grade-appropriate STEM disciplinary concepts and educational practices that will be addressed. There is no expectation that proposals will address all disciplines included in STEM but may engage students or teachers in more than one discipline or as part of an integrated STEM curriculum.
+
+B1. Project Types
+
+ITEST supports three types of applied research and development projects, as well as synthesis studies and conferences/workshops. The amount of funding and duration requested in proposals submitted to the ITEST solicitation should align with the maturity of the proposed work and the size and scope of the empirical effort.
+
+Exploring Theory and Design Principles (ETD)
+
+ETD projects describe and explore extant conditions and factors in the field intended to increase students' (and educators’) STEM knowledge and motivation, participation, persistence, confidence, and resilience in STEM and ICT fields. ETD studies build core knowledge, interrelated theory, design principles and methods. Successful ETD proposals demonstrate strong potential to yield a preliminary theoretical framework, prototype or design principles, methods or features that increase STEM knowledge, and knowledge and interest in STEM and ICT careers among PreK- 12 students in formal and informal settings, particularly students from underserved and/or underrepresented populations. This project type is appropriate for projects in the conceptualization and planning phase with the goal of developing proof of concept.
+
+Up to three years, up to $500,000
+
+Developing and Testing Innovations (DTI)
+
+DTI projects draw on existing theory and evidence to design and iteratively develop interventions, including testing individual intervention components, to provide feedback in the development process. DTI proposals involve designing a theoretically driven innovation, pilot-testing or implementing the innovation and analyzing its outcomes. DTI studies focus on direct engagement with students and educators and assessment of student outcomes relevant to ITEST’s primary goals of increasing student knowledge of, and interest in STEM and ICT careers as well as the development of STEM / ICT knowledge and skills required for pursuit of those careers. Results from DTI studies should inform the project’s guiding theory of change and may lead to additional work to better understand the guiding theory. DTI projects may also indicate that the intervention is sufficiently promising to warrant large-scale testing, and expansion or iteration of innovations. DTI projects must be clear on the guiding theory of change, logic model, or other rationale for the relationship between its proposed activities and anticipated outcomes.
+
+DTI implementation involves all students in underserved and or underrepresented student populations in PreK-12 formal or informal settings. Research on implementation should explicitly attend to the ways in which the design principles or features of the innovation capitalize on the strengths and challenges that participating student populations bring to the learning environments and how the design principles or project features are expected to influence student knowledge of and interest in STEM and ICT careers.
+
+Up to four years, up to $1,300,000
+
+Scaling, Expanding, and Iterating Innovations (SEI)
+
+SEI studies are designed to build on and expand an existing innovation that has evidence of success (including DTI projects or similar innovations previously developed within or outside of the ITEST portfolio). SEI projects (a) broaden the implementation and research of an innovation at a significant scale of five to ten times greater than the original implementation. (b) extend an innovation to different student populations, regions of the country, grade levels or ages of students with varying skills, and educators' capacities in PreK-12 formal and informal settings; (c) examine issues of transferability and generalizability and the factors that support or inhibit scaling; and (d) assess cognitive and social-emotional student outcomes and measure student STEM knowledge and whether students continue to pursue further STEM and ICT education or careers.
+
+Up to five years, up to $3,500,000
+
+Synthesis Studies
+
+Synthesis proposals should focus on a question, issue, or topic of critical importance to the ITEST program’s pillars. ITEST supports various types of syntheses including literature reviews, qualitative meta-syntheses, and meta-analyses focused on effective technology-based models, efforts to advance students’ interest in or awareness of STEM and ICT careers in PreK-12 STEM learning environments, and measurement of cognitive and social-emotional student outcomes in relation to STEM learning and learning environments. Synthesis studies are expected to generate products usable by researchers and practitioners and indicate how the products serve the ITEST program goals. The goals, potential outcomes and dissemination plan for the proposed work should be emphasized. Synthesis proposals must demonstrate a command of the literature or topic to be addressed in both breadth and depth. They should also strive to present the current state of knowledge in the area of interest and highlight issues for future research. Synthesis proposals should explain and justify the methodological approach (e.g., meta-analysis or meta-synthesis), and should outline the systematic steps that will be taken regarding literature identification and decision points (e.g., identifying inclusion and exclusion criteria and outcome measures of interest).
+
+Investigators interested in Synthesis proposals are strongly encouraged to contact a program officer prior to submission to discuss proposal idea(s).
+
+Up to two years, up to $400,000
+
+Conference or Workshop Projects
+
+ITEST supports conference or workshop projects aimed at advancing the ITEST program goals, objectives and pillars as described in this solicitation. All proposals in this category should address the need for the work, why it is timely, and the expected contributions to understanding or advancing the question, issue, or topic. Proposals must demonstrate command of the literature and the challenges and opportunities related to current practice of the topic selected. They must also describe the expertise and selection criteria of participants, include a conceptual framework, a draft agenda, the expected outcomes or products resulting from the conference or workshop activities. Finally, all conference/workshop proposals should discuss how these outcomes will be useful and disseminated to the research and practitioner communities and the broader public. Conference or workshop proposals may be submitted anytime during the year and reviewed accordingly. Proposers should contact a program officer prior to submission to discuss their ideas. For general guidance, follow the PAPPG guidance for preparing Conference Proposals (PAPPG II.E.9). The "Conference" type of proposal should be selected in Research.gov or Grants.gov.
+
+Up to one year, up to $100,000
+
+B2. High-Quality Research Plans, excluding Synthesis and Conference/Workshops
+
+ITEST research and development proposals (i.e., ETD, DTI and SEI projects) must include objectives of frontier educational and societal importance, sound literature reviews, clearly formulated research questions and research designs, and valid and reliable measurement instruments (or plans to develop such instruments). Appropriate data collection and analysis methods that contribute to high-quality evidence-based projects are also required. ITEST proposals must outline a research plan explaining how the project will fulfill its short- and long-term aims. Moreover, projects should focus on ensuring that these elements of the proposal align into a coherent framework.
+
+Students / PreK-12 learners are required participants. Projects proposing teacher professional development are required to address how student outcomes will be examined in relation to educator learning outcomes or learning processes. Research measures should attend to cognitive processes and outcomes (such as changes in knowledge required for STEM and ICT domains and careers), and social-emotional facets of learning (such as changes in motivation, engagement, interest, dispositions, or attitudes towards STEM and ICT careers) for individual and groups of students.
+
+Consistent with the NSF Merit Review Criteria of Intellectual Merit and Broader Impacts, research plans should aim to advance scholarly literatures and promote understanding of the context-specific factors that influence the impacts of designed innovations. Research can be framed as design-based with both practical and theoretical implications. ITEST proposals can include a variety of research designs and methodologies but must include the following four components: (1) a high-quality research plan, including selection of a project type that is aligned to the proposal’s aims, (2) a description of how the proposal addresses ITEST’s solicitation-specific criteria, (3) a project evaluation plan, and (4) a dissemination plan.
+
+The following details are required of all research plans:
+
+Research questions that are appropriately framed and motivated by scholarly literatures relevant to STEM learning, teaching, student interest in and awareness of STEM / ICT careers, broadening participation, innovative uses of technology, and/or strategic partnerships.
+
+Research questions that are theory-oriented and enhance the ability to explain the relation between the proposal’s design and the anticipated outcomes.
+
+Specific plans for collecting quantitative and/or qualitative data that can inform the research questions. Such data may include but are not limited to cognitive and social-emotional outcomes, mediating factors (e.g., patterns of engagement, discussion, and affect), characteristics of participants, features of the innovative technologies, and participants' interactions with them.
+
+Well-defined analytical methods appropriate for drawing inferences from the collected data to address the research questions.
+
+A description of the research team’s roles and expertise including their qualifications for working with the target student population and other research participants.
+
+B3. Solicitation Specific Review Criteria
+
+Consistent with Pillar 3 ( Strategies for Equity in STEM Education ), all ITEST proposals are required to address the Solicitation Specific Review Criteria identified below. Proposers must address these four questions within the project description with appropriate headings:
+
+To what extent does the proposal include explicit and adequate strategies for recruiting and selecting participants from underserved and underrepresented populations in STEM professions, careers, or education pathways?
+
+To what extent does the proposal describe approaches to address diversity, access, equity, and inclusion in PreK-12 learning environments to ensure that all students, particularly those from underserved and underrepresented populations, actively engage with STEM disciplines and fields that stimulate effective instruction and learning?
+
+To what extent does the proposal describe specific research-informed instructional approaches to build on the strengths and challenges that students and their educators bring to classrooms and informal learning environments, particularly with students from underserved and underrepresented populations in STEM fields?
+
+To what extent does the proposal explain how planned innovations with the technology are developmentally and age-appropriate for students and suited for the specific populations of students and educators from underserved and underrepresented student populations?
+
+In addressing the solicitation-specific review criteria, ITEST especially welcomes proposals that will pair well with the efforts of NSF Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science (NSF INCLUDES) to develop STEM talent from all sectors and groups in our society. Collaborations are encouraged between ITEST proposals and existing NSF INCLUDES projects, provided the collaboration strengthens both projects.
+
+B4. Project Evaluation
+
+ITEST proposals must include a project evaluation plan that details the mechanisms that will be used to assess the project’s success in developing students’ STEM knowledge and their knowledge of and interest in STEM and ICT careers. The evaluation plan should describe the steps that will effectively provide feedback on all aspects of the work both formatively and summatively. Evaluation plans can involve an external Advisory Board and/or a formal external evaluation, depending on the project’s aims and scope of work.
+
+Formative evaluation is often designed to document the extent to which project activities are being carried out as intended and to provide information on interim outcomes. Such information allows the project team not only to assess success over the course of the project, but also to make mid-course corrections iteratively to improve the project. Summative evaluation activities typically focus on documenting the final outcomes achieved and the extent to which these are in line with the original goals of the project. Evidence from ongoing evaluative activities may provide valuable insights into any discrepancies between stated and achieved outcomes.
+
+The following details are essential for clear descriptions of a project evaluation plan:
+
+Identification of the mechanisms for providing independent oversight and review of these activities (e.g., an independent, third-party evaluator or an external advisory board).
+
+Articulation of evaluation questions relevant to the project's scope of work.
+
+Delineation of the activities and data that will be used to gather evidence that informs the evaluation questions and identification of the project staff who will be responsible for gathering this evidence.
+
+Description of how the project plans to use the evaluation evidence, including how feedback will be shared, with whom (e.g., project leadership, external advisors), and for what purpose (e.g., to inform ongoing project management, to supplement research findings and contribute to the generation of knowledge).
+
+Inclusion of project evaluation activities in the project timeline.
+
+B5. Dissemination of Findings
+
+ITEST proposals are required to include a communication strategy for reaching broad audiences, including scholars, practitioners, policymakers, and the public. While the potential results of the proposed research are expected to be of sufficient quality and significance to merit peer-reviewed publications, approaches that reach broader audiences are also expected.
+
+The following details are essential for clear descriptions of this component:
+
+Key elements of the communication plan, such as target audiences and the channels, media, or technologies appropriate for reaching specific audiences.
+
+Dissemination strategies that reach audiences that are appropriate to the strategic partnership, in addition to scholars reached through publications and presentations in conferences and other similar environments.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 24 to 33
+
+ITEST expects to fund between 24 and 33 awards per year depending on the type of proposal and funding level.
+
+8 to 10 awards for Exploring Theory and Design Principles for Innovations (ETD) with durations up to three years and budgets up to $500,000;
+
+8 to 10 awards for Developing and Testing Innovations (DTI) with durations up to four years and budgets up to $1,300,000;
+
+3 to 5 awards for Scaling, Expanding, and Iterating Innovations (SEI) with durations up to five years and budgets up to $3,500,000;
+
+2 to 4 awards for Syntheses with durations up to two years and budgets up to $400,000; and
+
+2 to 3 awards for Conferences with durations of one year and budgets up to $100,000.
+
+In addition, ITEST intends to fund one Resource Center with a duration up to five years and total funding up to $5,000,000 in FY 2023. This award will be made as a grant.
+
+Anticipated Funding Amount: $25,000,000 to $30,000,000
+
+NSF anticipates having approximately $25,000,000 to $30,000,000 available for the FY23 competition and approximately $25,000,000 to $30,000,000 each year thereafter.
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

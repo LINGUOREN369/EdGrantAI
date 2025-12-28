@@ -11,3 +11,256 @@ Status: Cleared
 Posted date (Y-m-d): 2024-10-07
 URL: https://www.nsf.gov/funding/opportunities/ca-sr-cultural-anthropology-program-senior-research-awards/nsf25-502
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Cultural Anthropology Program Senior Research Awards (CA-SR)
+
+I. Introduction
+
+The Cultural Anthropology Program supports empirically grounded research that will improve understanding of the general principles and processes that underlie human social and cultural diversity. To that end, research can take place at any scale from the individual to the household, the community, and globally. While the program does not support research whose only goal is improved policy, clinical practice or other immediate application, we recognize that many of the problems that plague the country and the world today are either anthropogenic in origin or are exacerbated by anthropogenic activities. Because anthropologists approach the human species holistically, they are uniquely positioned to contribute to understanding and therefore building the knowledge base to help ameliorate these problems. Consequently, the Cultural Anthropology Program encourages basic, theory-testing and generalizable research that also addresses pathways from theory to application and use.
+
+The NSF Cultural Anthropology Program invites proposals for projects that increase our understanding of all aspects of human social and cultural life, including but not limited to the following:
+
+Contemporary urbanization and urban life.
+
+The interaction between critical natural processes such as land cover change, climate patterns and sociocultural systems and behavior.
+
+Resilience and robustness of sociocultural and socio-ecological systems under stress, including natural and anthropogenic disasters.
+
+Variability in human sociality, including structures and processes of differentiation, inequality, cooperation, regulation and conflict.
+
+Human mobility and migration.
+
+Variability and change in systems of kinship, concepts of relatedness and family norms.
+
+Culturally grounded and empirically driven theories and models of health and disease transmission at multiple scales.
+
+Material and consumer cultures, including changing forms of communication and connectivity and human-technology interfaces.
+
+Language and culture, sociolinguistics, cognition and theories of meaning-making and belief.
+
+Mathematical and computational models for sociocultural research, including social network analysis, agent-based models, hierarchical models, cultural transmission dynamics and machine learning.
+
+Convergent research that integrates knowledge and techniques from multiple scientific fields.
+
+Activities that support research skills enhancement, such as training in research methodologies and analytical techniques at the pre- and post-Ph.D. levels, and activities, such as research planning conferences and the development of data management infrastructures, that enhance and encourage collaboration and data sharing among anthropologists and between anthropologists and other scientists, including supporting the improved maintenance of the anthropological record.
+
+To further these priorities, the NSF Cultural Anthropology Program supports multiple types of proposals, as described in the PAPPG . This solicitation provides additional guidance on the following:
+
+Senior Research Proposals
+
+Faculty Early Career Development (CAREER) Program Proposals
+
+Scholars Proposals
+
+Mid-Career Advancement (MCA)
+
+Facilitating Community-Engaged Research Proposals and Supplemental Funding Requests
+
+TREES - Trans-disciplinary REsearch in Environmental Social Science
+
+Proposals for conferences and research community development activities
+
+Research Experiences for Undergraduates (REU) and Research Experiences for Graduate Students (REG) Supplemental Funding Requests
+
+Research Experiences for Post-Baccalaureates Supplemental Funding Requests
+
+Facilitating Research at Primarily Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA)
+
+EArly-concept Grants for Exploratory Research (EAGER) Proposals
+
+Rapid Response Research (RAPID) Proposals
+
+This list does not exhaust the full range of types of proposals described in the PAPPG. Rather, these are the ones most commonly submitted to the Cultural Anthropology Program. Researchers are always welcome to consult with the program officers about which NSF mechanisms and programs might best support their research, including programs other than Cultural Anthropology.
+
+II. Program Description
+
+The goal of the Cultural Anthropology Program is to support significant and innovative empirical and theoretical research on humans as cultural beings, wherever they may live. While the 21st century can be characterized by unprecedented interconnectedness among people and societies, the world today is still far from homogeneous. Research is needed, therefore, from multiple perspectives and at multiple levels of data collection and analysis to document, understand and explain social and cultural diversities, commonalities and patterns and their impacts on human lifeways and outcomes.
+
+Proposals are welcome in all areas of cultural anthropology. Historically, anthropologists have focused on rich, empirical descriptions and analyses of specific societies and cultures. Increasingly, attention has turned to a range of global processes, such as economic and cultural globalization, new forms of labor migration and responses to socio-environmental change. We particularly encourage proposals that are both ethnographically grounded and attuned to larger significance, including paying heed, theoretically and methodologically, to the meso-scale interface between local and global. Mindful of anthropology's interdisciplinary nature, we welcome convergent research that integrates knowledge and techniques from across multiple scientific fields.
+
+Proposal Categories
+
+Senior Research Proposals
+
+Most proposals will fall into this category. The senior designation includes all researchers who have a Ph.D. or equivalent education and experience, sufficient to allow them to carry out independent basic research. A project can be proposed to be carried out by a single researcher or a research team comprising a principal investigator along with co-principal investigators, other senior/key personnel, post-doctoral researchers and other key/personnel (including specialists from other disciplines and other countries) as needed for the conduct of the research. Projects can be proposed for periods of time up to 36 months.
+
+Budget Guidelines for Senior Research Proposals
+
+Senior Research Awards rarely exceed $120,000 per year of the project. Please see recent award sizes and note that budgets must be commensurate with proposed activities and must directly support the objectives of the research. Budget requests are reviewed carefully at all stages of the evaluation process, and proposals with budgets that are justified and appropriate to the scope of the project are prioritized. Requests for up to 36 months may include salary, travel expenses (including lodging and per diem as required to conduct the research away from one's primary performance site), research assistance, participant incentives, equipment, open-access publication costs and other direct costs of research. Please consult the PAPPG for designations of allowable and unallowable costs.
+
+Faculty Early Career Development (CAREER) Program Proposals
+
+The Cultural Anthropology Program participates in the NSF-wide CAREER Program for junior faculty (untenured but tenure-track or equivalent). CAREER proposals have a maximum duration of five years, and the proposed work should be of sufficient scope, originality and significance to justify that amount of time. In addition to research costs, proposers may include expenses for specialized training to enhance their research and their future professional trajectory. As explained in the CAREER solicitation, CAREER proposals must have an educational component; the Cultural Anthropology Program suggests that this component may be integrated with the research, either in the field or at the home institution.
+
+Researchers who want to submit CAREER proposals should consult the CAREER-specific solicitation for eligibility information, submission deadlines (which are different from other Cultural Anthropology proposals) and other CAREER Program requirements. After submission, each CAREER proposal is checked to determine that it is compliant with CAREER Program requirements. Compliant proposals are then reviewed along with other senior research proposals submitted to the Cultural Anthropology Program.
+
+Budget Guidelines for CAREER Proposals
+
+Unlike senior research proposals, the minimum CAREER award in Cultural Anthropology is $400,000 and up to five-years (60 month) duration. Consult the award database for recent award sizes.
+
+Scholars Proposals
+
+The Cultural Anthropology scholars awards support specialized methodological training for post-Ph.D. cultural anthropologists who have active research programs that would be enhanced by such training. The goal of the program is to improve anthropological research skills by affording researchers the opportunity to undertake training not normally available on their home campuses. Support may be requested to learn any methodological skill that will advance the research agenda, as justified in the proposal with reference to results from prior work. Previous awardees have received training in a wide range of methods drawn from such diverse fields as meteorology, ichthyology, hierarchical modeling, demography and speech therapy.
+
+Please note that these are training awards , not research awards. The proposal must include a detailed study plan that indicates sponsorship by a senior expert (who should not have been involved with the proposer's Ph.D.), with whom the proposer will study and/or who will supervise the planned program of study. A signed statement affirming sponsorship must be included in the proposal (as a supplementary document). Proposals should show how this additional expertise would improve the proposer's ability to do research by referring to specific ongoing research projects and publications. Requests for support of a general upgrading of quantitative or methodological skills, for coursework routinely available on university campuses, or for language training will not be successful. Scholars proposals should be submitted in accordance with the PAPPG requirements to the Cultural Anthropology target dates. Proposals are reviewed alongside other senior research proposals in the Cultural Anthropology Program.
+
+Budget Guidelines for Scholars Proposals
+
+Scholars awards have a ceiling of $75,000 and a maximum duration of 36 months. They may include requests for summer salary, academic year release time, per diem, travel, equipment, supplies and other training expenses, as well as applicable indirect costs.
+
+Mid-Career Advancement Proposals
+
+The Mid-Career Advancement (MCA) program offers an opportunity for scientists and engineers at the mid-career stage to substantively enhance and advance their research program and career trajectory. MCA support is expected to help lift constraints to reduce workload inequities and enable a more diverse scientific workforce at high academic ranks. Researchers who are interested in submitting an MCA proposal should consult the separate cross-directorate Mid-Career Advancement solicitation .
+
+Facilitating Community-Engaged Research Funding Requests
+
+Funds for developing community-engaged research can be requested as a supplement to an active award or as a proposal for a stand-alone engagement effort prior to the submission of a standard research proposal. These funds support mutually beneficial and respectful interactions that not only produce meaningful research and education or outreach outcomes, but also focus on the concerns of partnering communities, including questions of data sovereignty, co-authorship or co-review of project outcomes. Such projects should be innovative, potentially novel and unique, and not ordinarily plausible via support from other funding opportunities.
+
+Researchers interested in this opportunity must contact the Cultural Anthropology program officers to discuss proposed activities and budget requirements. The proposal or supplemental funding request must describe the personnel and the activities that will be conducted as part of the engagement process as well as the anticipated duration of research activities. Costs may be for travel, meetings and other activities directly related to establishing and maintaining the engagement process. Community-engagement proposals should be submitted in accordance with the PAPPG requirements to the Cultural Anthropology target dates, while supplemental funding requests can be submitted at any time. Proposals are reviewed alongside other senior research proposals in the Cultural Anthropology Program.
+
+TREES - Trans-disciplinary REsearch in Environmental Social Science
+
+The science of socio-environmental systems involves the integration of social science and environmental science, but TREES projects must specifically result in advances in social and behavioral sciences to understand the complex interactions between people and the environment. TREES projects should pose research questions that will advance theory both in the science of socio-environmental systems and basic anthropological and/or human-environmental and geographical sciences.
+
+For TREES proposals, trans-disciplinary research teams are encouraged to incorporate diverse disciplinary perspectives that are necessary for an integrated science of social and environmental systems. Proposals that include plans for multi-method analysis should demonstrate how findings will be synthesized across different approaches.
+
+The TREES track is open to a broad range of research questions and methodological approaches. Researchers submitting to this track are encouraged to consider innovative research designs that integrate complementary sources of data and analytical approaches, potentially at multiple spatial, temporal, or organizational scales of analysis.
+
+Budgetary Guidance for TREES Proposals:
+
+The duration of funded TREES awards is generally expected to be three or four years. Requested budgets should be commensurate with the proposed activities and will typically not exceed an average range of $200,000 to $250,000 per year across the requested award duration.
+
+TREES proposals will be evaluated by review panels composed of interdisciplinary scholars with diverse expertise in social, behavioral, and environmental sciences.
+
+Conference Proposals
+
+The Cultural Anthropology Program supports thematic conferences designed to bring together active researchers and students to foster new research and new research standards in areas of current interest. The program does not support gatherings whose purpose is primarily to convey the results of completed research. Conference proposals should generally be submitted a year in advance of the proposed event. The program also encourages the inclusion of graduate students and members of groups underrepresented in anthropology as active conference participants and the consideration of formats that are most conducive to accessibility and inclusion. While conference proposals may be submitted at any time, we reserve the right to have them reviewed by review panels along with other senior research proposals submitted to the regular target dates. Please consult the "Conference" section of the PAPPG for further instructions, including a list of required elements and budget exclusions. Please follow those instructions while keeping in mind the Cultural Anthropology Program's specific interests and limitations.
+
+Budget Guidelines for Conference Proposals
+
+Cultural Anthropology Program conference support is typically in the range of $20,000 to $40,000, inclusive of indirect costs. We encourage seeking support from multiple agencies and organizations.
+
+Research Community Development Activities Proposals
+
+Over the years, the NSF Cultural Anthropology Program has supported numerous research community development activities for graduate students and faculty. These have included field schools in the U.S. and abroad, summer training programs for both graduate students and faculty, software development, a program for mid-project research team meetings and small awards for preparation of materials for archiving by retiring researchers. Researchers who intend to submit a Research Community Development Activity proposal should consult with a program officer before submitting to ascertain the suitability of the envisioned activity. These proposals are reviewed along with other senior research proposals and should be submitted to one of the target dates for this solicitation. Proposers should follow the guidance in the PAPPG, adapting the project description as needed for the particulars of the project.
+
+Budget Guidelines for Research Community Development Activities Proposals
+
+Please see recent award sizes and note that budgets must be commensurate with proposed activities and must directly support the objectives of the research. Budget requests are reviewed carefully at all stages of the evaluation process, and proposals with budgets that are justified and appropriate to the scope of the project are prioritized. Requests for up to 36 months may include salary, travel expenses (including lodging and per diem as required to conduct the research away from one's primary performance site), research assistance, participant incentives, equipment, open-access publication costs and other direct costs of research. Please consult the PAPPG for designations of allowable and unallowable costs.
+
+Research Experiences for Undergraduates (REU) and Research Experiences for Graduate (REG) Students Supplemental Funding Requests
+
+For the Cultural Anthropology Program REU and REG supplements, proposers are advised that the PI should be a senior (that is, post-Ph.D.) anthropologist who holds existing NSF award(s) either from the Cultural Anthropology Program or from another NSF program. These requests are submitted as supplements to the PI's existing award. If the existing award is not with the Cultural Anthropology Program, please advise the Cultural Anthropology Program when the request is submitted so that the supplemental funding request proposal can be transferred. This opportunity is not limited to students at the PI's institution. Special consideration will be given to opportunities for students at institutions that lack doctoral programs in anthropology-related disciplines and at institutions that receive NSF funding relatively infrequently. Investigators are especially encouraged to support research and mentorship opportunities for students at Minority Serving Institutions .
+
+The student's research must be their own. These supplements are not intended to support clerical or research assistance to the PI. They also are not intended to support language training except in the context of the research project. The purpose of the REG and REU supplements is to provide promising cultural anthropology students opportunities for independent research while also encouraging PIs to mentor students in collaborative activities. The expectation is that an REU student is planning to go to graduate school in cultural anthropology and that the REG student intends to continue graduate school through the Ph.D. Requests for support of master's students will be considered. Requests for REG and REU supplements should optimally be submitted by March 1, annually, but requests may also be accepted at other times of the year by contacting a program officer in advance.
+
+The supplemental funding request should include a two to three-page description of the project to be undertaken, written by the student; a 1-2 page endorsement of the student by the PI mentor, identifying the grounds for the student's selection as well as the PI's plans for mentoring the student; a 2-page biographical sketch for the student; and a budget with budget justification. See the Dear Colleague Letter: Cultural Anthropology Research Experience for Graduates (REG) and Research Experience for Undergraduates (REU) Supplements for more details.
+
+Budget Guidelines for REG and REU Supplement Requests
+
+This supplemental funding provides up to $6000 for an REG or REU student to support the cost of the student's independent research activity. NSF expects that participant costs are included under the participant support costs category (Line F) in the budget. A modest amount for materials and supplies can be requested and should be included on line G1 in the budget. All costs should be clearly explained in the budget justification. Indirect costs should be calculated only on the amount listed on line G1.
+
+Research Experiences for Post-Baccalaureates
+
+PIs of existing NSF awards may submit supplemental funding requests for one post-baccalaureate individual to obtain anthropological research experiences that will augment their preparation for graduate school admission or other STEM career opportunities. A post-baccalaureate student is defined as an individual who has a bachelor's degree but is not currently enrolled in another degree program. The Cultural Anthropology Program is particularly interested in increasing the participation of post-baccalaureate individuals from underrepresented groups in anthropology and STEM who desire to engage in research or who want to pursue a career in STEM but who did not have the opportunity to begin or complete a research experience as an undergraduate student. Examples of such experiences include, but are not necessarily limited to, training in field research or in a particular specialized laboratory or computational methods, including secondary data analysis. PIs must provide the participant(s) with an independent but guided research project and professional development. Ideally, participants will be involved in the development of their research project. PIs are expected to provide training in ethics and the responsible conduct of research and to inform participants of institutional policies or code of conduct on sexual harassment.
+
+Researchers must contact the Cultural Anthropology program officers prior to submitting a supplemental funding request. A supplemental funding request must include a PI statement of no more than two pages that describes the participant's involvement in the research project, the mentoring plan for the participant including any professional development activities, and information on the recruited participant, including a brief biographical sketch. The statement should also describe how the proposed program would contribute to the participant's long-term career goals and how the supplemental funding will serve to broaden participation. Supplements may be submitted at any time and in accordance with the guidelines found in the PAPPG.
+
+Budget Guidelines for Post-Baccalaureate Supplemental Funding Requests
+
+The Cultural Anthropology Program will consider funding requests up to three months and $8,000 for a post-baccalaureate individual, to support the costs of the individual's training through an NSF-funded research project. Participant support costs can include a stipend (recommended at $650/week for full-time participation) and, as appropriate, fringe benefits and travel. NSF expects that participant costs are included under the participant support costs category (Line F) in the budget. A modest amount for materials and supplies can be requested and should be included on line G1 in the budget. All costs should be clearly explained in the budget justification. Indirect costs should be calculated only on the amount listed on line G1.
+
+Facilitating Research at Primarily Undergraduate Institutions: Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA)
+
+The Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA) funding opportunities support research by faculty members at predominantly undergraduate institutions (PUIs). RUI proposals support principal investigators at PUIs in research that engages them in their professional field(s), builds capacity for research at their home institution and supports the integration of research and undergraduate education. ROAs similarly support PUI faculty research, but these awards typically allow faculty to work as visiting scientists at research-intensive organizations where they collaborate with other NSF-supported investigators.
+
+Budget Guidelines for RUI Proposals RUI proposals are reviewed alongside other senior research proposals in the Cultural Anthropology Program. Please refer to the RUI guidelines for additional details on submission requirements. For questions about the ROA supplement opportunity, please contact the Cultural Anthropology program officer(s).
+
+Early-Concept Grants for Exploratory Research (EAGER) Proposals
+
+The Cultural Anthropology Program supports EAGER proposals for funding research on untested but potentially transformative research ideas and approaches. Researchers must have prior approval from a Cultural Anthropology program officer to submit an EAGER proposal. The EAGER proposal type should not be used for proposals that could be submitted to a regular competition, so the initial inquiry should explain carefully why the anticipated project fits the EAGER criteria. There are no deadlines, the project description is limited to no more than 8 pages, and only internal NSF review is required. Please see the full description of this proposal type in the PAPPG.
+
+Budget Guidelines for EAGER Proposals
+
+The Cultural Anthropology Program rarely supports EAGER budgets over $50,000, which is less than the maximum allowed by the PAPPG. The maximum duration is 24 months.
+
+Rapid Response Research (RAPID) Proposals
+
+RAPID awards support urgent research. The urgency must arise in two ways: first, that unanticipated research data would be lost if the researchers had to wait for the completion of a normal review cycle; and second, that the loss of data would prevent theory-advancing or testing insights that would otherwise be possible. Conditions that justify the need for RAPID support typically involve unanticipated access to rarely available specialized equipment, research sites or specialized informants. RAPID support is often requested for quick-response research on natural or anthropogenic disasters and other unanticipated events. Unfortunately, anthropologists encounter disasters and urgent situations all too often. To be successful for RAPID support, investigators must convincingly argue that the particular situation to be investigated will produce data that are unlikely to be found in any other situation and that are essential for addressing clearly identified and potentially transformative research questions. RAPID support is not intended for simple post-disaster appraisals and documentation. If the research is routine, failure to plan ahead is not sufficient rationale for RAPID support.
+
+Researchers must contact a program officer in advance of submitting RAPID proposals. In this initial email, proposers should briefly explain the data to be collected, why these data are scientifically important, an estimate of the needed budget and a timeline for the research. RAPID proposals are limited to 5 pages and only internal NSF review is required, so funding can be made available relatively quickly. More details can be found in the PAPPG.
+
+Budget Guidelines for RAPID Proposals
+
+Please note that the Cultural Anthropology Program rarely supports RAPID budgets over $30,000, which is less than the maximum allowed by the PAPPG. The maximum duration is 12 months.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 30 to 40
+
+Anticipated number of awards annually is 30-40.
+
+Anticipated Funding Amount: $4,000,000
+
+Anticipated Funding Amount is approximately $4,000,000, for all new and continuing awards combined, not including DDRIG awards, pending availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

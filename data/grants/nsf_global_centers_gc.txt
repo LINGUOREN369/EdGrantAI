@@ -14,3 +14,124 @@ Status: Cleared
 Posted date (Y-m-d): 2024-03-11
 URL: https://www.nsf.gov/funding/opportunities/gc-global-centers/nsf24-556
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Global Centers (GC) Use-Inspired Research Addressing Global Challenges through the Bioeconomy
+
+I. Introduction
+
+Recognizing the critical value of international partnerships to advance research that addresses global challenges, this competition will support cutting-edge, interdisciplinary, use-inspired research in the bioeconomy in collaboration with international partnerships to foster breakthroughs and encourage knowledge to action to address global challenges. Awards will promote the creation of prominent, enduring, international centers of research excellence that advance knowledge, empower communities, and co-generate discovery and innovative solutions at the regional and/or global scale.
+
+Successful proposals will be driven by a bold vision for high-impact, use-inspired research centers along with a clear strategy to leverage funding to integrate diverse perspectives from different disciplines, international partners, and stakeholder groups into the research. The "used-inspired" nature of the research refers to project outcomes leading to foreseeable benefits to society. They are expected to demonstrate the potential to scale up and expand their research, while building a scientific and stakeholder community potentially able to carry out the work beyond the center funding period.
+
+Awards will enable research at the leading edge of science and engineering by facilitating partnerships with others nationally and internationally, by educating and preparing a diverse, world-class research workforce, and by furthering international collaboration. The partnerships should also foster participation of the full spectrum of diverse talent in STEM in both research and education plans.
+
+Awards should maximize the benefits of international, interdisciplinary collaborations and indicate how these multilateral teams are uniquely positioned to address these global challenges even beyond what bilateral partnerships could accomplish. Proposals should also describe the roles and responsibilities of each national team in uniquely contributing to the goals of the proposed Global Center.
+
+II. Program Description
+
+A. PROGRAM OBJECTIVES
+
+Program Objectives are to:
+
+create physical or virtual international research centers that advance innovative, interdisciplinary, use-inspired research and education on the bioeconomy to address societal challenges through international collaboration and multi-stakeholder engagement;
+
+promote international collaboration for advantages of scope, scale, flexibility, expertise, facilities, and/or access to specific geographic locations, to enable advances that could not occur otherwise;
+
+expand opportunities for students and early career researchers to gain education and training in world class research while enhancing the participation of the full spectrum of diverse talent in STEM. Where possible, provide opportunities for workforce training in bioeconomy that does not require advanced degrees but training of a competitive workforce; and
+
+integrate stakeholders and community members into the planning of the research so that centers reflect a co-designed and co-developed work plan that results in co-generation of results likely to be taken up by relevant user groups to solve urgent societal challenges at a regional or global scale to support the communities that they serve.
+
+B. PROJECT CHARACTERISTICS
+
+The research centers should involve multiple constituencies and institutions. Proposers should be tackling scientific challenges that are larger in scale than can be accomplished by a single institution, a single discipline, or a single country.
+
+A center may be focused on a geographic region but should explain how that science is regionally or globally transferable. Proposed centers may involve collaboration with other international research partners beyond the initial bilateral or multilateral collaboration with partner funding agencies.
+
+Centers will support use-inspired research directed by an ambitious research agenda to address a societal challenge of regional or global importance related to the bioeconomy that requires international collaboration, multi-stakeholder engagement, and full integration of one or more social science disciplines that ensure results will be of value to constituents.
+
+The proposed center must have a clearly defined research focus and demonstrate how international collaboration will produce innovative use-inspired outcomes in research and education. The research should be fundamental, and the proposal should indicate how recipient stakeholders were involved in co-generation of the research plan and how likely outcomes would be used by those groups.
+
+Centers must explain how they will fully integrate broadening participation activities into the scientific plan, recognizing that such activities not only help diversify the research workforce, but fundamentally impact how the science is conducted and who is involved and included in the development of scientific ideas.
+
+Proposed centers must provide meaningful international research experiences for students from the U.S. and the international partners. Centers must have clear research and educational plans with identified milestones, potential roadblocks, and ways to overcome them, as well as expected deliverables and outcomes with associated timelines within the funding period timeframe.
+
+The proposal should describe the expected results that are associated with project milestones and projected growth of the center based on an explicit implementation strategy.
+
+Teams proposing research to address societal challenges that disproportionately impact specific groups in the U.S. and/or abroad are strongly encouraged to engage those stakeholders as co-collaborators in designing their role research endeavor and as recipients impacted by the center's outcomes.
+
+Each center should identify relevant stakeholders and clearly explain how it will engage them in a manner that will drive the basic science research priorities. Stakeholders may be local communities, government (local, state and/or federal) agencies, nonprofit organizations, private sector businesses, and other entities.
+
+Centers may exhibit diverse forms of organization, collaboration, and operation suited to support their priorities, approaches, and practice.
+
+Centers must have plans in place for enabling research across disciplines and institutions and should identify and implement a structure that will enable interaction among the various institutions, stakeholders, and communities. The center may be completely virtual, or it may have a physical central location, although the GC program will not fund the building of a new physical infrastructure.
+
+It is anticipated that over the lifespan of the center the research pursued and the activities it engages in may evolve. The proposal should explain how its leadership, approach, and structure can evolve to best serve all the participants and the evolving scientific focus. However, during the funding period, any change of scope would have to be justified and agreed upon by the funding agencies.
+
+The proposed center should have a vision and strategy for potential growth, scaling up, and building a relevant community able to carry out the work beyond the funding period.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 5 to 7
+
+Anticipated Funding Amount: $25,000,000
+
+The estimated number of awards and anticipated funding level are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+An individual may be listed as a PI or a co-PI on no more than one proposal submitted in response to this solicitation. Proposals exceeding this limit will be returned without review in the reverse order received.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

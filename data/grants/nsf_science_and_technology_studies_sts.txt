@@ -15,3 +15,334 @@ Status: Cleared
 Posted date (Y-m-d): 2022-08-24
 URL: https://www.nsf.gov/funding/opportunities/sts-science-technology-studies/nsf22-629
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Science and Technology Studies (STS)
+
+I. Introduction
+
+Science and Technology Studies (STS) is an interdisciplinary field that investigates the conceptual foundations, historical developments and social contexts of science, technology, engineering and mathematics (STEM), including medical science. The STS program supports proposals across a broad spectrum of research that uses historical, philosophical and social scientific methods to investigate STEM theory and practice. STS research may be empirical or conceptual; specifically, it may focus on the intellectual, material or social facets of STEM.
+
+II. Program Description
+
+STS research encompasses a wide range of methods and disciplines. Some researchers rely on primary data collected during fieldwork or on existing sources of secondary data. Others use data from historical or governmental archives, while others develop conceptual or social analyses to answer theoretical or ethical questions. STS researchers draw on the resources and methods of a wide range of disciplines, including anthropology, communication studies, economics, history, philosophy, political science, psychology and sociology. They come from an even broader range of fields, in addition to those already mentioned, including the natural and physical sciences, engineering, liberal arts and humanities. The range of STS research is reflected by the primary STS professional societies, including the Society for Social Studies of Science (4S), the Society for the History of Technology (SHOT), the History of Science Society (HSS), the Philosophy of Science Association (PSA), the American Association for the History of Medicine (AAHM), the American Society for Environmental History (ASEH), the Society for Philosophy of Science in Practice (SPSP) and the International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB).
+
+STS research seeks to understand how scientific knowledge is produced and sanctioned, and how it is challenged and changes. It examines the theoretical foundations of science, brings to light underlying presuppositions and alternative interpretations, and assesses the reliability of research methods. It investigates how materials, devices and techniques are designed and developed; how and by whom they are diffused, used, adapted and rejected; how they are affected by social and cultural environments; and how they influence quality of life, culture and society. It also considers how socio-cultural values are embedded in science and technology, and how they evolve with the development and use of scientific knowledge and technological artifacts. In addition, it explores relationships between STEM and fundamental social categories.
+
+Traditional STS Focus Areas
+
+The program encourages research that furthers STS as a multidisciplinary and interdisciplinary field, including, but by no means limited to the following:
+
+Research on the social organization of scientific work and how this shapes the production of knowledge and its intellectual and social impacts.
+
+Research on the historical, conceptual and methodological foundations of any of the natural, social or engineering sciences including their foundations, origins or place in modern society.
+
+Mixed methods approaches and other approaches that integrate multiple STS perspectives with each other or with innovative approaches from the arts or humanities.
+
+Interdisciplinary projects on topics of broad societal concern that engage in integrative, collaborative research involving at least one STS expert and at least one expert in some other STEM field, with prospective outcomes that serve to advance both fields.
+
+STS projects that contribute to NSF's research-focused Big Ideas , or that contribute to other pertinent initiatives such as Ethical and Responsible Research (ER2) , Science of Broadening Participation and ADVANCE .
+
+New Areas of Emphasis for STS
+
+The STS program strongly encourages research that addresses complex socio-technical and techno-scientific problems from multiple perspectives that capture the different social facets of the problem. The goal is to bring different disciplinary and interdisciplinary perspectives to the problem and thereby make use of a variety of theoretical frameworks and methodological approaches. Some examples of questions that address such problems may include, but are by no means limited to, the following:
+
+How can emerging technologies such as machine learning systems, gene drives or quantum computers be developed and implemented so that they can benefit everyone? How are people interacting with these emerging technologies and how will they affect culture, society and norms?
+
+What are the best approaches for maintaining and developing the built environment while respecting the natural environment as well as local cultures and values? What factors need to be considered to ensure that technologies work well within social and cultural contexts?
+
+How can major technological shifts in energy, algorithm usage, transportation or communication be accomplished in ways that are transparent and consistent with societal values, engage diverse perspectives in all phases of development and benefit broad sectors of society?
+
+Guidelines for Developing Effective STS Proposals
+
+Effective STS proposals fully address both merit review criteria: intellectual merit and broader impacts. They situate the proposed project in pertinent STS literatures, issues and conceptual or theoretical frameworks, and articulate how the results of the proposed project would advance some STS subfield. They also clearly indicate central research questions, explain the methods to be used to answer those questions, provide a detailed research plan, and specify the project's potential broader impacts, including plans for realizing those impacts.
+
+The research plan should provide a timeline, and it should show that there are adequate resources to successfully complete the project. If the research plan involves archival work, work in specific labs or engagement with pertinent community groups, it is also important to provide evidence of access to these research sites and groups. If the plan involves surveys, the proposal should discuss relevant issues such as sample size, selection criteria and survey design and content. Similarly, proposals involving interviews, focus groups, ethnographies, computational modeling, conceptual analysis, archival work or big data analysis should discuss the relevant details of study design.
+
+Potential broader impacts must be fully addressed in the proposal. The Project Summary should describe specific, feasible broader impacts of the project, and the Project Description should include detailed plans to achieve those impacts. Investigators should develop plans for engaging in new modes of broad dissemination of research results that target pertinent audiences, including academics, stakeholders and the public.
+
+Potential investigators who have concerns about whether their proposal fits the goals of the program are encouraged to send a one-page prospectus of their proposal idea to the STS Program Directors. The prospectus should include the core research questions, the methods to be used in answering them and a sense for the literature, issues and conceptual frameworks of some recognized STS subfields (indicated above) that will be employed in the project.
+
+Relationships Between STS and Other Related SBE Programs
+
+The STS Program and the Ethical and Responsible Research (ER2) Program both support research on core relationships between ethics and science. The ER2 Program is focused primarily on what constitutes and promotes responsible research conduct and how to instill that knowledge in researchers, practitioners and educators. By contrast, the STS Program supports research into ethical issues that may arise in close connection with developments in STEM research or on the ways in which STEM knowledge may impact our understanding of ethics itself.
+
+The STS Program and the Science of Science: Discovery, Communication and Impact (SoS:DCI) Program both support research on core relationships between science and society. The SoS:DCI Program is focused predominantly on research to increase the public value of scientific activity through a better understanding of scientific discovery, communication and evidence-based policy making. By contrast, the STS program supports research on how scientific knowledge is produced, reproduced and maintained within a social context, and how science and its societal context mutually influence each other.
+
+GRANT TYPES SUPPORTED BY STS
+
+STS program supports a variety of grant types, listed below with associated guidelines. Funding caps on the grant types supported by the STS program are expressed in terms of the requested amount, which is the amount listed on the cover page of the proposal.
+
+The program mainly supports Standard Research Grants, Grants for Collaborative Research, Scholars Awards, Research Community Development Grants, Conference Grants and Doctoral Dissertation Research Improvement Grants.
+
+In addition, the program may support other NSF-wide grant mechanisms that are detailed in NSF's PAPPG , including Rapid Response Research (RAPID), Early-concept Grants for Exploratory Research (EAGER) and Research Advanced by Interdisciplinary Science and Engineering (RAISE).
+
+The following provides additional guidance for each grant type beyond that contained in the PAPPG or NSF Grants.gov Application Guide.
+
+STANDARD RESEARCH GRANTS and GRANTS FOR COLLABORATIVE RESEARCH
+
+These grants support proposals for basic STS research. They also support proposals for infrastructure development that serves to enhance STS research; program support of infrastructure projects is directed towards scholarly research and data production, rather than administrative or logistical activities.
+
+Eligibility Requirements for Standard Grants and Collaborative Research Grants
+
+These grants are made to U.S. institutions of higher education and to U.S. nonprofit, non-academic organizations.
+
+Budget Guidelines for Standard and Collaborative Research Grant Proposals
+
+Program guidelines and restrictions:
+
+These grants are governed by NSF's general policy, which limits salary compensation for senior project personnel to no more than two months of their regular salary in any one year. If anticipated, any compensation to such personnel for more than two months must be disclosed in the proposal budget, justified in the budget justification, and must be specifically approved by NSF in the award notice budget.
+
+Research assistance may be requested and must be justified in laying out the plan of work in the Project Description.
+
+Funds may also be requested for other research related expenses, such as data collection or data processing activities, a planned workshop, a consultant or some other professional service, an advisory committee or travel expenses (for research or for the dissemination of research results).
+
+Due to budgetary constraints, the Requested Amount will rarely exceed $750,000 including indirect costs. The duration is typically two to three years. Proposals exceeding the suggested time frame or budget must have extraordinary justification and merit for eclipsing the requested guidelines.
+
+SCHOLARS AWARDS
+
+Scholars Awards provide up to full-time release for an academic year and a summer to conduct research. This time can be distributed over two or more years. In exceptional circumstances, longer releases can be requested.
+
+Eligibility Requirements for Scholars Awards
+
+Scholars Awards are made to U.S. institutions of higher education and U.S. nonprofit, non-academic organizations.
+
+Budget Guidelines for Scholars Award Proposals
+
+These awards provide course-release support for research for up to one full-time academic year (nine person-months), covering both salary and fringe benefits.
+
+The award may be for up to three years to allow researchers to spread the nine person-months of support over a longer period, if, for example, university policy only permits one quarter release time per year.
+
+They may also provide support for up to two months, including salary and fringe benefits.
+
+Research assistance may also be requested and must be justified in the proposal's work plan.
+
+Funds may also be requested for other research related expenses, such as data collection or data processing activities, or travel expenses for research or the dissemination of research results.
+
+Due to budgetary constraints, the requested amount will rarely exceed $350,000. The duration is usually one year. Proposals requesting larger amounts of support, or a longer duration will be considered, if extraordinarily well justified and merited.
+
+RESEARCH COMMUNITY DEVELOPMENT GRANTS
+
+The STS Program supports community development activities for graduate students and faculty. Such activities include field schools in the United States and abroad, summer training programs for both graduate students and faculty, a program for mid-project research team meetings, and small awards for preparation of materials for archiving by retiring researchers. Researchers who intend to submit a Research Community Development proposal should consult with an STS Program Officer before submitting, to ascertain the suitability of the envisioned activity.
+
+Eligibility Requirements for Research Community Development Grants
+
+These grants are made to U.S. institutions of higher education and to U.S. nonprofit, non-academic organizations.
+
+Budget Guidelines for Research Community Development Grant Proposals
+
+There is no award ceiling, but please be advised that a typical research community development grant award in the STS Program is expected to be in the range of $75,000-$100,000 per year of the project (corresponding to line L of the yearly budget), for up to 36 months. The PAPPG provides guidance about allowable and unallowable costs. Due to budgetary constraints, the Requested Amount will rarely exceed $300,000.
+
+CONFERENCE GRANTS
+
+These proposals should be prepared in accordance with the guidance in PAPPG Chapter II.E.9. Additional program guidelines and restrictions are provided below.
+
+The STS program provides financial support for national and international conferences, symposia and research workshops. The program is particularly interested in proposals that promote new research networks between researchers in STS and scientists and engineers, or between STS scholars and members of scholarly communities not normally in contact with each other. A goal of the gathering should be the development of a new field of scholarship, pedagogy or research.
+
+Proposals for conference or workshop support should describe the need for the gathering, the proposed date and location, topics and persons who will be involved, prior related meetings, publicity, and expected outcomes. Conferences and workshops may not be carried out as special sessions in regular meetings of professional societies; they may be held before or after a regular meeting of a professional society, if justified. Meetings should usually be open.
+
+Eligibility Requirements for Conference Grants
+
+All categories of proposers recognized by NSF are eligible to submit proposals. See the PAPPG (Chapter I.E) for more information about who may submit proposals.
+
+Budget Guidelines for Conference Grant Proposals
+
+The requested amount for conferences and workshops is expected to be under $50,000.
+
+Expenses (travel, stipends, etc.) for attendees should be entered on the Participant Support line of the budget.
+
+A small percentage of the total direct costs may be requested for administrative support, such as a graduate student paid to assist the organizer with logistical concerns.
+
+Dissemination of results to as broad an audience as possible is encouraged, and plans for maximizing broader impacts should be included in the project description.
+
+DOCTORAL DISSERTATION RESEARCH IMPROVEMENT GRANTS (DDRIGs)
+
+DDRIGs provide funds for dissertation research expenses not normally available through the PhD student's university. The dissertation director is the Principal Investigator on these proposals; the doctoral student should be listed as Co-Principal Investigator.
+
+DDRIG proposals should be prepared in accordance with the guidelines for regular research proposals specified in the PAPPG as supplemented by the guidance in this solicitation. The Project Description should not exceed 10 pages and should describe the scientific significance of the work, including its relationship to other current research, and the design of the project in sufficient detail to permit evaluation. It should present and interpret progress to date if the research is already underway. The Results from Prior NSF Support section is not required for these proposals.
+
+Awards are not intended to cover the full costs of a student's doctoral dissertation research. Funds may be used only for valid research expenses which include, but are not limited to, conducting field research in settings away from campus that would not otherwise be possible, data collection costs, or travel to archives or special collections. Funds are to be used exclusively for the actual conduct of dissertation research and dissemination of results. These funds may not be used as a student stipend, for tuition, textbooks, journals or for the typing, reproduction or publication costs of the student's dissertation. Funds may only be requested for undergraduate research assistants in very special circumstances, which should be carefully justified.
+
+The DDRIG program requires a letter of support from the student's dissertation director to be included in the proposal. This letter is not intended as a traditional recommendation, but should evaluate the student's promise as a researcher, the student's capabilities for undertaking this project and the value and status of the proposed research. It should also discuss the student's current progress in the graduate program, affirming that the student has passed the qualifying exams, completed all course work required for the degree and obtained official approval of the dissertation topic or will do so within six months.
+
+If the doctoral student will use the award for travel expenses to work with a specialist, then the program requires that the proposal provide a justification for the choice of the specialist and include a letter of collaboration from the specialist agreeing to work with the student. The letter of collaboration should not provide any evaluative content concerning the quality of the work or of the student.
+
+The letter of support from the dissertation director and letters of collaboration (if any) should be placed in the Supplementary Documents section of the proposal. Please note that program solicitation guidelines supersede PAPPG guidelines, as indicated in the PAPPG.
+
+Eligibility Requirements for Doctoral Dissertation Research Improvement Grants
+
+Only doctoral students who are enrolled in graduate programs at US graduate research institutions are eligible to apply.
+
+Doctoral students must have passed the qualifying exams, have completed all course work required for the degree and have official approval of the dissertation topic prior to receiving the award.
+
+Budget Guidelines for Doctoral Dissertation Research Improvement Grant Proposals
+
+Due to budgetary limitations, the requested amount for DDRIG proposals should not exceed $25,000.
+
+Neither the PI (the dissertation director) nor the Co-PI (the dissertation student) should be listed on the Senior/Key Personnel section of the Budget page, since DDRIG proposals do not provide funds for salaries or stipends for the doctoral student, the dissertation director or other faculty advisors. After the PI and the Co-PI are entered on the cover sheet, their names should be manually removed from the Senior/Key Personnel section of each budget page to avoid voluntary committed cost sharing, which is not permitted.
+
+OTHER FUNDING OPPORTUNITIES
+
+FACULTY EARLY CAREER DEVELOPMENT (CAREER) GRANTS
+
+The STS Program participates in the NSF-wide CAREER Program for junior faculty (untenured but tenure-track or equivalent). CAREER proposals have a mandatory duration of five years, and the proposed work should be of sufficient scope, originality and significance to justify that amount of time. As explained in the CAREER solicitation, CAREER proposals must have an integrated research and education plan. In addition to providing support for research and education efforts, proposers may include expenses for specialized training to enhance their research and future professional trajectory.
+
+Researchers who want to submit CAREER proposals should consult the CAREER solicitation for eligibility information, submission deadlines (which are different from the STS submission deadlines) and other CAREER Program requirements. After submission, each CAREER proposal is checked to determine that it is compliant with CAREER Program requirements. Compliant proposals are then reviewed along with other research proposals submitted to the STS Program.
+
+Budget Guidelines for Faculty Early Career Development Grant Proposals
+
+The minimum Requested Amount is $400,000 and the duration must be for five years. The STS program strives to make more awards by funding CAREER proposals closer to the minimum award size.
+
+MID-CAREER ADVANCEMENT (MCA) GRANTS
+
+The STS Program participates in the NSF-wide MCA Program. It provides an opportunity for STS researchers at the Associate Professor rank (or equivalent) to substantively enhance and advance their research program through synergistic and mutually beneficial partnerships, typically at an institution other than their home institution. Projects that envision new insights on existing problems or identify new but related problems previously inaccessible without new methodology or expertise from other fields are encouraged. Partners from outside the PI's own sub-discipline or discipline are encouraged, but not required, to enhance interdisciplinary networking and convergence across science and engineering fields.
+
+Researchers who want to submit MCA proposals should consult the MCA solicitation for eligibility information, submission deadlines (which are different from the STS submission deadlines) and other MCA Program requirements. After submission, each MCA proposal is checked to determine that it is compliant with MCA Program requirements. Compliant proposals are then reviewed along with other research proposals submitted to the STS Program.
+
+Budget Guidelines for Mid-Career Advancement Grant Proposals
+
+MCA proposals may request funds to support the mid-career researcher and one month of summer support for each collaborative partner (in lieu of summer support for the partner(s), other reasonable collaborative costs may be considered). Funds may include up to a total of 6.5 months of salary (plus fringe benefits) over the course of the award, and up to $100,000 for other direct costs in support of the research advancement and training plan. These funds (salary and direct costs) are not yearly allocations, but rather total amounts that can be expended over the course of three years. The $100,000 direct cost allotment should include funds to cover the cost of attendance of one in-person two-day awardee networking meeting held at NSF headquarters in Alexandria, VA. Costs for one partner to accompany the mid-career researcher at this meeting may be requested but must be included as part of the $100,000 direct cost cap.
+
+RESEARCH COORDINATION NETWORK (RCN) GRANTS
+
+The STS Program supports the NSF-wide Research Coordination Network (RCN) program. RCN awards are intended to advance research directions by supporting new, thematically focused collaborations of researchers to communicate and coordinate research, training and educational activities across disciplinary, organizational, geographic and international boundaries. RCN awards do not support primary research, existing research networks, ongoing collaborations or collaborations at a single institution. Instead, they are intended to advance the creation of new collaborations, new fields and new research directions.
+
+Budget Guidelines for Research Coordination Network Grant Proposals
+
+The maximum Requested Amount is $500,000 and the maximum duration is five years. RCN proposals should be submitted directly to the STS Program, but researchers should follow the guidelines described in the RCN Program Solicitation .
+
+EARLY-CONCEPT GRANTS FOR EXPLORATORY RESEARCH (EAGER)
+
+The STS Program supports EAGER proposals for funding research on untested but potentially transformative research ideas and approaches. Researchers must have prior approval from an STS Program Officer to submit an EAGER proposal. The EAGER proposal type should not be used for proposals that could be submitted to a regular competition, so the initial inquiry should explain carefully why the anticipated project fits the EAGER criteria. There are no deadlines, the Project Description is limited to 8 pages, and only internal NSF review is required. Please see the full description of this mechanism in the PAPPG .
+
+Budget Guidelines for EAGER Proposals
+
+The maximum Requested Amount is $300,000 and the maximum duration is two years.
+
+RESEARCH ADVANCED BY INTERDISCIPLINARY SCIENCE AND ENGINEERING (RAISE) GRANTS
+
+The STS Program welcomes requests to submit a RAISE proposal. This type of proposal is for unusually bold, innovative, risky, potentially transformative and unconventionally interdisciplinary research for which there is no other appropriate NSF program. Researchers must receive written approval from a Program Officer in the STS Program and a Program Officer from at least one other distinct NSF program that is in a different Directorate before being allowed to submit a RAISE proposal. There are no deadlines and the review process is internal. Please refer to PAPPG for more details.
+
+Budget Guidelines for RAISE Proposals
+
+The maximum Requested Amount is $1 million and the maximum duration is five years.
+
+RAPID RESPONSE RESEARCH (RAPID) GRANTS
+
+RAPID grants support urgent research when data would be lost if the researchers had to wait for the completion of a normal review cycle. This might be because of unanticipated access to rarely available specialized equipment, research sites or specialized informants. RAPID support is often requested for quick-response research on natural or anthropogenic disasters or other unforeseen events. To be successful in a request for RAPID support, investigators must convincingly argue that the situation to be investigated will produce data that are unlikely to be found in any other situation and that are essential for identified and important research questions. RAPID support is not intended for simple post-disaster appraisals and documentation.
+
+Researchers must contact an STS Program Officer in advance of submitting a RAPID proposal. In the initial email, proposers should briefly explain why this research is suitable for RAPID funding, the data to be collected, why these data are scientifically important, an estimate of the necessary budget and a timeline for the research. RAPID proposals are limited to five pages and only internal NSF review is required, so funding can be made available relatively quickly. More details can be found in the PAPPG .
+
+Budget Guidelines for RAPID Proposals
+
+The maximum Requested Amount is $200,000 and the maximum duration is one year.
+
+RESEARCH EXPERIENCES FOR UNDERGRADUATES (REU) SUPPLEMENTS
+
+The STS Program supports the REU Supplement Program . Proposers are advised that the Principal Investigator (PI) should be a tenured or tenure-track researcher who holds an existing NSF award either from the STS Program or from another NSF program. Each student's research must be his or her own research project. These supplements are not intended to support clerical or research assistance to the PI. They also are not intended to support language training except in the context of the research project. The purpose of the REU supplements is to provide promising STS undergraduate students with opportunities for independent research while also encouraging PIs to mentor students in collaborative activities. The expectation is that an REU student is planning to go to graduate school in some STS subfield. Requests for REU supplements should ideally be submitted by March 1, annually, but requests may also be accepted at other times of the year by contacting an STS Program Officer in advance.
+
+The supplemental funding request should include: (1) a two to three page description of the project to be undertaken, written by the student; (2) a one to two page endorsement of the student by the PI mentor, identifying the grounds for the student's selection as well as the PI's plans for mentoring the student; (3) a two-page biographical sketch for the student; and (4) a budget with budget justification.
+
+These requests are submitted as supplemental funding requests to the PI's existing award. If the existing award is not with the STS Program, please consult with an STS Program Director before submitting a request for supplemental funding.
+
+Budget Guidelines for REU Supplemental Funding Requests
+
+The maximum Requested Amount is $16,000 to support up to two STS undergraduate students at $8,000 per student to support the cost of the student's independent research activity.
+
+Other Grant Opportunities for STS Researchers
+
+STS researchers are encouraged to consider funding opportunities in related programs including:
+
+Ethical and Responsible Research (ER2)
+
+Science of Science: Discovery, Communication, and Impact (SoS:DCI)
+
+SBE Office of Multidisciplinary Activities (SMA)
+
+In addition, STS researchers should also consider other programs that provide interdisciplinary funding opportunities.
+
+Dynamics of Integrated Socio-Environmental Systems (DISES)
+
+Advancing Informal STEM Learning (AISL)
+
+Convergence Accelerator (C-Accel)
+
+NSF Research Traineeship (NRT)
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 40
+
+Anticipated Funding Amount: $6,200,000
+
+Approximately $6,200,000 will be made available in FY 2023 to support an estimated 40 awards. Estimated program budget and number of awards are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Organization limit varies by the type of proposal: Standard Research Grants and Grants for Collaborative Research: U.S. Institutions of Higher Education and U.S. Non-profit, Non-academic Organizations. Scholars Awards: U.S. Institutions of Higher Education and U.S. Non-profit, Non-academic Organizations. Professional Development Grants: U.S. Institutions of Higher Education and U.S. Non-profit, Non-academic Organizations. Research Community Development Grants: U.S. Institutions of Higher Education and U.S. Non-profit, Non-academic Organizations. Doctoral Dissertation Research Improvement Grants: U.S. Institutions of Higher Education. Conference Support: No limitations. See the PAPPG for a description of each eligible category of proposer.
+
+Standard Research Grants and Grants for Collaborative Research: U.S. Institutions of Higher Education and U.S. Non-profit, Non-academic Organizations.
+
+Scholars Awards: U.S. Institutions of Higher Education and U.S. Non-profit, Non-academic Organizations.
+
+Professional Development Grants: U.S. Institutions of Higher Education and U.S. Non-profit, Non-academic Organizations.
+
+Research Community Development Grants: U.S. Institutions of Higher Education and U.S. Non-profit, Non-academic Organizations.
+
+Doctoral Dissertation Research Improvement Grants: U.S. Institutions of Higher Education.
+
+Conference Support: No limitations.
+
+See the PAPPG for a description of each eligible category of proposer.
+
+Who May Serve as PI:
+
+PI eligibility limit varies by the type of proposal. See Section II. Program Description for detailed information about each type of proposal.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

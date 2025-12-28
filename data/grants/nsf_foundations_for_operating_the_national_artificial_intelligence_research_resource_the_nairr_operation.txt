@@ -17,3 +17,178 @@ Status: Cleared
 Posted date (Y-m-d): 2025-09-02
 URL: https://www.nsf.gov/funding/opportunities/nairr-oc-foundations-operating-national-artificial-intelligence/nsf25-546
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Foundations for Operating the National Artificial Intelligence Research Resource: the NAIRR Operations Center (NAIRR-OC) (NAIRR-OC)
+
+I. Introduction
+
+Artificial intelligence (AI) is rapidly expanding from the research lab to everyday life. Its impact can be seen in nearly every discipline, from health care to transportation, finance to education. Maintaining unchallenged U.S. leadership in AI requires investment in foundational research, fundamental advances and new applications that can rapidly translate to economic growth and output. To drive innovation, discovery, and national competitiveness in AI, U.S. researchers, educators, and developers must be empowered with the state-of-the-art AI capabilities and tools to maintain and accelerate progress, and to grow the next generation of AI talent.
+
+Many researchers and educators, however, lack the necessary access to the capabilities and tools to fully conduct their work and to train the rapidly expanding AI workforce. The NSF-led National AI Research Resource (NAIRR) is a vision for a national infrastructure that aims to connect U.S. researchers and educators to advanced public and private-sector AI resources to overcome these access barriers and thereby accelerate AI-driven discovery and innovation. The overarching goals for the NAIRR are to:
+
+accelerate AI and AI-powered discovery and innovation;
+
+expand the AI workforce and train the next generation of AI researchers and educators;
+
+increase capacity, integration, and use of world-class public and private-sector AI resources; and
+
+advance AI interpretability, security, and trust.
+
+The NAIRR Pilot is a major initiative to jump-start the path to a sustainable long-term NAIRR. The Pilot was launched in January 2024 ( https://www.nsf.gov/focus-areas/artificial-intelligence/nairr ) and is led by the U.S. National Science Foundation (NSF) with a consortium of 14 other agencies and 28 private sector partners who are contributing in-kind state-of-the-art AI resources and classroom tools including computing, data, foundation models, licensed tools and other resources as well as expertise. In its first 18 months, the NAIRR Pilot has successfully connected over 400 research teams and educators across 48 states to this unique array of critical AI resources.
+
+NSF leads the NAIRR Pilot public-private consortium through light-weight governance structures, providing guidance and active oversight of Pilot operations in coordination with other federal partners. NSF has leveraged and expanded many existing investments in high-performance computing, distributed cyberinfrastructure, and associated coordinated user services, which, in the ensemble, have allowed the Pilot to rapidly integrate the resources contributed by partners and make them available to researchers and educators through a central Pilot Portal ( https://nairrpilot.org ). NSF has also made parallel investments to nurture the emerging NAIRR Pilot user community. These efforts include supporting workshops ( https://nairrpilot.org/news/community-workshops ) and providing outreach, training, and education opportunities ( https://www.nsf.gov/funding/opportunities/dcl-nairr-pilot-expansion-researcher-training-community-outreach ) to expand NAIRR Pilot participation; supporting demonstration projects that explore novel AI research pathways that innovatively use — or contribute to — NAIRR capabilities ( https://www.nsf.gov/funding/opportunities/dcl-national-artificial-intelligence-research-resource-nairr/nsf24-093 ), including secure environments for sensitive data; and to opportunities for the research and education community to contribute datasets to the Pilot ( https://www.nsf.gov/funding/information/dcl-national-ai-research-resource-nairr-pilot-seeks-datasets ).
+
+The rapid success and growth of the NAIRR Pilot in terms of resources offered, national user base, and scientific and educational impact has catalyzed the need for a sustainable approach to both current Pilot operations and the transition to the envisioned long-term NAIRR. As recommended by America's AI Action Plan ( https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf ), this solicitation aims to address this need by supporting the establishment of a community-based organization (the NAIRR Operations Center, NAIRR-OC) that will be responsible for unified foundational operations of the NAIRR and potential transition to a long-term national capability.
+
+Key definitions for this solicitation:
+
+NAIRR-OC
+
+National AI Research Resource Operations Center
+
+NAIRR Project Management Office (PMO)
+
+The NAIRR Project Management Office represents the programmatic staff that will provide federal government oversight of the NAIRR-OC. The NAIRR PMO will be administratively housed in NSF's Office of Advanced Cyberinfrastructure and may include participation from NAIRR partner agencies. The NAIRR-OC will be expected to work closely with and carry out certain activities on behalf of the NAIRR PMO.
+
+Cooperative Agreement
+
+The expected award mechanism for the NAIRR-OC. More information can be found in the PAPPG Introduction, Section D .
+
+NAIRR-OC Director
+
+The Principal Investigator of the NAIRR-OC award
+
+NAIRR-OC Leadership Team
+
+The team that will oversee activities of the NAIRR-OC, as well as provide vision and strategy in conjunction with the NAIRR PMO. NAIRR-OC leadership team members include the PI, co-PIs and senior investigators on the NAIRR-OC award.
+
+NAIRR Pilot
+
+The Pilot phase of the NAIRR, launched in January of 2024 and providing initial resources to research and education communities while demonstrating the feasibility of a NAIRR. Details about NAIRR Pilot services can be found at https://nairrpilot.org/about .
+
+Federal Agency Partner
+
+A federal agency that has representation on the NAIRR Steering Committee and can provide input into the strategic direction of the NAIRR.
+
+Private Sector Partner
+
+A non-government entity (such as a for-profit, non-profit, or philanthropic organization) that is contributing resources to the NAIRR.
+
+Resource
+
+Resources made available to the research and education community via the NAIRR, including:
+
+Computational resources, including on-premises advanced computing, cloud computing, and emergent resources;
+
+Data resources, including search and discovery services, data commons, access to data repositories and curated data sets, models, and software relevant to NAIRR communities;
+
+Educational tool and services;
+
+AI Testbeds; and
+
+Other resources deemed useful and relevant to NAIRR communities.
+
+Such resources may be private sector or agency funded.
+
+Resource Provider
+
+A private sector or federally funded organization that operates or maintains infrastructure resources made available as part of the NAIRR.
+
+Federally Supported Resource
+
+A resource of the NAIRR supported by a federal government agency.
+
+Private Sector Resource
+
+A resource of the NAIRR supported by non-government contributors, such as private corporations, non-profits, or philanthropic organizations.
+
+II. Program Description
+
+This solicitation seeks proposals for an Operations Center (NAIRR-OC) to lead and implement the foundational day-to-day operations for the NAIRR, a public-private partnership to accelerate AI innovation and national competitiveness. The NAIRR-OC is expected to be awarded via a cooperative agreement between NSF and the awardee institution, with continued funding contingent on NAIRR priorities, awardee performance including achievement of agreed-upon milestones, and availability of funds. The awardee will work closely and cooperatively with NSF on NAIRR operational activities and will have the opportunity to provide thought leadership and collaborative visioning for future directions of the NAIRR and its operations.
+
+The NAIRR is being developed in stages as a partnership between NSF, federal, and private sector partners. The NAIRR-OC will be responsible for day-to-day strategic leadership on and technical implementation of NAIRR operations. The NAIRR will capitalize on the capabilities and successes of the NAIRR Pilot, while expanding the capabilities, scale, and integration to achieve its overarching goals. NAIRR-OC activities will include establishing appropriate security requirements for users, partners, and resources interacting with the NAIRR while emphasizing research integrity principles of openness, reciprocity, and transparency.
+
+The NAIRR-OC will NOT be funded to carry out research projects itself, but to enable the U.S. research and education community to best utilize the resources of the NAIRR. The NAIRR-OC will NOT be funded to acquire or operate the physical hardware or other cyberinfrastructure resources supporting the project work of researchers and educators but may operate ancillary supporting hardware or services in support of serving said resources to relevant communities. The NAIRR-OC will also NOT be funded to run competitions for selecting and funding resources that would be made available via the NAIRR.
+
+The awardee is expected to accomplish the following overarching goals and functions during its initial 24 months of operations:
+
+Organizational leadership: Establishing the operational framework, organizational management, and success metrics for the NAIRR and its successful operations according to the vision, goals, and requirements established by the NSF and other federal partners.
+
+Building NAIRR capabilities and community: Undertaking specific development activities in support of NAIRR stakeholders, including interfacing with partner organizations and resources, deploying a unified web portal, integrating data-focused and other resources into the NAIRR, and conducting outreach and community building activities.
+
+Interfacing with Pilot Operations: Coordinating with existing NAIRR Pilot contributing partners and interfacing with the independently supported teams conducting NAIRR Pilot operational functions, while developing tailored plans to execute such functions via the NAIRR-OC in the future.
+
+The awardee will be reviewed for performance 24 months into the award at which time, additional milestones will be developed and agreed to in collaboration with the NAIRR Program Management Office (PMO). A successful awardee may be renewed for an additional 5 years via consideration of a renewal proposal, subject to NAIRR priorities, continued awardee performance, and availability of funds.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 1
+
+Anticipated Funding Amount: $35,000,000
+
+NSF Expects to make one (1) award at up to $35,000,000 for a period of up to 5 years.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs): Prospective proposers from other Federal Agencies and FFRDCs, including NSF sponsored FFRDCs, must follow the guidance in PAPPG Chapter I.E.2 regarding limitations on eligibility.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization: 1
+
+An organization may only serve as the submitting organization for one proposal to this competition.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may participate as PI, co-PI, or other Senior Personnel on at most one proposal for this competition. Note that any individual whose biographical sketch is provided as part of the proposal will be considered as Senior Personnel in the proposed activity, with or without financial support from the project.
+
+Other staff funded under the budget of a NAIRR-OC proposal are not subject to this restriction.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Submission of Letters of Intent is required. Please see the full text of this solicitation for further information.
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

@@ -10,3 +10,134 @@ Status: Cleared
 Posted date (Y-m-d): 2024-12-06
 URL: https://www.nsf.gov/funding/opportunities/cesev-chemical-evolution-solid-earth-volcanology/nsf25-516
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Chemical Evolution of the Solid Earth and Volcanology (CESEV)
+
+I. Introduction
+
+The Chemical Evolution of the Solid Earth and Volcanology (CESEV) Program is part of the Division of Earth Sciences (EAR) within the Directorate for Geosciences (GEO). EAR supports investigations of the evolution, processes, and properties of Earth through three other programs:
+
+Life and Environments through Time
+
+Structure and Physics of the Solid Earth
+
+Water, Landscape, and Critical Zone Processes
+
+EAR also provides support for instrumental and observational infrastructure, cyberinfrastructure, and educational and outreach activities. Projects may employ any combination of field, laboratory, and computational studies with observational, theoretical, or experimental approaches.
+
+Interdisciplinary and multidisciplinary proposals may require joint review within EAR, with other GEO Divisions, or with other NSF Directorates, and may be considered for joint support. Projects should be submitted to the EAR solicitation most strongly aligned with the primary objectives or hypotheses of the proposal regardless of methods.
+
+EAR invites submission of collaborative projects that articulate a fundamental overarching Earth Science question that is addressed through integrative hypothesis- or question-driven research. The project also should lead to outcomes that have potential to reveal new principles underlying the function or interaction of Earth.
+
+II. Program Description
+
+The Chemical Evolution of the Solid Earth and Volcanology (CESEV) program aims to advance fundamental knowledge about the origin and evolution of our home planet, including its core, mantle, and continental crust. Research supported by CESEV explores the interactions between and among these layers from the nanoscale to the whole Earth, volcanology and other high-temperature igneous and metamorphic processes, ore deposits and economic geology, and geochronology.
+
+Some examples of potential research areas that could be pursued through this solicitation include but are not limited to:
+
+Planetary formation, especially of the core, mantle, and continental crust, in order to understand the composition and chemical evolution of the Earth
+
+High temperature chemical and isotopic fluxes among the core, mantle, crust, and surface
+
+Chemical properties and thermodynamic stability of minerals, melts, fluid and gases, located from the core through the crust, at high pressures and/or temperatures
+
+Formation, transport, emplacement, and eruption of magmas; linkages between volcanic and plutonic systems
+
+Volcanic eruption dynamics and products, including their implications for geohazards
+
+Processes and timing of the compositional and lithological evolution of the continents
+
+Geochronology as applied to igneous petrology, metamorphic petrology, and volcanology
+
+Formation, distribution, and cycling of critical elements, minerals, materials, and/or ore deposits
+
+Proposal topics are not limited to this list and the community is encouraged to explore beyond these areas as the program is open to a variety of scientific ideas within the disciplinary scope of CESEV. If a Principal Investigator (PI) is unclear about the relevance of a proposal topic to this program, they should contact one of the Program Officers.
+
+This CESEV Program encourages a wide range of laboratory, field, experimental, theoretical, and/or computational studies, and encourages new methods, approaches and innovative research directions.
+
+Projects supported through the CESEV Program can employ analytical methods such as major and trace element geochemistry, stable and radiogenic isotope geochemistry, and geochronology. This program also supports experimental studies on the chemical properties of minerals, rocks, and supercritical fluids at high temperatures; laboratory experiments on volcanic systems; thermodynamic modeling of high temperature geochemical and mineral-forming processes; and physical and chemical volcanology. Proposals with research topics that cross disciplinary and methodological boundaries may be considered for joint support with other programs in EAR, GEO, or with other directorates at the U.S. National Science Foundation. For example, projects dealing with the application of seismic and other geophysical methods to understand volcanic and/or magmatic systems may be shared with or handled by the Structure and Physics of the Solid Earth Program. As always, PIs who are uncertain about where to submit should contact the cognizant Program Directors.
+
+Proposals to study meteorites and other extra-terrestrial materials are considered only if the work is applicable to understanding processes that led to the formation and evolution of planet Earth.
+
+Proposals in the disciplinary purview of this program that use a combination of terrestrial and marine samples may be considered jointly with the Division of Ocean Sciences’ Marine Geology and Geophysics (MGG) program.
+
+Proposals for community workshops that can guide the community on new research topics and grand challenge questions are encouraged, and those that have plans to broadly disseminate the discussions and outcomes will be prioritized.
+
+The CESEV Program supports a wide range of broader impacts activities. Successful projects will include broader impact activities that are creative, well-integrated, and effective. These broader impacts activities should be developed within the context of the people involved in the project and the mission, goals, and resources of the organizations involved. The expertise of the collaborators, the proposal budget, and budget justification should reflect this integration. Examples of activities that may be proposed include, but are not limited to, broadening participation in the geosciences, scientific infrastructure enhancement, public engagement, establishing new or expanding partnerships with industry, government, academic, and international institutions, and translating research to benefit broader societal needs.
+
+In addition to opportunities described in this CESEV solicitation, CESEV also funds proposals submitted in response to the Faculty Early Career Development ( CAREER ) Program, Research Coordination Networks ( RCN ), EMpowering BRoader Academic Capacity and Education ( EMBRACE ) Program and Mid-Career Advancement ( MCA ) solicitations. The CESEV Program also accepts Rapid Response Research (RAPID), EArly-concept Grants for Exploratory Research (EAGER), Planning, and Conference proposal requests (see guidance in Chapter II.F of the PAPPG) and supplemental funding requests (see guidance in Chapter VI.E of the PAPPG); these additional proposal submissions require approval from a CESEV program director prior to preparing a submission. Where CESEV participates in cross-agency competitions, proposals that are suitable for review within these competitions must be submitted directly to these solicitations rather than to CESEV. If there is doubt as to the appropriate destination for a proposal, prospective PIs are encouraged to contact the CESEV program directors prior to submission. CESEV welcomes inquiries on any proposal type prior to submission.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 40 to 60
+
+Anticipated Funding Amount: $18,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

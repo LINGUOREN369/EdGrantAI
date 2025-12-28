@@ -17,3 +17,238 @@ Status: Cleared
 Posted date (Y-m-d): 2024-01-22
 URL: https://www.nsf.gov/funding/opportunities/epscor-research-infrastructure-improvement-epscor-research/nsf24-528
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+EPSCoR Research Infrastructure Improvement Program: EPSCoR Research Fellows (ERF)
+
+I. Introduction
+
+EPSCoR Mission and Goals
+
+The mission of EPSCoR is to assist the National Science Foundation in its statutory function "to strengthen research and education in science and engineering throughout the United States and to avoid undue concentration of such research and education." EPSCoR goals are to:
+
+Catalyze the development of research capabilities and the creation of new knowledge that expands jurisdictions' contributions to scientific discovery, innovation, learning, and knowledge-based prosperity;
+
+Establish sustainable Science, Technology, Engineering, and Mathematics (STEM) education, training, and professional development pathways that advance jurisdiction-identified research areas and workforce development;
+
+Broaden direct participation of diverse individuals, institutions, and organizations in the project's science and engineering research and education initiatives;
+
+Effect sustainable engagement of project participants and partners, the jurisdictions, the national research community, and the general public through data-sharing, communication, outreach, and dissemination; and
+
+Impact research, education, and economic development beyond the project at academic, government, and private sector levels.
+
+EPSCoR Research Infrastructure Improvement: EPSCoR Research Fellows
+
+Developing the full potential of EPSCoR jurisdictions' science and engineering research workforce is critical to the long-term competitiveness of the jurisdictions and the nation overall. To realize this potential, it is often worthwhile for researchers to spend periods of time at other institutions, forming deep collaborative connections that can be sustained for many years throughout their careers. The benefits of such an experience may be particularly valuable to those researchers who are not yet firmly established in their careers or who have had a pause in research activity and are looking to relaunch back into active research.
+
+This EPSCoR Research Infrastructure Improvement: EPSCoR Research Fellows solicitation provides an opportunity for early career and non-tenured and tenured assistant/associate professor faculty to establish strong collaborations with the option to spend extended or periodic time (e.g., one, two, or three-month summer extended visit) at the nation's premier research facilities. The fellowship period may be used to initiate new collaborative relationships, to expand existing partnerships in ambitious new directions, or to make use of unique equipment not available at the PI's home institution. Successful fellowships will positively impact and potentially transform the recipient's research career trajectory. This fellowship support is intended to provide opportunities for PIs to establish collaborations and work at facilities of national prominence that would not otherwise be possible without the fellowship.
+
+EPSCoR Research Infrastructure Improvement: EPSCoR Research Fellows Tracks
+
+This solicitation offers two tracks:
+
+1) EPSCoR Research Fellows: NSF; and
+
+2) EPSCoR Research Fellows: @NASA
+
+While the two tracks have similar goals, EPSCoR Research Fellows: NSF is open to a broad community, and EPSCoR Research Fellows: @NASA focuses on PIs from specific types of institutions of higher education (See Section "IV. Eligibility Information" for more details) to collaborate with researchers at NASA research centers. PIs who are eligible for both tracks may apply for only one track per competition cycle. The support should contribute to both the PI's research capacity and to the improvement of their institution's scientific competitiveness more broadly.
+
+EPSCoR Research Fellows: NSF
+
+EPSCoR Research Fellows: NSF provides support to further develop the individual research potential of early career, non-tenured, and tenured faculty and researchers, including those at the assistant or associate (or equivalent) professor rank through collaborative activities, including extended or periodic visits to the nation's premier private, governmental, or academic research centers. Any research topic that is supported by NSF is eligible for consideration (see funding opportunities in the NSF Directorates and Offices listed under the "Applicable Catalog of Federal Domestic Assistance (CFDA) Number(s)" section within this solicitation). The fellowship host site may be any academic institution of higher education, governmental, commercial, or non-profit research facility within the United States or its territories. This includes but is not limited to, NSF-funded research sites for EPSCoR RII Programs , Center for Research Excellence in Science and Technology , Engineering Research Center , Materials Research Science and Engineering Center , Physics Frontier Center , Science and Technology Center , and NSF INCLUDES Alliance s. A NASA Center may also be a fellowship host site for the EPSCoR Research Fellows: NSF track.
+
+EPSCoR Research Fellows: @NASA
+
+EPSCoR Research Fellows: @NASA provides support to further develop the individual research potential of early career, non-tenured, and tenured faculty and researchers, including those at the assistant or associate (or equivalent) professor rank through collaborative activities, including extended or periodic visits (e.g., one, two, or three-month summer extended visit) to the selected NASA Center.
+
+This initiative is a joint effort coordinated by NSF EPSCoR and NASA EPSCoR.
+
+Through this opportunity, EPSCoR Research Fellows: @NASA recipients will receive an additional $60,000 from NASA to support their research at the home institution and should help to build the recipients' research infrastructure and capacity.
+
+Fellowship recipients will be able to learn new techniques, develop new collaborations or advance existing knowledge, benefit from access to unique NASA equipment and facilities, and/or shift their research toward potentially transformative new directions of importance to science and technology. The experiences gained through the fellowships are intended to have lasting impacts that will enhance the Fellows' research trajectories well beyond the award period. Fellows will have the opportunity to collaborate with NASA Mentors who serve as research collaborators, or technical monitors.
+
+The NASA EPSCoR office will coordinate the logistical requirements to conduct the visit(s) at NASA sites. Fellows will be able to leverage the expertise gained through working with NASA researchers to build capacity at their home institution. The Fellow and the NASA researchers are encouraged to work together to generate peer-reviewed publications and professional conference presentations sharing their research accomplishments. The fellowship is contingent upon matching the prospective fellow with a NASA researcher.
+
+Review the EPSCoR Research Infrastructure Improvement (RII) Track-4 - NASA for details related to the matching process.
+
+Keywords : Early Career Investigator, Mid-Career Investigator, Professional Development, Fellowship
+
+II. Program Description
+
+Overview
+
+The primary driver for this opportunity is the desire to increase the competitiveness of EPSCoR-eligible institutions by catalyzing and strengthening the research programs of their talented faculty. Over the long term, EPSCoR investments are expected to result in sustained improvements in the individual research competitiveness of its recipients and to stimulate broader improvements to the research capacity of the recipients' institutions and jurisdictions. Proposals must demonstrate in a compelling way that each of these goals will be met.
+
+Awards will provide support for fellows to travel and spend up to six months at a premier research facility within the United States and its territories (the "host site"); salary support will be provided. In addition, each award will provide support for the PI to travel to the host site, including both transportation and living expenses for the duration of the required visit(s). Up to six total months of salary support and travel expenses may also be requested for one additional trainee such as an undergraduate or graduate student, a postdoctoral or a technical staff member of the PI's Institution, to work with the PI and complete the planned activities. Additional support will be allowed to cover other travel and direct costs that are specifically associated with the fellowship project (e.g., purchasing supplies, shipping, publication costs, equipment, facility fees, attendance at conferences and related costs, etc.). Please see the "Budgetary Limitations" for greater details.
+
+Expectations for Successful Proposals
+
+Successful EPSCoR Research Fellows: NSF and EPSCoR Research Fellows: @NASA proposals are expected to discuss exciting, vibrant fellowship ideas that will positively impact and potentially transform the PI's individual career trajectory. Proposals will be evaluated for the extent to which a fellowship has the potential to positively transform the PI's individual career trajectory. Fellowships are also expected to impact the PI's research field, potential scientific discoveries, institution, and jurisdiction. All proposals should include well-defined, reasoned, and organized research objectives that could be driven by specific research questions or hypotheses, motivation, and context for the work to be conducted, the PI's specific research activities at the host site, and a discussion of how the benefits gained from the fellowship will be sustained beyond the award period. Note that clear specifications of research goals, activities, expected outcomes, and a project timetable are requirements for successful proposals. It is also crucial that the proposal explain clearly how the PI's research program would specifically benefit from the fellowship mechanism – identifying what specific opportunities will be made possible via the PI's collaborations and visit(s) to the host site.
+
+Benefits to the Home Institution and/or Jurisdiction
+
+The direct benefits of EPSCoR Research Fellows: NSF and EPSCoR Research Fellows: @NASA fellowships are expected to be to the PI's individual research career trajectory. However, consistent with its programmatic focus on jurisdictional research capacity, NSF and NASA EPSCoR expect successful fellowships to also yield benefits to the PI's home institution and/or jurisdiction. Narrative text that describes how improving the PI's individual research capacity will directly raise her/his institution's overall capacity must be included. It is expected that successful fellowships will include more proactive efforts to leverage the fellowship experience to achieve increased institutional or jurisdictional benefits. PIs are encouraged to present creative approaches for achieving this desired outcome within the overall constraints of the fellowship mechanism.
+
+Partnership Considerations
+
+As stated in the overview, this opportunity is intended to provide support for PIs to collaborate with facilities of national prominence that would not otherwise be possible without the fellowship. For this reason, the project description should include narrative text that explains why the interactions could not occur without the large injection of fellowship funding intended to support the collaboration.
+
+An extended visit/relocation or a number of short periodic visits of the PI to the host institution is considered a primary feature of this fellowship activity. A host site located within the PI's current institutional system is not allowed. It is expected that the PI will complete, at minimum, a one-month extended visit to the host institution, or the equivalent of several periodic visits totaling one month over the duration of the award.
+
+In addition, the fellowship is focused on creating new partnerships, advancing existing partnerships, or moving in new research directions. For this program, work with the PI's prior graduate or postdoctoral advisor is not encouraged unless the PI proposes to move in a new and independent research direction. If the fellowship does not meet the goal of moving in a research direction that is independent from the research of a prior graduate or postdoctoral advisor, the proposal should include narrative text that explains the fellowship's benefits to the PI.
+
+EPSCoR RII Research Fellows: NSF Guidance for Letters
+
+Proposals must include letters, as described below in "Additional Guidance for EPSCoR Research Fellows: NSF" and "Additional Guidance for EPSCoR Research Fellows: @NASA".
+
+Fellowship Parameters
+
+PIs may request an award duration of a maximum of 24 months. While the award duration of 24 months is permissible, it is intended to lend flexibility to the PI such that they may spread 1 to 6 months of travel time over a 24-month period. EPSCoR Research Fellowships are not expected to amount to a 24-month research project. Fellowship activities should be able to be completed within a 24-month period with the majority of research activities taking place at the host site.
+
+For planning purposes, PIs should assume that the award start date will be approximately nine months after the proposal deadline date.
+
+Eligible Host Organizations for EPSCoR Research Fellows: NSF
+
+Primary host sites must be located within the United States or its territories.
+
+Host sites may be academic institutions, government laboratories, Federally Funded Research and Development Centers (FFRDCs), or commercial or non-profit research centers. A PI proposing to visit a government laboratory, or a similar site, with a policy that requires the submission of a proposal for the use of instrumentation is expected to describe a plan for securing access to this equipment within the proposal's project description.
+
+Only a single primary host site may be identified in the proposal. While research related activities (e.g., conference travel, data collection at a field site) at a secondary host site are allowable, the secondary host site(s), or travel to the site, may not be considered for the primary research activity of the fellowship project.
+
+Eligible Host Organizations for EPSCoR Research Fellows: @NASA
+
+Fellows must contact the NASA EPSCoR coordinator through the Agency-EPSCoR-rii-track-4@mail.nasa.gov expressing their interest; additional information, including NASA's research interests, can be found through the link EPSCoR Research Infrastructure Improvement (RII) Track-4 - NASA .
+
+Matching Process for EPSCoR Research Fellows: @NASA
+
+A NASA mentor must be identified, and collaboration must be established to move forward with the proposal process. The prospective fellow must email their CVs, contact information, and research interests to the NASA EPSCoR coordinator. Once a research topic is identified, the NASA EPSCoR coordinator will facilitate research discussions and collaborations with the NASA Mentor. In some cases, PIs may have prior research collaboration with NASA researchers, this information should be shared with the EPSCoR coordinator to proceed with a possible match. The PI is required to include a letter from the primary research collaborator or a letter from the NASA EPSCoR coordinator, in the proposal package. Please see section V.A for additional information and guidance.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant
+
+Estimated Number of Awards: 50
+
+Estimated Number of Awards Per Track:
+
+EPSCoR Research Fellows: NSF: up to 40 awards
+
+EPSCoR Research Fellows: @NASA: up to 10 awards
+
+Anticipated Funding Amount: $15,000,000
+
+Anticipated Funding Amount Per Track:
+
+EPSCoR Research Fellows: NSF: $12,000,000
+
+EPSCoR Research Fellows: @NASA: $3,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+EPSCoR jurisdictions that are RII-eligible for the FY2024 competition are listed in the RII Eligibility table, which can be found here . Proposals may only be submitted by organizations located in RII-eligible jurisdictions, as follows: Institutions of higher education (Ph.D.-granting and non-Ph.D.-granting), acting on behalf of their faculty members, that are accredited in and have a campus in the United States, its territories or possessions. Distinct academic campuses (e.g., that award their own degrees, have independent administrative structures, admissions policies, alumni associations, etc.) within multi-campus systems qualify as separate submission-eligible institutions. Not-for-profit, non-degree-granting domestic U.S. organizations, acting on behalf of their employees, that include (but are not limited to) independent museums and science centers, observatories, research laboratories, professional societies, and similar organizations that are directly associated with the Nation's research or educational activities. These organizations must have an independent, permanent administrative organization (e.g., an Office of Sponsored Projects) located in the United States, its territories, or possessions, and have 501(c)(3) tax status. In addition, for the EPSCoR Research Fellows: @NASA opportunity, PIs must be employed by an institution that is from at least one of the following categories: Primarily Undergraduate Institutions (PUIs), including two-year colleges, that award associate's degrees, bachelor's degrees, and/or master's degrees in NSF-supported fields, but have awarded 20 or fewer Ph.D./D.Sci. degrees in all NSF-supported fields during the combined previous two academic years; and Minority-serving institutions, as in 42 §USC 18901
+
+Proposals may only be submitted by organizations located in RII-eligible jurisdictions, as follows:
+
+Institutions of higher education (Ph.D.-granting and non-Ph.D.-granting), acting on behalf of their faculty members, that are accredited in and have a campus in the United States, its territories or possessions. Distinct academic campuses (e.g., that award their own degrees, have independent administrative structures, admissions policies, alumni associations, etc.) within multi-campus systems qualify as separate submission-eligible institutions.
+
+Not-for-profit, non-degree-granting domestic U.S. organizations, acting on behalf of their employees, that include (but are not limited to) independent museums and science centers, observatories, research laboratories, professional societies, and similar organizations that are directly associated with the Nation's research or educational activities. These organizations must have an independent, permanent administrative organization (e.g., an Office of Sponsored Projects) located in the United States, its territories, or possessions, and have 501(c)(3) tax status.
+
+In addition, for the EPSCoR Research Fellows: @NASA opportunity, PIs must be employed by an institution that is from at least one of the following categories:
+
+Primarily Undergraduate Institutions (PUIs), including two-year colleges, that award associate's degrees, bachelor's degrees, and/or master's degrees in NSF-supported fields, but have awarded 20 or fewer Ph.D./D.Sci. degrees in all NSF-supported fields during the combined previous two academic years; and
+
+Minority-serving institutions, as in 42 §USC 18901
+
+Who May Serve as PI:
+
+Principal Investigators must either:
+
+Be in an early-career, or mid-career-track position at an eligible non-degree-granting organization or
+
+Hold a non-tenured or tenured faculty position at the Lecturer, Research Faculty, Assistant or Associate Professor rank (or in an equivalent position) at an institution of higher education.
+
+Additional guidance on eligibility for both tracks:
+
+For the faculty category of the PI, the faculty ranking should be determined by the faculty rank at the proposal's deadline date.
+
+The PI must be positioned to build sustainable research capacity at the home institution during and beyond the fellowship, which generally takes three years or more.
+
+Non-tenured research assistant professors or lecturers are eligible to apply for this opportunity if they have a long-term appointment.
+
+A letter from an administrative manager at the home institution is required to verify PI eligibility.
+
+Only single-PI proposals will be considered. No co-PIs should be included in the proposal.
+
+Persons who hold transitional fixed-term postdoctoral appointments are not eligible to apply as PI, even if their organizations classify such appointments as 'faculty' for administrative purposes.
+
+Previous or current Research Fellows are not eligible to apply for the EPSCoR Research Fellows program.
+
+Additional guidance for only EPSCoR Research Fellows: @NASA track:
+
+For the EPSCoR Research Fellows: @NASA track, submissions from a Primarily Undergraduate Institution require a letter from the institution's Authorized Organizational Representative certifying their status as such. See Section V.A below for further information.
+
+For some NASA research facilities, PIs and trainees must be U.S. Citizens, unless otherwise specified. Lawful Permanent Residents are eligible for research opportunities at NASA centers.
+
+Any questions regarding PI eligibility should be directed toward the cognizant Program Officers listed above.
+
+Limit on Number of Proposals per Organization:
+
+For EPSCoR Research Fellows: NSF: 4
+
+A maximum of four proposals may be submitted in response to this solicitation by any single organization in an RII-eligible jurisdiction.
+
+For EPSCoR Research Fellows: @NASA: 4
+
+A maximum of four proposals may be submitted in response to this solicitation by any single organization in an RII-eligible jurisdiction.
+
+In the case that the institution is eligible to submit both EPSCoR Research Fellows: NSF and EPSCoR Research Fellows: @NASA proposals, a maximum total of eight proposals, including a maximum of four EPSCoR Research Fellows: NSF proposals and four EPSCoR Research Fellows: @NASA proposals, may be submitted in response to this solicitation by any single organization in a RII-eligible jurisdiction.
+
+If more than the maximum allowable proposals are submitted from any single institution, any proposals received after the first four are subject to return without review.
+
+The organization's Sponsored Projects Office is required to ensure that the above requirements are met.
+
+Limit on Number of Proposals per PI or co-PI:
+
+1: An investigator may serve as PI on only one proposal submitted in response to this solicitation.
+
+Co-PIs are not permitted.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: "Off campus" indirect cost rates may apply.
+
+"Off campus" indirect cost rates may apply.
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

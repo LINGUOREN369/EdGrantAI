@@ -9,3 +9,302 @@ Status: Cleared
 Posted date (Y-m-d): 2020-01-02
 URL: https://www.nsf.gov/funding/opportunities/irnc-international-research-education-network-connections/nsf20-535
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+International Research and education Network Connections (IRNC) Base
+
+I. Introduction
+
+For 30 years, NSF has invested in Internet connectivity linking the scientific research and education (R&E) communities in the U.S. to the rest of the world. At first, NSF was the sole funder of international R&E connectivity. In that time span, external funding elsewhere has grown substantially. Today, trans-oceanic 100 Gigabit per second (Gbps) links made available specifically to the R&E community approach or exceed an aggregate Terabit per second (Tbps) between some continents, with some 100Gbps links dedicated to specific science communities and instruments. Consortia of funding sources have formed for some of these paths and the levels of support, cooperation, and planning among participating National R&E Networks (NRENs) and among other network asset owners and operators have never been stronger. The nature of investments has also evolved, with funding entities moving beyond multi-year circuit leases to long-term acquisition of submarine cable spectrum and even partnering in building and operating new cable systems. The emergence of new fiber and wireless based initiatives, both underway and in planning phases, promises new opportunities for R&E network connectivity to some scientific research and education locations currently lacking sufficient bandwidth.
+
+NRENs and other organizations have progressed in leveraging high performance R&E networking at regional and country levels in building and establishing shared, virtualized, distributed computing and storage platforms. Those activities and assets also present continued opportunities for international R&E infrastructure and services to significantly advance in both the integration of network capabilities and services up the stack, as well as supporting the federation of those resources and services on a global scale.
+
+Several constants remain in the global environment; not all communities are connected sufficiently, and those communities often lack the training, relationships, and resources to complete the end-to-end linkages required for full participation in science in the 21 st century scientific R&E enterprise.
+
+Through the IRNC program and other infrastructure activities, NSF will continue its role in enabling the growth and enrichment of a globally connected science community through targeted investments to strategically evolve the R&E network fabric over the next 5-10 years. Tangible goals for the IRNC program include: targeted expansion of the reach and production use of multi Gbps connectivity to remote science instrumentation and R&E communities; significantly greater use of the R&E fabric for science through deeper integration of the network with other tools and cyberinfrastructure (CI) resources; establishment of pathways for contributors to international R&E infrastructure; new and enhanced engagements with research groups and their scientific applications; and strengthening the services and physical pathways for U.S. science collaborations globally.
+
+This solicitation for the IRNC Base program supports: coordinated investment in international R&E networking infrastructure and services; experimental deployment of new capabilities using testbeds; and broadening impact and participation through data network centric activities.
+
+NSF will separately address “Applied” IRNC topics including: high performance network connectivity to remote scientific instruments and sites; and innovation and advancement of network services, engineering, capabilities through end-to-end scientific workflow integration with research platforms.
+
+II. Program Description
+
+The IRNC Base program is divided into three distinct but related program areas: (1) IRNC: Core - Backbone and Exchange Point International Networking; (2) IRNC: Testbed - International Testbeds; (3) IRNC: ENgage - Engagement for Training and Human and Network Capacity Building.
+
+General Information
+
+The infrastructure and associated services proposed in response to this solicitation must address U.S. research and education needs with respect to international collaboration and communication that advance science and engineering. The science that will be enabled by the proposal should be detailed. Plans for meeting the evolving service needs of the research and education community should also be described.
+
+The Project Description for all proposals, which can be up to 15 pages and, in addition to addressing the scientific impact of the project, should include discussions of the criteria detailed in the following section for one of the three program areas described below. The Project Description must also include a discussion of risk mitigation and post-award management. The number of letters of collaboration from third parties is limited to eight. Inclusion of additional supplementary materials (appendixes, etc.) is specified in each program area or is otherwise not allowed.
+
+General Organization Description
+
+Because of the nature and geographic extent of the efforts involved, interested parties may choose to form consortia that can work together to provide the needed services. Consortia may consist of any number of U.S. and foreign for-profit and not-for-profit entities. Awards resulting from this solicitation will be made to the eligible lead U.S. organizations.
+
+Proposals in any of the three program areas should describe the organizations that are involved including:
+
+Identification of the lead U.S. organization;
+
+Experience and qualifications of all participating organizations applicable to the provisioning, operation, and management of the proposed projects; for the lead organizations, evidence of effective project management experience including management of subawards (if any);
+
+Experience the consortia members have had working together in similar projects;
+
+Planned organization and governance of the proposing consortium;
+
+A description of each organization's proposed facilities (in appropriate amount of detail to reflect the relative role of each organization); and
+
+Documentation of technical and managerial qualifications of key personnel, including those who are part of any subawards.
+
+Each proposal should clearly identify and justify the single IRNC program area to which it is being submitted.
+
+Program Area 1: Backbone and Exchange Point International Networking (IRNC: Core)
+
+Two key ingredients of networked global scientific collaboration continue to be (i) high-capacity high-performance network links between the U.S. and other regions of the world, and (ii) U.S.-based exchange points for international R&E traffic. The limited availability of limited resources means that preference will be given to solutions providing the most efficient economies of scale and demonstrating the ability to link the largest communities of interest with the broadest services. Proposals should describe how this will be accomplished over a five-year period. Proposals can focus activities on either component – Backbone link or exchange point – or both components in combination.
+
+This program area supports new data networking connectivity and infrastructure to help to lower the barrier of entry for scientific U.S. collaborations internationally. Support for new infrastructure investment is described in (1.1) below. NSF also recognizes the long-term value in sustaining and improving upon parts of the international networking fabric. This opportunity is described in (1.2) below.
+
+NSF is also interested in innovative and forward-looking approaches to promote the development of a rational global network architecture. In this regard, proposals should address the question of how their international links will become an integral component of the global science and engineering R&E network environment and how these links will fit into a rational global network architecture. For example, solutions which offer partnering and engineering incentives to foreign connection points to share circuits, spectrum, or other form of capacity, or encourage the establishment of national or regional distributed exchange points, might be considered.
+
+Unless otherwise noted, all requested, suggested, and required elements should be addressed in the proposal Project Description.
+
+Program Area 1 Categories: (1.1) New Infrastructure and (1.2) Infrastructure Improvement and Support
+
+Each proposal in this program area will be categorized as (1.1) New Infrastructure or (1.2) Improvement and Support.
+
+1.1: New Infrastructure
+
+Creation of new data network connections and R&E network exchange points (not currently supported by IRNC) will be considered New Infrastructure. Proposals for new infrastructure are expected to cite any related and existing connectivity with similar functionality, and are expected to make a compelling case for the need for this new infrastructure in that context.
+
+New infrastructure proposals may be proposed for up to 5 years.
+
+Proposals whose duration is beyond 2 years should expect a NSF site visit and review after 18 months to evaluate the viability and impact of the activities. This review will provide guidance to NSF on whether to continue funding the activities for years 3-5.
+
+Proposals should build into their first 2 years a plan to establish and measure viability and impact of the new connectivity and services. Proposals should describe expected longer-term operational impact on international science flows.
+
+Note that proposals in this program area cannot fully duplicate circuit paths currently supported under IRNC awards. See http://docs.globalnoc.iu.edu/irnc/index.html f or a complete list and specification of those connections.
+
+Proposals in this program area addressing new infrastructure are required to have titles that begin with "IRNC: Core New:" followed by the title of the project.
+
+1.2: Infrastructure Improvement and Support
+
+NSF recognizes the need to also support the improvement and ongoing support of existing IRNC infrastructure with a tangible user base among the NSF community. Proposals addressing Improvement and Support must: identify the pre-existing elements for continuation and make a compelling case for why the connectivity, services, and infrastructure justify continuation and improvement. Such projects address the improvement of existing infrastructure with a track record of production use and impact on domain sciences and engineering.
+
+Work must focus on community-driven enhancements that are documented by user requirements and applied to existing deployed network infrastructure. Operations and Maintenance and support functions are also relevant for award activities.
+
+Note – proposals in this program area are allowed only to renew and extend existing award activities under the Backbone and RXP categories of current IRNC awards. See http://docs.globalnoc.iu.edu/irnc/index.html for a complete list and specification of those connections.
+
+Proposals in this program area addressing improvements to existing infrastructure under active IRNC program funding are required to have titles that begin with “IRNC: Core Improvement:” followed by the title of the project.
+
+Backbone Services and System Design
+
+All IRNC: Core proposals should describe the services to be provided, and the technologies (including protocols) that provide a reliable, leading-edge service for research and education. The system design should provide this capability consistent with high-capacity and long-distance delay products. Proposed technologies must also be compatible with the research networks of the countries that are to be connected, and with their plans (where available) for the introduction of new technologies.
+
+Proposed assets may include leased circuits, spectrum, or other communication link technologies or solutions, as well as required networking equipment to support the proposed connection(s).
+
+Proposals should describe the relevance of the proposed networking capabilities to domain science communities, projects, and users, and their approach to supporting proposed networking services such as shared Internet Protocol (IP) services. For proposals with services that include the explicit operation of a layer 3 (shared IP) service, and which therefore involve the management of router equipment, support for the current Internet Protocol (IPv4) and the next generation Internet Protocol (IPv6) is required. Proposals including routed IP services should discuss their plans with respect to route monitoring, Border Gateway Protocol (BGP) security (such as resource public key infrastructure), and traffic engineering cooperation with other R&E connections on similar paths, where appropriate. Service provisioning will require management and operations at multiple protocol levels.
+
+Proposals should describe the overall system design including: connection plans on both ends of the international links; the networks to be connected, and the technical characteristics of the IRNC links; supported layer 1-3 technologies; routing and switching strategies; security mechanisms and privacy policies; and relevant timelines for technology deployment and service activation. Alternate designs, each separately priced, for providing reliable services may also be provided.
+
+In addition to the description of the initial technologies and equipment to be employed, proposals should outline how the proposed IRNC should evolve and specify the plans for introducing new networking technologies, equipment, and services. Proposals should assess the risks and benefits of adopting such new technologies including plans to assure high quality services during the transition to any proposed future deployments. NSF recognizes that proposed activities in this program area, as well as all other program areas in the solicitation, offer opportunities for innovation and support for network-level experimentation in the community. Proposals are encouraged to consider how to best support Software-Defined Networking (SDN) and how to move from an experimental and developmental phase to potential production support over a five-year time horizon. Proposals are encouraged to weigh current network traffic demand against future estimated needs in planning for capacity increases, where relevant.
+
+Links funded by this program are intended to support science and engineering research and education applications. Therefore, the networks they connect must also be primarily for these purposes. These networks typically have appropriate use policies and those policies shall govern traffic flow over the IRNC links. Known or expected usage policies, along with processes for enforcing or implementing the policies, should be described. A proposal in this program area must identify a physical and logical landing point in the continental Unites States for any circuit or capacity proposed. Gathering of metrics should be included, especially the definition of metrics used to judge the project's impact and success. Where appropriate, compatibility with emerging best practice international research and education should be addressed. Connection points may enforce their own routing policies. Proposers should describe their proposed U.S. and international connection policies. NSF will give preference to proposals conveying open policies (e.g., free R&E transit) and collaboration. NSF will give preference to proposals leveraging open exchange points as physical and logical endpoints to international circuits.
+
+NSF views leases and acquisitions as potentially long-term community assets whose value and operation may last well beyond the lifetime of the award. Proposals including such long-term asset acquisition are strongly encouraged to address sustainability and describe how the asset will be leveraged and managed by the community past the lifetime of the award.
+
+Leveraging existing infrastructure is strongly encouraged. Successful proposals will address how their activities blend consistently into, and especially augment, the existing end-to-end domestic and international network infrastructure and emerging services and best practices. Proposals adding to significant pre-existing R&E network capacity along the same or similar path are strongly encouraged to make the case for why NSF’s additional investment is needed and the additional value being provided to science.
+
+Any network capacity leases and acquisitions are required to be represented with documented quotations from the asset provider, included as a Supplementary document.
+
+Open Exchange Points
+
+Network exchange points for research and education flows have served a pivotal role over the last 25 years in extending network connectivity internationally, providing regional R&E networking leadership, and supporting experimental networking. Through years of operational experience combined with international peering relationships, engineering activities, and international networking forums, a set of guiding principles have emerged for successful approaches to an open exchange point.
+
+Proposals submitted to this program area should address the enhancements needed for exchange points in the United States to become platforms of network innovation supporting the research and education needs of global scientific collaborations led by or including U.S. researchers and educators. While proposals are expected to come from entities currently operating international R&E exchange points, proposals may also come from institutions proposing to create a new exchange point.
+
+Proposals should address in their proposed activities support for, and optionally direct participation in, network innovation, trials, and ongoing experimentation. Industry participation, teaming and collaboration with partners capable of contributing to advances in network engineering and technology are encouraged. Proposals should describe their connectivity policies and how they adhere to community-driven best practices for R&E network exchange points. Proposals should address support for jumbo frames. Proposals may include support for development and deployment of production level network services. Proposals may request nominal amounts of computing and storage as part of a plan to develop integrated capabilities.
+
+Proposals must demonstrate a commitment to operation of an open exchange point, for example: support for homing of multiple international links; high capacity connectivity to Internet2, ESNet, and, if relevant, FABRIC; providing maximum flexibility in connectivity and peering; automated, dynamic switching network services; and, in the best interests of the end users - the researchers, educators, and students in the U.S. - a demonstrated commitment to a productive partnership and collaboration with Internet2, the primary NREN for the NSF community. Proposals must describe their exchange point architecture and justify any core equipment purchase requests. Proposals must address measurement and monitoring for any equipment and infrastructure that is part of the proposal. Proposals must address the scalability and growth constraints of their facilities in terms of overall floor space, power budget, and other physical restrictions.
+
+Additional Guidance for All Program Area 1 IRNC: Core Proposals
+
+Network operations center (NOC) services should be included in all IRNC: Core proposals. This IRNC program solicitation does not support NOC services directly through a NOC award.
+
+Measurement, monitoring and usage reporting should be included in all IRNC: Core proposals. This IRNC program solicitation does not support development and availability of measurement services directly through a measurement award. Proposals in IRNC: Core should describe their measurement plan and approach to disseminate and report on network measurement data - proposals should include the granularity of their utilization measurements. All proposals in the IRNC: Core area are required to describe their measurement plans and address availability of privacy preserving usage and performance data, as a Supplementary Document of up to 3 pages. Proposals are encouraged to leverage existing measurement and reporting services.
+
+Proposals in this program area are allowed to account for the NOC and measurement approach explicitly in their proposal budgets.
+
+Letters of commitment, submitted as a Supplementary Document , should be included for all international partners in a proposal, and are encouraged to include the partners' view of the relationship with, and value of, the proposed project, and the nature of their interactions.
+
+Proposals are strongly encouraged to identify specific capacity and equipment costs where possible.
+
+Proposals should clearly define tangible development goals and milestones.
+
+NSF expects to make 3-10 awards in IRNC: Core as described above, at up to $1,400,000 per year for up to 5 years, pending availability of funds.
+
+Summary of Program Area#1 Requirements:
+
+Proposals can focus activities on either component - Backbone link or exchange point - or both components in combination.
+
+Proposals addressing 1.1 New Infrastructure are required to: have titles that begin with: "IRNC: Core New:" followed by the title of the project; and cannot fully duplicate circuit paths currently supported under IRNC awards.
+
+Proposals addressing 1.2 Infrastructure Improvement and Support Improvement are required to: have titles that begin with: "IRNC: Core Improvement:" followed by the title of the project; focus on community-driven enhancements documented by user requirements and applied to existing deployed network infrastructure; and renew and extend existing award activities under the Backbone and RXP categories of current IRNC awards
+
+Proposals including Backbone services are required to: support IPv4, IPv6 and address management and operations at multiple protocol levels if router equipment is included in the proposal; have R&E network interconnection as the primary purpose of prosed links/circuits; identify a physical and logical landing point in the continental United States for any circuit or capacity proposed; and provide quotations for any circuit or capacity proposed as a Supplementary document .
+
+Proposals including Open Exchange Point activities are required to: demonstrate a commitment to operating an open R&E exchange point; describe their exchange point architecture and justify any core equipment purchases; address measurement and monitoring for any equipment and infrastructure in the proposal; and address scalability and growth constraints of the facility.
+
+Proposals are required to describe measurement plans and address availability of privacy preserving usage and performance data in a Supplementary document of up to 3 pages.
+
+Proposals should include Letters of Commitment, submitted as a Supplementary Document , for all international partners in a proposal, and are encouraged to include the partners' view of the relationship with, and value of, the proposed project, and the nature of their interactions.
+
+Program Area 2: International Testbeds (IRNC: Testbed)
+
+Proposals in this program area address experimental network testbed environments supporting international collaborative network experimentation. Proposals are expected to describe domain science applications, workflows, future scenarios, and partnerships driving the applied research and development on the proposed testbeds.
+
+Proposals are expected to address federation connecting different testbeds in the U.S. for international connectivity and how collaborative experimentation can be enabled by such federation.
+
+Unlike Program Area B.1, IRNC: Core, the Testbed program area has no production scientific data networking responsibilities, and activities are not expected to support production services.
+
+Proposals are expected to consider innovative functionalities in the testbed that will allow simultaneous multi-location collaborative science engagement, for example, that may require large-scale visualization. Proposals are expected to describe approaches by which new and innovative capabilities can be experimentally deployed and studied quantitatively, and how successful experimentation can translate into new and routinely available capabilities for supporting networking needs of science.
+
+Proposals may request nominal amounts of computing and storage as part of a plan to develop experimental integrated capabilities. Any equipment and capacity resources proposed in the first two years should be accompanied by sales quotations included as supplementary material.
+
+Proposals may consider connectivity that directly connects multiple testbeds across U.S. and other parts of the world such as:
+
+EU OCRE https://www.ocre-project.eu ;
+
+OneLab: https://onelab.eu ;
+
+EU EMPOWER https://www.advancedwireless.eu ; and
+
+EdgeNet http://edge-net.org
+
+Proposals are encouraged to consider how to connect with and leverage FABRIC for experimental deployment, protocol testing, measurement and evaluation ( https://www.fabric-testbed.net ). FABRIC (NSF Award #1935966) is a nationwide next generation network testbed comprised of novel extensible network elements equipped with compute and storage capabilities located throughout the network, and interconnected by high speed dedicated optical links. FABRIC’s programmability, combined with high fidelity measurement capabilities, allows a compelling research infrastructure to support applied network research. Proposals addressing use of FABRIC are advised to build into their schedule the planned use of FABRIC starting after November 1, 2020.
+
+Proposals in this program area must identify, in the Project Description, one or more supported science or engineering research projects or applications and describe how the proposed network integration activities will support those projects, for example, in addressing data movement, throughput, and predictable performance end-to-end.
+
+Proposals in this program area must include, in the Project Description, a Project Plan addressing clear project goals and milestones. Proposals must define base metrics relevant to the proposal goals and address measurement and evaluation. Any software development under proposed activities must be made available under an open source license.
+
+NSF expects to make 1-3 awards in IRNC: Testbed as described above, at up to $1,000,000 per year for up to 3 years, pending availability of funds.
+
+Proposals in this program area are required to have titles that begin with "IRNC: Testbed:" followed by the title of the project.
+
+Summary of Program Area#2 Requirements:
+
+Proposals address experimental network testbed environments supporting international collaborative network experimentation.
+
+Proposals do not address production scientific data networking.
+
+Proposals must include a Project Plan addressing clear project goals and milestones.
+
+Proposals must define base metrics relevant to the proposal goals and address measurement and evaluation.
+
+Proposals with software development must use an open source license.
+
+Proposals are required to have titles that begin with "IRNC: Testbed:" followed by the title of the project.
+
+Program Area 3: Engagement for Training and Human and Network Capacity Building (IRNC: ENgage)
+
+Proposals in this program area should address training opportunities, contributions to NREN development, collaboration with international R&E communities and industry, and overall infrastructure for human and network capacity building internationally. The focus here is on local and regional engagements at the network engineering and design level, especially in areas of the world where research and education network connectivity remain a challenge to collaborations with U.S. scientists and educators. Coincident with the broadening global participation in scientific research, the international networking research and education community continues to expand, with increasing complexity in engineering issues and opportunities for greater engineering engagement and coordination.
+
+Proposals should outline and describe a 3- to 5-year plan of effort, identifying goals, key issues and opportunities in network engineering coordination, and plans to address those challenges.
+
+Proposals should include event coordination and travel costs to accomplish the proposed activities. Proposals should address the team's role in terms of past position and experience in the community. Key priority areas for consideration include: infrastructure building consistent with the guiding principles stated above; coordinating globally interconnected testbed facilities; and human network community building through development of a strategy addressing community growth in network engineering experts, student exchange, and training. Finally, engagement activities should consider plans and approaches in working with the NSF science, engineering, and education communities and support of their international collaborations.
+
+NSF expects to make a single award in IRNC: ENgage as described above, at up to $1,000,000 per year for up to 5 years, pending availability of funds.
+
+Proposals in this program area are required to have titles that begin with "IRNC: ENgage: " followed by the title of the project.
+
+If applicable, any proposal in this solicitation may include the following Supplementary Documents:
+
+Letters of collaboration from individuals who are from organizations other than the proposing organization or proposed subawardees and who are described in the Project Description as involved in the project in a senior capacity, or from authorized representatives of institutions or organizations collaborating with the lead institution.
+
+The number of collaboration letters from third parties is limited to eight.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 5 to 14
+
+The estimated number of awards is 5-14 in total: 3-10 IRNC: Core awards; 1-3 IRNC: Testbed awards, and 1 IRNC: ENgage award.
+
+Because of the nature and geographic extent of the efforts involved, interested parties are encouraged to form consortia of organizations that can work together to provide the needed services. Consortia may consist of any number of U.S. and foreign, profit and non-profit entities. The award(s) resulting from responses to this solicitation will be made to U.S. organizations as cooperative agreements or standard or continuing grants. Any award will be for a maximum of five years.
+
+Anticipated Funding Amount: $20,000,000 to $50,000,000
+
+pending availability of funds and quality of proposals received.
+
+Each program area will support awards pursuant to the following budget and duration:
+
+IRNC: Core awards will be supported at up to $1,400,000 per year for up to 5 years;
+
+IRNC: Testbed awards will be supported at up to $1,000,000 per year for up to 3 years; and,
+
+IRNC: ENgage awards will be supported at up to $1,000,000 per year for up to 5 years.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research labs, professional societies and similar organizations in the U.S. associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or Co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

@@ -48,3 +48,272 @@ Status: Cleared
 Posted date (Y-m-d): 2025-09-26
 URL: https://www.nsf.gov/funding/opportunities/art-accelerating-research-translation/nsf25-548
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Accelerating Research Translation (ART)
+
+I. Introduction
+
+The U.S. innovation economy is primarily driven by research outcomes that are successfully translated into practice across various economic, technology, and public policy sectors. Over the last several decades, a large proportion of such transformational research outcomes has emerged from federally funded research at U.S. Institutions of Higher Education (IHEs). Despite this, at many IHEs, there is still significant room to create, support and build capacity to enable and grow a vibrant research translation ecosystem. Advancing U.S. scientific and economic leadership requires an increase in the number and capacity of robust research translation ecosystems in IHEs in our nation. The ART program seeks to achieve this goal by building, growing, and sustaining the institutional capacity needed to increase the scale and pace of translation of innovative ideas and knowledge, especially stemming from federal investments, into tangible products, services, tools, and methods that will ultimately create lasting economic impacts. Specifically, the primary goals of this program are to create, build, and sustain the capacity and infrastructure for research translation at IHEs located in all different geographies across the United States and to enhance their role in regional innovation ecosystems. In addition, this program seeks to effectively train undergraduate students, graduate students, postdoctoral researchers, and faculty in research translation, entrepreneurship, technology transfer-related areas, and community-engaged scholarship, benefiting individuals by providing the skills, networks and resources to engage with opportunities across a much wider range of career options.
+
+This solicitation seeks proposals aimed at creating resources that will ultimately assist and facilitate research translation, accelerate technology transfer, and create sustained economic and collective impacts at a wide range of IHEs across all geographies of the United States. As mentioned earlier, the ART program is built around five distinct but interconnected Tracks. Details on each of these Tracks, including guidance on proposal preparation, are described in the sections that follow.
+
+II. Program Description
+
+Track 1: Accelerating Technology Transfer (ACT):
+
+This Track seeks to increase the capacity of only IHEs with low to medium RTRL. IHEs that are a good fit for this Track are those that have a low to moderate level of research activity and are in a position to identify high-promise discoveries/innovations, solicit disclosures of such discoveries/innovations, evaluate those discoveries/innovations and their product or service markets for protectability and product-market-fit potential, and protect IP thereby incentivizing and initiating a pipeline for subsequent translation activity to de-risk technologies, conduct proof-of-concept work, and advance technologies through partnership or new venture creation. Developing the building blocks for identification, pipeline development, evaluation, and IP protection activity is the primary aim of the ACT Track. Specifically, the primary goals of this Track are to build capacity and infrastructure for technology transfer units to develop a culture of innovation and entrepreneurship, grow innovation management capacity and process-supported pipelines to feed into robust research translation programs at IHEs, and enhance IHEs’ roles within their regional innovation ecosystems. It is a goal for awardees of this Track to develop technology transfer capacity such that, when the IHE develops higher research capacity, it may be better prepared for the Track 2 opportunity described below. In addition, the ACT Track seeks to effectively train and create experiential opportunities for students, postdoctoral researchers, and faculty to perform innovation evaluation, market research and product-market-fit assessment for technology transfer, benefiting them across a range of career options.
+
+A particular intent of ACT Track is to support IHEs that desire to build the necessary infrastructure to conduct technology transfer but need resources and tools to build awareness, policies, processes, innovator relationships, evaluation capabilities, and IP protection capabilities. The ACT Track is not intended as a resource for building licensing, venture investment, or startup development resources. Instead, this Track's focus is on innovation harvesting, invention evaluation, product-market-fit activities, and IP protection activities to grow an innovation translation pipeline that can ultimately be- served by programmatic activities that are the focus of Tracks 3 and 4 described below.
+
+A part of the funding provided for this could be used for necessary and reasonable patenting-related costs. This will enable the lead IHE (with a low to medium RTRL) to grow its overall research, IP pipeline, build partnerships with industry, increase capacity and prepare for next innovation translation steps such as de-risking, proof of concept, customer discovery, pathways development, and acceleration (that are the focus of Track 2 described below). The lead IHE could recruit Innovation Fellows, consultants, technology scouts, mentor-in-residence and other experts as needed. Sub-awards to other IHEs are not encouraged.
+
+Proposals submitted to ACT Track should clearly address the following:
+
+Big picture vision and goals : The current status of the RTRL. Why does the lead IHE believe that it is a good candidate for this Track? What are the resources available for technology transfer, entrepreneurship and related areas at the IHE? Why does the IHE believe in the need to start building and strengthening the research translation pipeline and ecosystem? What is the lead IHE’s unique value proposition based on the opportunities for regional economic impacts?
+
+Opportunities and gaps: A description of what are the opportunities and gaps with respect to building awareness, policies, processes, innovator relationships, evaluation capabilities, and intellectual property protection to perform innovation harvesting and portfolio development to grow a research translation pipeline.
+
+Strategy and Approach : What is the IHE’s strategy and approach in achieving the goals related to increasing the overall RTRL? What specific steps will the IHE take? These should be described in detail. This should include a description of steps that will be taken for creation of a campus culture that values, encourages, incentivizes (e.g. faculty, post-doc, students recruiting), and rewards (including but not limited to tenure and promotion) use-inspired research and translation of research for sustained impacts.
+
+Engagement : Plans for engagement and strategies for students, postdoctoral researchers and faculty to develop pathways for their careers in areas related to entrepreneurship and technology transfer for economic impacts. Activities could include, but are not limited to, student engagement or “Fellows” programs of established and successful technology transfer or equivalent office including especially the students’ involvement in the evaluation, patent and market research and product-market-fit analysis process.
+
+Outcomes : What are the expected outcomes for the IHE because of the infusion of resources that will enable activities that will be undertaken? What are the short-term (3-4 years) expected outcomes and the long-term (5-10 years) benefits to the IHE?
+
+Evaluation plan : How will the IHE measure/capture the progress being made i.e. plans for an evaluation? How will the results of the evaluation be used for making adjustments that can lead to improved outcomes and benefits?
+
+Sustainability plan : How will the IHE sustain the momentum and continue to build its ecosystem for research translation beyond NSF funding period?
+
+Timeline : A detailed timeline for important activities.
+
+Track 2: Growing Capacity for Research Translation (GROW)
+
+This Track is aimed at IHEs that have a relatively high level of research with a modest research translation infrastructure in place but relatively low research translation readiness level (RTRL) and the potential to elevate it substantially. This Track is aimed at IHEs that: (a) recognize and are ready to unleash the existing innovation potential to create sustained economic and collective impacts, and (b) build, strengthen and sustain the overall institutional capacity to accelerate the pace and level of research translation. This Track is not intended to support IHEs that already have high RTRL.
+
+Proposals submitted in response to this Track should describe:
+
+Big picture vision and goals and strategy : Why does the lead IHE believe that it is a good candidate for this Track? i.e. why does it consider itself to be an IHE with a high research and low research translation entity and even more importantly why does the IHE, including its leadership, believes that scaling research translation across the entire IHE is a high priority. What is the unique value proposition based on the opportunities for specific regional impacts? A description of short-term (3-4 years) outcomes expected and the long-term benefits resulting from the establishment of the proposed Track 2 program.
+
+Strategy and Approach : What is the IHE’s strategy and approach in achieving the goals related to increasing the overall RTRL? What specific steps will the IHE take? A detailed plan to develop institutional capacity and infrastructure for research translation and technology transfer activities in the short term (during the four-year duration of the award) and the long term (5-10 years). Discuss: (i) the challenges and opportunities that exist at the proposing IHE for significantly boosting capacity for research translation, well above the existing level; (ii) the evidence-based and outcome-oriented mechanisms that will be deployed for capacity-building activities aimed at identifying and evaluating more fundamental research discoveries for translation, increasing the pipeline of research translation activity and accelerating research translation across multiple scientific disciplines at the entire institution in the long term, including the creation and expansion of research translation and technology transfer infrastructure for identifying promising research and receiving and evaluating more invention disclosures, as well as changes to promotion and tenure criteria to support parity between fundamental and research translation activities; (iii) creation of a campus culture that values, encourages, incentivizes (e.g., faculty, postdoctoral researchers, students recruiting), and rewards (including but not limited to tenure and promotion) use-inspired research and translation of research for sustained impacts, (iv) and external partnerships along with a plan to sustain and grow them; (v) a plan for tracking and measuring the impact of the support from the ART program; and (vi) a plan to develop the internal network of ambassadors at the institution, including how such a network will be formed, who will be on the leadership team, what activities will be undertaken by this network, and how the institution will leverage network effects of this cohort to increase translation activities across the institution. In particular, a proposal should address how it plans to achieve the following activities: “Innovation harvesting” and “faculty relationships building,” as a Year 1 initiative that continues throughout the 4-year award. This milestone should be shown by increased invention disclosures evidencing increased trust of faculty in capacity and infrastructure. “Invention evaluation” to focus on qualification of the increased pipeline, as a Year 2 focus that continues throughout the 4-year award. This milestone should be evidenced by increased assessment feedback to innovators, in addition to research and customer discovery outputs evidencing increased capacity to make informed decisions. “Partnering and team building capacity,” with emphasis on graduate student and postdoctoral researchers. This milestone should be evident by increased external partnerships and graduate student involvement as entrepreneurial leads and team members.
+
+“Innovation harvesting” and “faculty relationships building,” as a Year 1 initiative that continues throughout the 4-year award. This milestone should be shown by increased invention disclosures evidencing increased trust of faculty in capacity and infrastructure.
+
+“Invention evaluation” to focus on qualification of the increased pipeline, as a Year 2 focus that continues throughout the 4-year award. This milestone should be evidenced by increased assessment feedback to innovators, in addition to research and customer discovery outputs evidencing increased capacity to make informed decisions.
+
+“Partnering and team building capacity,” with emphasis on graduate student and postdoctoral researchers. This milestone should be evident by increased external partnerships and graduate student involvement as entrepreneurial leads and team members.
+
+Seed translational research projects: The proposal should identify and fund at least two active Seed Translational Research Projects (STRPs) selected from across the full spectrum of research activities supported within the lead institution. The STRPs should be based within the lead IHE. The total funding for all the seed projects throughout the award duration cannot be more than 50% of the total budget for the entire project. In general, a STRP candidate would be an innovation that has emerged from prior fundamental research with a clear underlying analytical and/or experimental proof of concept that has been completed. The STRP should have a justifiable path of achieving a prototype or a tangible outcome in an accelerated manner (< 2 years) that can be demonstrated in an environment relevant to the intended usage of innovation. Thus, an STRP is deemed to be highly focused, with a clearly defined path for tangible deliverables, a timeline, and an exit strategy. The STRP description should provide details on how customer identification, user-centered design, development, validation, and testing of prototypes for specific potential customers will be performed and outline anticipated sustained economic and collective impact. Each STRP is expected to be supported for up to two years. The progress of each STRP should be monitored, and decisions will need to be made on whether the project should receive additional funding beyond an initial period based on progress made. IHEs should also have a process and plans for identifying subsequent STRPs to support throughout the award period.
+
+ART Ambassadors : The proposal should describe a plan for the lead IHE to create a team of ART Ambassadors – a group of individuals who would provide advocacy for the importance and impact of research translation at the IHE. In addition to the PI and Co-PIs, NSF expects senior administrators, technology transfer officers, and entrepreneurs to be a vital part of an "ART Ambassadors" team. The PI is the lead ART Ambassador and can also designate anyone in a senior leadership position actively engaged in boosting the efforts related to research translation as an ART Ambassador. The leader of each STRP and its core team members, including undergraduate and graduate students and/or postdoctoral researchers, are considered "ART Ambassadors." The collective goal for the institutional ART Ambassadors network will be to help grow the institution's overall ecosystem and translation infrastructure. Under the PI and co-PIs leadership, this group of ambassadors will also build bridges with ambassadors from other institutions supported by the ART program and explore and develop connections with other research programs and organizations focused on boosting research translation activities and innovation capacity.
+
+Mentoring Institution : This Track requires the lead institution to partner with a mentoring institution (MI) that has a considerably higher RTRL. The MI must have established infrastructure and expertise in transitioning fundamental research into practice to create sustained impact. It is expected that MI will offer the expertise/resources to translational capacity-building activities at the institution leading the Track 2 project. It is preferred that the MI is identified in the proposal preferably and be in the same region or state as the lead institution. The proposal should clearly describe how the mentoring arrangement with the MI will work, the specific tasks the MI will aid in, and the short- and long-term benefits for the proposing/lead institution. The primary beneficiary of this partnership should be the lead institution. An appropriate IHE may serve as a MI to multiple IHEs submitting proposals to this program.
+
+Evaluation plan : How will the IHE measure/capture the progress being made i.e. plans for evaluation by an organization be? How will the results of the evaluation be used for making adjustments that can lead to improved outcomes and benefits?
+
+Sustainability plan: How will the lead organization sustain the activities, the momentum and continue to strengthen the regional ecosystem for research translation beyond NSF funding.
+
+Timeline: A detailed timeline for different activities to be undertaken.
+
+Track 3: Technology Transfer Resource Centers (RESOURCE):
+
+The goal for this Track is for an IHE or a non-profit (referred as lead organization hereafter) with considerable expertise in technology transfer and entrepreneurship to launch a regional Technology Transfer Resource Center (RESOURCE). The proposal to this Track should be led by a single IHE that has a high RTRL or a non-profit organization with relevant technology translational experience. As the financial, regulatory, and administrative requirements of generating, protecting, and capitalizing on intellectual property become more robust and complex, many institutions with limited resources need this capacity to become effective in supporting faculty, postdoctoral researchers, and students who would benefit from being (or are) engaged in entrepreneurship and technology transfer-related activities. The lead organization should propose the establishment of a RESOURCE that will provide technology transfer-related services to multiple other low-RTRL IHEs in the RESOURCE region who would be the members and primary beneficiaries/users of the RESOURCE. The RESOURCE would provide them with access to resources, knowledge, processes, tools, templates, and established programs that may be leveraged to serve, support, and create efficiencies by creating easy access. The lead organization may recruit, as consultants or experts, experienced regional technology transfer program managers that currently provide centralized technology transfer services to multiple IHEs in their region.
+
+Proposals submitted in response to this Track should describe:
+
+Need : Why does the lead organization believe in the need to start building a RESOURCE and how it can contribute to strengthening the regional research translation ecosystem?
+
+Opportunities and gaps : What is the unique value proposition based on the opportunities and gaps for specific regional impacts.
+
+Strategy and Approach : What is the proposed RESOURCE’s strategy and approach in achieving the goals related to increasing the strength of regional ecosystem for research translation? What specific steps will the RESOURCE take? These should be described in detail.
+
+Resources and training : What kinds of resources and training will the lead organization provide to many other IHEs in the region? It is expected that about 50% of the annual budget for the RESOURCE will be used every project year in direct support of regional activities to promote entrepreneurship and identify opportunities for technology transfer. For Track 3, the lead organization must budget and recruit the equivalent of a full-time staff person dedicated to meet the increased needs of providing technology transfer related services to IHEs with low RTRL. A part of the funding provided for this should be used for necessary and reasonable patenting-related costs for innovations stemming from the beneficiary IHEs served by the RESOURCE.
+
+Outcomes : What short-term (3-4 years) outcomes are expected and what long-term (5-10 years) benefits will result from the establishment of the proposed RESOURCE?
+
+Evaluation plan: How will the lead organization measure/capture the progress towards outcomes being made by the RESOURCE? What is the project evaluation plan? How will the results of the evaluation be used for making adjustments that can lead to improved outcomes and benefits?
+
+Sustainability plan : How will the lead organization for the RESOURCE sustain the activities, the momentum and continue to strengthen the regional ecosystem for research translation beyond NSF funding period?
+
+Timeline : Provide a detailed timeline for different activities to be undertaken.
+
+Track 4: Education and Training (ET):
+
+The goal for this Track is the development of resources for formal or informal education and training related to the broad areas related to research translation, entrepreneurship, technology transfer, startup formation, commercialization, industry collaboration, product development, as well as engaged scholarship, all aimed ultimately at creating sustained economic impacts. This Track invites proposals from IHEs or non-profits (referred as lead organization hereafter) with any combination of either a strong, vibrant and established research translation ecosystem, and/or demonstrated experience to develop, evaluate, and deploy educational and training resources related to entrepreneurship, product development, technology transfer, industry partnership, and related activities. The primary beneficiaries for the education and training resources to be developed will be IHEs that have a low RTRL, focused on researchers, entrepreneurs, as well as licensing professionals in industry. It is expected that these resources developed from projects supported under this Track will be useful and catalytic for the ART awardee institutions currently in the cohort and those that will become part of future cohorts.
+
+Some examples of activities that could fall under the projects supported under this include, but are not limited to, development of new courses, training materials or redesigning courses, and training or teaching materials that will acquire knowledge and skills related to research translation and the innovation workforce. The training and courses could contribute to the creation of skilled workforce for commercialization, tech transfer, and startups which are critical components of building a robust innovation ecosystem. By providing training in intellectual property (IP), licensing, technology transfer, product development, and industry collaborations, the programs can prepare individuals to engage in high-wage STEM jobs. These could be modular in design and targeted at different constituencies including early career as well as established faculty, undergraduate and graduate students, postdoctoral researchers, industry partners, small businesses, and interested entrepreneurs in accelerating research translation in collaboration with IHEs to understand and participate in research translation ecosystem and innovation management. Courses/modules could also be specifically aimed at persons in senior leadership positions (department chairs, associate deans, deans, vice presidents etc.) with an interest toward institutional level issues such as, but not limited to, research security, export control, management of open-source projects, IP, and developing partnerships with industry, non-profits, and public sector organizations. Experiential trainings / courses could be offered in the areas of IP protection strategies at various stages of commercialization, licensing negotiations strategy, IP negotiations strategy to create successful IHE / industry partnerships, and product development strategy with a focus towards understanding RTRL. Collaborative arrangements with NSF I-Corps are welcome so as to avoid duplication of efforts related to this Track.
+
+A small sample of some of the areas that Track 4 proposals could address are shown below-
+
+For IHE Leadership
+
+Building innovation infrastructure
+
+Growing research translational capacity
+
+IP policy development, negotiations and contracts
+
+Technology marketing, IP licensing and spin offs
+
+New ventures and partnership creation
+
+Building incubators and accelerators
+
+For faculty, post-doctoral researchers, and students
+
+Technology transfer—overview, why and how
+
+Creating sustained impacts by translational research
+
+Fundamentals of intellectual property
+
+Entrepreneurship and startup overview
+
+Consulting and contract services
+
+Note that these are just examples and are for illustrative purposes only . Development of any creative, novel, and fresh approaches that address the need for developing these resources that will be useful to Track 1 and 2 ART awardees (current and future) that are looking to grow their research translation is strongly encouraged.
+
+Proposals submitted in response to the ET Track should clearly describe:
+
+Overall approach and strategy : What is the overall approach and strategy in the development of these educational and training resources? Also, explain why the underlying topics are important for the stakeholders and why proposed methods of training/communication are an effective way.
+
+Resources and content already in place : Please provide specific details on what resources are already available, and how they will be modified specifically for Track 1 and 2 ART awardee team members. It is not necessary to develop the training/educational materials de novo although that can also be supported if the resources do not currently exist and there is a need.
+
+Packaging of resources : How will the existing resources such as courses, training materials be modified and packaged, along with those that may have to be developed, into different curricula/courses/modules for different stakeholders (e.g. members of senior leadership teams, faculty, post-docs, graduate students) timelines for delivery, recognizing that the timelines for these could be very different for different groups? The lead organization does not have to develop educational and training courses for every stakeholder right away.
+
+Delivery methods : How will the training materials be delivered (in-person, hybrid, virtual) and which IHE would participate in pilot testing?
+
+Dissemination methods : How will the education and training materials from the project be disseminated? How will they be made available in the short term (3-4 years) and the long-term (5-10 years) for the benefits to those using these resources?
+
+Evaluation plan : A methodology to evaluate the effectiveness of education and training for accelerating research translation should be developed. How will the effectiveness of the educational and training resources developed be measured/captured? How will the feedback received ultimately be incorporated and then tested again to improve the efficiency and student outcomes of the project? What is the project evaluation plan? How will the results of the evaluation be used for making adjustments that can lead to improved outcomes and benefits?
+
+Sustainability plan : In the long term, how will the lead organization leading the development of these courses/training materials sustain the momentum and continue to offer and expand the availability for other IHEs with a low RTRL beyond NSF funding period?
+
+Timeline : Provide a detailed timeline for different activities to be undertaken.
+
+Track 5: Coordination for Accelerating Research Translation (CART):
+
+The goal for this Track is to support creation of a central hub that will nationally facilitate and coordinate: (a) the development of education and training resources covered in Track 4, (b) development of a community of practice focused on research translation; (c) the creation of an integrated platform for coordinating, evaluating, and monitoring the progress being made by teams that are supported under Tracks 1, 2, and 3; and (d) the creation of an ART Ambassadors Network for the Track 2 program participants. The lead organization for this Track should be an IHE or a non-profit with a demonstrated record for entrepreneurship and technology transfer related activities and the ability to coordinate and facilitate complex, interdisciplinary projects and activities at multiple organizations including IHEs, non-profits, foundations, and private sectors. The lead organization can work/partner with other IHE or non-profits as it sees appropriate.
+
+Proposals submitted for this Track should describe the following:
+
+Overall approach and strategy : What will be the overall approach and philosophy in development of a unified coordination structure?
+
+Experience : Provide specific details on the lead IHE experience and expertise in managing technology transfer, entrepreneurship related areas including actual technology transfer related transactions such as IP generation, licensing, management as well as delivery of educational and training materials, and working with a wide range of stakeholders including but not limited to faculty, students, senior leadership at different organizations, working with private sector, non-profits etc. In other words, the proposal for this Track should make a compelling case as to why the IHE leading this activity is highly qualified for leading this effort.
+
+Leadership team : Explain the overall structure for the coordination effort, including who will be the lead, what will be the role of different key members of the core team and areas of responsibility for each one.
+
+Coordination of activities: What kind of platforms will be created in order to coordinate the activities among ART Tracks 1, 2, 3, and 4 awardees? Describe this in detail.
+
+Scaling research translation : Describe how the CART will use its resources, experience, partnerships with other organizations including foundations, professional societies etc., and the power of networking to help scale research translation across the entire spectrum of IHEs to promote creation of a campus culture that values, encourages, incentivizes (e.g. faculty, post-doc, students recruiting), and rewards (including but not limited to tenure and promotion) use-inspired research and translation of research for sustained economic or collective impacts.
+
+Evaluation plan : How will the lead IHE conduct a project evaluation of its effectiveness on an on-going basis? How will the results of the evaluation be used for making adjustments that can lead to improved outcomes and benefits?
+
+Timeline : Provide a detailed timeline for different activities to be undertaken.
+
+Role of ART leadership teams including PIs and Co-PIs
+
+For Tracks 1 and 2 , the PI and Co-PIs will all be the key members for building, accelerating, scaling, and sustaining research translation activities at the awardee institution. In addition to the PI, up to four other individuals can serve as Co-PIs. They, as a team (that would include some of the senior members of the IHE leadership) must have the knowledge, vision, and drive to build the capacity and infrastructure needed to accelerate the institution's research translation activities. The PI is expected to have the trust of the senior leadership team at the IHE to achieve the ART related goals for the entire IHE. It is expected that the PI will have strong leadership and communication skills. The PI will be expected to directly and fully engage in the activities needed to help initiate, facilitate, monitor, coordinate and sustain ART activities.
+
+For Track 2, leadership teams will help establish an independent, fair, and transparent process in selecting STRPs over the award duration and champion the program internally and externally. As the lead ambassador, the PI will set up the ART Ambassadors network and provide a clear vision to establish its activities and work with others to ensure they are coordinated. The ART team members (including Co-PIs and Senior Personnel) and other ambassadors will be expected to be primarily in one of the two areas of responsibility: (1) those primarily involved in a broader range of capacity-building activities aimed at strengthening the overall research translation ecosystem at the institution in the short and long terms, including development of a culture that encourages, incentivizes, and rewards use-inspired research and research translation for sustained economic impacts, the development of translation infrastructure in the institution, training of graduate and undergraduate students and mentoring of postdoctoral researchers; and (2) those primarily involved in conducting research translation activities in the STRPs.
+
+For Track 3 , the leadership team is expected to have the trust of the senior leadership teams at the lead organization as well as all other participating IHEs that are expected to be the beneficiaries to achieve the RESOURCE related goals for the entire region. PI is expected to have strong leadership and communication skills. The leadership team will be expected to directly and fully engage in the center activities needed to help initiate, facilitate, monitor, coordinate, and sustain activities related to ensure that the participating IHEs have access to resources, knowledge, processes, tools, templates, and established programs that they can leverage. The PI and the senior members of the IHE leading the RESOURCE must create an infrastructure that will serve, support, create efficiencies for, and train the RESOURCE-supported institutions.
+
+For Track 4 , the PI is expected to have the trust of the senior leadership teams at the lead organization as well as other participating IHEs that are expected to be the beneficiaries to achieve the education and training resources that will be developed. It is expected that the PI will have strong leadership and communication skills. The PI will be expected to directly and fully engage in the activities needed to help develop, pilot, test and ultimately deliver the education and training resources developed by the team. The PI should ensure that the participating IHEs have access to the resources developed and that the feedback they provide is incorporated in making any modifications. The PI and the senior members of the organization leading the ET team must create an infrastructure that will serve, support, create efficiencies for, and train the supported institutions and develop plans for wider scale deployment.
+
+For Track 5 , the PI is expected to be a strong leader and must have the trust of the senior leadership at the lead IHE as well as all other participating IHEs that are part of the ART program. The PI is expected to be someone who has proven experience and direct knowledge of the kinds of challenges and opportunities that exist relative to growing and nurturing entrepreneurship, technology transfer related activities at a wide range of IHE. It is expected that the PI will have strong leadership and communication skills. The PI should also be able to work with a range of constituencies that form the broader ART network.
+
+For all Tracks , a representative of the IHE’s technology transfer office or its equivalent unit, as designated by its administrative regulations, bylaws, or otherwise, having responsibility to manage research IP is strongly encouraged to be a PI or at least a Co-PI on the proposal.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 40
+
+NSF anticipates making up to: 20 Track 1 awards, 10 Track 2 awards, 5 Track 3 awards, 4 Track 4 awards, and 2 Track 5 awards, depending on the quality of submissions and the availability of funds.
+
+Anticipated Funding Amount: $178,000,000
+
+Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds and quality of proposals received.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the U.S., acting on behalf of their faculty members. Each IHE that is part of a university system is eligible to submit a separate proposal if it has its own leadership team, sponsored research office (SRO) or equivalent, and own governing structure. Please note additional eligibility requirements stated for submission of proposals to different Tracks noted in this solicitation.
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the U.S., acting on behalf of their faculty members. Each IHE that is part of a university system is eligible to submit a separate proposal if it has its own leadership team, sponsored research office (SRO) or equivalent, and own governing structure.
+
+Please note additional eligibility requirements stated for submission of proposals to different Tracks noted in this solicitation.
+
+Who May Serve as PI:
+
+The PI, Co-PIs, or any other senior/key personnel must hold an appointment at an organization that is eligible to submit as described under "Who May Submit Proposals."
+
+Having a representative of the IHE’s technology transfer office (if in place) or its equivalent unit as designated by its administrative regulations, bylaws, or otherwise, having responsibility to manage research intellectual property (IP) serve as a PI or at least a Co-PI is strongly encouraged.
+
+Researchers with primary appointments at overseas branch campuses of U.S. institutions of higher education are not eligible.
+
+Researchers from foreign academic institutions who contribute essential expertise to the project may participate as senior/key personnel or collaborators but may not receive NSF support.
+
+Limit on Number of Proposals per Organization:
+
+An eligible IHE can submit a maximum of one proposal for Track 1 or 2 (but not both).
+
+For Tracks 3, 4, and 5, an eligible organization can submit a maximum of one proposal per Track.
+
+Applicants eligible for Tracks 1 and 2 cannot submit proposals for Tracks 3, 4 and 5 and vice versa.
+
+A Mentoring Institution (MI) for Track 2 is eligible to submit a proposal for Tracks 3, 4, or 5.
+
+If more than one proposal is submitted from an institution in a specific Track, the first proposal submitted from that institution will be considered, and remaining proposals for that Track will be returned without review.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

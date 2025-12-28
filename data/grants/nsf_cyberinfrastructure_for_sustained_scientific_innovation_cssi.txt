@@ -18,3 +18,234 @@ Status: Cleared
 Posted date (Y-m-d): 2022-09-16
 URL: https://www.nsf.gov/funding/opportunities/cssi-cyberinfrastructure-sustained-scientific-innovation/nsf22-632
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Cyberinfrastructure for Sustained Scientific Innovation (CSSI)
+
+I. Introduction
+
+The Office of Advanced Cyberinfrastructure (OAC) enables science and engineering (S&E) research and education by developing, creating, and supporting secure, advanced, scalable, and global research CI. OAC investments emphasize CI that is:
+
+Science-driven : Promotes science and engineering excellence, enabling fundamentally new scientific and engineering advances; benefits science and engineering communities beyond initial targets;
+
+Innovative : Emphasizes unique NSF contributions; builds the capability, capacity, and cohesiveness of a national CI ecosystem; considers both human and technical aspects of the CI;
+
+Collaborative : Fosters partnerships and community development; actively engages CI experts, specialists, and scientists working in concert with domain scientists who are users of CI;
+
+Leveraged : Builds on existing, recognized capabilities;
+
+Strategic : Encourages measurement of progress and sharing of results; and
+
+Sustained : Provides benefits beyond the participants and the lifetime of the award.
+
+NSF envisions an agile, integrated, robust, trustworthy, and sustainable CI ecosystem that drives new thinking and transformative discoveries in all areas of S&E research and education (as summarized in the Transforming Science Through Cyberinfrastructure: NSF's Blueprint for a National Cyberinfrastructure Ecosystem for Science and Engineering in the 21st Century ). Supporting this vision, OAC seeks to fund projects that translate core innovations into tools and services that enable a sustainable CI for broad use by the S&E research communities. OAC's Data and Software programs have been long-term investments, focused on catalyzing new thinking, paradigms, and practices in developing and using data and software CI services to understand natural, human, and engineered systems. Science and engineering challenges and use cases drive CI development, and successful CI systems strike a balance that reflects, both the underlying technology and disciplinary research needs. OAC's Data and Software programs have also continued to evolve in response to rapid changes in the underlying hardware and networks, the accelerated use of new data representations and processing paradigms and the convergence of data, software and services into unified instruments essential to all science and engineering domains as outlined in NSF's Blueprint for a National Data and Software Cyberinfrastructure .
+
+The CSSI program targets services that address all aspects of CI, from embedded sensor systems and instruments, to desktops and high-end data and computing systems, and on to major instruments and facilities. The program will continue to nurture the interdisciplinary processes required to support the entire data and software life-cycle and will successfully integrate the development, deployment, and support of CI services with innovation and research.
+
+Furthermore, the program aims to catalyze the development of sustainable CI communities that transcend scientific and geographical boundaries. To that end, the CSSI program aims to create a software and data CI ecosystem that scales from individuals or small groups of researchers/innovators to large communities. Recognizing the need to rapidly respond to evolving research community priorities, NSF envisions support for the creation of such an ecosystem to be complemented by investments in foundational CI community services.
+
+The program envisions vibrant partnerships among academia, government laboratories and industry, including international entities, for the development and stewardship of sustainable CI services that can enhance productivity and accelerate innovation in science and engineering. Furthermore, the program also envisions integrated education activities that will play a key role in developing and sustaining the CI over time and in creating a workforce capable of fully realizing its potential to transform science and engineering.
+
+II. Program Description
+
+This solicitation welcomes proposals in the following three classes:
+
+Elements: These awards target small groups that will create and deploy robust services for which there is a demonstrated need, and that will advance one or more significant areas of science and engineering. It is expected that the created elements will be disseminated to the community as reusable services, with the potential for sustainability. The development approach may support the hardening of early prototypes and/or expanding functionality to increase end-user relevance. The expected budget for an Elements proposal is up to $600,000 for up to 3 years (up to $200,000 per year).
+
+Framework Implementations: These awards target larger, interdisciplinary teams organized around the development and application of services aimed at solving common research problems faced by NSF researchers in one or more areas of science and engineering, and resulting in a sustainable community framework providing CI services to a diverse community or communities. The resulting CI is expected to be sharable, easily findable and accessible, interoperable, and reusable by broad communities. Proposers are encouraged to engage multiple disciplines and/or emerging multi-disciplinary communities in the design, development, evaluation, and/or demonstration phases of the proposed CI. Some awards are anticipated to be continuing grants, where funds will be released annually subject to agreed-upon milestones, based on approval by NSF and the availability of funds. The expected budget for a Framework Implementations proposal is between $600,001 and $5,000,000 for 3-5 years ($200,000 to $1,000,000 per year).
+
+Transition to Sustainability: These awards target groups who would like to execute a well-defined sustainability plan for existing CI with demonstrated impact in one or more areas of science and engineering supported by NSF. The sustainability plan should enable new avenues of support for the long-term sustained impact of the CI. Competitive proposals will clearly demonstrate the current level of adoption of the CI in the community and its impact on science and education so far, justify the need to sustain these impacts, and describe how this award will help to achieve long-term sustainability of the CI with clearly defined metrics of success. Requests may include funds to support activities such as further community outreach and engagement; user training, documentation, and technical support; improvements of code quality, scalability, and accessibility; and any other activity needed to achieve the long-term sustainability of the CI. It is expected that the projects funded under this project class will identify and transition to other avenues of support (e.g., open-source community support; revenue from memberships, subscriptions, or donations; funding from industry or other federal agencies) for the operation of the CI to be sustained. The expected budget for a Transition to Sustainability proposal is up to $1,000,000 for up to 2 years (up to $500,000 per year).It is not necessary for the existing CI to be funded by a past award funded by CSSI or one of its predecessor programs.
+
+Proposers are asked to identify whether their proposal is an "Elements," "Frameworks" (for Framework Implementations), or "Sustainability" (for Transition to Sustainability) in the beginning of the proposal title (see Section V.A for details).
+
+General Considerations
+
+There is a need for scalable community-driven CI to support innovative scientific inquiry based on software and data that are findable, accessible, interoperable, reusable, provenance traceable, and sustainable. All projects must be designed to overcome significant bottlenecks to solving compelling S&E questions. Proposers are encouraged to demonstrate how the proposed software and data CI can support current NSF priority areas such as Artificial Intelligence (AI), including data CI that facilitates access to Artificial Intelligence (AI)-ready data sets. Data CI may additionally combine the elements of algorithms, software, computation, networks, task automation or exploiting custom hardware to support data-centric approaches to S&E. Data may be derived from experimentation, observation, or computation, and may be diverse, consistent with S&E across all disciplines.
+
+Proposers should consider how efforts for education and community development in software and data CI can be designed as part of the CI development. Proposals that, as part of the CI development or community engagement, include visitor support, postdoctoral opportunities, or short training courses that increase interactions of domain scientists and software and/or CI specialists are encouraged. Proposals that include innovative educational activities to train next-generation creators of CI, and to train the community at all levels on using CI in ways that broaden participation, are welcome. Educational and broadening participation activities should not, however, be the focus of the proposal, but integrated within the main effort of developing the CI. PIs wishing to submit projects that focus primarily on CI education and curriculum should submit to the Training-based Workforce Development for Advanced Cyberinfrastructure (CyberTraining) solicitation.
+
+A competitive proposal will:
+
+Identify science and engineering challenges where the proposed CI services enable fundamental new science and engineering advances, and describe how the proposed project fosters partnerships and community development that will have a significant impact on science and engineering research;
+
+Indicate how the proposed CI services build capability, capacity and cohesiveness of a national CI ecosystem;
+
+Clearly articulate the delivery and outreach mechanism with quantifiable targets for metrics to measure impact;
+
+Provide a compelling discussion of the CI's potential use by a wider audience and its contribution to a national CI; and
+
+Address how the benefits of the proposed CI services will be sustained beyond the funding period.
+
+(See Section VI.A.2 for details on the merit review criteria.)
+
+If the proposal is an extension of a previous CSSI funded Frameworks project, the proposal should clearly justify the need for such an extension, instead of targeting the Transition to Sustainability award class. The justification should briefly describe the outcomes of the previous project, including: 1). the status of the CI (software or data services) developed as part of the project, 2). the current level of adoption of the CI in the community, and 3). outcomes of efforts to translate the CI to a sustainable community framework.
+
+NSF encourages participation by industry and international collaborators in all classes of awards where such participation clearly strengthens the proposed activity (e.g., involvement of specific and unique expertise or resources, or addressing sustainability).
+
+International participants are encouraged to seek support from their funding organizations. NSF funds may not be used to support the expenses of international researchers at their home organizations. However, NSF funds may be used for integral travel expenses for U.S. scientists, engineers, and students, or for integral international collaborators to participate in activities in the U.S. For those who plan to submit a proposal with international counterparts, please contact the NSF Office of International Science and Engineering (OISE) Program Officer who covers that country: https://www.nsf.gov/od/oise/country-list.jsp . Procedures for participation by category of proposer, including foreign organizations, may be found in Chapter I.E of the PAPPG.
+
+OAC recognizes that CI cuts across academic, government, civic, and commercial organizations. The program encourages proposals to explore novel partnerships beyond academe wherever beneficial and permissible within the guidelines of the PAPPG.
+
+Programmatic Areas of Interest
+
+Important Note: Prospective PIs are strongly encouraged to consult with program officers from the list of Cognizant Program Officers in the relevant research area(s) prior to submitting a proposal to ascertain that the focus and budget of the proposed work are appropriate for this solicitation.
+
+The CSSI program is led by OAC in the Directorate for Computer and Information Science and Engineering (CISE) and has participation from the NSF directorates and divisions as described below. Not all directorates / divisions are participating at the same level, and some have specific research and education priorities. Successful proposals are expected to be of interest to one or multiple directorates, divisions, or offices participating in the CSSI program and are expected to be responsive to programmatic areas of interest for these participating directorates/offices.
+
+Below are programmatic areas of interest for FY 2023.
+
+The Directorate for Biological Sciences (BIO) is primarily interested in the CSSI program as a means to collaborate with other NSF directorates to support proposals that impact a multidisciplinary community that includes BIO-supported researchers. PIs wishing to submit projects that focus primarily on biological sciences should submit to the Infrastructure Capacity for Biological Research (Capacity) program and reference the Cyberinfrastructure Programmatic Area.
+
+The Directorate for Computer and Information Science and Engineering (CISE) is interested in software or data engineering and infrastructure projects that support research in all areas that sustain progress in the CISE field or that advance and adapt CISE research to impact the data and software sustainability needs of other scientific and engineering disciplines. CISE is also particularly interested in broad applicability projects that support the development of CI that sustains discovery across all fields.
+
+The Directorate for STEM Education (EDU) is interested in fostering multidisciplinary research and development approaches that use large data sets to improve STEM teaching and learning environments (formal and informal) and, over the longer term, revolutionize STEM learning.
+
+The Directorate for Engineering (ENG) will support proposals that provide broad access to novel CI with the potential to address emerging research challenges and enable potentially transformative research advances in the engineering research community. ENG seeks proposals that promote innovation across the CI ecosystem and address the evolving needs of the engineering research community to enable major advances in fundamental discovery in the research areas of its divisions.
+
+The Chemical, Bioengineering, Environmental and Transport Systems (CBET) Division seeks proposals outlining potentially transformative and extensible approaches to establish data and software infrastructure that advance fundamental research in areas of division interest. Successful proposals will directly address the myriad challenges research communities face in harnessing advanced computing infrastructure and the associated data handling required to solve engineering problems; challenges include, but are not limited to: (1) the availability of robust methods for experimental and computational data generation, analysis, and storage, as well as straightforward approaches for sharing and curation; and/or (2) model, code, and software development or modernization. See program descriptions for details: https://www.nsf.gov/div/index.jsp?div=CBET . Topics of special interest include:
+
+The development of enhanced modeling and data analysis tools and software for applications related to: (1) water pollution; (2) metagenomics and applied environmental microbiology; (3) Earth systems engineering; (4) industrial ecology; (5) built environments; (6) air pollution; (7) sustainable chemical manufacturing and process systems; (8) complex chemical reaction networks; (9) catalysis; (10) energy conversion processes; (11) food systems; (12) turbulent flows; (13) flows of complex fluids; (14) heat and mass transport processes; (15) combustion and fire spread and mitigation; (16) nanoparticle interactions; (17) industrially-relevant biomolecular recognition mechanisms and reactions or regulatory metabolic pathways; (18) tissue and organ system processes; (19) disease or injury diagnostic, monitoring, and treatment systems; (20) neuroengineering and neural science, and (21) characterization and restoration of human function and cognition;
+
+Large-scale, real-time machine learning, data analytics, and other AI methods to advance data infrastructure and data-enabled science in human and ecological health science and engineering, resilience and sustainability, advanced energy technologies, and other related areas;
+
+The design of open-source, dynamic data and/or software infrastructure to facilitate multi-scale modeling approaches that bridge the gap between molecular-, nano-, micro-, and macro-length and time scale phenomena;
+
+Archival-quality data handling tools and repository development, with integrated relevant meta data, to provide effortless, sustained access to community-generated research data; and
+
+The development of tools that improve predictive accuracy of computational methods and/or error assessment, including uncertainty analysis.
+
+The Division of Civil, Mechanical and Manufacturing Innovation (CMMI) supports the integration of modeling, computation, data analysis and interdisciplinary research partnerships and perspectives to advance fundamental knowledge. CMMI seeks proposals that provide pathways for discovering, developing, accessing, sharing, understanding, and using powerful CI tools, data and platforms to enhance CMMI researchers' productivity and impact. The division seeks proposals to develop CI ecosystems that will enable the CMMI research community to more effectively employ software, data, and computational methods to enable new modes of discovery and to lead CI development. For additional information on CMMI CI priorities, please see https://www.nsf.gov/eng/Emmi/about.jsp .
+
+The Division of Electrical, Communications and Cyber Systems (ECCS) seeks proposals with innovative approaches to establish data and software infrastructure that will advance the fundamental research areas supported by the Division. Examples of topics of interest include, but are not limited to:
+
+Data and software infrastructure to support innovations in devices, circuits, and systems for sensing, communications, and control;
+
+Large-scale, real-time machine learning and dynamic data analytics to advance national infrastructure, e.g., wireless communication infrastructure or electrical power grid; and
+
+Data and software infrastructure to support networked engineering cyber-physical testbeds that are remotely accessible.
+
+The Directorate for Geosciences (GEO) is interested in the following research fields: atmospheric and geospace science, Earth science, ocean science, and polar science. The directorate welcomes proposals that focus on the development and implementation of advanced CI tools and methodologies that:
+
+Are capable of real- and near-real-time archiving and manipulation of sensor and other field-based data, including experimental and/or simulation data;
+
+Promote seamless discovery, access, and transfer of data and meta data across data resources and centers that are supported by GEO;
+
+"Leverage through sharing" of existing investments in university, federal, and commercial computing and infrastructure;
+
+Engage community models for the assimilation and use of data for initialization, state estimation, or sensitivity analysis;
+
+Encourage the development or reuse of computational techniques (e.g., high-performance distributed computing, machine learning, artificial intelligence, cloud computing, data mining, etc.) to stimulate data enabled science through enhanced large-scale simulations and analysis of large volumes of data;
+
+Streamline findability and accessibility of high-quality data, visualization tools, and modeling and analysis codes to help scientists and educators maximize the value of geosciences data and to generate transparent and reproducible research outcomes; and
+
+Enable engagement with people and communities historically underrepresented in the geosciences, such as women, persons with disabilities, and minority groups, those from geographically underrepresented areas in science, technology, engineering, and mathematics, and veterans of the U.S. Armed Forces.
+
+All projects must be designed to overcome significant bottlenecks to solving compelling geoscience questions. Programmatic areas of interest within GEO are below.
+
+The Office of Polar Programs (OPP) is interested in activities that advance understanding of the current and future states of high latitude ocean circulation, atmospheric conditions, marine and terrestrial ecosystems, and biogeochemistry, and the mechanisms that drive the seasonal evolution of sea and land ice melt. OPP welcomes interdisciplinary research that focuses on how the components of the polar regions (land, atmosphere, ocean, sea, land ice, etc.) interact as a system, with feedbacks and unanticipated emergent properties. OPP also welcomes proposals related to polar astrophysics and geospace research. OPP's Arctic Social Sciences program is interested in research on human systems, past and present. Investigators who are interested in Arctic social science research are encouraged to also read the SBE Programmatic Areas of Interest below, and to contact the cognizant OPP and SBE program officers.
+
+The Division of Atmospheric and Geospace Sciences (AGS) is interested in answering fundamental science questions related to atmospheric and geospace research, including a wide variety of important processes that impact humans and society, such as space weather, tropospheric weather, physical and dynamic meteorology, climate, and air quality.
+
+The Division of Earth Sciences (EAR) is interested in improving our understanding of the structure, composition, and evolution of the Earth, the life it supports, and the processes that govern the formation and behavior of the Earth's materials. EAR interests include the fields of terrestrial and "solid-earth" science (geology and paleontology, geochemistry, geophysics, continental hydrology, geomorphology, tectonics, and geobiology).
+
+The Division of Ocean Sciences (OCE) is interested in activities that advance understanding of all aspects of the global oceans and ocean basins, including their interactions with people and the integrated Earth system.
+
+The Directorate for Mathematical and Physical Sciences (MPS) appreciates that software and data CI enable scientific advances and discovery across MPS. The following are division-specific CSSI priorities within MPS.
+
+The Division of Astronomical Sciences (AST) is interested in proposals to support the development and dissemination of sustainable software and tools for data handling and computational activities that enable progress on key questions in astronomy and astrophysics.
+
+The Division of Chemistry (CHE) encourages proposals that focus on innovative software tools and data infrastructure that enable advances in CHE research areas and at the interface of chemistry and other research domains. CHE is particularly interested in the development of data and software tools that support experimental and computational investigations of multiple and diverse interactions in complex systems and/or enable data-driven discovery in molecular science. Priority will be given to new areas such as those having a less-developed publicly available aggregate of software and algorithms and those enable creative research in NSF priority areas, such as sustainable chemistry, advanced energy, biotechnology, quantum information science, and artificial intelligence/data-enabled chemical research.
+
+The Division of Materials Research (DMR) encourages proposals that focus on innovative and effective software tools and/or data CI that enable advances in the division's research areas and at the interfaces of materials research with other areas of S&E. The division is particularly interested in projects that develop innovative software tools and data CI to enable and support research that integrates experiment, computation, and theory through data-intensive approaches. DMR encourages proposals to further develop or to address gaps in CI to support data-intensive materials research and discovery in all forms and at all scales of research activities. This solicitation provides opportunities to develop CI to enable autonomous materials research, and to make data gathered through DMR-supported National Facilities and Instrumentation (NaFI), Materials Innovation Platforms (MIP), DMREF projects, Materials Research Science and Engineering Centers (MRSEC), and Partnerships in Research and Education in Materials (PREM) accessible to the research and education community in accordance with FAIR principles.
+
+The Division of Mathematical Sciences (DMS) welcomes proposals that either (a) build computational and graphical tools that have broad application in mathematical sciences and related areas, or (b) translate significant and recently-developed mathematical and statistical models, algorithms, and methods into software tools that address substantial problems or data sets in fields outside the mathematical sciences.
+
+The Division of Physics (PHY) will consider proposals that focus on innovative CI that enables advances in the division's research areas.
+
+The Directorate for Social, Behavioral, and Economic Sciences (SBE) is interested in fostering the development of innovative data and software CI that furthers the directorate's research priorities. SBE is particularly interested in using CSSI to support projects building on other infrastructure activities such as Human Networks and Data Science-Infrastructure (HNDS-I), formerly Resource Implementations for Data Intensive Research in the Social, Behavioral and Economic Sciences (RIDIR). SBE also is interested in projects that further the accessibility and use of SBE research results or SBE data, including data collected by NSF's National Center for Science and Engineering Statistics. SBE welcomes innovative approaches to big data and software problems in SBE-focused domains consistent with NSF's Harnessing the Data Revolution Big Idea. SBE encourages proposals that further the goals of SBE and at least one other participating NSF directorate.
+
+High-Throughput Computing Resources
+
+Proposals may request high-throughput computing (HTC) resources through the Partnership to Advance Throughput Computing ( PATh ) project supported by NSF.
+
+Proposers should describe the request in a Supplementary Document no longer than two pages with a technical description of, and justification for, the requested HTC resources that includes (a) the expected number of self-contained tasks per ensemble – note that each task can be packaged into one or more batch job; (b) the resource requirements for each task type in the ensemble – for example, requirements for cores, memory, wall-time, and scratch space; (c) the expected number of ensembles; (d) the expected input and output data requirements for each task type; and (e) the expected number and size of shared input files within an ensemble – expected number of times each file is read per ensemble.
+
+Proposers should include "HTCAccess" (one word without spaces) as a keyword on the Project Summary page, at the end of the Overview section (before the section on Intellectual Merit) if incorporating this request into the proposal. Proposers may visit PATh credit accounts web page (see https://path-cc.io/services/credit-accounts/ ) for more information on the available HTC resources which can be allocated through this program.
+
+See Section V.A. Proposal Preparation Instructions, Supplementary Documents, for more information on how to describe the HTC/PATh request.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 35
+
+The number of awards of each type will be determined by separate review processes and will be based on quality of proposals, availability of funds, and responsiveness to priorities of the participating directorates/divisions.
+
+Up to 20 Elements awards, up to 10 Framework Implementations awards, and up to 5 Transition to Sustainability awards are anticipated, subject to the availability of funds and quality of proposals received.
+
+Anticipated Funding Amount: $34,000,000
+
+Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.
+
+Up to $10,000,000 is expected to be available for Elements awards, up to $20,000,000 is expected to be available for Framework Implementations awards, and up to $4,000,000 is expected to be available for the Transition to Sustainability awards, all subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+NSF-sponsored federally funded research and development centers (FFRDCs) may apply, provided that they are not including costs for which federal funds have already been awarded or are expected to be awarded.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may participate as PI, co-PI, or other Senior Personnel on at most one proposal across the Elements, Framework Implementations, and Transition to Sustainability classes for this solicitation. Thus, if an individual participates on an Elements proposal, the individual may not participate on a Framework Implementations or Transition to Sustainability proposal, and vice-versa. Note that any individual whose biographical sketch is provided as part of the proposal will be considered as Senior Personnel in the proposed activity, with or without financial support from the project.
+
+In the event that any individual exceeds this limit, any proposal submitted to this solicitation with this individual listed as PI, co-PI, or Senior Personnel after the first proposal is received at NSF will be returned without review. No exceptions will be made. For this purpose, a multi-organization collaborative project is treated as one proposal that is considered submitted when the last component proposal is submitted.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

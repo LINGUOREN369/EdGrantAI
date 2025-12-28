@@ -9,3 +9,158 @@ Status: Current but no longer receiving proposals
 Posted date (Y-m-d): 2021-09-07
 URL: https://www.nsf.gov/funding/opportunities/cope-coastlines-people-hubs-research-broadening-participation/nsf21-613
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Coastlines and People Hubs for Research and Broadening Participation (CoPe)
+
+I. Introduction
+
+Coasts are paramount to our nation’s economic prosperity, sustainability and national security. U.S. coastal ports handle more than $700 billion in merchandise annually. Coastal shoreline counties produced 40 percent of the nation’s total jobs and contributed 46 percent of its gross domestic product in 2014 ( https://coast.noaa.gov/data/digitalcoast/pdf/socioeconomic-data-summary.pdf ). Critically, 1,774 military sites across the globe depend on the stability of 153,646 kilometers (95,471 miles) of coastline (Center for Climate and Security, 2016).
+
+Coastal counties in the lower 48 states have a population density that is six times greater than corresponding inland counties and is growing rapidly (National Ocean Service, 2017). According to the U.S. 4 th National Climate Assessment, as of 2013, 257.9 million people or 81.5% of the U.S. population live in Coastal States. The population of coastline counties along the Pacific, Atlantic, and Gulf coasts are much more diverse, with populations that are composed more than 50% of racial/ethnic groups other than non-Hispanic White compared to 34% in non-coastline counties (U.S. Census, 2019). The Great Lakes hold environmental, cultural, and economic value for both the region and the nation. Often referred to as the “Third Coast,” the five Great Lakes possess 95 percent of the country’s surface fresh water supply. The Great Lakes Basin includes 158 counties and 13 major urban areas; about 27.3 million Americans call the region home.
+
+Environmental phenomena of terrestrial, oceanic, and atmospheric origin are constantly changing coastal landscapes and affect human habitats and infrastructure. Sea-level rise will continue to cause serious economic, social, and environmental impacts to coastlines around the globe. Since 1900, global mean sea level has risen by 7-8 inches, with about 3 inches occurring since 1993 (Folger, 2016) (USGCRP, 2017). Research has shown that all coastal cities will see some impacts of global sea level rise (Larour, 2017).
+
+Climate change is leading to warming seas, causing about half the eustatic sea level rise, and impacting precipitation patterns which alter coastal hydrology and ecosystems. In 2017, Hurricanes Harvey, Maria and Irma set damage records totaling $265 billion (Smith, 2018).
+
+Devastating earthquakes, tsunamis, and landslides occur at subduction zones, five of which exist along coastlines in the U.S. and its territories. In 1964, the most powerful earthquake in U.S. history occurred in Alaska, causing 129 deaths and $2.38 billion in property losses, mostly resulting from tsunamis caused by local undersea landslides (USGS, 2017).
+
+A great deal of public critical infrastructure, such as housing, transportation, water supply, and electricity generation and distribution, is vulnerable to extreme weather events, sea-level rise, coastal flooding, algal blooms, and tectonic hazards. Scientific research into complex coastal systems and the interplay with coastal hazards is vital for predicting, responding to, and mitigating threats in these regions. Understanding the risks associated with coastal hazards requires a holistic Earth Systems approach that integrates improved understanding of and, where possible, predictions about natural, social, and technological processes with efforts to increase the resilience of coastal systems.
+
+Significant population growth in coastal regions increases risk exposure to these coastal hazards. This motivates an investment in interdisciplinary, convergent research across many disciplines including biology, engineering, geoscience, and the social and behavioral science. Convergent research is driven by a specific challenge or opportunity. It entails integrating knowledge, methods, and expertise from different disciplines to form novel frameworks to catalyze scientific discovery and innovation.
+
+Therefore, a successful research framework responsive to this solicitation brings together researchers from multiple disciplines, cutting across natural and/or engineering and/or social and behavioral sciences, to study dynamic Earth Systems processes and vulnerabilities across varying spatial and temporal scales. The complex interface between coastal processes/hazards and people requires strong partnerships between the research team and relevant stakeholders. Therefore, critical sectors of the global coastal economy, e.g., tourism, construction, fisheries, and national security, must be proactively engaged in the development of novel research approaches to advance coastal zone science that informs sound management and conservation efforts for long-term resiliency. Through these partnerships, coastal vulnerabilities can be identified and addressed through research that informs a variety of practical actions including planning and adaptation promoting resilience; active mitigation of impacts prior to, and after, events; and by accounting for predictable slowly occurring processes at longer temporal and larger spatial scales.
+
+II. Program Description
+
+Investigating the complex interactions between coastal processes, human dynamics, and the built environment requires a focused investment in novel, multidisciplinary science that engages a diverse group of local stakeholders. The goal of this program is to support Coastal Research Hubs, structured using a convergent science approach, at the nexus of coastal sustainability, human dimensions, and coastal processes to transform understanding of interactions among natural, human-built, and social systems in populated coastal environments. Research Hubs will address issues operating at multiple scales and link science, stakeholder engagement, and education into developing pathways to sustainability in changing coastal environments.
+
+Many of the communities that are most vulnerable to natural hazards and environmental change in coastal areas include significant populations of groups that have historically not been included in STEM (Science, Technology, Engineering, and Mathematics) fields or in the development of STEM research. Thus, CoPe Hubs present an opportunity to broaden participation and engage stakeholders in a meaningful way that will benefit individuals, communities, society, and STEM. Successful CoPe hubs will embrace both broadening participation and stakeholder engagement as key values that are integrated into the design of the hub and the choice of science priorities to explore. Broadening participation, in the context of CoPe, includes rethinking how we identify, approach, and prioritize scientific questions to get a diversity of individuals involved in the scientific enterprise. Diversifying the STEM workforce is an important component of broadening participation that should be coupled with activities that ensure inclusion of the diverse workforce in the workplace. The CoPe program is also interested in stakeholder engagement through citizen science, stakeholder partnerships, community engagement and many more types of activities that help drive research priorities and have the potential to broaden participation in STEM. The Committee on Equal Opportunity in Science and Engineering (CEOSE), in October 2019, called for a more integrative vision for inclusiveness in STEM and thus recommended that NSF give increased attention to including diverse community voices across its research and education portfolios through community driven projects. CoPe Hubs provide an opportunity to implement that CEOSE recommendation (See C EOSE Biennial Report to Congress: Investing in Diverse Community Voices , Arlington, VA, (2019)).
+
+A. Objectives of the CoPe program are to:
+
+Conduct basic research focused on understanding the origins and/or processes that impact coastal environmental variability and hazards on populated coastal regions.
+
+Support research and activities in a hub-based environment, where the whole is greater than the sum of the parts.
+
+Support potentially ground-breaking investigations on both coastlines and people that cross disciplines, involve stakeholders and local communities, and integrate broadening participation into the values of all activities and research the hub undertakes.
+
+Foster fundamental coastal science and engineering that is societally relevant.
+
+Provide a framework where multiple institutions and constituencies can easily work together on scientific questions relevant to all.
+
+Serve as an exemplary program for integrated Earth-system processes.
+
+B. Characteristics of Coastlines and People Hubs
+
+While the exact structure of a hub may take many different forms, successful hubs will achieve the following:
+
+Fit within the NSF mission of basic research that has strong intellectual merit and broader impacts related to coastal hazards. While a natural hazard is often thought of as a single event with a timescale of seconds to days, CoPe will consider environmental changes that occur on long time scales and impacts coastal populations to also be hazards (e.g., sea level rise, erosion). Each hub should have a clearly defined science theme, with articulation of why an interdisciplinary effort is necessary to advance the science chosen. While the research should be fundamental, it should also have the potential to inform the actions by stakeholders and include a clear motivation for the science proposed by the hub.
+
+Integrate broadening participation activities fully into hub science, recognizing that when new voices are considered as science is developing, new and better ideas can emerge. Hubs that fully integrate broadening participation activities have the potential to not only help diversify STEM, but fundamentally impact how the science is conducted and who is involved and included in the development of scientific ideas.
+
+Involves multiple constituencies and institutions. Proposers should be tackling scientific challenges that are larger in scale than can be accomplished by a single institution or a single discipline.
+
+Defines a structure that will enable interaction between the various institutions, stakeholders, and communities. The hub may be completely virtual, or it may have a physical central location. Regardless the chosen structure of the hub must have plans in place for enabling research across disciplines, institutions, and constituencies.
+
+Over the life span of a hub, it is anticipated that the science pursued and the activities the hub engages in may evolve. Thus, it is important that a CoPe hub can evolve its leadership and structure to best serve the entirety of the hub and the evolving scientific focus.
+
+Engage stakeholders in a manner that would help drive the basic science research priorities. Each hub should identify who the relevant stakeholders are for the hub research theme. Stakeholders may be local communities, government (local, state and/or federal) agencies, nonprofit organizations, private sector businesses, and other scientists.
+
+A hub may be focused on a geographic region but should explore science that is transferable to other locations.
+
+Funding Tracks:
+
+Track 1: Focused CoPe hubs
+
+The CoPe Program welcomes proposals for Focused hubs via this solicitation. These awards are intended to support full-fledged research hubs that require smaller budgets ($1 million or less per year). Therefore, the scope of the Focused hubs may focus on a specific geographic region, a narrow set of research questions, or have other aspects of the chosen theme that keeps the scope of the hub appropriate for the budget.
+
+Track 2: Large-scale CoPe hubs
+
+The CoPe Program welcomes proposals for Large-scale hubs via this solicitation. These awards are intended to support hubs that require larger budgets because of the scope of the science or geographical area involved ($2-$4 million per year). Due to the potential scope and complexity of the Large-scale hubs, the awards may be continuing grants or cooperative agreements.
+
+Post-award oversight for both Focused and Large-scale Hubs will entail a midterm review by NSF to assess progress toward the Hub’s stated goals and objectives .
+
+III. Award Information
+
+Anticipated Type of Award:
+
+Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 5 to 8
+
+Due to the potential scope and complexity of CoPe Hubs, the awards may be continuing grants or cooperative agreements.
+
+Anticipated Funding Amount: $28,000,000
+
+Focused Hubs : Projects with total budgets up to $1 million per year, for 3 to 5 years.
+
+Large-scale Hubs : Projects with total budgets ranging from $2 to 4 million per year (not to exceed 4 million in any one year), with an average award of $3 million per year, for up to 5 years.
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research labs, professional societies and similar organizations in the U.S. associated with educational or research activities.
+
+Institutions of Higher Education (IHEs) and Non-profit, non-academic organizations.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+An individual may be listed as a PI or co-PI on no more than one Hub proposal submitted in response to this solicitation. Proposals exceeding the limit for any person will be returned without review in the reverse order received. There is no limit on the number of proposals on which an investigator may be listed as Lead of a Subaward or as Other Senior Personnel.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

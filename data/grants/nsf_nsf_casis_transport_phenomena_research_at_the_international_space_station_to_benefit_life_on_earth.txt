@@ -10,3 +10,190 @@ Status: Cleared
 Posted date (Y-m-d): 2024-12-31
 URL: https://www.nsf.gov/funding/opportunities/nsfcasis-transport-phenomena-research-international-space/nsf25-529
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+NSF/CASIS Transport Phenomena Research at the International Space Station to Benefit Life on Earth
+
+I. Introduction
+
+The Center for the Advancement of Science in Space (CASIS) is an Internal revenue Code (IRC) Section 501(c)(3) entity responsible for management of the International Space Station (ISS) U.S. National Laboratory under a Cooperative Agreement (80JSC018M0005) with the National Aeronautics and Space Administration (NASA). Per Section 504 of the NASA Authorization Act of 2010, the purpose of CASIS is to maximize the value of the investment the U.S. government made in the ISS National Lab and demonstrate the scientific and technological productivity of the ISS National Lab over the next decade. CASIS seeks to advance scientific research, technology development, and education in conjunction with utilization of the ISS, managing a diverse research, technology, and education portfolio across a broad range of scientific fields.
+
+Because NSF and CASIS have a common interest in research and development in transport, thermal, combustion, nanoscale interactions, fluid phenomena, materials performance, and manufacturing under microgravity conditions, NSF and CASIS have developed a collaboration to jointly support research that can take advantage of the opportunities afforded by conducting experiments on-board the ISS.
+
+In 2016, Program Solicitation NSF 16-518 was focused on the fluid dynamics research, in 2017, Program Solicitation NSF 17-517 was focused on combustion and thermal transport processes research, in 2018, Program Solicitation NSF 18-521 was focused on research proposals addressing fluid dynamics and particulate and multiphase processes research, in 2019, Program Solicitation NSF 19-525 focused on transport phenomena research in the microgravity environment, and in 2020, Program Solicitation NSF 20-501, in 2021, Program Solicitation NSF 21-525 , in 2022, Program Solicitation NSF 22-539 , in 2023, Program Solicitation NSF 23-523 , Program Solicitation NSF 24-501 in 2024 focused on transport phenomena research and nanoscale interactions in the microgravity environment. The funded proposals can be found on the website of the programs within the Transport Phenomena Cluster and the Nanoscale Interactions Program of the Division of Chemical, Bioengineering, Environmental and Transport Systems. This solicitation is focused on research covered by all the programs within the Transport Phenomena Cluster (Fluid Dynamics, Particulate and Multiphase Processes, Combustion and Fire Systems, and Thermal Transport Processes) and the Nanoscale Interactions Program from the Environmental Engineering and Sustainability Cluster as well as new understanding in those technical areas relative to processing, manufacturing, properties or performance of structural materials.
+
+The purpose of this solicitation is to attract proposals that make use of the ISS National Lab for research projects in the fields related to the Transport Phenomena Cluster, Nanoscale Interactions program, Advanced Manufacturing program, and the Division for Materials Research SF recipients under this solicitation will need to execute a User Agreement with CASIS in order to utilize the ISS National Laboratory. A template agreement with particular emphasis on the Ceramics and Metals and Metallic Nanostructures Programs. Responsive proposals will describe using the ISS National Lab for development and testing in these fields that will lead to Earth-based applications and increase the return on the U.S. investment in the ISS National Lab. CASIS goals are to advance science research and technology development, expand human knowledge, foster the commercial development of space, and demonstrate scientific capabilities in space for Earth benefit. Fundamental research to study fluid dynamics, particulate and multiphase processes, combustion and fire systems, thermal transport processes, nanoscale interactions, as well as transport-related processing, manufacturing, properties, and/or performance of structural materials where the results will have direct terrestrial benefit but will involve flight research utilizing the ISS, is solicited.
+
+The collaboration seeks to exploit the complementary missions of (i) research and development for NSF, and (ii) stimulation, development, and management of U.S. national uses of the ISS National Lab by U.S. government agencies, academic institutions, and private firms for CASIS. Proposals must seek to exploit the ISS National Lab for fluid dynamics, particulate and multiphase processes, combustion and fire systems, thermal transport processes, nanoscale interactions studies, as well as processing, properties, or performance of structural materials to support applications on Earth. The proposal must include a description of project benefits for life on Earth. Proposals focused on research and technology development supporting only space exploration-related goals do not fall within the scope of the NSF and CASIS mission and will be considered non-responsive to this solicitation. For example, this program does not support research strictly focused on space propulsion.
+
+II. Program Description
+
+The unique environment on the ISS National Lab has many benefits and can include high quality and long duration microgravity and extreme conditions including heat and cold cycling, high energy radiation, and vacuum.
+
+Potential research related to fluid dynamics and particulate and multiphase processes may include areas such as (but not limited to):
+
+Multiphase flow
+
+Capillary flow
+
+Separation/Agglomeration
+
+Sedimentation/Stratification
+
+Diffusion
+
+Interfacial behavior
+
+Surface tension
+
+Biological and physiological transport
+
+The strong hindrance of processes, such as natural convection and sedimentation, and of those driven or affected by hydrostatic pressure and buoyancy, for instance, can all contribute to the change in the behavior of a substance in space. The effect on these variables allows phenomena of interest to be studied with minimal gravitational interference. Example phenomena related to combustion and fire systems and thermal transport processes may include (but not limited to):
+
+Combustion of gas, liquid and solid
+
+Fire safety
+
+Low-temperature combustion chemistry
+
+Convective (forced) flow
+
+Phase change
+
+Radiation
+
+Microgravity can influence the crystal growth process and the molecular structure of a material during phase change. Microgravity may also enable the measurement of certain physical/chemical properties, involving multicomponent transport and flame dynamics, which have been shown to be difficult to measure sufficiently well in Earth-based laboratories. Long-term exposure to microgravity is also important in many combustion and thermal transport studies. Longer time scales (e.g., for fully developed flow profiles or weakly-driven flows to occur) are often needed for experimentation, which cannot occur in parabolic flights or drop towers, thus the necessity for the ISS National Lab.
+
+Examples of research related to the Nanoscale Interactions program include 1) investigation of transport, interaction, and impact of nanostructured materials on biological systems in microgravity, and 2) characterization of interfacial interactions and transformation of both simple and complex nanoparticles and/or heterogeneous composites and nanosystems under microgravity conditions.
+
+The Advanced Manufacturing program recognizes the relevance of the above-described transport and interaction phenomena to in-space manufacturing processes. The program encourages proposals involving material processing and manufacturing which require insights into thermal and fluid transfer in a microgravity environment.
+
+Of particular interest to the NSF Advanced Manufacturing (AM), Ceramics (CER) and Metals and Metallic Nanostructures (MMN) programs are fundamental research in ceramics or metals, including but not limited to:
+
+New insights to solidification, joining, corrosion, wear, diffusion, mechanical performance, or response to extreme environments in reduced gravity.
+
+New opportunities for processing, recycling, and advancing sustainability for polymers, ceramics and metals in space.
+
+Improved multi-scale modeling approaches to more accurately, represent non-terrestrial environments and their long-term impact on material performance and integrity.
+
+To receive funding as an NSF-ISS-appropriate project, an ISS-based flight experiment should be proposed. Selected projects must be flight ready within 24 months of the award and final reports must be completed by six months post flight. If flight schedules change, investigators may modify proposed timelines, subject to review and approval by the CASIS Operations team. Prior to submitting a proposal to NSF, the Feasibility Review Form must be approved by CASIS.
+
+This solicitation is not intended to be used for projects that can be accommodated within other NSF funding mechanisms. In addition, this solicitation is not intended to be used for projects that can be conducted in their entirety with ground-based research.
+
+Collaborative proposals may also be submitted and collaborations with industry and relevant costs for their participation are allowed. In these cases, if the co-PIs are at different organizations and have complementary skills and facilities, then the use of the separately submitted, collaborative proposal mechanism is allowed. See PAPPG Chapter II.E.3 for information about submission of a collaborative proposal from multiple organizations.
+
+Prospective proposals will be subject to a review for operational feasibility conducted by CASIS. See the CASIS guidelines for further details on these reviews at https://issnationallab.org/opportunities/rfp2026-1/ .
+
+The solicitation seeks to increase use of the ISS National Lab for fluid dynamics, particulate and multiphase processes, combustion and fire systems, thermal transport processes, and nanoscale interactions studies to benefit applications or industries on Earth, to promote ISS as well as new and existing facility/technology utilization. Costs such as preparatory work, including but not limited to design of experimental prototypes and numerical simulations, data acquisition, and post-flight data analysis, can be included in the budget. Subject to budgetary and time constraints, CASIS may cover costs of limited modifications to flight hardware, on a case-by-case basis, to meet defined research objectives. Ideal proposals will describe a commercial, civil, or academic project to achieve research or technology development objectives that will directly impact areas including (but not limited to):
+
+Clean water and energy
+
+Carbon emissions and capture
+
+Manufacturing
+
+Machinery
+
+Consumer Products
+
+Oil & gas
+
+Electronics
+
+Medical devices and pharmaceuticals
+
+Microfluidics and nanofluidics
+
+Waste heat recovery
+
+Energy storage
+
+Disaster prevention and mitigation
+
+Prospective proposers should consult with the flight hardware directory at https://issnationallab.org/opportunities/rfp2026-1/ for an introduction to the basic capabilities of the ISS payload facilities and instrumentation platforms. NSF will offer grants to research proposals that develop fundamental and translational research and CASIS will assist recipients in translating ground-based experiments and technologies into space-appropriate hardware where possible. An ideal proposal will demonstrate the investigator's knowledge of the significant challenges and importance of the proposed research and how ISS utilization will allow their research goals to be achieved. All proposers should read this online material to clearly understand the hardware platform and capabilities on the ISS.
+
+CASIS also encourages prospective proposers to learn about the availability and capability of flight hardware and integration services by directly communicating with the CASIS Operations team ( ops@issnationallab.org ). Prospective proposers should read the CASIS guidelines at https://issnationallab.org/opportunities/rfp2026-1/ .
+
+Proposals that do not follow the CASIS guidelines will be deemed non-responsive to this solicitation.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant
+
+Estimated Number of Awards: 9
+
+Anticipated Funding Amount: $3,600,000
+
+NSF Funding (total) available under this solicitation is up to $3.6 million to be distributed in FY 2026. Budget requests may be for up to $400,000 total, direct and indirect costs, and up to four years in duration. The award size and duration should be consistent with the project scope.
+
+Estimated program budget, number of awards and award size/duration are subject to the availability of funds. Project duration must not exceed four years.
+
+Funding for ISS Experiments
+
+NSF awards under this solicitation will provide PIs with support to conduct fundamental and translational research, to prepare experiments for execution on-board the ISS, to collaborate with service providers as necessary, to provide preliminary analysis to conduct the experiment, to analyze and interpret data, and to disseminate results broadly. CASIS operations will assist recipients in translating ground-based experiments and technologies into an appropriate ISS certified hardware solution where possible. All costs associated with the translation of the proposed experiments to flight experiments on-board the ISS, including training of ISS crews, transporting the experiment payload and equipment to the ISS, and conducting experiments on the ISS, will be supported by CASIS through their cooperative agreement with the National Aeronautics and Space Administration (NASA).
+
+CASIS may provide funding to Commercial Implementation Partners for PIs to utilize existing flight hardware and facilities to support proposed research. Please note that proposals requiring significant modifications to hardware or the development of new capabilities will be out of scope for this solicitation. Also, note that the budget request for commercial implementation services should be included in the implementation partner's statement of work (SOW) and is a separate allocation from the NSF award budget.
+
+Note that the availability of flight hardware for support of this funding opportunity may have changed from previous solicitations. For information regarding available flight hardware for this solicitation, please visit: https://issnationallab.org/opportunities/rfp2026-1/ .
+
+For other technical and/or operational inquiries, please submit questions to ops@issnationallab.org .
+
+Both organizations will jointly manage the project reviews. All NSF awards will be made via a Standard Grant mechanism. In addition, NSF recipients shall be required to negotiate separate conditions with CASIS for ISS utilization support. CASIS' Agreements contain non-negotiable provisions which are mandatory and cannot be altered. If an award recipient does not desire to or cannot comply with such mandatory flow down provisions, it should not accept the award opportunity.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the U.S., acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the U.S. campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+Who May Serve as PI:
+
+The PI and any Co-PIs must qualify as "U.S. Persons" under 22 U.S. Code §6010: " 'United States person' means any United States citizen or alien admitted for permanent residence in the United States, and any corporation, partnership, or other organization organized under the laws of the United States."
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may participate in any capacity (PI, co-PI, Other Senior/Key Personnel, or Consultant) in only one proposal submitted in response to this solicitation. The submitting organization is responsible to ensure that the PI, co-PIs, Other Senior/Key Personnel, and Consultants are participating in only one proposal. This limitation includes proposals submitted by a lead organization and any sub-award submitted as part of a proposal. If an individual exceeds this limit, the first proposal submitted to include this individual will be accepted and the remainder will be returned without review. No exceptions will be made.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

@@ -9,3 +9,388 @@ Status: Current but no longer receiving proposals
 Posted date (Y-m-d): 2010-02-25
 URL: https://www.nsf.gov/funding/opportunities/nsdl-national-stem-education-distributed-learning/nsf10-545
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+National STEM Education Distributed Learning (NSDL)
+
+I. Introduction
+
+Innovative projects supported by NSF and many other organizations have developed numerous examples of rich, learner-centered educational materials and environments. Features include the use of sophisticated graphics tools for animation and visualization of scientific, engineering, and mathematical concepts; computational tools for modeling and simulation; remote access to scientific equipment; analysis of large, real-time or archived data sets; and network-supported collaboration. During this time the World Wide Web has shown great potential for enabling access to the very best of these new learning materials and environments. The highly linked, dynamic information architecture of the Web mirrors the interconnected nature of knowledge, enables the inclusion of new high-quality materials and practices, supports annotation and community commentary, promotes the integration of research and education, and encourages learners to become active participants in expanding their educational experience. In addition, advances in grid and mobile Internet technologies, the presence of powerful commercial search engines, and more recently the rise of social networking technologies and participatory culture sites are now challenging the traditional social constructs and contexts of learning. Finally, open source, open content licensing agreements (e.g. http://creativecommons.org/ ) and new kinds of open courseware resources are creating a fresh climate for educational innovation.
+
+However, Web-based collections of resources can exhibit significant shortcomings as tools for teaching and learning. For example, it is often difficult to determine from a lengthy list of links how well an individual item suits a particular learner's needs. When resources are located, they can exhibit uneven reliability or stability particularly if they incorporate additional software elements for animations, audio, or video. In addition, the audience for these collections often lacks the support and expertise needed to select an appropriate resource, incorporate it into a coherent learning experience, and evaluate the impact of the new approach.
+
+While the principles of interoperability and reusability of learning resources or "learning objects" are gaining visibility, their widespread application remains more promise than reality; and the construction of new learning objects with executable content from "building block" component pieces (e.g., Java applets or application software macros) demands additional planning, testing, and coordination to achieve an impact on learning. A great deal of new content requires a higher level of organization and aggregation than traditional learning objects. Sequences of tested activities in materials such as inquiry learning environments or video and audio of entire courses add value to individual components. These sequences and combinations need to be integrated with existing collections.
+
+Through the NSDL program, NSF seeks to enable the discovery, collaborative selection, organization, and effective usage of quality learning and teaching resources appropriate for educators and learners at all levels. The NSDL network of learning environments and resources should readily provide reusable, shareable, and interoperable learning objects that enable teachers and learners at all levels to select, use, and evaluate materials suited to their needs, both within and across traditional STEM disciplinary boundaries. Such materials should include assessment and evaluation tools and results from user tests. They should harness new understandings about pedagogy, curriculum, and the processes of learning that are founded on a solid research base. The resource collections, services, and infrastructure of NSDL should facilitate the development and dissemination of new tested materials and methods, recommend systems that leverage the aggregated data from all users' experiences to recommend related resources, customize guidance systems that profile individual users, and support continual improvements in STEM education at all levels.
+
+To realize this vision, the NSDL program began first by supporting projects focused on the development or enhancement of resource collections, implementation of digital library services, and a small set of targeted research investigations. In more recent years, the program introduced the concept of Pathways projects that take responsibility for stewardship for the educational content and services needed by a broad community of learners, e.g. in disciplines, such as mathematics or biology, or in educational sectors, like community colleges. While projects focused on collection development or stewardship are still appropriate, this solicitation especially invites projects to investigate the relationship between design of collections and their utilization by instructors and students. Projects that enable testing of the impact of collections and resources for instructors on teachers' activities, and that investigate the impact of the resources in the collections on student learning are especially welcome.
+
+II. Program Description
+
+The goal of the National STEM Education Distributed Learning (NSDL) program is to create and develop a network of digital environments and resources for STEM learning. The ultimate test of the utility of this network is whether its services demonstrably meet the needs of students and teachers at all levels -- pre-K to 12, undergraduate, graduate, and lifelong learning. It should serve individual teachers as well as groups of teachers who jointly want to improve their instruction. It should also serve both the individual learner seeking understanding, and groups of learners engaged in collaborative exploration of concepts; and should support formal and informal modes of learning. It should also function as a forum where resource users may become resource providers. It is vital that NSDL offer value-added resources and services that go beyond what is currently available in a highly competitive environment of rapid technological innovation for standard search services offered by both established commercial providers and newer arrivals.
+
+In addition to retrieval of relevant information, NSDL projects may offer users access to virtual collaborative work areas, tools for analysis and visualization, remote instrumentation and observation platforms, large databases of real-time or archived data, simulated or virtual environments, and other new capabilities as they emerge. The NSDL network should enable the dynamic use of materials and tools that are supplied by diverse providers of resource collections and services, ranging from large groups of cooperating vendors or publishers, to individual professors or teachers, and even student bloggers. The learning environments created should increase the usability and impact of all resources by giving learners and teachers at all levels – both individually and in collaborative groups – the tools and services: i) to search for and discover content relevant to their needs along with evidence of its effectiveness, ii) to assemble and test curricular and learning modules from component pieces in a flexible manner, and iii) to gather evidence of impact and communicate experiences to the community.
+
+To maximize the utility of its resources, the NSDL program is also concerned with the development of a comprehensive cyberlearning infrastructure. Features should include practices and policies for community-based review, methods for combining new and existing resources into effective learning experiences, methods for logging and interpreting student and teacher actions, and other mechanisms that assure the quality and usability of resources. For example, teachers may consider recommendations of learning and teaching resources more relevant if teachers with experience profiles and learning contexts similar to their own recommend their use. Likewise, practices and policies are needed for collections management issues such as archiving, preservation, and deaccessioning. Other infrastructure concerns include: i) the articulation of standards that promote stability, interoperability, and reusability of a wide variety of learning objects, ii) effective ways to handle intellectual property issues that focus on maximizing the value of content, iii) login and authentication systems, iv) archiving services, and v) digital rights management systems.
+
+Following from the basic mission of making digital objects fully useful in the support of STEM learning, NSDL is deeply concerned with developing and understanding mechanisms that facilitate utilization of its network of digital resources by students and teachers. These efforts should harness new understandings about pedagogy, curriculum, and the processes of learning, and they should investigate the impact that the digital tools and services of the NSDL network have on teacher practice and on student learning.
+
+Finally, the long term impact of the network of learning resource collections and services assembled under the NSDL program will depend largely on how well funded projects can leverage related efforts and demonstrate value to significant audiences so as to achieve sustainability after the period of NSF funding.
+
+NSDL projects should serve to multiply the impact on learning of digital resource collections and services. Similarly the NSDL program seeks synergy with efforts supported by NSF and sister government agencies, the private sector, professional societies, and others working to improve education in science, technology, engineering, and mathematics nationwide. New NSDL projects are expected to coordinate their work with those of current NSDL projects and other educational digital collection efforts, such as the Digital Library Federation, the Gateway to Educational Materials, projects supported by the Institute of Museum and Library Services, or projects funded under the joint NSF and Library of Congress sponsored National Digital Information Infrastructure and Preservation Program.
+
+NSDL activities are distinct from original content development supported by other NSF programs such as the Transforming Undergraduate Education in STEM (TUES) [formerly called the Course, Curriculum, and Laboratory Improvement (CCLI) program], the materials development aspects of programs in the NSF Division of Research on Learning in Formal and Informal Settings (DRL), and similar curriculum and materials development programs funded by NSF or other agencies. NSDL projects start from the assumption that materials, resources, modules, and other digital learning objects are developed. Similarly, proposals that are primarily digitization or conversion projects are not appropriate for the NSDL program. Prospective proposers who have questions are encouraged to contact the NSDL program at due-nsdl-program@nsf.gov .
+
+PROGRAM TRACKS
+
+In FY2010, the NSDL program will accept proposals in four tracks: Pathways , Pathways – II, Services , and Targeted Research . The program will accept proposals for large grants in 1) the Pathways track, 2) the Pathways – II track, 3) specific subtracks of the Services track , and 4) the Targeted Research track.
+
+In all four tracks the program will also accept proposals for small grants to build on outcomes from prior projects either directly funded by NSDL or related to the goals of NSDL. Small grants are especially encouraged for projects that: exploit the Fedora-based architecture of NSDL or the current collaborative communication capabilities of NSDL to create value-added services for teachers or learners (e.g. annotation or rating functions); enhance utilization of collections of digital learning objects; provide for assessment of the impact on student learning; provide mechanisms to engage the collective intelligence of a user audience to advance the understanding, reliability, and effective use of digital learning materials; or increase the likelihood of sustainable activity.
+
+Within this small grant opportunity the program particularly encourages institutions or organizations that are new to NSDL to submit proposals. An important area of emphasis will be on small grants that complement the efforts of a particular Pathways project and enable the proposing institution or organization to form appropriate partnerships with that Pathways activity. For example, projects could lay the groundwork for model foci within a Pathways project that targets either school districts or individual schools that lack resources for customizing materials to the needs of their students.
+
+All proposal teams are strongly encouraged to have the project leadership include senior personnel having the appropriate balance of expertise relevant to the aims and methods of the project with roles/responsibilities clearly delineated. This is especially important in the educational and evaluation portions of the proposal where current research should be included. End usage by teachers and students is also a priority.
+
+TRACKS
+
+Emphasis
+
+Large grants
+
+Small grants
+
+Pathways
+
+Provide stewardship for the content and services needed by major communities of learners
+
+X
+
+X
+
+Pathways - II
+
+Ensure expansion and stability of an earlier Pathways effort or similar activity
+
+X
+
+X
+
+Services
+
+Develop tools and applications for users and resource collection providers that enhance the impact, efficiency, and value of the NSDL network
+
+see sub-tracks
+
+-- Integrated services
+
+Enhance overall capabilities of the NSDL network to meet the needs of its user and developer communities including the need to demonstrate impact of content and resources
+
+X
+
+X
+
+-- Selection services
+
+Increase the amount of high-quality STEM educational content known to the NSDL network
+
+X
+
+X
+
+-- Usage development workshops
+
+Promote the use of the NSDL network and its resources by various learner communities
+
+X
+
+X
+
+-- Technology Focus
+
+Explore specific topics having applicability to collections, services, and other aspects of the development of the NSDL
+
+n/a
+
+X
+
+Targeted Research (focus on educational impact)
+
+Provide for the assessment of the impact of networked digital resources on education and learning
+
+X
+
+X
+
+Proposals for Pathways and Services projects must describe prospects for continuing to make project capabilities available beyond the period of NSF funding. This description should include a long-term management plan, and proposed projects should have a tangible, long-term commitment from a stable organization. Open source and open content models are particularly encouraged. Sustainability is also often fostered through partnerships involving academic, business, government, and other organizations. Cost recovery and for profit models are welcome, although the evaluation of a project's long-term management plan will be strongly informed by the goal of making the full library's resources available to potential users at a cost that will not limit their use. Cost models should be tested with users and shown to be sustainable over the life of the materials.
+
+It is important that proposals provide evidence of familiarity with and understanding of the current state of development not only of NSDL, but also other leading providers of access to digital educational resources. A project's stewardship should contribute to the overall value of NSDL, as it serves to facilitate the development and dissemination of both new and tested materials and methods supporting continued improvements in STEM education. Websites that provide information about ongoing projects and activities are listed at the end of this solicitation.
+
+Pathways Track
+
+The Pathways track supports projects that organize digital resources so as to serve the needs of an identifiable STEM education community. Proposers of a Pathways track should make evident how the resources to be organized within the pathway enable STEM education that is inquiry-driven, active, engaging, and effective. Moreover, these should be representative of larger realized or potential collections or holdings of resources, and they should offer special characteristics and strengths to the users of NSDL. Pathways should not only collect resources but look forward; they should anticipate and provide value-added services needed by the targeted learning community. Proposers should articulate how their work will make the resources more available and more useful not only to the primary audience, but where appropriate to an expanded audience.
+
+A project supported in this track also accepts a stewardship role on behalf of NSDL for the educational content and/or the services needed by a broad community of learners, e.g. educators in disciplines, such as physics or chemistry, or K-12 teachers seeking authoritative rich media educational content. Responsibilities for stewardship include:
+
+maintaining criteria and mechanisms to identify, select, and annotate high-quality and relevant digital content as it continues to become available, and to generate appropriate metadata for such content;
+
+providing all item-level metadata to the central NSDL data repository (see the NSDL metadata requirements described below);
+
+documenting the ways students and teacher use resources and demonstrating that the NSDL adds value to learning and teaching using accepted research designs;
+
+sustaining the currency of the aggregated educational resources, either by acquiring/linking, or deaccessioning;
+
+archiving that preserves the usability of digital content as the underlying information technology systems evolve;
+
+partnering with small grant awardees to enhance NSDL diversity;
+
+in addition to collection building and maintenance, Pathways are expected to support their target audiences through the provision of tools, services, contextualization, and professional development, as appropriate.
+
+Potential audiences include: the users of subjects and concepts within a broad STEM domain; the educational community associated with a grade band; or users and providers of professional expertise in areas such as assessment or evaluation. Proposals to address audiences formed by the intersection and/or combination of the preceding examples are also possible, as well as proposals that identify other broad audiences defined by a coherent set of content and user needs. In all cases projects should indicate clearly the attributes of the audience(s) being targeted and the most pressing needs and areas of stewardship to be addressed. In FY2010 priority will be given to projects that clearly serve the needs of audiences not currently met by the ongoing Pathways efforts. In order to gain a better understanding of the unique role of Pathways within NSDL, investigators considering a Pathways proposal submission are strongly encouraged to contact the NSDL Resource Center and/or Technical Network Services prior to preparing their proposal. (See References section below for more information on these ongoing projects.)
+
+Pathways providers are expected to marry the potential of information technology advances and digital library research with the best practices of human expertise to fulfill their stewardship responsibilities. It is anticipated that projects will primarily use NSDL-supported tools and services or adapt and implement existing services and approaches, when appropriate and efficient, in order to avoid duplication of effort. Opportunities to leverage technologies across the Pathways projects will be particularly important to exploit. Evaluation of the effectiveness of the project in carrying out its stewardship role should be informed by the degree to which users can consistently find appropriate pathways or connections to the resources that meet their specific learning needs.
+
+Pathways - II
+
+Projects in this Pathways track will have accomplished the major stewardship goals set out above for an identifiable audience of learners, and would use Stage II support to ensure the expansion and stability of the original Pathways effort. In addition to existing NSDL Pathways projects entering the final year of their award, this sub-track is also open to projects and organizations that have developed mature digital collection enterprises without NSDL support, providing they fulfill functions comparable to what existing Pathways offer for their well-defined educational audiences.
+
+Pathways - II proposals should clearly outline the accomplishments of the project to date and relate them to key Pathways priorities, including a detailed description of their ongoing stewardship activities. Applicants should also review the collections that the project makes available, and chart the growth of usage of the materials and services provided by the project. Projects should show how use of the materials impacts teaching and learning, analyze the cost/benefit structure where feasible, and document how users customize the resources to their needs. Where appropriate, the proposal should describe how the project has worked successfully toward the shared goals of the NSDL, and how the project has acquired and maintained partners that have contributed to its success.
+
+Projects in this track should provide a compelling plan for the use of funding, which must discuss the rationale and process for expanding the content and resource collections for which it provides stewardship and/or the services that the project will develop. Pathways and other collection builders are encouraged to create open collections. Pathways - II are permitted to use portions of their funds for limited development enabling them to adapt and integrate the use of NSDL tools and services with their systems. Prospective applicants in this track also need to provide market data or other evidence that these services and materials will satisfy a clear unmet demand of their target audience. To encourage a focus on the Pathways ' users, projects are expected to conduct pedagogically sound workshops to support use and assessment of the impact of content and services. Projects should conduct workshops for teachers, educators, and developers, and should allocate not less than 25% of the proposed budget to such workshops and related outreach activities. Finally, a Pathways - II proposal must present a convincing sustainability plan. This section should review the sustainability activities accomplished in the first round of funding, and explain how additional support will bring the Pathways effort to a point where it will be able to recover operational and developmental costs from users or their sponsors after the NSDL support concludes. Proposers are strongly encouraged to develop their plans with a view towards coordinating efforts with other Pathways projects and NSDL as a whole.
+
+Services Track
+
+This track supports projects to increase the impact, reach, efficiency, and value of the NSDL collected resources. Priority will be given to efforts that have the greatest potential for broad impact across an array of other NSDL projects and offer mechanisms to assess that impact and demonstrate success. Projects that propose to use a web services framework should expect to provide web service definitions (e.g. WSDL) and appropriate web service interfaces (e.g. SOAP or REST) to aid in service discovery and use. In developing services, projects are encouraged to build on new Web 2.0 ideas and tools rather than replicating them. As in the Pathways track, Services track projects are expected to cooperate closely, both among themselves and across NSDL. Building on a standard platform and connecting through a common infrastructure enables such distributed services to increase in value. Technology focus proposals previously submitted under the Targeted Research track should be submitted as small grants under the Services track. Included in this track is a focus on diversity.
+
+In FY2010, the NSDL program will support two levels of funding within the Services track. Proposals for large grants may address any of three sub-tracks: Integrated Services , Selection Services , and Usage Development Workshops , or proposers may seek small grant support to define and describe activities that extend the impact of existing efforts in any of the first three of these sub-tracks. Integrated services projects could develop new services that can be incorporated directly into nsdl.org; selection services projects could plan to expand the content areas they are tagging and integrating into the NSDL data repository; workshop projects could target new communities of learners to enlarge the NSDL user base. Extensions to other types of services may also be proposed; however, subject to the availability of program funds, priority may be given to supporting projects that respond to these specific elements, or otherwise have wide applicability and strong potential to enhance the value of NSDL to users. Responsibilities of Services track grantees include:
+
+sharing their results with the broader NSDL community (including Resource Center or Technical Network Services as appropriate);
+
+integrating their work with existing services;
+
+improving accessibility of NSDL to users with disabilities, underserved/underrepresented groups, and international audiences.
+
+Integrated Services
+
+Integrated services projects enhance the overall capabilities of NSDL to meet the needs of its user and developer communities including the need to demonstrate impact of NSDL content and resources. Successful proposals must identify services that are not yet fully implemented by NSDL and provide compelling arguments that they would be highly valued by user or developer communities in NSDL. For example, projects could leverage new social networking tools and sites, tailor them to educational audiences, and integrate them into NSDL. All projects in this component also will fulfill three key conditions of integration: (1) They must be able to operate on digital collection resources available through the NSDL data repository (NDR); cross-repository services that can also operate on materials from other sites and repositories are highly encouraged. (2) They must be implemented in such a way that they could be included in nsdl.org, the central NSDL portal; portable services that could also be integrated into other sites or libraries are highly encouraged. (3) They must be shared with NSDL under a license that permits reuse by others.
+
+The Strand Map Service is an existing NSDL tool that provides graphical representations of connections among concepts, and the NSDL Science Literacy Maps ( http://strandmaps.nsdl.org/ ) is a specific implementation of this tool. Together they illustrate the features of an integrated service. First, it is valuable, since such a tool can help educators and students comprehend and use educational resources, serving in effect as a concept- and standards-correlated "lens" through which a body of educational resources may be explored. Second, the service can be applied to collections resident in NSDL's NDR. And third, a version of this service that was originally developed for the Digital Library for Earth System Science (DLESE; http://www.dlese.org ) has been generalized for use in NSDL, and it can be customized and incorporated into Web pages using a Web 2.0 JavaScript API.
+
+Examples of potential services that are either not yet part of NSDL or not yet fully integrated into NSDL, but for which need has been voiced, include:
+
+community feedback and/or collaborative filtering mechanisms for recommending resources to users;
+
+design, implementation, and validation of evaluation metrics;
+
+mechanisms to associate commentary, recommendations, and other annotations with resources;
+
+provision of technical capabilities and expertise for sharing, reusing, and repackaging NSDL resources with those of traditional and new media publishers;
+
+development of personal user profile systems that support personalization services and respect privacy issues; and
+
+implementation of methods to determine usage patterns to inform design and evaluation.
+
+Selection Services
+
+The aim of this type of services project is to increase the amount of high-quality STEM educational content known to NSDL. These resources may vary from individual learning object items such as images or simulation applets to an entire set of digital content available as a web site. A project in this sub-track is expected to use existing criteria endorsed by the target audience such as learning design principles. Projects should use valid, user tested processes for identifying and selecting content within a particular domain. Similarly, projects that seek primarily to develop new software technology are not appropriate. While Selection services do not necessarily have to be associated with expanding existing NSDL projects, it would be important for proposals to demonstrate familiarity with these efforts and to articulate their particular value added aspects. Selection services providers would also be expected to coordinate their efforts with relevant projects in the Pathways track once the funding period commences. Selection services developers are encouraged to utilize the principles of open source development in planning, building, and disseminating their work.
+
+The selection process assumes that materials, resources, modules, and other digital learning objects are already in existence. The task of the Selection services provider is to select and tag this content, and to deposit item-level metadata into the central NSDL data repository and into other repositories, as appropriate (see the description below of the NSDL metadata requirements ). Building on these selection efforts, the project or other providers may then develop and offer more extensive and value-added annotation and review of the suitability of the digital resources for particular user audiences. Furthermore, support for personalization of finding aids and other discovery tools can be enabled. Similarly, tools may be developed to help content developers combine resources from different providers or collections and present this specialized content to users. Proposers are especially encouraged to include activities that can contribute to understanding and evaluating teachers' use of digital educational resources and the impact of using digital resources on student learning.
+
+Usage Development Workshops
+
+These projects will support workshop series that promote the use of NSDL and its resources by various communities of learners. Examples of possible workshop emphases include development of leadership teams of faculty and librarians seeking joint expertise in the use of digital libraries that would in turn be shared with a local institutional or organizational audience; or assistance for teachers and students at K-12 schools or colleges having limited computer capability and technical support; or experiences to increase the library's usability for special populations such as young children or other users having limited experience with computer technology; or engagement of users of digital resources within a specific STEM domain.
+
+Simultaneous with the development of a user base for NSDL, the workshops will permit the study of user information-seeking behavior and user interaction with specific NSDL content, for example in existing Pathways or earlier collection efforts. Projects should report feedback from these observations that can guide further development of NSDL and make its overall resources more useful. Of particular interest is the opportunity to gain insights into faculties' and teachers' use of digital resources for their own professional development and the effect students' use of digital educational resources has on their learning. Workshops should seek to improve both the capacity of individual users and the capacity of the larger community of learners. Such capacity would inform both research on building and sustaining user communities within the context of managed digital resource networks, and research on uses of digital materials to improve learning by students at all levels. As with the Selection Services projects above, proposers are especially encouraged to include activities that can contribute to understanding and evaluating teachers' use of digital educational resources and the impact of using digital resources on student learning.
+
+While it is expected that the majority of funds in Usage Development Workshop project budgets will be directed towards participant support costs, development of resources to be used by workshop participants may be requested. In all cases such materials should be made available via NSDL for use in subsequent workshops or by interested individuals or groups seeking to develop an understanding of the capabilities of NSDL. Furthermore, any materials and other resources developed by workshop participants should be suitably described with appropriate item-level metadata and contributed to NSDL (see the description below of the NSDL metadata requirements ). Projects are expected to provide models for how their approaches can be applied to other learning communities sharing similar characteristics. Proposals must demonstrate plans for sharing data from workshops with the NSDL Resource Center and how they will work with the Resource Center to integrate their workshops with existing NSDL outreach and professional development efforts.
+
+Technology Focus
+
+Technology focus proposers should submit proposals for small grants , and are encouraged to define and describe activities that extend their project's direct applicability to one or both of the other tracks or to technical aspects of collection management. Additionally, they may explore other aspects of NSDL including its impact and development of new learning environments. Examples include, but are not limited to: automated annotation of audio, image, or video resources; user interface implementation issues; identification and usage of principles of information architecture design; use of expert system principles to capture human librarians' experience, knowledge, and practice; analysis of user practices and trends in social networking and participatory development environments and their application to NSDL; research on hybrid systems that marry human and automated expertise to provide user services; and applications of simulation or virtual world technology for virtual assistants. Proposals must demonstrate plans for how technology tools or products will integrate with existing efforts. Proposers are strongly encouraged to contact Technical Network Services and/or Resource Center prior to submitting a proposal (see References for additional contact information).
+
+Other Services
+
+Additional services supporting existing collection providers, Pathways projects, resource selection or workshop activity, or technical aspects of collection management might include:
+
+reliability and/or interoperability testing across different platforms for Java applets or other software-based resources;
+
+provision of user reports and other commentary associated with content;
+
+"middleware" to support acquisition and incorporation of content from different sources;
+
+specialized audio, image, and video search capabilities;
+
+specialized content-based searching;
+
+small grants seeking diversity of the digital resources may select a topic falling into this category, but still should make every effort to partner with a compatible pathway.
+
+To determine whether or not a candidate service has already been integrated into NSDL, prospective applicants are encouraged to review the set of NSDL Services projects referenced in the list of web resources at the end of Section II.
+
+Targeted Research Track
+
+In FY2010 this track will emphasize research on and evaluation of the impact of networked digital resources on education and learning. Many projects and organizations have contributed to a growing body of learner-centered educational materials, learning strategies, and distributed learning environments, and these activities provide a rich arena in which to study the use of technology in the learning process. Proposals should state questions to be addressed, describe study design and methodology, and draw on relevant literature. Proposals that address the following areas of interest on educational impact are encouraged:
+
+examination of different learning styles and the use of mixed media;
+
+examination of how interactive educational experiences can/do build on learners’ perspectives;
+
+development of learning skills and social skills through collaboration among learners and with the community of learners/educators; or
+
+the impact of authentic tasks on learning in formal and informal settings.
+
+All proposals must demonstrate plans for sharing data from their research with the NSDL Resource Center.
+
+PROGRAM-WIDE SERVICES
+
+Technical Network Services
+
+In FY2008, the NSDL Program funded one project, the NSDL Technical Network Services (TNS), to assume responsibility for operating NSDL's infrastructure and NSDL.org; providing technical support for NSDL tools, services, and collections accessioning; supporting Pathways and other NSDL projects to contribute to NSDL; engaging the NSDL community in identifying priorities for services developments; and developing models for sustainability. Proposers are strongly encouraged to both use and contribute to the NSDL platform, including EduPak, a primary tool for creating and managing digital collections for cyberlearning applications ( http://ncore.nsdl.org/ ).
+
+This basic open source service platform includes the:
+
+NSDL Data Repository (NDR), which uses open source software for flexible, extensible views of the repository and its digital objects, via web services.
+
+NSDL Collection System (NCS), to create and manage collections of metadata within the NDR. The NCS is a flexible XML- driven tool that provides a full-featured metadata editor, collection workflow processes, and a role-based permission system in support of distributed and collaborative collections management. The NCS transparently writes metadata and collection-level information to the NDR using the NCore Application Programming Interface (API).
+
+Digital Discovery Service (DDS), which provides search and retrieval services for resources that reside in the NDR. The service is optimized to support the rapid construction of audience- specific portals and applications and can be flexibly configured to search over any XML schema structure. A range of information retrieval features is available from the service including textual and field- based searches such as audience, subject, resource type, or content standard. DDS also supports geospatial search and can be integrated with Web 2.0 applications such as Google Maps.
+
+The TNS team collaborates closely with the NSDL Resource Center (see below) as well as Pathways , Services , and Targeted Research projects, and is responsible for engaging the NSDL community in using and contributing to the NSDL platform through a roadmap process. Roadmaps are rough guides to future development based on formal and informal developer feedback. Grantees are expected to participate in this roadmap process. Proposers should contact TNS for more information on working with TNS and NSDL infrastructure and services (see References for additional contact information).
+
+NSDL Resource Center
+
+In FY2008, the NSDL program funded one Resource Center. The Resource Center provides collaboration assistance across all projects in such areas as research and development methods, evaluation, implementation, and "webmetric" analysis procedures; engages in effective outreach and professional development regarding the use of digital learning resources; undertakes strategic partnership development on behalf of projects particularly with respect to non-academic entities; coordinates and, in some cases, performs thematic research and evaluation studies related to the program; synthesizes findings across the full range of NSDL projects; and promotes both national and international dissemination of the research and development contributions of the NSDL program. In addition to these activities, the Resource Center helps to build the NSDL community through: support for principal investigator meetings; promotion of sharing of outcomes and findings across projects; or other activities that address interests and concerns across the NSDL program.
+
+EXPECTATIONS FOR SHARED DEVELOPMENT OF NSDL
+
+The success of NSDL in making the full richness of its resources and services useful for STEM education depends not only on technical excellence, thoroughness in collection building, and creativity in interface design and construction, but also on the development of a sense of common cause by all the projects. New awardees are expected to collaborate with one another and with previously funded projects. To facilitate interaction among all projects, regular Principal Investigator (PI) meetings and workshops are held throughout the course of the NSDL program. Representatives of related projects not funded by the NSDL program are also invited to these meetings. New projects in particular are expected to attend the Annual Meeting.
+
+To engage program PIs and other stakeholders in addressing essential infrastructure issues, and in assessing the impacts of its resources on learning, NSDL supports ad hoc Working Groups on specific topics as the need arises. These Working Groups are a valuable addition to the work of an active Community Advisory Board which provides consultation and guidance, based on community input, to both the NSDL Resource Center and Technical Network Services, as well as to the community at large. Principal investigators are strongly encouraged to provide leadership in this larger community building effort.
+
+The Resource Center operates the NSDL Community Network ( http://nsdlnetwork.org/ ), a social networking site and resource area for the NSDL community providing access to forums for discussion, news, trends reporting, working and interest groups, annual meetings, outreach, and other issues of interest to NSDL grantees, including guidelines for working with and contributing to NSDL. NSDL grantees are strongly encouraged to create a user account on the NSDL Community Network site and actively participate via use of this community resource.
+
+NSDL METADATA REQUIREMENTS
+
+All resources and collections that are contributed to the NSDL must meet the criteria of the NSDL Collection Development Policy ( http://onramp.nsdl.org/eserv/onramp:42/NSDL_Collection_Development_Policy.pdf ).
+
+All new and continuing contributors are expected to supply item-level metadata records about resources they wish to make accessible in the NSDL. The NSDL architecture provides access to resources based on XML metadata information, the textual content of resources, and other information that provides context for resources. These metadata records can be supplied to the NSDL via:
+
+the Open Archives Initiative (OAI) protocol ( http://www.openarchives.org/OAI/openarchivesprotocol.html )
+
+the NSDL Collection System (NCS) ( http://wiki.nsdl.org/index.php/Community:NCS )
+
+or directly through the NSDL Data Repository (NDR) API ( https://wiki.nsdl.org/images/7/71/Api.pdf ).
+
+Proposers are encouraged to contact the NSDL Resource Center ( http://nsdl.org/about/contact ) for information on contributing resources and acceptable metadata formats. Proposers may also review the information found at http://nsdlnetwork.org/contribute for guidelines on contributing their materials to NSDL. Contributors are responsible for cataloging their resources with the appropriate metadata. The Technical Network Services team provides OAI, NCS and API training to facilitate the creation and management of metadata and collections. (See References for additional contact information).
+
+RELATED FUNDING SOURCES
+
+Although the purpose of the NSDL program is to support improvements in STEM education in the United States, the impact of the program has an increasingly important international dimension. Conversely, international digital library efforts may help achieve the goals of the NSDL program. Consequently, proposals to this program may be part of a larger effort that includes international elements funded by sources in this or other countries.
+
+Proposals for basic research on the use of technology in education or other investigations relevant to NSDL's development may be supported by programs such as Advanced Learning Technologies ( https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=12834 ) or Research and Evaluation on Education in Science and Engineering (REESE) ( https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13667 ). Emerging grant opportunities also exist within the Human and Social Dynamics priority area ( https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=11678 ) or the Cyber-enabled Discovery and Innovation initiative ( https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503163&org=OCI&from=home ). Prospective proposers are encouraged to contact the NSDL program at due-nsdl-program@nsf.gov if they have questions about the match between their interests and the goals of NSDL versus these related programs.
+
+REFERENCES
+
+The references that follow provide additional information to prospective proposers about advances in information technology relevant to the NSDL program as well as summary documents regarding the current state of development and progress of NSDL.
+
+Anderson, C., (2004). The Long Tail . Available at: http://www.wired.com/wired/archive/12.10/tail.html .
+
+Anderson, C., (2006). The Long Tail: Why the Future of Business is Selling Less of More . New York: Hyperion.
+
+Boyd, D.M. and Ellison, N.B., (2007). Social network sites: Definition, history, and scholarship. Journal of Computer-Mediated Communication, 13(1), article 11 . Available at: http://jcmc.indiana.edu/vol13/issue1/boyd.ellison.html .
+
+Felfernig, A., Friedrich, G. and Schmidt-Thieme, L., (2007). Guest Editors' Introduction: Recommender Systems. IEEE Intelligent Systems 22(3): 18-21 . Available at: http://csdl2.computer.org/comp/mags/ex/2007/03/x3018.pdf .
+
+IEEE, (2007). IEEE Intelligent Systems Special Issue on Recommender Systems, Volume 22(3) . Los Alamitos, CA: IEEE Computer Society.
+
+Shirky, C., (2005). Ontology is Overrated: Categories, Links, and Tags . Available at: http://www.shirky.com/writings/ontology_overrated.html .
+
+Tapscott, D. and Williams, A.D., (2006). Wikinomics: How Mass Collaboration Changes Everything . New York: Penguin Group (USA).
+
+The New Media Consortium and the EDUCAUSE Learning Initiative (2008). The Horizon Report: 2008 Edition . Austin, TX: New Media Consortium. Available at: http://www.nmc.org/pdf/2008-Horizon-Report.pdf .
+
+The following references provide information regarding the current state of development and progress of NSDL.
+
+A list of all projects funded by the NSDL program with links to abstracts is available at Abstracts of Recent Awards Made Through this Program. Each abstract also has contact information for the project's principal investigator(s).
+
+For information about current Pathways projects, see http://nsdl.org/about/?pager=pathways
+
+To participate in or follow the activities of the NSDL community and its ongoing online exploration of key issues, as well as current workgroups, meetings, and outreach activities, see the NSDL community website at http://nsdlnetwork.org/ .
+
+For guidelines and detailed technical information on contributing collections, see http://nsdlnetwork.org/contribute .
+
+To discuss the development and/or integration of a candidate service, contact Technical Network Services http://nsdl.org/about/contactus/ ).
+
+For detailed technical information on the NDR Application Programmer Interface (API) that guides the design and implementation of new NSDL integrated services, and on licensing options that will guide the choice of appropriate rights and permissions for integrated services, see http://nsdlnetwork.org/contribute , or contact Technical Network Services: http://nsdl.org/about/contactus/ .
+
+To follow the activities of the NSDL community and its ongoing online exploration of key issues, see the Community Pages at http://nsdl.org/resources_for/library_builders/index.php .
+
+For information about the various workgroups that are addressing issues such as Accessibility and Diversity, Community Services, Content, Copyright, Educational Impact and Evaluation, K-12 Educational Standards and Alignment, Scientific Markup Languages, Sustainability, Technology, and Webmetrics, see http://nsdl.org/resources_for/library_builders/nsdlgroups.php.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 24 to 37 (1 to 3 Pathways; 3 to 5 Pathways - II; 6 to 8 Services; 4 to 6 Targeted Research, focus on educational impact; 10 to 15 Small grants).
+
+Anticipated Funding Amount: $10,750,000 (approximately) in FY2010, subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or Co-PI:
+
+An individual may serve as the Principal Investigator (PI) or co-Principal Investigator (co-PI) on no more than one proposal, including collaborative proposals, submitted in the FY2010 competition.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Submission of Letters of Intent is optional. Please see the full text of this solicitation for further information.
+
+Letters of Intent: Submission of Letters of Intent is optional. Please see the full text of this solicitation for further information.
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Cost Sharing is not required under this solicitation.
+
+Cost Sharing Requirements:
+
+Cost Sharing is not required under this solicitation.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

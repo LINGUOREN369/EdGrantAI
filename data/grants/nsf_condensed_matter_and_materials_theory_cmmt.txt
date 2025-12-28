@@ -14,3 +14,130 @@ Status: Cleared
 Posted date (Y-m-d): 2023-07-31
 URL: https://www.nsf.gov/funding/opportunities/cmmt-condensed-matter-materials-theory/nsf23-611
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Condensed Matter and Materials Theory (CMMT)
+
+I. Introduction
+
+Through the Condensed Matter and Materials Theory Program (CMMT), the Division of Materials Research (DMR) supports theory, computation, data-centric, and modeling approaches to advance the fundamental conceptual understanding of hard and soft materials and materials-related phenomena. This program nurtures the development of new methods, algorithms, software, and data-centric approaches to support the pursuit of materials research, materials-specific predictive theory and modeling, and the prediction of new materials and new states of matter.
+
+II. Program Description
+
+CMMT supports theoretical and computational materials research in the topical areas represented in DMR's other Topical Materials Research Programs (these are also variously known as Individual Investigator Award (IIA) Programs, or Core Programs, or Disciplinary Programs), which are: Condensed Matter Physics (CMP), Biomaterials (BMAT), Ceramics (CER), Electronic and Photonic Materials (EPM), Metals and Metallic Nanostructures (MMN), Polymers (POL), and Solid State and Materials Chemistry (SSMC). The CMMT program supports fundamental research that advances conceptual understanding of hard and soft materials, and materials-related phenomena; the development of associated analytical, computational, and data-centric techniques; and predictive materials-specific theory, simulation, and modeling for materials research. First-principles electronic structure, quantum many-body and field theories, statistical mechanics, classical and quantum Monte Carlo, and molecular dynamics, are among the methods used in the broad spectrum of research supported in CMMT. Research may encompass the advance of new paradigms in materials research, including emerging data-centric approaches utilizing data-analytics or machine learning. Computational efforts span from the level of workstations to advanced and high-performance scientific computing. Emphasis is on approaches that begin at the smallest appropriate length scale, such as electronic, atomic, molecular, nano-, micro-, and mesoscale, required to yield fundamental insight into material properties, processes, and behavior, to predict new materials and states of matter, and to reveal new materials phenomena. Approaches that span multiple scales of length and time may be required to advance fundamental understanding of materials properties and phenomena, particularly for polymeric materials and soft matter. Areas of recent interest include, but are not limited to: strongly correlated electron systems; topological phases; low-dimensional materials and systems; quantum and classical nonequilibrium phenomena, the latter including pattern formation, materials growth, microstructure evolution, fracture, and the jamming transition; gels; glasses; disordered materials, hard and soft; defects; high-temperature superconductivity; creation and manipulation of coherent quantum states; nanostructured materials and mesoscale phenomena; sustainable materials ; polymeric materials and soft condensed matter; active matter and related collective behavior; biologically inspired materials, and research at the interfaces of materials with biological systems.
+
+CMMT encourages potentially transformative submissions at the frontiers of theoretical, computational, and data-intensive materials research, which includes but is not limited to: i) advancing the understanding of emergent properties and phenomena of materials and condensed matter systems, ii) developing materials-specific prediction and advancing understanding of properties, phenomena, and emergent states of matter associated with either hard or soft materials, iii) developing and exploring new paradigms including computational and data-enabled approaches to advance fundamental understanding of materials and materials related phenomena, iv) fostering research at interfaces among subdisciplines represented in the Division of Materials Research, v) harnessing machine learning or developing explainable machine learning to advance understanding of materials and materials-related phenomena, or vi) developing new theoretical frameworks in areas of materials research, such as active matter, nonequilibrium materials or matter, the synthesis of solid-state materials, or reformulating quantum many-body theory for conceptual insight or greater tractability.
+
+Research involving significant materials research cyberinfrastructure development, for example, software development with an aim to share software with the broader materials community, should be submitted to CMMT through Computational and Data-Enabled Science and Engineering (CDS&E) in accordance with its submission instructions for DMR.
+
+Projects currently supported by the CMMT program can be found by using the NSF Award Search (Program Information) engine and entering Element Code 1765.
+
+Important Additional Information
+
+All proposals submitted to the CMMT program (other than the following exceptions) must be submitted through this solicitation, otherwise they will be returned without review.
+
+Exceptions are proposals through mechanisms that have their own solicitations or program descriptions, such as CAREER, CDS&E, and RUI/ROA. CAREER and CDS&E proposals should be submitted through their respective solicitations by the deadline date specified therein. RUI/ROA proposals have no deadline: they should be submitted through the RUI/ROA solicitation but are subject to the same submission constraints as other proposals submitted to the DMR Topical Materials Research Programs.
+
+Proposals under the following special categories are also welcome through this solicitation:
+
+Grant Opportunities for Academic Liaison with Industry (GOALI) (see PAPPG Chapter II.F )
+
+Facilitating Research at Primarily Undergraduate Institutions ( RUI/ROA )
+
+Dear Colleague Letter: NSF and US-Israel Binational Science Foundation, NSF 20-094
+
+Dear Colleague Letter: United States-Ireland-Northern Ireland R&D Partnership, NSF 20-064
+
+Investigators are advised that the dates from April 15 th to June 15 th should, optimally, be avoided for submissions.
+
+Proposals that fall outside the scope and mission of the Division of Materials Research will be returned without review. If prospective investigators have questions, they are encouraged to consult with the cognizant Program Officer(s) well in advance of submission.
+
+A multidisciplinary proposal bridging several NSF programs can request co-review by indicating more than one program. After the proposal has been created in Research.gov, click on the "Manage Where to Apply" link where programs can be added. If such a proposal selects CMMT as a secondary program, the proposal must be submitted by the proposal submission deadline of the first program. If such a proposal selects CMMT as the primary program, it is highly encouraged the proposal be submitted by proposal submission deadline of the secondary program in order to facilitate co-review.
+
+Prior to preparing any proposal for submission to CMMT requesting funding through a discretionary mechanism, such as EAGER/RAPID, supplemental funding, or support for a conference/workshop, the PI must contact a CMMT Program Director to determine the appropriateness of the proposal for both the program and the particular type of proposal. Proposals of these types and supplement requests submitted without prior approval by a CMMT Program Director will be returned without review.
+
+Supplemental funding is intended only for unanticipated opportunities that arise during the course of the project. Projects anticipating the inclusion of Research Experiences for Undergraduates (REU), or Research Experiences for Teachers (RET) activities should include those as part of the research proposal. Exceptions include the Career-Life Balance initiative , MPS AGEP-GRS Dear Colleague Letter and MPS-GRSV Dear Colleague Letter .
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 40
+
+Approximately 40, pending availability of funds.
+
+Anticipated Funding Amount: $15,000,000
+
+$15,000,000, pending availability of funds. Specific information on current awards by the program can be found by using the NSF Award Search engine at https://www.nsf.gov/awardsearch/advancedSearch.jsp to search for awards by Element Code 1765.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+See "Limit on Number of Proposals per PI or Co-PI" below.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+The NSF fiscal year begins on October 1 st and ends on September 30 th of the following year. The submission date of a proposal from an investigator, whether as PI or co-PI, to the CMMT program cannot be within the same fiscal year as another proposal from that same investigator, whether as PI or co-PI, to any DMR-TMRP. A list of DMR-TMRPs can be found at https://www.nsf.gov/funding/programs.jsp?org=DMR , under "Topical Materials Research Programs." Failure to observe this submission constraint will lead to the offending proposal(s) being returned without review. This restriction also includes proposals under Grant Opportunities for Academic Liaison with Industry (GOALI), Facilitating Research at Primarily Undergraduate Institutions (RUI/ROA), CDS&E, international collaborative research programs, as well as any other type of proposal submitted directly to the TMRPs. There are no limits to participating as Faculty Associate (as defined in PAPPG Exhibit II-3.A.2) on multiple proposals concurrently under review.
+
+Exceptions:
+
+In the rare case involving continued funding of two current DMR projects that are expiring in the same fiscal year an exception may be considered after consultation with the cognizant Program Officer(s).
+
+Proposals for EAGER, RAPID, RAISE, and conferences, as well as supplemental funding requests for existing grants, are not subject to the limitations in this solicitation and may be submitted any time after consultation with and approval from the cognizant Program Officer(s). EAGER/RAPID/RAISE and conference proposals, as well as requests for supplemental funding submitted without prior approval by a Program Officer will be returned without review.
+
+CAREER proposals are exempt from the limitation on the number of proposals per fiscal year, as are proposals to non-TMRP programs within DMR, such as Designing Materials to Revolutionize and Engineer our Future (DMREF), Materials Research Science and Engineering Centers (MRSEC), Partnerships for Research and Education in Materials (PREM), Materials Innovation Platforms (MIP), national facilities, and Research Experiences for Undergraduates (REU) sites. The number of proposal submissions to divisions of NSF other than DMR is not limited. Only proposals that have been withdrawn do not count against the submission limit.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

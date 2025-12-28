@@ -17,3 +17,252 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2024-03-25
 URL: https://www.nsf.gov/funding/opportunities/crest-rise-centers-research-excellence-science-technology-research/nsf24-562
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Centers of Research Excellence in Science and Technology - Research Infrastructure for Science and Engineering (CREST-RISE) Referred to in this solicitation as CREST-RISE
+
+I. Introduction
+
+The CREST program’s overall goal is to build the STEM research and education capacity of minority serving institutions (MSIs) with strong records of producing STEM graduates, especially those who are members of groups underrepresented in STEM fields.
+
+CREST-RISE is one strand of the larger CREST program whose specific goals are to increase: 1) the number of STEM research doctoral programs at MSIs (as defined in the Eligibility section), 2) the number of STEM research doctoral students graduating from MSIs, especially those from groups underrepresented in STEM, and 3) institutional research capacity to increase doctoral students’ graduation rates. It is expected that awards made under this solicitation will catalyze institutional transformation through the strengthening of research capabilities commensurate with an institution's mission and long-term goals, and support the development of STEM scholars, especially those from groups underrepresented in STEM.
+
+As with all CREST projects, CREST-RISE projects should be designed to promote synergy between education and research. CREST-RISE supported research doctoral students should be engaged in the process of discovery and innovation and guided by the faculty. Evidence-based recruitment and retention strategies should be employed to increase the number of STEM research doctoral students and graduates, especially those who are members of groups underrepresented in STEM. Partnerships with other MSIs, especially those that are primarily undergraduate institutions, are encouraged. Awarded institutions are required to evaluate the impact of the award in influencing institutional transformation as part of their project evaluation.
+
+Projects should employ cutting-edge and relevant curricula to support students’ academic success and should provide relevant professional and research-related experiences that support their transition into STEM careers. Students should be exposed to opportunities that foster their significant participation in the broader community of scholarship in their respective fields.
+
+An important project design consideration is the inclusion of activities that leverage award funds to secure additional support from federal, state, and local agencies, and to develop industry and academic partnerships to sustain the work initiated by the CREST-RISE award.
+
+II. Program Description
+
+The CREST-RISE program includes three tracks as follows:
+
+CREST-RISE STEM Doctoral Programs Support Initiative (CREST-RISE DPSI)
+
+CREST-RISE Research Advancement and Development (CREST-RISE RAD)
+
+CREST-RISE Equipment & Instrumentation (CREST-RISE E&I)
+
+A. CREST-RISE DPSI:
+
+DPSI awards support the production of STEM research doctoral graduates to include those from groups underrepresented in STEM and the development of research capacity in STEM disciplines at MSIs. Proposals should include a component that outlines strategies for connecting with other NSF-funded awards held by the institution and related to the proposed project's goals and scope. Proposals should also include authentic partnerships with other MSIs, especially those that are primarily undergraduate institutions, that contribute to project goals, benefit all partners, and increase the transition of undergraduate students from underrepresented groups to doctoral programs in STEM.
+
+DPSI Award Characteristics:
+
+Proposed projects must be designed to 1 increase the production of research doctoral students, including those who are members of groups underrepresented in STEM, and 2) expand institutional research capacity. Research doctoral students must be U.S. citizens, nationals, or permanent residents, as stated in the Eligibility section of this solicitation. Proposed projects should also have a direct and synergistic connection to the long-term plans of the host department and the institution’s mission.
+
+DPSI proposals must address an NSF-supported discipline(s). NSF especially welcomes proposals in areas of strong national interest, such as artificial intelligence, data science and analytics; advanced materials, manufacturing, robotics; cybersecurity; plant genetics/agricultural technologies; quantum information sciences; nanotechnology, semiconductors/microelectronics technologies; climate change and clean energy. In addition, for this solicitation, the areas outlined in the resources below are of great interest:
+
+CHIPS and Science Act of 2022 www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/fact- sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/)
+
+Industries of the Future ( https://www.whitehouse.gov/ostp/news-updates/2022/04/30/the-final-industries-of-the-future-report-to-congress/ OSTP_IOTF_Report.pdf)
+
+Understanding the Brain ( https://www.nsf.gov/news/special_reports/brain/ )
+
+DOE Earthshots ( https://www.energy.gov/policy/energy-earthshots-initiative )
+
+DPSI proposals must offer significant enhancements to an institution's capacity to carry out doctoral level research, more than is afforded by traditional single- or multi-investigator research proposals. DPSI support should not replace other active or available federal, state, or institutional resources, but rather should add significant value to the existing institutional strategic plan. Reviewers will be asked to consider the unique goals of the DPSI application in developing research doctoral program capacity, in addition to supporting research activities.
+
+A key feature of proposed projects should be comprehensive strategies to diversify talent regarding recruitment, mentoring, retention, and graduation of research doctoral students (U.S. citizens, nationals, and permanent residents) in NSF-supported STEM fields, which includes members of groups underrepresented in STEM. NSF's 2022-2026 Strategic Plan calls for the broadening of opportunities and expanding participation of groups, institutions, and geographic regions to include those who are underserved and/or underrepresented in STEM disciplines, which is essential to the health and vitality of science and engineering.
+
+Career development opportunities, provision for developing professional skills, instruction in ethics and the responsible conduct of research, and training in the communication of the substance and importance of research to non-scientist audiences are strongly encouraged as proposed activities.
+
+Each DPSI proposal should describe an evaluation plan to formatively monitor progress towards its goals and objectives and to provide information for optimizing project design. A final project-level evaluation is required to synthesize lessons learned. In addition, each awarded project will be required to participate in a CREST program-level evaluation to assess the CREST program's contributions to advancing the science and engineering research and education capabilities of MSIs.
+
+DPSI awards are not required to convene meetings of an external advisory group or committee. However, each proposal shall identify an internal steering committee to include the PI, co-PIs, and other applicable stakeholders to review the results of the evaluation process, to ensure that progress is consistent with departmental and institutional goals, and to discuss potential project modifications to realize those goals more effectively.
+
+Supportable DPSI award activities may include but are not limited to hiring faculty in the identified NSF-supported research areas, student attendance at professional meetings and seminars, education activities directed toward the development of a diverse, internationally competitive, and globally engaged workforce of scientists and engineers well-prepared for a broad set of career paths, student recruitment and retention activities, professional skills training, and graduate research activities. Postdoctoral support is not allowed.
+
+NSF is committed to a culture and climate of research that results in an inclusive and diverse workforce. For this reason, NSF strongly encourages the inclusion of individuals from groups underrepresented in STEM, women, veterans, and/or persons with disabilities in its programs and project leadership teams. In identifying the members of the DPSI research team, the proposing institution should strongly encourage participation of the full spectrum of diverse talent that society has to offer, including those who are underrepresented or underserved.
+
+DPSI Commitment and Sustainability
+
+Organizational commitment from administrators and leaders to the proposed project activities is vital for successful projects and for the financial and organizational sustainability of promising activities. Letters of support from the provost or equivalent university officials with supervisory authority related to faculty, research, facilities, equipment, and education are required and should be submitted as supplementary documents.
+
+Proposals should discuss the commitment of institutional leadership to revisions to current practices and policies that will enhance the institution’s research capabilities and increase its production of doctoral graduates and diverse talent. Proposals should discuss how the successful components developed under the project will be sustained. Awards are expected to lead to long-term organizational change in how the institution supports faculty to increase their research productivity as well as how it recruits, supports, retains, and graduates doctoral students in STEM. Therefore, proposed projects are expected to consider the financial and organizational sustainability and institutionalization of the project activities from the project’s inception.
+
+B. CREST-RISE RAD
+
+The CREST-RISE RAD awards provide funds for junior faculty to develop their research agenda, to collect preliminary data for inclusion in new proposals for extramural funding, and to support the training of research doctoral students. Junior faculty at institutions that have active DPSI awards are eligible to serve as PI on a RAD proposal. PIs must be mentoring or seeking to mentor research doctoral students. PIs should refer to the eligibility section for detailed eligibility criteria. Co-PIs are not permitted for a RAD proposal. RAD funds can be requested after the first year and before the end of the third year from the start date of the DPSI award. Award duration can be up to 5 years and a maximum of $1,000,000 can be requested through RAD. RAD awards cannot be transferred to non-eligible institutions.
+
+RAD proposals must show clear alignment with the goals of the active DPSI award and must clearly describe how it contributes to the DPSI at the institution. Mentoring (or commitment to mentoring) of research doctoral students, including those from underrepresented groups in STEM is required. Proposed research projects should build a foundation for the PI’s long-term research scholarship and help advance the PI’s professional goals. Proposals should include a clear research plan, a solid plan for integrating research and educational activities, and a research doctoral student mentoring plan.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 2 to 9
+
+Anticipated Type of Award:
+
+CREST-RISE DPSI: Continuing Grant
+
+CREST-RISE RAD: Continuing Grant
+
+CREST-RISE E&I: Standard Grant
+
+Estimated Number of Awards:
+
+Up to 3 awards CREST-RISE DPSI
+
+Up to 2 awards CREST-RISE RAD
+
+Up to 4 awards CREST-RISE E&I
+
+The number of awards made annually is contingent on the availability of funds and the submission of meritorious proposals.
+
+Anticipated Funding Amount:
+
+$6,000,000
+
+CREST-RISE DPSI:
+
+DPSI awards will not exceed $2,000,000 during a five-year period. DPSI awards will be managed as Continuing Grants.
+
+CREST-RISE RAD:
+
+RAD awards will not exceed $1,000,000 during a five-year period. RAD awards will be managed as Continuing Grants.
+
+CREST-RISE E&I:
+
+E&I awards will not exceed $500,000 during the one-year award period. E&I awards will be managed as Standard Grants.
+
+Anticipated Funding Amount: $6,000,000
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Minority Serving Institutions (see definition below) that are Emerging Research Institutions (ERIs) and offer master’s or research doctoral degrees in NSF-supported STEM fields are eligible to submit. Emerging Research Institutions are those that have less than $50,000,000 in research expenditures per year as reported at https://ncsesdata.nsf.gov/profiles/site?method=rankingBySource&ds=herd in three of the last five years. For this solicitation, MSIs are defined as institutions, at the time of proposal submission, that have enrollments of 50% or more U.S. resident students (non-international) (based on total student enrollment) who are members of minority groups underrepresented among those holding advanced degrees in science and engineering fields. Proposals are also invited from institutions of higher education that meet the 50% enrollment criterion and primarily serve populations of students with disabilities. Eligibility may be determined by reference to the Integrated Postsecondary Education Data System (IPEDS) of the US Department of Education National Center for Education Statistics ( http://nces.ed.gov/ipeds/ ).
+
+Minority Serving Institutions (see definition below) that are Emerging Research Institutions (ERIs) and offer master’s or research doctoral degrees in NSF-supported STEM fields are eligible to submit. Emerging Research Institutions are those that have less than $50,000,000 in research expenditures per year as reported at https://ncsesdata.nsf.gov/profiles/site?method=rankingBySource&ds=herd in three of the last five years.
+
+For this solicitation, MSIs are defined as institutions, at the time of proposal submission, that have enrollments of 50% or more U.S. resident students (non-international) (based on total student enrollment) who are members of minority groups underrepresented among those holding advanced degrees in science and engineering fields. Proposals are also invited from institutions of higher education that meet the 50% enrollment criterion and primarily serve populations of students with disabilities. Eligibility may be determined by reference to the Integrated Postsecondary Education Data System (IPEDS) of the US Department of Education National Center for Education Statistics ( http://nces.ed.gov/ipeds/ ).
+
+Who May Serve as PI:
+
+CREST-RISE DPSI
+
+The Principal Investigator (PI) must hold a full-time faculty appointment in an NSF-supported STEM discipline at the institution submitting the proposal.
+
+CREST-RISE RAD
+
+The PI must meet all the following eligibility requirements at the time of submission:
+
+Be a full-time faculty member with the DPSI institution,
+
+Have earned a doctoral degree no more than 10 years prior to the proposal submission date,
+
+Be engaged in research in a STEM area supported by NSF and in alignment with the institution’s active DPSI project,
+
+Mentor or commit to mentor research doctoral students in the DPSI subject area,
+
+Hold a position as an assistant professor (or equivalent),
+
+Be untenured and on a tenure-track or tenure-track equivalent position, and
+
+Have not previously received a RAD award.
+
+Tenure-Track Equivalency – For a position to be considered a tenure-track-equivalent position, it must meet the following requirement:
+
+the employee has a continuing appointment that is expected to last the five years of a RAD award
+
+For tenure-track equivalent faculty, a Departmental Letter must affirm that the investigator’s appointment is at an early-career level equivalent to pre-tenure status. Further, the Departmental Letter must clearly and convincingly demonstrate how the faculty member’s appointment satisfies all the above requirements of tenure-track equivalency.
+
+Faculty members who are associate professors, full professors, or have equivalent appointments with or without tenure/tenure-equivalency, are not eligible to serve as PI for a RAD award.
+
+Faculty members who hold Adjunct Faculty or equivalent appointments are not eligible to serve as PI for the RAD award.
+
+Co-PIs are not permitted for a RAD proposal.
+
+CREST-RISE E&I
+
+The PI must be a full-time faculty member at the requesting institution and must be mentoring DPSI supported research doctoral students from the institution’s active DPSI award.
+
+Limit on Number of Proposals per Organization:
+
+CREST-RISE DPSI: 1
+
+CREST-RISE RAD: 2
+
+CREST-RISE E&I: 1
+
+CREST-RISE DPSI
+
+Institutions can propose to create a research doctoral program or strengthen an existing research doctoral program. Proposals to create a research doctoral program will be funded only once per institution per disciplinary area.
+
+An institution may have only one active DPSI/HBCU-RISE award, irrespective of focus area. Therefore, institutions with an active DPSI/HBCU-RISE award are not eligible to submit a proposal in response to this solicitation unless the active award ends prior to the proposed start date specified in the proposal. The institution is responsible for verifying whether they hold a current active DPSI/HBCU-RISE award.
+
+Institutions that have completed a CREST-RISE or HBCU-RISE award in a disciplinary area may re-compete in other STEM disciplinary areas supported by NSF that are significantly different from those of the previous research doctoral program award(s) held in the last five years. To be significantly different, the new project must be associated with a different four-digit Classification of Instructional Programs (CIP) code, and name new PIs, new co-PIs, and new faculty investigators who have not received a CREST-RISE or HBCU-RISE award in the last five years.
+
+Only one DPSI proposal may be submitted per eligible institution.
+
+After 10 years of CREST-RISE or HBCU-RISE support, an institution must wait five years before submitting another proposal to the DPSI program.
+
+CREST-RISE RAD
+
+An institution must have an active DPSI award to be eligible for RAD. An institution may receive a maximum of four RAD awards and one active RAD award per individual PI during the five-year DPSI project.
+
+RAD proposals must be submitted after the first year and before the end of the third year from the DPSI award start date.
+
+Up to two RAD proposals may be submitted per eligible institution per deadline date.
+
+CREST-RISE E&I
+
+An institution must have an active DPSI award to be eligible for E&I. An institution may receive a maximum of two E&I awards during the five-year DPSI project.
+
+E&I proposals must be submitted after the first year and before the end of the third year from the DPSI award start date.
+
+Only one E&I proposal may be submitted per eligible institution per deadline date.
+
+Limit on Number of Proposals per PI or co-PI:
+
+CREST-RISE DPSI: 1
+
+CREST-RISE RAD: 1
+
+CREST-RISE E&I: 1
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

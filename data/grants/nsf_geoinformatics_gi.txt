@@ -16,3 +16,138 @@ Status: Cleared
 Posted date (Y-m-d): 2023-05-23
 URL: https://www.nsf.gov/funding/opportunities/gi-geoinformatics/nsf23-594
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Geoinformatics (GI)
+
+I. Introduction
+
+Cyberinfrastructure (CI) includes resources for data curation, access, synthesis, and analysis; capabilities for modeling and computation; and other cyber tools that increase capacity for research and education in the Earth Sciences. The 2020 National Academies of Sciences, Engineering, and Medicine (NASEM) report, A Vision for NSF Earth Sciences 2020-2030: Earth in Time , stated the critical need for investments in CI, noting that the Earth Sciences are "experiencing an explosion of data acquisition capacity," along with improvements in modeling and analysis, which require resources to maximize the ability of Earth Scientists to harness these technological advancements. CI resources are therefore critical for providing the advanced data analysis, modeling, and computation capabilities essential to addressing priority Earth Sciences questions, such as those identified in the Earth in Time report. In this solicitation, "Earth Sciences" refers to the academic research communities supported by the Division of Earth Sciences (EAR) at NSF. Further details on scientific topics supported by EAR can be found within descriptions of individual programs ( https://www.nsf.gov/funding/programs.jsp?org=EAR ).
+
+The Geoinformatics program seeks to support CI capabilities that provide the broadest possible value to Earth Sciences research and education. Robust and accessible CI is critical for enabling open, and transparent research practices, including those expressed through the FAIR Guiding Principles for scientific data management and stewardship (Findable, Accessible, Interoperable, and Reusable), the CARE Principles for Indigenous Data Governance (Collective Benefit, Authority to Control, Responsibility, Ethics), and the principles of reproducibility and replicability (see NSF 23-018 , "Dear Colleague Letter: Reproducibility and Replicability in Science").
+
+The Geoinformatics program also recognizes the importance of CI resources for enabling EAR-funded researchers to fulfill requirements of the EAR Data and Sample Policy ( https://www.nsf.gov/geo/geo-data-policies/ear/index.jsp ) for managing and sharing data, physical samples, and other research products. The 2022 Office of Science and Technology Policy (OSTP) memorandum, Ensuring Free, Immediate, and Equitable Access to Federally Funded Research , promoted the need for broad and rapid sharing of federally funded research. To enable such sharing, the OSTP memorandum encouraged the use of digital repositories that align with the 2022 National Science and Technology Council document, Desirable Characteristics of Data Repositories for Federally Funded Research . The TRUST Principles for digital repositories (Transparency, Responsibility, User focus, Sustainability, and Technology) also articulate a framework by which CI resources can support the management and open sharing of research products.
+
+II. Program Description
+
+This Geoinformatics solicitation supports efforts to develop, deploy, and expand access to data resources, software, computational tools, and other cyberinfrastructure (CI) needed to facilitate studies of the structure, dynamics, and evolution of the Earth through time, as well as the processes that act upon and within the Earth from the surface to the core. Successful projects will develop community CI to advance research and education goals in the Earth Sciences, including via relevant training and engagement activities. Geoinformatics projects should be designed to broadly support research and education in the Earth Sciences, rather than the needs of a specific research group.
+
+Goals for Geoinformatics support include (but are not limited to): (i) Enabling the management of and access to data, physical samples, and other research products in the Earth Sciences; (ii) Facilitating the development and use of open-source software and modeling capabilities, preferably via approaches that leverage shared computing resources and collaborative software development processes; (iii) Fostering transparent and reproducible modes of research and education in the Earth Sciences; and (iv) Increasing the capacity of Earth Scientists to utilize CI resources.
+
+The Geoinformatics program is committed to fostering broad and fair access to CI capabilities, data, and other research resources for all people and communities. The Geoinformatics program wants to ensure the participation of the full spectrum of talents that society has to offer in a manner that is integrated with the deployment and operation of CI. The program strongly encourages proactive and sustained engagement efforts, including consultation with relevant communities to address ethical considerations, such as those articulated within the CARE Principles.
+
+This Geoinformatics solicitation includes two tracks to support CI at different stages of development and operations: an Innovative Resources track to support early-stage development, deployment, and community-building, and a Sustained Resources track to support sustained operations and community support for mature cyberinfrastructure resources.
+
+The Innovative Resources track supports early-stage development, deployment, and community-building for data resources, software, computational tools, and other CI resources that serve Earth Sciences research and education. The resulting CI is expected to be broadly accessible and contribute to advancing scientific priorities for one or more research communities within the Earth Sciences. Projects may build on prototype CI resources (e.g., pilot data or software capabilities developed through previous EAR disciplinary program support) by strengthening these resources, expanding training and access, and/or building communities for collaborative development and governance. Typically, follow-on projects that have previously been supported through the Geoinformatics program are not eligible for Innovative Resources support and should instead be submitted to the Sustained Resources track (see below). The allowable budget for projects supported through the Innovative Resources track is up to $200,000 per year for up to 3 years.
+
+The Sustained Resources track is intended as the next phase of support after the Innovative Resources track. The Sustained Resources track supports the sustained operations and user community support for mature CI resources that serve Earth Sciences research and education. Supported CI resources are expected to be managed to facilitate broad access, training, and usage across multiple disciplines within the Earth Sciences. Proposals to further develop CI resources previously supported by NSF programs may be submitted to the Sustained Resources track, regardless of the duration of previous support (including support through any Geoinformatics program track). Such proposals should demonstrate outcomes of prior NSF investment(s) and describe distinctive new directions to be pursued. Projects that have not previously received NSF support may also be submitted to the Sustained Resources track with appropriate justification. Sustained Resources track projects should adopt sustainable governance approaches that ensure responsiveness to needs of the relevant Earth Sciences disciplines and facilitate continuity of outcomes after completion of Geoinformatics support. Expected budgets for projects supported through the Sustained Resources track may vary widely and should be appropriate to the scope of Earth Sciences communities served. In anticipation of future program changes, the expected duration for Sustained Resources proposals submitted to the December 2023 target date is 3 - 4 years, and the expected duration for proposals submitted to the December 2024 target date is 3 years.
+
+Proposers are asked to identify whether their proposal is an "Innovative Resources" or a "Sustained Resources" submission in the beginning of the proposal title (see Section V.A for details).
+
+General Considerations:
+
+As a part of intellectual merit, proposals should describe plans for developing, deploying, and operating the proposed CI in service of Earth Sciences research and education. Proposals should demonstrate and justify Earth Sciences questions that could be addressed through use of the proposed CI, including outcomes that resulted from past developments. Submissions may include pilot research efforts directly related to CI testing and deployment; however, such research efforts should not be a primary focus of the project. Rather, the focus of Geoinformatics support should be on providing CI that facilitates Earth Sciences research by others outside of the proposal personnel. Proposals should also provide sufficient details on the architecture of the proposed CI to evaluate its technical competency. Proposals should demonstrate how the proposed CI development aligns with leading practices, such as through open data and metadata standards, open-source software development practices, and interoperability with existing capabilities. Innovation in new CI capabilities is not required; however, proposals should describe the novelty of the proposed CI deployment and how it fulfills Earth Sciences needs that are not adequately addressed by existing CI capabilities. For CI in support of data management and access, proposals should demonstrate how they would advance the capacity of EAR-supported researchers to fulfill the requirements of the EAR Data & Sample Policy in alignment with open science principles (e.g., FAIR, CARE, TRUST, reproducibility, replicability) and consistent with the 2022 National Science and Technology Council document, Desirable Characteristics of Data Repositories for Federally Funded Research .
+
+As a part of broader impacts, proposals should describe how the proposed CI will be deployed to achieve broad adoption and impact for the relevant Earth Sciences communities and other interested parties. Broader impacts activities must be an integral part of the project and commensurate with the overall scope of work, and this should be reflected in the expertise of collaborators, the proposal budget, and the budget justification. Proposers are encouraged to proactively engage and consult relevant communities varied institution types, and a range of career stages. Proposals should describe the community(ies) served, including size, expected science, and plans for engagement throughout the project. Engagement approaches may include (but are not limited to) workshops, training activities, collaborative resource development (e.g., hackathons), partnership building, stakeholder consultation, and other outreach or community-building efforts. Proposers are encouraged to explore innovative outreach efforts to ensure the participation of the full spectrum of talents that society has to offer, in tandem with CI development.
+
+Proposals submitted in response to this solicitation must also address the following Additional Essential Elements. These Essential Elements correspond to Additional Solicitation Specific Review Criteria for the Geoinformatics solicitation, separate from Intellectual Merit and Broader Impacts (see Section VI.A for details). Investigators are encouraged to include distinctive sections within their proposals addressing each of these Essential Elements:
+
+Additional Essential Elements:
+
+Metrics and Assessment: Proposals must describe specific metrics and/or other assessment mechanisms that will be used to demonstrate engagement, trace progress on proposed activities, and measure impacts on the advancement of the Earth Sciences. Proposals should describe plans for monitoring these metrics and/or other assessment mechanisms throughout the duration of the award, as well as how the outcomes of such monitoring will be used to inform CI deployment that is responsive to user needs.
+
+Sustainable Management: Proposals must describe plans for project management, governance (i.e., scientific community oversight), scalability to adapt to expanding usage, and sustainability approaches to ensure continuity of outcomes beyond project completion. Proposers are encouraged to establish partnerships with existing facilities/institutions to enable governance and sustainability approaches. The scope of plans for sustainable management should be proportionate to the planned project size and include standard Letters of Collaboration from the partners engaged in the plan (as applicable). For Sustained Resources proposals, management plans must clearly describe personnel roles and responsibilities, a timeline of work, and a breakdown of work commitments, costs, and deliverables expected for each major activity that is proposed. Sustained Resources projects submitted as collaborative proposals must further describe clear plans for the coordination of project management across collaborative organizations and distinctive roles for each organization.
+
+Scope of Supported Activities:
+
+The Geoinformatics program prioritizes support for the deployment and operation of CI that advances research and education in the Earth Sciences. Principal Investigators (PIs) are advised to craft their proposals in response to Geoinformatics program goals and to consider alternative NSF programs for projects that extend beyond Geoinformatics priorities. PI(s) are strongly encouraged to consult with the cognizant Program Officer(s) of potentially relevant programs to ascertain programmatic interest and to facilitate the preparation of proposals aligned with program goals.
+
+Support for CI Innovation: The Geoinformatics program encourages proposals for the deployment and operation of cutting-edge CI capabilities that serve Earth Scientists. Innovative development of such CI capabilities is allowable within Geoinformatics proposals to the extent that such activities broadly support Earth Sciences communities. Projects primarily focused on technical innovation for CI tools and services may be suited to Cyberinfrastructure for Sustained Scientific Innovation (CSSI, https://www.nsf.gov/funding/opportunities/cyberinfrastructure-sustained-scientific-innovation-cssi ) or related programs in NSF's Office of Advanced Cyberinfrastructure (OAC, https://www.nsf.gov/funding/programs.jsp?org=OAC ). Projects seeking innovative, use-inspired deployments of CI may be appropriate for programs within the Directorate for Technology, Innovation, and Partnerships (TIP, https://www.nsf.gov/tip ). A full list of cyberinfrastructure-related programs relevant to research in the Directorate for Geosciences (GEO) can be found here: https://www.nsf.gov/geo/geo-ci/index.jsp .
+
+Support for Research Activities: The Geoinformatics program does not support research-driven projects. Instead, the Geoinformatics program supports CI that broadly enables Earth Sciences research and education by others. Geoinformatics proposals may include pilot research activities only if they are directly tied to the development and deployment of CI. Projects that primarily seek to address Earth Sciences research questions, while secondarily developing related software, database, or other CI capabilities, may consider doing so within the context of submissions to disciplinary programs in EAR ( https://www.nsf.gov/funding/programs.jsp?org=EAR ).
+
+Support for Physical Samples and Collections: The Geoinformatics program does not directly support activities related to the curation, management, and accessibility of physical samples and collections. However, the program does support CI development and operations associated with physical samples, such as registries of sample metadata or digitized samples.
+
+Support for Cross-Cutting Activities: In some instances, proposed activities may extend beyond the Earth Sciences and/or the development and deployment of CI. Though proposals submitted to the Geoinformatics program must primarily focus on CI for the Earth Sciences, the program may choose to coordinate review with other relevant programs for those facets of proposals that extend significantly into other disciplinary or functional areas. For example, proposals that seek to deploy CI capabilities in tandem with research instrumentation may be reviewed in coordination with the EAR Instrumentation & Facilities program (EAR/IF, https://www.nsf.gov/funding/opportunities/earth-sciences-instrumentation-facilities-earif ). In cases of cross-cutting projects, PI(s) are strongly advised to consult with the cognizant Program Officer(s) from Geoinformatics and the other relevant programs in advance of proposal submission.
+
+Utilizing Shared Computing Resources:
+
+This solicitation does not support the development of new computer hardware capabilities or significant hardware acquisition. Investigators are encouraged to consider using the wide range of NSF-supported advanced shared computing resources for their computational needs, including the Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS) program ( https://access-ci.org/ ) and related initiatives through NSF's Office of Advanced Cyberinfrastructure (OAC). PAPPG Chapter II.E.7 provides information on accessing high-performance computing resources, data infrastructure, or advanced visualization resources. In addition to these widely available computing resources, proposers may request specific allocations for high-throughput computing and/or cloud computing in tandem with their proposal submission. This is described in further detail in the Proposal Preparation Instructions (Section V.A).
+
+Additional Considerations:
+
+On a limited basis, the Geoinformatics program may support certain non-standard proposal types, such as Conference Proposals (PAPPG Chapter II.F.9). Investigators considering the submission of such proposals must discuss this with cognizant Program Officer(s) in advance of submission. The Geoinformatics program may also consider limited requests for supplemental funding support, but these must be discussed with cognizant Program Officer(s) in advance of submission. Failure to consult with cognizant Program Officer(s) prior to submission of non-standard proposal types or requests for supplemental funding may result in proposals being returned without review. Please note that the Geoinformatics program currently does not accept Early-concept Grants for Exploratory Research (EAGER) or Rapid Response Research (RAPID) proposals.
+
+Because of the collaborative nature of Geoinformatics projects, the program does not participate in NSF career development opportunities, including the Faculty Early Career Development Program (CAREER) or the Mid-Career Advancement (MCA) program.
+
+To ascertain that the focus and budget of proposed projects are appropriate for this solicitation, all proposers for Sustained Resources track projects must submit a Concept Outline at least three (3) months in advance of the full proposal target date. The Proposal Preparation Instructions (Section V.A) explain this in further detail. Principal Investigators (PIs) for Innovative Resources track projects are also recommended to contact cognizant Program Officer(s) for this solicitation in advance of proposal submission for advice on expected proposal submissions.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 6 to 8
+
+anticipated number of projects supported through the combined Innovative Resources and Sustained Resources competition. The actual number of awards will be determined based on the results of the merit review process and availability of funds.
+
+Anticipated Funding Amount: $5,600,000
+
+annual average support, pending the availability of funds.
+
+Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

@@ -23,3 +23,82 @@ Status: Cleared
 Posted date (Y-m-d): 2024-09-04
 URL: https://www.nsf.gov/funding/opportunities/bring-synbio-biomedical-research-initiative-next-gen-biotechnologies/nsf24-603
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Biomedical Research Initiative for Next-Gen BioTechnologies - SynBio Control (BRING SynBio)
+
+I. Introduction
+
+The National Science Foundation Directorate for Engineering (NSF/ENG) and the National Institute of Biomedical Imaging and Bioengineering (NIH/NIBIB) announce the Biomedical Research Initiative for Next-Gen BioTechnologies-SynBio Control (BRING-SynBio) Solicitation. The BRING-SynBio Control solicitation aims to accelerate the translation of novel fundamental synthetic and engineering biology advances to early-stage biomedical technologies through interagency collaboration.
+
+II. Program Description
+
+The goal of the BRING-SynBio solicitation is to support fundamental and interdisciplinary proof of principle approaches in synthetic and engineering biology that spur the development of novel, early-stage biomedical technologies. This solicitation is focused on the use of biological control theory in the design and characterization of new synthetic biological tools and parts and their downstream application to technology development in the biomedical field. In this solicitation, biological control theory is defined as control strategies that are analogous to those exhibited in natural systems and include, but are not limited to, nested loops, multiple induction and inhibition interactions, feedback control, sensing and signaling functions, and switching between alternate pathways. Proposals must address research on fundamental aspects of synthetic and engineering biology and their potential to lead to early-stage biomedical technology development projects eligible for support through the NIH/NIBIB. Clinical Trials are not supported by this activity.
+
+Projects are expected to include a two-year plan (Phase I) of fundamental, proof of principle research involving novel, biological control-guided aspects of synthetic gene circuit design and a two-year plan (Phase II) describing exploratory research focused on further development and validation of Phase I emerging technologies that offer novel capabilities for biomedical technology development to achieve overall project objectives. Phase II efforts should be predicated upon the proof of principle established during Phase I and should address major feasibility gaps for the technology that require further development and rigorous validation in a biomedically relevant setting. NSF/ENG will support fundamental research at the institution of higher education or non-profit organization in Phase I. The early-stage biomedical technology development efforts in Phase II will be supported separately by NIH/NIBIB.
+
+NSF will coordinate and manage the review of the proposals. Proposals will be shared with NIH/NIBIB Program staff to determine programmatic fit to NIBIB's mission and suitability for funding. Investigators are advised to consult with NSF/ENG and NIH/NIBIB program officers early in their proposal planning process. No more than 21 months after the Phase I start date, award recipients may submit a Phase II transition package via email to the Program Officer at NIH/NIBIB including a Phase I report describing in detail progress towards completion of the Phase I milestones and may be asked to include other information necessary for successful evaluation of the Phase I of the project. This transition package may be shared with NSF Program Staff. Satisfactory completion of the Phase I milestones will be assessed administratively by agency staff to determine eligibility for transition to Phase II. Transition to Phase II is neither automatic nor guaranteed. After administrative review of the Phase I progress, it is possible that a project will not be recommended for transition to Phase II. Transition to Phase II will depend upon demonstration of milestone completion, feasibility of plans, programmatic priorities, and availability of funds. See Section VI.B for additional information.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant
+
+Estimated Number of Awards: 6 to 8
+
+Anticipated Funding Amount: $1,800,000 to $2,400,000
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An investigator may participate as Principal Investigator (PI), co-Principal Investigator (co-PI), or Other Senior/Key Personnel on no more than one proposal submitted in response to this solicitation. These eligibility constraints will be strictly enforced in order to treat everyone fairly and consistently. In the event that an individual exceeds this limit, proposals received within the limit will be accepted based on earliest date and time of proposal submission (i.e., the first two proposals received will be accepted, and the remainder will be returned without review). No exceptions will be made.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

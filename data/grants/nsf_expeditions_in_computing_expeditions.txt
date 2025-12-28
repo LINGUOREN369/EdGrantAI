@@ -14,3 +14,134 @@ Status: Cleared
 Posted date (Y-m-d): 2020-02-13
 URL: https://www.nsf.gov/funding/opportunities/expeditions-expeditions-computing/nsf20-544
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Expeditions in Computing (Expeditions)
+
+I. Introduction
+
+The computer and information science and engineering community has made significant contributions to society over the past 50 years, generating research and education outcomes that have fueled economic growth, improved national security, and resulted in products and services that have transformed the everyday lives of people across the Nation and around the world.
+
+More than a decade ago, NSF's CISE directorate established the Expeditions in Computing ( Expeditions ) program to build on past successes and tap the great reservoir of opportunities that fundamental research advances in computer and information science and engineering promise for the future. The program is designed to inspire the CISE research and education community to be as creative and imaginative as possible in the design of bold Expeditions projects that explore new scientific frontiers. Investigators in the computer and information science and engineering fields and beyond are strongly encouraged to come together within and/or across departments or institutions in the development of compelling, transformational research agendas that promise disruptive innovations at the frontiers of computer and information science and engineering for many years to come.
+
+Based on recent community inputs, with this solicitation, CISE is modifying the Expeditions program to support the long-term transformational nature of research supported under this program. Specifically, CISE is increasing the funding level and lengthening the duration of Expeditions projects funded pursuant to this solicitation. In recent years, the nature of the frontier problems that are especially well suited for the Expeditions program have changed in several ways. First, these types of problems are increasingly complex, multidisciplinary, data-intensive and computationally challenging. Second, many Expeditions problems are increasingly driven/motivated by societal impact; in order for outcomes of such work to be societally relevant and truly effective, CISE researchers must increasingly collaborate with colleagues in other disciplines. Consequently, the success of Expeditions projects requires additional expertise, in the form of additional individuals, as part of the multidisciplinary teams. Given the additional complexity and the larger team sizes, Expeditions projects are likely to require additional time to ramp up and maximize impacts. Therefore, the maximum budgets and durations of Expeditions projects have been increased.
+
+Additionally, Innovation Transition (InTrans) funding is available for Expeditions projects and Frontier projects that are in the final two years of their original awards.
+
+InTrans aims to continue the long-term vision and objectives of CISE's center-scale projects by (1) enabling maturation and deployment of successful research and innovation results in industry; and (2) facilitating continued support for these projects by industry, which in turn will lead to the development of future technologies.
+
+II. Program Description
+
+The Expeditions program has three goals:
+
+To catalyze far-reaching research or research cyberinfrastructure explorations motivated by deep scientific questions or hard problems in the computer and information science and engineering fields and/or by compelling applications and novel technologies that promise significant scientific and/or societal benefits;
+
+To inspire current and future generations of Americans, especially those from under-represented groups, to pursue rewarding careers in computer and information science and engineering; and
+
+To stimulate significant research and education outcomes that, through effective knowledge transfer mechanisms, promise scientific, economic and/or other societal benefits.
+
+Expeditions projects should be ambitious and potentially transformative. They should exploit advances in computer and information science and engineering; and/or use-driven cyberinfrastructure research that may accelerate discovery and innovation across science and engineering, while advancing the frontiers of what is believed to be possible.
+
+Projects supported by the Expeditions program have the following characteristics:
+
+They foster research climates that nurture creativity and informed risk-taking, and value complementary research and education contributions such that the whole Expeditions project is greater than the sum of its parts;
+
+They draw upon well-integrated, diverse teams of investigators from computer and information science and engineering fields, and from other fields of science and engineering as appropriate for a given project;
+
+They advance the frontiers of knowledge and technology in computer and information science and engineering fields;
+
+They stimulate effective knowledge transfer; and
+
+They demonstrate experimental systems, support shared experimental facilities (including instruments, platforms and/or testbeds), and/or deploy research cyberinfrastructure to accelerate discovery and learning.
+
+An Expeditions proposal should have a long-term vision, with objectives that could not be attained simply by a collection of smaller proposals provided with similar resources. Project descriptions must be comprehensive and well-integrated, and should make a convincing case that the collaborative contributions of the project team will be greater than the sum of each of their individual contributions. Rationale must be provided to explain why a budget of this size is required to carry out the proposed work, and how the budget is apportioned among the participating team members and institutions. Since the success of collaborative research efforts are known to depend on thoughtful coordination mechanisms that regularly bring together the various participants of the project, these must be articulated in the proposal.
+
+With this solicitation, the Expeditions program is affording projects up to seven years of support. By increasing the project duration, CISE aims to address the evolving nature of the proposed Expeditions -scale research problems. A longer runway will enable researchers to produce reasonable outcomes from these emerging multi-faceted problems and pave a path toward longer-term sustainability of the research results. PIs are strongly encouraged to avail of this longer duration in their project planning, especially by utilizing the first two years of the project term to ramp up project planning and recruitment, and using the final two years of the project term to explore stretch goals identified during the project as well as next steps for the Expeditions effort.
+
+Expeditions projects represent some of the largest single investments made by CISE. Together with the Science and Technology Centers and the National Artificial Intelligence Research Institutes that the CISE directorate supports, Expeditions projects form the centerpiece of the directorate's center-scale award portfolio. At steady state, CISE supports 10 to 12 Expeditions projects at any given time; together, this portfolio of active projects demonstrates the tremendous potential of computer and information science and engineering innovations.
+
+New proposals from current Expeditions recipients:
+
+New proposals from current Expeditions recipients will be evaluated in an open competition with all other proposals. All Expeditions proposals must introduce substantially new research topics and undertake innovative research, which will be evaluated through NSF's two review criteria and additional Expeditions review criteria. All Expeditions proposals are expected to articulate prior research outcomes for project staff, which are also part of the review. It is expected that new proposals from current Expeditions recipients will demonstrate research excellence, significant achievements, noteworthy impacts, outreach success, and collaborations with industry and/or other partners, as appropriate, based on the corresponding current Expeditions projects.
+
+Innovation Transition (InTrans) for Expeditions/Frontier projects in their final two years:
+
+InTrans awards are intended for teams nearing the end of their Expeditions or SaTC or CPS Frontier projects.
+
+The goal of InTrans is to continue the long-term vision and objectives of CISE's center-scale projects by (1) enabling maturation and deployment of successful research and innovation results in industry; and (2) facilitating continued support for these projects by industry, which in turn will lead to the development of future technologies.
+
+This opportunity is available to all Expeditions and Frontier projects that are in the final two years of their original awards. For purposes of InTrans , a "project team" refers to the institution or group of institutions that (and the associated principal investigators (PIs) and co-PIs who) submitted a successful proposal or collaborative proposal in response to the Expeditions, SaTC Frontiers or CPS Frontiers program solicitations. Prior to submission of an InTrans proposal, the proposer must secure industry funding for the continuation of the research supported under the Expeditions or Frontier award. Industrial funding must last at least three years, and must commence prior to the original Expeditions or Frontier award expiration date, not accounting for any no-cost extensions.
+
+InTrans proposals will be evaluated in accordance with the standard NSB-approved merit review criteria using an ad hoc review process. Any prospective PI is required to consult with his/her Expeditions or Frontier program officer prior to submission of an InTrans proposal.
+
+Any software developed through an InTrans award is required to be released under an open source license listed by the Open Source Initiative ( (https://www.opensource.org/ ) Researchers who develop software that has been declared as a deliverable in the InTrans proposal agree not to incorporate any third-party code into this software that would limit or restrict its ability to be distributed under an open source license.
+
+BROADENING PARTICIPATION
+
+CISE is committed to enhancing the community's awareness of and overcoming barriers to Broadening Participation in Computing (BPC), and to providing information and resources to PIs so that they can develop interest, skills, and activities in support of BPC at all levels of the CISE community (K-12, undergraduate, graduate, and postgraduate). Indeed, CISE supports meaningful actions that address the longstanding underrepresentation of various populations, including women, minorities (African Americans/Blacks, Hispanic Americans, American Indians, Alaska Natives, Native Hawaiians, Native Pacific Islanders, and persons from economically disadvantaged backgrounds), and persons with disabilities, in the computing field. Towards this end, CISE is piloting a requirement for meaningful BPC plans in all proposals submitted to the Expeditions program. As noted in the Proposal Preparation Instructions below, a portion of the budget for each Expeditions proposal should be used to engage relevant BPC expertise to help plan, organize, coordinate and execute these activities. BPC activities should be pervasive and proportional to the breadth and scale of the project team. Additional resources and information, including examples of meaningful BPC activities and metrics, can be found on the CISE BPC webpage: https://www.nsf.gov/cise/bpc/ .
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 2 to 4 awards in each competition.
+
+Anticipated Funding Amount: $60,000,000
+
+Up to $60,000,000 total for each competition, subject to the availability of funds. Expeditions projects with total budgets of up to $15,000,000 for a duration of seven years will be supported.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) accredited in, and having a campus located in the U.S., with undergraduate, masters, and doctoral programs in computer and information science and engineering fields may submit proposals as lead or collaborative institutions. Subawardees may include two-and four-year U.S. IHEs, non-profit non-academic organizations such as independent museums, institutes, observatories, professional societies and similar organizations located in the U.S. that are directly associated with education or research activities in the computer and information science and engineering fields. Other organizations such as national laboratories, for-profit organizations and organizations in other countries may participate in the proposed activities if they have independent sources of support; they will not be supported by NSF.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may participate in no more than one preliminary and if invited, one full Expeditions proposal per competition as PI, co- PI, or senior/key personnel.
+
+In the event that an individual exceeds this limit for a given deadline, any Expeditions proposal submitted to that deadline with this individual listed as a PI, co-PI, or senior/key personnel after the first proposal is received at NSF will be returned without review. No exceptions will be made.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposals: Submission of Preliminary Proposals is required. Please see the full text of this solicitation for further information.
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

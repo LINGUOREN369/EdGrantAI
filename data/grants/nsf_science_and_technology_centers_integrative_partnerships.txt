@@ -12,3 +12,116 @@ Status: Cleared
 Posted date (Y-m-d): 2024-08-08
 URL: https://www.nsf.gov/funding/opportunities/science-technology-centers-integrative-partnerships/nsf24-594
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Science and Technology Centers: Integrative Partnerships
+
+I. Introduction
+
+The Science and Technology Centers: Integrative Partnerships — Concept
+
+The Science and Technology Centers (STC): Integrative Partnerships-Discovery and Innovation to Address Vexing Scientific and Societal Challenges program supports exceptionally innovative, complex research and education projects that require large-scale, long-term awards. STCs focus on creating new scientific paradigms, establishing entirely new scientific disciplines, and developing transformative technologies that have the potential for broad scientific or societal impact. STCs conduct world-class research through partnerships among institutions of higher education, national laboratories, industrial organizations, other public and private entities, and via international collaborations, as appropriate.
+
+The STC program supports potentially groundbreaking investigations at the interfaces of disciplines and/or highly innovative approaches within disciplines. When appropriate, teams are encouraged to embrace convergence to achieve deep integration across disciplines and sectors. STCs may involve any area of science and engineering that NSF supports. STCs exploit opportunities in science, engineering, and technology where the complexity of the research agenda requires the duration, scope, scale, flexibility, and facilities that center support can provide. They catalyze U.S. leadership in research in a world in which discovery, learning, and innovation enterprises are increasingly interconnected and increasingly global. Centers offer the science and engineering community a venue for developing effective mechanisms to integrate scientific and technological research and education activities; to explore better and more effective ways to educate students; to broaden participation of underrepresented groups in science, mathematics and engineering as well as under-resourced institutions; and to ensure the timely transfer of research and education advances made in service to society. STC lead and partner organizations work together as an integrated whole to achieve the shared research, education, broadening participation, and knowledge-transfer goals of the Center. The STC program seeks to ensure a diverse portfolio of talent, skills, abilities and experience at centers including diversity among types of institutions leading centers and diversity amongst center directors.
+
+II. Program Description
+
+A. Objectives of the STC Program are to:
+
+Support potentially groundbreaking investigations at the interfaces of disciplines or highly innovative approaches within disciplines;
+
+Support research and education of the highest quality, in a center-based environment, where the whole is greater than the sum of its parts;
+
+Exploit opportunities in science, education, engineering and/or technology where the complexity of the research agenda requires the advantages of scope, scale, flexibility, duration, equipment, and facilities that a Center can provide;
+
+Support the creation of new scientific paradigms, establishment of new scientific disciplines, and development of transformative technologies;
+
+Foster science and engineering in service to society;
+
+Engage and develop the Nation's intellectual talent, including groups underrepresented in science, mathematics and engineering, in the conduct of research and education activities;
+
+Increase the participation of minority-serving institutions in center-scale science and engineering research;
+
+Promote organizational connections and linkages within and among campuses, and beyond (e.g.,K-12 educational institutions; state, local and Federal agencies, national labs, industry, and international collaborations), capitalizing upon cyberinfrastructure, communication technologies and other modern advances to facilitate these linkages;
+
+Focus on integrative learning and discovery and the preparation of U.S. students for a broad set of career paths; and
+
+Support research collaborations that energize the Nation's economic competitiveness, sustain its global leadership in science and engineering, expand the geography of innovation, and improve the quality of life for everyone.
+
+B. Characteristics of Science and Technology Centers
+
+An STC typically comprises a lead institution and several partners. The lead institution accepts overall management and budgetary responsibility for the proposed Center and is responsible for oversight of sub-awards to partner institutions. The partners comprising an STC share a common research vision and work on developing sustainable collaborations while jointly pursuing highly innovative research pathways to address deep scientific questions or pressing societal needs. They capitalize on the latest scientific and technological developments to seek ways to develop groundbreaking, often risky approaches, to address what seem to be intractable problems. They work towards developing and maintaining a flexible and agile research plan to accommodate change as the research proceeds, new challenges and opportunities arise, and the global landscape of science evolves.
+
+STCs may vary in size and exhibit diverse forms of organization, collaboration, and operation suited to their individual needs. Not every partner must support every aspect of the Center's activity, but all of the expected features of a Center must be encompassed in the integrated portfolio of the partners' activities. Partnerships may include multi-organizational collaborations or arrangements with other universities/colleges, national laboratories, research museums, private sector research laboratories, industrial organizations, state and local government laboratories, and international collaborations. NSF encourages, but does not require, STCs to include international dimensions (e.g., collaboration with foreign research partners and international research experiences for students) to enhance research and promote the full spectrum of diverse talent that society has to offer and an internationally competitive science and engineering workforce.
+
+The STC program seeks to support impactful higher education activities directed toward the development of a globally engaged workforce of scientists, engineers, and citizens that represent the full spectrum of diverse talent that society has to offer and is well-prepared for a broad set of career paths. The education goals of an STC may address the needs of students participating in the Center's research activities or students in broader fields of research represented by the STC activities. STCs are encouraged to focus their education efforts on specific programs that are appropriately integrated into the research activities of the Center rather than attempting to be comprehensive. Education programs and activities should be developed in the context of current education research and be monitored through a formal evaluation effort.
+
+NSF expects STCs to demonstrate leadership in the involvement of the full spectrum of diverse talent that society offers at all levels (faculty, students, and postdoctoral researchers) within the Center. STCs are encouraged to form substantive and long-term partnerships and collaborations among various types of institutions to ensure participation of the full spectrum of diverse talent. Ideally, all academic partners will contribute to the research, education, and broadening participation components of the STC.
+
+STCs foster knowledge transfer that involves the exchange of scientific and technical information between the Center and external stakeholders who can then apply and utilize the knowledge to create further advances. Examples of knowledge transfer include, but are not limited to, establishing spin-off companies, license agreements or other technology transfer arrangements to support innovation and providing key information to support policy-making decisions. Knowledge transfer can be facilitated in a variety of ways, including but not limited to formal partnerships established through membership agreements, visiting research/teaching positions for industrial scientists at the STC, external use of industrial or university facilities, student internships in industry or public policy arenas, student mentoring by industrial or other partners, innovative use of cyberinfrastructure, informal science education, and/or other mechanisms.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards : up to 5
+
+Centers. Each award will be made as a cooperative agreement to the lead institution, with an initial commitment for five years of support and a possibility of continuation for five additional years. Number of awards is approximate and subject to availability of funds in FY2026.
+
+Anticipated Funding Amount: $30,000,000
+
+Up to $ 30,000,000 annually, subject to the appropriation of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Preliminary proposals and invited full proposals may only be submitted by institutions of higher education that are located in the United States, its territories or possessions, and have doctoral degree-granting research and education programs in any area of research supported by NSF. The lead institution is expected to develop partnerships or arrangements with other universities, colleges, or other scientific organizations, such as national laboratories, research museums, private sector research laboratories, state and local government laboratories, and international organizations as appropriate to enable the Center to attain its strategic goals.
+
+Who May Serve as PI:
+
+The PI must be a full-time faculty member at an institution of higher education and have an established record of leading research teams.
+
+Limit on Number of Proposals per Organization: 3
+
+A single organization may submit a maximum of three preliminary proposals as the lead institution. Full proposals are to be submitted only when invited by NSF. There is no limit on the number of proposals in which an organization participates as a partner institution. The STC program will not support more than one Center from any one lead institution in this competition.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+A PI or co-PI on one proposal in this competition may not be a participant in another STC proposal under review in the same competition. If a proposal is declined at any stage of the review process, a PI or co-PI on the declined proposal may then participate in another STC proposal. This eligibility constraint will be strictly enforced. In the event that an individual exceeds this limit, proposals will be accepted based on the earliest date and time of proposal submission (i.e., the first compliant proposal received will be accepted and the others will be returned without review).
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposals: Submission of Preliminary Proposals is required. Please see the full text of this solicitation for further information.
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not applicable.
+
+Not applicable.
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

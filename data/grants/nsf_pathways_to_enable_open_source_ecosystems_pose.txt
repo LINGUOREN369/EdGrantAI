@@ -19,3 +19,140 @@ Status: Cleared
 Posted date (Y-m-d): 2024-09-13
 URL: https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems/nsf24-606
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Pathways to Enable Open-Source Ecosystems (POSE)
+
+I. Introduction
+
+The term " open-source " has often referred to software systems for which the source code is widely distributed to anyone and for any purpose, including for further development and refinement in a collaborative public manner. However, increasingly, "open-source" refers to a much broader range of products such as programming languages or formats; hardware instruction sets; designs or specifications; scientific methodologies, models, or processes; manufacturing processes or process specifications; material formulations; and data platforms.
+
+Academic and industrial researchers worldwide are extensively using the open-source model to make research artifacts such as software, tools, and prototypes openly available with a goal of enabling collaboration and catalyzing further innovation. An open-source product can be shared via a web page on the Internet, but a more common approach uses a version control system. Multiple NSF research infrastructure programs support further development of open-source projects with the goal of serving the research community and enabling advances in science and engineering research and education, including the Community Infrastructure for Research in Computer and Information Science and Engineering (CIRC) , Cyberinfrastructure for Sustained Scientific Innovation (CSSI ), Infrastructure Capacity for Biological Research (Capacity) , and Human Networks and Data Science – Infrastructure (HNDS-1) .
+
+Some open-source projects expand well beyond their original research teams, catalyzing broad adoption across academia, industry, government, and other sectors, and resulting in communities of users and intellectual content developers/contributors who coalesce around them into "ecosystems." Examples of NSF-funded open-source research projects and products that have transitioned into OSEs with broad measurable and transformative impact include:
+
+LLVM , a modular and reusable compiler infrastructure to construct, optimize, and produce intermediate and/or binary machine code that has seen wide adoption in industry;
+
+Galaxy , a scientific workflow, data integration / analysis, and publishing platform that makes computational biology accessible to researchers who do not have computer programming or systems administration experience; and
+
+RISC-V , an open, standard instruction set architecture (ISA) that enables researchers, developers, and manufacturers to design and experiment with building hardware with a proven and freely available ISA.
+
+There are many such open-source projects in all areas of science and engineering that have benefited from open collaboration and innovation.
+
+An Open-Source Ecosystem (OSE) is a self-sustaining organization that enables the ongoing, distributed, asynchronous development of an open-source product that is designed to be publicly accessible, modifiable, and distributable by anyone under an open-source licensing model. An OSE organization has several key components: a leadership team that is responsible for governance and management of distributed development processes and infrastructure, a decentralized and open network of intellectual content contributors/developers who are committed to the vision of the OSE and contribute their time and expertise to develop and maintain the core product, and users whose needs serve to guide the evolution of the product. The intellectual content contributors are a key part of an OSE because they help develop, grow, and maintain the core open-source product. Building a successful open-source ecosystem depends on many different elements, including recruiting, motivating, mentoring, managing, and mediating disputes among community members. There are many existing models of OSEs, ranging from non-profit institutions that are well-coordinated community efforts to build and support open source products (e.g., the Apache Software Foundation , the Linux Foundation , and the Mozilla Foundation ), to for-profit companies that release open-source products and then coordinate an open-source community around them (e.g., IBM's Qiskit and Google's TensorFlow ).
+
+OSEs are an important alternative to more common for-profit technology companies and offer several key strengths: they are well suited to multidisciplinary efforts aimed at solving large-scale problems; they create a sense of ownership among all participants and encourage contributions from new technical disciplines as the OSE evolves; and they avoid costs, delays, and disputes that frequently arise in circumstances where proprietary solutions are developed. OSEs encourage rapid prototyping in moving value from the conception to execution phases, serving as important catalysts for innovation.
+
+A key aspect of successful OSEs is their value in demonstrating the potential of a technology at scale in varied application scenarios. While not always easy to quantify, the significant technological, societal, and economic impacts of OSEs over the past decades are undeniable. For example, a recent European Commission Study estimated that companies located in the European Union invested around 1 billion Euros in open-source software alone in 2018, which brought about a positive impact on the European economy of between 65 and 95 billion Euros.
+
+II. Program Description
+
+The purpose of the POSE program is to support a new pathway for translating research or innovation results by supporting the establishment of managing organizations that facilitate the creation and growth of sustainable, high-impact OSEs around already-developed open-source products, tools, and artifacts. The POSE program aims to grow the community of individuals who develop and contribute to OSE efforts, and enable pathways to intentionally transition promising, robust open-source innovations into self-sustaining OSEs that could lead to new technology products or services with broad societal impacts.
+
+Importantly, the POSE program does not itself support further development of open-source products. A key attribute of OSEs is a distributed development model in which external intellectual content contributors use a continuous development, integration, and deployment model to develop and/or maintain the core open-source product. Projects lacking this distributed development aspect are not well suited for POSE and may be better suited for infrastructure programs. For example, a data repository with a centralized development model where external content developers only upload data would not be suitable for POSE. Likewise, the POSE program is not intended for open-source product development or focused communities with limited impact. Instead, POSE proposals are expected to build an ecosystem around an existing, robust, open-source product that has active users and contributors outside of the founding team. Note that development of open-source software specific to the advanced cyberinfrastructure of a particular scientific community may be better served as a submission to the "Transition to Sustainability" track in the NSF CSSI program . Finally, POSE is also not intended to support the development of products that are proprietary and/or intended for profit; Such efforts may be better suited for NSF's SBIR/STTR programs.
+
+The transition from open-source research or innovation project to an OSE requires an organized and intentional approach with multiple elements. These include: (1) the vision of the founding team and a set of guiding principles, (2) one or more specific open-source products under development, (3) documented demand for the product(s) within the current technological landscape, (4) the need for adaptability and flexibility in deployment scenarios, (5) a distributed community of intellectual content developers who will drive the collaborative development of the technology, and (6) a community of users who adopt and engage with the technology. OSEs are frequently supported by a national or international community of users and developers from different sectors, including academia, non-profits, and industry. POSE strongly encourages proposers to consider mechanisms to intentionally involve all these groups. Note the eligibility requirements for funded organizations that appear in Section IV.
+
+As shown in Figure 1, the transition from open-source product to OSE can be conceived as a continuum. At one end of this continuum is an early stage open-source artifact that, for example, may have been developed by a scientist for a specific use and has been adopted by a small number of users. At the other end is a fully developed OSE based on a robust open-source artifact, managed by an organization that: coordinates an external distributed developer community; interfaces with and supports a community of users; provides training and on-boarding to new developers and users; enables efficient continuous development, integration, and deployment of the open-source product; maintains an efficient supply chain; ensures security, privacy, and reliability of all aspects of the OSE operations; maintains appropriate organizational governance practices; and attracts resources for the long-term sustenance of the ecosystem. POSE aims to support this transition, assisting the evolution of an early stage open-source project to a fully operational OSE that can realize the potential societal impact nascent in the originating open-source artifact.
+
+Figure 1. Transition from Open-source Product to Open-source Ecosystem
+
+This solicitation seeks two types of proposals: first to scope and plan for an OSE (Phase I), and second to establish and expand (Phase II) a sustainable OSE based on an existing and robust open-source product that shows promise both in the ability to meet an emergent societal or national need and to build a community to help develop it. For both phases, the open-source product should already (i) be publicly accessible, preferably via an open-source license (proposers are encouraged to consider licenses approved by the Open Source Initiative ) and (ii) have some external third-party users and/or external intellectual content developers. In this context the term "external" means external to the founding team. Phase II proposers are strongly urged to have an open-source license in place for their core product by the time of proposal submission.
+
+An OSE supported by POSE, as shown in Figure 2, will comprise three components: a distributed community of intellectual content developers from academia, industry, and/or the non-profit sector; a community of third-party end users in research, industry, government, and/or other sectors – some of whom may also be intellectual content developers; and a managing organization. POSE funding will support the establishment of the managing organization whose role includes all the functions described above and whose overarching objective is to ensure sustainability of the OSE. The primary distinction between Phase I and Phase II is that Phase I scoping and planning projects are intended for organizations that need more experience and knowledge for building the distributed intellectual content developer and end user communities around an open-source product. Phase I project teams will also benefit from learning more about the non-technical roles of a POSE managing organization – e.g., corporate governance, legal and administrative functions, licensing, fundraising, etc.
+
+Figure 2. Role of the POSE Managing Organization
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 30 to 50
+
+Approximately 20 Phase I awards of up to $300,000 per award with durations up to 1 year and 10 Phase II awards of up to $1,500,000 per award with durations up to 2 years are anticipated, subject to the availability of funds and quality of proposals received.
+
+If a proposal involves multiple organizations, it must be submitted as a single proposal with sub-awards; separately submitted collaborative proposals are not permitted.
+
+Anticipated Funding Amount: $27,800,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+State and Local Governments
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+For Institutions of Higher Education:
+
+By the submission deadline, any PI, co-PI, or other Senior/Key Personnel must hold either:
+
+a tenured or tenure-track position, or
+
+a primary, full-time, paid appointment in a research or teaching position, or
+
+a staff leadership role in an Open-Source Program Office or equivalent position
+
+at a U.S.-based campus of an Institution of Higher Education (see above), with exceptions granted for family or medical leave, as determined by the submitting organization.
+
+Individuals with primary appointments at overseas branch campuses of U.S. institutions of higher education are not eligible. Researchers from foreign academic institutions who contribute essential expertise to the project may participate as Senior/Key Personnel or collaborators but may not receive NSF support.
+
+Individuals with primary appointments at non-U.S. based non-profit or non-U.S. based for-profit organizations are not eligible.
+
+For all other eligible proposing organizations:
+
+The PI must be an employee of the proposing organization who is normally resident in the U.S. and must be acting as an employee of the proposing organization while performing PI responsibilities. The PI may perform the PI responsibilities while temporarily out of the U.S.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

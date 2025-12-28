@@ -10,3 +10,130 @@ Status: Cleared
 Posted date (Y-m-d): 2024-12-06
 URL: https://www.nsf.gov/funding/opportunities/walcz-water-landscape-critical-zone-processes/nsf25-519
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Water, Landscape, and Critical Zone Processes (WaLCZ)
+
+I. Introduction
+
+The Water, Landscape, and Critical Zone Processes (WaLCZ) Program is part of the Division of Earth Sciences (EAR) within the Directorate for Geosciences (GEO). EAR supports investigations of the evolution, processes, and properties of Earth through WaLCZ and three other programs:
+
+Chemical Evolution of the Solid Earth and Volcanology
+
+Life and Environments through Time
+
+Structure and Physics of the Solid Earth
+
+EAR also provides support for instrumental and observational infrastructure, cyberinfrastructure, and educational and outreach activities. Projects may employ any combination of field, laboratory, and computational studies with observational, theoretical, or experimental approaches.
+
+Interdisciplinary and multidisciplinary proposals may require joint review within EAR, with other GEO Divisions, or with other NSF Directorates, and may be considered for joint support. Projects should be submitted to the EAR solicitation most strongly aligned with the primary objectives or hypotheses of the proposal regardless of methods.
+
+EAR invites submission of collaborative projects that articulate a fundamental overarching Earth Science question that is addressed through integrative hypothesis- or question-driven research. The project also should lead to outcomes that have potential to reveal new principles underlying the function or interaction of Earth systems.
+
+II. Program Description
+
+Earth’s near-surface environments are regulated by a complex interplay of many different processes and mechanisms. For example, landscapes are shaped by the action of water, biogeochemical reactions, and human interventions. Factors such as bedrock composition, microbial activity, and climate affect weathering rates and soil development. Hydrologic and fluvial processes, as well as the relationships of water to material and living components of the environment, control the distribution, quantity and quality of water and soil on and beneath Earth’s surface. Earth-surface processes influence land-atmosphere exchanges of materials and energy, as well as Earth’s climate system. In addition to these interactions, human activity is a major force that shapes natural environments through changes in land use, climate, and natural resource use and management.
+
+The WaLCZ program supports robust, hypothesis-driven research that investigates these topics along with other significant aspects of Earth’s near-surface systems. Projects may cover areas that investigate underlying mechanisms or controls on the Earth’s near-surface environment and how that environment responds to change. These projects can be contained within a single traditional research domain (e.g. hydrology, geomorphology, environmental geochemistry) or involve multiple domains. Proposals must focus on filling knowledge gaps and advancing process-based understanding of Earth-surface environments, rather than applying existing knowledge to case-specific problems or focusing on the design of engineered systems.
+
+The WaLCZ program is committed to supporting the most meritorious and impactful research in any relevant area. Research areas include but are not limited to:
+
+Hydrologic processes, water availability, and water quality on and beneath the Earth’s surface and relationships of water with material and living components of the environment
+
+Couplings and feedbacks between geomorphic processes, their rates, and their relative roles, especially in the contexts of variation in biologic, climatic, and tectonic influences and changes due to human impact
+
+Aqueous geochemical processes and cycling in near-surface environmental systems and how elements and energy are exchanged within and between atmospheric, terrestrial, and aquatic systems
+
+Fate and transport of water, solutes, and other materials in near-surface environments
+
+Complex interactions between biotic and abiotic features of the Critical Zone that drive rates of soil and topographic development across diverse lithologies, biomes, and regolith type/thickness
+
+Advancing our capabilities in integrated and realistic modeling of near-surface systems from pore to continental scales using the full model continuum (from data-driven to process-based)
+
+Applications of new technologies to inform understanding of fundamental near-surface processes across scales (e.g. geophysical methods, remote sensing)
+
+Anthropogenic impacts on modern natural environments and their associated response
+
+Proposal topics are not limited to this list, and the community is encouraged to explore beyond these areas as the program is open to a variety of hypothesis-driven, foundational research questions focused on the Earth’s near-surface system. If a Principal Investigator (PI) is unclear about the relevance of a proposal topic to this solicitation, then they should contact the Program Officers listed within this solicitation.
+
+Water, Landscape, and Critical Zone processes are crucial for society and ecosystems. These processes are linked to ocean, atmospheric, and solid Earth sciences and as a result, research pertaining to these processes is often at the interface of other disciplines within and outside of EAR, such as environmental biology, environmental engineering, and/or social science. Therefore, interdisciplinary and multidisciplinary proposals submitted to the WaLCZ program may require joint review with related disciplinary or integrated programs and may be considered for joint support. Before submission of a proposal that crosses disciplinary boundaries, PIs are strongly encouraged to contact the cognizant Program Officers in all relevant programs.
+
+Proposals for community workshops that can guide the community on new research topics and grand challenge questions are encouraged, and those that have plans to broadly disseminate the discussions and outcomes will be prioritized.
+
+The WaLCZ Program supports a wide range of broader impacts activities. Successful projects will include broader impact activities that are creative, well-integrated, and effective. These broader impacts activities should be developed within the context of the people involved in the project and the mission, goals, and resources of the organizations involved. The expertise of the collaborators, the proposal budget, and budget justification should reflect this integration. Examples of activities that may be proposed include, but are not limited to, broadening participation in the geosciences, scientific infrastructure enhancement, public engagement, establishing new or expanding partnerships with industry, government, academic, and international institutions, and translating research to benefit broader societal needs.
+
+In addition to opportunities described in this WaLCZ solicitation, WaLCZ also funds proposals submitted in response to the Faculty Early Career Development ( CAREER ) Program, Research Coordination Networks ( RCN ), EMpowering BRoader Academic Capacity and Education ( EMBRACE ) Program and Mid-Career Advancement ( MCA ) solicitations. The WaLCZ Program also accepts Rapid Response Research (RAPID), EArly-concept Grants for Exploratory Research (EAGER), Planning, and Conference proposal requests (see guidance in Chapter II.F of the PAPPG) and supplemental funding requests (see guidance in Chapter VI.E of the PAPPG); these additional proposal submissions require approval from a WaLCZ program director prior to preparing a submission. Where WaLCZ participates in cross-agency competitions, proposals that are suitable for review within these competitions must be submitted directly to these solicitations rather than to WaLCZ. If there is doubt as to the appropriate destination for a proposal, prospective PIs are encouraged to contact the WaLCZ program directors prior to submission. WaLCZ welcomes inquiries on any proposal type prior to submission.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 60 to 80
+
+Anticipated Funding Amount: $23,850,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

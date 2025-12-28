@@ -16,3 +16,120 @@ Status: Cleared
 Posted date (Y-m-d): 2020-12-09
 URL: https://www.nsf.gov/funding/opportunities/ltreb-long-term-research-environmental-biology/nsf21-544
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Long Term Research in Environmental Biology (LTREB)
+
+I. Introduction
+
+Many important questions in ecology, ecosystem science, and evolutionary biology require data collected for ten or more years to be answered. Research areas include, but are not limited to, the effects of natural selection or other evolutionary processes on populations; the effects of interspecific interactions that vary over time and space; population and community dynamics for organisms that have extended life spans and long turnover times; feedbacks between ecological and evolutionary processes; pools of materials such as nutrients in soils that turn over at intermediate to longer time scales; and external forcing functions such as climatic factors that operate over long time periods. Investigators often are constrained in addressing questions in these areas by the relatively short support periods associated with typical research awards. In recognition of this problem, the Division of Environmental Biology (DEB) established the Long Term Research in Environmental Biology (LTREB) program . LTREB awards are designed to provide the funding to maintain an ongoing, long-term research project for a period of a decade or perhaps longer.
+
+The usefulness of long-term data sets extends beyond typical scientific publications. Therefore, a means of sharing data with other investigators in order to stimulate data reuse, synthesis, and the generation of novel ideas is an important requirement of all proposals. Results should be of interest to and available to the general public. To take advantage of the data collected by these long-term projects, LTREB investigators are required to implement mechanisms of data sharing in the broadest manner possible.
+
+II. Program Description
+
+The Long Term Research in Environmental Biology Program intends to support decadal projects. Funding for an initial, 5-year period requires submission of a proposal following the guidelines described in Section V and the additional review criteria in Section VI, below.
+
+Proposals must address timely and important concepts in environmental biology. The research must demonstrate an ability to advance general understanding in evolutionary biology, ecology, or ecosystem science. Clearly defined hypotheses must guide the research. These hypotheses must be motivated by at least six years of recently-collected data on the study system and must be grounded in appropriate concepts or theory.
+
+All proposals submitted through the LTREB solicitation are processed by 1 of the 3 clusters in the Division of Environmental Biology: Ecosystem Science, Population and Community Ecology, and Evolutionary Processes. Proposals must address topics supported by these clusters. Researchers who are uncertain about the suitability of their project for the LTREB Program are encouraged to contact the cognizant Program Officer.
+
+Ecological research on marine populations, communities and ecosystems is not supported by LTREB and should be directed to the Biological Oceanography Program: ( https://www.nsf.gov/funding/opportunities/biooce-biological-oceanography ). However, research that examines the evolutionary dynamics of marine populations or communities will be accepted. Investigators who are uncertain about the suitability of their research for LTREB are strongly encouraged to contact the managing Program Officers listed in this solicitation.
+
+Essential components of an LTREB proposal must include:
+
+Decadal Research Plan : Proposals must pose questions that require long-term data collection of variables directly relevant to the proposed hypotheses. Investigators must present a research plan that spans ten years. This plan should clearly articulate important questions that cannot be addressed with data that have already been collected but could be answered if ten additional years of data were collected. It is not a research timeline or management plan. It is a concise justification for ten additional years of support in order to advance understanding of key concepts, questions, or theories in environmental biology. The decadal plan is a critical component of an initial 5-year proposal, and questions or hypotheses outlined in this framework must guide any subsequent renewal.
+
+Core Data: LTREB proposals require preliminary data on a particular phenomenon or process for at least 6 years up to the present (within 1-2 years of the present) and for long enough to generate a contemporary time series that contains at least 6 consecutive data points for each response variable and sampling site included in the proposal. The data must be collected by the research team. Consecutive measures must be collected on a regular frequency (e.g. on a yearly basis, collected once every two years or collected once every five years) appropriate to the phenomenon or process being studied. These data constitute Core Data on which the proposed project is based. Analysis of these data should generate new questions on the same phenomena or processes; these questions provide the basis for LTREB support. Gaps or breaks in data collection compromise analyses of time series data. Time series that include significant or repeated gaps in data collection do not meet LTREB criteria. Proposals that do not meet these requirements will be returned without review.
+
+New research activities such as the addition of new sites or the initiation of a new manipulation can be proposed with the following conditions: these activities cannot compromise continued collection of the core data that form the basis for the research and must clearly improve the ability to answer questions that arise from analyses of the Core Data. An example is the initiation of a new, short-term experiment to reveal mechanisms responsible for observed, longer-term trends.
+
+Questions concerning the appropriateness of an existing data set as the basis for an LTREB proposal or of new research activities should be discussed with the cognizant NSF Program Officer prior to proposal development. The LTREB Program does not provide support solely for monitoring, for the analysis of long-term historical data, or for the continuation of an ongoing study that is not question- or hypothesis-driven.
+
+LTREB Renewals
+
+To implement the decadal time frame for LTREB projects, and following an initial 5-year LTREB award, renewal proposals for a second, 5-year period will be accepted. The additional criteria for a renewal proposal, described in Section V, must be included in the project description. Instructions for writing a renewal proposal are provided in Section V, below. Renewal proposals will be evaluated using review criteria described in Section VI of this solicitation. Renewal proposals should be submitted early in the fifth year of the existing award.
+
+Special Categories
+
+Research in Undergraduate Institutions (RUI): LTREB RUI proposals should comply with the instructions in the LTREB solicitation, include the required RUI documentation and be submitted to the current RUI solicitation . If the proposal is collaborative involving multiple institutions, only the undergraduate institution(s) should submit to the RUI solicitation. Other institutions should submit to this LTREB solicitation. Additional information on the scope of RUI projects and the additional, specific content and format requirements of those proposals can be found at https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5518&org=NSF&sel_org=NSFW&from=fund . Please note: Proposals from RUI-eligible institutions are not required to submit through the RUI solicitation.
+
+Review Process
+
+LTREB proposals will receive ad hoc review and/or panel review at the discretion of the program as described in Section VI of this Solicitation.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 10
+
+per year (Inclusive of New and Renewal awards)
+
+Anticipated Funding Amount: $6,000,000
+
+per year, pending availability of funds
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research labs, professional societies and similar organizations in the U.S. associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or Co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

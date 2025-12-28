@@ -16,3 +16,112 @@ Status: Cleared
 Posted date (Y-m-d): 2023-11-06
 URL: https://www.nsf.gov/funding/opportunities/ires-international-research-experiences-students/nsf24-506
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+International Research Experiences for Students (IRES)
+
+I. Introduction
+
+Science and engineering research increasingly requires international teams to solve the most complex challenges. Accordingly, leading scientific and engineering facilities, resources, and expertise are distributed around the globe. To remain at the forefront of science, technology, engineering, and mathematics (STEM), the United States must train and nurture a cadre of globally engaged STEM students who will thrive in the rapidly changing international landscape. To advance this objective and enhance U.S. leadership in science research, education, and innovation, the International Research Experiences for Students (IRES) program provides mechanisms to support U.S. students to conduct cutting-edge scientific research and engage in high-quality research-related professional development activities abroad, in collaboration with foreign investigators.
+
+IRES projects contribute to the development of a globally competitive and diverse scientific workforce to increase U.S. economic competitiveness. IRES experiences expose U.S. students to the international research community at a critical stage in their careers and serve to establish international networks to bolster their professional development. IRES supports activities designed in partnerships with researchers outside the U.S. and conducted at international sites, leveraging U.S. and international resources for mutual benefit.
+
+The IRES program accepts proposals in any disciplinary field that NSF supports. Topics in multi-disciplinary and convergent areas of science research, training and professional development are encouraged. The IRES program strengthens the pipeline from undergraduate to graduate levels and beyond. In addition, K-12 teachers may take part in IRES Sites projects through the NSF Research Experience for Teachers (RET) program. IRES projects are organized and proposed by U.S. organizations and U.S.-based Principal Investigators who choose the topics and foreign site placements, arrange appropriate foreign mentorship and necessary resources, and recruit and prepare U.S. students to participate in the experiences.
+
+There is a growing body of literature on ways to recruit students and design effective programs for international STEM engagement at the undergraduate and graduate level. PIs are encouraged to explore relevant literature and utilize those resources in their proposals.
+
+II. Program Description
+
+IRES projects may involve collaboration within an already-established partnership between a U.S.-based research group and a foreign research group (e.g., an existing lab-to-lab arrangement, U.S. and foreign professional societies, etc.). Alternatively, IRES projects may propose to initiate new international collaborations, or create new international research teams/networks.
+
+Although two-way exchanges of U.S. and foreign students are strongly encouraged, the IRES program provides support only for the U.S. team. The IRES program does not provide salary support for the foreign research mentors, although it supports research and related logistical and other expenses for the U.S. team while in an international location. IRES PIs are welcome to organize exchange visits by foreign students and collaborators, but those expenses cannot be part of the IRES budget.
+
+PIs are responsible for arranging required visas and other travel documents for foreign travel and obtaining research permits and import/export documents, where necessary.
+
+In all cases, the IRES students/participants will be recruited and trained by the U.S. PI(s). Students/participants will travel to the foreign site to conduct scientific research, participate in training and professional development activities under direct supervision of the foreign research mentor(s). It is expected that a different group of students will participate in the IRES program each year. Active collaboration with the international partner in implementing the project is essential. PIs should consider ways to extend collaboration beyond the international trip, to include on-going engagement of students/participants in planning and synthesis of research and educational activities before and after travel to the foreign site.
+
+Three years is the typical duration of IRES awards; however, a duration of up to 5 years may be supported in some cases if well-justified.
+
+IRES proposals must have a unifying scientific research theme that enables a cohort experience for participating undergraduate and/or graduate students to collaborate with international partners. The cohort concept requires that within an IRES project, each participating student must have an individual research project for which they are responsible. Individual student projects must be coordinated to address the unifying research theme. To provide the best cohort experience and to simplify logistical burdens, it is suggested that all students supported by a given IRES project travel to the foreign location(s) at the same time. However, well-justified alternative approaches will be considered. If students are to be hosted at more than one location, it is expected that their projects will address a common scientific theme across locations. The proposal should include a plan for all participants to be reunited at one foreign location at least once during the overseas trip.
+
+IRES proposals should support separate cohorts of students each year and give as many students as feasible, within budgetary constraints, the opportunity for a meaningful scientific research experience abroad. Proposals that include fewer than five U.S. students per year, or whose annual duration of research conducted abroad is less than four weeks, should be justified by exceptional conditions or circumstances. Longer duration and/or more students are generally preferable to shorter duration proposals with fewer students.
+
+OISE realizes that the IRES program's goals can be achieved in many different ways, Hence, in addition to the IRES Sites model of faculty-led student cohorts performing scientific research under the mentorship of a foreign researcher, the IRES program welcomes proposals with creative, innovative, and ambitious ideas and concepts to address the IRES goals and objectives. These may include but are not limited to fundamentally new ways to prepare and train a globally-engaged STEM research workforce; relevant workshops; advanced studies institutes for graduate students and/or science teachers; original concepts and mechanisms to maximize impact of the international collaborations; ideas, platforms, or technologies leading to resilient enduring collaborative teams or networks; virtual/hybrid research-relevant events; extended pre-and post-trip activities using virtual collaboration platforms; creative ways to incorporate graduate students into the program even if they cannot travel for the entire duration of the project; or other well-designed activities developed by the PI team. PIs interested in submitting such proposals should contact the cognizant IRES Program Directors with a 2-page white paper to discuss appropriateness of the proposed activities and feasibility of the required budget before developing the full proposal.
+
+Substantial research mentorship must be provided by foreign mentors. The U.S. PI is responsible for recruiting and preparing U.S. student participants, ensuring the quality of the research experience, and the appropriateness of the foreign research mentorship. It may be necessary for U.S. PIs to spend a short period of time with the U.S. students to help with the transition to the foreign site and mentors. U.S. PIs are not required to remain on-site with the U.S. students throughout the period abroad but are encouraged to use remote means to co-mentor.
+
+In all cases, proposals must clearly describe the plan for recruiting a full spectrum of student talent in STEM, including how the planned activities will broaden participation in STEM. Recruitment of the U.S. student participants may occur locally, or may involve wider regional or national recruitment plans, as appropriate for the specific project. The plan should also address the process for selecting and preparing the students who will participate. The IRES program can only support students who are U.S. citizens, nationals, or permanent residents. The intent of the program is to broaden the international experience of U.S. students. Preparation of the students to enable maximum benefit during the period spent abroad is particularly important, and should be both scientific and location-specific, including practical and socio-cultural information about the host country. The IRES program budget does not support coursework or development of instructional /teaching materials.
+
+Proposals should describe the scientific research focus of the proposed activity; the intellectual collaboration with and mutual benefit for the foreign team; the plan for enhancement of student training and professional development; details of the mentoring plan; recruitment and broadening participation plans; selection process; the pre-departure preparation of students and follow up activities; arrangements for housing, stipends, health insurance, and other logistics; plans for leveraging U.S. and foreign resources to strengthen the project; the plan to assess the impact of the IRES project; and strategies for disseminating project results. PIs are encouraged to describe how they will use virtual, hybrid or alternative approaches to augment student preparation and follow-up and to facilitate continued international collaboration in the event travel plans are interrupted.
+
+Research Experiences for Teachers (RET)
+
+NSF encourages research experiences for K-12 teachers of science, technology, engineering, and mathematics and the coordination of these experiences with IRES projects. Teachers may be included in IRES projects as part of the cohort. Proposers who wish to include an RET in an IRES proposal should contact the cognizant IRES program officer for guidance.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 20 to 25
+
+Approximately 20-25 awards will be made in FY 2024, pending quality of proposals and availability of funds.
+
+Anticipated Funding Amount: $12,000,000
+
+Approximately $12,000,000 in FY 2024, pending availability of funds. Up to $150,000 per year, for a maximum of 5 years, including indirect costs. A typical IRES project is for three years. However, longer duration projects up to 5 years will also be considered.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members.
+
+Who May Serve as PI:
+
+All PIs, Co-PIs and Senior Personnel on IRES proposals must be from U.S. based organizations. Foreign collaborators cannot be listed as PIs, Co-PIs or Senior Personnel.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+An individual may serve as Principal Investigator (PI) or co-PI on only one proposal submitted to the IRES program per annual competition.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

@@ -12,3 +12,194 @@ Status: Cleared
 Posted date (Y-m-d): 2023-03-22
 URL: https://www.nsf.gov/funding/opportunities/arctic-research-opportunities/nsf23-572
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Arctic Research Opportunities Arctic Natural Sciences; Arctic Social Sciences; Arctic System Science; Arctic Observing Network; Polar Cyberinfrastructure; Arctic Research Coordination and Policy Support
+
+I. Introduction
+
+The Arctic Sciences Section (ARC) in the Office of Polar Programs (OPP), within the Geosciences Directorate, funds scientific research about the Arctic region and provides operational support for Arctic research activities. Science programs provide support for disciplinary, multidisciplinary, and convergence investigations directed at understanding the Arctic region and its connectivity with lower latitudes.
+
+A geographic definition of the Arctic region is provided by the United States Arctic Research and Policy Act (ARPA) of 1984 Section 112 . Because this solicitation includes research on phenomena that link the Arctic to lower latitudes, the ARPA definition should not be viewed as strictly constraining the location of the work proposed. Proposals conducting research outside the Arctic geographic region should contain a clear statement of how the proposed research will increase knowledge of the Arctic.
+
+II. Program Description
+
+The Arctic Sciences Section solicits proposals for research to enhance understanding of the Arctic, from advancing fundamental disciplinary understanding of important Arctic processes to complex interdisciplinary studies of couplings among social, biological, physical, and geochemical components of the Arctic system to the changing connections between the Arctic and lower latitudes. Of special interest is research focused on understanding processes relevant to social and environmental change. All proposals should discuss explicitly how their results would contribute to increasing our understanding of the Arctic region or its interaction with global systems. Proposals must fit the aims of one of the following programs and may be co-reviewed as appropriate:
+
+Arctic Social Sciences
+
+The Arctic Social Sciences Program (ASSP) supports research on Arctic social and cultural systems, present and past, and research relevant to understanding these systems. ASSP welcomes research proposals in all social science disciplines that are funded by the NSF Directorate for Social, Behavioral and Economic Sciences . Topics of particular interest are outlined in the final report for the Arctic Horizons process and the federal Arctic Research Plan 2022-2026 . Research priorities include:
+
+Past and present drivers of socio-economic change in the Arctic convergent research on socio-ecological systems
+
+Migration and demography
+
+Community health and well-being
+
+Food, water, and energy security
+
+Sustainable development
+
+Globalization
+
+International relations
+
+Innovations in data curation, management, sharing, discoverability, and access, including those contributing to synthesis science
+
+The Arctic Social Sciences Program especially encourages projects that are circumpolar and/or comparative; involve collaborations between researchers and those living in the Arctic; or form partnerships among disciplines, regions, researchers, communities, and/or students (K-12, undergraduate, or graduate). The program is interested in Indigenous scholarship and Indigenous knowledge, community-based participatory research, and knowledge co-production.
+
+Arctic Natural Sciences
+
+The Arctic Natural Sciences (ANS) program supports novel and creative research focused on disciplinary and/or interdisciplinary investigations to advance understanding of Arctic processes, including how those processes are shifting in a rapidly changing Arctic. The program encourages proposals that test hypotheses leading to new understanding of the Arctic, including those that synthesize and analyze existing data. Areas of interest include Arctic marine and terrestrial ecosystems, terrestrial hydrology, atmospheric and oceanic dynamics and climatology, and glaciological processes. Proposals may be co-reviewed with other programs at NSF, as appropriate. Where ANS participates in cross-Agency competitions, such as the Paleo Perspectives on Present and Projected Climate program, proposals should generally be submitted directly to these competitions rather than to ANS. If there is doubt as to the appropriate destination for a proposal, prospective PIs are encouraged to contact the ANS program officers prior to submission. If PIs would like to include an REU student in a project, the program requests that it be included in the original proposal. Supplements for REU students will be granted on a more limited basis.
+
+Arctic System Science
+
+The Arctic System Science (ARCSS) program supports projects that study systems of the Arctic operating at multiple temporal and spatial scales, systems that can inform our understanding of Arctic processes, and the relationship of Arctic systems to other global and regional systems. For ARCSS, the "Arctic system" is defined very broadly to encourage creative proposals. PIs should ask themselves if their work addresses interactions among several components of the Arctic system, explores emergent behavior in linked subsystems, or otherwise provides essential knowledge, and they should apply that knowledge to system-level understanding.
+
+ARCSS projects are often but not always interdisciplinary and can focus on the relationships among physical, chemical, biological, geological, ecological, social, cultural, and/or economic processes. ARCSS welcomes proposals focusing on the cycles of carbon, water, and energy in the functioning of Arctic systems, as well as the relationship of these cycles to human and social processes occurring in the Arctic. ARCSS also accepts proposals that contribute to better understanding of the interactions and feedbacks between humans and the environment. Theoretical and methodological approaches can include (but are not limited to) political ecology, historical ecology, human eco-dynamics, food security, resilience theory, Indigenous and local knowledge, socio-ecological systems, coupled natural human systems, risk and vulnerability studies, ecosystem services, and sustainability studies. ARCSS also encourages projects aimed at creating new knowledge through synthesis of published science, reports, and previously collected data to better understand the Arctic system at multiple scales.
+
+Arctic Observing Network
+
+The Arctic Observing Network (AON) program supports proposals to make field observations to detect and understand Arctic change occurring on time scales longer than the duration of a typical NSF research grant. These projects should address major drivers and/or impacts of change and generate data that are intended for wider use by the scientific research community in understanding the changing Arctic. Proposals to develop new sensors/sensing platforms and/or to design/optimize observing strategies will also be considered. To promote broader use, AON data must promptly be made public (see Office of Polar Programs Data Management policy, NSF 22-106 for specific requirements). Data analysis may be included as part of the proposed work. Proposals may be single investigator or collaborative and include up to 5 years of observations. Continuation of observations beyond 5 years requires a successful new proposal that must demonstrate use of the previously collected data by the scientific research community.
+
+Polar Cyberinfrastructure
+
+The Polar Cyberinfrastructure program considers proposals that promote effective collaboration between Polar and cyberinfrastructure researchers. The Arctic Sciences Section will support proposals that provide significant benefit to the Arctic research community including (i) cost-effective transfer of data from remote field locations; (ii) long-term sustainable curatorship, standardization, management and discovery of data and metadata; (iii) visualization, manipulation, and analysis, particularly for understanding complexity; (iv) access and interoperability across scientific disciplines; (v) promotion of effective use of High Performance Computing (HPC) for direct and sustainable advances in current Arctic research; and (vi) e-learning and educational tools based on cyberinfrastructure components. Proposals that establish or enhance Virtual Organizational resources for Arctic research, and its broader impacts, are also encouraged. The Program works collaboratively with NSF's Office of Advanced Cyberinfrastructure and NSF's GEO Cyberinfrastructure group for reviewing and funding purposes.
+
+Arctic Research Coordination and Policy Support
+
+The Arctic Research Coordination and Policy Support (ARCPS) Program supports short- and long-term efforts to enhance communication, coordination, and collaboration across the research enterprise, which includes:
+
+communication, coordination, and collaboration within the Arctic research community
+
+communication, coordination, and collaboration between the Arctic research community and interested parties, such as northern residents, policy makers, the general public, and industry
+
+Efforts to coordinate within the Arctic research community tend to be ones that cut across the Arctic Section disciplinary portfolio, focusing on:
+
+the NSF-funded community
+
+US federal interagency efforts where NSF plays a leadership role
+
+partnerships between the US research community and their international counterparts
+
+Successful ARCPS proposals are expected to promote new, diverse, and integrative research communities that are capable of effectively conducting and communicating research on local, regional, and global science and policy topics to enhance our understanding of the Arctic. Projects are expected to build capacity and develop approaches to synthesize results that inform policy development and/or management decisions. These efforts, in turn, will support national goals for Arctic research, including enhancing the wellbeing of Arctic residents; advancing stewardship of the Arctic environment; strengthening national and regional security; and improving our understanding of the Arctic as a component of the Earth system.
+
+Another key goal is to support communication, coordination, and collaboration among interested parties of Arctic research, including the Arctic research community and the public, including fostering partnerships with northern communities, especially Indigenous communities. These efforts may involve (but are not limited to):
+
+planning efforts designed to develop research questions and projects in partnership with interested parties, allowing for robust co-production of knowledge with local and Indigenous peoples and organizations
+
+exploration of new collaborations with potentially interested parties
+
+consulting activities to ensure research is not disruptive to northern residents and their livelihoods, including subsistence activities
+
+Investigators must contact cognizant Program Officers to discuss the suitability of proposals prior to submission to ARCPS.
+
+Types of Proposals Accepted
+
+The Arctic Sciences Section supports research proposals and other activities that can be submitted in line with the Programs above. The Arctic Sciences Section accepts proposal types described in the PAPPG (including but not limited to Conference, Planning, Research Coordination Networks, RAPID, and EAGER proposals) in addition to the specific proposal types listed here:
+
+General Arctic Science proposals The Arctic Sciences Section encourages the submission of research proposals, either single investigator or collaborative, for research that involves field observations, process studies, modeling, synthesis, and other efforts to further our understanding of the Arctic. We anticipate that most proposals submitted in response to this solicitation will fall in this category.
+
+Research Networking Activities (RNAs) RNA awards support collaboration by groups of investigators to aggregate research results across disciplinary, organizational, or international boundaries. Such proposals may support activities such as synthesis of research results, inter-comparison of existing data or models, developing networks of connections among existing research projects, exploration of new theory and efforts to establish best practices for data collection, observations, models, or data management. RNAs support efforts that are more complicated and larger in scope than are appropriate for a Research Coordination Network (RCN) ; for example, RNA activities might include modeling and large-scale data analysis that are beyond the budgetary scope of RCNs. RNAs are encouraged to engage, as appropriate, with international partners that have funding from their own sources and with activities, centers and networks supported by other federal agencies, state, local, or tribal governments or the private sector. Proposals should identify an initial network of likely participants, but there should be mechanisms identified to maintain openness and promote participation in the proposed network by interested parties outside of the initial group. The inclusion of new researchers, post-docs, graduate students, and undergraduates is strongly encouraged. Proposals should present a clear management plan that includes a description of the roles and responsibilities of the PIs and a steering committee. Mechanisms for assessing progress and the effectiveness of the networking activities should be part of the management plan. RNA projects may be up to 5 years in duration. Proposers are strongly encouraged to discuss plans with the cognizant program officer prior to submission.
+
+RNAs support efforts that are more complicated and larger in scope than are appropriate for a Research Coordination Network (RCN) ; for example, RNA activities might include modeling and large-scale data analysis that are beyond the budgetary scope of RCNs. RNAs are encouraged to engage, as appropriate, with international partners that have funding from their own sources and with activities, centers and networks supported by other federal agencies, state, local, or tribal governments or the private sector.
+
+Large Project Support (LPS): ARC supports the development of large, complex projects that may require significant planning and coordination among large groups of investigators and/or the development of agreements between interagency or international partners. NSF recognizes that such projects often succeed through sustained efforts of a community coalescing behind a core leadership group that may require support through development, design, and eventual implementation. The Large Project Support (LPS) mechanism is intended to provide support for such projects. Generally, projects proposed through the LPS mechanism would involve three stages: (a) conceptual development, (b) project planning, and (c) project implementation, as described below: Conceptual Development: ARC will support conceptual development, often through a community workshop or workshops. First, the interested group should send to a cognizant ARC program officer a brief document summarizing the approach to conceptual development. ARC program officers will contact the interested group to discuss the idea and provide guidance for the next steps. Workshop proposals should follow the guidance for Conference Proposals in Chapter II.F.9 the PAPPG , including the need for workshops to be broadly advertised, include meaningful participation from young investigators and local communities, address dependent care options as appropriate, and develop and require attendees to adhere to a code of conduct. The "Conference" type of proposal should be selected. Project Planning: If the project requires further detailed planning before research projects can be proposed, ARC may support a planning grant. The grant may support workshops, the development of white papers, and other activities to: Foster the development of a science plan describing the science goals and an implementation plan outlining a project management structure, a project schedule, and necessary resources; Provide time to develop, align, or schedule resources; Enable the provision of planning information need to coordinate actions by national and/or international funding entities; and Support an individual or group to lead the Project Planning phase. NSF will review the science and implementation plan documents and decide whether to encourage proposal submissions for the Implementation Stage. Implementation Stage: The Implementation Stage of a large project is typically best supported by a coordinated set of proposals. This would usually comprise a coordinating proposal plus a number of contributing research proposals . The coordinating proposal would include (a) science goals and objectives, (b) a detailed concept of operations plan (logistics, project coordination, etc.), and (c) support for a project coordination office; this proposal would provide support for the project lead and their team. Each of the research proposals would describe the plan to implement one or more major components of the overall project, including logistics and other support needed to carry out that component.
+
+Conceptual Development: ARC will support conceptual development, often through a community workshop or workshops. First, the interested group should send to a cognizant ARC program officer a brief document summarizing the approach to conceptual development. ARC program officers will contact the interested group to discuss the idea and provide guidance for the next steps. Workshop proposals should follow the guidance for Conference Proposals in Chapter II.F.9 the PAPPG , including the need for workshops to be broadly advertised, include meaningful participation from young investigators and local communities, address dependent care options as appropriate, and develop and require attendees to adhere to a code of conduct. The "Conference" type of proposal should be selected.
+
+Project Planning: If the project requires further detailed planning before research projects can be proposed, ARC may support a planning grant. The grant may support workshops, the development of white papers, and other activities to: Foster the development of a science plan describing the science goals and an implementation plan outlining a project management structure, a project schedule, and necessary resources; Provide time to develop, align, or schedule resources; Enable the provision of planning information need to coordinate actions by national and/or international funding entities; and Support an individual or group to lead the Project Planning phase. NSF will review the science and implementation plan documents and decide whether to encourage proposal submissions for the Implementation Stage.
+
+Foster the development of a science plan describing the science goals and an implementation plan outlining a project management structure, a project schedule, and necessary resources;
+
+Provide time to develop, align, or schedule resources;
+
+Enable the provision of planning information need to coordinate actions by national and/or international funding entities; and
+
+Support an individual or group to lead the Project Planning phase. NSF will review the science and implementation plan documents and decide whether to encourage proposal submissions for the Implementation Stage.
+
+NSF will review the science and implementation plan documents and decide whether to encourage proposal submissions for the Implementation Stage.
+
+Implementation Stage: The Implementation Stage of a large project is typically best supported by a coordinated set of proposals. This would usually comprise a coordinating proposal plus a number of contributing research proposals . The coordinating proposal would include (a) science goals and objectives, (b) a detailed concept of operations plan (logistics, project coordination, etc.), and (c) support for a project coordination office; this proposal would provide support for the project lead and their team. Each of the research proposals would describe the plan to implement one or more major components of the overall project, including logistics and other support needed to carry out that component.
+
+ARC would review these proposals in a single panel and may conduct site visits if appropriate. ARC may work with the project leadership to coordinate with interagency and/or international partners as needed. The decision on whether to advance the entire project would be made following review of the coordinated set of proposals and would depend on ARC's assessment of the potential to meet the overall goals of the project.
+
+ADDITIONAL OPPORTUNITIES
+
+Other NSF Funding Opportunities
+
+Consult the NSF online program guide to browse for funding opportunities ( https://www.nsf.gov/funding/browse_all_funding.jsp ).
+
+Education and Outreach Activities: Investigators who wish to propose projects that are primarily education and outreach efforts are encouraged to contact the Polar Education Liaison, and to submit proposals to other solicitations in the Directorate for Geosciences, such as Pathways into the Earth, Ocean, Polar and Atmospheric & Geospace Sciences ( GEOPAths ) and Cultural Transformation in the Geoscience Community (CTGC) , and to the Directorate for STEM Education Resources as detailed in the NSF 19-086, Dear Colleague Letter: Support for Engaging Students and the Public in Polar Research .
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant
+
+Estimated Number of Awards: 75 to 80 per year, pending availability of funds.
+
+Anticipated Funding Amount: $50,000,000 per year approximately, pending availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+Tribal Governments: The governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a, et seq.)
+
+Foreign organizations: For cooperative projects involving U.S. and foreign organizations, support will only be provided for the U.S. portion.
+
+Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs): Contact the appropriate program before preparing a proposal for submission.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

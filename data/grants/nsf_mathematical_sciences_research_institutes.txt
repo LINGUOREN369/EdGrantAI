@@ -9,3 +9,138 @@ Status: Cleared
 Posted date (Y-m-d): 2023-07-18
 URL: https://www.nsf.gov/funding/opportunities/mathematical-sciences-research-institutes/nsf23-606
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Mathematical Sciences Research Institutes
+
+I. Introduction
+
+The Division of Mathematical Sciences (DMS) of the National Science Foundation (NSF) supports a number of research institutes in the mathematical sciences. The goals of the Mathematical Sciences Research Institutes program include advancing research in the mathematical sciences, increasing the impact of the mathematical sciences in other disciplines, and expanding the talent base engaged in mathematical research in the United States. Institutes have proven to be an effective means of achieving these goals. Two institutes were established in 1980; since then, the portfolio of Mathematical Sciences Research Institutes has evolved, and DMS now supports several U.S.-based institutes. Further information about DMS-supported institutes is available through the web site http://www.mathinstitutes.org/ .
+
+Mathematical Sciences Research Institutes are large-scale projects that collectively have several important impacts:
+
+Institutes advance research in the mathematical sciences, encourage research that is timely and potentially transformative, and assist rapid and broad dissemination of new ideas;
+
+Institutes focus effort and excellence in the mathematical sciences, operating on a national scale to reach across the mathematical disciplines, to explore emerging frontiers of those disciplines, and to engage with scientific opportunities in other fields;
+
+Institutes provide intellectual infrastructure for research collaborations within the mathematical sciences and at the interface of the mathematical sciences and other disciplines;
+
+Institutes increase the impact of the mathematical sciences in other disciplines by sponsoring interdisciplinary activities and enhancing synergistic approaches to significant scientific problems;
+
+Institutes provide opportunities for students and postdoctoral fellows to interact with leading researchers;
+
+Institutes support the exchange of information with business, industry, government, and national laboratories, providing access to expertise in the mathematical sciences;
+
+Institutes demonstrate leadership in promoting broad participation in the mathematical sciences enterprise;
+
+Institutes provide opportunities for outreach to the scientific community and the public at large;
+
+Institutes play an important role in fostering international collaborations.
+
+The mathematical sciences have gone through a period of spectacular growth and excitement. New ideas have been developed within the discipline and some significant long-standing open problems have been solved. At the same time, the mathematical sciences have been embraced as an enabling technology in many areas of application, from the physical sciences and engineering to the life sciences and artificial intelligence technologies. The Mathematical Sciences Research Institutes have played an important role in these developments, and this role is expected to grow.
+
+The Division of Mathematical Sciences invites proposals for projects that contribute to this important, influential activity. This competition welcomes new projects from U.S. sites as well as renewal proposals from any of the U.S.-based institutes that have had previous funding from NSF. The Division of Mathematical Sciences intends that awards resulting from this competition will be five-year continuing grants and that renewal proposals following those awards may be submitted to the next competition in this series, circa FY 2029.
+
+II. Program Description
+
+The Division of Mathematical Sciences (DMS) of the National Science Foundation (NSF) seeks proposals for Mathematical Sciences Research Institutes that will advance research in the mathematical sciences, increase the impact of the mathematical sciences in other disciplines, and expand the talent base engaged in mathematical research in the United States. DMS is particularly interested in proposals that are creative, demonstrate vision, and involve the fullest spectrum of the mathematical sciences appropriate to the proposed institute's mission.
+
+The structure of a proposed institute is unspecified. The Division of Mathematical Sciences encourages prospective applicants to consider the structure of the Mathematical Sciences Research Institutes currently supported by the Division and, where appropriate, to propose alternative structures that complement the existing ones and increase the potential to transform the mathematical sciences landscape.
+
+The following considerations should inform the proposed activity.
+
+National Resources
+
+While hosting a DMS research institute confers benefits on a hosting organization, DMS intends research institute activity to be first and foremost a service to the mathematical sciences community as a whole. Proposals centered on the interests or advancement of a particular institution are not appropriate for the Mathematical Sciences Research Institutes program.
+
+Mathematical Sciences Research Institute activities are expected to involve the mathematical sciences community on a national, if not international, scale. Institute activities should reflect broad community involvement, not only in participation but also in genesis of programmatic activities. Institute programs must be open to applications from members of the entire relevant constituency across the nation. Proposals should include detailed plans to recruit and involve participants from a wide range of institution types, demographic types, and career seniority. Proposals should include description of an explicit mechanism for selection of program organizers and program participants that is open and aims to reflect such balance.
+
+It is expected that institute activity will be subject to direction and oversight by distinguished governing boards. Such governing boards must be constituted broadly, with membership across the relevant community, and proposals should describe the mechanisms by which governing boards will be appointed and through which oversight will be conducted.
+
+DMS particularly values the research institutes for their ability to reach a much wider community of U.S. mathematical scientists than those directly supported by DMS through its Individual Investigator grant programs. Proposed projects should include explicit mechanisms to ensure the participation and support of U.S.-based mathematical scientists without other sources of grant support.
+
+While institute programs will often naturally involve foreign participants, the bulk of DMS funding for participants in institute programs is expected to support U.S.-based participants, reflecting the investment of U.S. federal funds in Mathematical Sciences Research Institutes.
+
+Workforce Development
+
+While institute activities are expected to center on advancing research in the mathematical sciences and related fields, the Mathematical Sciences Research Institutes also play a significant role in the training through research involvement of the next generation of mathematical scientists. Proposals should include plans for the involvement of students and postdoctoral associates in institute activities, as appropriate.
+
+Knowledge Dissemination and Outreach
+
+It is anticipated that Mathematical Sciences Research Institute activities will catalyze new discoveries. To enhance this process of discovery, institutes are expected to disseminate outcomes of programmatic activities, and proposals should include plans for such dissemination. In addition to their primary goals in research advancement and workforce development, Mathematical Sciences Research Institutes can provide unique and highly visible venues for outreach to the general public as well as to the scientific community broadly, and proposals should include ideas for potential outreach activities.
+
+Evaluation and Reporting
+
+Projects on the scale of Mathematical Sciences Research Institutes call for regular, ongoing evaluation to monitor and evaluate progress in meeting goals, to provide feedback, and to suggest potential changes and improvements. Mathematical Sciences Research Institute awards are subject to specific reporting requirements about the programmatic activities and the participants involved. In addition, proposals should describe plans for formative evaluation during the course of the institute activities and for summative evaluation of progress toward the institute's goals.
+
+In short, a proposal should describe the vision for the proposed institute as a national resource; the challenges motivating this vision; and the rationale for an institute to address these challenges. It should define the mission and goals of the proposed institute; describe how these goals will be achieved, together with appropriate measures to evaluate progress toward these goals; and make a compelling case for the institute's national scope and anticipated impact on the mathematical sciences. It should indicate the governance and management structure of the proposed institute; describe the process of generating, selecting, and evaluating the activities of the proposed institute; and give criteria for the selection of participants and the allocation of funds. It should address the ways in which training of the next generation of mathematical scientists will be integrated with the research program of the proposed institute; and discuss plans for outreach activities and the dissemination of knowledge generated at the proposed institute.
+
+Proposals from existing institutes seeking renewal under this solicitation must describe both the institute's past accomplishments and its plans for future development.
+
+III. Award Information
+
+Anticipated Type of Award: Continuing Grant
+
+Estimated Number of Awards: 5 to 8
+
+Anticipated Funding Amount: $40,000,000
+
+Up to this amount will be initially available for this activity in FY 2025, subject to availability of funds and quality of proposals. Award amounts are anticipated to range from approximately $2.5 million per year to $6 million per year for up to five years.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Multi-institutional consortia are permitted, but a single entity must accept overall management responsibility.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

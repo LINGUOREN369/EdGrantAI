@@ -19,3 +19,116 @@ Status: Cleared
 Posted date (Y-m-d): 2024-01-12
 URL: https://www.nsf.gov/funding/opportunities/gcr-growing-convergence-research/nsf24-527
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Growing Convergence Research (GCR)
+
+I. Introduction
+
+Convergence research is a critical mechanism for solving many vexing research problems, in particular, those stemming from complex scientific challenges. The two primary characteristics of Convergence Research as defined by the GCR program are:
+
+Research driven by a specific and compelling problem. Convergence research is generally inspired by the need to address a specific challenge or opportunity, whether it arises from deep scientific questions or pressing societal needs.
+
+Deep integration across disciplines. As experts from different disciplines pursue common research challenges, their knowledge, theories, methods, data, research communities and languages become increasingly intermingled or integrated. New frameworks, paradigms or even disciplines can emerge from sustained interactions across multiple communities.
+
+From its inception, the convergence paradigm intentionally brings together intellectually diverse researchers and stakeholders to frame the research questions, develop effective ways of communicating across disciplines and sectors, and create and implement innovative convergence approaches for their solution.
+
+Convergence research is supported in many ways by the Programs of NSF. Cross-cutting initiatives in particular often place priority on convergence. Examples include NSF Science and Technology Centers , NSF Engineering Research Centers , Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science , Future of Work at the Human-Technology Frontier , Strengthening American Infrastructure , and many others. These programs depend on a research community with existing capacity for engaging in a convergent approach. Yet, for many specific and compelling problems in science and engineering, the capacity for doing convergence research is still developing. The focus of GCR is to facilitate the growth and development of the earliest foundations of new convergence research approaches to addressing specific and compelling problems. It is expected that this work will, over time beyond the duration of GCR award, feed into additional research at the forefront of science and engineering. This may occur, for example, through NSF's Convergence Accelerators , projects funded by other programs or solicitations, or establishment of centers or institutes supported by NSF or other funding agencies.
+
+II. Program Description
+
+This GCR solicitation is a call for proposals addressing complex problems that require convergence paradigms to catalyze scientific discovery and innovation at the nexus of disciplines, but in areas for which research communities and integrated approaches have not yet developed. Consistent with the two primary characteristics of convergence research, the problem motivating the research should be rooted in a specific societal and/or scientific challenge and the research strategy should embrace deep integration across multiple disciplines. Of particular interest are those problems and research strategies that have potential to grow new scientific areas and catalyze sustained interactions across research communities beyond the period of the award.
+
+This GCR solicitation targets integrated team research that crosses NSF Directorate or Division boundaries and disciplines and is currently not supported by other NSF programs or solicitations. Proposers must clearly identify which elements of different disciplines will be contributing to the convergence project and how the team plans to deeply integrate those elements. They must also make a convincing case that the research to be conducted cannot be supported by other NSF programs and solicitations, innovates at interdisciplinary intersections beyond existing approaches, and has potential to transform foundational scientific understanding. Proposals involving convergence in areas already covered by existing programs and solicitations will be returned without review. In determining the relationship between submitted proposals and existing programs, NSF will employ text analysis software and technical expertise of program directors across the foundation.
+
+The proposing team should be comprised of researchers from different disciplines that do not typically work together in the proposed research areas and are crucial to catalyze the proposed scientific discovery and innovation. Involvement as leads or partners is especially encouraged from investigators and institutions that would benefit from greater participation in the national research enterprise, such as primarily undergraduate institutions (PUIs), non-R1 IHEs, two-year colleges, minority-serving institutions (MSIs), and institutions within EPSCoR jurisdictions. Engagement of other stakeholders important for addressing the problem being studied is also encouraged. Depending on the specific problem, stakeholders may be from industry, non-profit, community, and governmental organizations; schools; and/or other non-academic entities. Each of the team members should demonstrate a readiness to engage in convergent science by committing time, effort, and intellectual expertise throughout the project.
+
+In shaping projects responsive to this call, proposers should articulate how they will intentionally bring together their research team and develop a convergent culture of discovery and communication. Proposals should specifically address the strategies that will be implemented to organize collaboration among project participants, promote team effectiveness, and advance convergent science processes and outcomes. In addition to discussing the input activities that will enable integration, proposals should also articulate the intended convergent outputs related to both intellectual merit and broader impacts.
+
+All project participants should recognize that readiness to engage in extensive interactions and conceptual and methodological integration is essential for the success of the project. New training and learning experiences for participants at all levels, most importantly for post-docs and graduate students, is also an essential component of a convergent culture.
+
+Important Program Characteristics
+
+Project funds should be used to grow new forms of deep integration across disciplines and conduct transformative research with high-impact potential. The proposed activities should be designed to fit the five-year timeframe. The proposal should explain how the project team will advance progress in developing the fundamental scientific or engineering understanding needed to address the specific societal and/or scientific problem that inspired the proposal. It should articulate what scientific and convergent outcomes are anticipated on two- and five-year time scales. It should also explain how the project may catalyze novel interactions beyond the project duration and new forms of scientific discovery within and across disciplines.
+
+Proposals must include the following:
+
+A description of a long-term scientific vision motivated by a specific societal and/or scientific problem;
+
+A rationale explaining proposal suitability for this solicitation and why the stated problem requires growing a new convergence research approach;
+
+Clear description of scientific or technical challenges and bottlenecks which if resolved have the potential to transform our foundational scientific understanding;
+
+A five-year research plan, divided into two phases (years 1-2 and years 3-5), that employs a novel convergence paradigm comprising deep integration across disciplines;
+
+A convergence management plan that outlines strategies and procedures for growing convergent science during the project and beyond and that articulates how progress will be assessed.
+
+Please refer to the proposal preparation instructions below for more detail on each of these items.
+
+III. Award Information
+
+Anticipated Type of Award: Continuing Grant
+
+Estimated Number of Awards: 6 to 10
+
+Anticipated Funding Amount: $16,000,000
+
+$16,000,000 pending availability of funds, to support Phase I of new awards and to support Phase II of projects started two years earlier which have shown exceptional progress.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+The PIs must hold full-time appointments in research or teaching positions at US-based campuses/offices of eligible organizations.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+A PI or a co-PI may participate in only one GCR project at a time. This includes currently funded projects and those currently under review. No PI or co-PI may participate in any role, such as researcher, consultant, co-PI or PI in any other GCR proposal currently under review. This eligibility constraint will be strictly enforced. If an individual is involved in more than one pending GCR project, the most recently submitted proposal will be returned without review. If an individual is already involved in an active GCR award, the newly submitted proposal will be returned without review. No exceptions will be made.
+
+Past PIs and co-PIs who are no longer supported by the program may participate in this open competition only if the proposed research topics or themes are substantially different from those they pursued with prior NSF GCR support. New proposals that simply extend the methods and intent of a past GCR award to a slightly larger scope or a new geographic area will be returned without review. In determining the relationship between submitted proposals and past awards, NSF will employ text analysis software and technical expertise of program directors across the foundation.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

@@ -12,3 +12,154 @@ Status: Cleared
 Posted date (Y-m-d): 2024-05-16
 URL: https://www.nsf.gov/funding/opportunities/epscor-research-infrastructure-improvement-program-focused/nsf24-573
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+EPSCoR Research Infrastructure Improvement: -Focused EPSCoR Collaborations (FEC)
+
+I. Introduction
+
+A. EPSCoR Mission and Goals
+
+The mission of EPSCoR is to enhance the research competitiveness of targeted jurisdictions (states, territories, and commonwealths) by strengthening STEM capacity and capability through a diverse portfolio of investments from talent development to local infrastructure. Through its programmatic goals, EPSCoR seeks to:
+
+Catalyze the development of research capabilities and the creation of new knowledge that expands jurisdictions' contributions to scientific discovery, innovation, learning, and knowledge-based prosperity;
+
+Establish sustainable STEM education, training, and professional development pathways that advance jurisdiction-identified research areas and workforce development;
+
+Broaden direct participation of diverse individuals, institutions, and organizations in the project's science and engineering research and education initiatives;
+
+Effect sustainable engagement of project participants and partners, the jurisdiction, the national research community, and the general public through data-sharing, communication, outreach, and dissemination; and
+
+Impact research, education, and economic development beyond the project at academic, government, and private sector levels.
+
+B. Criteria for Eligibility to Participate in the RII-FEC
+
+Eligibility to take part in this competition is based on the current table of EPSCoR eligible jurisdictions (see EPSCoR eligibility ). Only eligible organizations in EPSCoR eligible jurisdictions may take part in this competition.
+
+II. Program Description
+
+The primary driver for FEC investments is the need to build STEM-driven, inter-jurisdictional research collaborations with the potential to be nationally and internationally competitive. The Project Description should include a strong rationale for the collaboration and demonstrate that the partnership is designed to facilitate discovery and innovation in the focus area (detailed in the published biennial Dear Colleague Letter), which neither party could address as well, or as rapidly, alone. FEC projects are unique in their integration of researchers into collaborative teams across EPSCoR jurisdictions, and must develop a well-prepared, STEM-enabled workforce necessary to sustain research competitiveness.
+
+For NSF EPSCoR to achieve this vision, requires not only advancing the frontiers of science, engineering, and education but also ensuring that U.S. research is an inclusive enterprise that harnesses the talent of all sectors of American society.
+
+Therefore, the recruitment and/or development of early-career faculty, postdoctoral researchers, undergraduates, graduate students, and K-12 students, are critical in achieving this goal and must be an integral component of the proposed project.
+
+Over the long term, RII-FEC investments are expected to result in sustained improvements in research competitiveness, enabling EPSCoR investigators to successfully pursue significant opportunities of national and international importance in science and engineering research and education. It is expected that previous NSF and other federal agency investments will be leveraged and translated into advancing the understanding of the focus area. All proposals must clearly indicate the intended social impact, demonstrating how the project will benefit the community in the involved jurisdiction(s). Non-EPSCoR and international collaborations may be included, but no EPSCoR funds should be directed to these organizations
+
+Central to the success of the proposal is a clear demonstration that the collaboration is well-positioned to produce outcomes that cannot be obtained through the efforts of a team in a single jurisdiction working alone. The proposal must clearly identify the roles and contributions of each partner in the project, the anticipated increases in research capacity and competitiveness, the projected workforce development and educational plan and outcomes, and the benefits to the jurisdictions, the Nation, and society. It is expected that these collaborations be balanced, with participating jurisdictions each contributing to and benefiting from projects at levels that are appropriate to their capabilities.
+
+To ensure maximum impact of available programmatic funds, requests for RII-FEC funding must:
+
+Add significantly to the research capacity of the participating jurisdictions in the focus area;
+
+Contribute to the advancement of research and innovation in the focus area;
+
+Illustrate how the participating jurisdictions' research capacities will be positively impacted by the collaborative effort;
+
+Outline clear plans for the recruitment and/or development of the full spectrum of diverse talent in STEM as early-career faculty;
+
+Engage the full diversity of the participating jurisdictions' resources including two- and four-year colleges, Minority-Serving Institutions, and local and state industries in STEM workforce development;
+
+Include social and economic expertise to understand and assess the societal implications of the focus area, as detailed in the published biennial Dear Colleague Letter (DCL); and
+
+Present a sustainability plan for obtaining subsequent, sustained non-EPSCoR funding from federal, jurisdictional, or private sector sources.
+
+RII-FEC proposals are expected to be STEM-driven collaborations and the PI and co-PIs should all be active researchers in the research topic(s) of the proposal. Proposals should clearly explain how the proposed research, education, and workforce development activities will create or increase the capacity for the jurisdictions involved to participate in continued research. Proposals must include a timetable or strategic plan for achieving those goals, and/or a logic model with a clearly articulated theory of change that identifies appropriate indicators of progress towards the desired outcomes.
+
+Focus Area
+
+The RII-FEC focus area will be announced biennially through a DCL, found at this link: EPSCoR Program links .
+
+Broadening Impact
+
+EPSCoR's mission of enhancing the research competitiveness of targeted jurisdictions by strengthening STEM capacity and capability aligns with RII-FEC goals to "broaden the participation of diverse groups and institutions in STEM." By leveraging current and previous NSF substantial investments, as well as investments from other federal agencies, proposed projects are expected to create a significant and collective impact on targeted jurisdictions. Proposals submitted for RII-FEC competition could leverage already documented outcomes from any project(s) related to previous investments across multiple jurisdictions and collectively bring those outcomes together to address new opportunities that impact communities within the targeted jurisdiction(s). As a result, these projects are expected to create or establish a solid pathway towards benefiting and positively impacting the jurisdictions in concert with a diverse STEM workforce.
+
+Proposals must demonstrate understanding of societal impacts of the research problem by incorporating relevant community members, organizations and social scientists during project development, planning, and project design. By ensuring appropriate community engagement throughout the project lifecycle, RII-FEC projects will be better positioned to have positive societal impacts in their jurisdictions and beyond. These positive societal impacts may include community empowerment through collaborative problem solving for affected communities, training for community members in project related activities, and development of innovative educational plans, among others. It is expected that project teams will implement activities that build scientific knowledge, grow the scale of impact, and ground the research agenda with attention to societal implications. Additionally, proposals should include a vision for how the project will be sustained, and a description of plans for technology transfer and/or innovation, if applicable.
+
+Workforce Development
+
+To address the anticipated needs of the future workforce, projects should develop strong educational programs in the proposed research areas that can be implemented across institutions of higher learning in participating jurisdictions and directly contribute to building a skilled workforce in areas associated with the project focus. Additionally, STEM talent must be cultivated in populations traditionally underrepresented in STEM for jurisdictions to keep pace with changing workforce needs. Accordingly, proposals should include a strong commitment to building a diverse workforce. Involvement and mentoring of early-career faculty is required and a detailed mentoring plan that leverages national best practices for STEM mentoring is expected. More information on NSF's commitment to broadening participation can be found in NSF's Strategic Plan.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 12
+
+Anticipated Funding Amount: $12,000,000 to $18,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the quality of proposals and availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions or organizations in jurisdictions that meet the EPSCoR eligibility criteria.
+
+Institutions of higher education (PhD-granting and non-PhD-granting), acting on behalf of their faculty members, that are accredited in and have a campus in the United States, its territories, or possessions. Distinct academic campuses (e.g., that award their own degrees, have independent administrative structures, admissions policies, alumni associations, etc.) within multi-campus systems qualify as separate submission-eligible organizations. Campuses that plan to submit a proposal through the Sponsored Projects Office of other campuses or organizations should contact NSF to discuss eligibility as early as possible and at least six weeks before submitting such a proposal.
+
+Not-for-profit, non-degree-granting domestic U.S. organizations, acting on behalf of their employees, that include (but are not limited to) independent museums and science centers, observatories, research laboratories, professional societies, and similar organizations that are directly associated with the Nation's research or educational activities. These organizations must have an independent, permanent administrative organization (e.g., an office of sponsored research) located in the United States, its territories, or possessions, and have 501(c)(3) tax status.
+
+Tribal Governments with the governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a, et seq.) or Indigenous communities that are not recognized by the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a, et seq.).
+
+It is encouraged that the lead institution/organization or at least one collaborative partner be an institution from one of the categories below:
+
+Emerging Research Institutions as defined in 42 §USC 18901 as institutions of higher education with an established undergraduate or graduate program that have less than $50,000,000 in Federal research expenditures;
+
+Minority-serving institutions, as defined in 42 §USC 18901; and
+
+Primarily Undergraduate Institutions (PUIs), including two-year colleges, that award associate degrees, bachelor's degrees, and/or master's degrees in NSF-supported fields, but have awarded 20 or fewer Ph.D./D.Sci. degrees in all NSF-supported fields during the combined previous two academic years;
+
+Proposals may be submitted either as a collaborative from multiple organizations or one organization with support for collaborators requested as subawards.
+
+Who May Serve as PI:
+
+Principal Investigators of proposed RII-FEC projects must be affiliated with and employed by eligible organizations in EPSCoR jurisdictions.
+
+Each EPSCoR jurisdiction participating in a proposed project must be represented by a PI or at least one co-PI. The PI and co-PIs must all have research expertise relevant to the research being proposed.
+
+PIs and Co-PIs on current FEC (previously known as NSF EPSCoR RII Track-2 FEC) awards with end dates (including any No Cost Extensions) after October 31 of the year of submission are not eligible to submit proposals as a PI or Co-PI. However, an individual may serve as senior personnel on any number of FEC proposals or awards.
+
+Limit on Number of Proposals per Organization: 1
+
+An organization may only submit one proposal to the FEC competition as lead. However, an organization may serve as a non-lead in a collaborative submission or as subawardee on any number of additional proposals.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An investigator may serve as PI or Co-PI on only one FEC award at any given time. However, the investigator may serve as other Senior/Key Personnel on any number of FEC submissions or awards.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Submission of Letters of Intent is required. Please see the full text of this solicitation for further information.
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

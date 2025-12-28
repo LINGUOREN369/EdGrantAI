@@ -15,3 +15,156 @@ Status: Cleared
 Posted date (Y-m-d): 2019-07-31
 URL: https://www.nsf.gov/funding/opportunities/bio-reu-sites-bio-research-experience-undergraduates-sites/157200
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Research Experiences for Undergraduates (REU) Sites and Supplements
+
+I. Introduction
+
+Research Experiences for Undergraduates (REU) is a Foundation-wide program that supports active participation in science, engineering, and education research by undergraduate students. REU proposals are welcome in any of the research areas supported by NSF (see https://nsf.gov/funding ), including the priority areas and cross-cutting areas that NSF identifies on its website and in its annual Budget Request to Congress ( https://nsf.gov/budget ).
+
+The REU program seeks to expand student participation in all kinds of research — both disciplinary and interdisciplinary — encompassing efforts by individual investigators, groups, centers, national facilities, and others. It draws on the integration of research and education to attract a diverse pool of talented students into careers in science and engineering (including teaching and education research related to science and engineering) and to help ensure that these students receive the best education possible.
+
+This solicitation features two mechanisms for support of student research: REU Sites and REU Supplements .
+
+II. Program Description
+
+Research experience is one of the most effective avenues for attracting students to and retaining them in science and engineering and for preparing them for careers in these fields. The REU program, through both Sites and Supplements, aims to provide appropriate and valuable educational experiences for undergraduate students through participation in research. REU projects involve students in meaningful ways in ongoing research programs or in research projects specifically designed for the REU program. REU projects feature high-quality interaction of students with faculty and/or other research mentors and access to appropriate facilities and professional development opportunities.
+
+REU projects offer an opportunity to increase the participation of the full spectrum of the nation's diverse talent in STEM. Several million additional people — specifically, individuals from groups historically underrepresented in STEM fields — are needed for the U.S. science and engineering workforce to reflect the demographics of the U.S. population. (See the reports Vision 2030 [ https://nsf.gov/nsb/publications/vision2030.pdf ], The STEM Labor Force of Today [ https://ncses.nsf.gov/pubs/nsb20212/ ], and Diversity and STEM: Women, Minorities, and Persons with Disabilities [ https://ncses.nsf.gov/pubs/nsf23315/ ].) Reaching these "missing millions" is central to the nation's economic competitiveness and is a priority for NSF.
+
+Historically, the vast majority of REU participants have been junior- or senior-level undergraduates — students who have typically already committed to a major in science or engineering. So that the REU program can succeed in attracting students into science and engineering who might not otherwise consider those majors and careers, projects are encouraged to involve students at earlier stages in their college experience. Some REU projects effectively engage first-year and second-year undergraduates by developing partnerships with community colleges.
+
+NSF welcomes proposals that include efforts to broaden geographic and demographic participation in REU projects. Proposals involving experienced researchers at institutions in EPSCoR-eligible jurisdictions , minority-serving institutions, and emerging research institutions are encouraged.
+
+REU projects may be carried out during the summer months, during the academic year, or both.
+
+International REU Projects
+
+The REU program welcomes projects with an international dimension. International REU Sites (iREUs) or Supplements usually involve a partnership between U.S. researchers and collaborators at a foreign institution or organization. These projects are expected to entail (1) true intellectual collaboration with a foreign partner and (2) benefits to the students from the unique expertise, skills, facilities, phenomena, or other resources that the foreign collaborator or research environment provides. International REU projects generally have higher travel costs and a higher per-student cost than domestic projects. They also often have more complex logistics and require a more complex mentoring arrangement.
+
+Proposals for international REU projects should include a description of the foreign collaborator's role in the project; a Biographical Sketch of up to two pages (in any format) for the foreign collaborator, uploaded in the Other Supplementary Documents section of the proposal; and a letter of collaboration from the foreign institution or organization, which assures that the foreign institution or organization is committed to the collaboration and will give students appropriate access to facilities.
+
+Investigators planning an international REU project should discuss their idea with the relevant program officer — either the REU Site contact for the relevant discipline ( https://www.nsf.gov/funding/initiatives/reu/faculty#reu-site-program-contacts-bda ) in the case of an international REU Site proposal, or the cognizant program officer for the underlying award in the case of an REU Supplement request.
+
+NSF's International Research Experiences for Students (IRES) program, which is managed by NSF's Office of International Science and Engineering (OISE), also supports proposals for cohorts of U.S. students to engage in international research.
+
+Research Experiences for Teachers
+
+NSF encourages research experiences for K-12 teachers of science, technology, engineering, and mathematics and the coordination of these experiences with REU projects. Most directorates support Research Experiences for Teachers (RET) as a formal activity and announce their specific interests (e.g., RET Sites, RET Supplements) either in solicitations, in Dear Colleague Letters, or on directorate/division websites. Other NSF units have no formal announcement but respond to requests for RET support on a case-by-case basis or permit the inclusion of an RET component (with a distinct description and cost breakdown) as part of an REU proposal. Teachers may also be included in an international REU project. Proposers who wish to include an RET component in an REU proposal may wish to contact the appropriate REU program officer for guidance. REU Site proposals that include a significant RET component should begin the project title with the label "REU/RET Site:" to ensure appropriate tracking at NSF.
+
+A. REU SITES
+
+REU Sites are based on independent proposals, submitted for an annual deadline date, to initiate and conduct projects that engage a number of undergraduate students in research.
+
+REU Sites must have a well-defined common focus that enables a cohort experience for students. Sites may be based in a single discipline or academic department or may offer interdisciplinary or multi-department research opportunities with a coherent intellectual theme. (Although interdisciplinary or multi-department proposals must be submitted to a single NSF disciplinary unit, these proposals are often reviewed by two or more NSF units, at the discretion of the NSF program officer who manages the proposal.) A proposal should reflect the unique combination of the proposing organization's interests and capabilities and those of any partnering organizations. Cooperative arrangements among organizations and research settings may be considered so that a project can increase the quality or availability of undergraduate research experiences. To extend research opportunities to a larger number of undergraduates, proposers may incorporate approaches that make use of cyberinfrastructure or other technologies that facilitate research, learning, and collaboration over distances ("virtual projects").
+
+REU Sites are an important means for extending high-quality research environments and mentoring to diverse groups of students. In addition to increasing the participation of students from underrepresented groups in research, the program aims to involve students who might not otherwise have research opportunities, particularly those from academic institutions where research programs in STEM are limited. Thus, a significant fraction of the student participants at an REU Site must come from outside the host institution or organization, and at least half of the student participants must be recruited from academic institutions where research opportunities in STEM are limited (including two-year colleges).
+
+High-quality mentoring for the student participants is very important in REU Sites. Grantees must ensure that research mentors receive appropriate training or instruction, both to promote the quality and success of the students' research and to reinforce expectations for positive, professional interactions between mentors and students. REU Sites should also encourage continued interaction of mentors with students during the academic year, to the extent practicable, to help connect students' research experiences to their overall course of study and to help the students achieve success in courses of study leading to a baccalaureate degree in a STEM field.
+
+Three years is the typical duration for REU Site awards in most NSF directorates; however, a duration of up to five years may be allowed in some cases. New REU Sites are encouraged to apply for no more than three years of funding. Proposals for renewal REU Sites are welcome, but the PI should discuss the project duration with the cognizant program officer prior to requesting support for more than three years. Investigators are reminded that renewal proposals will be reviewed through the normal merit review process and there is no guarantee that a renewal grant will be awarded.
+
+The REU Site Contacts web page ( https://www.nsf.gov/funding/initiatives/reu/faculty#reu-site-program-contacts-bda ) provides contact information for the REU program officers in each NSF disciplinary unit that manages REU Sites, and that page also lists discipline-specific REU web pages for units that have them. Prospective PIs should consult those web pages or the points of contact for more specific information about characteristics of REU Sites that vary by discipline.
+
+Special Opportunities (Partnerships)
+
+Some proposers for REU Sites might be interested in the following opportunities. These are optional ; proposals are not required to respond to them.
+
+Partnership with the Department of Defense
+
+For over two decades, NSF has engaged in a partnership with the Department of Defense (DoD) to expand undergraduate research opportunities in DoD-relevant research areas through the REU Sites program. The DoD activity is called Awards to Stimulate and Support Undergraduate Research Experiences (ASSURE). Any proposal submitted to NSF for the REU Sites program that is recommended for funding through the NSF merit review process may be considered by DoD representatives for possible support through ASSURE. Proposals that are selected for the DoD funding will involve DoD-relevant research and may come from any of the NSF directorates or offices that handle REU Site proposals.
+
+A proposer to the NSF REU Sites program does not need to take any additional steps to be considered for funding through ASSURE. Investigators who are interested in the opportunity may e-mail reu-assure@nsf.gov with any questions.
+
+Partnership with the Department of Energy
+
+NSF's Engineering Directorate (ENG) engages in a partnership with the Department of Energy (DOE) to expand undergraduate research opportunities in DOE mission-relevant areas through the REU Sites program. REU Site proposals that are managed by ENG will be considered for DOE funding. Such proposals will involve DOE mission-relevant topics, which include, but are not limited to, electric power sector research; clean energy technology research; and risk science, decision science, social science, and data science using power sector data sets.
+
+Proposals that are considered for co-funding by DOE will be shared with DOE staff to assess alignment with DOE's research interests, and the unattributed reviews and panel summaries for those proposals will also be shared with DOE.
+
+A proposer to the REU Sites program in ENG does not need to take any additional steps to be considered for co-funding through this partnership. Investigators who are interested in the opportunity may e-mail reu.eng@nsf.gov with any questions.
+
+Partnership with the Semiconductor Research Corporation (SRC)
+
+In early 2022, the Semiconductor Research Corporation (SRC) and NSF's REU Sites program launched a partnership to expand undergraduate research opportunities related to advancements in semiconductors. This partnership fosters the development of a diverse science and engineering workforce skilled in an area of high national priority. Proposals for REU Sites that involve research that advances semiconductors may be supported as part of this partnership and may come from NSF's Directorate for Engineering, Division of Materials Research, Division of Physics, or Division of Chemistry. Research involving the monolithic and heterogeneous integration of 3D integrated devices and circuits is of special interest. Areas of technical interest include, but are not limited to, materials, devices, circuits, wafer fabrication processes and techniques, packaging materials and processes, thermal management and modeling, and integrated photonics, design, and testing. Also relevant are the critical Systems & Technology (S&T) themes described in SRC's JUMP 2.0 research announcement and resulting JUMP 2.0 research center selections .
+
+Proposals that are considered for co-funding by SRC will be shared with SRC staff to assess alignment with SRC's research interests, and the unattributed reviews and panel summaries for those proposals will also be shared with SRC.
+
+A proposer to the NSF REU Sites program does not need to take any additional steps to be considered for co-funding through this partnership. Investigators who are interested in the opportunity may e-mail src-reu@nsf.gov with any questions.
+
+B. REU SUPPLEMENTS
+
+An REU Supplement typically provides support for one or two undergraduate students to participate in research as part of a new or ongoing NSF-funded research project. However, centers or large research efforts may request support for a number of students commensurate with the size and nature of the project. REU Supplements are supported by the various research programs throughout the Foundation, including programs such as Small Business Innovation Research (SBIR).
+
+High-quality mentoring is important in REU Supplements, just as it is in REU Sites, and investigators should give serious attention not only to developing students' research skills but also to involving them in the culture of research in the discipline and connecting their research experience with their overall course of study.
+
+Investigators are reminded that support for undergraduate students involved in carrying out research under NSF awards should be included as part of the research proposal itself instead of as a post-award supplement to the research proposal, unless such undergraduate participation was not foreseeable at the time of the original proposal.
+
+A request for an REU Supplement may be submitted in either of two ways: (1) Proposers may include an REU Supplement activity as a component of a new (or renewal) research proposal to NSF. For guidance, contact the program officer who manages the research program to which the proposal would be submitted. (2) Investigators holding an existing NSF research award may submit a post-award request for supplemental funding. For guidance, contact the cognizant program officer for the NSF grant or cooperative agreement that would be supplemented.
+
+For a post-award REU Supplement request, the duration may not exceed the term of the underlying research project.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 1,300 to 1,350
+
+This estimate includes approximately 175 new Site awards and 1,150 new Supplement awards each year.
+
+Anticipated Funding Amount: $84,800,000
+
+in FY 2024 — This estimate includes both Sites and Supplements, pending availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+For REU Site proposals, a single individual may be designated as the Principal Investigator. This individual will be responsible for overseeing all aspects of the award. However, one additional person may be designated as Co-Principal Investigator if developing and operating the REU Site would involve such shared responsibility. After a proposal is awarded , some NSF units may allow the addition of more Co-PIs if an exceptional case can be made for why the management of the REU Site must be distributed.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Recovery of indirect costs (F&A) is prohibited on Participant Support Costs in REU Site proposals and REU Supplemental funding requests.
+
+Recovery of indirect costs (F&A) is prohibited on Participant Support Costs in REU Site proposals and REU Supplemental funding requests.
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

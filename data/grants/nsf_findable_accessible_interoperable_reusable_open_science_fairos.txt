@@ -15,3 +15,196 @@ Status: Cleared
 Posted date (Y-m-d): 2025-01-06
 URL: https://www.nsf.gov/funding/opportunities/fairos-findable-accessible-interoperable-reusable-open-science/nsf25-533
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Findable Accessible Interoperable Reusable Open Science (FAIROS)
+
+I. Introduction
+
+The first U.S. NSF Public Access Plan, Today’s Data, Tomorrow’s Discoveries: Increasing Access to the Results of Research Funded by the National Science Foundation ( NSF 15-52 ), was published in March 2015. The second U.S. NSF Public Access Plan 2.0, Ensuring Open, Immediate and Equitable Access to National Science Foundation Funded Research ( NSF 23-104 ), was published in February 2023. Both of the NSF Public Access Plans focus on advancing the access to NSF funded research. The FAIROS Program Solicitation supports the goals of the NSF Public Access Plans.
+
+The Findable, Accessible, Interoperable, Reusable ( FAIR ) Guiding Principles emerged from consultations among information scientists seeking to improve documentation of digital assets for humans and machines. The FAIR Guiding Principles for scientific data management and stewardship have been widely recognized as important and valuable strategies for improving scientific cyberinfrastructures and practices. These principles have become prominent elements of the larger Open Science movement to make scientific research products publicly accessible, a major national and international priority for the entire research community.
+
+The FAIR and other interrelated Open Science guiding principles (i.e., practices that make scientific results more transparent and accessible) for scientific data management and stewardship establish a conceptual framework for advancing open science through improvements in key aspects of information sharing practices. Improvements in FAIR machine-actionable capabilities for all categories of research products (datasets, publications, code, physical samples, specimen sets, etc.) have now also become broadly accepted as a general means of advancing Open Science more generally.
+
+In response to these community-driven principles of open science for a FAIR data ecosystem in alignment with overall NSF and Public Access priorities, this FAIROS solicitation supports piloting research, education, and socio-technical cyberinfrastructure development activities that advance sustainable multi-disciplinary FAIROS RDM and open science capabilities while broadening participation across distributed research communities of practice. This FAIROS opportunity complements related efforts, including activities of the NSF Office of Advanced Cyberinfrastructure (OAC), Office of Integrative Activities (OD/OIA), and Office of International Science and Engineering (OISE), as well as the NSF Geoscience Open Science Ecosystem (GEO OSE) program ( NSF 25-506 ), the NSF Established Program to Stimulate Competitive Research (EPSCoR), and the NASA Transform to Open Science (TOPS) initiative. The FAIROS Program also enhances the importance of addressing open accessible science RDM challenges and lowering barriers to accessing, integrating, managing, sharing, and storing data across domains, irrespective of data size and data location. The FAIROS Program solicitation supports the overarching themes/pathways of the Cyberinfrastructure for Public Access and Open Science (CI PAOS) Program ( PD 24-7414 ) Program Description which are Competency Building, Capability Building, and/or Community Building. FAIROS is a funding opportunity of the CI PAOS Program.
+
+II. Program Description
+
+The FAIROS solicitation seeks to support socio-technical, collaborative, and sustainable FAIR RDM capabilities facilitating the advancement of open science within and across multiple research domains while also incorporating FAIR Principles , Collective Benefit, Authority to Control, Responsibility and Ethics ( CARE ) Principles for Indigenous Data Governance, and The Transparency, Responsibility, User Focus, Sustainability and Technology ( TRUST ) Principles for digital repositories. The solicitation was reframed from "FAIROS RCN" to simply “FAIROS” to broaden the scope of the types of potential funded projects. In addition to coordination and community building activities and broadening participation, key priorities for this FAIROS solicitation are to:
+
+Pilot research, education, and socio-technical cyberinfrastructure tools and trusted data infrastructure capacities that advance sustainable multi-disciplinary RDM and open science ecosystems.
+
+Pilot new models of scientific communication that improve scholarly publication.
+
+Expand FAIR data portals, research data commons, and RDM as a service in the advancement of open science.
+
+Lower barriers to accessing, managing, sharing, and storing data within and across multiple disciplinary domains, irrespective of data size.
+
+The intent of the FAIROS program is to encourage collaboration between CI and S&E domain disciplines. (For this purpose, units of CISE other than OAC are considered domain disciplines.)
+
+This FAIROS Program Solicitation is supported by the following directorates/offices.
+
+Directorate for Computer and Information Science and Engineering (CISE) : Proposals are encouraged on enabling accessibility, integration, discovery, management, and analysis of community-scale research data in support of identified research data science objectives or use cases, such as those related to data curation, data repositories, data sharing, data stewardship, library and information science, open science, publishing, reproducibility, research data lifecycle, research data management, reusability, and sustainability across domains. CISE particularly welcomes proposals that aim to enable community-scale integration of, and access to, data sets from funded research and/or those generated by industry to enable new research and discovery broadly for the CISE and other research communities. Proposals must address one or more of the following themes/pathways in the Cyberinfrastructure for Public and Open Science ( CI PAOS ) Program.
+
+Competency Building - Advance FAIR principles and open science/engineering-driven collaborations
+
+Capability Building - Advance exploratory activities to inform development of CI PAOS capabilities
+
+Community Building - Advance integrative approaches to FAIR, open science, and RDM improvements
+
+Directorate for Geosciences (GEO) : Proposals are encouraged toward establishing foundational principles for RDM in support of scientific domains associated with GEO programs ( https://www.nsf.gov/funding/programs.jsp?org=GEO ). This includes efforts that translate open science principles (e.g., FAIR, CARE, TRUST) into practical guidelines and/or standards for RDM within geoscience research workflows. GEO particularly welcomes proposals that support RDM across the full data lifecycle, including advancement of approaches that leverage persistent identifiers (PIDs) to expose connections among publications, data, and other research products to assess impact and broaden credit for research contributions. Proposers primarily pursuing community-building, education/training, or culture change activities to instill open science practices within specific geoscience domains may wish to instead consider submissions to the Geosciences Open Science Ecosystem (GEO OSE) program.
+
+Directorate for STEM Education (EDU) : Proposals are encouraged that establish foundational principles for RDM in support of scientific domains associated with EDU programs ( https://new.nsf.gov/edu ). This includes efforts that translate open science principles (e.g., FAIR, CARE, TRUST) into practical guidelines and/or standards for RDM within STEM education workflows. EDU particularly welcomes proposals that support RDM across the full data lifecycle, from data creation to organized archiving, including approaches that leverage PIDs that connect digital products across publications, data repositories, meta-data information and other research products; goals are both to assess lasting impact and to ensure appropriate credit is assigned for research contributions. This solicitation is not meant to support proposals having a primary aim of community-building, education/training, or culture changing activities that instill open science practices within specific domains.
+
+Directorate for Biological Sciences (BIO): Proposals are encouraged that establish foundational principles for RDM in support of scientific domains associated with BIO programs ( https://www.nsf.gov/funding/programs.jsp?org=BIO ). This includes efforts that translate open science principles (e.g., FAIR, CARE, TRUST) into practical guidelines and/or standards for RDM within bioscience research workflows. BIO particularly welcomes proposals that support RDM across the full data lifecycle, from data creation to organized archiving, including approaches that leverage PIDs that connect digital products across publications, data repositories, meta-data information and other research products; goals are both to assess lasting impact and to ensure appropriate credit is assigned for research contributions. This solicitation is not meant to support proposals having a primary aim of community-building, education/training, or culture changing activities that instill open science practices within specific bioscience domains.
+
+Directorate for Engineering (ENG) : Proposals are encouraged that enable findability, accessibility, interoperability, and reuse of cross-discipline multifaceted Engineering data, as well as for projects enhancing Engineering Data Management and Curation infrastructure, sustainability, and workforce development. ENG particularly welcomes proposals that aim to develop community-scale resources; to understand and address the challenges of accessing and sharing proprietary and confidential data; and/or to build infrastructure to reduce barriers to open access to Engineering data. This solicitation is not meant to support proposals having a primary aim of community-building, education/training, or culture changing activities that instill open science practices within specific domains in Engineering.
+
+Directorate for Social, Behavioral and Economic Sciences (SBE) : Proposals are encouraged on the social, economic, political, cultural and environmental forces that shape and are shaped by open science initiatives including academic publishing, reproducibility and replicating science, collaborations and science production, and data curation, management, sharing, and stewardship. SBE especially encourages meta-science, or the science of science, proposals on findability, accessibility, interoperability, reuse and open science.
+
+Directorate for Mathematical and Physical Sciences (MPS) : Proposals are encouraged that appreciate the importance of FAIR and OS principles for scientific data management and sharing. The five divisions representing communities in the purview of the MPS directorate will consider proposals that focus on innovative approaches that promote the FAIROS principles in line with community priorities.
+
+Office of Integrative Activities (OIA) - Proposals are encouraged that increase the capacity of organizations in EPSCoR jurisdictions or emerging research institutions in one or more areas of data curation, data sharing, data stewardship, open science, or research data management, in ways that increase access to novel research data.
+
+Office of International Science and Engineering (OISE) : Proposals are encouraged that support international collaboration to advance the frontiers of science. OISE welcomes proposals which focus on international aspects of cyberinfrastructure of public access and open science, in particular facilitating science collaboration by efficiently connecting data, networks, computational capabilities, and people across borders, as well as building an internationally competent US workforce. OISE encourages proposals which emphasize mutually beneficial international science cooperation that advances shared norms among the international research community while supporting US global leadership in research.
+
+Directorate for Technology, Innovation and Partnerships (TIP) : Proposals are encouraged that utilize Knowledge Graph representations to deploy FAIR RDM capabilities, facilitating the advancement of use-inspired and translational research in the following three areas:
+
+Advanced Materials Development Continuum : Proposals that address current challenges in transitioning from advanced material discovery and development to processing, manufacturing, and ultimately deployment, through enabling of FAIR access to existing and future research data generated under ongoing efforts, such as the Designing Materials to Revolutionize and Engineer our Future ( DMREF ) Program.
+
+Climate resilience : Proposals focused on enhancing the accessibility and interoperability of climate-related research data to support resilience planning, adaptation strategies, and mitigation efforts.
+
+Geohazards : Proposals targeting the improvement of FAIR access to geohazard-related data, including but not limited to seismic activity, landslides, volcanic eruptions, lahars, coastal erosion, and tsunamis. Projects in this area should aim to enhance forecasting, risk assessment, and response capabilities through better management and integration of data generated under ongoing efforts, such as the Centers for Innovation and Community Engagement in Solid Earth Geohazards .
+
+Proposed projects should align with or contribute to the Building the Prototype Open Knowledge Network ( Proto-OKN) Program, specifically those structured along the lines of Theme 1 in Proto-OKN (see NSF 23-571 ). Proposed data and tools should adhere to the standards and protocols established by Proto-OKN Theme 2 projects and be made available through the Proto-OKN Fabric being developed by these Theme 2 efforts. Proposals should include letters of collaboration from Proto-OKN Theme 2 project PI(s) and any relevant Theme 1 PI(s), as priority consideration will be given to projects that effectively integrate with existing Proto-OKN initiatives. TIP values proposals that demonstrate close engagement with end users and outline a sustainable path beyond the FAIROS program, especially where the potential for long-term impact is credibly established.
+
+Principal Investigators should take these directorate/office-specific research interests into consideration in crafting their proposed work in response to this solicitation, if disciplinary and cross-disciplinary projects are relevant to the directorates and offices supporting this FAIROS Program Solicitation.
+
+Tracks of Focus
+
+FAIROS proposals must select one of two tracks to focus on, either: 1) Disciplinary Improvements to targeted scientific communities, or 2) Cross-Cutting Improvements that apply to many or most scientific disciplines. In the case of proposals focused on Disciplinary Improvements, it is strongly recommended that prospective PIs contact a program officer from the list of Cognizant Program Officers in the directorate closest to the major disciplinary impact of the proposed work to ascertain that the scientific focus and budget of the proposed work are appropriate for this solicitation. In the case of proposals focused on Cross-Cutting Improvements, it is strongly recommended that prospective PIs contact the cognizant program officer listed below from the Office of Advanced Cyberinfrastructure.
+
+Note on Disciplinary Priorities of NSF Directorates: For more details on the priorities of individual NSF Directorates, see the agency Research Areas links provided at https://new.nsf.gov/focus-areas and the descriptions in each of the respective programs.
+
+Proposals must clearly specify in the title of the proposal which option is being proposed by using either “Disciplinary Improvements:” or “Cross-Cutting Improvements:” as the start of the title):
+
+Disciplinary Improvements : Identify a clearly designated and significant area or closely related areas of science and/or engineering; this should be a disciplinary focus that aligns with preferably one or at most two of the top-level NSF disciplinary research directorates that are clearly specified within the text of the proposal.
+
+Disciplinary Improvements : Identify a clearly designated and significant area or closely related areas of science and/or engineering; this should be a disciplinary focus that aligns with preferably one or at most two of the top-level NSF disciplinary research directorates that are clearly specified within the text of the proposal.
+
+Cross-Cutting Improvements : Identify a functional space which is cross-cutting across multiple areas of science and engineering; this functional space should ideally be relevant to the priorities of both the NSF Office of Integrative Activities and the Public Access Initiative (see notes above). Note that for purposes of this solicitation, a functional space is a category of essential functions in the life cycle of research activities which is undertaken broadly across disparate areas of science and engineering. Examples of such categories include (but are not limited to) the four core components of the FAIR guiding principles and RDM. Other examples may be identified by proposals but must have similar importance and broad applicability.
+
+Cross-Cutting Improvements : Identify a functional space which is cross-cutting across multiple areas of science and engineering; this functional space should ideally be relevant to the priorities of both the NSF Office of Integrative Activities and the Public Access Initiative (see notes above). Note that for purposes of this solicitation, a functional space is a category of essential functions in the life cycle of research activities which is undertaken broadly across disparate areas of science and engineering. Examples of such categories include (but are not limited to) the four core components of the FAIR guiding principles and RDM. Other examples may be identified by proposals but must have similar importance and broad applicability.
+
+The type of awards available for this FAIROS solicitation are:
+
+Research - These awards target interdisciplinary teams that address common underlying multidisciplinary RDM and sharing challenges faced by NSF researchers while supporting FAIR community readiness in the advancement of public access and open science across domains. Collaborative proposals are allowable within this category of Research Proposals. A collaborative proposal is one in which investigators from two or more organizations wish to collaborate on a unified research project. Collaborative proposals may be submitted to NSF in one of two methods: as a single proposal, in which a single award is being requested (with subawards administered by the lead organization); or by simultaneous submission of proposals from different organizations, with each organization requesting a separate award. Research proposals may have budgets up to $600,000 and durations up to 3 years (not exceeding $200,000 per year).
+
+Activities may include (but are not limited to): convening meetings (virtually and/or in person) of representatives and experts to 1. ) Integrate RDM best practices and FAIR, Collective Benefit, Authority to Control, Responsibility and Ethics (CARE) Principles for Indigenous Data Governance, and The Transparency, Responsibility, User Focus, Sustainability and Technology (TRUST) Principles for digital repositories in research data science efforts and training and across communities, 2.) Leverage existing cyberinfrastructure and integrated research infrastructure for improving FAIROS capabilities, 3.) Facilitate coordination, advancing alignment, and/or building capacity in FAIROS with international collaborators/colleagues and/or in an international context, 4.) Coordinate US and international FAIROS integrated research infrastructure efforts, and 5.) Evaluate FAIROS impact on international and multidisciplinary collaboration.
+
+The FAIROS solicitation invites proposals which may include (but are not limited to) the following categories and examples of goals to coordinate and improve research efforts in any or all a variety of ways (where the proposal identifies other goals, it should be made clear how these goals advance FAIROS):
+
+Addressing data formats, metadata standards, and harmonization across domains while leveraging existing cyberinfrastructure to advance research data lifecycle management
+
+Addressing data curation, provenance, record keeping, organization of data, storage of data, linking, reporting of research data and results, sharing and access, institutional policies, and data management standard operating procedures for projects
+
+Improving Interoperability, Reproducibility, Sustainability of Data within/across Domains and Projects
+
+Enhancing Data Management and Curation Infrastructure, Sustainability, and Workforce Development
+
+Aligning Assessment Mechanisms, Evaluation Methods, and Success Metrics of FAIROS research processes
+
+Enabling International Collaboration, Coordination, and Integration which Advances RDM, FAIR Principles and Open Science
+
+Coordinating US and international FAIROS research infrastructure ecosystem efforts
+
+Facilitating coordination, advancing alignment, and/or building capacity in RDM and FAIR and open science with international collaborators, colleagues and/or in an international context
+
+Evaluating FAIR and open science impact on international and interdisciplinary collaboration
+
+Evaluating fairness concerns in international application of FAIROS principles
+
+Leveraging international collaboration to build shared norms and address challenges related to developing and implementing PAOS policies
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 4 to 10
+
+An expected 4 - 10 awards for up to three years are planned in total for this solicitation per each deadline. However, the number of awards will be based on quality of proposals, availability of funds, and responsiveness to priorities of the participating directorates/divisions.
+
+Anticipated Funding Amount: $2,400,000 to $6,000,000
+
+Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.
+
+Each Research proposal can have a budget up to $600,000 for up to a three-year duration (not exceeding $200,000 per year). Proposals for Research are expected to comprise collaborative, community-oriented, multidisciplinary projects with one or more institutions that address common underlying cyberinfrastructure research data management (RDM) challenges and contribute to community readiness for advancement in effective data practices supporting public access and open science. Collaborative Research Proposals are allowable within this category of Research Proposals.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs): Prospective proposers from other Federal Agencies and FFRDCs, including NSF sponsored FFRDCs, must follow the guidance in PAPPG Chapter I.E.2 regarding limitations on eligibility.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may participate as Principal Investigator, co-Principal Investigator or other Senior/Key Personnel in at most one FAIROS to any submission per deadline date annually in response to this particular solicitation. The first submitted proposal (chronological order of submission) in which that individual is participating will be accepted for review, and the remainder will be returned without review. For this purpose, a multi-institution collaborative project is treated as one proposal that is considered submitted when the final collaborative proposal is submitted. The reason for the PI limit on FAIROS proposals is to balance the number and quality of the submissions.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

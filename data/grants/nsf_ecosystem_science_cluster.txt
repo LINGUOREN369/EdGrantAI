@@ -11,3 +11,148 @@ Status: Cleared
 Posted date (Y-m-d): 2011-06-15
 URL: https://www.nsf.gov/funding/opportunities/ecosystem-science-cluster/pd11-7381
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Division of Environmental Biology (DEB) Core programs
+
+I. Introduction
+
+The Division of Environmental Biology (DEB) Core supports research and training on evolutionary and ecological processes acting at the level of populations, species, communities, ecosystems, macrosystems, and biogeographic extents. DEB encourages research that elucidates fundamental principles that identify and explain the unity and diversity of life and its interactions with the environment over space and time. Research may incorporate field, laboratory, or collection-based approaches; observational or manipulative studies; synthesis activities; phylogenetic discovery projects; or theoretical approaches involving analytical, statistical, or computational modeling. Proposals should be submitted to the core clusters ( Ecosystem Science , Evolutionary Processes , Population and Community Ecology , and Systematics and Biodiversity Science ). DEB also encourages interdisciplinary proposals that cross conceptual boundaries and integrate over levels of biological organization or across multiple spatial and temporal scales. Research addressing ecology and ecosystem science in the marine biome should be directed to the Biological Oceanography Program in the Division of Ocean Sciences; research addressing evolution and systematics in the marine biome should be directed to the Evolutionary Processes or Systematics and Biodiversity Science programs in DEB.
+
+All DEB programs also encourage proposals that leverage NSF-supported data networks, databases, centers, and other forms of scientific infrastructure, including but not limited to the National Ecological Observatory Network (NEON), Long-Term Ecological Research (LTER) Environmental Data Initiative (EDI), and Integrated Digitized Biocollections (iDigBio). DEB also encourages interdisciplinary proposals that cross conceptual boundaries and integrate over levels of biological organization or across multiple spatial and temporal scales, including the macrosystem scale.
+
+II. Program Description
+
+Proposals are welcome in all areas of science supported by the Division of Environmental Biology.
+
+Ecosystem Science Cluster (ES)
+
+Evolutionary Processes Cluster (EP)
+
+Population and Community Ecology Cluster (PCE)
+
+Systematics and Biodiversity Science Cluster (SBS)
+
+Special Categories Included in the DEB Core Track
+
+1) STAR Grants
+
+The Division welcomes proposals for STAR (Special Targeted Awards for Research) Grants to the core programs via this solicitation. Projects with total budgets of $400,000 or less may be identified as such with the designation "STAR:" as a prefix to the project title in the full proposal. STAR Grants may address any topic appropriate for DEB core programs and could include a variety of important research activities that entail a narrower scope and/or reduced costs (e.g., analysis of existing data (including NEON data), theoretical research, synthesis projects, fieldwork projects, etc.). The STAR track should not be used predominately for the collection of preliminary data. STAR Grants may be useful for targeted research projects, including ideas initiated by postdoctoral researchers. The project description for STAR Grants is limited to 10 pages. STAR Grant projects will be assessed based on the same merit review criteria as all other proposals. If funds for educational supplements are requested, those can be in addition to the $400,000 funding limit for STAR projects.
+
+2) NERC and BSF International Collaborative Proposals
+
+The core programs will accept proposals for international collaborative research under two separate agreements for joint review between: 1) NSF and the Natural Environment Research Council (NERC) of UK Research and Innovation (UKRI) and 2) NSF and the U.S.-Israel Binational Science Foundation (BSF). Submission instructions for both opportunities are detailed below.
+
+International collaborative proposals are expected to adhere to the eligibility requirements, remit, funding limits, and grant durations for the agency from which funding is sought (NSF, BSF, or NERC) and must represent an integrated collaborative effort.
+
+If an international collaborative proposal is awarded, the U.S. researchers will receive funding from NSF and the international researchers will receive funding from the international partner agency. Questions regarding these activities can be directed to NSFDEB-NERC@nsf.gov or NSFDEB-BSF@nsf.gov respectively. These agreements do not preclude other international collaborations.
+
+Submission of NSF & NERC Collaborative proposals Proposers designate a "lead" agency, either NSF or NERC, based on where the largest proportion of the research lies. The title of the proposal should begin with "NSFDEB-NERC:" followed with the substantive title. The lead agency will carry out the review. While not identical in their review process, both the NSF and NERC ask reviewers to evaluate proposed projects on the basis of scientific/intellectual merit as well as broader societal impacts.
+
+Proposers must follow the submission guidelines and deadlines for the lead agency and adhere to the NERC submission limits.
+
+For NSF-lead proposals, applicants are required to submit an email to NSFDEB-NERC@nsf.gov ahead of the planned proposal submission. This email should be jointly prepared by US and UK researchers, and provide a clear outline of the research proposed, a listing of senior personnel, and a bottom-line budget for both US and UK researchers . This information will be shared with NERC to check for eligibility (whether the proposed research fits within the participating agencies' remits and whether the proposed researchers and institutions meet eligibility requirements).
+
+NERC-lead proposals should follow the NERC guidelines for applicants ( https://www.ukri.org/opportunity/work-with-us-based-researchers-on-environmental-science-research/ ). Applicants are required to submit an Expression of Interest form to https://reg.nerc.ac.uk/nsf/ three months prior to the closing date of the scheme to which the applicants plan to submit. Note: For NERC-lead proposals, the NSF DEB (non-lead) portion of the project budget cannot exceed $500,000. For NSF DEB-lead proposals the NERC (non-lead) portion of the budget cannot exceed £300,000.
+
+Submission of NSF & BSF Collaborative proposals Detailed submission instructions are described in the Dear Colleague Letter NSF 20-094 . NSF is always designated as the "lead" agency and NSF will conduct the review of these submissions. The title of the proposal should begin with "NSFDEB-BSF:" followed with the substantive title. The Israeli investigator(s) must submit a parallel proposal to BSF in accordance with BSF guidelines for applicants ( http://www.bsf.org.il/ElectronicSubmission/GatewayFormsAndGuidelines.aspx ).
+
+All NERC-Collaborative and BSF-Collaborative submissions to DEB will be reviewed alongside other proposals received in the same review period.
+
+Integrative Research in Biology (IntBIO) Track
+
+The Integrative Research in Biology (IntBIO) Track invites submission of collaborative proposals to tackle bold questions in biology that require an integrated approach to make substantive progress. Integrative biological research spans sub-disciplines and incorporates cutting-edge methods, tools, and concepts from each to produce groundbreaking biological discovery that is synergistic, such that the whole is greater than the sum of the parts. The research should produce a novel, holistic understanding of how biological systems function and interact across different scales of organization, e.g., from molecules to cells, tissues to organisms, species to ecosystems and the entire Earth. Where appropriate, projects should apply experimental strategies, modeling, integrative analysis, advanced computation, or other research approaches to stimulate new discovery and general theory in biology.
+
+Proposals submitted to the IntBIO Track must span sub-disciplinary boundaries within the BIO Directorate. Projects suitable for review in a single existing BIO program should be submitted to that program and not to the IntBIO track.
+
+Proposers are strongly encouraged to contact the cognizant program director(s) representing the relevant subdisciplines prior to submission to obtain advice on suitability of the project idea for the IntBIO Track.
+
+To be responsive to the IntBIO track, proposals must:
+
+Articulate a fundamental overarching biological question or technical challenge that is addressed either through a bold, integrative hypothesis- or question-driven research, and that aims to produce outcomes that are synergistic and have potential to reveal new principles underlying function or interaction of biological systems.
+
+Include a graphical illustration that effectively conveys how integration will be accomplished through interconnection among sub-disciplines, elements, or systems and how integrated strategies will lead to a synergistic outcome.
+
+Have an optimally configured collaborative investigative team that includes two or more investigators with different perspectives and expertise. The role of each team member must be clearly described and justified. Team members may be from a single organization or multiple organizations.
+
+Describe a training and education plan, as part of broader impacts, that involves training in integrative approaches to biological research.
+
+The IntBIO Track is common to each of the core research program solicitations in the Divisions of Environmental Biology, Integrative Organismal Systems, and Molecular and Cellular Biosciences. Proposals should be submitted to a program in one of these divisions. Proposals submitted to this track will be evaluated by co-review or joint review across two or more of these BIO programs. Proposal titles should start with the designation " IntBIO :"
+
+Information for Other Types of Proposals under this Solicitation
+
+In addition to the regular research proposals sought under this solicitation, the clusters/programs support a variety of other Foundation-wide activities:
+
+Faculty Early Career Development Program (CAREER) proposals may be submitted to any of the clusters/programs described in this solicitation but must be submitted by the deadlines listed in the CAREER solicitation and follow the proposal preparation guidance in that solicitation.
+
+Mid-Career Advancement program (MCA) proposals may be submitted to any of the clusters/programs described in this solicitation but must be submitted by the submission window for the MCA program. This is another opportunity available to mid-career researchers to advance their career trajectory.
+
+Research Coordination Networks (RCN), and Research at Undergraduate Institutions (RUI) proposals may be submitted at any time, to any of the clusters/programs described in this solicitation but must follow the proposal preparation guidance in those solicitations.
+
+This solicitation will accept Renewal and Accomplishment Based Renewal (ABR) Proposals. Information on eligibility, scope, and format for Renewal and ABR submissions can be found in the PAPPG. If you are considering an ABR submission you are strongly advised to contact a Program Officer prior to submission.
+
+Grants for Rapid Response Research (RAPID), Early-concept Grants for Exploratory Research (EAGER), Research Advanced by Interdisciplinary Science and Engineering (RAISE), Grant Opportunities for Academic Liaison with Industry (GOALI), Planning proposals, and proposals for Travel or Conferences support, including workshops, can be submitted at any time to any of the clusters/programs described in this solicitation. These types of proposals should be submitted in accordance with the guidance in the PAPPG. Conference and Travel proposals should be submitted at least 6 months before the start date of the conference or workshop. You are strongly advised to contact a Program Officer prior to submission; also see guidance at https://www.nsf.gov/bio/deb/confrapideagerguidance.jsp . Note that for RAPID, EAGER, RAISE, or Planning proposals, a concept outline must be submitted prior to submission of a full proposal. We strongly encourage the use of NSFs new Program Suitability and Proposal Concept Tool (ProSPCT) [ https://suitability.nsf.gov/s/ ] for RAPID, EAGER, RAISES, and Planning proposals. Prior to submitting a full RAPID, EAGER, or RAISE proposal, proposers must receive approval from a DEB Program Officer in the programmatically relevant cluster. Proposals submitted without the relevant program officer concurrence will not be accepted or will be returned without review (see PAPPG Chapter I.D.1).
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 120 each year, pending availability of funds.
+
+Anticipated Funding Amount: $100,000,000 for new awards each year pending availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members.Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

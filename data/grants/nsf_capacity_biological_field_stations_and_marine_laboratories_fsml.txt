@@ -20,3 +20,124 @@ Status: Cleared
 Posted date (Y-m-d): 2018-08-31
 URL: https://www.nsf.gov/funding/opportunities/fsml-capacity-biological-field-stations-marine-laboratories/pd18-1104
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Infrastructure Capacity for Biological Research (Capacity)
+
+I. Introduction
+
+Transformative discoveries in the biological sciences are often catalyzed by the development and dissemination of new research tools and methods. For such advancements to take place, research infrastructure needs to be supported at all stages of its life-cycle that includes: Innovation (the design of novel or greatly-improved research infrastructure), Capacity (the scaling of or major improvements to infrastructure), and Sustainability (continued operation of existing infrastructure). The Division of Biological Infrastructure (DBI) supports this life-cycle of research resources in biology by having three different programs focused on each of these important stages of development of research infrastructure in resources and services. The goals of the Capacity program are aligned with the second stage in this cycle to advance contemporary biology in any research area supported by the Directorate for Biological Sciences at NSF.
+
+Proposers should review the Introduction section of the NSF PAPPG for a general description of research topics normally outside the scope of NSF funding such as disease, clinical, or drug design related research. Proposals to develop or provide infrastructure that is primarily to enable research in these excluded topics are not eligible for support under this solicitation and will be returned without review.
+
+II. Program Description
+
+The Infrastructure Capacity for Biology (Capacity) Program supports the scaling of or major improvements to research tools, products, and services that advance contemporary biology in any research area supported by the Directorate for Biological Sciences (BIO) at NSF. The Capacity Program focuses on building capacity in research infrastructure that is broadly applicable to a wide range of researchers in three programmatic areas: Cyberinfrastructure, Biological Collections, and Biological Field Stations and Marine Laboratories. This program will also accept proposals for planning activities or workshops to facilitate coordination that may be necessary in building capacity in infrastructure that meets the needs of a research community. Areas not included in this program are instrumentation (PIs should submit to the MRI program); and, projects that develop infrastructure for a specific research project, laboratory, or institution (PIs should submitted to the relevant BIO programs that would normally support that research). Projects are expected to produce quality products, result in important science outcomes that will be achieved by the users of the resource, be openly accessible to a broad scientific and education community, and have the potential to be used by a community of researchers beyond a single research team.
+
+Budgets and award durations should accommodate the iterative process of bringing a proof-of-concept resource into a form that is sufficiently robust to become a broadly-adopted infrastructure resource. Proposals should be product-driven and typically will be assessed on their perceived contribution to a broad portfolio of national infrastructure capacity. PIs are encouraged to leverage NSF-supported scientific infrastructure, such as databases, data networks, computational resources, software, and centers. Proposals may include limited data collection, experimentation or other research activities as appropriate to design, evaluate, or calibrate the proposed infrastructure.
+
+The three programmatic areas of the Capacity Program are described below. Please see links for further information in each area. PIs are encouraged to contact the program officers using the contact information above if they have questions about where to submit a proposal within this solicitation or if their proposed work cuts across one or more of these programmatic areas.
+
+Cyberinfrastructure Programmatic Area: https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505538&org=DBI&from=home
+
+The Cyberinfrastructure Programmatic Area supports the implementation of, scaling of, or major improvement to cyberinfrastructure for biology that advances or transforms contemporary biology and that is broadly applicable to a wide range of researchers.
+
+Biological Collections Programmatic Area: https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505541
+
+The Biological Collections Programmatic Area supports major improvements to or digitization of biological collections and collection-based information, enabling the advancement of biological understanding in important research areas, and increasing the broader applicability of collections.
+
+Biological Field Stations and Marine Laboratories Programmatic Area : https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5449&org=DBI
+
+The Biological Field Stations and Marine Laboratories Programmatic Area supports major improvements to biological field stations or laboratories in any terrestrial, marine, estuarine, or freshwater environment for research and education.
+
+Other proposal types
+
+In addition to the regular research proposals sought under this solicitation, the programmatic areas support a variety of other Foundation-wide activities:
+
+Research Coordination Networks (RCN), and Research at Undergraduate Institutions (RUI) proposals may be submitted at any time, to any of the clusters/programs described in this solicitation but must follow the proposal preparation guidance in those solicitations. PIs are strongly encouraged to contact the cognizant program officers to discuss the proposed activities before submission of an RCN proposal.
+
+Grants for Rapid Response Research (RAPID), Early-concept Grants for Exploratory Research (EAGER), Research Advanced by Interdisciplinary Science and Engineering (RAISE), Grant Opportunities for Academic Liaison with Industry (GOALI), Planning proposals (see below), and proposals for Travel or Conferences support, including workshops, can be submitted at any time to any of the clusters/programs described in this solicitation. These types of proposals should be submitted in accordance with the guidance in the PAPPG. Conference and Travel proposals should be submitted at least 6 months before the start date of the conference or workshop; you are strongly advised to contact a Program Officer prior to submission. Note that before submitting Planning, RAPID, EAGER, or RAISE proposals you must receive approval from a Program Officer in the area of the proposal.
+
+Planning proposals
+
+Proposals for comprehensive planning to transform a resource (or a network of resources) in terms of its research and training mission. The effort should produce a strategic or other type of plan for advancing research (and education, if relevant) for at least a five-year time frame. Planning proposals may address, but are not limited to, research/training program development, infrastructure needs assessment, and research infrastructure coordination at regional (or broader) scales. Proposed activities will normally include meetings or travel for engaging research, educational (if relevant), or stakeholder communities. For planning activities to develop resources for biological research projects that may ultimately be more appropriate to other NSF programs, such as the Mid-scale Research Infrastructure program, please contact a Program Officer to determine whether such a project should be submitted as a planning proposal to this solicitation. Award of a planning grant does not imply an NSF commitment for support beyond the planning period.
+
+Education Supplements
+
+The Capacity program only considers support for full proposals submitted to the program. Except for Career-Life-Balance supplements, program funds are generally not used to provide post-award supplements to existing awards. If activities that align with REU, RET, and RAHSS educational supplements are planned, these activities should be described and budgeted for in the original proposal submission.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 40 to 60
+
+The number of awards may vary depending on the split of funds across the different programs, which in turn may vary according to submission distribution, individual proposal merits, proposed budget amounts, and availability of funds.
+
+Anticipated Funding Amount: $16,000,000 to $18,000,000
+
+Approximately $16-18 million is expected to be available for new and continuing awards. The size and duration of any individual request should be justified by the amount and complexity of the work to be accomplished. As a rule, the larger the budget, the greater the expected impact on the biological research community.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

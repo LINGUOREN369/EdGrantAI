@@ -10,3 +10,112 @@ Status: Cleared
 Posted date (Y-m-d): 2024-03-04
 URL: https://www.nsf.gov/funding/opportunities/aiming-artificial-intelligence-formal-methods-mathematical/nsf24-554
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Artificial Intelligence, Formal Methods, and Mathematical Reasoning (AIMing)
+
+I. Introduction
+
+Mathematical reasoning is a central ability of human intelligence that plays an important role in knowledge discovery. In the last decades, both the mathematics and computer science communities have contributed to research in machine-assisted mathematical reasoning, encompassing conjecture, proof, and verification. This has been in the form of both formal methods and interactive theorem provers, as well as using techniques from artificial intelligence. Recent technological advances have led to a surge of interest in machine-assisted mathematical reasoning from the mathematical sciences, formal methods, and AI communities.
+
+AI researchers have been interested in mathematical reasoning since the earliest days of the field, but only recently research in this area has demonstrated real impact on the field of mathematics, assisting mathematicians in formulating conjectures, proofs, and counterexamples. Since then, the impact of AI in solving longstanding mathematical conjectures has been felt in fields ranging from representation theory to fluid dynamics. With data being produced at a scale far beyond what any human can study, the potential of AI to identify patterns in enormous amounts of data shows great potential for mathematics.
+
+In complement, there has seen a surge of activity in computing technologies based on formal methods that are designed to act on formal languages and formal representations of knowledge through using interactive theorem provers (ITPs) and automated reasoning systems to formalize mathematics. These ITPs, or proof assistant tools, have long demonstrated their impact on software and hardware verification and are beginning to show potential for building mathematical libraries and as verification tools for highly complex mathematics.
+
+The National Academies of Science, Engineering and Medicine recently convened a workshop to explore the state of the art and to identify current challenges and opportunities to advance research in using AI to Assist Mathematical Reasoning . The workshop highlighted the growing potential and timeliness for AI, the formalization of mathematics, and synergies between these fields, to support rapid and eccentric exploration in mathematical discovery and to aid human understanding. It also emphasized that the centrality of reasoning, which modern AI still struggles with, to the mathematical process makes mathematics an especially interesting and important area to test the power of AI, opening the door to the elusive goal of introducing reasoning into AI systems. Advancements in this area will require both communication and collaboration between the mathematical sciences, computer science, and AI research communities.
+
+The aim of the Artificial Intelligence, Formal Methods, and Mathematical Reasoning program is to support research at the interface of AI, computer science, mathematics and statistics that assists and accelerates both mathematical discovery as well as discovery in related disciplines.
+
+II. Program Description
+
+The National Science Foundation Directorates for Mathematical and Physical Sciences (MPS) and Computer and Information Science and Engineering (CISE) will jointly sponsor new research projects at the interface of artificial intelligence, formal methods, and interactive theorem provers to guide and enhance research in the mathematical sciences, formal methods, and AI.
+
+Successful projects should demonstrate the potential to advance both the mathematical sciences as well as the computational models and methods used to attain these advancements. The advancements may include, but are not limited to:
+
+advancing AI for mathematical conjecture, proof, verification
+
+advancing interactive theorem provers for mathematical proof and verification, software/hardware verification, and related applications,
+
+developing training data for AI algorithms for mathematical reasoning, both deterministic and under uncertainty, and novel approaches for infusing logic, mathematical reasoning, and compositionality into AI.
+
+Proposals should identify the challenges to be addressed and the technical approaches to be taken to address these challenges and should highlight how the complementary expertise of the team provides a unique opportunity to make progress.
+
+AIMing proposals must involve meaningful collaborations between researchers in the mathematical sciences with researchers in computational science. Each project is expected to clearly demonstrate substantial collaborative contributions across disciplines. Successful projects are expected to have a cohesive set of goals and a convincing implementation plan. Training through the research involvement of students, and/or postdoctoral associates from across this multi-disciplinary spectrum is an asset.
+
+This program welcomes the submission of proposals that include the participation as e.g., PI, co-PI, senior/key personnel, postdoctoral scholars, graduate or undergraduate students, or other trainees from the full spectrum of diverse talent in STEM, including members of historically under-represented or under-served populations. It also includes diverse institutions including Minority-Serving Institutions (MSIs), Primarily Undergraduate Institutions (PUIs), and two-year colleges, and major research institutions. Proposals from EPSCoR (Established Program to Stimulate Competitive Research) jurisdictions are especially encouraged.
+
+One or more award participants, including the project PI, will be expected to attend an annual PI meeting to exchange ideas, effective practices, assessment strategies, as well as challenges.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 6 to 10
+
+We anticipate making 6-10 awards in each competition. ;Each award size may vary and is expected to range from $500k to $1.2M total for up to 3 years. Award size is contingent upon the scope, scale and complexity of the proposed project. The number of awards will be subject to the availability of funds and quality of proposals received.
+
+Anticipated Funding Amount: $5,000,000 to $6,000,000
+
+Up to $6,000,000 per year is expected for new awards, subject to availability of funds and receipt of meritorious proposals.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members.
+
+Who May Serve as PI:
+
+As of the date the proposal is submitted, any PI, co-PI, or senior/key personnel must hold either:
+
+a tenured or tenure-track position, or
+
+a primary, full-time, paid appointment in a research or teaching position
+
+at a US-based campus of an organization eligible to submit to this solicitation (see above), with exceptions granted for family or medical leave, as determined by the submitting organization. Individuals with primary appointments at for-profit non-academic organizations or at overseas branch campuses of U.S. institutions of higher education are not eligible.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+A Principal Investigator (PI) or co-Principal Investigator (co-PI) can be part of no more than one proposal per deadline in response to this solicitation
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

@@ -18,3 +18,210 @@ Status: Cleared
 Posted date (Y-m-d): 2019-04-09
 URL: https://www.nsf.gov/funding/opportunities/mms-methodology-measurement-statistics/nsf19-575
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Methodology, Measurement, and Statistics (MMS)
+
+I. Introduction
+
+The Methodology, Measurement, and Statistics (MMS) Program is a standing, interdisciplinary program in the Directorate for Social, Behavioral, and Economic Sciences (SBE). MMS supports the development of innovative analytical and statistical methods and models for those sciences. The Program interacts with the other programs in SBE as well as other programs in the Foundation. The Program also partners with a consortium of federal statistical agencies to support research proposals that further the production and use of official statistics.
+
+II. Program Description
+
+Program Mission Statement
+
+The MMS Program seeks proposals that are methodologically innovative, grounded in theory, and have potential utility for multiple fields within the social, behavioral, and economic sciences. Successful proposals often integrate across the following areas:
+
+The development, application, and extension of formal models and methodology for social, behavioral, and economic research, including methods for improving measurement. The proposed research must show promise for having value for multiple fields in the social, behavioral, and economic sciences.
+
+The development of formal models that cross traditional disciplinary boundaries, including research on statistical methodology or statistical modeling. The proposed research must show promise for having value for multiple social and behavioral science fields.
+
+Research on methodological aspects of new or existing procedures for data collection, including methodological advances for survey research; research to evaluate or compare existing databases and data collection procedures; and research on methodological issues related to the use and analysis of new sources of data for the social, behavioral, and economic sciences.
+
+methodological advances for survey research;
+
+research to evaluate or compare existing databases and data collection procedures; and
+
+research on methodological issues related to the use and analysis of new sources of data for the social, behavioral, and economic sciences.
+
+Infrastructure projects that facilitate the research activities of the MMS community.
+
+The MMS Program provides support through a number of different types of proposals including:
+
+Regular Research Awards
+
+Awards for conferences and community-development activities
+
+Doctoral Dissertation Research Improvement (DDRI) Grants
+
+Research Experience for Undergraduates (REU) Supplements
+
+MMS also supports Faculty Early Career Development (CAREER) awards. Please see the CAREER Program Web Site for more information on this activity.
+
+Types of Proposals
+
+1) Regular Research Awards
+
+Most of the proposals submitted to the MMS Program fall into the category of regular research awards. With the exception of a long-standing partnership with a consortium of federal statistical agencies (described in detail below) and the occasional NSF Dear Colleague letter, the MMS Program does not solicit particular areas of research. Rather, the Program invites the community to submit a broad range of cutting-edge methodological research for the social, behavioral, and economic sciences.
+
+The Program also supports some infrastructure-type activities for the social, behavioral, and economic sciences. Infrastructure proposals must demonstrate the value of the proposed activities for the broader community of social, behavioral, and economic scientists. The full portfolio of active MMS awards is available on the MMS Program Web Site .
+
+Data Collection Methods
+
+The Federal Statistical System faces the challenge of gathering relevant and reliable data for the next decade and beyond. The potential for conducting surveys via the web, for example, raises a host of important methodological questions. Questions regarding the impact of nonresponse on the validity and reliability of survey data need to be addressed. The increasing use of multi-mode surveys, in part to address declining response, has raised new methodological challenges.
+
+Since 1999, the MMS Program has collaborated with a consortium of federal statistical agencies represented by the Interagency Council on Statistical Policy (ICSP) and the Federal Committee on Statistical Methodology (FCSM) to further research related to the production and use of official statistics. In the past, the solicitation has emphasized the development of new and innovative approaches to surveys and methods for the analysis of survey data. In addition to those two areas of research, this solicitation encourages research on alternatives to survey-based approaches to producing statistics.
+
+Researchers need to think creatively regarding the development of methods for the production and use of data. Potential topics for consideration include, but are not limited to the following:
+
+Measurement Issues (e.g., investigation of measurement implications of multi-mode surveys; methods for evaluation of the quality of data obtained from administrative records and other organic sources; the combination of survey and other data sources);
+
+Questionnaire Design (e.g., applications of psychology or linguistics to questionnaire design);
+
+Survey Design and Technology (e.g., frame development and refinement; address-based sampling; designs for rare or hard-to-reach subpopulations; designs for complex households or complex economic units; design and evaluation of complex edit and imputation procedures; adaptive design);
+
+Analytical Issues (e.g., uses of administrative records, paradata, or other organic sources to supplement surveys);
+
+Small Area Estimation (e.g., improvements in current estimation and inference methods);
+
+Inferential Methods and Related Tools (e.g., estimation and inference methods appropriate for data collected from, for example, complex adaptive designs or non-probability designs; methods for using combined data sources);
+
+Data Improvement (e.g., disclosure limitation methods; development of metrics that quantify nonresponse bias without a traditional follow-up survey; assessment of the quality of survey and non-survey data sources);
+
+Data Dissemination and Visualization.
+
+Although proposals submitted in response to this solicitation may address any aspect of the topics listed above, priority will be given to basic research proposals that are interdisciplinary in nature, have broad implications for the field in general, and have the greatest potential for creating fundamental knowledge of value to the Federal Statistical System. Because methodological problems often require knowledge and expertise from multiple disciplines, collaborations among the relevant sciences, including the social sciences, linguistics, cognitive science, statistics, computer science, and economics are welcome. Although proposals on the above topics may be submitted to either one of the two MMS deadline dates, only proposals submitted to the January due date are guaranteed full consideration by the federal statistical agencies.
+
+Grantees for awards funded with support from the federal statistical agencies may be invited to participate in a one- or two-day meeting in the Washington, DC area to report on their activities and interact with other grantees and federal agency staffers. Budget requests should include travel funds to accommodate that possibility.
+
+MMS will coordinate and manage the review of proposals jointly considered by MMS and the federal statistical agencies. Relevant information about proposals and reviews of proposals will be shared with participating organizations as appropriate.
+
+Information about Participating Federal Statistical Agencies
+
+The Interagency Council on Statistical Policy (ICSP) consists of the heads of the 14 largest statistical agencies and is chaired by the chief statistician of the Office of Management and Budget. It was formally established by the Paperwork Reduction Act of 1995 to discuss and determine statistical policy issues. The Federal Committee on Statistical Methodology (FCSM) consists of experts from within the Federal Statistical System who consider methodological issues of importance to the statistical system. The Federal Statistical System includes 10 agencies that have statistical activities as their principal mission and about 60 agencies that carry out statistical activities in conjunction with other missions, such as providing services or enforcing regulations.
+
+Consortium agencies include the following:
+
+Department of Agriculture (National Agricultural Statistics Service; Economic Research Service) Department of Commerce (Bureau of the Census; Bureau of Economic Analysis) Department of Education (National Center for Education Statistics) Department of Energy (Energy Information Administration) Department of Health and Human Services (National Center for Health Statistics) Department of Justice (Bureau of Justice Statistics) Department of Labor (Bureau of Labor Statistics) Department of Transportation (Bureau of Transportation Statistics) Department of Treasury (Statistics of Income Division, Internal Revenue Service (IRS)) National Science Foundation (National Center for Science and Engineering Statistics) Social Security Administration (Office of Research, Evaluation, and Statistics)
+
+2) Awards for conferences and community-development activities
+
+As part of its infrastructure activities, the Program accepts and reviews proposals for the conduct of conferences that contribute in meaningful ways to the development of methods for the social, behavioral, and economic sciences. The Program specifically encourages proposals that support activities designed to further the development of an MMS community of scholars with complementary interests across the social, behavioral, and economic sciences. Conferences that bring diverse sets of MMS methodologists together to identify complementary approaches and gaps in knowledge are particularly welcome. Conference proposals should be submitted in accordance with PAPPG Chapter II.E.7.
+
+3) Doctoral Dissertation Research Improvement (DDRI) Awards
+
+In an effort to improve the quality of dissertation research, the Methodology, Measurement, and Statistics Program accepts and reviews DDRI proposals. The proposal should describe the scientific significance of the proposed work, including its relationship to other current research, and the design of the project in sufficient detail to permit evaluation. If the project is already underway, the proposal should present and interpret progress to date. A research schedule should be included. Although the student cannot submit a proposal independently, it is expected that the intellectual input to the proposed research be predominantly that of the student. The funds are to be used for expenses associated with the conduct of the dissertation research that normally are not underwritten by the home institution.
+
+DDRI proposals must be submitted by a U.S. Institution of Higher Education (IHE) on behalf of the dissertation advisor and graduate student who is at the point of initiating or already conducting dissertation research. The advisor serves as the principal investigator and the student as the co-principal investigator. The student must be enrolled at a U.S. IHE but does not need to be a U.S. citizen.
+
+DDRI Project Descriptions may be no more than 10 (ten) pages in length; however, the Results from Prior NSF Support section is not required. Appendices are not allowed. "Doctoral Dissertation Research:" should be the prefix before the substantive title of the DDRI proposal.
+
+DDRI awards are not intended to provide the full costs of a student's doctoral dissertation research. DDRI awards recommended by MMS will not exceed $18,000, a total that includes both allowable direct costs and appropriate indirect costs over the duration of the award. Project budgets should be developed at scales appropriate for the work to be conducted and may only include costs directly associated with the conduct of dissertation research. DDRI awards provide funding for research costs not normally covered by the student's university. Examples of the kinds of expenses that may be included in a DDRI proposal budget are the following:
+
+Costs associated with travel and related expenses to conduct research at field sites, archives, specialized collections, and/or facilities away from the student's campus.
+
+Costs for data-collection activities, including the conduct of surveys, questionnaires, and/or focus groups or the purchase of extant data.
+
+Costs for equipment necessary for the conduct of the project that will be devoted to the project over the duration of the award. (Note that any equipment purchased with NSF funds generally becomes the property of the awardee organization.)
+
+Costs for payments to research subjects and/or informants.
+
+Costs for materials and supplies required for the conduct of the project.
+
+Costs for analysis and research services not otherwise available.
+
+Costs for travel to one or two professional meetings to present preliminary research results and obtain feedback to further improve the project. (Note also that MMS will not recommend a DDRI award solely to provide support to share research results at conferences.)
+
+Costs that cannot be reimbursed by DDRI awards include the following:
+
+A stipend or salary for the doctoral student or advisor. (Note that salaries or payments for work by other individuals whose assistance may be essential for the conduct of the project may be permitted when there is sound justification for such expenses.)
+
+Costs for tuition, textbooks, or other items not directly related to the conduct of dissertation research.
+
+Publication costs for articles based on the dissertation, except when the university's degree requirements permit the substitution of published research results for a free-standing dissertation.
+
+Costs for travel of the advisor to the field site and/or professional meetings.
+
+DDRI awards may be for one or two years in duration. The dissertation does not have be completed during that time period, but costs associated with research activities to be reimbursed with DDRI funds must be incurred when the award is active.
+
+Note: Since salaries or stipends for the doctoral student or their advisor(s) are not eligible for support, after the PI and co-PI(s) are entered on the Cover Sheet, their names should be manually removed from the Senior Personnel Listing on the budget pages. This is to avoid construal as voluntary committed cost sharing which is not permitted.
+
+4) Research Experiences for Undergraduates (REU) Supplements
+
+To enhance undergraduate education and training in the development of methods for the social, behavioral, and economic sciences and to broaden the participation of underrepresented students in high-quality research projects, the MMS Program encourages the submission of REU supplements to ongoing MMS-supported research projects. The supplement request should not exceed three pages and should describe the proposed student's involvement in the project, identifying the value of the student's participation both for the conduct of the research and for the student's academic development. The experience of the investigator in involving undergraduates in research should be discussed, including the results of prior REU supplement support (if applicable). If the student has been preselected, the supplement request should describe the grounds for selection and include a brief biographical sketch of the student. If the student has not been preselected, the supplement request should discuss the process and criteria for selecting the student. The MMS Program particularly encourages the submission of REU supplements to support the participation of women and other underrepresented groups in the research process.
+
+Undergraduate student participants must be U.S. citizens, U.S. nationals, or permanent residents of the United States. All students costs must be entered under Participant Support Costs. (Indirect costs are not allowed on Participant Support Costs.) Costs associated with an REU supplement may not exceed $8,000 per student, with a maximum of two students supported. See the NSF-wide Research Experience for Undergraduates (REU) solicitation for additional information.
+
+Investigators may submit REU supplement requests at any time. It is recommended, however, that the investigator contact the NSF MMS program officer prior to submission. The Program generally will consider no more than one REU supplement per award.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 15 to 35
+
+Anticipated Funding Amount: $3,760,000
+
+Approximately $3.76 million will be awarded annually, contingent upon the availability of funds. Additional funds may be available from participating federal statistical agencies for competitive research proposals of interest to those agencies. Project budgets should be developed at scales appropriate for the work to be conducted.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+Doctoral Dissertation Research Improvement Awards: DDRI proposals must be submitted with a principal investigator (PI) and a co-principal investigator (co-PI). The PI must be the advisor of the doctoral student or another faculty member at the U.S. institution where the doctoral student is enrolled. The co-PI must be the doctoral student whose dissertation research will be supported.
+
+For all other types of awards , there are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

@@ -12,3 +12,114 @@ Status: Cleared
 Posted date (Y-m-d): 2024-05-09
 URL: https://www.nsf.gov/funding/opportunities/cs2-correctness-scientific-computing-systems/nsf24-571
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Correctness for Scientific Computing Systems (CS 2 )
+
+I. Introduction
+
+Scientific computing is fundamental to science and engineering in areas as far-ranging as precision manufacturing, simulation of modern power grids, fighting emerging pandemics, and climate modeling. In the modern context, scientific computing is often carried out under tight time schedules, and often involves running highly optimized programs on cutting-edge hardware to obtain the highest possible performance at scale. Not only have the numerical algorithms underlying scientific computing become more complex, but also the supporting hardware and software have become more heterogeneous: they employ multiple concurrency models, different numerical schemes, different number representations, and a variety of accelerators including Graphics Processing Units (GPUs), Tensor Cores, and Matrix Accelerators that differ from each other in subtle ways. At this pace and scale, errors can occur at all levels, risking dissemination of incorrect results, release of flawed tool chains, and slowdown of scientific findings and discoveries. For additional background, please see the reports cited below.
+
+This escalation of complexity and the potential risks from software and hardware errors motivate the need for research in innovative techniques to address correctness challenges. There is sustained interest in the scientific-computing community: several community-wide meetings such as the 2023 DOE/NSF Workshop on Correctness in Scientific Computing ( report ), the 2017 HPC Correctness Summit , and the annual (since 2017) International Workshop on Software Correctness for HPC Applications (held as a satellite workshop of the Supercomputing conference) have asserted that ensuring correctness of scientific computing applications is one of the most pressing outstanding challenges faced by the scientific computing community today.
+
+Correctness for Scientific Computing Systems (CS 2 ) is a joint program of the National Science Foundation (NSF) and the Department of Energy (DOE). The program addresses challenges that are both core to DOE's mission and essential to NSF's mission of ensuring broad scientific progress. The program's overarching goal is to elevate correctness as a fundamental requirement for scientific computing tools and tool chains, spanning low-level libraries through complex multi-physics simulations and emerging scientific workflows.
+
+At an elementary level, correctness of a system means that desired behavioral properties will be satisfied during the system's execution. In the context of scientific computing correctness can be understood, at both the level of software and hardware, as absence of faulty behaviors such as excessive numerical rounding, floating-point exceptions, data races deadlocks, memory faults, violations of specifications at interfaces of system modules, and so on. The CS 2 program puts correctness on an equal footing with the focus of current scientific computing research: performance. The program envisions the necessity of proving correctness, even in performant scientific computing systems. Such correctness proofs themselves might rely upon multiple factors, including correctness of static and runtime program analyses. Recognizing that many scientific computing applications are inherently statistical, use probabilistic or randomized algorithms, and/or deal with uncertain data, probabilistic notions of correctness may be needed. It is also critical to realize that correctness guarantees are provided with respect to some predefined system model. For many reasons, including misspecification, approximation, and defect, the state space allowed by real systems might depart from that model. When this happens, the ability to probe the system to isolate the discrepancy is a key challenge in many domains.
+
+II. Program Description
+
+The CS 2 program requires close and continuous collaboration between researchers in two complementary areas of expertise. One area is scientific computing, which, for this solicitation, is broadly construed to include: models and simulations of scientific theories; management and analysis of data from scientific simulations, observations, and experiments; libraries for numerical computation; and allied topics. The second area is formal reasoning and mechanized proving of properties of programs, which, for this solicitation, is broadly construed to include automatic/interactive/auto-active verification, runtime verification, type systems, abstract interpretation, programming languages, program analysis, program logics, compilers, concurrency, stochastic reasoning, static and dynamic testing, property-based testing, and allied topics.
+
+The CS 2 program solicits research proposals that advance general theories, principles, and methodologies for verified scientific computing. All proposals must present basic research for making such verification:
+
+A. modular (that is, layered as opposed to monolithic, with intermediate results proved for each module interface),
+
+B. end-to-end (that is, connect program code to high-level specifications of scientific systems to be approximated); and
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 5
+
+Approximately 5 awards will be made each year in FY 2025, FY 2026, and FY 2027. Awards of up to $800,000 per award, exclusive of funding to DOE National Laboratories and their sub-recipients, with durations up to 4 years are anticipated, subject to availability of funds and quality of proposals received.
+
+Anticipated Funding Amount: $18,000,000
+
+$3M per year from NSF and $3M per year from DOE.
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds and quality of proposals received.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members.
+
+DOE National Laboratories.
+
+Who May Serve as PI:
+
+By the submission deadline, any PI, co-PI, or other senior/key personnel must:
+
+be a DOE National Laboratory employee; or
+
+must hold either: a tenured or tenure-track position, or a primary, full-time paid appointment in a research or teaching position at a US-based campus of an organization eligible to submit to this solicitation (see above), with exceptions granted for family or medical leave, as determined by the submitting organization. Individuals with primary appointments at for-profit non-academic organizations or at overseas branch campuses of U.S. institutions of higher education are not eligible. A project must have at least one (co)-PI with expertise in scientific computing and at least one (co)-PI with expertise in formal reasoning and mechanized proving of properties of programs.
+
+a tenured or tenure-track position, or
+
+a primary, full-time paid appointment in a research or teaching position
+
+at a US-based campus of an organization eligible to submit to this solicitation (see above), with exceptions granted for family or medical leave, as determined by the submitting organization. Individuals with primary appointments at for-profit non-academic organizations or at overseas branch campuses of U.S. institutions of higher education are not eligible.
+
+A project must have at least one (co)-PI with expertise in scientific computing and at least one (co)-PI with expertise in formal reasoning and mechanized proving of properties of programs.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 2
+
+An investigator may participate as PI, co-PI, or Senior/Key Personnel in no more than two (2) proposals submitted in response to this solicitation, per deadline. An investigator cannot be PI, co-PI, or Senior/Key Personnel on more than two (2) awards throughout the life of this program (FY 2025 – FY 2027). A project must have at least one (co)-PI with expertise in scientific computing and at least one (co)-PI with expertise in formal reasoning and mechanized proving of properties of programs.
+
+These eligibility constraints will be strictly enforced in order to treat everyone fairly and consistently . In the event that an individual exceeds the participation limit, proposals received within the limit will be accepted based on earliest date and time of proposal submission (i.e., the first two proposals received will be accepted, and the remainder will be returned without review). Additionally, a participant who is already PI, co-PI, or Senior/Key Personnel on two (2) awards, can no longer submit a proposal to the program. No exceptions will be made.
+
+Proposals submitted in response to this solicitation may not duplicate or be substantially similar to other proposals concurrently under consideration by NSF or the DOE.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

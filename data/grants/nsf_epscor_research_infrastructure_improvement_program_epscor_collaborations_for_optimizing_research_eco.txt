@@ -12,3 +12,192 @@ Status: Cleared
 Posted date (Y-m-d): 2024-12-13
 URL: https://www.nsf.gov/funding/opportunities/e-core-epscor-research-infrastructure-improvement-program-epscor/nsf25-523
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+EPSCoR Research Infrastructure Improvement Program: EPSCoR Collaborations for Optimizing Research Ecosystems (E-CORE)
+
+I. Introduction
+
+The Established Program to Stimulate Competitive Research (EPSCoR) fulfills the mandate of the U.S. National Science Foundation (NSF) to promote scientific progress nationwide. NSF EPSCoR pursues a mission to enhance the research competitiveness of targeted jurisdictions (state, territory or commonwealth) by strengthening science, technology, engineering and mathematics (STEM) capacity and capability through a diverse portfolio of investments from talent development to local infrastructure. NSF envisions EPSCoR jurisdictions as recognized contributors to the national and global STEM research enterprise.
+
+The goals of NSF EPSCoR are to:
+
+Catalyze the development of research capabilities and the creation of new knowledge that expands jurisdictions’ contributions to scientific discovery, innovation, learning, and knowledge-based prosperity
+
+Establish sustainable STEM education, training, and professional development pathways that advance jurisdiction-identified research areas and workforce development
+
+Broaden direct participation of individuals and organizations in the project’s science and engineering research and education initiatives
+
+Effect sustainable engagement of project participants and partners, the jurisdiction, the national research community, and the general public through data-sharing, communication, outreach, and dissemination
+
+Impact research, education, and economic development beyond the project at academic, government, and private sector levels.
+
+Through NSF EPSCoR, NSF seeks to catalyze and enhance partnerships among organizations, government, industry, and non-profit sectors that will sustainably improve upon existing and new research infrastructure, research and development (R&D) capacity, and R&D competitiveness.
+
+The EPSCoR Collaborations for Optimizing Research Ecosystems (E-CORE) Program was created in response to input from recent national studies and legislation, including the 2022 2M Study of EPSCoR , Envisioning the Future of NSF EPSCoR report , and the Chips and Science Act of 2022 (Public Law 117 – 167).Coupled with the EPSCoR Research Infrastructure Improvement Program: EPSCoR Incubators for STEM Excellence (E-RISE), which focuses on the transformation of a jurisdiction’s research ecosystem based on jurisdictional need, variation, and integration of core elements, E-CORE and E-RISE supplants goals of the NSF EPSCoR RII Track-1 Program, which was archived in FY2024.
+
+E-CORE supports jurisdictions in building significant and sustainable research capacity and research infrastructure for targeted areas of focus, hereinafter referred to as “cores”, that underlie a jurisdiction's research ecosystem.
+
+A jurisdiction’s research ecosystem is the interconnected network of organizations, researchers, trainees, community stakeholders, and resources that contribute to the process of research and innovation that advances fundamental knowledge, generates use-inspired products, and ultimately cultivates beneficial impacts for a jurisdiction.
+
+A robust research ecosystem is an environment where research can thrive, leading to new discoveries, technological advancements, and solutions to complex problems. Although every jurisdiction is unique, typical components of the research ecosystem include (see Figure 1):
+
+Organizations : Degree-granting institutions, non-degree granting research institutes or organizations, government agencies, private organizations, including not-for profit and for-profit organizations that conduct or support research.
+
+Researchers: Scientists, scholars, trainees and other professionals who design and execute research projects.
+
+Funding Sources: Government grants, private sector investments, and philanthropic contributions that provide financial support for research activities.
+
+Infrastructure: Laboratories, field stations, research sites, facilities, equipment, databases, and technological tools that enable researchers to conduct experiments and analyze data.
+
+Collaboration Networks: Partnerships and collaborations between organizations, researchers, and industries that facilitate the exchange of knowledge and resources.
+
+Policy and Regulation: Guidelines and regulations that govern research practices, ethics, and funding.
+
+Knowledge Transfer: Mechanisms for sharing research findings with the broader community, including publications, conferences, patents, commercialization efforts, and research synthesis meetings with community stakeholders.
+
+Based on the evidence-based and self-identified needs of the jurisdiction, capacity building supported by E-CORE projects may include (but is not limited to) development, enhancement, and/or sustainability of: jurisdiction-wide research administration; research facilities; higher education pathways; STEM education (K-12) pathways; broadening participation; workforce development; national and global partnerships; community engagement and outreach; economic development and use-inspired research; and/or early career research trainee pathways. E-CORE projects must be designed to support the sustainability of the cores beyond the award period. In E-CORE’s support of cores in an EPSCoR-eligible jurisdiction, the program will also support the development and growth of new jurisdiction-wide networks, and the leveraging of existing jurisdictional networks, that can drive demonstrable and sustainable impact to advance the jurisdiction-wide research ecosystem.
+
+E-CORE seeks to align EPSCoR programmatic goals with levels of innovation in research ecosystems within EPSCoR-eligible jurisdictions in order to develop a dynamic and sustainable ecosystem. A critical level of innovation in the EPSCoR STEM research ecosystem is the Jurisdiction Research Excellence and Competitiveness (JREC) level ( 2M report on EPSCoR , 2022), which provides a framework to capture and connect the range of academic, nonprofit, and private sector organizations that contribute to jurisdiction-wide competitiveness in STEM. Relationships among research organizations, state- or jurisdiction-level policies and incentives, R&D programs and strategies, political and constituency support, infrastructure quality and maintenance, and investment strategies contribute to this level of competitiveness. All other levels of competitiveness and the overall research ecosystem are embedded within JREC.
+
+Figure 1. Critical Elements of a Competitive Research Ecosystem. E-CORE supports a centralized Administrative Core that connects and engages all elements of the jurisdiction’s research ecosystem. E-CORE is designed to connect the multiple components of the research ecosystem through focused activities intended to build jurisdiction-identified research infrastructure cores.
+
+II. Program Description
+
+A. E-CORE Program Goals
+
+A jurisdiction’s research ecosystem is the interconnected network of organizations, researchers, trainees, community stakeholders, and resources that contribute to the process of research and innovation that advances fundamental knowledge, generates use-inspired products and ultimately cultivates beneficial impacts for a jurisdiction. E-CORE supports jurisdictions in building significant and sustainable research capacity and research infrastructure for targeted areas of focus, hereinafter referred to as “cores”, that underlie a jurisdiction's research ecosystem.
+
+E-CORE projects must be designed to support the sustainability of the research infrastructure cores beyond the award period with non-EPSCoR RII funds. Projects will also support the development and growth of new jurisdictional networks, and the leveraging of existing jurisdictional networks, to drive demonstrable and sustainable impacts.
+
+E-CORE projects are expected to improve a jurisdiction’s R&D competitiveness by creating a coordinated jurisdiction-wide, interconnected network to connect core components of a jurisdiction’s research ecosystem, and by providing opportunities for researchers and stakeholders to meaningfully connect and engage within it.
+
+E-CORE aims to support EPSCoR-eligible jurisdictions to:
+
+Leverage the understanding of a jurisdiction’s needs, challenges, and opportunities to build significant and sustainable research infrastructure within a jurisdiction's science and technology research ecosystem;
+
+Build capacity to scale jurisdiction-wide investigator expertise that will support sustained, reciprocal research and education partnerships and increase the likelihood of follow-on funding from non-EPSCoR RII sources; and
+
+Develop sustainable pathways to broaden the participation in a jurisdiction’s research ecosystem.
+
+E-CORE proposals should establish a time-bound vision for how project activities will substantively and sustainably enhance the R&D competitiveness of a jurisdiction's organizations, with the intentional involvement of emerging research institutions, minority-serving institutions, and other important contributors to a jurisdiction's research ecosystem. Through its cores, E-CORE projects should create substantive efforts and research infrastructure that will be sustained beyond the award period. To ensure sustainability, proposers should describe opportunities to re-evaluate and evolve the vision and core activities as the needs of the jurisdiction’s research ecosystem evolve.
+
+E-CORE proposals must also detail the alignment of the project with all five EPSCoR program goals. A project’s cores should be identified and justified by leveraging an assessment of a jurisdiction’s needs, challenges, and opportunities, the strengths of the proposing team, and the jurisdiction’s priorities. Those priorities are typically identified in the jurisdiction’s Science & Technology Plan (S&T Plan), but may also be drawn from other plans, reports, or publications prepared by appropriate authorities or bodies, especially in cases where a jurisdiction’s S&T plan has not yet been revised to include research infrastructure priorities. The proposal’s justification for core selection should include a data-driven or evidence-based vision and assessment of the identified needs and priorities of a jurisdiction.
+
+B. The Administrative Core
+
+Each E-CORE project must have an Administrative Core. A critical role of this core is to establish a foundational framework that connects groups of investigators and partners across the jurisdiction. Activities within this core will foster reciprocal collaboration and be intentionally designed to make the jurisdiction’s research ecosystem accessible to all researchers. Administrative core activities must create connections between individuals, teams, organizations, and sectors within a jurisdiction’s research ecosystem. The Administrative Core may utilize seed funding and workshops to connect and provide support for individuals and teams to engage within the greater jurisdiction-wide research ecosystem. The Administrative Core should also serve as the center of project management for the E-CORE project and should include an individual serving in a role such as Project Administrator or Project Manager.
+
+Since E-CORE projects are expected to form jurisdiction-wide networks that substantively and sustainably contribute to a jurisdiction’s research ecosystem, the Administrative Core is expected to coordinate efforts with other networks having a similar goal of jurisdiction-wide research infrastructure capacity building. Moreover, to ensure an effectively interconnected and sustainable jurisdiction-wide research ecosystem, Administrative Core efforts and activities should connect to existing networks created by RII Track-1 , E-CORE, E-RISE , or any other NSF-funded (including those beyond the NSF EPSCoR RII program) jurisdiction-wide research capacity building awards. Proposers should provide a plan that describes the project’s prior coordination efforts in the jurisdiction, how project activities will be coordinated across the jurisdiction, and/or how connections will be made with the other projects mentioned above that seek to create jurisdiction-wide networks that build research capacity.
+
+In jurisdictions with a pre-existing and active EPSCoR Jurisdiction/State Office, the Administrative Core is expected to coordinate with this office to avoid a duplication of efforts, complement existing or ongoing work of the office, and transition Jurisdiction/State Office functions if desirable. In cases where the operations of a Jurisdiction/State Office have been supported by an expiring RII Track-1 award, the Administrative Core(s) of one or more E-CORE awards may be used to support the Jurisdiction/State Office as part of the Administrative Core(s) activities. E-CORE proposals should put forth a clear plan of how the Administrative Core will coordinate with other present and future E-CORE and other types of EPSCoR and non-EPSCoR capacity building projects, with an active Jurisdiction/State Office (if present), and describe how they will coordinate with other federally funded projects that build capacity for substantive jurisdiction-wide research infrastructure.
+
+The Administrative Core, in collaboration with other E-CORE Administrative Cores and any Jurisdiction/State Office, is expected to work closely with the Jurisdictional Steering Committee (see subsection F) to continuously assess and address evolving strengths and needs within the jurisdiction’s research ecosystem. These assessments should be data-driven and evidence-based and help inform the Jurisdictional Steering Committee’s efforts to periodically update an evolving S&T plan for the jurisdiction.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 15
+
+The number of awards granted annually is subject to the availability of funding. Multiple awards within a single jurisdiction will also be considered based on the availability of funds.
+
+Projects may be funded for up to eight years, with an initial award for the first four years and the possibility of a renewal project award for four additional years based on project performance and the completion of project milestones. Each individual year’s continued funding will be contingent on satisfactory progress based on the annual reporting and progress toward implementing the strategic plan.
+
+Anticipated Funding Amount: $37,500,000
+
+An annual budget of up to $37.5 million is available to support up to 15 new E-CORE awards. The number of awards will depend on the availability of funds and the quality of submitted proposals.
+
+Funding requests must be for a duration of four (4) years, with a maximum budget of $10 million total for the first four years and an optional renewal project award maximum budget of $8 million total for an additional four years. Within the maximum award budget, there is no restriction on the amount requested annually.
+
+Note that in only rare and exceptional circumstances will no-cost extensions be granted during the initial or renewal project award period.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of higher education (PhD- and non-PhD-granting) that are accredited and operate a campus within the United States, its territories, or possessions, may submit proposals on behalf of their faculty. Distinct academic campuses within multi-campus systems (e.g., campuses that award their own degrees and have independent administrative structures, admissions policies, and alumni associations) qualify as separate submission-eligible institutions. Campuses that plan to submit a proposal through the Sponsored Projects Office of other campuses or organizations should contact NSF EPSCoR to discuss eligibility as early as possible and at least six weeks before submitting such a proposal.
+
+Distinct academic campuses within multi-campus systems (e.g., campuses that award their own degrees and have independent administrative structures, admissions policies, and alumni associations) qualify as separate submission-eligible institutions.
+
+Campuses that plan to submit a proposal through the Sponsored Projects Office of other campuses or organizations should contact NSF EPSCoR to discuss eligibility as early as possible and at least six weeks before submitting such a proposal.
+
+Non-profit, non-degree-granting domestic U.S. organizations, acting on behalf of their employees, that include (but are not limited to) independent museums and science centers, observatories, research laboratories, professional societies, and similar organizations that are directly associated with the Nation’s research or educational activities. These organizations must have an independent, permanent administrative organization (e.g., an office of sponsored research) located in the United States, its territories, or possessions, and have 501(c)(3) tax status.
+
+Jurisdictional/state governments, or agencies or commissions thereof, when coordinating efforts of multiple organizations within the jurisdiction.
+
+Tribal Governments with the governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a, et seq.) or Indigenous communities that are not recognized by the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a, et seq.).
+
+E-CORE proposals may only be submitted by organizations within jurisdictions meeting the EPSCoR eligibility criteria .
+
+E-CORE proposals may not be submitted by organizations that serve as the lead organization on an active E-CORE or RII Track-1 award unless that award is in its final year or under a no-cost extension and will not be renewed. However, individuals employed by said organizations may serve as funded project participants or collaborators in roles other than PI or co-PI in an E-CORE proposal submitted by another organization. Such engagement must not be duplicative of currently funded activities, including active EPSCoR RII awards.
+
+E-CORE submissions should be multi-organizational, with a lead organization and additional collaborating partner(s), which may include academic and non-academic organizations.
+
+Collaborations must be indicative of building or developing cores within the jurisdiction and an interconnected jurisdiction-wide network that is able to link research efforts to individuals in a jurisdiction’s research ecosystem.
+
+NSF encourages the participation of Emerging Research Institutions as the lead organization and/or collaborative partners in E-CORE submissions:
+
+Emerging Research Institutions as defined in 42 § USC 18901 as institutions of higher education with an established undergraduate or graduate program that have less than $50,000,000 in Federal research expenditures within the year of the most currently available data;
+
+Collaborations with other EPSCoR jurisdictions, non-EPSCoR jurisdictions, and international entities are allowed provided there is appropriate justification of how such collaborations will improve research infrastructure within the proposing jurisdiction in ways that cannot be achieved through collaborations within the jurisdiction. However, since EPSCoR program funds may only be allocated for activities and personnel within an EPSCoR jurisdiction, participation of collaborators in non-EPSCoR jurisdictions must be unfunded collaborators.
+
+Who May Serve as PI:
+
+Principal Investigators must hold at least 50% appointments in eligible organizations within an EPSCoR jurisdiction.
+
+Each collaborating organization must be represented by a PI, co-PI, or other senior/key personnel.
+
+Limit on Number of Proposals per Organization: 1
+
+An organization may serve as the lead on only one RII Track-1 award, E-CORE submission, or E-CORE award at a time, except when the active RII Track-1 or E-CORE award is in its final year or under a no-cost extension and will not be renewed.
+
+There is no limit on the number of submissions or awards per jurisdiction. Projects may take the form of a single organization submission with subawards or a set of separately submitted collaborative proposals (any of which may contain subawards).
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may serve as PI or co-PI on only one RII Track-1 award, E-CORE submission, or E-CORE award at any given time (unless an existing RII Track-1 or E-CORE award is in its final year, or in a no-cost extension, and has not been selected for renewal project award), but may serve as senior personnel, or in roles other than PI or co-PI, on any number of E-CORE submissions or awards.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

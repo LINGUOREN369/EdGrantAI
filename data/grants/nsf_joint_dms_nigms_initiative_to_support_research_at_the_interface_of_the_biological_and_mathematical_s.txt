@@ -11,3 +11,122 @@ Status: Cleared
 Posted date (Y-m-d): 2022-05-31
 URL: https://www.nsf.gov/funding/opportunities/dmsnigms-joint-dmsnigms-initiative-support-research-interface/nsf22-600
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences (DMS/NIGMS)
+
+I. Introduction
+
+The extraordinary growth of available data has created tremendous opportunities for revolutionary mathematics-driven advances in biological and biomedical research. In this initiative, the National Institute of General Medical Sciences (NIGMS) and the National Science Foundation's Division of Mathematical Sciences (NSF/DMS) partner to promote research at the interface of the biological, biomedical, and mathematical sciences. The expertise of DMS in mathematical, computational, and statistical sciences and the complementary expertise of NIGMS in biological and biomedical research are expected to provide support for novel and transformative quantitative life sciences research.
+
+A successful proposal is expected to address clearly stated biological/biomedical questions, make a compelling case for and develop innovative mathematical/computational/statistical methods or integrate disparate mathematical/computational/statistical fields, and articulate a well-defined plan for the mathematics or statistics to drive biological/biomedical discovery within the funded period. A clear description on the contribution of the mathematical/computational/statistical work to improved understanding of biological/biomedical problems is required. Research collaborations that include scientists from both the life and mathematical science communities are expected. Proposals from single investigators must provide convincing evidence that the principal investigator has the necessary expertise in both mathematics/statistics and life sciences. While projects from existing collaborations are allowed, we strongly encourage exploratory, high-risk and high-reward Track 1 proposals from new teams of researchers.
+
+All proposals in response to this solicitation must address important questions in the biological and biomedical sciences that are within the NIGMS mission ( https://www.nigms.nih.gov/research-areas ), which is to support fundamental research that increases our understanding of basic biological processes and lays the foundation for future advances in disease diagnosis, treatment, and prevention. NIGMS supports research and technology development that is aimed at understanding general principles, mechanisms, and processes through Scientific Divisions with diverse interests. NIGMS does not focus on single classes of cells, tissues, organs, or diseases unless they are used as models for elucidating basic principles. ( http://www.nigms.nih.gov/about/Pages/contactbyarea.aspx ). Proposals that do not conform to the NIGMS mission will be returned without review.
+
+Note : Proposals submitted to this solicitation for work based on topics or approaches for which the PI, co-PI or Senior Personnel previously received support from the joint DMS/NIGMS program will be returned without review.
+
+II. Program Description
+
+The Division of Mathematical Sciences (DMS) within the Directorate for Mathematical and Physical Sciences (MPS) and the National Institute of General Medical Sciences (NIGMS) anticipate supporting innovative research in the mathematical and statistical sciences motivated by biological and biomedical applications. Appropriate application areas of biological and biomedical sciences are those currently supported by the National Institute of General Medical Sciences (cf., https://www.nigms.nih.gov/research-areas ; https://www.nigms.nih.gov/Research/specificareas/mathbio ).
+
+Investigators are strongly encouraged to contact the Management Team via email ( DMS-NIGMS@nsf.gov ) before submitting a proposal to discuss suitability. Email inquiries should (i) identify the key personnel (PI, co-PI, and Senior Personnel) and their research expertise, (ii) provide a brief description of the biological/biomedical application and the novelty of the proposed quantitative approach.
+
+Mathematical scientists (pure, applied, computational, and/or statistical) and others capable of developing innovative methods and tools in mathematical sciences, are encouraged to apply. Successful projects to the joint DMS/NIGMS initiative are anticipated to impact and advance biological/biomedical research and lead to advances in the mathematical sciences. Interdisciplinary collaborations between mathematical/statistical and biological/biomedical scientists are expected and highly preferred.
+
+Examples of relevant research areas/topics of inquiry to the joint DMS/NIGMS initiative include, but are not limited to:
+
+New mathematical, computational, and statistical methods that address the efficiency, robustness, quality control, uncertainty qualification, and reproducibility in biological and biomedical research
+
+Mechanistic and/or first principle-based modeling of biological/biomedical systems with novel mathematical or computational approaches at all levels of biological systems (e.g., molecular, cellular, organismal, and population levels)
+
+Novel and foundational mathematical/computational/statistical approaches for data science research of complex biological/biomedical systems (e.g., unique data analysis approaches, new approaches for integrating multiple data types, data imputation, interpretable AI/ML/deep learning models, model validation, methods for model evaluation, transferable models, novel approaches for data cataloging and structuring for use in analysis)
+
+Parameter estimation, inference and uncertainty quantification for multi-scale deterministic and/or stochastic models for complex biological processes, model validation and robustness evaluation
+
+Predictive models from high-dimensional or sparse biological/biomedical data with uncertainty
+
+Integrated multiscale approaches for connecting multiple spatiotemporal scales of biological processes
+
+Special formatting and submission requirements for proposals to the joint DMS/NIGMS initiative are described under Proposal Preparation and Submission Instructions. PIs are strongly encouraged to follow these guidelines carefully; proposals that do not strictly adhere to requirements will be returned without review.
+
+This program provides two tracks that support projects of different scale and scope:
+
+DMS/NIGMS Track 1: This track provides support for projects with a total budget (including indirect costs) of up to $600,000 for an award duration of up to 3 years. Successful Track 1 projects are anticipated to be high-risk, high-reward exploratory projects, or those from new teams of collaborators with complementary research expertise.
+
+DMS/NIGMS Track 2: This track provides support for projects with a total budget (including indirect costs) of up to $1,200,000 for an award duration of 3-4 years.
+
+This joint program will not fund foreign institutions. International collaborators are welcome to participate in the projects, but they must obtain support from their respective international funding organizations. Certain expenses, such as expenses which occur during short-term visits may be covered by the US host institution. However, these expenses must be explained in the budget discussion and be justified. Evidence of support for the foreign component of the proposed research must be provided in the proposal.
+
+III. Award Information
+
+Anticipated Type of Award:
+
+Standard Grant or Continuing Grant or R01 project (if the proposal is selected to be funded by NIGMS)
+
+Estimated Number of Awards: 15 to 25
+
+Approximately 15 to 25 awards from this competition may be made by either NSF or NIH at the option of the agencies, not the grantee. The number of awards will depend on the quality of received proposals and budget availability.
+
+Anticipated Funding Amount: $5,000,000
+
+Up to $5,000,000 per year for new proposals (up to $2,000,000 from NSF and up to $3,000,000 from NIGMS), subject to availability of funds and receipt of meritorious proposals. Track 1 – for exploratory projects of high-risk, high-reward, or those from new collaborative teams, with total budgets of up to $600,000 for an award duration of 3 years. Track 2 - for projects of large scope from well-established teams, with total budgets of up to $1,200,000 for an award duration of 3-4 years.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

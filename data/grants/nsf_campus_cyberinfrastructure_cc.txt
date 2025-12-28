@@ -16,3 +16,484 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2024-01-23
 URL: https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure/nsf24-530
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Campus Cyberinfrastructure (CC*)
+
+I. Introduction
+
+Campuses today face challenges across multiple levels of cyberinfrastructure (CI), where meeting the needs of scientific research and education in capacity and services extends to networking, computing, data services, AI, secure and trustworthy systems, and especially human expertise, collaboration, and knowledge sharing. The ubiquity of large-scale datasets and development of new AI methodologies for scientific advancement and discovery are leading to an increased focus in addressing the data challenges posed by the NSF research and education community.
+
+NSF addresses the growing requirements of the NSF community, and opportunities to innovate, in cyberinfrastructure through the CC* program, which invests in innovative, coordinated, and secure campus, multi-campus and multi-institution CI components. The CC* solicitation invests in coordinated cyberinfrastructure improvements at both the campus and regional levels, including campus network upgrades and re-architecting, innovative development and integration of new networking capabilities, computing, storage, multi-institution integrated CI, and learning and workforce development.
+
+Science-driven requirements are the primary motivation for any proposed activity. All projects supported by CC* should be driven by STEM research and education needs that require the support of networking, computing, and storage infrastructure on campuses.
+
+CC* awards will be supported in five program areas and at two levels of funding in each area (Campus/Small or Region/Large) pursuant to the following budget and duration. See the description in each Area for differences between Campus/Small and Region/Large awards.
+
+Area (1) Data Driven Networking Infrastructure for the Campus awards will be supported up to $700,000 for up to 2 years. Data Driven Networking Infrastructure for the Region proposals will be supported up to $1,400,000 for up to 2years.
+
+Area (2) Computing and the Computing Continuum for the Campus awards will be supported up to $700,000 total for up to 2 years. Computing and the Computing Continuum for the Region awards will be supported up to $1,400,000 total for up to 2 years.
+
+Area (3) Network Integration and Applied Innovation awards will be supported up to $500,000 for Small projects and up to $1,000,000 for Large projects for up to 2 years.
+
+Area (4) Data Storage and Digital Archives for the Campus awards will be supported up to $700,000 total for up to 2 years. Data Storage and Digital Archives for the Region awards will be supported up to $1,400,000 total for up to 2 years.
+
+Area (5) Strategy for the Campus awards will be supported up to $100,000 total for up to 1 year. Strategy for the Region awards will be supported up to $200,000 total for up to 2 years.
+
+The program aligns with NSF's vision for a holistic CI ecosystem as outlined in "Transforming Science Through Cyberinfrastructure: NSF's Blueprint for a National Cyberinfrastructure Ecosystem for Science and Engineering in the 21st Century" (see https://www.nsf.gov/cise/oac/vision/blueprint-2019/ ). This program supports the aggregation and integration of CI investments at the campus level, with the goal of helping campuses drive toward a 21st-century realization of an integrated CI for enabling science. Program Area (1) addresses science-driven needs in data driven networking intra-campus, and externally, including regional awards with a specific emphasis on supporting the needs of multiple under-resourced campuses through partnerships with small institutions and regional entities with experience in high-performance Research & Education (R&E) networking. Area (2) recognizes the research computing needs at a campus level, and the largely untapped potential to share unused compute cycles and resources across the entire academic fabric of highly connected and increasingly resourced campuses. Regional awards in this area promote coordinated approaches in scientific computing at the regional level through investments in computing resources serving scientific computing needs spanning a state or region's small and under-resourced institutions. Area (3) goes beyond networking infrastructure investments in Area (1) by leveraging the campus network as a compelling environment on which to develop and deploy new networking capabilities reflecting applied research and development in networking. Area (4) promotes coordinated approaches in scientific data storage and data management and digital archives at the campus or regional level with an emphasis on small and under-resourced institutions. Area (5) supports strategic planning and coordination for a campus or the region, in part reflecting the challenges for institutions that presently do not participate in the R&E network fabric and community. All areas reflect NSF's goal of democratization and broadening participation in scientific networking, computing, and data.
+
+CC* has increasingly looked for ways to broaden participation more effectively in the program, a direction receiving major impetus with participation in the program by the Office of Integrative Activities (OIA). In July 2021, NSF released the Dear Colleague Letter: Towards an Equitable National Cyberinfrastructure ( NSF 21-108 ).This effort represents a partnership between NSF's Office of Advanced Cyberinfrastructure (OAC) and the Established Program to Stimulate Competitive Research (EPSCoR) within the Office of Integrative Activities (OIA) This collaboration with CISE/OAC and OIA/EPSCoR aims to encourage proposal submissions to CC* for projects that will help overcome disparities in cyber-connectivity associated with geographic location, and thereby enable the populations based in these locales to become more nationally competitive in science, technology, engineering, and mathematics (STEM) research and education.
+
+Cyberinfrastructure limitations affect EPSCoR-eligible institutions disproportionately as a group due to generally reduced levels of access to research infrastructure, including cyberinfrastructure. This effect is compounded for institutions within EPSCoR jurisdictions whose existing STEM research and education infrastructure may be more limited, such as Primarily Undergraduate Institutions (PUIs) and Minority-Serving Institutions (MSIs). Additional resources have been published by community organizations to help identify solutions to reduce gaps in cyber-connectivity for MSIs and under-resourced institutions. Through this joint solicitation, CISE/OAC and OIA/EPSCoR aim to address the disparities in campus and regional level networking and cyberinfrastructure, with the goal of leveraging the full spectrum of talent that society has to offer which includes under-served communities and underrepresented populations across the nation by specifically encouraging proposals that will address this disparity.
+
+II. Program Description
+
+CC* Program-wide Criteria
+
+Science-driven requirements are the primary motivation for any proposed activity. Proposals will be evaluated on the strength of the science enabled (including research and education) as drivers for proposed investment and innovation in cyberinfrastructure. Institutions whose missions are primarily education-focused may choose to present their scientific needs in the context of cyberinfrastructure-enabled education activities and distance education.
+
+A common theme across all aspects of the CC* program is the critical importance of the partnership among campus-level CI experts, including the campus Information Technology (IT)/networking/data organization, contributing domain scientists, research groups, and educators necessary to engage in, and drive, new cyberinfrastructure capabilities and approaches in support of scientific discovery. Proposals across the program should reflect and demonstrate this partnership on campus. Proposals will be evaluated on the strength of institutional partnerships, as they should play a central role in developing and implementing the eventual network and data infrastructure upgrades. Campus IT leadership involvement is a critical element in CC*.
+
+All proposals in Areas (1), (2), (3), and (4) should document explicit partnerships or collaborations with the campus IT/networking organization, as well as one or more domain scientists, research groups, and educators in need of the new cyberinfrastructure capabilities. Partnership documentation from personnel not included in the proposal as PI, co-PI, or Senior/Key Personnel should be in the form of a letter of collaboration located in the Supplementary Documents section of the proposal. A letter of support from a campus leader is strongly encouraged and should address sustainability and commitment from the institution.
+
+It is required that the campus-wide cyberinfrastructure needs are addressed in the proposal. A proposal focusing on a single science domain or project use will not be considered for funding.
+
+All proposals submitted to the CC* program, except for submissions in response to Area (5) Strategy, must include a Campus CI plan within which the proposed CI improvements are conceived, designed, and implemented in the context of a coherent campus-wide strategy and approach to CI that is integrated horizontally intra-campus and vertically with regional and national CI investments and best practices. This Campus CI plan must be included as a Supplementary Document and is limited to no more than 5 pages. Proposals missing a Campus CI Plan as a supplementary document will be returned without review.
+
+The website, http://fasterdata.es.net/campusCIplanning/ , offers several Campus CI plans provided by existing CC* program recipients as examples. Proposals addressing a multi-institution or regional activity and approach to coordinated and integrated CI may submit a Campus CI plan representing the multi-institution group or region.
+
+Since security and resilience are fundamental issues in campus CI, the Campus CI plan should address the campus-wide approach to cybersecurity in the scientific research and education infrastructure, including the campus approach to data and privacy. Campuses should consider merging best practices in network routing security for network operators as expressed in the Mutually Agreed Norms for Routing Security (see https://www.manrs.org ). The plan should include the campus status and plans with respect to federated identity and specifically InCommon, including: if the campus is registered with InCommon as supporting the Research and Scholarship (R&S) Entity Category to streamline integration with research applications (see https://spaces.internet2.edu/display/InCFederation/Research+and+Scholarship+Category ); and if the campus meets the InCommon Baseline Expectations for Trust in Federation (see https://spaces.at.internet2.edu/display/BE?preview=/164988631/175965279/TI.34.2-BaselineExpectations-v2-2020-11.pdf ).
+
+All proposals submitted to CC* will be evaluated on how well they address cybersecurity issues and challenges relevant to their proposed activities. Depending on the type of proposal, these issues may include, but are not limited to data integrity, privacy, network security measures, federated access and identity management, and infrastructure monitoring.
+
+As a campus CI program, funded activities should represent ongoing opportunities for student engagement, education, and training. Proposals that demonstrate opportunities to engage students directly in the design, deployment, operation, and advancement of the funded CI activities, consistent with the required Campus CI plan, are encouraged.
+
+All proposals should consider expected outcomes and explain the compelling need for proposed cyberinfrastructure resources considering the current state of available resources and the expected enabling benefits of the proposed resources to the identified science drivers and applications.
+
+All proposals in Area (1), (2), and (4) will be evaluated on the descriptions of scientific and engineering research projects and their workload needs and the extent to which the proposed resource provides a needed capability required by science, engineering and education. Proposals in Area (1), (2), and (4) should include a summary table of the science drivers and their resource environments. These requirements should be specified in clear terms reflecting a specific understanding of the required cyberinfrastructure resources and environment (for example, throughput range in the case of network upgrades; CPU/GPU type, compute job profile parameter ranges, core count ranges per job, times to completion in the case of computing; size and rate of file or data access for storage), or as part of a composition or scientific workflow profile.
+
+All proposals in Area (1), (2), and (4) should include supporting quantitative information, for example, providing current or historical data flow rates or CPU/storage utilization of existing resources in their descriptions of application scenarios and use cases. Proposals should document current utilization in the context of the proposed upgrades. Proposals should justify equipment choices based on the needs of the science drivers and workflows. Proposals will be evaluated on the tangible metrics addressing measures of success of the system or set of activities.
+
+Enabling access to research and education resources external to the campus, including cloud computing resources, is also within scope.
+
+All proposals in Areas (1), (2), and (4) should present a complete technical solution, with complete equipment specifications.
+
+Full equipment quotes are required for Areas (1), (2), and (4) and must be provided in the Supplementary Document section. Proposals in these areas missing equipment quotes will be returned without review.
+
+Proposals will be evaluated on the strength of the project management plan, included in the Project Description, to address clear project goals and milestones. The plan should address roles, responsibilities, and support in the Project Description. Except for Area (5), the plan should clearly describe how a working system will result from the effort.
+
+Target environments must be campus infrastructure residing within the U.S.
+
+A budget request for IT staff support required to configure and operate the resources is an acceptable component of the budget. IT staff support should be documented in coordination with the institution's campus IT or CIO organization. Staffing support may also include training and user on-boarding activities to broaden adoption and use.
+
+The proposal should document campus IT and research leadership commitment to operations and maintenance (O&M) of the resource past the lifetime of the award or describe the strategy for sustaining availability of the resource.
+
+Proposals will be evaluated on the extent to which the proposal addresses the sustainability of the proposed work in terms of ongoing operational and engineering costs.
+
+The program supports open source platforms and solutions. Software license fees are not allowed.
+
+Any budget request for professional services, such as IT staff support, should be documented in coordination with the institution's campus IT or CIO organization.
+
+External professional consulting costs for provisioning the cyberinfrastructure are permitted.
+
+External professional consulting costs for the administration and management of the deployed cyberinfrastructure after provisioning are discouraged.
+
+Consulting costs will be evaluated consistent with the expertise and past experience in building and supporting community research and education cyberinfrastructure.
+
+All proposals to Area (1), (2), and (4) should describe project efforts to provide training and support for users.
+
+CC* awards are not the appropriate mechanism to provide support for individual faculty research projects. Requests for support of such projects should be directed to NSF's research grant programs.
+
+Additional proposal preparation guidance or this area can be found in Section V.A. Proposal Preparation Instructions.
+
+Recipients in Areas (1), (2), and (4) at the Campus-level are not eligible to submit a proposal(s) to the same area at the Campus level again for 5 years from the previous award start date. Any Campus-level proposal received from an organization having already received an award in this Campus-level area within 5 years will be returned without review. The five year rule does not apply to any proposal for the Region in these areas.
+
+Proposals for the Region must include collaborations that go beyond a single campus to target small, under-resourced institutions. Proposals for the Region include, but are not limited to, the following:
+
+Proposals should broaden participation and significantly widen the set of institutions that have access to regional and national research and education cyberinfrastructure resources, specifically targeting groups of smaller institutions with fundamental challenges in access to resources.
+
+Proposals should address scientific and engineering projects and their research and education cyberinfrastructure needs at targeted small and under resourced institutions, describing project-specific scenarios for scientific computing tied to the proposed cyberinfrastructure resources.
+
+Proposals should address coordination activities with the participating small institutions by planning for one or more meeting events starting in year 1.
+
+The lead proposing entity should be experienced in advanced cyberinfrastructure and to be well-resourced and capable of actively working with the participating institutions on designing and implementing the proposed cyberinfrastructure improvements. The partnering institutions' engagement activities may be supported in the proposal and may be included as subawards.
+
+Proposals for the Region may form collaborations between EPSCoR and non-EPSCoR jurisdictions, with the lead in the EPSCoR jurisdiction where feasible.
+
+All proposals to the CC* program should satisfy the Program-wide criteria.
+
+Summary of Program-wide Criteria:
+
+Proposals will be evaluated mainly on the strength of the science research and education use cases presented as drivers for proposed investment and innovation in cyberinfrastructure, quantification of those use cases, and how the use cases relate to the proposed cyberinfrastructure.
+
+Proposals will be evaluated on the strength of institutional partnerships as they should play a central role in developing and implementing the proposed cyberinfrastructure. The proposal should describe partnerships among campus-level CI experts, including the campus Information Technology (IT)/networking/data organization, contributing domain scientists, research groups, and educators. Personnel not included as PI, co-PI, or Senior/Key Personnel should be documented in the form of a collaboration letter.
+
+All proposals must include a Campus CI plan except proposals to Area (5) Strategy.
+
+Proposals should address the sustainability of the proposed work. Specifically, the proposal should document campus IT and research leadership commitment to operations and maintenance(O&M) of the resource past the lifetime of the award or describe the strategy for sustaining availability of the resource.
+
+Proposals should address relevant cybersecurity issues that may include, but are not limited to data integrity, privacy, network security measures, federated access and identity management, and infrastructure monitoring.
+
+Funded activities should represent ongoing opportunities for student engagement, education, and training.
+
+Proposals in Area (1), (2), and (4) should include a summary table of the science drivers and their resource environments.
+
+Proposals should include supporting quantitative information and to justify equipment choices based on the needs of the science drivers and workflows.
+
+Proposals in Areas (1), (2), and (4) should present a complete technical solution, with complete equipment specifications. Full equipment quotes are required and should be provided in the Supplementary Document section.
+
+Proposals should include, in the Project Description, a project management plan addressing clear project goals, milestones, roles, and responsibilities.
+
+Proposals should describe the expected benefits to the identified science drivers and applications enabled by the proposed resources.
+
+Target environments are campus infrastructure residing within the U.S.
+
+Proposals should describe full open source-based configurations and solutions. Software license fees are not allowed.
+
+Any budget request for professional services, such as IT staff support, should be documented in coordination with the institution's campus IT or CIO organization.
+
+External professional consulting costs for production administration and management of the cyberinfrastructure after deployment are discouraged. Consulting costs will be evaluated consistent with the expertise and past experience in building and supporting community research and education cyberinfrastructure.
+
+Proposals should describe project efforts to provide training and support for users.
+
+Proposals for the Region must address campus cyberinfrastructure needs spanning multiple under-resourced institutions and address research and education needs at the targeted small and under-resourced institutions. Proposals addressing a single institution that are submitted as proposals for the Region will be returned without review.
+
+Proposals for the Region should address coordination activities with the participating small institutions by planning for one or more meeting events starting in year 1. Participant support costs for these activities are permitted and must be justified.
+
+Program Areas
+
+CC* awards will be supported in five program areas and at two levels of funding in most areas (Campus/Small or Region/Large) pursuant to the following budget and duration. See the description in each Area for invitations to submit in Campus/Small and Region/Large proposals. Areas include (1) Data Driven Networking Infrastructure, (2) Computing and the Computing Continuum, (3) Network Integration and Applied Innovation, (4) Data Storage and Digital Archives, and (5) Strategy.
+
+Area (1) Data-Driven Networking Infrastructure for the Campus or Region
+
+Proposals submitted to this area address network infrastructure improvements to enable national and global high-performance end-to-end access to dynamic network services that in turn enable rapid, unimpeded movement of diverse and distributed scientific data sets and advanced computing. Proposals may target either the Campus or the Region. Proposals in this area should focus on supporting their institutions' science research and education needs and aspirations and discuss how these needs and aspirations translate to the need for greater connectedness and investment in network capacity. Access to research and education resources external to the campus, including cloud computing resources, is also within scope.
+
+Campus networking improvements include, but are not limited to, the following types of activities:
+
+Network upgrades within a campus network to support a wide range of science data-flows (including large files, distributed data, sensor networks, real-time data sources, and virtualized instruments for computer systems research");
+
+Re-architecting a campus network to support large science data flows, for example, by designing and building a Science DMZ (see http://fasterdata.es.net/science-dmz/ for more information on the Science DMZ approach); and/or
+
+A network connection upgrade for the campus connection to a regional optical exchange or point-of-presence that connects to a state/regional/national network aggregation point prioritizing support for research and education.
+
+Proposals for the Region networking improvements include the same types of activities for a single campus expanded to span multiple small and under-resourced campuses. These proposals should address multiple campuses and their science driven data networking needs and also:"
+
+increase research and education (R&E) network connectivity across smaller institutions coordinated and led by a Regional Optical Network (RON) or a leadership institution in R&E networking in the region.
+
+may be led by established regional and state R&E data networks and data network-based consortia. Example entities are listed as members of the national regional networks consortium called the Quilt (see https://www.thequilt.net/about-us/the-quilt-participants/ ). For areas of the US without a state or regional level coordinating entity and associated structure and network infrastructure, proposals will be accepted from self-declared leadership universities. An institution may also lead a proposal in regions with an established RON with documented coordination with the RON.
+
+are required to address campus networking needs spanning multiple under-resourced institutions. Proposals addressing a single institution that are submitted as proposals for the Region will be returned without review. Proposals may choose to apply an alternative design framework to the conventional single institution context in Area (1) and consider an aggregation model where some or all associated resources and services (e.g., Science DMZ) are centralized at a regional level.
+
+may include equipment and resources targeted for the state or regional network infrastructure. Such investments should be justified in the proposal in the context of needed improvements at the state and regional aggregation level in order to support the target institutions' external connectivity regionally, nationally, and globally for enabling R&E collaborations, as well as lack of alternate funding sources.
+
+should include the role of a Project Manager function with duties reflecting the coordination challenges of multi-institutional physical networking upgrades.
+
+All Area (1) proposals may wish to consider the application of new technologies as an element of their engineering solution to network-based challenges in enabling scientific research and education on their campus. For example, proposals may include multi-gigabit or environment-constrained technologies to connect new instrumentation, resources, or communities relevant to the proposing institution. Note that any wireless solution proposed should address research and education needs as the singular priority, as opposed to a general campus wireless network.
+
+All proposals to Area (1) should include a summary table of the science drivers and their network requirements that are specified in clear terms reflecting a specific understanding of the required networking resources and environment, for example, data flow, throughput rates, total data to transfer or as part of a composition or scientific workflow profile.
+
+All Area (1) proposals are required to include a network diagram of the proposed network upgrades. Proposals missing a network diagram will be returned without review. Proposals should document current utilization in the context of the proposed upgrades. Proposals should include detailed and legible campus network diagrams for each participating institution "before" and "after" the proposed efforts showing end user connectivity. These diagrams may be included as Supplementary Documents.
+
+Budgets should reflect a network-based upgrade. Proposals with budgets dominated by non-networking equipment are strongly discouraged. Proposals may include nominal configurations for a Data Transfer Node (DTN) as part of their Science DMZ designs; however, the DTN component should be less than 15% of the overall budget. Compute resources should not be included in the budget unless they are an integrated component of the DTN platform. See Area (2) below for funding opportunities in campus and regional computing.
+
+Proposals may focus on upgrading an institution's connectivity to the national research and education community and/or point to a need to redesign their campus network to better support academic data flows, such as the Science DMZ approach (see http://fasterdata.es.net/science-dmz/ for more information). Connectivity solutions between R&E buildings and sites are also in scope. Proposals are encouraged to leverage objective community expertise and experience in high-performance networking equipment and configurations available from the NSF-funded EPOC project at: https://epoc.global/cc/ .
+
+All Area (1) proposals are encouraged to engage community knowledge and expertise for relevant technical areas of proposal development. In addressing relevant security considerations in the proposed design, proposals are encouraged to reference the Energy Science Network's (ESnet) design guidance for the Science DMZ, including this element: "Security policies and enforcement mechanisms that are tailored for high performance science environments." ESnet provides more detailed guidance on security considerations in the design of the Science DMZ at: http://fasterdata.es.net/science-dmz/science-dmz-security/ . If a proposal chooses to discuss design of a proposed Science DMZ, NSF encourages adoption of guidance found on the ESnet website.
+
+All Area (1) proposals should describe an approach to end-to-end network performance measurement based on the PerfSonar framework with associated tool installation and use; proposals may describe an alternative approach to PerfSonar with sufficient justification. Proposers are encouraged to reference the following community website for more information on PerfSonar: http://fasterdata.es.net/performance-testing/perfsonar/ . Proposals should address end-to-end networking performance in considering metrics of success.
+
+All Area (1) proposers are strongly encouraged to engage with the relevant state or regional research and education optical network entity. Most of these entities are members of a national organization called Quilt and can be found here: http://thequilt.net/ .
+
+All Area (1) proposals should allocate at least 50% of the budget to network equipment.
+
+Proposals in this area require titles that begin with "CC*Network-Campus:" for proposed network improvements at the campus level or "CC*Network-Region:" for proposed improvements for the region followed by the title of the project.
+
+Only Institutions of Higher Education are eligible to submit Campus proposals in this program area.
+
+Institutions of Higher Education and Non-profit, Non-academic Organizations are eligible to submit proposals for the "Region in this program area.
+
+Proposals to Area (1) received without the following items will be returned without review:
+
+a network diagram of the proposed network upgrades.
+
+itemized vendor quotes.
+
+a Campus CI plan as a Supplementary Document, limited to no more than 5 pages (see Section II. Program-wide Criteria above for more information).
+
+Area (2) Computing and the Computing Continuum for the Campus or Region
+
+Local campus computing resources have emerged as an important aggregated and shared layer of scientific computing. This program area promotes coordinated approaches in scientific computing at the campus or regional level and invests in the seeding of new and shared computing resources through investments in capacity computing. The program area promotes a coordinated approach incentivizing multi-campus and national resource sharing as enabled by the OSG Consortium, an NSF-supported fabric of distributed scientific computing services that federate computing capacity across more than 150 institutions that delivered 2.6 billion CPU hours of scientific computing in calendar year 2023.
+
+NSF encourages campus-level proposals in this program area from under-resourced institutions and strong preference will be given to proposals demonstrating a compelling need for access to campus and distributed computing resources.
+
+Campus proposals may request funding for the acquisition of a shared, high-performance network-connected compute resource available to scientific computing users on campus and outside of campus.
+
+Proposals for the Region in this area include all of the guidance and requirements of campus-level proposals and expand the impact and usage of the compute resource on multiple small and under-resourced campuses identified in the proposal. Proposals for the Region:
+
+promote coordinated approaches in scientific computing resources serving scientific computing needs spanning a state's or region's small and under resourced institutions.
+
+are led by regional and state research and education leadership organizations.
+
+may request funding for the acquisition of a shared, high-performance network-connected compute resource available to scientific computing users across a defined set of campuses.
+
+are required to address computing needs spanning multiple under-resourced institutions. A proposal focusing on a single campus but submitted as a proposal for the Region will be returned without review.
+
+fund computing resources primarily used by the targeted small and under resourced institutions.
+
+A tenant of CC* is to allow a campus to engage more deeply with collaborators at the regional and national levels for provisioning of cyberinfrastructure. Examples may include ACCESS ( https://access-ci.org/ ), PATh ( https://path-cc.io/ ), and regional compute, and data centers such as MGHPCC ( https://www.mghpcc.org/ ) and others. For single campuses that have no access to basic infrastructure to support owning and operating a computing and data resources, a partnership between the campus, PI and computing center or manager could enable a PI and campus to work with a provider to design a solution in which the provider configures and operates the resource on behalf of the campus. NSF views this area as an opportunity, especially for under-resourced institutions, to develop a scientific computing strategy, describe it in the required CI plan, and consider how the proposed resource plays into that strategy.
+
+All Area (2) proposals should allocate at least 50% of the budget to computing hardware.
+
+Costs for storage as one component of an integrated computing resource are permitted.
+
+All Area (2) proposals submitted to this area should address scientific and engineering projects and their research and education computing needs, describing project-specific scenarios for scientific computing tied to the proposed computing resources, including the scientific computing codes that are expected to run on the resources. The proposal should describe the platform architecture specifying computing components, including compute node type and count, per-node memory, interconnect fabric, storage, and open-source software/platform, including features, capabilities, and software platforms representing the proposed computing resources. Proposal should use an open source-based approach to monitoring, measurement, management, and instrumentation.
+
+Proposals in Area (2) should include a summary table of the science drivers and their computing environments that are specified in clear terms reflecting a specific understanding of the required computing resources and environment (for example, CPU/GPU type, compute job profile parameter ranges, core count ranges per job, times to completion), or as part of a composition or scientific workflow profile.
+
+All Area (2) proposals should describe the network connectivity of the proposed computing resource, both intra-campus [for example, the campus network path(s) connecting the resource with the researchers and driving science applications on campus], and inter- campus (for example, showing the network path connecting with the regional exchange point or Internet2). Proposals should include a network diagram showing the connected topology of the proposed computing resource. Proposals should include in their plans the deployment of a PerfSonar based network performance measurement capability to initially measure achievable end-to-end network performance for scientific data flows between the resource and relevant end points of researchers.
+
+All Area (2) proposals should describe (1) their approach to sharing the proposed computing resource across the science drivers and researchers at their institution; (2) how the resource will be accessed by external research groups; and (3) how the resource is coordinated with external resources allowing the institution's researchers to seamlessly access computing resources at other campuses, regional and national computing resources.
+
+All Area (2) proposals should commit to a minimum of 20% shared time and describe their approach to making the computing resource available as a shared resource external to the state/region and the institution(s) being primarily served. Proposals are strongly encouraged to address this requirement by joining the Partnerships to Advance Throughput Computing (PATh) campus federation ( https://path-cc.io ) and adopting an appropriate subset of PATh services to make the resource available to researchers on a national scale. Proposals are encouraged to include a letter of collaboration from the selected platform and describe how they will track and report on meeting the 20% extramural usage goal each year. Institutions in need of technical direction/expertise during their proposal development are encouraged to engage the NSF-funded PATh project at: https://path-cc.io .
+
+Awards in this program area should work cooperatively with ACCESS award activities and services (see https://access-ci.org ) towards a more seamless integration and leverage of CI resources for researchers, educators, and students.
+
+Proposals in this area require titles that begin with "CC* Compute-Campus:" for proposed computing at the campus level or "CC* Compute-Region:" for proposed computing at the regional level, followed by the title of the project.
+
+Additional proposal preparation guidance for this area can be found in Section V.A. Proposal Preparation Instructions.
+
+Only Institutions of Higher Education are eligible to submit Campus proposals in this program area.
+
+Institutions of Higher Education and Non-profit, Non-academic Organizations are eligible to submit proposals for the Region in this program area.
+
+Proposals in Area (2) received without the following items will be returned without review:
+
+an itemized vendor quote and
+
+a Campus CI plan as a Supplemental Document, limited to no more than 5 pages (see Section II. Program-wide Criteria for more information).
+
+Area (3) Network Integration and Applied Innovation
+
+This program area supports end-to-end network CI through integration of existing and new technologies and applied innovation. The goal is to take advantage of research results, prototypes, and emerging innovations to use them to enable specified researchers in a networking context. Proposals in this area may leverage new and existing investments in network infrastructure, services, and tools by combining or extending capabilities to work as part of the CI environment used by scientific applications and users.
+
+Proposals in this area are expected to reflect innovation in advanced networking. As a result, this area is not appropriate for projects whose costs are dominated by equipment purchases.
+
+Proposals in this area support the development and integration of innovative networking capabilities and network-related software development, and deployment activities resulting in an operational environment prototype are expected to be part of the proposed activities.
+
+A broad range of activities is covered by this area, including but not limited to:
+
+Integration of networking protocols and technologies with science application layer processes and workflows, for instance, for large-scale shared scientific datasets and/or large-scale remote computational resources;
+
+Transition of successful research prototypes in Software-Defined Networking (SDN) and wireless networking technologies to distributed scientific environments and campus infrastructure;
+
+Applications of networking hardware and software developed on NSFFutureCloud facilities (e.g., ChameleonCloud and CloudLab ), including the integration of new technologies such as programmable network interfaces;
+
+Networking solutions exploiting virtualization, distributed computing and Software-Defined Infrastructure (SDI), including cloud services and direct campus-to-cloud connections;
+
+Innovative research prototypes integrating programmable packet processing components into campus infrastructure or exploring applications of software-defined data planes in support of high-performance data distribution; and
+
+Network engineering support through the creation and application of new and novel procedures and tools and network measurement and monitoring software for solving end-to-end network performance issues, especially for dynamically constructed network services.
+
+Additionally, proposals are encouraged to perform experimental deployment, protocol prototyping and testing, and evaluation using FABRIC ( https://www.fabric-testbed.net ). FABRIC is an NSF-funded nationwide next-generation network testbed comprising novel extensible network elements equipped with compute and storage capabilities located throughout the network, interconnected by high-speed dedicated optical links. FABRIC's programmability combined with high-fidelity measurement capabilities provides a compelling research infrastructure that supports applied network research. Using such a testbed, for example, a researcher could conduct edge-core-cloud evaluations.
+
+Proposals in this area must identify, in the Project Description, one or more supported science or engineering research projects or applications and describe how the proposed network integration activities will support those projects, particularly in the context of addressing data movement, throughput, and predictable performance end-to-end.
+
+Where appropriate, proposals are encouraged to document explicit partnerships or collaborations with the campus IT/networking organization. Graduate students are required to be involved and supported in conducting proposed activities for this program area.
+
+Proposals in this area must include, in the Project Description, a project plan addressing clear project goals and milestones resulting in a working system in the target environment. Proposals must identify base metrics relevant to the proposal goals and address measurement and evaluation of the resulting system. Any software development under proposed activities must be available under an open-source license.
+
+Additional proposal preparation guidance for this area can be found in Section V.A. Proposal Preparation Instructions.
+
+Proposals in this area require titles that begin with "CC* Integration-Small": for proposed budgets of up to $500,000 or "CC* Integration-Large:" for proposed budgets of between $500,001 and $1,000,000, followed by the title of the project.
+
+Only Institutions of Higher Education are eligible to submit proposals in this program area.
+
+Summary of additional Area (3) requirements:
+
+Proposals are required to:
+
+identify, in the Project Description, one or more supported science or engineering research projects or applications and describe how the proposed network integration and applied innovation activities will support those projects.
+
+involve and support graduate students where appropriate in conducting proposed activities.
+
+include, in the Project Description, a Project Plan addressing clear project goals and milestones resulting in a working system in the target environment.
+
+define base metrics relevant to the proposal goals and address measurement and evaluation of the resulting system.
+
+make available under an open-source license any software development under proposed activities.
+
+include a Campus CI plan as a Supplementary Document, limited to no more than 5 pages (see Section II. Program-wide Criteria above for more information).
+
+be submitted by an Institution of Higher Education.
+
+have titles that begin with "CC* Integration-Small": for proposed budgets of up to $500,000 or "CC* Integration-Large:" for proposed budgets of between $500,001 and $1,000,000, followed by the title of the project.
+
+Area (4) Data Storage and Digital Archives for the Campus or Region
+
+A significant challenge, if not bottleneck, to CI-enabled research and education is the limited access to data storage and associated services across campuses. While cloud services continue to provide data services for parts of the research community, data restrictions on some datasets often combined with expensive egress data movement charges do not allow this to be a complete solution. Meanwhile, the ability of research projects across disciplines to gather ever more data and increased tools to analyze data puts increasing pressure on storage and management.
+
+This program area promotes coordinated approaches in scientific storage, data management, and digital archives and incentivizes multi-campus and national resource sharing. Awards in this area reflect NSF principles and guidance in the community's stewardship of data from NSF funded research, and particularly aim at supporting the data lifecycle. As described below for the Data Management Plan, proposals should adhere to the findable, accessible, interoperable, and reusable (FAIR) principles and guidance from NSF described in the Dear Colleague Letter (DCL) on Effective Practices for Data: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19069 .
+
+Storage proposals for the Campus address campus-wide storage needs in the proposal. A proposal focusing on a single science domain or project use will not be considered for funding.
+
+Storage proposals for the Region adopt all the requirements and guidance of a campus storage proposal and target the research and education data needs spanning multiple small and under-resourced institutions in a region.
+
+All Area (4) proposals should address:
+
+Scientific and engineering projects and their research and education storage needs, describing project-specific scenarios for scientific data generation, storage, and
+
+Features, capabilities, and details of the software platforms representing the proposed storage resources and services; and
+
+Plans to manage the resource, datasets, and usage while ensuring adherence to FAIR principles and equitable access.
+
+NSF encourages proposals in this program area from under-resourced institutions and strong preference will be given to proposals demonstrating a compelling need for access to data storage resources, including institutions lacking necessary data storage resources on campus.
+
+The proposal may request funding for the acquisition of a shared, high-performance network-connected data storage resource available to scientific users on campus and outside of campus.
+
+All Area (4) proposals should deploy the system "on premise" which may include placement at an off-campus data center with a pre-existing role in campus research computing and storage.
+
+All Area (4) proposals should allocate at least 50% of the budget to storage equipment.
+
+Proposals should include in the Project Description:
+
+a summary table of the science drivers and their data storage environments - these requirements should be specified in clear terms reflecting a specific understanding of the required storage resources and environment, for example, storage type, data movement characteristics and data curation approach as part of a scientific workflow profile;
+
+the platform hardware, open source software systems, operating system, and software architecture;
+
+an open source-based approach to storage system monitoring, measurement, management, file system, and instrumentation (no software license fees are allowed.
+
+a description of the storage system as a Shared Resource Intra-campus and Inter-campus - see below for more details.
+
+All Area (4) proposals should describe the network connectivity of the proposed storage resource, both intra-campus (for example, the campus network path(s) connecting the resource with the researchers and driving science applications on campus), and inter-campus (for example, showing the network path connecting with the regional exchange point or Internet2).
+
+All Area (4) proposals should include a network diagram showing the connected topology of the proposed computing resource. Proposals should include in their plans the deployment of a PerfSonar based network performance measurement capability to initially measure achievable end-to-end network performance for scientific data flows between the resource and relevant end points of researchers.
+
+All Area (4) proposals are required to have interoperability with a national and federated data sharing fabric such as PATh/OSDF (see: http://www.opensciencegrid.org/about/osdf ). At least 20% of the disk/storage space on the proposed storage system should be made available as part of the chosen federated data sharing fabric. Proposals should describe the interaction with data sharing fabric beyond simply naming it.
+
+Staffing required to configure, operate, and support data management and access of the storage resource is an acceptable component of the budget. Staff associated with training and facilitating adoption, integration, and use of the resource on campus may be included. Staff and user training costs may extend to the open-source software platforms and federated data fabric sharing platform.
+
+Management of the system and planned datasets should be discussed in the proposal and may also be addressed as part of the Data Management Plan (see below).
+
+Proposals should discuss the storage system in the larger context of campus or regional CI and a vision inclusive of supporting shared resources and computing at the campus or regional level.
+
+The Data Management Plan should include the campus approach to data lifecycle management, data sharing, and adherence to the FAIR principles. Proposals should reference NSF's DCL on Effective Practices for Data: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19069 .
+
+Campuses with a science DMZ should address its use in the proposal.
+
+Innovative ideas for implementing novel storage strategies, collaborative technologies, training, broadening participation, and adoption of community standards for data and meta-data are especially encouraged.
+
+All Area (4) proposals should address the long-term plan for archival storage and sustainability. Proposals may address these topics in the Project Description, Data Management Plan, or the Campus CI Plan.
+
+Proposals in this area require titles that begin with "CC* Storage-Campus:" for proposed computing at the campus level or "CC* Storage-Region:" for proposed computing at the regional level, followed by the title of the project.
+
+Only Institutions of Higher Education are eligible to submit proposals for the Campus in this program area.
+
+Institutions of Higher Education and Non-profit, Non-academic Organizations are eligible to submit proposals for the Region in this program area.
+
+Proposals in Area (4) received without the following items will be returned without review:
+
+an itemized vendor quote and
+
+a Campus CI plan as a Supplemental Document, limited to no more than 5 pages (see Section II. Program-wide Criteria for more information).
+
+Area (5) Strategy Awards for the Campus or the Region
+
+For institutions, groups of institutions, and other entities, the task of assembling a complete CC* proposal can be a daunting challenge. CC* PI teams may require planning and effort related to their proposal ideas, for example, for compiling and understanding the science environments, applications and drivers motivating the proposed CI investments.
+
+Strategy Awards support PIs and teams requiring resources and time to coordinate and develop an approach to CC*-related activities. Proposals in this area will be reviewed and evaluated the same as other CC* proposals. Strategy proposals should define a clear set of goals and a set of coordination and planning activities to meet those goals. Equipment costs are not allowed as part of a Strategy award, and proposed costs should include support for community coordination and planning activities. Strategy proposals are welcome for areas (1), (2), and (4) in CC*.
+
+Strategy awards for the Campus are limited to $100,000 for 1 year.
+
+Strategy awards for the Region provide opportunities to foster new collaborations, including international partnerships, and address interdisciplinary topics. Innovative ideas for implementing novel networking strategies, collaborative technologies, training, broadening participation, and development of community standards for data and meta-data are especially encouraged. A Strategy proposal for the Region should develop a comprehensive CI strategy encompassing a campus, multiple campuses, or a state or regional research and education network entity. The regional strategy activity may encompass planning for a future CC* proposal, but goes beyond a specific campus network design, assessment of campus computing needs, or compilation of demanding science drivers to address integrated CI planning and scoping across the relevant scientific communities on campus, across multiple campuses, state-wide, or regionally. Strategy awards for the Region are limited to $200,000 for 2 years.
+
+Strategy awards do not support primary research.
+
+A Campus CI plan is not required for this program area of CC*.
+
+Institutions of Higher Education and Nonprofit, Non-academic Organizations are eligible to submit proposals in this program area.
+
+Proposals in this area require titles that begin with "CC* Strategy-Campus:" for strategy proposals for the campus or "CC* Strategy-Region:" for strategy proposals for the region, followed by the title of the project.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 32 to 55
+
+The estimated number of awards per program area is as follows: 8-13 Networking Infrastructure awards; 8-16 Computing and the Computing Continuum awards; 5-8 Network Integration and Applied Innovation awards; 7-10 Data Storage awards; and 4-8 Strategy awards.
+
+Anticipated Funding Amount: $15,000,000 to $20,000,000 pending availability of funds and quality of proposals received.
+
+CC* awards will be supported in five program areas and at two levels of funding in each area (Campus/Small or Region/Large) pursuant to the following budget and duration. See the description in each Area for differences between Campus/Small and Region/Large awards.
+
+Area (1) Data Driven Networking Infrastructure for the Campus awards will be supported up to $700,000 for up to 2 years. Data Driven Networking Infrastructure for the Region awards will be supported up to $1,400,000 for up to 2 years.
+
+Area (2) Computing and the Computing Continuum for the Campus awards will be supported at up to $700,000 total for up to 2 years. Computing and the Computing Continuum for the Region awards will be supported at up to $1,400,000 total for up to 2 years.
+
+Area (3) Network Integration and Applied Innovation awards will be supported at up to $500,000 for Small proposals and up to $1,000,000 for Large proposals for up to 2 years.
+
+Area (4) Data Storage and Digital Archives for the Campus awards will be supported at up to $700,000 total for up to 2 years. Data Storage and Digital Archives for the Region awards will be supported at up to $1,400,000 total for up to 2 years.
+
+Area (5) Strategy for the Campus awards will be supported for up to $100,000 total for up to 1 year. Strategy for the Region awards will be supported for up to $200,000 total for up to 2 years.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (see definition in PAPPG Chapter I.E.1.) may submit proposals to any of the program areas. NSF welcomes proposals that include efforts to broaden geographic and demographic participation in campus cyberinfrastructure. Proposals from minority-serving institutions and institutions in EPSCoR-eligible jurisdictions, along with collaborations between these institutions and those in non-EPSCoR jurisdictions, are encouraged. Non-profit, Non-academic Organizations (see definition in PAPPG Chapter I.E.1.) may submit to program Area (1) Data Driven Networking Infrastructure for the Region, program Area (2) Computing and the Computing Continuum for the Region, program Area (4) Data Storage and Digital Archives for the Region, and program Area (5) Strategy for the Region only. Collaborative proposals submitted as simultaneous submission of proposals from different organizations, with each organization requesting a separate award are not allowed. Collaborative proposals must be submitted as a single proposal, in which a single award is being requested (with subawards administered by the lead organization). For Area (1) Data-Driven Networking Infrastructure for the Campus, Area (2) Computing and the Computing Continuum for the Campus, and Area (4) Data Storage for the Campus, past and current recipients in these areas are not eligible to submit a proposal(s) to that area again for 5 years from the previous award start date. Any Campus-level proposal received from an organization having already received an award in this Campus-level area within 5 years will be returned without review. The five-year rule does not apply to any proposal for the Region in these areas.
+
+NSF welcomes proposals that include efforts to broaden geographic and demographic participation in campus cyberinfrastructure. Proposals from minority-serving institutions and institutions in EPSCoR-eligible jurisdictions, along with collaborations between these institutions and those in non-EPSCoR jurisdictions, are encouraged.
+
+Non-profit, Non-academic Organizations (see definition in PAPPG Chapter I.E.1.) may submit to program Area (1) Data Driven Networking Infrastructure for the Region, program Area (2) Computing and the Computing Continuum for the Region, program Area (4) Data Storage and Digital Archives for the Region, and program Area (5) Strategy for the Region only.
+
+Collaborative proposals submitted as simultaneous submission of proposals from different organizations, with each organization requesting a separate award are not allowed. Collaborative proposals must be submitted as a single proposal, in which a single award is being requested (with subawards administered by the lead organization).
+
+For Area (1) Data-Driven Networking Infrastructure for the Campus, Area (2) Computing and the Computing Continuum for the Campus, and Area (4) Data Storage for the Campus, past and current recipients in these areas are not eligible to submit a proposal(s) to that area again for 5 years from the previous award start date. Any Campus-level proposal received from an organization having already received an award in this Campus-level area within 5 years will be returned without review. The five-year rule does not apply to any proposal for the Region in these areas.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

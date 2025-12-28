@@ -9,3 +9,124 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2023-09-06
 URL: https://www.nsf.gov/funding/opportunities/frgms-focused-research-groups-mathematical-sciences/nsf23-621
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Focused Research Groups in the Mathematical Sciences (FRGMS)
+
+I. Introduction
+
+Through the mechanism of the Focused Research Group activity, the Division of Mathematical Sciences (DMS) of the National Science Foundation (NSF) aims to foster collaborative research projects that:
+
+address major research challenges of recognized importance to the mathematical sciences,
+
+are likely to produce substantial progress on these problems,
+
+and require the group’s coordinated efforts to achieve that progress.
+
+Risky projects, in which the likelihood of success is not certain, are welcomed. Interdisciplinary projects are welcomed. For all Focused Research Group projects, substantial progress on the problems should have widely felt consequences for mathematics or statistics.
+
+Each Focused Research Group proposal should provide a focused plan for making significant progress on a research challenge of recognized importance to the mathematical sciences, should describe the novel, innovative, and creative aspects of the planned research, and should explain why the success of the proposed research project depends in a crucial way upon a group effort by the collaborators.
+
+II. Program Description
+
+The purpose of the Focused Research Group activity is to support synergistic research collaborations that respond to recognized scientific needs of pressing importance or that take advantage of current scientific opportunities; in each case, progress must depend on developing significant new advances in mathematics or statistics. Groups may include, in addition to mathematicians and statisticians, researchers from other scientific and engineering disciplines appropriate to the proposed research. Projects supported under this activity should be essentially collaborative in nature and depend for their advancement on the coordinated interaction of a group of researchers.
+
+Each project should be focused on a significant and well-delineated major research challenge. A major challenge is an outstanding problem of significant importance whose solution will have wide impacts in the mathematical sciences and potentially in other areas; it is more than a collection of questions. It is not the intent of this activity to provide general support for group infrastructure. Projects should be timely, limited in duration to up to three years, and substantial in both their scope and likely impact. DMS anticipates that those funded Focused Research Group projects showing substantial progress in their first two years, consistent with the criteria for creativity extensions, could be recommended for a creativity extension for up to two additional years to foster breakthrough advances and innovations. However, Focused Research Group projects are intended to be time-limited. Therefore, no Focused Research Group project will be supported for more than five years. Proposed continuations of previously funded Focused Research Group projects may be appropriate for other competitions but are unlikely to be suitable for the FRGMS activity. Proposals to this program solicitation for work based on topics or approaches for which group members previously received Focused Research Group support will be returned without review. Questions about the suitability of a project for the FRGMS competition may be sent to a program officer for one of the relevant DMS programs.
+
+Here is a list, by no means exhaustive, of indicators suggesting that a Focused Research Group approach might be appropriate. In each case, anticipated advances in other disciplines must be accompanied by significant anticipated advances and innovations in mathematics or statistics.
+
+Accumulated scientific results point to the possibility of a major, innovative breakthrough.
+
+A major recent breakthrough has created new possibilities for significant progress.
+
+New, interdisciplinary collaboration has revealed means to achieve accelerated progress through such cooperation, with corresponding advances and impacts in the mathematical sciences.
+
+The aim of the activity is to support projects for which the collective effort by a group of researchers is necessary to reach the scientific goals in a timely manner. The advantages of pooled insights, complementary expertise, diverse points of view, and shared tasks make a successful research group more than the sum of its parts. Thus, Focused Research Group proposals must explain how interaction and group effort are critical to the success of the project. See the Additional Solicitation Specific Review Criteria.
+
+The research group must include at least three senior personnel or other professionals. The group members may, but need not, come from more than one organization or discipline. Awards made under the Focused Research Group activity are intended to foster a crucial and unusual synergy between the group members that cannot be achieved with individual or ordinary collaborative grants. Focused Research Group researchers are expected to collaborate closely and intensely on the well-delineated, focused topic of the project. At the same time, the impact and promise of supported projects should be broad, significant, and long-term. Focused Research Group proposals are likely to be read by non-specialists at some stage of the review process. It is therefore particularly important that they be written to emphasize the impact of the projects in a broad mathematical context.
+
+Examples of possible outcomes for Focused Research Group projects include the following:
+
+Through development of mathematical/statistical innovations, substantial progress is made toward solution of a set of major open questions.
+
+New research directions that have become possible due to recent advances are explored, and significant progress is achieved.
+
+As a direct result of the group effort, an important focused research agenda in mathematics or statistics as well as in science or engineering is advanced significantly.
+
+Additional outcomes, such as training of students and postdoctoral researchers, are beneficial but secondary to the research outcomes of these projects. Focused Research Group projects should take advantage of opportunities and resources at or near the organizations at which the research will be performed. Research groups are required to disseminate the results of their work in a timely and effective fashion.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 5 to 10
+
+Approximately 5-10 awards annually.
+
+Anticipated Funding Amount: $12,000,000
+
+Approximately $12,000,000 will be available for this activity annually, subject to availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+Because of the level of commitment expected from senior personnel, none can be part of more than one Focused Research Group proposal or award at a time as a PI or co-PI.
+
+Proposals involving investigators from more than one organization are allowed and separately submitted collaborative proposals are encouraged. See the NSF PAPPG for guidance on the simultaneous submission of proposals from different organizations.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

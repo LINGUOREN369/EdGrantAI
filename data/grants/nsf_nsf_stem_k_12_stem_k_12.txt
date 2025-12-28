@@ -10,3 +10,136 @@ Status: Cleared
 Posted date (Y-m-d): 2025-08-22
 URL: https://www.nsf.gov/funding/opportunities/stem-k-12-nsf-stem-k-12/nsf25-545
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+NSF STEM K-12 (STEM K-12)
+
+I. Introduction
+
+The NSF STEM K-12 program encourages innovative, multidisciplinary, and potentially transformative projects that build theory, generate new knowledge, and inform education practices in a rapidly evolving technological landscape with advances in emerging technologies including artificial intelligence (AI). It supports fundamental, applied, and translational research that enhances STEM teaching and learning and across the human lifespan and in a range of formal and informal learning settings. In addition to building theory and informing practice, the program seeks projects that produce new tools and frameworks; harness exemplary formal and informal learning; and unlock new avenues of scientific inquiry and discovery in STEM education to strengthen the Nation's standing as a global leader in STEM innovation.
+
+Proposals submitted to the STEM K-12 program may focus on learning or instruction in any field(s) of STEM (science, technology, engineering, or mathematics) and may involve a variety of contexts in which teaching and learning take place, including formal education (pre-K to 12) and informal learning environments. The program also supports projects that identify and address salient issues involved in translating research into educational practice for any STEM field, as well as projects that leverage insights from educational practice to drive fundamental research.
+
+Additionally, the program seeks proposals that explore how AI and other emerging technologies can be effectively leveraged to study and enhance STEM teaching and learning. The U.S. must prepare its citizens to thrive in a digital society by providing early learning and exposure to AI (Executive Order 14277 Advancing Artificial Intelligence Education for American Youth , April 23, 2025). Integrating AI into education systems and institutions will help prepare both youth and adults to contribute to an AI-driven society and sustain the Nation's leadership in technological innovation.
+
+II. Program Description
+
+The NSF STEM K-12 program encourages multidisciplinary collaborations that bring together expertise and methodological approaches from various fields, including education research, social and behavioral sciences, implementation sciences, computer science, and all STEM disciplines. In addition, the program encourages partnerships that integrate perspectives from education research, education practice, and industry, as well as perspectives of learners and other critical stakeholders who would benefit from the work.
+
+The program also welcomes quantitative, qualitative, mixed method approaches, and a range of research and/or development efforts across broad areas of scientific inquiry, including but not limited to:
+
+foundational studies that advance theory or build new conceptual frameworks related to STEM learning and teaching;
+
+design-based research that iteratively develops and refines learning environments, instructional models, systems, or approaches;
+
+projects aimed at cultivating the skills, dispositions, and knowledge needed to succeed in computer science, AI pathways, and technology careers, and more generally build capacity in the STEM workforce;
+
+development and study of innovations for teaching and learning (e.g., curricula, assessments, professional learning resources, technologies, media, etc.) for any STEM field;
+
+investigations of teaching and learning processes, including cognitive, motivational, or social aspects of learning;
+
+development and use of advanced research methods and analytical frameworks and tools, such as data science methods and machine learning, to study learning at scale or in complex learning environments; and
+
+the study of deeper learning and more effective teaching to create opportunities for all Americans everywhere.
+
+Proposals submitted to the program should, as appropriate:
+
+be grounded in relevant theories and frameworks that inform the project's research focus and design;
+
+exhibit coherence across research questions, design, analysis, and interpretation;
+
+employ rigorous methodologies that align strategies for data collection and analysis to the study's context, aims, and guiding research questions;
+
+describe how the chosen research method(s) will yield trustworthy findings and recommendations that may advance future research and/or contribute to practices in STEM learning and teaching; and
+
+consider a translational process that includes plans for dissemination to benefit both science and society, with possible extensions to other settings or demographic groups.
+
+The budgets and durations of supported projects vary widely and are greatly influenced by the nature of the project. Investigators should focus on innovative, potentially transformative project plans and then develop a budget to support those activities, rather than starting with a budget number and working up to that value.
+
+Suggested ranges for funding requests of STEM K-12 proposals under this solicitation are as follows: (1) Research and/or Development proposals: $350,000 to $750,000 with a duration of two to three years; and (2) Conference proposals: $25,000 to $99,000 with a duration of up to two years. Proposals that contain budgets significantly beyond these ranges may be returned without review. For Conference proposals, investigators must contact a cognizant STEM K-12 Program Director prior to submission and follow the guidance for Conference proposals contained in the PAPPG Chapter II.F.8.
+
+Note: The following solicitations are currently archived. Investigators who would have applied to these programs are particularly encouraged to consider STEM K-12.
+
+Advancing Informal STEM Learning (AISL)
+
+Computer Science for All (CSforAll)
+
+Discovery Research PreK-12 (DRK-12)
+
+Translation and Diffusion (TD)
+
+Investigators who would typically submit to the EDU Core Research (ECR) solicitation for research in K-12 and informal settings are encouraged to apply to NSF STEM K-12. ECR will only accept proposals for DUE and DGE focused projects.
+
+This new, broad funding opportunity is expected to accommodate a wide range of projects, including ideas that would have aligned with the aforementioned solicitations. All proposals must be prepared and submitted in accordance with this program solicitation and the NSF Proposal & Award Policies & Procedures Guide (PAPPG) .
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 40
+
+Anticipated Funding Amount: $30,000,000
+
+Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds and quality of proposals submitted. It is anticipated that most awards supported by the program will range between $25,000 and $750,000, with a typical duration of one to three years. CAREER awards are expected to range between $500,000 and $750,000, but CAREER proposals must be submitted to the NSF-wide CAREER solicitation for the annual deadline.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+State and Local Governments
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

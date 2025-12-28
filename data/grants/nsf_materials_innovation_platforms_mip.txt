@@ -10,3 +10,158 @@ Status: Cleared
 Posted date (Y-m-d): 2024-12-12
 URL: https://www.nsf.gov/funding/opportunities/mip-materials-innovation-platforms/nsf25-521
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Materials Innovation Platforms (MIP)
+
+I. Introduction
+
+Recognizing the ever-increasing complexity of materials research that requires the close collaboration of interdisciplinary and transdisciplinary teams with access to cutting-edge tools, the Division of Materials Research (DMR) established the Materials Innovation Platforms (MIP) Program in 2015. These Platforms seek to substantially increase the rate at which new materials and novel materials phenomena/properties are discovered, understood, and developed.
+
+Materials Innovation Platforms are neither typical research centers nor traditional user facilities. MIPs employ a highly convergent approach, across multiple dimensions:
+
+Use an integrated approach to meet the critical needs for research, training, and research infrastructure;
+
+Foster a culture of knowledge sharing among in-house research scientists, external users, and other scientists who, for example, benefit from publicly available codes and data without being users of a MIP user project;
+
+Enable iterative, closed-loop efforts across materials synthesis/processing, materials characterization, and theory/modeling/simulation; and
+
+Empower the merging of ideas, approaches and technologies from widely diverse fields of knowledge (including the domain science fields relevant to the proposed MIP, as well as data science and informatics) for the purpose of accelerating discovery and development of novel materials, as well as fostering their eventual deployment.
+
+These are 4 pillars of MIP convergence, which are designed to stimulate and accelerate discovery and innovation in a new paradigm and also distinguish MIPs from other programs.
+
+The major activities of a MIP include:
+
+Develop next-generation experimental and computational tools, as well as advancing the capabilities of the current state-of-the-art tools;
+
+Conduct in-house research by a transdisciplinary team in a focused topic designed to address a grand challenge of fundamental science and meet a national need;
+
+Operate a user facility that provides unique materials research tools, samples, data, and technical services open to a diverse community of external researchers at various institutions; and
+
+Serve as an educational focal point for training the next generation of tool developers and users.
+
+In this manner, a MIP will build and nurture a scientific ecosystem, which includes in-house research scientists, external users and other scientists who share tools, codes, samples, data, and know-how in order to strengthen collaboration among the scientists and enable them to work together in a new modality. MIPs, collectively, contribute to the creation of a new culture for future scientific endeavor.
+
+II. Program Description
+
+Materials Innovation Platforms (MIP) is a mid-scale infrastructure program in DMR that supports transdisciplinary research and training, cutting-edge tools, and knowledge sharing in key enabling areas of national priority.
+
+A 2014 NSF Mathematical and Physical Sciences (MPS) Advisory Subcommittee study, Closing the Loop: Materials Instrumentation , points out the opportunity to advance materials science through targeted, shared, mid-scale infrastructure investments. The MIP Program is designed to fill this need.
+
+The MIP Program aligns with the Materials Genome Initiative (MGI) , which strives to "discover, manufacture, and deploy advanced materials twice as fast, at a fraction of the cost." In the MGI Strategic Plan published in 2021, three major goals were identified. They are unify the materials innovation infrastructure; harness the power of materials data; and educate, train, connect the materials R&D workforce. The MIP program, established in 2015, has made major contributions to each of the three major goals.
+
+Fiscal Year 2025 MIP Competition
+
+As highlighted in the Closing the Loop: Materials Instrumentation report, advancing the field of materials synthesis represents a unique opportunity to reclaim US leadership in this domain which could lead to the next generation of breakthroughs in materials science and engineering. As an example, the report states, "Complexity offers a second ripe direction for both soft and hard materials synthesis. The best understood materials are the simplest, where structure, composition and purity can be controlled reliably to produce targeted science or technology outcomes. Increased complexity, however, is a basic requirement for increased functionality."
+
+Studying materials, as well combinations of materials, with increasing functionalities dovetails with MGI Challenges: 1) Protecting and improving human health, 2) Delivering sustainable and resilient energy, 3) Thriving in extreme environments, 4) Enhancing structural performance, 5) Protecting the environment, 6) Propelling the information and communications technology revolution, and 7) Advancing Critical and Emerging Technology.
+
+The topic of the second MIP competition, the convergence of materials research with biological sciences for developing new materials, was selected with the recognition of growing areas of soft and bio-inspired materials for exploring rich new horizons of complexity and functionality that require their own set of innovative synthesis techniques. This third MIP competition focuses on a different set of complex materials: alloys, amorphous, and composite materials. Proposals mainly on biomaterials and polymer research will not be considered in the third MIP competition because the second MIP competition in 2019 included an emphasis on these topics.
+
+A successful MIP must be transformational, focus on a grand challenge or challenges of fundamental research, and align with national priorities. Some grand challenges are identified in, as examples:
+
+Materials Genome Initiative (MGI) Strategic Plan
+
+Frontiers of Materials Research: A Decadal Survey
+
+Closing the Loop: Materials Instrumentation
+
+A common theme in these reports is that many of these grand challenges will not be overcome by one discipline alone and must be addressed through a transdisciplinary approach that utilizes expertise in materials science, physics, chemistry, engineering, biology, mathematics, and/or computer science. A convergence of ideas, approaches and technologies from diverse fields of knowledge will stimulate innovation and discovery. A highly successful MIP builds a new Platform for complex materials through convergence of expertise from various fields that have different perspectives to address a common grand challenge of multiple disciplines.
+
+Additional Information for MIP
+
+The complexity and challenge of activities addressed by this program require a transformative approach to discovering and developing new materials, predicting and optimizing properties of these materials, and informing the design of materials systems. MIPs are driven by the MGI approach with materials synthesis/processing, materials characterization, and theory/modeling/simulation applied iteratively to realize targeted outcomes. Accordingly, the proposed activities must close-the-loop, i.e., be a collaborative and iterative process wherein, for example, theory guides computational simulation, computational simulation guides experiments, and experiments further inform theory. It should be noted that the loop can be entered from any point, not just from theory, and can be bidirectional (e.g., experimental results improve simulation). Through this tightly connected iterative process, new discoveries are anticipated to occur at a faster rate than conventional modes of collaboration. Advances in each of the three areas (synthesis/processing, characterization, and theory/modeling/simulation) are expected for MIPs. The interactive, closed-loop process is required for in-house research and is expected for the user program as a whole, but not required for individual user projects.
+
+MIPs are expected to offer state-of-the-art materials synthesis/processing tools. Advancement in characterization methodologies and theory/modeling/simulation approaches that benefit the research endeavor is also expected. While all instruments needed for world-class research facilities will be considered, a high priority for the MIP Program is to support instruments with unique capabilities. Acquisition of instruments readily available at universities in the United States is a lower priority. In addition, MIPs are expected to be at the forefront of the intelligent deployment of artificial intelligence/machine learning (AI/ML) techniques and the implementation of autonomous experimentation. Acquisition and development of fully or partially autonomous equipment, as well as developing autonomous workflow, is highly encouraged. However, this solicitation does not limit the requested equipment to autonomous ones.
+
+MIPs provide access to existing and new instrumentation, techniques, samples, software, modeling and simulation tools, data, databases and other resources to the broad scientific community. MIPs go beyond traditional user facilities that provide access to instrumentation; they create and nurture scientific ecosystems by bringing together the scientific and technical expertise of in-house researchers, users, and other scientists through knowledge and data sharing. Specifically, the tools supported by NSF MIP funding are for shared use by users and for in-house research; each MIP also develops and uses mechanisms to share codes, samples, data, and know-how among a community of practitioners (in-house researchers, users, and other scientists). A MIP is also expected to leverage the emerging field of data science as part of the integration and iteration of experiment and computational efforts. and, as appropriate, to utilize cloud resources for data storage and sharing. Because of these efforts and a transdisciplinary team, each MIP is a scientific ecosystem that promotes cross-fertilization of ideas and enables new science that cannot be accomplished otherwise.
+
+MIPs must support broad accessibility to a rich national user base at universities, national laboratories, and industry. They operate user facilities that are open to a diverse community of external and internal researchers at various institutions. To promote broad usage of their facilities, major equipment acquired through the MIP funding (MIP equipment) must devote at least 50% of the instrument operational time to external users (defined as those who are neither MIP participants nor affiliated with the institutions where MIP user facilities are located). MIPs do not charge academic users in the United States for reasonable time with experts, technicians, or use of equipment acquired through the MIP award. However, users may be charged for (i) extended use of time of the MIP equipment; (ii) use of MIP equipment with similar equipment readily available at other universities in the United States; (iii) use of non-MIP equipment at the institution that hosts a MIP; and (iv) non-routine and/or expensive consumables and supplies. Full cost recovery is applied to proprietary research.
+
+Platforms reside at academic institutions where the appropriate infrastructure, including laboratory, common space and sharing of equipment, already exists to assist in the proposed research and add value to the MIP user facility. MIPs are also funded for acquisition and development of new equipment, tools, and supporting technologies that will position and maintain the facility at the frontier of the proposed materials research area. Tools (or suite of tools) acquired or developed through a MIP award are novel and/or unique and go beyond the scope and scale of those tools that are acquired through other NSF modes of support, such as the Major Research Instrumentation ( MRI ) program.
+
+The MIP Program will support acquisition and development of instruments, software and databases; service contracts on purchased equipment; professional staffing including support for the principal investigators, other senior/key personnel and technicians; and a limited number of students and postdoctoral researchers. Six-year awards totaling $18,000,000 to $30,000,000 for the award period are anticipated. Approximately 50% of the MIP funds provided by NSF, after subtracting instrument acquisition and development costs, should be devoted to the user facility operation.
+
+The MIP program will NOT support requests for any of the following:
+
+Construction, renovation or modernization of rooms, buildings or research facilities;
+
+General purpose and supporting equipment. Supporting equipment refers to basic, durable components of a research facility that are integral to its operation (e.g., fume hoods, elevators, laboratory casework, cryogen storage systems, general-purpose computational or data storage systems);
+
+Sustaining infrastructure and/or building systems. This category includes (but is not limited to) the installation of or upgrades to infrastructure related to the supply of power, ventilation, water or research gases, routine multi-purpose computer networks, standard safety features, and other general purpose systems (e.g., toxic waste removal systems, and telecommunications equipment); or
+
+General purpose platforms or environment. This category includes (but is not limited to) general purpose fixed or non-fixed structures, vehicles, and vehicle charging stations.
+
+MIPs engage in a limited number of training and outreach activities that integrate strategically with the research goals, further the training mission, and increase the broader impacts. Training should focus on next-generation tool developers, users, and in-house research participants. Outreach activities are designed to attract users, especially external users, from various communities and levels of expertise.
+
+An institution that submits a proposal is expected to have extensive materials research capabilities so that it is in a strong position to engage external users and build a scientific ecosystem. Each proposed project must be directed by a team of at least three Senior/Key Personnel with complementary expertise on materials synthesis/processing, characterization, theory/modeling/simulation, etc. The whole MIP team also includes Senior/Key Personnel and technical staff with expertise in tool development, data and knowledge sharing, and user facility operation. NSF expects that, in addition to scientific and technical staff, each MIP includes a Managing Director and a User Facility Coordinator. The main responsibilities of the Managing Director include, for example, ongoing operations, staffing, financial management oversight, reporting as well as coordination between the different components of the MIP on a daily basis. The User Facility Coordinator engages the user community, facilitates instrument time/resource allocation, and may also manage the user proposal submission, review and selection process, safety, and/or user training.
+
+DMR manages the MIPs through the division's National Facilities and Instrumentation program. MIPs are awarded as cooperative agreements with an initial commitment of six years (Phase 1). A high priority of Phase 1 is to establish infrastructure and mechanisms necessary for a successful MIP. Instrument acquisition and development are expected to be mainly in the first few years. User facility operation may begin in year 2, ramps up over time, and is expected to reach a steady state by year 4. In-house research and knowledge sharing activities are expected to have a ramp-up period as well. A MIP is expected to demonstrate measurable success of the user program, in-house research, and knowledge sharing activities by year 5, one year before the end of Phase 1. Based on a rigorous and favorable review by NSF in years 5-6 of the initial award period, the MIP funding may be continued for four additional years, as phase 2. This second phase of MIP funding is focused on supporting the operation and growth of the MIP, while also supporting development of a long-term plan when the funding from the MIP program ends. For a MIP with a credible long-term plan, the MIP program may provide some support in Phase 3. The MIP funding in Phase 3, at a reduced level, will be for a maximum of 2 years to allow the MIP to have a smooth transition from a mode of primary funding from the MIP program to multiple funding sources. This third and final phase is designed to aid the MIP in its transition to independence from the MIP program funding after 12 years.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 1 to 3
+
+The number of awards will depend on the availability of funds and the quality of the proposals.
+
+Anticipated Funding Amount: $16,000,000
+
+The proposed budget should be between $18,000,000 to $30,000,000 over a six-year period, must be commensurate with the project's scope, and thoroughly justified in the proposal. MIP funding is provided yearly. Pending the availability of funds, it is anticipated that $16,000,000 will be available in Fiscal Year 2026.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) accredited in, and having a campus located in the U.S., acting on behalf of their faculty members.
+
+Who May Serve as PI:
+
+Each proposed project must be directed by a team of at least three Senior/Key Personnel with complementary expertise on materials synthesis/processing, characterization, theory/modeling/simulation, etc .
+
+Limit on Number of Proposals per Organization: 1
+
+One (1) per organization as lead institution.
+
+The institutions that were awarded a MIP in the 2019 competition as the lead institution are not eligible to submit a MIP proposal as a lead institution in the 2025 competition.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+Individuals may be designated as Senior/Key Personnel (Principal Investigator/Project Director, co-PI, and other faculty or equivalent) on only one MIP proposal.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

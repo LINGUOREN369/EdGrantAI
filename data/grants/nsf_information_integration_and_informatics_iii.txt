@@ -24,3 +24,134 @@ Status: Cleared
 Posted date (Y-m-d): 2008-07-23
 URL: https://www.nsf.gov/funding/opportunities/iii-information-integration-informatics/pd25-7364
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Computer and Information Science and Engineering (CISE): Future Computing Research (Future CoRe)
+
+I. Introduction
+
+The NSF Directorate for Computer and Information Science and Engineering (CISE) supports transformative research and education projects that develop new knowledge in all aspects of computing, communications, and information science and engineering through multiple research programs. These programs support research and education activities that advance:
+
+mathematical, scientific and technological foundations of computing communication, hardware, software and emerging technologies;
+
+understanding and development of computer and network systems, cyber-physical systems, and cybersecurity as well as their roles in solving complex scientific, engineering, and societal problems; and
+
+understanding of the inter-related roles of people, computers, and information.
+
+II. Program Description
+
+This solicitation covers submission to the following Future CoRe programs. Research that fits within a single program and interdisciplinary research that spans more than one of these programs are welcome.
+
+Please see the individual program webpages below for more information on what is within scope for these Future CoRe programs:
+
+Algorithmic Foundations (AF) program [ Program Webpage ] supports potentially transformative projects in the theory of algorithms and computational complexity, characterized by algorithmic innovation and rigorous analysis;
+
+Communications and Information Foundations (CIF) program [ Program Webpage ] supports foundational research that addresses the theoretical underpinnings of information acquisition, transmission, and processing in communications and information processing systems;
+
+Computer Systems Research (CSR) program [ Program Webpage ] supports the advancement and holistic design and development of integrated software and hardware computing systems, including classical and quantum elements, to enable an integrated, cohesive, intelligent computational ecosystem;
+
+Computing Education Research (CER) program [ Program Webpage ] supports transformative projects that inform our understanding of the effective teaching and learning of computing skills and concepts at all levels to contribute to the development of, and pathways toward a robust workforce well prepared for careers in CISE fields;
+
+Cyber-Physical Systems Foundations and Connected Communities (CPS) program [ Program Webpage ] supports convergent research on intelligent, engineered systems, built from the seamless integration of computation with physical components within natural and built environments. The program seeks foundational and translational advances in all areas of cyber-physical systems, including artificial intelligence for cyber-physical systems, and encourages multidisciplinary socio-technical innovation, transforming the way people, technologies, and the environment interact in communities;
+
+Foundations of Emerging Technologies (FET) program [ Program Webpage ] supports foundational research at the intersection of computing and biological systems, nanoscale science and engineering, quantum information science, and other promising disruptive technologies supporting novel computing/communication models;
+
+Human-Centered Computing (HCC) program [ Program Webpage ] supports research in human-computer interaction, integrating across fields including computing, information, social and behavioral sciences, to (re)design technologies that amplify human capabilities, and understand how human, technical, and contextual aspects of computing and communication systems shape their benefits, effects, and risks;
+
+Information Integration and Informatics (III) program [ Program Webpage ] supports research on computational approaches to the full data lifecycle to maximize the utility of information resources;
+
+Networking Technology and Systems (NeTS) program [ Program Webpage ] supports research that advances intelligent communication network systems, including wired, wireless, Internet, internet of things, quantum, bio-inspired, nano, and other networks, as well as networks that span multiple domains and scales like space-air-ground integrated networks, while exploring their fundamental understanding, properties and trade-offs, and developing innovative tools and techniques, including artificial intelligence (AI), for designing, building, measuring and managing future communication network systems and services;
+
+Robust Intelligence (RI) program [ Program Webpage ] supports computational research to understand and enable intelligent systems in complex, realistic contexts; and
+
+Software and Hardware Foundations (SHF) program [ Program Webpage ] supports foundational research in the design, verification, operation, utilization and evaluation of computer hardware and software through novel approaches, robust theories, high-leverage tools, and lasting principles.
+
+The CISE Future Computing Research program anticipates a portfolio of awards with a range of budgets and durations, including projects of smaller scope. Project durations and budgets must be commensurate with the scope of the proposed work up to the maximum limit of $1,000,000 with the duration up to 4 years. Typical projects are approximately $150,000 to $250,000 per year and are 3 to 4 years in duration. Projects are discouraged from exceeding $300,000 in any single year. Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.
+
+Expanding Geographic and Institutional Range in Computer and Information Science and Engineering
+
+NSF CISE encourages proposal submissions from EPSCoR-eligible institutions to the CISE Future Computing Research programs, with an aim to enhance engagement within the science, technology, engineering, and mathematics (STEM) enterprise, specifically associated with geographic location, and thereby enabling the jurisdiction's national competitiveness. Through this initiative, CISE aims to promote funded activities that enable sustainable growth in research enterprise in EPSCoR jurisdictions. Collaborative proposals among the EPSCoR and Non-EPSCoR-eligible jurisdictions that are led by EPSCoR institutions are particularly welcomed.
+
+Proposals for Consideration by Multiple CISE Future Computing Research Programs
+
+For proposals that intersect with more than one CISE Future Research program, PIs must identify the most relevant programs in the proposal submission process. For information about submission and how to identify such proposals, refer to the Proposal Preparation Instructions section of this document. In these cases, PIs should also ensure that their proposals meet the program-specific guidelines for each identified research program. NSF CISE program officers will consider co-reviewing these proposals as appropriate.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 400 to 600
+
+Anticipated Funding Amount: $280,000,000
+
+Dependent upon the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 2
+
+For CISE Future CoRe Programs, an individual may not serve as a PI, co-PI, or Senior/Key Personnel on more than two proposals submitted within any consecutive 12-month period across all Future CoRe programs listed in this solicitation.
+
+Proposals submitted to the previous version of CISE core Programs (NSF 24-589); Cyber-Physical Systems (NSF 24-581); Smart and Connected Communities (NSF 25-527) or any other NSF funding opportunities do not count towards the limit on the number of proposals per PI, co-PI or Senior Personnel.
+
+These eligibility constraints will be strictly enforced to treat everyone fairly and consistently. Any proposal that exceeds this limit at the time of submission for any PI, co-PI, or Senior/Key Personnel will be returned without review. No exceptions will be made. Proposals that are withdrawn prior to commencement of the merit review process, or those that are returned without review by NSF, will not count against this proposal limit. Proposers are strongly encouraged to verify the dates of prior submissions to Future CoRe Programs for all personnel on their teams to avoid their proposals being returned without review.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals:
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

@@ -13,3 +13,108 @@ Status: Cleared
 Posted date (Y-m-d): 2024-05-01
 URL: https://www.nsf.gov/funding/opportunities/mfai-mathematical-foundations-artificial-intelligence/nsf24-569
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Mathematical Foundations of Artificial Intelligence (MFAI)
+
+I. Introduction
+
+Machine Learning and Artificial Intelligence (AI) are enabling extraordinary scientific breakthroughs in fields ranging from protein folding, natural language processing, drug synthesis, and recommender systems to the discovery of novel engineering materials and products. While these achievements lie at the confluence of mathematics, statistics, engineering, and computer science, a clear explanation of the remarkable power and limitations of such AI systems has eluded scientists from all disciplines. Critical foundational gaps remain that, if not properly addressed, will soon limit advances in machine learning, curbing progress in artificial intelligence. It appears increasingly unlikely that these critical gaps can be surmounted with increased computational power and experimentation alone. Deeper mathematical understanding is essential to ensuring that AI can be harnessed to meet future needs of society and enable broad scientific discovery, while forestalling the unintended consequences of a disruptive technology.
+
+NSF's previous investments in the Mathematical and Scientific Foundations of Deep Learning (MoDL) program ( NSF 20-540 ), the Stimulating Collaborative Advances Leveraging Expertise in the Mathematical and Scientific Foundations of Deep Learning (SCALE MoDL) program ( NSF 21-561 ), the TRIPODS program ( NSF 19-604 ), Harnessing the Data Revolution, and the Foundations of Machine Learning theme within the AI Institutes ( NSF 20-503 ) have yielded important advances in understanding the mathematical, scientific, and theoretical foundations of deep learning, machine learning, and data science. Still, the tremendous body of AI knowledge and practice currently rests on a surprisingly limited mathematical foundation. Untapped and under-explored mathematical constructs have the potential to provide paradigm-changing approaches leading to more accurate, more robust, and less data- and computationally-hungry approaches.
+
+The 2023 update to the National Artificial Intelligence Research and Development Strategic Plan highlights the need for "Understanding Theoretical Capabilities and Limitations of AI." Extending the mathematical and theoretical foundations underpinning AI will be essential for both understanding the successes and failures of current generation machine learning and developing the next generation that have better explainability, transferability, generalizability, and scalability. Such extensions will be critical for reliable, trusted AI methodologies and may offer significant reductions in implementation costs and better integration of domain-specific constraints. This could lead to a mathematically rigorous understanding of how generalizability and bias depend on the amount, quality, diversity, and fusion of data sources. For example, it could elucidate the factors affecting the double descent phenomenon of over-parameterized machine learning models, the dynamics and convergence of training such models, the resilience of such models to pruning, the success of synthetic data augmentation and in-context learning of transformers, and other important and timely questions. As the computer science and engineering communities push the limits of AI capabilities, the deep questions and concerns surrounding the value of inference from these models, as well as the associated risks, including ethical risks and potential human and social consequences, can only be addressed by making advances in the mathematical and theoretical foundations underlying these methods.
+
+II. Program Description
+
+MFAI aims to support research focused on the most challenging theoretical questions aimed at understanding the capabilities, limitations, and emerging properties of AI methods as well as the development of novel, mathematically grounded design and analysis principles for the current and next generations of AI. PI teams should collectively possess appropriate expertise drawn from mathematics/statistics, computer science, engineering, and social and behavioral sciences, as appropriate to the project. The scientific focus must be on the mathematical and theoretical foundations, but relevance to application domains where the mathematical advances may lead to significantly new capabilities or a deeper understanding of existing empirical observations should be addressed. Collaboration between theoretical and empirical scientists is highly encouraged.
+
+Specific research goals are:
+
+A fundamental mathematical understanding of the factors determining the capabilities and limitations of current and emerging AI systems, including, but not limited to, foundation models, generative models, deep learning, statistical learning, federated learning, and other evolving paradigms;
+
+The development of mathematically grounded design and analysis principles for the current and next generations of AI;
+
+Rigorous approaches for characterizing and validating machine learning algorithms and their predictions, as well as research enabling provably reliable, translational, general-purpose AI systems and algorithms;
+
+Encouragement of new collaborations across this interdisciplinary research community and between institutions.
+
+Opportunities for advancing the mathematical foundations of modern AI include, but are not limited to, statistical inference and methodology, formal and symbolic logic, topology, complexity theory, algebraic geometry, representation theory, and analysis approaches such as dynamical systems, partial differential equations, mean field theory, approximation theory, and optimization theory, which, in turn, could facilitate the interpretability, transferability, generalizability, and scalability of AI.
+
+Successful proposals will describe an actionable approach for advancing the mathematical and theoretical foundations of the current and/or next generation of artificial intelligence methodologies through targeting at least one key technical obstacle. Successful proposals will also make clear the innovative mathematical and theoretical contributions that will be addressed in the project. Proposals should clearly articulate the challenges to be addressed, the technical approaches to be taken to address these challenges, and discuss why the proposed technical approaches are viable, along with alternative approaches that might be adopted in the event of negative outcomes. Each proposal must clearly demonstrate substantial collaborative contributions from team members with complementary expertise and should highlight how the complementary expertise of the team provides a unique opportunity for progress. Each project team should also contribute to the development of the multidisciplinary research workforce that will continue to advance the field in the future. This will be through the research involvement of students, and/or postdoctoral associates from across the multi-disciplinary spectrum of relevant areas.
+
+One or more award participants, including the project Principal Investigator (PI), will be expected to attend a PI meeting each year of the award to exchange ideas, effective practices, assessment strategies, as well as challenges.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 15
+
+We anticipate making up to 15 awards in each competition. Each award size may vary and is expected to range from $500k to $1.5M total. Each award is expected to take place for a duration of 36 months. Award size is contingent upon the scope, scale and complexity of the proposed project. The number of awards will be subject to the availability of funds and quality of proposals received.
+
+Anticipated Funding Amount: $8,500,000
+
+Up to $8,500,000 per year is expected for new awards, subject to availability of funds and receipt of meritorious proposals.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members.
+
+Who May Serve as PI:
+
+As of the date the proposal is submitted, any PI, co-PI, or senior/key personnel must hold either:
+
+a tenured or tenure-track position, or
+
+a primary, full-time, paid appointment in a research or teaching position
+
+at a US-based campus of an organization eligible to submit to this solicitation (see above), with exceptions granted for family or medical leave, as determined by the submitting organization. Individuals with primary appointments at for-profit non-academic organizations or at overseas branch campuses of U.S. institutions of higher education are not eligible.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+A Principal Investigator (PI) or co-Principal Investigator (co-PI) can be part of no more than one proposal per deadline in response to this solicitation.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

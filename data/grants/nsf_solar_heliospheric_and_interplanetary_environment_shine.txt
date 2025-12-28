@@ -9,3 +9,84 @@ Status: Cleared
 Posted date (Y-m-d): 2022-02-10
 URL: https://www.nsf.gov/funding/opportunities/shine-solar-heliospheric-interplanetary-environment/nsf22-570
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Solar, Heliospheric, and INterplanetary Environment (SHINE)
+
+I. Introduction
+
+The Solar-Terrestrial Research program in the Geospace Section of the Division of Atmospheric and Geospace Sciences (AGS), National Science Foundation (NSF), solicits proposals to investigate the Solar Heliospheric & Interplanetary Environment (SHINE). SHINE is one of three targeted programs in the Geospace Section designed to address the question of how the Sun influences geospace and the upper atmosphere. SHINE proposals are solicited in three topic areas to generate advances in emerging areas of solar-terrestrial physics. Successful proposals must meet the standards for intellectual merit, broader impacts, and programmatic relevance of the Solar Terrestrial Research Program. The program is committed to developing the next generation of solar and geospace researchers. Proposals are encouraged from early career scientists, as well as those being led by or including members of under-represented groups in STEM.
+
+II. Program Description
+
+SHINE research focuses upon the connections between eruptive events and magnetic phenomena on the Sun and the corresponding solar wind structures in the inner heliosphere. SHINE fosters research on those processes by which magnetic fields and particles produced by the Sun permeate interplanetary space and on the mechanisms by which these fields and particles are transported to geospace through the inner heliosphere. The goal of SHINE research is to enhance both our physical understanding and predictive capabilities for solar driven geoeffective events. SHINE is therefore complementary to, but distinct from, the National Space Weather Program initiatives undertaken by the National Science Foundation and other agencies. The emphasis of SHINE is on basic research into solar and heliospheric processes, while the focus of the National Space Weather Program is on practical applications for forecasting and mitigating the adverse effects of space weather on technological systems on the Earth and in near-Earth space.
+
+Topics are solicited in the following three areas:
+
+(1) Inter-disciplinary SHINE science. To spark research connections between SHINE sub-fields, proposals bridging SHINE disciplines such as studies of connections between the low and high corona, helioseismology and the emergence of active regions, and coronal hole boundaries and the solar wind.
+
+(2) Connections of the heliosphere with Earth's climate. This includes understanding how solar variability affects the magnetosphere, the lower atmosphere, and detailed studies of longer term trends between the Sun, terrestrial weather, and Earth's climate.
+
+(3) Modeling and/or observational projects incorporating machine learning/artificial intelligence techniques . Observational data sets may be included from any relevant source/federal agency but are particularly encouraged to include NSF funded observations (e.g., Big Bear Solar Observatory, Expanded Owens Valley Array, Simpson Neutron Monitor, ground-based telescopes).
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 10 to 15 annually
+
+Anticipated Funding Amount: $3,000,000
+
+The goal is to support the SHINE program at $3,000,000 annually.
+
+Estimated number of awards and funding amounts are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 2
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

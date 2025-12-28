@@ -17,3 +17,174 @@ Status: Cleared
 Posted date (Y-m-d): 2023-02-27
 URL: https://www.nsf.gov/funding/opportunities/hbcu-historically-black-colleges-universities-undergraduate/nsf23-563
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Historically Black Colleges and Universities - Undergraduate Program (HBCU-UP)
+
+I. Introduction
+
+The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP) is managed by the Division of Equity for Excellence in STEM in the Directorate for STEM Education. HBCU-UP is committed to enhancing undergraduate science, technology, engineering, and mathematics (STEM) education and research at Historically Black Colleges and Universities (HBCUs) to broaden participation in the nation's STEM workforce. HBCUs are a critical resource for efforts aimed at increasing diversity in the STEM enterprise. In 2018, HBCUs conferred bachelor's degrees in science and engineering fields to 14.9% of African American students. 1 In addition, 23.2% of African American graduates who earned a doctorate degree in science and engineering between 2015-2019 earned their bachelor's degrees from an HBCU. During the same time (2015-2019), nine of the top fifteen baccalaureate institutions of African American STEM doctoral degree recipients are HBCUs. As such, HBCUs have an essential role in efforts to broaden the participation of underrepresented groups in STEM and promote the diversity of perspectives that drive innovation and discovery to advance the nation's global impact.
+
+To meet the nation's need to strengthen, expand and diversify its STEM-capable workforce, higher education needs more rapid gains in achievement and successful degree completion in STEM for students from underrepresented populations. 2 HBCU-UP seeks to work towards this goal by providing awards to develop, implement, and study innovative approaches for enhancing the preparation and success of HBCU undergraduate students so that they may participate successfully in graduate programs and/or careers in STEM disciplines. HBCU-UP supports NSF efforts in all research areas and welcomes proposals that increase HBCUs' strategic positioning for competitive opportunities supported by NSF's newest Technology, Innovation and Partnerships (TIP) directorate . HBCU-UP welcomes proposals that will pair well with the efforts of the NSF Eddie Bernice Johnson INCLUDES Initiative to develop STEM talent from all sectors and groups in our society. Collaborations are encouraged between HBCU-UP proposals and existing INCLUDES Initiative projects, provided the collaboration strengthens both projects. Additionally, HBCU-UP has identified the following priority areas: innovation in teaching and curriculum development; access to STEM research experiences for undergraduate students; recruitment and retention, especially retention in STEM fields during and after the freshman year; critical transitions from K-12 to undergraduate, 2-year to 4-year, and undergraduate to graduate school; increased research capacity of STEM faculty; broadening participation research; evidence-based leadership and professional development for faculty; research capacity building; and STEM teacher preparation.
+
+1 National Center for Science and Engineering Statistics. 2021. Women, Minorities, and Persons with Disabilities in Science and Engineering: 2021. Special Report NSF 21-321. Alexandria, VA: National Science Foundation. Available at https://ncses.nsf.gov/pubs/nsf21321/ .
+
+2 National Academies of Sciences, Engineering, and Medicine 2019. Minority Serving Institutions: America's Underutilized Resource for Strengthening the STEM Workforce. Washington, DC: The National Academies Press. https://doi.org/10.17226/25257 .
+
+II. Program Description
+
+The Historically Black Colleges and Universities - Undergraduate Program provides support for Targeted Infusion Projects, Research on Broadening Participation in STEM Projects, Research Initiation Awards, Implementation Projects, and Broadening Participation Research Centers.
+
+1. TARGETED INFUSION PROJECTS (TIP) : Projects of two to three years targeted for short-term, well-defined goals to enhance and innovate undergraduate STEM education at HBCUs.
+
+Targeted Infusion Projects are expected to build knowledge concerning STEM education. The proposal must describe and make a strong case for how a project advances the knowledge base in STEM education through research, evaluation, or a combination of research and evaluation processes. The theoretical and empirical justification for the proposed project must be clearly articulated.
+
+Competitive proposals will clearly describe the innovation in undergraduate STEM education the project will realize. Appropriate short-term goals should be easily measurable and attainable within the project time frame, and relevant, proper metrics should be identified. The proposal also should include activities for the dissemination of project results.
+
+There are several approaches for Targeted Infusion Projects to achieve their goals. Some examples are listed below. This list is not meant to be prescriptive nor inclusive of all possible project activities/plans:
+
+Adapt evidence-based learning experiences and pedagogies in STEM fields.
+
+Develop creative uses of cyberlearning.
+
+Enhance academic infrastructure by updating curricula, modernizing laboratory research equipment, or improving the computational network supporting research and education.
+
+Enhance existing degree programs, establish new degree programs or concentrations, secure specialized accreditation, or certification, or infuse STEM programs with disciplinary field advances and evolving workforce requirements.
+
+Develop faculty expertise, promote the implementation of educational innovations, or focus on the preparation of future K-12 teachers.
+
+HBCUs that currently have a five-year Implementation Project must address how the Targeted Infusion Project differs from the Implementation Project activities and how the HBCU-UP funded projects will be leveraged, integrated, or synergized to produce more significant outcomes that could not be achieved separately.
+
+2. RESEARCH ON BROADENING PARTICIPATION IN STEM PROJECTS (BPR) : Projects of up to three years to investigate topics that impact the recruitment, retention, and success of African Americans in STEM education and the workforce.
+
+Research on Broadening Participation in STEM Project proposals may investigate behavioral, cognitive, affective, learning and social differences (to include the intersection of social factors), as well as organizational, institutional, or systemic processes that may impact participation and success in STEM education. Successful proposals will be grounded in appropriate theory and incorporate recent innovations and advances in research methodologies, conceptual frameworks, and/or data gathering and analytic techniques. Proposals should reflect relevant advances in quantitative, qualitative, and mixed-methods research and evaluation methodologies and provide a compelling argument about how the proposed methodologies are appropriately matched with the strategic research questions of the project. Additionally, proposals should demonstrate how the methods chosen will result in rigorous, cumulative, reproducible, and usable findings to merit peer-review and publication.
+
+Research on Broadening Participation in STEM Project proposals must include PIs with demonstrable expertise in education research and/or social science research methods and knowledge about STEM programs at HBCUs. Proposers are encouraged to establish collaborations to strengthen the research project and describe in the proposal the nature of the collaboration and the anticipated benefits. As appropriate, proposals should describe mechanisms to transfer findings into educational practice for use by other researchers and policymakers.
+
+3. RESEARCH INITIATION AWARDS (RIA) : Projects of up to three years to perform scientific research.
+
+Research Initiation Awards provide support for a STEM faculty member at the HBCU to pursue research at either the home institution, another research-intensive institution, an NSF-funded Center, or at a national laboratory. The project description should contain all of the elements of a standard NSF research proposal. The project should further the faculty member's research capability and effectiveness and help improve research and teaching at the home institution. If appropriate, the project may involve undergraduate students in research experiences. Research Initiation Awards are for faculty who are starting to build or are rebuilding a research program. Faculty members who hold or have held an external research award within the last three years are not eligible for the Research Initiation Award. Potential PIs should consult with a Program Officer to clarify whether a previous external research grant would preclude the PI from qualifying for this track.
+
+4. IMPLEMENTATION PROJECTS (IMP) : Projects up to five years to advance undergraduate STEM education and research institution wide.
+
+Implementation Projects provide support to design, implement, study, and assess comprehensive institutional efforts to increase the numbers of students pursuing STEM degrees and the quality of their preparation. Implementation projects should create and/or adapt and assess evidence-based models and materials for teaching and learning in STEM, embody knowledge about how students learn most effectively in STEM teaching and learning activities, and bring STEM disciplinary advances into the undergraduate experience. Before submitting a proposal for an Implementation Project, proposers are encouraged to analyze the strengths and potential of the institution to advance STEM education. Based on this analysis, they should design and/or adapt innovative educational strategies that are appropriate in content and context for increasing the capacity and effectiveness of the institution to attract, retain, educate, and train students from groups underrepresented in STEM and prepare them to succeed in graduate school or the workforce. Transferability and dissemination of successful models, effective methods, and innovative materials for educating undergraduate STEM students are critical aspects of Implementation Projects.
+
+Innovative models and tools for STEM teaching and learning developed through an Implementation Project should be part of comprehensive institutional reform to enhance STEM teaching and learning and improve student access and retention in STEM areas. The implementation design should apply research-based practices to produce significant improvements in undergraduate STEM education and research programs at the institution. Project components may include, but are not limited to: developing and assessing innovative STEM curriculum teaching and learning techniques; using cyberinfrastructure for anytime, anywhere, anyone learning; providing novel undergraduate student development activities and educational enrichment activities; enhancing undergraduate student research experiences; providing activities that promote the development of a globally engaged workforce, including international research experiences for undergraduate students and faculty; creating new approaches to recruit and retain undergraduate STEM students; providing faculty professional development in effective STEM teaching, pedagogy, and research; providing opportunities and mechanisms for faculty, especially new faculty, to establish a research program; preparing K-12 STEM teachers; addressing the critical transitions from K-12 to undergraduate, 2-year to 4-year, and undergraduate to graduate; and implementing other activities that enhance the quality and competitiveness of undergraduate STEM programs. Implementation Projects should establish sustainable practices that prepare students to compete successfully for graduate research fellowships. Efforts should be made to increase the number of students submitting competitive applications to the NSF Graduate Research Fellowship Program, and other competitive fellowship programs. The recruitment and retention of veterans in STEM fields to diversify and increase the STEM workforce is encouraged.
+
+NSF expects that the activities and strategies included in Implementation Project proposals will be consistent with and complementary to the institution's STEM needs, long-term goals, and mission. NSF, therefore, allows maximum flexibility in the design of Implementation Projects under HBCU-UP. The proposal, however, must fully substantiate the rationale for choosing the desired approach. The project scope should depend on the size and number of STEM departments or programs at the institution and be defined by the complexity of the proposed activities in the project design. Ideally, an Implementation Project would impact all STEM undergraduate programs, STEM students, and STEM faculty at the institution. The project plan should be clearly described, detailing measurable outcomes for STEM students (e.g., number and types of high-quality research experiences, number of students going on to graduate school or the workforce) and faculty (e.g., number of publications) of the proposed HBCU-UP activities. The proposal should include compelling arguments for why the proposed practices and strategies implemented in the specific institutional environment are expected to result in the anticipated outcomes. The proposal also should include activities for scholarly dissemination of project results and processes to inform the broader community about the effectiveness of specific implementation strategies.
+
+If an institution has previously received an Implementation Project or an ACE Implementation grant, it is critical that the proposal for a new Implementation Project provides complete information on the outcomes and impact of the previous Implementation project(s), including a description of what was learned from the previous activities, how these findings were disseminated to the broader community, and how successful activities are being sustained at the institution. Implementation Project proposals from past awardees must not simply propose continuing the previous Implementation Project grant activities. The new proposal should be based on a thorough evaluation of the previous Implementation Projects and an assessment of the institution's current state so that a new project can build on progress and achievements and identify new innovations undertaken to move the institution to the next level of STEM program competitiveness. The proposal should include a component that outlines a strategy for the creative integration of NSF-funded awards at the institution that are related to the proposed project's goals and scope.
+
+Proposals for a second round or subsequent Implementation Project must include a research project that is linked to the proposed interventions and strategies to formally study such strategies in the unique setting of the HBCU. Projects may offer a postdoctoral research fellowship to a social science or educational researcher to provide opportunities early in their career and to work with this research project.
+
+5. BROADENING PARTICIPATION RESEARCH CENTERS (BPRC) : Five-year projects that build the intellectual infrastructure to facilitate the creation, integration, and transfer of new knowledge in broadening participation research.
+
+Broadening Participation Research Centers are expected to engage in broadening participation research that will add to the research knowledge base and enhance understanding of the barriers that hinder and factors that enhance the ability to broaden participation in STEM. The results of these efforts will inform approaches to increase access and involvement of underrepresented groups in STEM and strengthen the national STEM capabilities and competitive advantage. NSF expects Broadening Participation Research Centers to demonstrate leadership in the involvement of groups historically underrepresented in STEM at all levels, including students, postdoctoral researchers, and faculty. BPRCs conduct research through partnerships, as appropriate.
+
+Centers will offer the HBCU community a venue for interaction and an effective mechanism to undertake long-term integrated research and education activities focused on broadening participation research. Centers will also develop approaches to ensure the effective transfer of knowledge of research and education outcomes. BPRC partner institutions work together with the lead institution as an integrated whole to achieve the shared research, education, outreach, and knowledge-transfer goals of the Center.
+
+The National Academies Report 3 states that "HBCUs by their very mission, purpose, and environment are more likely to achieve success" in recruiting, retaining, and graduating African American students in STEM fields and lists the reasons for this success. Therefore, Centers are expected to gather and represent the collective intelligence of HBCU STEM higher education and serve as a national hub for the rigorous study and broad dissemination of the critical pedagogies and culturally sensitive interventions that contribute to the success of HBCUs in educating students from underrepresented populations in STEM fields, particularly African American STEM undergraduates. Centers that meaningfully incorporate and promote broad and systemic connections to mainstream STEM higher education reform efforts are especially encouraged. These connections are critical, because, according to the above-cited report, "only a small number of institutions (including HBCUs) serve the needs of underrepresented minority students." Planning proposals that describe the activities necessary to develop full-scale proposals are strongly encouraged and should be submitted in accordance with Section II.E.1 of the PAPPG.
+
+Lead institutions that have received a BPRC award are eligible to submit a renewal proposal for a maximum of 5 years (up to 10 years of total support). It is essential that the renewal proposal describes the outcomes and impact of the previous BPRC award, including insights from previous activities, how the findings were disseminated to the broader STEM community, and how successful activities are being sustained at the institution. BPRC proposals from past awardees must describe strategies and approaches that build on previous awards. If there is a need to continue activities initially described in the previous award, the renewal proposal must demonstrate that this decision is based on a thorough evaluation of the previous BPRC award and an assessment of the center's current state such that the new proposal raises the national profile of the center.
+
+3 National Academies of Sciences, Engineering, and Medicine 2019. Minority Serving Institutions: America's Underutilized Resource for Strengthening the STEM Workforce . Washington, DC: The National Academies Press. https://doi.org/10.17226/25257 .
+
+6. OTHER FUNDING OPPORTUNITIES
+
+HBCU-UP funds planning grants of twelve to twenty-four months to establish sustainable practices to assist faculty, particularly new faculty, in establishing a research program, to undertake an institutional STEM program self-analysis in preparation for submitting an Implementation Project, a Broadening Participation Research Center Project, or a proposal that focuses on establishing a new department or program. Planning grants are also accepted from institutions that want to undertake an analysis in preparation for submitting a center grant or institutional transformation grant to other NSF divisions for studying institutional preparedness and setting up the needed collaborations among stakeholders. Planning grants should be submitted in accordance with Section II.E.1 of the PAPPG. PIs are advised to discuss the planning grant proposal with an HBCU-UP program director before submission.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 136
+
+Up to 136 awards are expected to be made over a two-year period as follows:
+
+HBCU-UP awards are made as Standard Grants or Continuing Grants. In FY 2024 and FY 2025, the estimated number of awards each year will be:
+
+Up to 25 Research Initiation Awards,
+
+Up to 25 Targeted Infusion Projects,
+
+Up to 6 Research on Broadening Participation in STEM Projects,
+
+Up to 10 Implementation Projects,
+
+4 to 6 other awards (Planning Grants, Conferences, EAGER, or RAPID proposals) based on the availability of funds.
+
+Additionally, in FY 25, up to two Broadening Participation Research Centers will be funded.
+
+Anticipated Funding Amount: $62,250,000
+
+$62.25 million, pending availability of funds, are expected to be spent for new awards over the two-year period as follows:
+
+Approximately $30 million, pending availability of funds, for new awards in FY 2024 for Targeted Infusion Projects, Research on Broadening Participation in STEM Projects, Implementation Projects, and Research Initiation Awards.
+
+Approximately $32.25 million, pending availability of funds, for new awards in FY 2025 for Targeted Infusion Projects, Research on Broadening Participation in STEM Projects, Implementation Projects, Research Initiation Awards, and Broadening Participation Research Centers.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Historically Black Colleges and Universities (HBCUs) that are accredited and offer undergraduate educational degree programs in science, technology, engineering, or mathematics (STEM). Proposals from HBCUs actively engaged in the process of developing undergraduate STEM education programs are encouraged. Potential PIs should contact an HBCU-UP Program Officer to discuss the suitability of their institution/program for this program.
+
+Who May Serve as PI:
+
+The Principal Investigator for a Targeted Infusion Project must be the individual who will direct the implementation of the project activities.
+
+The Principal Investigator for a Research on Broadening Participation in STEM Project must be the individual responsible for managing the project and must be one of the primary researchers.
+
+The Principal Investigator for a Research Initiation Award must be a faculty member in a STEM or STEM education discipline at the HBCU. Co-Principal Investigators and senior personnel are not permitted.
+
+The Principal Investigator and Co-Principal Investigators for an Implementation Project or a Broadening Participation Research Center must be the individuals that will be responsible for guiding the implementation of the project or Center. A PI or Co-PI of an active BPRC may not be a PI or Co-PI on a proposal under this track if the Center would still be active at the start of the new award.
+
+Limit on Number of Proposals per Organization:
+
+An eligible institution can submit no more than two Targeted Infusion Project proposals per year and can only have one active Targeted Infusion Project for any given department or unit.
+
+An eligible institution can submit no more than two Research on Broadening Participation in STEM Project proposals per year.
+
+An eligible institution can submit no more than two Research Initiation Award proposals per year.
+
+An eligible institution can submit only one Implementation Project proposal per year. An institution may have only one active Implementation Project award. However, a new proposal can be submitted by an institution with an active project if that project is due to expire before a new award would start.
+
+The lead institution of a proposal for a Broadening Participation Research enter should have been awarded three rounds of an Implementation or ACE Implementation Project. Institutions that do not meet this criterion but have received funding for broadening participation research projects, must consult with a Program Director to determine the eligibility of the institution to serve as lead institution in a BPRC project. An eligible lead institution can submit only one Broadening Participation Research Center proposal per funding cycle and can have only one active center. However, a renewal proposal can be submitted by the lead institution with an active project if that project is due to expire before new awards are made.
+
+Limit on Number of Proposals per PI or co-PI: 2
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Submission of Letters of Intent is required. Please see the full text of this solicitation for further information.
+
+Preliminary Proposals: Submission of Preliminary Proposals is required. Please see the full text of this solicitation for further information.
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

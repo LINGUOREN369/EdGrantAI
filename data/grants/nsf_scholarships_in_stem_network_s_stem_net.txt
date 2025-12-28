@@ -13,3 +13,150 @@ Status: Cleared
 Posted date (Y-m-d): 2022-12-22
 URL: https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/nsf23-536
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Scholarships in STEM Network (S-STEM-Net) S-STEM Research Hubs
+
+I. Introduction
+
+Through this solicitation, NSF seeks to foster a community for S-STEM stakeholders and further develop the infrastructure needed to generate and disseminate new knowledge, successful practices and effective design principles arising from NSF S-STEM projects nationwide. To support collaboration within the S-STEM network, NSF will fund several S-STEM Research Hubs (S-STEM-Hub).
+
+The S-STEM Network (S-STEM-Net) will collaborate to create synergies and sustain a robust national ecosystem consisting of multi-sector partners supporting domestic low-income STEM students in achieving their career goals, while also ensuring access, inclusion, and adaptability to changing learning needs. The Hubs will investigate evolving barriers to the success of this student population. It will also disseminate the context and circumstances by which interventions and practices that support graduation of domestic low-income students pursuing careers in STEM are successful.
+
+The target audience for this dissemination effort is the community of higher education institutions, faculty, scholars, researchers and evaluators, local and regional organizations, industry, and nonprofit, federal, state, and local agencies concerned with the success of domestic low-income STEM students in the United States.
+
+II. Program Description
+
+S-STEM-Net investments:
+
+S-STEM Research Hubs (S-STEM-Hubs): A maximum of $3 million (up to $3 million over a period of up to five years per S-STEM-Hub) will be awarded to support up to five (5) S-STEM-Hubs for a total investment of $15 million.
+
+Requirements for S-STEM Hubs:
+
+Lead Organization: The lead organization must demonstrate significant experience with the S-STEM program or with research about or services to support domestic low-income students in STEM.
+
+Evaluation: Proposals must include formative and summative assessments of the quality and success of the S-STEM-Hub activities as appropriate. This evaluation must be conducted by an independent experienced evaluator who is external to the project and to the institution.
+
+Letters of Collaboration: All institutional collaborations must be ratified by a corresponding letter of collaboration signed by an administrator (dean or above) following the PAPPG requirements for these letters, confirming that the institution is aware of the proposed work and willing to support the project in full if awarded.
+
+Participation in S-STEM PI meeting: PI and Co-PIs should plan to participate in the S-STEM PI meeting that occurs every other year. Budgets should include travel for the leadership team for the 3-day event in years 1, 3 and 5 of the execution.
+
+Number, Funding Level and Goal
+
+The primary goal of each S-STEM Research Hub is to support and carry out high-quality, innovative research on the factors, structures or interventions involved in supporting and promoting the success of domestic low-income undergraduate and graduate STEM students, regardless of other demographic factors. In addition, proposals aiming to investigate other STEM-related questions or issues but not focused on low-income student success, including those focused on the development of new STEM curriculum or academic programs, or specific research opportunities for undergraduates in some STEM-related topic, are not appropriate for the S-STEM-Hub funding opportunity and will be returned without review.
+
+S-STEM Research Hubs are primarily formed to organize groups of researchers to conduct and disseminate rigorous qualitative and quantitative research on topics related to the S-STEM program and low-income student success. Each Research Hub should have a central focus that intersects a clear group of current and prospective S-STEM institutions. For example, a Research Hub might be organized around research on specific interventions (e.g., impact of math Summer bridge programs) or desirable outcomes (e.g., development of STEM identity) for S-STEM scholars. Other thematic topics that Research Hubs might focus on include research on issues affecting a specific discipline or academic context (e.g., low-income undergraduates in computer science; access to doctoral e programs for domestic low-income students in strategic disciplines such as quantum science, robotics, or AI; first-generation S-STEM scholars at two-year colleges; low-income veterans pursuing STEM careers). Any other common interests that exist among active S-STEM projects might also be appropriate for development of a Research Hub, including geographic regions with common factors affecting scholars (e.g., S-STEM Research Hub of the Midwest) or type of institution (e.g., S-STEM Hub for Rural-serving Institutions) or about a pervasive issue experienced by low-income scholars across certain types of institutions (e.g., S-STEM Research Hub about Strategies to Overcome Impostor Syndrome at Highly Competitive Institutions).
+
+Research Hubs coordinate groups of researchers engaged with S-STEM projects to explore methodologies, data streams, and opportunities for new research directions. Consequently, the Research Hub must conduct activities that will foster new and innovative collaborative research activities involving researchers from beyond the host institution. It is anticipated that the activities in which the hub engages may evolve. Thus, it is important that a Research Hub leverages its interinstitutional nature and builds a flexible structure that could facilitate such changes over its lifespan.
+
+Activities required of all S-STEM-Hub projects:
+
+Regardless of focus, all Research Hubs must propose and budget for activities to:
+
+identify, develop, and support promising innovative research ideas that generate valuable new knowledge on the US higher education enterprise in general and the S-STEM community in particular;
+
+gather, analyze, and utilize the data and insights resulting from the experiences of those participating in S-STEM projects to share information about what works and what does not under given circumstances, regarding low-income STEM student achievement;
+
+share and leverage effective practices on a national scale to improve the achievement and success of domestic low-income students pursuing careers in STEM (including veterans, graduate students, and students in rural areas, if appropriate);
+
+provide intellectual infrastructure for collaborations with potential to expand the knowledge base about support for domestic low-income, high-achieving STEM students;
+
+develop mechanisms for dissemination of successful practices, the context in which they work and research results; and,
+
+ensure that the Research Hub’s activities are inclusive of the broad collection of institutions with S-STEM projects in the research focus of interest including, but not limited to, 2-year colleges, PUIs, minority-serving institutions, and/or research-intensive universities, as appropriate.
+
+Regardless of the focus, all proposals for a Research Hub must describe a plan to include and leverage the full spectrum of stakeholders, approaches, disciplines, and ideas that may exist within a thematic topic, and a strategy to explore new knowledge and generate best practices that will be transferable to other locations.
+
+While the exact structure of a Research Hub may take many different forms, a successful S-STEM-Hub proposal must:
+
+present the rationale for the creation of a Research Hub as opposed to a regular research grant. Research questions grounded in the literature that constitute the starting point for the Hub should also be included;
+
+justify the research work that otherwise could not be advanced without the funded collaboration (why a large award with multiple PIs is needed);
+
+identify the relevant stakeholders for the proposed Research Hub focus;
+
+involve multiple S-STEM constituencies and institutions and present a clear plan to recruit researchers and solicit perspectives and expertise from institutions including, but not limited to, 2-year colleges, PUIs, minority-serving institutions, and/or research-intensive universities, as appropriate;
+
+demonstrate that the proposed S-STEM-Hub’s leadership and advisory structures are reflective of the institution types that most significantly intersect their focus area;
+
+describe how the S-STEM-Hub will leverage varied institutional data streams and/or tackle challenges that cannot be accomplished by a single institution or a team of PIs; and
+
+describe a project management plan and a mechanism to encourage and enable interaction between S-STEM-Hub stakeholders.
+
+present an external evaluation plan for the Hub’s activities.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant
+
+Estimated Number of Awards: 1 to 5
+
+S-STEM-Hub – up to 5 awards, as standard grants.
+
+Anticipated Funding Amount: $15,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research labs, professional societies and similar organizations in the U.S. associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+An organization may submit at most one S-STEM-Hub proposal (as a single institution, a subawardee, or a member of a collaborative research project).
+
+Limit on Number of Proposals per PI or co-PI:
+
+An individual may only serve as PI or Co-PI of one S-STEM-Hub proposal.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

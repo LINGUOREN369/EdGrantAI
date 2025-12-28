@@ -10,3 +10,200 @@ Status: Cleared
 Posted date (Y-m-d): 2023-03-06
 URL: https://www.nsf.gov/funding/opportunities/arch-sr-archaeology-program-senior-research-awards/nsf23-566
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Archaeology Program Senior Research Awards (Arch-SR)
+
+I. Introduction
+
+Three anthropological science programs, Archaeology, Biological Anthropology and Cultural Anthropology, are housed in the Division of Behavioral and Cognitive Sciences, part of NSF's Social, Behavioral and Economic Sciences Directorate. As a group, these programs support basic research that advances anthropological theory, expands our understanding of human cultural and biological variation in the past and present and informs contemporary efforts to improve the human condition. The Archaeology Program focuses specifically on processes that have shaped past behavior in humans and their fossil relatives. This solicitation provides instructions and details (supplementary to the PAPPG) for preparation of senior proposals submitted to the Archaeology Program. Separate solicitations exist for the program's administered doctoral dissertation improvement grant and archaeometry competitions.
+
+II. Program Description
+
+The Archaeology Program supports anthropologically relevant archaeological research to increase understanding of past behaviors. This means that the value of the proposed research can be justified within an anthropological context. It is the responsibility of the investigator to explain convincingly why the focus of their research is significant and has the potential to contribute to anthropological knowledge. The program sets no priorities by either geographic region or time period. It also has no priorities in regard to theoretical orientation or question. While the program, in order to encourage innovative research, neither limits nor defines specific categories of research, most applications either request funds for field research or the analysis of archaeological material through multiple approaches.
+
+Proposals with a cultural or biological orientation may be appropriate for co-review with the Cultural Anthropology or Biological Anthropology programs. Archaeology proposals have also been reviewed with natural and biological science programs. Review with many other NSF programs may also be possible. Co-review may be requested by the PI but ultimately is at the discretion of the participating programs.
+
+The program encourages PIs to consider the full scope of ethical implications that their proposed research has on individuals, communities, environments and the scientific enterprise and to discuss these in the proposal's project description. The program also encourages a wide range of broader impact activities as part of research grants, including research outcomes with inherent benefit to society, efforts to broaden participation in STEM research, and training and outreach activities.
+
+A list of recent awards made by the program demonstrates the range of sub-fields, methods and topics typically supported by the program. If a researcher is unsure whether the Archaeology Program and NSF more broadly are appropriate for a proposal topic, they are encouraged to email a one-page summary of their project to the program officer(s) prior to a proposal submission.
+
+Additional Relevant Funding Opportunities
+
+The Archaeology Program supports multiple funding opportunities and types of proposals:
+
+Senior Research Proposals
+
+Archaeometry Proposals
+
+Doctoral Dissertation Improvement Grants
+
+Research Experiences for Undergraduates (REU) Supplemental Funding Requests
+
+Faculty Early Career Development (CAREER) Program Proposals
+
+Facilitating Research at Primarily Undergraduate Institutions: Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA) Proposals and Supplemental Funding Requests
+
+High Risk Research in Biological Anthropology and Archaeology (HRRBAA) Proposals
+
+Rapid Response Research (RAPID) Proposals
+
+Early-Concept Grants for Exploratory Research (EAGER) Proposals
+
+This list does not exhaust the full range of funding opportunities and types of proposals described in Chapter II of the PAPPG . Rather, these are the types that may be most relevant for proposals submitted to the Archaeology Program. Researchers are always welcome to consult with program officers about which NSF mechanisms and programs might best serve their research needs.
+
+Research Proposals
+
+A project can be carried out by a single researcher or a research team comprising a principal investigator along with co-principal investigators, other senior/key personnel, postdoctoral researchers or other personnel (including specialists from other disciplines and other countries) as needed for the conduct of the research.
+
+Specific guidelines on proposal preparation are described in the PAPPG. Note that for collaborative projects across institutions, the Archaeology Program permits researchers to submit a single proposal with subawards or a collaborative proposal submitted as separate submissions from multiple organizations.
+
+Typical award sizes for the program are included in descriptions of recent awards . There is no award ceiling, but please be advised that a typical research award in the Archaeology Program is in the range of $200,000-$350,000 total budget, inclusive of indirect costs. Most projects are scoped to a two- or three-year duration. Requested costs must relate directly to the aims of the research; the PAPPG describes allowable and unallowable costs. Expenses to undertake broader impacts and to provide quality data management and sharing plans are permitted.
+
+Archaeometry Proposals
+
+The Archaeology Program administers an annual Archaeometry competition with a target date of December 1. The goal is to fund projects in two main categories:
+
+To develop or refine anthropologically relevant archaeometric techniques. Examples include the development of methods to identify specific types of organic residues on ceramics or development of field applicable analytic techniques.
+
+To support laboratories which provide relevant services. This includes support of service laboratories which, for example, may provide dating trace element, isotopic and dendrochronological analyses. It also includes support for data archives, which function to strengthen basic archaeological infrastructure.
+
+Projects which apply standard archaeometic techniques with the goal to answer specific archaeological questions should be submitted to the senior archaeology competition.
+
+A separate solicitation for Archaeometry awards will be published more than 90 days before the December 1, 2023 target date, and potential PIs should follow the guidelines posted in that solicitation.
+
+Doctoral Dissertation Research Improvement Grants
+
+The Archaeology Program awards Doctoral Dissertation Research Improvement Grants (Arch-DDRIG) provides funds for items not usually available from the student's U.S. academic institution. Students interested in this program should refer to the separate guidelines for Arch-DDRIG .
+
+Research Experiences for Undergraduates (REU) Supplemental Funding Requests
+
+An REU supplement usually provides support for one or two undergraduate students to participate in research as a part of a new or ongoing NSF-funded research project. The student's research must be their own independent research project within the PI's larger research program; these supplements are not intended to support clerical or research assistance to the PI. See the REU Sites and Supplements guidelines for additional details. Supplemental funding requests can be submitted at any time.
+
+The Archaeology Program will consider REU funding requests for up to $6,000 per student and no more than two students per year to support the cost of the student's independent research activity.
+
+Faculty Early Career Development (CAREER) Program Proposals
+
+The NSF Archaeology and Archaeometry Programs participate in the NSF-wide CAREER Program for junior faculty (untenured but tenure-track or equivalent). CAREER proposals have a maximum duration of five years. In addition to research costs, proposers may include expenses for specialized training to enhance the research and their future professional trajectory. CAREER proposals also must have an educational component; the Archaeology Program suggests that this component be integrated with the research, either in the field or at the home institution.
+
+Researchers who want to submit CAREER proposals should consult the CAREER-specific guidelines for eligibility information, allowable costs, submission deadlines (which are different than Archaeology proposals) and other CAREER Program requirements. CAREER proposals that are submitted to the Archaeology Program are reviewed during the fall review cycle.
+
+Unlike standard research proposals, the minimum CAREER award is $400,000. CAREER award sizes in Archaeology are near the $400,000 minimum.
+
+Facilitating Research at Primarily Undergraduate Institutions: Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA)
+
+The Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA) funding opportunities support research by faculty members at predominantly undergraduate institutions (PUIs). RUI proposals support PUI faculty in research that engages them in their professional field(s), builds capacity for research at their home institution and supports the integration of research and undergraduate education. ROAs similarly support PUI faculty research, but these awards typically allow faculty to work as visiting scientists at research-intensive organizations where they collaborate with other NSF-supported investigators.
+
+RUI proposals are reviewed alongside other senior proposals in the Archaeology Program. Please refer to the RUI guidelines for additional details on submission requirements. For questions about the ROA supplement opportunity, please contact the Archaeology program director.
+
+High-Risk Research in Biological Anthropology and Archaeology (HRRBAA)
+
+Much anthropological research is conducted in areas of the world where circumstances may exist that render access to data, research sites or other resources uncertain. To allow projects for which research outcomes are at risk for these or other reasons, Archaeology and Biological Anthropology programs have established the High-Risk Research in Biological Anthropology and Archaeology program (HRRBAA) .
+
+Researchers should refer to the separate HRRBAA guidelines and contact the Archaeology program director prior to submitting a HRRBAA proposal.
+
+PIs may submit proposals for small awards (not to exceed $35,000 total costs and a one-year duration) to support pilot projects for proof of concept or proof of access.
+
+Rapid Response Research (RAPID) Proposals
+
+RAPID awards are to support urgent research. The urgency is that unanticipated research data would be lost if the researchers had to wait for the completion of a normal review cycle. This might be because, for example, of unanticipated availability of access to rarely available phenomena or research sites. RAPID support is often requested for quick-response research on natural or anthropogenic disasters and other unanticipated events. To be successful in obtaining RAPID support, investigators must convincingly argue that the particular situation to be investigated will produce data that are unlikely to be found in any other situation and that are essential for identified and important research questions and theoretical advancement. If the research is routine, failure to plan ahead is not sufficient rationale for RAPID support.
+
+Researchers must have prior approval from the Archaeology Program to submit a RAPID proposal to the program. In their initial email, proposers should briefly explain the data to be collected, why these data are scientifically important, an estimate of the needed budget and a timeline for the research. RAPID proposals are limited to 5 pages and only internal NSF review is required so funding can be made available relatively quickly. Please consult Chapter II.F of the PAPPG for further instructions on the preparation and submission of RAPID proposals.
+
+EArly-Concept Grants for Exploratory Research (EAGER) Proposals
+
+The Archaeology Program supports EAGER proposals for funding research on untested but potentially transformative research ideas and approaches.
+
+Researchers must have prior approval from the Archaeology program director to submit an EAGER proposal. The EAGER proposal type should not be used for proposals that could be submitted to a regular competition, so the initial inquiry should explain carefully why the anticipated project fits the EAGER criteria. There are no deadlines, the project description is limited to no more than 8 pages, and only internal NSF review is required. Please consult Chapter II.F.3 of the PAPPG for further instructions on the preparation and submission of EAGER proposals.
+
+Additional Program Considerations
+
+Broader Impact Activities
+
+The Archaeology Program supports a wide range of broader impact activities, and successful projects will include creative, well-integrated, effective, evidence-based broader impact activities developed within the context of the mission, goals and resources of the organizations and people involved. The expertise of collaborators, the proposal budget and the budget justification should reflect this integration. Example activities include but are not limited to those that create effective methods of science outreach and engagement with local communities or the public at large; translate research to benefit broader societal needs; as well as groups and regions that traditionally have not participated fully in science, mathematics, and engineering; or foster new partnerships, including if focused on capacity building (e.g., with Emerging Research Institutions). Additional guidance for broader impacts may be found in the PAPPG.
+
+Ethical Considerations
+
+The Archaeology Program aspires to continually improve the integration of ethical considerations and practices into research projects. Such considerations could relate to community-engaged research or co-production of knowledge with living populations (e.g., research participants, descendant communities), many of whom are underrepresented in the STEM research enterprise; environmental impact of research; researcher safety; data archiving and sharing; and other issues. Discussion of relevant ethical issues should be included in the proposal's project description. Discussions of community engagement/participation should be as detailed as possible and contain, if feasible documentation in the proposal's supplementary documents section.
+
+Projects Involving Collaboration with Foreign Organizations or Work in Foreign Countries
+
+As stated in the PAPPG, NSF rarely provides direct funding to support foreign organizations and only provides support for the U.S. portion of collaborative projects. If foreign organization involvement is essential to the project, subawards or consultant arrangements may be considered if the foreign organization contributes unique resources not otherwise available, or significant education, training or research opportunities to the U.S. Such information must be provided in the project description section of the proposal. For studies in countries other than the United States, the project description should discuss, where appropriate, collaborations with scientists and students from the host country, and how these individuals will be involved in the project.
+
+Collaborations should be well justified, in that they represent true intellectual collaboration and use the expertise and specialized skills, facilities and resources of the foreign collaborator. Letters of collaboration must be included in the other supplementary documents section of the proposal. Refer to the PAPPG for instructions for submitting letters of collaboration. Principal investigators are encouraged to provide U.S. students and junior researchers with international research experiences. Where relevant, arrangements to allocate samples and data between host country organizations or institutions and U.S. organizations or institutions should be discussed in the proposal. Investigators are encouraged to include any permits (including legally required collecting, import and export permits for samples, instrumentation and data), authorizations and agreements, in the other supplementary documents section of the proposal.
+
+Data Management
+
+As stated in the PAPPG, principal investigators are expected to share with other researchers, at no more than incremental cost and within a reasonable time, the data, samples, physical collections and other supporting materials created or gathered in the course of work under NSF grants. The Archaeology Program is committed to the establishment, maintenance, validation, description and distribution of high-quality data sets generated by program-funded projects. Proposals should generate data products that are findable, accessible, interoperable and reusable (FAIR). It is expected that data be shared (barring ethical limitations on sharing) within two years of final data collection. See proposal preparation and submission instructions below for additional information.
+
+Plans for the dissemination and sharing of research results will be traceable from the beginning to the end of a project (proposal, review and annual/final report). PIs are required to provide updates on the status of metadata and data archiving in annual and final annual project reports. See reporting requirements below for additional information.
+
+Permits, Permissions and Collaborations
+
+PIs are responsible for obtaining the required authorizations from international, federal, state or local authorities for any collecting or other activities and for advising NSF that they have been obtained or requested. The proposal should briefly list the permits that are required and the timeline for approvals.
+
+Human Subjects Research
+
+Projects involving human subjects must indicate this on the cover sheet, including status of Institutional Review Board (IRB) approval and federal-wide assurance, and will need to provide IRB approval prior to any award being processed (see the PAPPG). Though IRB approval is not required at the time of proposal submission, the program encourages PIs to briefly address the status of approval or the plan for IRB approval in the project description and provide any additional ethical considerations related to human subjects research as part of the discussion of ethical considerations in the project description.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 20 to 30
+
+Anticipated Funding Amount: $5,000,000 to $6,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+PIs and co-PIs must be researchers who have a Ph.D. or equivalent education and experience, sufficient to allow them to carry out independent basic research. PIs of senior research proposals are encouraged to include undergraduate and graduate students in their research projects, but not as PI/co-PI or other senior/key personnel.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

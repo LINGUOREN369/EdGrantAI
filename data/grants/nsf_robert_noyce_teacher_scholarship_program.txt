@@ -102,3 +102,454 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2023-05-08
 URL: https://www.nsf.gov/funding/opportunities/robert-noyce-teacher-scholarship-program/nsf23-586
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Robert Noyce Teacher Scholarship Program
+
+I. Introduction
+
+The Robert Noyce Teacher Scholarship Program (Noyce) responds to the critical need for highly effective K-12 STEM teachers and teacher leaders who persist as classroom teachers. Noyce supports institutions of higher education to develop and sustain a learning ecosystem where undergraduate STEM majors and STEM professionals are encouraged and supported to become teachers in high-need school districts. The program especially encourages the recruitment and support of STEM majors and professionals of the highest achievement and ability who might otherwise not have considered a career in K-12 teaching. Thus, individuals who have served as the classroom teacher of record are not eligible for support in Track 1 or Track 2. Noyce also supports experienced, exemplary STEM teachers to become teacher leaders in high-need school districts. In addition to institutions of higher education, Noyce supports professional societies and similar organizations that are directly associated with educational or research activities to conduct research on the effectiveness and retention of K-12 STEM teachers in high-need school districts.
+
+II. Program Description
+
+The Robert Noyce Teacher Scholarship Program consists of four tracks: Track 1 : The Robert Noyce Teacher Scholarships and Stipends (S&S) Track, Track 2 : The NSF Teaching Fellowships (TF) Track, Track 3 : The NSF Master Teaching Fellowships (MTF) Track, and Track 4 : The Noyce Research Track. In addition, submissions are accepted for Capacity Building projects, which are intended to promote the development of future submissions in Track 1: S&S, Track 2: TF, Track 3: MTF, or Track 4: Noyce Research. Submissions from and partnerships among four-year institutions, and/or two-year institutions, are encouraged.
+
+Noyce funding may also be requested to support:
+
+Research Experiences in STEM Settings (RESS) projects providing authentic STEM research experiences and opportunities for pre-service and in-service Noyce and non-Noyce STEM teachers. Research settings may include but are not limited to national laboratories and NASA centers and in STEM disciplines identified as critical needs for the Nation. Critical need disciplines include quantum computing and quantum science, robotics, artificial intelligence, microelectronics, and machine learning, computer science, data analytics, and possible other timely STEM areas in current need of domestic professionals. The research should serve as a basis for teachers to create learning experiences that can be used in K-12 classrooms, thus bringing knowledge from their experience to the classroom to convey the excitement of scientific research to students and to improve their STEM learning experience.
+
+Conferences consistent with the mission of the Noyce Program.
+
+Definitions of Terms
+
+In this program solicitation:
+
+The term "STEM" is an acronym for science, technology, engineering, and mathematics.
+
+The terms "mathematics or science teacher" and "STEM teacher" refer to an individual who has teaching certification or licensure to be a science, technology, engineering, mathematics, or computer science (including cybersecurity, artificial intelligence, and microelectronics) teacher at the secondary school level or certification as an elementary teacher with preparation in mathematics and/or science. These teachers do not include teachers without elementary or secondary teacher certification or licensure, vocational or career technical education teachers, substitute teachers, paraprofessionals, or teaching assistants.
+
+The term "in-service teacher" is defined as an individual possessing at least a baccalaureate degree and who is certified to teach in the mathematics, science, engineering, computer science, or elementary in which the individual is the teacher of record.
+
+The term "pre-service teacher" is synonymous with "teacher candidate."
+
+The term "STEM major" means a college or university major enrolled in a degree program in science, technology, engineering, mathematics, or computer science (including cybersecurity, artificial intelligence, and microelectronics). Noyce-eligible STEM majors, degrees, or disciplines are identified based on the Classification of Instructional Programs (CIP) code. STEM majors, degrees, or disciplines that are typically eligible for Noyce cost of attendance support are: biological sciences (CIP code 26), computer sciences (CIP code 11), engineering (CIP code 14), mathematics and statistics (CIP code 27), physical sciences (CIP code 40), or fields related to these disciplines (e.g., biological and physical science CIP code 30.01, data science CIP code 30.70, marine sciences CIP code 30.32, mathematics and computer science CIP code 30.08). Noyce does not provide cost of attendance support for agriculture (CIP code 01), business (CIP code 52), education (CIP code 13), or health professions (CIP codes 51, 60, and 61), unless these majors are coupled with a Noyce-eligible STEM major in a double major.
+
+The term "STEM professional" means a person who holds a baccalaureate, master's, or doctoral degree in a Noyce-eligible STEM discipline and either (i) has recently graduated; or (ii) is working in or had a career in a STEM field, including retirees from STEM professions.
+
+The term "cost of attendance" means the cost of tuition and fees, room and board, books, supplies, transportation, and miscellaneous personal expenses for a student attending an institution of higher education on at least a half-time basis. For additional guidance on allowances for miscellaneous personal expenses, room and board, students with dependents, students enrolled less than half-time, or other specifics, see the full definition of cost of attendance in Section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll). an undergraduate Noyce-eligible STEM major who has attained at least junior status in a baccalaureate degree program; or a post-baccalaureate student or STEM professional with a Noyce-eligible STEM baccalaureate degree can be a non-degree seeking or graduate student pursing licensure (allowable only when the institution requires a post-baccalaureate year to obtain teacher certification or licensure). Note: Scholarships are not considered taxable income or loans during the period of the scholarship support.
+
+an undergraduate Noyce-eligible STEM major who has attained at least junior status in a baccalaureate degree program; or
+
+a post-baccalaureate student or STEM professional with a Noyce-eligible STEM baccalaureate degree can be a non-degree seeking or graduate student pursing licensure (allowable only when the institution requires a post-baccalaureate year to obtain teacher certification or licensure).
+
+Note: Scholarships are not considered taxable income or loans during the period of the scholarship support.
+
+The term "stipend" means funds awarded in the Scholarships and Stipends Track to a STEM professional with a Noyce-eligible STEM degree who enrolls in a teacher certification program. Note: Stipends are not considered taxable income or loans during the period of the stipend support.
+
+Note: Stipends are not considered taxable income or loans during the period of the stipend support.
+
+The term "fellowship" means funds awarded: in the NSF Teaching Fellowships Track to a STEM professional while that individual is enrolled in a master's degree program leading to teacher certification or licensure and, thereafter, while that individual is fulfilling the teaching service commitment (at which point the funds are also referred to as a salary supplement); or in the NSF Master Teaching Fellowships Track to a STEM teacher (in which case the funds are also referred to as a salary supplement).
+
+in the NSF Teaching Fellowships Track to a STEM professional while that individual is enrolled in a master's degree program leading to teacher certification or licensure and, thereafter, while that individual is fulfilling the teaching service commitment (at which point the funds are also referred to as a salary supplement); or
+
+in the NSF Master Teaching Fellowships Track to a STEM teacher (in which case the funds are also referred to as a salary supplement).
+
+The term "high-need local educational agency (or high-need LEA)", as defined in section 201 of the Higher Education Act of 1965 (20 U.S.C. 1021), means a U.S. local educational agency (e.g., school district) that has at least one school that: meets at least one of the following criteria: not less than 20% of the children served by the agency are from low income families; serves at least 10,000 children from low-income families; is eligible for funding under the Small, Rural School Achievement Program under 20 U.S.C. 7345(b); or is eligible for funding under the Rural and Low-Income School Program under 20 U.S.C. 7351(b); and meets at least one of the following criteria: has a high percentage of teachers not teaching in the academic subject areas or grade levels in which the teachers were trained to teach; or has a high teacher turnover rate or a high percentage of teachers with emergency, provisional, or temporary certification or licensure.
+
+meets at least one of the following criteria: not less than 20% of the children served by the agency are from low income families; serves at least 10,000 children from low-income families; is eligible for funding under the Small, Rural School Achievement Program under 20 U.S.C. 7345(b); or is eligible for funding under the Rural and Low-Income School Program under 20 U.S.C. 7351(b);
+
+not less than 20% of the children served by the agency are from low income families;
+
+serves at least 10,000 children from low-income families;
+
+is eligible for funding under the Small, Rural School Achievement Program under 20 U.S.C. 7345(b); or
+
+is eligible for funding under the Rural and Low-Income School Program under 20 U.S.C. 7351(b);
+
+and
+
+meets at least one of the following criteria: has a high percentage of teachers not teaching in the academic subject areas or grade levels in which the teachers were trained to teach; or has a high teacher turnover rate or a high percentage of teachers with emergency, provisional, or temporary certification or licensure.
+
+has a high percentage of teachers not teaching in the academic subject areas or grade levels in which the teachers were trained to teach; or
+
+has a high teacher turnover rate or a high percentage of teachers with emergency, provisional, or temporary certification or licensure.
+
+NOTE: The term "high-need local educational agency (or high-need LEA)" is synonymous with "high-need school district."
+
+The term "Noyce recipient" refers to an individual who receives or has received a Noyce scholarship, stipend, or fellowship.
+
+Conferences or Research Experiences in STEM Settings (RESS)
+
+Proposals for conferences or STEM research experiences for pre-service or in-service teachers may be submitted at any time following consultation with and consent of a Noyce Program Officer. Successful proposals submitted by the Noyce Program's August deadline will be prioritized for support in the respective year.
+
+Proposals for conferences addressing important issues in undergraduate STEM teacher preparation or education are welcome. The Noyce Program encourages conference proposals that: (1) address STEM teaching and learning, including recruitment and retention efforts; (2) explore strategies to empower faculty and other stakeholders to create learning ecosystems hat improve undergraduate STEM teacher education; (3) focus on ensuring K-12 STEM teaching reflects modern pedagogical teaching practices; or (4) involve substantive collaborations (e.g., with educational researchers, disciplinary scientists, leaders from K-12 schools).
+
+Conference proposals should include a conceptual framework for the conference, draft agenda, possible participant list, the outcomes or products that will result from the conference, and how these products serve the goals of the Noyce Program. The budgets for conference proposals should be commensurate with the proposed work and must be discussed with a Noyce Program Officer prior to submission but will typically range between $25,000 and $100,000. See NSF PAPPG Chapter II.F.9 for guidance on the preparation and submission of conference proposals.
+
+Proposals for RESS projects seeking to provide research experiences for pre-service and in-service STEM teachers are welcome. Projects supporting only pre-service STEM teachers or both pre-service and in-service STEM teachers will be prioritized for funding. Pre-service teachers must possess or be pursuing a STEM disciplinary degree (not an education degree, unless a dual degree) as well as teacher certification. In-service teachers do not need to possess a STEM degree but must be certified to teach mathematics, science, engineering, or computer science. Such projects must include STEM research experiences in formal or informal U.S. settings, including but not limited to national laboratories and NASA centers. Consistent with the Noyce program, in-service teachers must be currently employed as teachers in high-need LEAs. The inclusion of individuals from backgrounds is strongly encouraged. The budgets for RESS proposals should be commensurate with the proposed work and must be discussed with a Noyce Program Officer prior to submission but will typically range between $350K and $750K for up to five years. Participation support (F1-F4) for RESS Proposals is suggested to match or exceed 60% of the overall budget. Proposals are encouraged to describe: the pre-service student teacher population that will participate; recruitment and selection of both the pre-service and/or in-service STEM teachers; planned research and mentoring activities; planned professional development for both teaching and research; and the desired project outcomes. Such submissions must follow the guidance in PAPPG Chapter II for the preparation and submission of full research proposals to NSF.
+
+Funding for Institutions with Prior Noyce Support
+
+Proposals are welcome from institutions with prior Noyce funding in any track, including prior Capacity Building funding. Such submissions must provide a detailed description of the institution's active Noyce project(s) and any prior Noyce funded project(s) with an end date within five years prior to the Noyce submission deadline. The description of the prior Noyce work at the institution must include evidence of success in meeting project goals, specific information about what was learned, an account of challenges encountered, and/or specific information about how the proposed project will be able to overcome any prior challenges. Additionally, the description should include details of how the proposed project might generate new knowledge, including how the proposed work may inform further improvements in STEM teacher preparation or development. For applicable program tracks, data demonstrating the institution's capacity to recruit and retain candidates should also be included. In reporting results from prior NSF support, include items outlined in Chapter III, Subsection D(iii), as outlined in the Proposal and Award Policies and Procedures Guide (PAPPG).
+
+Track 1: The Robert Noyce Teacher Scholarships and Stipends (S&S) Track
+
+The Robert Noyce Teacher Scholarships and Stipends Track of the Noyce Program supports institutions to recruit and prepare STEM teachers for high-need LEAs. These projects provide scholarships to undergraduate Noyce-eligible STEM majors and stipends to Noyce-eligible STEM professionals who become STEM teachers.
+
+Required Partners (Track 1: S&S)
+
+To be eligible to receive a grant under Track 1: S&S, the project must have identified partnerships with (1) at least one high-need LEA and a public school, served by the LEA, identified as the location in which clinical teaching experiences will occur and (2) at least one institution of higher education (IHE. The IHE partnership must include:
+
+a department that provides a program of study in a STEM discipline; and
+
+either (a) a department or equivalent within the IHE partnership that provides a teacher preparation program leading to teacher certification or licensure; or (b) a two-year IHE that offers a teacher preparation program or dual enrollment program with an IHE participating in the partnership.
+
+Project Features (Track 1: S&S)
+
+Track 1: S&S projects are expected to develop and implement exemplary STEM education programs to recruit and prepare undergraduate Noyce-eligible STEM majors and/or professionals to become STEM teachers with teacher certification or licensure in secondary science, mathematics, engineering, or computer science, or as elementary teachers with preparation in mathematics or science. Proposals should include evidence-based teacher preparation approaches and detail how best practices will be infused in the program of study. As learning technologies and environments continuously evolve, proposals are also expected to include effective and modern approaches to teacher education. Proposals should detail how these approaches and other specialized pedagogy will effectively promote the engagement of students in STEM learning experiences in elementary and secondary schools.
+
+All Track 1: S&S projects must:
+
+administer scholarships for undergraduate Noyce-eligible STEM majors and/or stipends for Noyce-eligible STEM professionals;
+
+identify the evidence-based strategies to be used in offering: academic courses and early clinical teaching experiences, including the preparation necessary to meet requirements for teacher certification or licensure designed to prepare Noyce recipients to become STEM teachers in elementary or secondary high-need LEAs; and activities both before and after Noyce recipients begin teaching to enable them to become effective STEM teachers in high-need LEAs, fulfill the teaching service requirements, and exchange ideas with others in their fields. Project activities should facilitate the transition into teaching and aid retention during and beyond the obligatory teaching service period; and include a well-developed plan for providing Noyce recipients with the relevant competence, pedagogical knowledge, and disposition to be a successful teacher in a high-need LEA.
+
+academic courses and early clinical teaching experiences, including the preparation necessary to meet requirements for teacher certification or licensure designed to prepare Noyce recipients to become STEM teachers in elementary or secondary high-need LEAs; and
+
+activities both before and after Noyce recipients begin teaching to enable them to become effective STEM teachers in high-need LEAs, fulfill the teaching service requirements, and exchange ideas with others in their fields. Project activities should facilitate the transition into teaching and aid retention during and beyond the obligatory teaching service period; and
+
+include a well-developed plan for providing Noyce recipients with the relevant competence, pedagogical knowledge, and disposition to be a successful teacher in a high-need LEA.
+
+NOTE: Competitive proposals will make it clear what programmatic aspects are specific to the Noyce program and are required for all Noyce Scholars to meet only the above three delineated requirements.
+
+Among the identified recruitment strategies, projects may include support for internships for freshman and sophomore undergraduate students with the goal of increasing the number of declared or prospective STEM majors who will enter K-12 STEM teaching as a career. Such experiences may occur in formal or informal U.S. STEM or STEM education settings such as STEM summer camps, STEM museums, science centers, or STEM laboratories.
+
+Selection of Recipients (Track 1: S&S)
+
+Scholarship and stipend recipients must be U.S. citizens, U.S. nationals, or permanent resident aliens. Individuals who have previously served (including concurrent service) as a K-12 teacher are not eligible for scholarship or stipend support.
+
+Scholarship recipients must be undergraduate students who have attained at least junior status in a Noyce-eligible STEM baccalaureate degree program. They are expected to be selected primarily based on academic merit.
+
+Stipend recipients must be STEM professionals (from recent STEM graduates to retirees from STEM professions) who, while receiving the stipend, are enrolled in a teacher preparation program (see Project Features section above). They are expected to be selected primarily based on academic merit and STEM professional achievement, with consideration given to financial need and the diversity of participants in the program.
+
+Track 1: S&S projects are strongly encouraged to engage in recruitment and selection efforts that are informed by evidence-based principles.
+
+Teaching Service Commitment (Track 1: S&S)
+
+An individual awarded a scholarship must serve as a full-time STEM teacher in a high-need LEA for a total of two years for each full-year in which a scholarship was received, to be fulfilled within eight years after completing the STEM baccalaureate program or post-baccalaureate program (if the institution requires a post-baccalaureate year to obtain teacher certification or licensure).
+
+A post-baccalaureate individual awarded a stipend must serve as a full-time STEM teacher in a high-need local educational agency for a total of two years, to be fulfilled within four years after completing teacher certification or obtaining licensure.
+
+See Institutional and Recipient Obligations for Projects in Track 1: S&S, Track 2: TF, or Track 3: MTF for details about repayment of scholarships or stipends that revert to loans if the teaching service commitment is not fulfilled.
+
+Amount and Duration of Scholarships and Stipends (Track 1: S&S)
+
+Scholarships awarded to undergraduate students must be $10,000 or more per year, except that no individual may receive in any year a scholarship that exceeds the cost of attendance at the institution. A full-time student may receive an annual scholarship beginning in the junior year and continuing through the completion of the baccalaureate degree program. The scholarship may include summer terms but should not exceed a maximum of three years of support from the start of the junior year. The final year of support must be at the undergraduate level except in cases where the institution requires the teacher certification or licensure to be completed at the post-baccalaureate level. A part-time student may receive scholarships that are prorated according to the student's enrollment status but must not receive scholarship support over more than six years, including summer terms. Full-time and part-time scholarship recipients must have completed teacher certification or licensure requirements upon completion of the STEM baccalaureate degree or, if applicable, the post-baccalaureate degree.
+
+Stipends awarded to post-baccalaureate students awarded must be $10,000 or more, except that no individual may receive for any year more than the cost of attendance at the institution. Individuals may receive a maximum of one year of stipend support, unless the individual is enrolled in a part-time program, in which case the amount may be prorated over a duration that collectively sums to one full-time year equivalent. While there is no restriction on the length of the post-baccalaureate program, the maximum one year of stipend support may only be offered in the final year of the program. NOTE: For Track 1 stipend recipients, "one year" may include up to 14 months in order to allow for two summers as part of the master's degree program. Both full-time and part-time stipend recipients must have completed teacher certification or licensure requirements by the end of the stipend support.
+
+New Proposals for Track 1 Scholarships and Stipends have the option of including Salary Supplements. Please refer to Dear Colleague Letter: Teacher Salary Supplements in the Robert Noyce Teacher Scholarship Program ( NSF 23-123 ).
+
+Track 2: The National Science Foundation Teaching Fellowships Track (TF)
+
+The NSF Teaching Fellowships Track of the Robert Noyce Teacher Scholarship Program offers awards to institutions to administer fellowships and programmatic support to STEM professionals. These individuals, referred to as Teaching Fellows (TFs), receive support to complete a master's degree program with teacher certification or licensure, and thereafter become a STEM teacher in an elementary or secondary school. In addition, after the completion of the master's degree program that provides certification or licensure, TFs receive a salary supplement of $10,000/year or more each year for four years.
+
+Required Partners (Track 2: TF)
+
+To be eligible to receive a grant under Track 2: TF, the project must have identified partnerships with (1) at least one high-need LEA and a public school, served by the LEA, identified as the location in which clinical teaching experiences will occur; (2) at least one nonprofit organization that has a demonstrated capacity to provide expertise or support to meet the goals of the proposed project; and (3) at least one institution of higher education (IHE) ( 42 USC 1862n-1a (b)).
+
+The IHE partnership must include:
+
+a department that provides a program of study in a STEM discipline; and
+
+either (a) a department or equivalent within the IHE partnership that provides a teacher preparation program leading to teacher certification or licensure; or (b) a two-year IHE that offers a teacher preparation program or dual enrollment program with an IHE participating in the partnership.
+
+IHEs, K-12 schools, or school districts are not eligible to serve as nonprofit partners. Examples of supports the partnering nonprofit organization may provide include, but are not limited to, providing TFs with opportunities for professional development, leadership experience, curriculum design, research experiences, or mentorship. This may include programs that pair TFs with currently employed or recently retired STEM professionals.
+
+Project Features (Track 2: TF)
+
+Track 2: TF projects are expected to develop and implement exemplary STEM education programs for STEM professionals. Proposals should include evidence-based teacher preparation approaches and detail how best practices will be infused in the program of study. As learning technologies and environments continuously evolve, proposals are also expected to include effective and modern approaches to teacher education. Proposals should detail how these approaches and other specialized pedagogy will effectively promote the engagement of students STEM learning experiences in elementary and secondary schools.
+
+All Track 2: TF projects must:
+
+administer fellowships, including providing the TF salary supplements;
+
+identify the evidence-based strategies to be used in offering: academic courses and clinical teaching experiences to enable TFs to obtain a master's degree that leads to teacher certification or licensure; and programs or activities, including mentoring, induction, and professional development activities, to enable TFs to become highly effective K-12 STEM teachers in high-need LEAs, fulfill the teaching service requirements, and exchange ideas with others in their fields. Project activities should facilitate the transition into teaching and aid retention during and beyond the obligatory teaching service period.
+
+academic courses and clinical teaching experiences to enable TFs to obtain a master's degree that leads to teacher certification or licensure; and
+
+programs or activities, including mentoring, induction, and professional development activities, to enable TFs to become highly effective K-12 STEM teachers in high-need LEAs, fulfill the teaching service requirements, and exchange ideas with others in their fields. Project activities should facilitate the transition into teaching and aid retention during and beyond the obligatory teaching service period.
+
+include a well-developed plan for providing TFs with the relevant competence, pedagogical knowledge, and disposition to be a successful teacher in a high-need LEA.
+
+NOTE: Competitive proposals will make it clear what programmatic aspects are specific to the Noyce program and are required for all Noyce Teaching Fellows to meet only the above three delineated requirements.
+
+Among the identified recruitment strategies, projects may include support for internships with the goal of increasing the number of prospective TFs who will enter the program or as a means of induction and retention support for the TFs. Such experiences may occur in formal or informal U.S. STEM or STEM education settings such as STEM summer camps, STEM museums, science centers, or STEM laboratories.
+
+Selection of Teaching Fellows (Track 2: TF)
+
+TFs must be U.S. citizens, U.S. nationals, or permanent resident aliens. Individuals who have previously served (including concurrent service) as a K-12 teacher who are STEM professionals who are seeking certification via a master's degree program are eligible for fellowship support. TFs are expected to be selected primarily based on professional achievement, academic merit, and STEM content knowledge, as demonstrated by their performance on a recognized validated assessment of STEM content knowledge. In selecting applicants, consideration should be given to financial need and the diversity of participants in the program.
+
+Projects are strongly encouraged to engage in recruitment and selection efforts that are informed by evidence-based principles.
+
+Teaching Service Commitment and Leadership Role (Track 2: TF)
+
+An individual awarded an NSF Teaching Fellowship must:
+
+serve as a full-time STEM teacher in a high-need LEA a total of four years, to be fulfilled within six years of completing the master's degree program; and
+
+take on a leadership role within the school or high-need LEA in which the TF is employed, while fulfilling the teaching service commitment in addition to regular classroom activities. Examples of leadership activities include participating in curriculum development, assisting in the planning and implementation of professional development experiences, and participating in pre-service teacher education.
+
+See Institutional and Recipient Obligations for Projects in Track 1: S&S, Track 2: TF, or Track 3: MTF for details about repayment of fellowships that revert to loans if the teaching service commitment is not fulfilled.
+
+Amount and Duration of Salary Supplements (Track 2: TF)
+
+A key aspect of the NSF Teaching Fellowship Track is the provision of salary supplements to the TFs as they fulfill their teaching service commitment.
+
+While there is no restriction on the length of the master's degree program leading to teacher certification or licensure, the TF may only receive cost of attendance support in the final year of the master's degree program. The maximum one year of cost of attendance support must be $10,000 or more, except that no TF may receive more than the cost of attendance. NOTE: For Track 2 projects, "one year" may include up to 14 months in order to allow for two summers as part of the master's degree program. TFs enrolled part-time may receive prorated cost of attendance support according to the TF's enrollment status but should not receive support over more than two years, including summer terms. Full-time and part-time recipients must have completed certification or licensure requirements upon completion of the master's degree.
+
+Following completion of the master's degree program and teacher certification or licensure, and while teaching in an elementary or secondary school in a high-need LEA, the TF must receive an annual salary supplement of $10,000 or more per year for each of the four years of the teaching commitment period. The high-need LEA must agree not to reduce the base salary of the NSF Teaching Fellow while the salary supplement is being received.
+
+Track 3: The National Science Foundation Master Teaching Fellowships (MTF) Track
+
+The NSF Master Teaching Fellowships Track of the Robert Noyce Teacher Scholarship Program offers awards to institutions to administer fellowships and programmatic support to experienced and exemplary K-12 STEM teachers, who (1) have already received teacher certification or licensure, (2) possess a master's or bachelor's degree in education or a STEM discipline, and (3) participate in a program for developing teacher leaders. These selected individuals are referred to as Master Teaching Fellows (MTFs).
+
+MTFs must be elementary or secondary STEM teachers who have either a: (1) master's degree in education or a STEM discipline; or (2) bachelor's degree in education or a STEM discipline and concurrent enrollment in an education or STEM master's degree program.
+
+Required Partners (Track 3: MTF)
+
+To be eligible to receive a grant under Track 3: MTF, the project must have identified partnerships with (1) at least one high-need LEA and a public school, served by the LEA, from which the experienced and exemplary teachers will be selected; (2) at least one nonprofit organization that has a demonstrated capacity to provide expertise or support to meet the goals of the proposed project; and (3) at least one institution of higher education (IHE) ( 42 USC 1862n-1a (b)).
+
+The IHE partnership must include:
+
+a department that provides a program of study in a STEM discipline; and
+
+either (a) a department or equivalent within the IHE partnership that provides a teacher preparation program leading to certification or licensure; or (b) a two-year IHE that offers a teacher preparation program or dual enrollment program with an IHE participating in the partnership.
+
+IHEs, K-12 schools, or school districts are not eligible to serve as nonprofit partners. Examples of supports nonprofit organizations may provide include, but are not limited to, providing MTFs with opportunities for professional development, leadership experience, curriculum design, mentorship, or research experiences. Such experiences may include the pairing of MTFs with currently employed or recently retired STEM professionals.
+
+Project Features (Track 3: MTF)
+
+Track 3: MTF projects are expected to develop and implement exemplary STEM education focused programs for MTFs and must administer fellowships, including providing the MTF salary supplements. Proposals should include evidence-based approaches to developing and retaining effective teacher leaders in high-need LEAs. As learning technologies and environments continuously evolve, proposals are also expected to include effective and modern approaches to developing teacher leaders. Proposals should detail how these approaches and other specialized pedagogy will effectively promote the engagement of students in STEM learning experiences in elementary and secondary schools.
+
+All Track 3: MTF projects must:
+
+administer fellowships, including providing the MTF salary supplements;
+
+identify the evidence-based strategies to be used in offering academic courses (or master's degree program for MTFs without a master's degree) and leadership training to prepare exemplary and experienced teachers to become highly-effective teacher leaders;
+
+administer project activities, including mentoring and professional development activities, that will enable MTFs to fulfill the teaching service requirement, exchange ideas with others in their field, and become highly-effective teacher leaders; AND
+
+provide MTFs with professional development specific to being a successful STEM teacher in a high-need LEA.
+
+NOTE: Competitive proposals will make it clear what programmatic aspects are specific to the Noyce program and are required for all Noyce Master Teaching Fellows to meet only the above four delineated requirements.
+
+Project activities should facilitate teacher leadership growth and aid in retention during and beyond the obligatory teaching service period. Projects may include support for STEM education or STEM research experiences as a means of professional development or retention support for the MTFs. Such experiences may occur in formal or informal U.S. STEM or STEM education settings such as STEM summer camps, STEM museums, science centers, or STEM laboratories.
+
+Selection of Master Teaching Fellows (Track 3: MTF)
+
+MTFs must be U.S. citizens, U.S. nationals, or permanent resident aliens. MTFs are expected to be selected primarily based on professional achievement, academic merit, and STEM content knowledge, as demonstrated by their performance on a recognized validated assessment of STEM content knowledge. In addition, MTFs are expected to be selected based on demonstrated success in improving student academic achievement in STEM disciplines. Projects are strongly encouraged to engage in recruitment and selection efforts that are informed by evidence-based principles.
+
+Teaching Service Commitment and Leadership Role (Track 3: MTF)
+
+A teacher awarded a Master Teaching Fellowship must:
+
+serve as a full-time STEM teacher in a high-need LEA for a total of five years, to be fulfilled within seven years of the start of participation in the program; and
+
+take on a leadership role within the school or high-need LEA in which the MTF is employed, while fulfilling the teaching service commitment in addition to regular classroom activities. Examples of leadership activities include serving as a mentor, participating in curriculum development, assisting in the planning and implementation of professional development experiences, and participating in pre-service teacher education.
+
+Note: MTFs with elementary certification or licensure should teach mathematics and/or science for at least 50% of their classroom teaching responsibilities.
+
+See Institutional and Recipient Obligations for Projects in Track 1: S&S, Track 2: TF, or Track 3: MTF for details about repayment of fellowships that revert to loans if the teaching service commitment is not fulfilled.
+
+Amount and Duration of Salary Supplements (Track 3: MTF)
+
+A key aspect of the Master Teaching Fellowships Track is the provision of annual salary supplements to the MTFs as they fulfill their five-year teaching service commitment. While participating in the program and teaching in a high-need LEA, MTFs must receive a salary supplement of $10,000 or more per year for each year of the five-year teaching commitment period (for those possessing a master's degree) or each of the four-year teaching commitment (for those possessing only a bachelor's degree) after earning the master's degree.
+
+In cases where MTFs do not start the program with a master's degree in education or a STEM discipline, they must be enrolled in and complete an education or STEM master's degree program during their first year of participation. While there is no restriction on the length of the master's degree program, MTFs must complete the master's degree in their first year of the MTF program and a maximum of one year cost of attendance support (counted as the salary supplement for year one) may be offered only in the final year of the master's degree program. NOTE: For Track 3 projects, "one year" may include up to 14 months in order to allow for two summers as part of the master's degree program. MTFs may not begin receiving the other four years of salary supplements until the master's degree has been completed. The high-need LEA must agree not to reduce the base salary of the MTF while the salary supplement is being received.
+
+Institution and Recipient Obligations for Projects in Track 1: S&S, Track 2: TF, or Track 3: MTF
+
+Institution Obligations
+
+An institution receiving a grant under Track 1: S&S, Track 2: TF, or Track 3: MTF agrees to:
+
+ensure that Noyce recipients accept the terms of the scholarship, stipend, or fellowship and that recipients provide annual certification of employment and updated contact information;
+
+supply to NSF relevant statistical and demographic data on Noyce recipients;
+
+cooperate with NSF third-party project monitoring that will require annual data collection; and
+
+monitor, track, and report on the compliance of Noyce recipients with their teaching service commitments.
+
+collect and report data on recipients' persistence as classroom teachers beyond their service commitments; the reporting requirement may extend for up to 12 years following the end date of the award and submission of the final project report.
+
+If a recipient is required to repay the scholarship/stipend/fellowship, the institution will:
+
+be responsible for determining the repayment amounts, notifying the recipient, and providing documentation in project reports; and
+
+collect such repayment amount, including interest, as determined by the repayment policy developed by the institution and agreed upon by the recipient. The institution may retain up to 5 percent of any repayment collected to defray administrative costs associated with the collection.
+
+The institution is responsible for reporting the aforementioned information ( 42 USC 1862n-1 (f)(1)) annually to NSF directly and/or to a designated third party. This reporting responsibility may extend for up to 12 years following the end date of the award and submission of the final project report.
+
+Recipient Obligations
+
+As a condition of acceptance of a scholarship, stipend, or fellowship, Noyce recipients agree to provide the institution with annual certification of employment and updated contact information as well as to participate in activities (e.g., surveys, induction support) conducted as part of institution project-level and NSF program-level evaluation. In addition, the scholarship, stipend, or fellowship may revert to a loan, meaning that the recipient will be required to repay all or a portion of the scholarship, stipend, or fellowship, if the recipient:
+
+fails to maintain an acceptable level of academic standing in the program in which the individual is enrolled;
+
+is dismissed from the program or institution for disciplinary reasons;
+
+withdraws from the institution or program before completion of program requirements;
+
+declares that the teaching service commitment will not be fulfilled; or
+
+fails to fulfill the teaching service commitment.
+
+If such circumstances occur before the completion of one year of the teaching service commitment under any track, the total amount of scholarship, stipend, or fellowship received by the individual must be repaid. If the circumstance occurs after the completion of one year of the teaching service commitment, the amount to be repaid will be as follows:
+
+Track 1: S&S -
+
+For a scholarship recipient, a proportion of the total scholarship awards received by the individual, prorated appropriately to reflect partial service completed; or
+
+For a stipend recipient, one-half of the total amount of stipend received by the individual.
+
+Track 2: TF - the full amount of the fellowship awarded during enrollment in the master's degree program, reduced by one-fourth for each year of service completed, plus one half of the total salary supplements received after completing the master's degree.
+
+Track 3: MTF - one-half of the total amount of salary supplements received, including fellowship support in year one for MTFs without master's degrees.
+
+For Track 1: S&S, Track 2: TF, and Track 3: MTF, such repayments may not be reused by the institution. Repayments must be returned to the Federal Government, consistent with the provisions of part B or D of Title IV of the Higher Education Act of 1965. Institutions may return funds via https://www.pay.gov or by mailing a check to: National Science Foundation, ATTN: NSF Cashier, 2415 Eisenhower Avenue, Alexandria, VA 22314.
+
+The institution must establish procedures that ensure compliance with the teaching service requirement, with allowances for extreme hardship or other circumstances under which it is not in the best interests of the school district or not feasible for the recipient to fulfill the teaching service commitment.
+
+Track 4: The Noyce Research Track
+
+The Research Track of the Robert Noyce Teacher Scholarship Program offers awards to support exploratory studies and research projects that address BOTH STEM teacher effectiveness and retention in high-need LEAs. Track 4 proposals that examine the impact of Noyce projects on student achievement as part of demonstrating teacher effectiveness are strongly encouraged. Methodologies should be selected based on research questions to be investigated. Qualitative, quantitative, and mixed methodologies are all welcome, as are research syntheses. Submissions informed by the Common Guidelines for Education Research and Development as well as basic tenets of Design-Based Implementation Research are encouraged.
+
+Track 4: Noyce Research projects might examine teacher candidate characteristics and/or programmatic features that are shown to result in effective teachers who persist in teaching in high-need LEAs. Approaches to examining STEM teacher effectiveness might include investigating aspects of effectiveness, including individual or institutional factors that contribute to effectiveness. It is imperative that Track 4: Noyce Research projects use evidence-based principles in studying the effectiveness and retention of STEM teachers. Track 4: Noyce Research submissions do not require a focus on Noyce teachers. However, projects may study effectiveness and retention of Noyce recipients as teachers in high-need LEAs beyond their service requirement. Studies that identify teacher or school experiences, characteristics, or models that result in retention of STEM teachers, are strongly encouraged.
+
+Track 4: Noyce Research projects must include substantive collaboration among educational researchers (including those from the social and behavioral sciences, as applicable), faculty members (or persons) with expertise in a STEM discipline, and faculty members (or persons) with expertise in STEM education. Proposals must be theoretically grounded and include appropriate methodologies and strategies. The use of qualitative methodologies, as well as quantitative approaches, is welcome and should be selected based on the research questions to be investigated. Studies that involve examination of only a single institution's teacher preparation program are discouraged unless the proposal illustrates in what way the study may produce findings or theory with the potential to contribute to understanding of a broader community. Projects collecting data in schools or from individuals (teachers, students, or administrators) in schools, letters of commitment from the high-need school districts must be provided. Submissions are expected to contribute to the knowledge base of scholarly research in STEM education.
+
+Capacity Building Submissions
+
+Capacity Building awards are intended to support institutions to prepare a future competitive Noyce submission in Track 1: S&S, Track 2: TF, Track 3: MTF, or Track 4: Noyce Research. Capacity Building projects may include a focus on collecting data, developing partnerships, building infrastructure, developing evidence-based models and strategies for recruiting, preparing and supporting STEM teachers, or other related development and planning efforts. Noyce particularly encourages Capacity Building submissions that focus on (1) new or revised curricula that apply modern approaches to teacher education, (2) specialized pedagogy required to effectively teach STEM in high-need elementary and secondary schools and school districts, or (3) other prevalent and timely needs in STEM teacher preparation. Collaborations between successful funded Noyce projects and institutions seeking to develop capacity are encouraged. Capacity Building projects are not eligible to award scholarships, stipends, fellowships, or internships.
+
+Examples of possible Capacity Building project activities include, but are not limited to:
+
+identifying or developing models, research designs, or collaborative partnerships to study STEM teacher effectiveness and retention;
+
+conducting pilot programs to study or improve teacher effectiveness and retention;
+
+conducting needs assessments to determine areas of teacher shortages and interest among STEM professionals;
+
+strengthening partnerships with high-need LEAs;
+
+strengthening collaborations among faculty in STEM and education departments;
+
+strengthening collaborations among institutions of higher education, including two-year colleges and minority-serving institutions;
+
+establishing partnerships or methods for recruiting Noyce recipients;
+
+developing tools to identify skills, knowledge, and aptitude of scholars who have potential to become STEM teachers;
+
+reimagining teacher preparation, education, and retention efforts to reflect current school needs;
+
+developing new courses, early field experiences, degree requirements, or induction supports for new STEM teachers;
+
+establishing or refining practices related to the preparation and retention of STEM teachers in rapidly emerging areas (e.g., computer science, engineering) in elementary and secondary schools; or
+
+developing or implementing teacher leadership models to support experienced and exemplary STEM teachers.
+
+Partners for Capacity Building Submissions: There are no partnership requirements for Capacity Building submissions. However, when possible, projects are encouraged to include participation of both a STEM and education faculty member from a participating or partnering institution.
+
+References and Notes
+
+Information about current awards funded under the Robert Noyce Teacher Scholarship Program can be found at the Robert Noyce Teacher Scholarship Program website. Additional resources can be found at https://www.nsfnoyce.org/ .
+
+National Academies of Sciences, Engineering, and Medicine (2020). Changing Expectations for the K-12 Teacher Workforce: Policies, Preservice Education, Professional Development, and the Workplace. Washington, DC: The National Academies Press. https://doi.org/10.17226/25603 .
+
+National Research Council (2012a). A framework for K-12 science education practices, crosscutting concepts, and core ideas . Committee on a Conceptual Framework for New K-12 Science Education Standards. Board on Science Education, Division of Behavioral and Social Sciences and Education. Washington, DC: The National Academies Press. https://nap.nationalacademies.org/catalog/13165/a-framework-for-k-12-science-education-practices-crosscutting-concepts .
+
+National Research Council (2012b). Discipline-based education research: Understanding and improving learning in undergraduate science and engineering . Committee on the Status, Contributions, and Future Directions of Discipline-Based Education Research. Board on Science Education, Division of Behavioral and Social Sciences and Education. Washington, DC: The National Academies Press. https://nap.nationalacademies.org/catalog/13362/discipline-based-education-research-understanding-and-improving-learning-in-undergraduate .
+
+National Research Council (2012dc). Monitoring progress toward successful K-12 STEM education: A nation advancing? Committee on the Evaluation Framework for Successful K-12 STEM Education. Board on Science Education and Board on Testing and Assessment, Division of Behavioral and Social Sciences and Education.
+
+National Science Board (2020) Science and Engineering Indicators . Arlington, VA: National Science Foundation. https://ncses.nsf.gov/pubs/nsb20201 .
+
+National Science Foundation (2013). Common Guidelines for Education Research and Development . A Report from the Institute of Education Sciences, U.S. Department of Education and the National Science Foundation (NSF 13-126). https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf13126 .
+
+Research in Practice: Preparing and Retaining K-12 STEM Teachers in High-Need School Districts ( Research in Practice: Preparing and Retaining K-12 STEM Teachers in High-Need School Districts (https://www.nsfnoyce.org/) .
+
+The Noyce Program was first authorized under the National Science Foundation Authorization Act of 2002 (P.L. 107-368). It was reauthorized under the America COMPETES Act of 2007 (P.L. 110-69) and the America COMPETES Reauthorization Act 2010 (P.L. 111-358), and later amended by the STEM Education Act of 2015 (P.L. 114-59), American Innovation and Competitiveness Act (P.L. 114-329), National Defense Authorization Act for Fiscal Year 2018 (P.L. 115-91), Supporting Veterans in STEM Careers Act (P.L. 116-115), National Defense Authorization Act for Fiscal Year 2021 (P.L. 116-283), and the CHIPS Science Act of 2022 (P.L. 117-167).
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 60 to 77
+
+including 25 - 30 Track 1: S&S awards; 5 - 7 Track 2: TF awards; 10 – 15 Track 3: MTF awards; 5 - 8 Track 4: Noyce Research awards, and 15 - 17 Capacity Building awards, subject to availability of funds.
+
+Anticipated Funding Amount: $68,000,000 for new or continuing awards
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Proposals may only be submitted by the following: (For all submissions) One or more Institutions of Higher Education (IHEs) (two- and four-year IHEs, including community colleges) accredited in, and having a campus located in the U.S.; consortia of such institutions; or U.S. nonprofit organizations (e.g., nonprofit research institutions, research museums) offering a teacher education or residency program. (In addition to the above, for Track 4: Noyce Research submissions only) Professional societies or similar organizations that are directly associated with educational or research activities.
+
+(For all submissions) One or more Institutions of Higher Education (IHEs) (two- and four-year IHEs, including community colleges) accredited in, and having a campus located in the U.S.; consortia of such institutions; or U.S. nonprofit organizations (e.g., nonprofit research institutions, research museums) offering a teacher education or residency program.
+
+(In addition to the above, for Track 4: Noyce Research submissions only) Professional societies or similar organizations that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+For Track 1: S&S, Track 2: TF, and Track 3: MTF, the PI team must include at least one faculty member with an advanced STEM degree who is currently housed in a science, technology, engineering, or mathematics department and at least one education faculty member from an education department or equivalent at a participating or partnering U.S. institution of higher education.
+
+For Track 4: Noyce Research, the PI team must include at least one individual with expertise and experience in STEM education research and at least one individual with an advanced degree in a STEM discipline.
+
+For Capacity Building, there are no restrictions on who may serve on the PI team.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

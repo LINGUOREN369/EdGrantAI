@@ -10,3 +10,108 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2024-08-16
 URL: https://www.nsf.gov/funding/opportunities/us-national-science-foundation-research-traineeship-program/nsf24-597
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+U.S. National Science Foundation Research Traineeship (NRT) Program
+
+I. Introduction
+
+Science, technology, engineering, and mathematics (STEM) graduate education is poised to undergo major transformations. There are multiple drivers for such change including: (i) recent major national reports on the state of STEM graduate education 1 ; (ii) the accelerating pace of science and engineering discoveries and technological innovations, (iii) national STEM workforce and demographic trends; (iv) the growing globalization of science and engineering; (v) the potential to align graduate education practices and models with an increasing understanding of how people learn; and (vi) calls for new models for graduate education at the national and international levels leveraging the high impact educational practices that enhance student engagement and increase student success. In addition, there is increasing recognition that addressing the grand challenges in science and engineering requires interdisciplinary and convergent approaches, as well as broader professional training that is not characteristic of most graduate programs. 2 These realities and the increasing calls for new approaches to STEM graduate education represent an extraordinary opportunity. Accordingly, this NRT solicitation encourages proposals to test, develop, and implement innovative and effective STEM graduate education models, promote interdisciplinary and broad professional training of graduate students, broaden participation in the STEM workforce, and foster fundamental research advances in support of national priorities.
+
+1 The Path Forward: The Future of Graduate Education , Commission on the Future of Graduate Education in the United States, 2010; Advancing Graduate Education in the Chemical Sciences, American Chemical Society, 2012; Biomedical Research Workforce Working Group Report , National Institutes of Health, 2012; Understanding PhD Career Pathways for Program Improvement , Council of Graduate Schools, 2014; Revisiting the STEM Workforce: A Companion to Science and Engineering Indicators 2014 , National Science Board, 2015; Professional Development: Shaping Effective Programs for STEM Graduate Students , Council of Graduate Schools, 2017; Graduate STEM Education for the 21 st Century , The National Academies of Sciences, Engineering and Medicine, 2018; The Science of Effective Mentorship in STEM , The National Academies of Sciences, Engineering and Medicine, 2019; Promising Practices for Addressing the Underrepresentation of Women in Science, Engineering, and Medicine: Opening Doors , The National Academies of Sciences, Engineering and Medicine, 202; " PhD training is no longer fit for purpose — it needs reform now", Editorial, Nature, 613:414, 2023 .
+
+2 Convergence: Facilitating Trans-disciplinary Integration of Life Sciences, Physical Sciences, Engineering, and Beyond , The National Academies of Sciences, Engineering and Medicine, 2014; Enhancing the Effectiveness of Team Science , The National Academies of Sciences, Engineering and Medicine, 2015; Kuh, G.D., High-Impact Educational Practices: What They Are, Who Has Access to Them and Why They Matter , Report from the Association of American Colleges and Universities, 2008.
+
+II. Program Description
+
+A. Focus and Goals
+
+The NRT Program is dedicated to shaping and supporting highly effective training of STEM graduate students in high priority interdisciplinary or convergent research areas through the use of comprehensive traineeship models that are innovative, evidence-based, and aligned with changing workforce and research needs. The goals of the program are to:
+
+Catalyze and advance cutting-edge interdisciplinary or convergent research in high priority areas;
+
+Increase the capacity of U.S. graduate programs to produce diverse cohorts of interdisciplinary STEM professionals with technical and transferable professional skills for a range of research and research-related careers within and outside academia; and
+
+Develop innovative approaches and knowledge that will promote transformative improvements in graduate education.
+
+Creation of sustainable programmatic capacity at institutions is an expected outcome. Consequently, all proposals should describe mechanisms to institutionalize effective training elements after award expiration and provide appropriate documentation of institutional support for such efforts (see Full Proposal Content, section 8a).
+
+B. NRT Traineeship and Trainees
+
+NRT traineeships are dedicated to the comprehensive development of graduate students as versatile STEM professionals for a range of research and research-related careers within and outside academia. Accordingly, proposals should focus on and demonstrate strong commitment to technical and professional training of STEM graduate students that emphasizes research training and extends beyond into other aspects of students' professional development. Specifically, NRT projects are expected to develop trainees' technical skills broadly, including facility and/or familiarity with the techniques, languages, and cultures of fields integral to the interdisciplinary or convergent research theme; foster the development of transferable professional skills; and provide trainees with mentoring and vocational counseling from professionals who have the backgrounds, experience, and skills to advise trainees on how to prepare for a variety of STEM career pathways.
+
+NRT is intended to benefit a population of STEM graduate students including and beyond those students who receive an NRT stipend. An NRT trainee is thus defined as a STEM graduate student who is accepted into an institution's NRT program and completes the required NRT elements (e.g., courses, workshops, projects, and other training activities specific to the NRT experience) set by the program regardless of whether they receive an NRT stipend or are funded by other sources. To further maximize the number of students benefiting from NRT activities, selected NRT program elements (for example, professional development opportunities) should be made available to other STEM graduate students who are not NRT trainees.
+
+NRT trainees must be master's and/or doctoral STEM students in a research-based degree program that requires a thesis or dissertation. If an NRT proposal from an institution includes both master's and doctoral students, the proposal should identify any differences in NRT program requirements, as well as mechanisms to foster the development of a collective NRT graduate student community. NRT stipends and support for customary costs of education (tuition and required fees) are limited to U.S. citizens, nationals and permanent residents. However, international students can participate as non-stipend-supported NRT trainees or as non-trainees.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant
+
+Estimated Number of Awards: 18 to 20
+
+NRT Track 1 Awards (12-14 awards each year) are expected to be up to five years in duration with a total budget up to $3,000,000.
+
+NRT Track 2 Awards (4-6 awards each year) are expected to be up to five years in duration with a total budget up to $2,000,000.
+
+NRT Track 2 Planning Grants (3-4 awards per year), are expected to be up to $100,000 per year (including indirect costs) and for up to two years in duration.
+
+Anticipated Funding Amount: $53,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Who May Serve as PI:
+
+Track 1 and Track 2: The PI must be on the faculty of the submitting institution.
+
+Limit on Number of Proposals per Organization: 2
+
+An eligible IHE may participate in only two (2) proposals per NRT competition as lead or collaborative non-lead. All Track 1 and/or Track 2 NRT proposals will be counted toward this total limit of two proposals per institution.
+
+Participation includes serving as a lead institution or a non-lead institution (i.e., as part of a separately submitted collaborative proposal or as a sub-recipient) on any proposal . Organizations participating only as evaluators on projects are excluded from this limitation. Planning proposals, described in Section II, Program Description, are also excluded from this limitation. Proposals that exceed the organizational eligibility limit will be returned without review regardless of whether the institution on such a proposal serves as lead or non-lead collaborative institution. Potential PIs are advised to contact their institutional office of research regarding processes used to select proposals for submission.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may serve as Principal Investigator (PI) or co-PI on only one (1) proposal submitted to the NRT program per annual competition. Proposals that exceed the PI/co-PI eligibility limit (beyond the first submission based on timestamp), will be returned without review regardless of the individual's role (PI or co-PI) in the returned proposal.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

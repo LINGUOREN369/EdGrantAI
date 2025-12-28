@@ -15,3 +15,94 @@ Status: Cleared
 Posted date (Y-m-d): 2023-03-20
 URL: https://www.nsf.gov/funding/opportunities/sosbio-science-science-approach-analyzing-innovating-biomedical/nsf23-569
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)
+
+I. Introduction
+
+The National Science Foundation (NSF) and the National Institutes of Health (NIH) seek proposals that will propel our understanding of the biomedical research enterprise by drawing from the scientific expertise of the science of science policy research community.
+
+NSF promotes the progress of science by maintaining the general health of research and education across all fields of science and engineering. The Social, Behavioral and Economic Sciences (SBE) Directorate within NSF supports basic research on people and society. The SBE sciences focus on human behavior and social organizations; how social, economic, political, cultural and environmental forces affect the lives of people from birth to old age; and how people in turn shape those forces. SBE's Science of Science: Discovery, Communication and Impact Program (SoS:DCI) supports research designed to advance the scientific basis of science and innovation policy.
+
+The NIH is the U.S. federal agency charged with supporting biomedical research in the U.S. The National Institute of General Medical Sciences (NIGMS) within the NIH supports basic biomedical research that increases understanding of biological processes and lays the foundation for advances in disease diagnosis, treatment and prevention.
+
+Both NSF and NIH believe that there are opportunities and needs for building and supporting research projects with a focus on the scientific research enterprise. The two agencies also recognize that when programmatic goals are compatible, coordinated management and funding of a research program can have a positive synergistic effect on the level and scope of research and can leverage the investments of both agencies.
+
+Therefore, NIGMS and SBE are partnering to enable collaboration in research between the SoS:DCI program and NIGMS. This partnership will result in a portfolio of high-quality research to provide scientific analysis of important aspects of the biomedical research enterprise and efforts to foster a diverse, innovative, productive and efficient scientific workforce, from which future scientific leaders will emerge.
+
+II. Program Description
+
+Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO) is a joint program between the National Institute of General Medical Sciences (NIGMS) of the National Institutes of Health (NIH) and the Science of Science: Discovery, Communication, and Impact Program (SoS:DCI) of the National Science Foundation (NSF). SoS:BIO supports research that advances the scientific basis of science and innovation policy, with a focus on the biomedical sciences. Consistent with the SoS:DCI program, SoS:BIO will fund the development of models, analytical tools, data and metrics that can inform science policy and the development of the scientific enterprise. SoS:BIO welcomes individual and collaborative research projects and places a high priority on interdisciplinary research and on broadening participation.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 4 to 8
+
+It is estimated that about 4-8 awards per year will be made.
+
+Anticipated Funding Amount: $2,000,000
+
+NIGMS and SBE will each devote up to $1.0 million in funding, subject to availability of funds and receipt of meritorious proposals. Award sizes are expected to range from $100,000 to $250,000 (total costs) per year for up to 4 years.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

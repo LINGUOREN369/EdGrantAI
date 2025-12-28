@@ -11,3 +11,116 @@ Status: Cleared
 Posted date (Y-m-d): 2023-11-02
 URL: https://www.nsf.gov/funding/opportunities/designer-cells-designing-synthetic-cells-beyond-bounds-evolution/nsf24-505
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Designing Synthetic Cells Beyond the Bounds of Evolution (Designer Cells)
+
+I. Introduction
+
+NSF recognizes the dramatic advances in rational cell design technology in recent years and the potential to use this technology to address questions regarding the fundamental components of cells, the evolution of life, and biological diversity beyond extant processes and organisms. The participating organizations also recognize the potential to use rational cell design technology for novel biotechnology applications.
+
+II. Program Description
+
+Over the past few decades, biological research has vastly improved our understanding of life processes at the molecular, organismal and community levels. In recent years, researchers have been able to use this knowledge base and the toolkits of synthetic biology and cellular engineering to address fundamental biological questions. Synthetic biologists and cellular engineers have also been able to repurpose organisms and organismal processes to address important problems in health, manufacturing, energy, ecology and agriculture, profoundly impacting the bioeconomy.
+
+With recent technological advances such as the ability to assemble cell-like systems with particular functionalities and the ability to make precision small-scale and large-scale modifications to eukaryotic and prokaryotic genomes using rewriting tools, synthetic biology is poised to enter the age of designer organelles, cell-like systems and organisms. Indeed, progress in rational cell design technology will enable synthetic biology researchers to examine cellular functions in a new way, to explore the evolution of life in ways that were not possible before, and to engineer cells and cell-like systems that have particular functions and applications. Progress in this technology will also help the United States achieve its goal of being a world leader in basic biological research, biotechnology and bioeconomic output now and into the future.
+
+Creating designer cells requires simultaneous careful exploration of the social, ethical, and biosafety/security dimensions of such research. Understanding both the societal benefits and risks as well as their potential for willful misuse or unintended damage to natural biological systems is an integral component of developments in this area.
+
+The goal of this solicitation is to support innovative research that used the tools of synthetic biology and cellular engineering to build synthetic cells or cell-like systems for one of the following: 1) to identify and analyze the minimal function units of cellular structures, organelles or processes; 2) to address fundamental questions in the evolution of life on earth or to explore biological diversity beyond that which currently exists in nature; and 3) to provide new functionalities for innovative biotechnology applications.
+
+Themes:
+
+Identify and analyze the functional units of synthetic cells: We seek projects that design and analyze synthetic cell components (ribosomes, mitochondria, membranes, regulatory modules, molecular machines, etc.), or synthetic components that have been integrated into cells or cell-like systems. The project should include a functional analysis of the synthetic component or a functional analysis of a component once it has been integrated into cells or a cell-like system.
+
+Evolution and expanding diversity: Technologies such as genome rewriting will provide researchers with new ways to explore the evolution of life on this planet and to explore biological diversity that does not currently exist and may never have existed on earth. Projects are solicited that develop synthetically modified prokaryotic and/or eukaryotic cells that will address questions such as, how do regulatory circuits evolve, are 20 canonical amino acids and four nucleotides crucial for life or what are the functions of the dark matter of the genome? Projects to develop synthetic systems that allow researchers to expand cellular diversity into design spaces that evolution has not sampled/or selected for and analyze the new components are also encouraged. Examples would include synthetic systems that allow researchers to expand the number of amino acids available for proteins, protein structural diversity and potentially expand protein functional diversity for purposes such as expanding biochemical diversity. All projects should integrate social, ethical and biosafety/biosecurity dimensions in addressing these issues.
+
+Create synthetic biosystems for innovative biotechnology applications. We seek projects that incorporate synthetic components into prokaryotic or eukaryotic cells, or design synthetic cell-like systems to generate new functionalities. These new functionalities may include synthetic systems that adapt and respond to specific external stimuli, perform novel computations, or have novel functions not found in natural systems. Projects that have basic research components, such as those described in themes 1 and 2, and leverage the basic research findings for biotechnology applications are of particular interest. The biotechnology application could be in any sector of the economy.
+
+Additional Considerations
+
+In concert with technology development, educating students and the lay public will also be important to ensure an accurate understanding of the scientific advances resulting from the development and use of designer cells. Responsive proposals must address the social, ethical and/or biosafety/security issues of the proposed research and the resulting biological systems. There will be serious consideration given to proposals that include the expertise of social scientists as a funded collaborator on the project and characterize how social science, ethics, and/or biosafety expertise is integrated to the project.
+
+Summary of Solicitation Requirements
+
+To be responsive to this solicitation, successful proposals will:
+
+Develop and use synthetic cells or cell-like systems to build and study minimal cellular functional units, to explore the potential for life beyond that which evolution sampled or to create new functionalities with biotechnology applications.
+
+Address social, ethical, and/or biosafety/biosecurity implications of designer cells as an integral component of the project.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 5 to 7
+
+Anticipated Funding Amount: $6,000,000
+
+Estimated program budget, number of awards and average award size and duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Tribal Governments: The governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a, et seq.)
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

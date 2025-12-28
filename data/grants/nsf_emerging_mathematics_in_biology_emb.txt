@@ -10,3 +10,116 @@ Status: Cleared
 Posted date (Y-m-d): 2024-11-06
 URL: https://www.nsf.gov/funding/opportunities/emb-emerging-mathematics-biology/nsf25-509
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Emerging Mathematics in Biology (eMB)
+
+I. Introduction
+
+In the past few years, the Mathematical Biology program at the Division of Mathematical Sciences has received research proposals that demonstrate increasing integration of mathematics and biology, as well as novel mathematical theories, techniques, and approaches. Nevertheless, there still exist many open biological problems and great challenges in the development and analyses of mathematical models of complex biological processes. These include both mechanistic models that capture the dynamics and behavior of biological systems across multiple scales (e.g., time, spatial, levels of biological organization, etc.) and descriptive models using AI/ML/DL approaches for information retrieval, data integration and reduction, hypothesis testing, and multiscale model building, to name just a few.
+
+This program encourages proposals for innovative mathematical theories, techniques, and approaches to improve the modeling and analysis of biological systems. Such innovations are expected to generate new biological insights and enhance the predictive power of modeling tools.
+
+II. Program Description
+
+The Emerging Mathematics in Biology (eMB) program seeks to stimulate the development of innovative mathematical theories, techniques, and approaches to investigate challenging questions of great interest to biologists and public health policymakers.
+
+The program supports research projects in mathematical biology that address challenging and significant biological questions through novel applications of traditional, but nontrivial mathematical tools and methods or the development of new mathematical theories particularly from foundational mathematics, including the mathematical foundation of Artificial Intelligence/Deep Learning/Machine Learning (AI/DL/ML) enabling explainable AI or mechanistic insight. The program emphasizes the uses of mathematical methodologies to advance our understanding of complex, dynamic, and heterogeneous biological systems at all scales (molecular, cellular, organismal, population, ecosystems, evolutionary, etc.). Examples of research challenges include, but are not limited to
+
+Mathematical foundations of AI/DL/ML theory and methods in biomathematics enabling explainable AI or mechanistic insight leading to predictive outcomes.
+
+Advancing methods that deal with limited, noisy, or heterogenous data, or that help scale or validate models.
+
+Incorporation of probabilistic modeling to deterministic modeling frameworks in biology
+
+Applications of foundational mathematics in genomics and other -omics applications
+
+Modeling of organismal development, physiology, morphology, biomechanics, behavior, and neuroscience
+
+Modeling dynamical interactions between organisms (e.g., self/non-self recognition, host-symbiont, plant-animal, predator-prey, disease dynamics, and behavioral interactions)
+
+Modeling interactions between organisms and their environment, anywhere from the organismal scale to the ecosystem or continental scale
+
+Modeling the feedbacks between ecological and evolutionary processes
+
+Development of mathematical frameworks to understand phylogenetic relationships
+
+Development of tools or infrastructure for automatically extracting, analyzing, and/or annotating large biological datasets
+
+Applications of mathematics in biotechnology
+
+Modeling climate impacts on the organism and on biodiversity
+
+Mechanistic models of respiratory infection transmission, as described in the joint NSF-CDC Dear Colleague Letter on Mathematical Modeling of Policy Options for Evolving Public Health Challenges ( MPOPHC ).
+
+This solicitation is meant to encourage new collaborations between mathematical, computer, and biological scientists as well as to support innovative research activities by existing teams of researchers from mathematical and biological sciences. Each proposal should include balanced participation from both the mathematical sciences and the biological sciences (the proposal must include PI/Co-PIs with expertise in mathematical sciences and biological sciences, or a single PI needs to demonstrate expertise in both mathematical and biological sciences).
+
+All proposals should describe clearly the research challenges associated with the proposed mathematical approaches, and explain why the biological question is important (what broader applicability or impact the results will have) and why application of mathematics to the biological problem is needed to advance understanding. In addition, the training of students and postdoctoral researchers at the intersection of the mathematical and biological sciences is encouraged. Successful projects should discuss how trainees will be recruited, mentored, and retained, and explain how these efforts will increase participation of people from all demographics. Research teams are required to disseminate the results of their work in a timely and effective fashion.
+
+NSF does not normally support technical assistance, pilot plant efforts, research requiring security classification, the development of products for commercial marketing, or market research for a particular project or invention. Biological research on mechanisms of disease in humans, including on the etiology, diagnosis, or treatment of disease or disorder, is normally not supported. Biological research to develop animal models of such conditions, or the development or testing of procedures for their treatment, also are not normally eligible for support. However, research with etiology, diagnosis- or treatment-related goals that advances knowledge in engineering, mathematical, physical, computer, or information sciences is eligible for support.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 10 to 15
+
+Approximately 10 to 15 awards from this competition may be made per year. The number of awards will depend on the quality of received proposals and budget availability.
+
+Anticipated Funding Amount: $2,000,000 to $6,000,000
+
+Up to $6,000,000 total for FY25-26, subject to availability of funds and receipt of meritorious proposals for an award duration of 3 years.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

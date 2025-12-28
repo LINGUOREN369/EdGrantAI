@@ -14,3 +14,124 @@ Status: Cleared
 Posted date (Y-m-d): 2024-09-04
 URL: https://www.nsf.gov/funding/opportunities/drk-12-rc-discovery-research-prek-12-program-resource-center/nsf24-602
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Discovery Research PreK-12 Program Resource Center on Transformative Education Research and Translation (DRK-12 RC)
+
+I. Introduction
+
+The DRK-12 Program is the only NSF program that supports applied research and development at the preK-12 level in all areas of formal STEM education. The DRK-12 Program's goal is to catalyze research and development that enhances all preK-12 teachers' and students' opportunities to engage in high-quality STEM learning experiences. Situated at the intersection of fundamental and applied research and development, the DRK-12 Program supports efforts to advance both generalizable scientific knowledge and applied classroom strategies based upon strong evidence. The DRK-12 Program invests in projects with potential to address longstanding challenges, inequities, and opportunities in formal education. It also invests in projects that anticipate and provide the foundation for future formal preK-12 STEM education.
+
+The DRK-12 Program's objectives are to: (1) build knowledge about how to develop preK-12 students' and teachers' STEM content knowledge, practices, and skills; (2) support collaborative partnerships among STEM education researchers, STEM education practitioners, and school leaders with the goals of developing more effective practice while also extending relevant research literatures; and (3) build the field of STEM education by supporting knowledge syntheses, interdisciplinary interactions across fields and stakeholders, and the development of novel and robust ways of assessing teacher and student learning, engagement, and skills. Outcomes of DRK-12 projects can include but are not limited to promising, evidence-based products that can be used by others to support the success of all teachers and all students (e.g., curriculum, teaching and research tools, and models of collaboration).
+
+To support equity of investments across diverse geographic areas of our Nation, the program strongly encourages collaborative proposals involving organizations in EPSCoR jurisdictions (see https://new.nsf.gov/funding/initiatives/epscor/state-websites ).
+
+This solicitation seeks a Resource Center on Transformative Education Research and Translation for the DRK-12 Program. The DRK-12 portfolio currently includes over 400 active awards . To understand and maximize the potential impact of these investments, a Resource Center on Transformative Education Research and Translation is needed to (1) identify and share promising resources, tools, approaches, and research findings with teachers, school leaders and administrators and policymakers for feedback and strategic use that advances both teaching practice and science; (2) facilitate communication and collaboration among current, former, and prospective DRK-12 award recipients as a means of building STEM education researchers' capacity to conduct rigorous and meaningful work across the full range of project types supported by the program; and (3) further raise the national visibility of the DRK-12 program.
+
+It is expected that the DRK-12 Resource Center (DRK-12 RC) on Transformative Education Research and Translation will be an intellectual partner to the program in the three primary areas listed above. The DRK-12 RC is also expected to work collaboratively with NSF and the DRK-12 Program's primary communities — including formal preK-12 STEM educators, school leaders and STEM education researchers — to design, implement, and evaluate its activities in these three areas.
+
+Audiences for the DRK-12 RC on Transformative Education Research and Translation are wide-ranging and include (a) STEM education partners/professionals (teachers, teacher leaders, school leaders); (b) Current, former, and prospective DRK-12 award recipients including early career scholars, graduate students, and STEM professionals who want to conduct education research; (c) DRK-12 Program Officers; (d) Other DRL programs — especially related to outreach, proposal preparation workshops, etc.; (e) the STEM education research community (including post-secondary education institutions, non-profits and for-profit enterprises); (f) STEM education organizations / networks; and (g) DRK-12 Program reviewers who participate in the merit review process; and (h) other relevant fields with capacity to inform STEM education research such as the social sciences.
+
+DRK-12's current and primary Resource Center is CADRE (Community for the Advancement of Discovery Research ). The DRK-12 Program has also funded a second and complementary Evidence Quality Resource Hub . In this solicitation, the program seeks a Resource Center that can build from and expand upon these two organization's prior work while developing additional innovative approaches to facilitating transformative STEM education research and translation that serves the DRK-12 Program, formal preK-12 education partners, DRK-12 investigators, and other parties seeking to enhance formal STEM education nationwide.
+
+Proposers should attend to the DRK-12 Program's Resource Center logic model [see https://nsf.widen.net/s/gcxzmdx8f2/drk12rclogicmodel ], which outlines the DRK-12 Program's short- and long-term goals for the RC, activities that are expected to lead to the achievement of those goals, and several key indicators that would provide data relevant to the RC's efforts and impacts.
+
+II. Program Description
+
+The DRK-12 Program intends to support one project that fulfills the Resource Center activities described below.
+
+Proposers submitting to the DRK-12 Resource Center on Transformative Education Research and Translation solicitation should demonstrate their capacity to plan, develop, and manage a center that supports knowledge translation between researchers and practitioners, catalyzes communication and collaboration within the research community, and provides technical support for a diverse array of research and development project types, including the identification and strategic translation of promising findings with potential for classroom use. The DRK-12 Program seeks an intellectual partner that can facilitate the strategic advancement of promising findings and practices from discovery to efficacy and implementation.
+
+Proposers should have demonstrated expertise in STEM disciplines, rigorous education research methodologies including measurement and assessment of learning outcomes, and STEM teacher professional development. Demonstrated expertise in theoretical and conceptual frameworks that guide STEM education research, partnership development and collaboration are essential.
+
+Resource Center activities include but are not limited to:
+
+1. Synthesizing and communicating about the DRK-12 Program's investments and impacts: The RC is expected to facilitate the broad dissemination of DRK-12 project outcomes, findings, and evidence of promising practices to various formal STEM education communities. This responsibility includes providing topically oriented synthesis with recommendations for how to advance scientific inquiry to the next phase, reports that summarize findings from funded or completed DRK-12 projects, and comprehensive reports of DRK-12 program activities and outcomes. A competitive DRK-12 RC proposal will demonstrate the project team's capacity to collect, analyze, synthesize, and disseminate public information about the DRK-12 Program to its diverse audiences. Moreover, a competitive proposal will demonstrate how the project team will assist DRK-12 award recipients and proposers in responding to the DRK-12 Program solicitation's call for dissemination / communication plans that go beyond traditional researcher-focused avenues to foster researchers' two-way communication with diverse audiences.
+
+2. Capacity Building: The DRK-12 Resource Center is expected to support STEM education researchers' capacity to submit competitive proposals, across the full range of project types described in the program solicitation, that advance the DRK-12 Program's mission to:
+
+share knowledge among STEM education researchers and teachers, schools, and community members;
+
+promote knowledge-, field-, and partnership-building activities;
+
+develop synergistic networks within and across the STEM education research and practice communities that can enact knowledge translation pathways.
+
+A competitive DRK-12 RC proposal will explain how it plans to build the respective and collective capacity of a range of constituents and communities including: current, former, and prospective PIs; the STEM education research community (broadly defined); STEM education professionals (teachers, teacher leaders, school leaders); and STEM education professional organizations / networks. A competitive proposal would also explain how the project team will collaborate with other DRL-supported Resource Centers for impact.
+
+3. Broadening Participation: The DRK-12 Resource Center is expected to engage geographic regions, community types, and organizations that are underrepresented in the DRK-12 portfolio. A competitive proposal will explain how the project team will use innovative modes of engagement to reach and serve a range of organizations and individuals, including EPSCoR jurisdictions (see https://new.nsf.gov/funding/initiatives/epscor/state-websites ).
+
+4. Technical Support: The DRK-12 Resource Center on Transformative Education Research and Translation is expected to provide prospective Principal Investigators with access to information about DRK-12 Program projects, outcomes, and resources. It is also expected to provide technical assistance appropriate to the full range of DRK-12 research and development project types, especially Partnership Development, Exploratory, Impact, and Implementation and Improvement projects. A competitive proposal will explain how the project team will meet these expectations by applying its expertise in STEM disciplines, rigorous education research methodologies, formal preK-12 STEM education, and theoretical and conceptual frameworks that guide potentially transformative STEM education research.
+
+One mechanism to fulfill these above responsibilities should be a virtual infrastructure (including elements such as a website, a digital resource repository, a web-based tool, social media, and/or other means) that encourages connections between the DRK-12 Program and its various audiences, and that encourages productive collaborations among the Program's various audiences. Outside of this request, the DRK-12 Program has intentionally left unspecified the mechanisms for fulfilling the intended functions of the DRK-12 RC to encourage creative approaches envisioned by proposers.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 1
+
+1 subject/pending availability of funds
+
+Anticipated Funding Amount: $5,000,000
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+State and Local Governments
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

@@ -11,3 +11,122 @@ Status: Cleared
 Posted date (Y-m-d): 2024-09-19
 URL: https://www.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems/nsf24-608
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Safety, Security, and Privacy of Open-Source Ecosystems (Safe-OSE)
+
+I. Introduction
+
+The term "open source" usually refers to software for which the original source code is publicly distributed to anyone and for any purpose, including for further development and refinement in a collaborative manner. Open-source software (OSS) is ubiquitous: a 2022 report from GitHub estimated that 97% of software relies on OSS, and 90% of companies apply or use OSS in some way. OSS is also increasingly important to commercial enterprises, with 30% of Fortune 100 companies running open-source program offices (OSPOs) to coordinate their OSS strategies.
+
+Increasingly, however, the term open source also refers to a range of publicly distributed products that transcend OSS, including scientific methodologies, models, and processes; manufacturing processes and process specifications; materials formulations; programming languages and formats; hardware instruction sets; system designs or specifications; and data platforms. Academic and industrial scientists, engineers, researchers, and other professionals worldwide use distributed, collaborative open-source development methods to make a wide variety of products openly available with a goal of enabling nimble development and catalyzing further innovation.
+
+Although open-source development methods accelerate and catalyze innovation, they can also create safety, security, and privacy risks and unintended harms. Adversaries can leverage the pillars of the open-source development philosophy - the democratization of development and broad opportunities for reuse - to insert and exploit vulnerabilities in open-source products. For OSS, even code written in memory-safe languages can be compromised because code re-usability and modularity can introduce dependencies, complexity, and liabilities to the software development life cycle. A recent study found that 82% of OSS components present risks due to vulnerabilities, security issues, and code quality or maintainability concerns. Furthermore, as noted in the report of a recent workshop sponsored by the Office of Management and Budget (OMB), NSF, and the National Institute for Standards and Technology (NIST) on the Open-source Software Security Initiative, the dynamics of complex, distributed organizations pose unique challenges in the creation and maintenance of a secure open-source ecosystem.
+
+Thus, the characteristics of openness that make open-source such a powerful driver of innovation also enable many avenues of attack by adversaries using combinations of technical, social, and socio-technical approaches.
+
+II. Program Description
+
+Vulnerabilities in an open-source product (software and non-software) and/or its continuous development, maintenance, integration, and deployment infrastructure can potentially be exploited to attack any user (human, organization, and/or another product/entity) of the product and/or its derivations. To respond quickly to the growing threats to the safety, security, and privacy of OSEs, NSF is launching the Safety, Security, and Privacy of Open-source Ecosystems (Safe-OSE) program.
+
+This program seeks to fund impactful, mature open-source ecosystems to address important classes of safety, security, and privacy vulnerabilities. In this context, mature signifies that the ecosystem in question has already established a robust community of contributors, an extensive group of users, a managing organization that steers the development of the product, and the essential infrastructure needed to keep the ecosystem running.
+
+This program grows out of the Pathways to Enable Open-Source Ecosystems (POSE) program which supports new managing organizations to catalyze distributed, community-driven development and growth of new OSEs to address the discerned need to address safety, security, and privacy vulnerabilities in impactful OSEs.
+
+Unlike NSF's Dear Colleague Letter inviting proposals related to open-source software security ( NSF 23-149 ), which focuses on fundamental cybersecurity research, the Safe-OSE program solicits proposals from OSEs, including those not originally funded by POSE, to address safety, security, and/or privacy vulnerabilities proactively in existing, mature OSEs. These vulnerabilities can be technical (e.g., vulnerabilities in code, side-channels potentially disclosing sensitive information) and/or socio-technical (e.g., supply chain issues, insider threats, etc.), as long as they are deemed significant in the context of the OSE. The goal of the Safe-OSE program is to catalyze meaningful improvements in the safety, security, and privacy of the targeted OSE that the managing organization does not currently have the resources to undertake. The program especially focuses on efforts in which enhancing the safety, security, and privacy of the OSE will lead to demonstrable improvement in its positive societal and economic impacts.
+
+Proposals to this program should provide clear evidence that OSE team leaders have established a thorough understanding of the threat landscape, vulnerabilities, and/or failure modes for the open-source product(s) managed by the OSE. Proposals should describe, where appropriate, what other products depend upon the safe, secure, and privacy-preserving functions of the OSE. Proposals should situate the OSE's threat landscape in the larger context of known threats and/or vulnerabilities and discuss any significant prior incidents affecting the product(s). A realistic plan for addressing risks related to safety, security, and privacy should address the threat landscape and describe how Safe-OSE funding will meaningfully improve the OSE's capabilities for addressing vulnerabilities as well as for detecting and recovering from incidents.
+
+Funds from this program should not be directed toward fundamental research or at readily resolvable, known bugs/issues, but rather toward strategies, methods, and actions that will fundamentally improve the open-source product's safety, security, and privacy stance. Funds from this program can also be directed at efforts to bolster the OSE's resiliency for recovering from future incidents. Thus, the proposal should articulate how Safe-OSE funding will improve the broader national, societal, and/or economic impacts of the OSE by hardening it against adverse events over the long term.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 10
+
+Anticipated Funding Amount: $15,000,000
+
+Each award will be for 24 months. The budget for Year 1 should be up to a maximum of $500,000 and the budget for Year 2 should be up to a maximum of $1,000,000, for a total budget of up to $1,500,000 per award.
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+State and Local Governments
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members.
+
+Who May Serve as PI:
+
+For Institutions of Higher Education:
+
+By the submission deadline, any PI, co-PI, or other Senior/Key Personnel must hold either:
+
+a tenured or tenure-track position, or
+
+a primary, full-time, paid appointment in a research or teaching position, or
+
+a staff leadership role in an Open-Source Program Office or equivalent position
+
+at a U.S.-based campus of an Institution of Higher Education (see above), with exceptions granted for family or medical leave, as determined by the submitting institution.
+
+Individuals with primary appointments at overseas branch campuses of U.S. institutions of higher education are not eligible. Researchers from foreign academic institutions who contribute essential expertise to the project may participate as Senior/Key Personnel or collaborators but may not receive NSF support.
+
+For all other eligible proposing organizations:
+
+The PI must be an employee of the proposing organization who is normally resident in the US and must be acting as an employee of the proposing organization while performing PI responsibilities. The PI may perform the PI responsibilities while temporarily out of the U.S.
+
+Individuals with primary appointments at non-U. S. based non-profit or non-U.S. based for-profit organizations are not eligible.
+
+Limit on Number of Proposals per Organization: 2
+
+Up to two (2) preliminary proposals per lead organization are allowed. NSF will review the preliminary proposals and provide a binding "Invite" or "Do Not Invite" response for each preliminary proposal. Invited organizations will be allowed to submit a full proposal on the project described in the preliminary proposal by the full proposal submission deadline.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposals: Submission of Preliminary Proposals is required. Please see the full text of this solicitation for further information.
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

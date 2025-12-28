@@ -10,3 +10,126 @@ Status: Cleared
 Posted date (Y-m-d): 2022-08-03
 URL: https://www.nsf.gov/funding/opportunities/aag-astronomy-astrophysics-research-grants/nsf22-624
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Astronomy and Astrophysics Research Grants (AAG)
+
+I. Introduction
+
+The Division of Astronomical Sciences (AST) of the National Science Foundation is the primary source of federal funding support for ground-based astronomy in the U.S. The Division supports a broad range of activities from funding national observational facilities to the research programs of individual scientists and graduate students. As of July 1, 2022, AST supports the development and operation of six national astronomy centers: the National Optical-Infrared Astronomy Research Laboratory (NOIRLab), the National Solar Observatory (NSO), the Daniel K. Inouye Solar Telescope (DKIST), the National Radio Astronomy Observatory (NRAO), the Green Bank Observatory (GBO), and the Arecibo Observatory (AO). AST supports the construction and operation of the Vera Rubin Observatory (Rubin). The Division provides the U.S. share of funding for two international facilities—the operation of the Gemini Observatory and the operation of the Atacama Large Millimeter/submillimeter Array (ALMA).
+
+Division programs also support the development of advanced technologies and instrumentation, mid-scale projects, the planning and design for future observational facilities and major collaborative projects in astronomy, and the management of the electromagnetic spectrum for scientific use.
+
+The Division supports individual investigators and small groups engaged in a broad array of observational, theoretical, laboratory, and archival data studies. Special grants and fellowship programs for junior faculty, postdoctoral fellows, and undergraduate students are designed to encourage the activities of researchers engaged in education and outreach.
+
+More information about the Division and its programs can be found at https://www.nsf.gov/AST .
+
+II. Program Description
+
+The Astronomy and Astrophysics Research Grants (AAG) Program is an inclusive and flexible funding opportunity to support research in the astronomical sciences. The Program provides individual investigator and collaborative research grants for observational, theoretical, laboratory, and archival data studies in astronomy and astrophysics. The Program also considers proposals for projects and tools that enable or enhance astronomical research. Proposals may span multiple disciplines and/or areas of study and may utilize multiple techniques.
+
+In all cases, proposals must demonstrate the astronomical context of the work. Proposals that do not adequately demonstrate the astronomical context shall be returned without review.
+
+NSF strives to allocate federal funding to maximize scientific discovery in coordination with other funding agencies. It is expected that proposals which predominantly exploit NASA data or resources will be submitted to NASA. Proposals submitted to NSF with an extensive work effort to model or analyze data from NASA missions or archives must include a labeled section in the project description explaining why NASA data are required to advance the scientific goals of an NSF proposal. Please contact a cognizant NSF program officer if you have any questions about the suitability of your proposal for the AAG Program.
+
+Proposals to the AAG Program are reviewed along disciplinary lines and evaluated by experts in the appropriate disciplinary areas. Proposers should ensure that both their Project Summary and Project Description clearly place their work within the appropriate field of study. Review panels are organized within four broad research areas: Extragalactic Astronomy and Cosmology (EXC), Galactic Astronomy (GAL), Planetary, Exoplanetary and Solar Astronomy (PLA) and Stellar Astronomy and Astrophysics (SAA). Proposals that span multiple of these areas are accepted.
+
+Accomplishment-Based Renewal proposals will not be accepted to this solicitation and will be returned without review.
+
+Additional Funding Opportunities Inside the AAG Program
+
+The AAG Program will accept Research in Undergraduate Institutions (RUI) proposals. RUI proposals submitted to the AAG program must meet the AAG requirements, guidelines, and deadlines. Information on the scope of RUI projects and the format of these proposals can be found at Facilitating Research at Primarily Undergraduate Institutions .
+
+The AAG Program will accept proposals for the funding opportunity in Computational and Data Enabled Science and Engineering (CDS&E). CDS&E proposals submitted to the AAG program must meet the AAG requirements, guidelines, and deadlines. In addition, proposals must explicitly address the CDS&E program goals within the 15-page Project Description. Please see the program description PD 22-8084 for the CDS&E program at Computational and Data Enabled Science .
+
+The NSF regularly issues Program Descriptions and Dear Colleague Letters announcing opportunities that may be of relevance to AAG proposers. The Astronomy Division maintains a website listing these opportunities at Additional Funding Opportunities and makes announcements of new opportunities at Astronomy Division Announcements .
+
+Additional Funding Opportunities Outside the AAG Program
+
+The guidelines in this solicitation do not apply to proposals submitted in response to other solicitations, such as CAREER. This AAG solicitation also does not apply to requests for supplemental funding, conference proposals, Grants for Rapid Response Research (RAPID) or EArly-concept Grants for Exploratory Research (EAGER) proposals. Information on, and proposal preparation instructions for conferences, RAPIDs, EAGERs are contained in the PAPPG Chapter II.E.
+
+Supplemental Funding Requests
+
+Requests for Research Experiences for Undergraduates (REU), Research Experiences for Teachers (RET), Research Opportunity Awards (ROA), and some other supplemental funding requests can be made in two ways: either as a component of a new (or renewal) research proposal or as a supplemental funding request to an existing award. Other programs such as Alliances for Graduate Education and the Professoriate Graduate Research Supplements (AGEP-GRS) and High School Student Research Assistantships (MPS-High) only accept supplemental funding requests to existing awards. A supplemental funding request to an existing award should be submitted by April 1 in the year for which the supplemental funds are requested. Later submissions of supplemental funding requests should be discussed with the cognizant AST program officer before submission. Guidance on preparing supplemental funding requests is contained in the NSF Proposal & Award Policies & Procedures Guide .
+
+Conference Proposals
+
+AST supports conferences, symposia and workshops (meetings) in areas of science supported by AST that bring experts together to discuss current research, to expose other researchers or students to new research methods, and to discuss future directions. Conferences may be supported only if equivalent results cannot be obtained at regular meetings of professional societies or other established conference series. These proposals must be submitted in response to the PAPPG. For guidance on preparing proposals for conferences, see Chapter II.E.9. in the most recent version of the PAPPG .
+
+In particular, such proposals should be submitted at least 12 months before the anticipated conference or meeting date. Proposers are encouraged to contact an AST Program Officer prior to submission about the suitability of the proposed activity for support.
+
+Information Sharing with NASA
+
+NSF has a Memorandum of Understanding (MOU) with the National Aeronautics and Space Administration (NASA). Under the MOU, NSF may share information from proposals with NASA for consideration of joint funding and may invite NASA employees to attend merit review panels as observers.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 100
+
+About 100 projects will be funded per year, pending availability of funds.
+
+Anticipated Funding Amount: $50,000,000
+
+Estimated $50,000,000 in fiscal year 2023 for new and continuing awards, pending availability of funds.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: For proposals submitted via Research.gov, PAPPG guidelines apply. For proposals submitted via Grants.gov, NSF Grants.gov Application Guide guidelines apply.
+
+Full Proposals:
+
+For proposals submitted via Research.gov, PAPPG guidelines apply.
+
+For proposals submitted via Grants.gov, NSF Grants.gov Application Guide guidelines apply.
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.

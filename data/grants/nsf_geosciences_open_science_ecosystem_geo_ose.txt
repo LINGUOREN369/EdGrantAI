@@ -10,3 +10,80 @@ Status: Cleared
 Posted date (Y-m-d): 2024-10-31
 URL: https://www.nsf.gov/funding/opportunities/geo-ose-geosciences-open-science-ecosystem/nsf25-506
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Geosciences Open Science Ecosystem (GEO OSE)
+
+I. Introduction
+
+In recent years, grassroots efforts within the scientific community have established foundational principles for open science. These principles include the FAIR Guiding Principles for scientific data management and stewardship (Findable, Accessible, Interoperable, Reusable), the CARE Principles for Indigenous Data Governance (Collective Benefit, Authority to Control, Responsibility, and Ethics), and the TRUST Principles for digital repositories (Transparency, Responsibility, User focus, Sustainability, and Technology), as well as Reproducibility and Replicability (see NSF 23-108 , "Dear Colleague Letter: Reproducibility and Replicability in Science"). Many of these principles undergird NSF's Public Access Initiative , which seeks to ensure that the outputs of NSF-funded scientific research are made publicly available to the greatest extent possible to maximize scientific and societal impact. However, the pathway to translating these aspirational open science principles into everyday practices of geoscientists is not straightforward. For example, there are wide variations among geoscience research communities in perceptions of what it means for data to be FAIR. Many geoscience researchers want to practice open science, but they are not sure how to do so.
+
+The NSF Directorate for Geosciences (GEO) is interested in supporting a suite of activities that foster open science practices through an ecosystem of accessible and interconnected cyberinfrastructure and collaborative approaches that maximize the openness and accessibility of research and education in the geosciences. As a part of this overarching goal, this Geosciences Open Science Ecosystem (GEO OSE) program solicitation specifically seeks to support open science planning, coordination, and capacity-building within and across geoscience domains. As one component of the Geosciences Cyberinfrastructure (GEO CI) Incubator within GEO's Division of Research, Innovation, Synergies, and Education (RISE), the GEO OSE program complements related NSF initiatives that contribute to advancing open science capabilities and practices in the geosciences. These include programs across GEO Divisions and Offices, in NSF's Office of Advanced Cyberinfrastructure (OAC), and in NSF's Directorate for Technology, Innovation, and Partnerships (TIP). GEO OSE also complements open science efforts across federal agencies, including the USGS Community for Data Integration and NASA Transform to Open Science (TOPS) initiative, which are establishing open science communities of practice tied to their respective agency missions.
+
+II. Program Description
+
+This updated Geosciences Open Science Ecosystem (GEO OSE) program solicitation seeks to support efforts that foster open research practices and that leverage expanding information resources and computing capabilities to address interdisciplinary grand challenge research questions at the forefront of the geosciences. In this solicitation, "geosciences" refers to those research disciplines directly supported by the Geosciences Directorate at NSF, which includes the domains of atmospheric and geospace sciences, ocean sciences, Earth sciences, and polar sciences. Further details on the scientific topics that are supported in the geosciences can be found within descriptions of individual GEO programs ( https://www.nsf.gov/funding/programs.jsp?org=GEO ).
+
+Priority goals for this GEO OSE solicitation are to:
+
+Develop and foster adoption of open research practices across geoscience domains informed by open science principles, including (but not limited to) the FAIR, CARE, and TRUST Principles, as well as Reproducibility and Replicability;
+
+advance transformational and innovative open science approaches that advance geosciences research and education by leveraging and building connections across the existing ecosystem of cyberinfrastructure resources, including data repositories, open-source software communities, and shared computing (e.g., high-performance and cloud computing);
+
+strengthen the capacity of current and future geoscientists to access, utilize, and collaborate within the growing ecosystem of open science resources, and to enable input and participation from the full spectrum of talent that society has to offer.
+
+To achieve these goals, this GEO OSE solicitation supports a variety of efforts to advance open science practices within the geosciences. This includes community/cohort building around defining a shared vision for open science and adopting open science practices within and across geoscience domains. It also includes development and implementation of open science approaches that accelerate geoscience research discovery via seamless workflows connecting data, software, physical collections, and computing, harnessing existing cyberinfrastructure, and building on common data/metadata standards. In addition, GEO OSE supports educational activities that instill open science practices and broaden adoption of cyberinfrastructure resources to reduce barriers to geoscience research and education.
+
+Proposals in response to this solicitation may be submitted to either of two tracks that acknowledge the range of readiness levels across geosciences communities. The selection of tracks should primarily be determined by the size and scope of proposed efforts:
+
+Track 1: These awards support smaller-scale activities seeking to organize geoscience research communities toward adoption of open science practices that accelerate scientific discovery in the geosciences. Awards may include open science planning activities for geoscience domains (e.g., development of community roadmaps), education/training initiatives that enable adoption of technologies that support open science practices, and/or mobilization campaigns to improve the openness of existing geoscience research programs. It is expected that supported projects will facilitate broad stakeholder involvement and address community-driven open science needs in the geosciences. Projects may guide the future design, development, and deployment of open science resources, possibly via separate NSF funding opportunities (see below). Funding will be provided for 2 years with a maximum budget size of $500,000 per project.
+
+Track 2: These awards target larger-scale activities aimed at fostering transformation of geoscience research communities toward open science practices. Projects should be designed to grow user/developer communities within the existing ecosystem of capabilities (e.g., data repositories, software packages, computational resources) toward broad and sustained efforts to embed open science practices in the day-to-day research/education workflows of geoscientists. Submission to Track 2 does not require prior Track 1 support, but all Track 2 proposals must thoroughly describe the nature, extent, and outcomes of relevant prior efforts. Funding will be provided for 3 years with a maximum budget size of $1,000,000 per project.
+
+The scope of supported GEO OSE activities seeks to maximize the distinctive impact of this program while acknowledging related funding opportunities (see below). As a result, neither Track 1 nor Track 2 supports development of data repositories, software packages, development/acquisition of computational hardware, or other efforts primarily intended to create or maintain cyberinfrastructure, though projects that leverage the capabilities of existing cyberinfrastructure are appropriate.
+
+For project ideas that do not fit within the priority goals and program tracks described above, proposers may wish to consider alternative programs:
+
+Proposers primarily seeking to answer specific geoscience research questions (even when such investigations adopt open science practices) should consider proposal submission to the appropriate disciplinary science programs within GEO.
+
+Proposers seeking to establish general foundational principles for research data management (e.g., quality control, stewardship, curation, or standardization) or to generically advance open science approaches (e.g., open-source software development) such that geoscience applications are merely pilot use cases should consider proposal submission to Cyberinfrastructure for Public Access and Open Science (CI PAOS) , Pathways to Enable Open-Source Ecosystems (POSE) , or other open science-related programs across NSF.
+
+Proposers seeking to build new CI should consider proposal submission to Cyberinfrastructure for Sustained Scientific Innovation (CSSI) or related CI development programs across NSF.
+
+Proposers primarily focused on improving CI literacy or data science skills development should consider proposal submission to Training-based Workforce Development for Advanced Cyberinfrastructure (CyberTraining) or Data Science Corps (DSC) .
+
+Proposers are strongly encouraged to contact program director(s) from the list of Cognizant Program Officers , in the Division(s)/Office(s) associated with the scientific discipline(s) for which the proposed open science activities would be applicable, to ascertain the appropriate focus and scope of intended proposal submissions.
+
+Specific Requirements:
+
+Proposals submitted in response to this solicitation must address the following Specific Requirements. Proposals will be evaluated on how successfully they meet these requirements (see Section VI.A, Merit Review Principles and Criteria):
+
+Geosciences Advancement: Proposals must address how proposed activities will contribute to demonstrated needs for advancing geosciences research and/or education. Proposed activities should attract and include broad participation of geoscientists in the relevant domains throughout the duration of the project, starting in the first year. Projects should help to unlock new applications of geoscientific information and/or computing capabilities toward advancing geosciences understanding. Proposed developments should broadly benefit geosciences research and/or education communities beyond the immediate proposal team.
+
+Open Science Alignment: Proposals must articulate a vision for advancing open science efforts within the geosciences, including how they envision and define open science for their target communities and how they will complement the existing ecosystem of open science resources and initiatives. Expected open science outcomes should extend beyond increasing the openness of a single product, tool, or dataset; instead, projects should lead to a fundamental transformation of scientific practices within the intended geoscience domain(s).
+
+Utilizing Shared Computing Resources:
+
+This solicitation does not support the development of new computer hardware capabilities or significant hardware acquisition, nor does it support projects that are primarily intended to develop new cyberinfrastructure. PIs are encouraged to consider using the wide range of NSF-supported advanced computing, data, and analysis capabilities, which are described in PAPPG Chapter II.E.7. PIs are also encouraged to explore emerging opportunities through NSF's Office of Advanced Cyberinfrastructure (OAC), including the National Artificial Intelligence Research Resource Pilot and the National Discovery Cloud for Climate . Proposers may also request specific allocations for cloud computing in tandem with their proposal submission; this is described in further detail in the Proposal Preparation Instructions of this solicitation (Section V.A).
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 3 to 8
+
+Estimated number of awards is the number of projects to be supported per competition. The actual number of awards will be determined based on the results of the merit review process and availability of funds.
+
+Anticipated Funding Amount: $2,000,000 to $4,000,000
+
+Anticipated funding amount is per competition. Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Any proposal submitted in response to this solicitation should be submitted in accordance with the NSF Proposal & Award Policies & Procedures Guide (PAPPG) that is in effect for the relevant due date to which the proposal is being submitted. The NSF PAPPG is regularly revised and it is the responsibility of the proposer to ensure that the proposal meets the requirements specified in this solicitation and the applicable version of the PAPPG. Submitting a proposal prior to a specified deadline does not negate this requirement.

@@ -15,3 +15,84 @@ Status: Cleared
 Posted date (Y-m-d): 2024-03-22
 URL: https://www.nsf.gov/funding/opportunities/dsc-data-science-corps/nsf24-560
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Data Science Corps (DSC)
+
+I. Introduction
+
+The objective of the Data Science Corps program is to help build a strong national data science infrastructure and workforce. The Data Science Corps program seeks to engage data science students in real-world data science implementation projects. This engagement will help bridge the data-to-knowledge gap in organizations and communities at all levels, including local, state, and national, and will empower better use of data for more effective decision making. Data Science Corps participants will be able to sharpen their skills in data science by working on real-world projects focused on specific community needs, including rural communities, urban communities, academia, industry, or government. This partnership between communities and data scientists will serve the nation by helping produce a workforce-ready cohort of data scientists and technologists, who have experience with data science in action in real-world settings.
+
+II. Program Description
+
+This solicitation has a primary focus on broadening participation in data science for undergraduates (including students in community college, Minority-Serving Institutions, other emerging research institutions, and institutions in EPSCoR jurisdictions), and teachers and students in grades 6 -12. Equitable access to data science education presents an opportunity to open doors to higher education, higher-paying careers, and support a more engaged citizenry. The DSC solicitation prompts the PI community to envision and implement diverse and creative mechanisms by which to provide all students with age and developmentally appropriate data science training to gain the expertise needed for understanding and interpreting data. The DSC funded projects should contribute to research and practice that supports data science literacy and practices, as well as creating and enhancing the theoretical and empirical foundations for effecting data science learning. Proposals responsive to this solicitation respond to and implement one or more of the four following mechanisms:
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant
+
+Estimated Number of Awards: 10 to 15
+
+Ten to fifteen awards are anticipated.
+
+Anticipated Funding Amount: $10,000,000
+
+Up to $10,000,000 is expected to be available, subject to availability of funds. Awards will typically be in the range of $800,000 to $1,200,000 for a duration of three years.
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An individual may participate in only one proposal as Principal Investigator, co-Principal Investigator, or Senior Personnel in any project. This eligibility constraint will be strictly enforced to treat everyone fairly and consistently. If an individual exceeds this limit, any proposal submitted after the first proposal is received at NSF will be returned without review. No exceptions will be made.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

@@ -12,3 +12,162 @@ Status: Cleared
 Posted date (Y-m-d): 2024-02-13
 URL: https://www.nsf.gov/funding/opportunities/mcb-division-molecular-cellular-biosciences-core-programs/nsf24-539
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Division of Molecular and Cellular Biosciences Core Programs (MCB)
+
+I. Introduction
+
+The Division of Molecular and Cellular Biosciences (MCB) prioritizes research that yields mechanistic insights into fundamental and emergent properties of living systems and leads to quantitative and predictive understanding of how life works at the molecular and cellular scale. MCB encourages projects that combine experimental, computational, and theoretical approaches in inventive ways to solve new or long-standing biological questions. MCB also encourages interdisciplinary research that draws on knowledge from and interfaces with other biological sub-disciplines or other disciplines such as chemistry, computer science, mathematics, physics, and engineering. Proposals that pursue potentially transformative ideas are welcome, even if these entail higher risk.
+
+Together, the core programs (clusters) in MCB support a wide range of research areas pertaining to the structure, function, and evolution of molecular, sub-cellular, and cellular systems. Each cluster has a distinct thematic focus, but all of them place a high priority on projects that:
+
+Integrate across scales: Connecting knowledge across spatiotemporal scales involving single molecules, macromolecular assemblies, molecular networks, and cellular processes for an integrative understanding of the molecular and cellular basis of life.
+
+Investigate molecular and cellular evolution: Discovering mechanisms, theoretical underpinnings, and consequences of evolutionary changes in molecules, genomes, and cells of all types, including bacteria, archaea, and eukaryotes, and their phages/viruses.
+
+Synergize experimental research with computational or mathematical modeling: Combining experiments and modeling for a predictive, systems-level understanding of the workings of molecular, sub-cellular, and/or cellular assemblies.
+
+Develop innovative methods and technologies: Creating innovative tools that are motivated by compelling biological questions at molecular and cellular scales and that have the potential for opening new avenues of inquiry.
+
+MCB recognizes that fundamental knowledge of the molecular and cellular principles and processes of life has many potential applications to societal needs. Investigators are encouraged to consider how their basic research might relate to use-inspired goals and outcomes with broad impacts. Use of convergence research approaches for addressing pressing societal concerns is welcome.
+
+II. Program Description
+
+MCB is organized into four broad scientific areas represented by core programs (clusters) that welcome proposals in the following topic areas: (i) structure, dynamics, and function of biomolecules and supra-molecular assemblies, especially under physiological conditions (Molecular Biophysics); (ii) organization, processing, expression, regulation, and evolution of genetic and epigenetic information (Genetic Mechanisms); (iii) cellular structure, properties, and function across broad spatiotemporal scales (Cellular Dynamics and Function); and (iv) systems and/or synthetic biology to study complex interactions through modeling or manipulation or design of living systems at the molecular-to-cellular scale (Systems and Synthetic Biology).
+
+Links to the websites of each cluster (listed alphabetically below) provide information on the current interests and funding priorities of each cluster, as well as contact information for associated Program Directors. Prospective PIs are strongly encouraged to consult with a Program Director most closely related to their research area for help with any questions, for example, about the potential fit of a project to a cluster.
+
+Cellular Dynamics and Function (CDF)
+
+Genetic Mechanisms (GM)
+
+Molecular Biophysics (MB)
+
+Systems and Synthetic Biology (SSB)
+
+MCB welcomes projects that bridge the intellectual edges of more than one cluster within the division. Also, MCB seeks to foster cross-disciplinary research with the other BIO divisions — Integrative Organismal Systems, Environmental Biology, and Biological Infrastructure — and with programs in other directorates, such as in the Division of Chemical, Bioengineering, Environmental, and Transport Systems in the Directorate for Engineering and the Chemistry of Life Processes, Mathematical Biology, and Physics of Living Systems programs in the Directorate for Mathematical and Physical Sciences, among others. PIs are encouraged to explore all relevant areas within NSF and to contact the appropriate Program Directors with any questions.
+
+Expanding research capacity of investigators and organizations in EPSCoR jurisdiction in the molecular and cellular biosciences (EXPAND MCB in EPSCoR)
+
+The EXPAND MCB in EPSCoR track encourages collaborations between researchers based in EPSCoR jurisdictions with partners who have unique expertise or access to more advanced infrastructure as a means to expand the capacity of investigators and organizations in EPSCoR jurisdictions to perform the highest caliber research in areas of priority to MCB. The investigator in the EPSCoR jurisdiction must lead the collaboration. They may collaborate with a researcher at another organization in an EPSCoR jurisdiction, or with a researcher outside of EPSCoR jurisdictions.
+
+The EXPAND MCB in EPSCoR pilot track supports the NSF goal of increasing participation of all members of society in the scientific enterprise through research. It aligns specifically with the NSF priority of creating opportunities everywhere and intent of the Chips and Science Act of 2022 to increase NSF funding in EPSCoR jurisdictions. EXPAND MCB in EPSCoR proposals should have at their core a clear vision and compelling research plan that aligns with MCB priorities and advances the shared research goals of both collaborators. The collaborative activities must be designed to expand research and training capabilities at the lead organization in the EPSCoR jurisdiction. Capacity building activities can include knowledge transfer via personnel exchanges, sharing access to advanced technologies and other resources, and any such efforts that result in long-term benefits to the EPSCoR jurisdiction investigator and organization. EXPAND MCB in EPSCoR proposals are expected to have strong broader impacts, for example by improving EPSCoR organization research infrastructure or enhancing student training. By increasing participation in and support for molecular and cellular biosciences research at EPSCoR organizations, the EXPAND MCB in EPSCoR track aims to increase their competitiveness for future funding opportunities.
+
+To be responsive to the EXPAND MCB in EPSCOR track, proposals must:
+
+Involve a collaboration between a lead investigator in an EPSCoR organization and an investigator at another organization within or outside of EPSCoR jurisdictions. The budget for the lead organization must exceed the budget for any collaborating non-lead organization.
+
+Have a compelling research focus that is responsive to MCB priorities and synergizes the research interests and strengths of the collaborators.
+
+Include a capacity building plan, as part of the Broader Impacts section of the Project Description, that leads to long-term benefits for the lead investigator and/or the lead organization.
+
+Include a plan for broader impacts that leverages the capacity building nature of the EXPAND MCB in EPSCoR track.
+
+Proposals submitted to the EXPAND MCB in EPSCoR track should have titles that begin with the designation "EXPAND:"
+
+Integrative Research in Biology (IntBIO) Track
+
+The Integrative Research in Biology (IntBIO) Track invites submission of collaborative proposals to tackle bold questions in biology that require an integrated approach to make substantive progress. Integrative biological research spans sub-disciplines and incorporates cutting-edge methods, tools, and concepts from each to produce groundbreaking biological discovery that is synergistic, such that the whole is greater than the sum of the parts. The research should produce a novel, holistic understanding of how biological systems function and interact across different scales of organization, e.g., from molecules to cells, tissues to organisms, species to ecosystems and the entire Earth. Where appropriate, projects should apply experimental strategies, modeling, integrative analysis, advanced computation, or other research approaches to stimulate new discovery and general theory in biology.
+
+Proposals submitted to the IntBIO Track must span sub-disciplinary boundaries within the BIO Directorate. Projects suitable for review in a single existing BIO program should be submitted to that program and not to the IntBIO track.
+
+Proposers are strongly encouraged to contact the cognizant program director(s) representing the relevant sub-disciplines prior to submission to obtain advice on suitability of the project idea for the IntBIO Track.
+
+To be responsive to the IntBIO track, proposals must:
+
+Articulate a fundamental overarching biological question or technical challenge that is addressed either through a bold, integrative hypothesis- or question-driven research, and that aims to produce outcomes that are synergistic with various biological sub-disciplines and have potential to reveal new principles underlying function or interaction of biological systems.
+
+Include a graphical illustration that effectively conveys how integration will be accomplished through interconnection among sub-disciplines, elements, or systems and how integrated strategies will lead to a synergistic outcome.
+
+Have an optimally configured collaborative investigative team that includes two or more investigators with different perspectives and expertise. The role of each team member must be clearly described and justified. Team members may be from a single organization or multiple organizations.
+
+Describe a training and education plan, as part of broader impacts, that involves training in integrative approaches to biological research.
+
+The IntBIO Track is common to each of the core research program solicitations in the Divisions of Environmental Biology, Integrative Organismal Systems, and Molecular and Cellular Biosciences. Proposals should be submitted to a program in one of these divisions. Proposals submitted to this track will be evaluated by co-review or joint review across two or more of these BIO programs. Proposal titles should start with the designation " IntBIO: "
+
+Other Opportunities for Funding in MCB
+
+International Collaborative Proposals . MCB continuously considers how best to expand knowledge and enable investigators to leverage expertise and investments globally to push the frontiers of molecular and cellular biosciences. As such, MCB engages in several international agreements to provide funding for collaborative international projects. Core programs will accept proposals for international collaborative research via any one of several country-specific agreements that allow for a single review process between NSF and the relevant international partner. These opportunities are announced through Dear Colleague Letters.
+
+Transitions to Excellence in Molecular and Cellular Biosciences Research ( Transitions ) . This program supports mid-career or later-stage researchers (Associate or Full Professor, or equivalent) to pursue new and potentially transformative avenues of inquiry through a transition in their current research program. The Transitions program offers investigators support for sabbaticals or other forms of professional development during the first year and for developing the new research direction(s) in their own laboratory during two additional years.
+
+Foundation- and Directorate-Wide Activities
+
+In addition to the regular research proposals sought under this solicitation, the clusters/programs support a variety of other Foundation-wide and Directorate-wide activities:
+
+Faculty Early Career Development Program (CAREER) proposals may be submitted to any of the clusters/programs described in this solicitation but must be submitted by the deadlines listed in the CAREER solicitation and follow the proposal preparation guidance in that solicitation.
+
+Mid-Career Advancement program (MCA) proposals may be submitted to any of the clusters/programs described in this solicitation but must be submitted by the submission window for the MCA program. This is another opportunity available to mid-career researchers to advance their career trajectory.
+
+Research Coordination Networks (RCN), and Research at Undergraduate Institutions (RUI) proposals may be submitted at any time, to any of the clusters/programs described in this solicitation but must follow the proposal preparation guidance in those solicitations.
+
+This solicitation will accept Renewal and Accomplishment Based Renewal (ABR) Proposals. Information on eligibility, scope, and format for Renewal and ABR submissions can be found in the PAPPG. If you are considering an ABR submission you are strongly advised to contact a Program Officer prior to submission.
+
+Grants for Rapid Response Research (RAPID), Early-concept Grants for Exploratory Research (EAGER), Research Advanced by Interdisciplinary Science and Engineering (RAISE), Grant Opportunities for Academic Liaison with Industry (GOALI), Planning proposals, and proposals for Travel or Conferences support, including workshops, can be submitted at any time to any of the clusters/programs described in this solicitation. These types of proposals should be submitted in accordance with the guidance in the PAPPG. Conference/Workshop/Travel proposals should be submitted at least 6 months before the start date of the conference or workshop in accordance with guidance in the PAPPG and on in the Additional Resources section of the MCB website; you are strongly advised to contact a Program Officer prior to submission. Note that for RAPID, EAGER, RAISE, or Planning proposals, a concept outline must be submitted prior to submission of a full proposal with approval from an MCB Program Director from the cluster covering the research area of the proposal.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 120
+
+Anticipated Funding Amount: $110,000,000
+
+$110M will be committed for the total budget of all new awards in each fiscal year.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

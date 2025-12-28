@@ -21,3 +21,136 @@ Status: Cleared
 Posted date (Y-m-d): 2024-11-01
 URL: https://www.nsf.gov/funding/opportunities/hegs-human-environment-geographical-sciences-program/nsf25-507
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Human-Environment and Geographical Sciences Program (HEGS)
+
+I. Introduction
+
+The objective of the Human-Environment and Geographical Sciences program is to support basic scientific research about the nature, causes, consequences, or evolution of the spatial dimensions of human behaviors, activities, and dynamics as well as their interactions with environmental and social processes across a range of scales. Contemporary geographical research encompasses diverse research traditions and methodologies. Recognizing the breadth of the field's contributions to science, the HEGS program welcomes proposals for empirically grounded, theoretically engaged, methodologically rigorous, and generalizable research that advances geographical and geospatial sciences.
+
+To advance these priorities, the HEGS Program supports multiple types of proposals. This solicitation provides additional guidance on the following proposal categories:
+
+Senior Research Proposals
+
+Faculty Early Career Development (CAREER) Program Proposals
+
+Research Coordination Networks (RCN)
+
+Proposals for conferences and research community development activities
+
+Research Experiences for Undergraduates (REU) and Research Experiences for Graduate Students (REG) Supplemental Funding Requests
+
+Transdisciplinary REsearch in Environmental Social Science (TREES)
+
+The above list encompasses the proposal categories that are most commonly submitted to the HEGS program. In some cases, the program also administers the merit review process of proposals submitted in response to other solicitations, including Research in Undergraduate Institution (RUI) proposals. Principal investigators may contact the program officers for guidance on which proposal type might align best with their research objectives.
+
+The HEGS program may also consider proposals for principal investigators' methodological training or for pilot studies and other preliminary research that facilitate subsequent efforts. When these proposals include budget requests less than $100,000, expedited review processes may be possible. These proposals are submitted via standard mechanisms (i.e., as senior research proposals that follow programmatic deadlines for submissions), and the program may elect to initiate either internal or external merit review processes for these proposals.
+
+Supplements to current awards are also possible, contingent on the availability of programmatic funding. There are two broad categories for supplemental funding requests submitted to HEGS. First, as outlined in the PAPPG, small amounts of supplemental funding and up to six months of additional support may be requested to assure adequate completion of the original scope of work. Second, supplements may be requested to realize broader impacts, particularly for the goal of broadening participation in science that could not be anticipated when the proposal was submitted. The HEGS program welcomes supplemental funding requests for Research Opportunity Awards (ROA) to support meritorious research activities by faculty members at predominantly undergraduate institutions. The program also welcomes requests to support student involvement in research, including Research Experiences for Undergraduates (REU). The students do not need to be enrolled at the principal investigator's institution, and requests that broaden participation in science are particularly encouraged. For all supplemental funding inquiries, principal investigators should consult with HEGS program officers before submitting a formal request.
+
+II. Program Description
+
+To advance programmatic objectives, the HEGS program most commonly reviews the following types of proposals. The program also welcomes resubmissions of previously declined proposals, though a proposal that has not been substantially revised will be returned without review as per the PAPPG. Also, as outlined in the PAPPG, proposal submissions will not be accepted if they duplicate or substantially resemble a proposal that is already under consideration by NSF from the same submitter.
+
+Senior Research Proposals
+
+The most common proposal type, the "senior" designation encompasses researchers who have a PhD or equivalent qualifications sufficient to enable independent research. A proposed project may include either a single researcher or a research team comprising a principal investigator along with co-principal investigators, other senior/key personnel, post-doctoral researchers and other personnel (including specialists from other disciplines and other countries) as needed for the scope of the research. Proposals may request up to 48 months of funding. In general, budget requests from the HEGS program are typically, but not exclusively, in the range of $100,000 to $500,000, inclusive of indirect costs. Budgets must be commensurate with proposed activities and must directly support the objectives of the research. Budget requests are reviewed carefully at all stages of the evaluation process, and proposals with budgets that are justified and appropriate to the scope of the project are prioritized. Submitters of proposals are encouraged to consult the NSF awards database for perspective on the range of budget requests that characterize the program. Awards that are co-funded by other NSF programs may depart from standard budgetary guidelines; co-reviewing programs may be requested by principal investigators at the time of submission.
+
+Faculty Early Career Development Program (CAREER) Proposals
+
+The HEGS program welcomes CAREER proposals from early-career researchers who meet the eligibility requirements of the NSF-wide CAREER program. Proposals should articulate the scientific objectives of the project and anticipated products while also describing how an award will set a trajectory for continued, related research after the funded activities have concluded. As noted in the CAREER solicitation, proposals must also include an educational component, and the HEGS program suggests that this component should creatively encompass more than conventional curricular development and pedagogy. Budget requests must range between a minimum of $400,000 and a maximum of $450,000.
+
+Research Coordination Networks (RCN)
+
+Research Coordination Networks are an NSF-wide program, designed to catalyze new collaborations, typically with an interdisciplinary orientation. Proposals to the HEGS program must substantiate the novelty of the collaboration and the ways in which the funded activities will result in lasting impacts on the proposed research themes. The HEGS program suggests the involvement of diverse collaborators in multiple dimensions, including career stage, geographic, institutional, and disciplinary diversity. Proposed activities should encompass infrastructural investments, broadly defined, which will facilitate future collaborative opportunities. Proposals that request support primarily for workshops and meetings should instead be submitted as conference proposals. The maximum budget request for RCN proposals submitted to HEGS is $350,000.
+
+Conference Proposals
+
+The HEGS program supports conferences that are thematically organized around HEGS research topics. Although conference proposals may be submitted at any time, proposals should typically be submitted at least 12 months in advance of the proposed event, and typically proposals should prioritize the active involvement of early-career researchers and groups that are underrepresented in the field. Conference proposals should follow the guidelines in the PAPPG. In general, the maximum budget request is $50,000, though principal investigators may communicate with program officers in exceptional circumstances where moderately larger budgets may be justifiable. Previous funding for a conference does not assure continuous funding.
+
+Transdisciplinary REsearch in Environmental Social Science (TREES) proposals
+
+The science of socio-environmental systems involves the integration of social science and environmental science, but TREES projects must specifically result in advances in social and behavioral sciences to understand the complex interactions between people and the environment. TREES projects should pose research questions that will advance theory both in the science of socio-environmental systems and basic human-environmental and geographical sciences (HEGS). TREES proposals that are oriented toward contributions to anthropological science may be submitted to the Cultural Anthropology Program.
+
+For TREES proposals, transdisciplinary research teams are encouraged to incorporate diverse disciplinary perspectives that are necessary for an integrated science of social and environmental systems. Proposals that include plans for multi-method analysis should demonstrate how findings will be synthesized across different approaches.
+
+The TREES track is open to a broad range of research questions and methodological approaches. Researchers submitting to this track are encouraged to consider innovative research designs that integrate complementary sources of data and analytical approaches, potentially at multiple spatial, temporal, or organizational scales of analysis.
+
+The duration of funded TREES awards is generally expected to be three or four years. Requested budgets should be commensurate with the proposed activities and will typically not exceed an average range of $200,000 to $250,000 per year across the requested award duration.
+
+TREES proposals will be evaluated by review panels composed of interdisciplinary scholars with diverse expertise in social, behavioral, and environmental sciences.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 15 to 25
+
+HEGS generally recommends a total of 15 to 25 senior research awards; 0 to 2 faculty early-career development (CAREER) awards; 0 to 3 awards to support conferences; 0 to 1 research coordination network (RCN) awards.
+
+Anticipated Funding Amount: $7,000,000
+
+Pending the availability of funds and quality of proposals.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+State and Local Governments
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

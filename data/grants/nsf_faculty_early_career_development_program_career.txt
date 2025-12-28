@@ -11,3 +11,100 @@ Status: Cleared
 Posted date (Y-m-d): 2022-04-13
 URL: https://www.nsf.gov/funding/opportunities/career-faculty-early-career-development-program/nsf22-586
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Faculty Early Career Development Program (CAREER) Includes the description of the NSF component of the Presidential Early Career Awards for Scientists and Engineers (PECASE)
+
+I. Introduction
+
+This program is a Foundation-wide activity that offers the National Science Foundation's most prestigious awards for faculty members beginning their independent careers. The intent of the program is to provide stable support at a sufficient level and duration to enable awardees to develop careers not only as outstanding researchers but also as educators demonstrating commitment to teaching, learning, and dissemination of knowledge. NSF encourages submission of CAREER proposals from eligible early-career faculty at all CAREER-eligible organizations, especially women, members of underrepresented minority groups, and persons with disabilities.
+
+II. Program Description
+
+A. CAREER Program
+
+This premier program emphasizes the importance the Foundation places on the early development of academic careers dedicated to stimulating the discovery process in which the excitement of research is enhanced by inspired teaching, enthusiastic learning, and disseminating new knowledge. Effective integration of research and education generates a synergy in which the process of discovery stimulates learning, and assures that the findings and methods of research and education are quickly and effectively communicated in a broader context and to a large audience.
+
+The CAREER program embodies NSF’s commitment to encourage faculty and academic institutions to value and support the integration of research and education. Successful Principal Investigators will propose creative, effective research and education plans, developed within the context of the mission, goals, and resources of their organizations, while building a firm foundation for a lifetime of contributions to research, education, and their integration.
+
+Integration of Research and Education - All CAREER proposals should describe an integrated path that will lead to a successful career as an outstanding researcher and educator. NSF recognizes that there is no single approach to an integrated research and education plan, but encourages all applicants to think creatively about the reciprocal relationship between the proposed research and education activities and how they may inform each other in their career development as both outstanding researchers and educators. These plans should reflect the proposer's own disciplinary and educational interests and goals, as well as the needs and context of his or her organization. Because there may be different expectations within different disciplinary fields and/or different organizations, a wide range of research and education activities may be appropriate for the CAREER program. In addition, NSF recognizes that some investigators, given their individual disciplinary and career interests, may wish to pursue an additional activity such as entrepreneurship, industry partnerships, or policy that enhances their research and education plans. Proposers are encouraged to communicate with the CAREER contact or cognizant Program Officer in the Division closest to their area of research to discuss the expectations and approaches that are most appropriate for that area (see https://www.nsf.gov/crssprgm/career/contacts.jsp for a list of CAREER contacts by division).
+
+B. Presidential Early Career Award for Scientists and Engineers (PECASE)
+
+The Presidential Early Career Award for Scientists and Engineers (PECASE) is the highest honor bestowed by the United States Government on outstanding scientists and engineers beginning their independent research careers. Selection for this award is based on two important criteria: The criteria are 1) performance of innovative research at the frontiers of science, engineering, and technology that is relevant to the mission of the sponsoring organization or agency; and 2) community service demonstrated through scientific leadership, education or community outreach. These awards foster innovative developments in science and technology, increase awareness of careers in science and engineering, give recognition to the scientific missions of the participating agencies, enhance connections between fundamental research and national goals, and highlight the importance of science and technology for the Nation’s future. Please note that individuals cannot apply for a PECASE. Rather, these awards are initiated by participating federal agencies. At NSF, up to twenty-six nominees for this award are selected each year from among recent CAREER awardees deemed most likely to become the leaders of academic research and education for the twenty-first century. The White House Office of Science and Technology Policy (OSTP) makes the final selection and announcement of the awardees. As all NSF PECASE awardees are also CAREER awardees, no additional funds will be allocated when the PECASE is announced.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 500
+
+per year
+
+Anticipated Funding Amount: $250,000,000
+
+This annual amount is approximate, includes new and continuing increments, and is subject to availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research labs, professional societies and similar organizations in the U.S. associated with educational or research activities.
+
+Who May Serve as PI:
+
+A Principal Investigator (PI) may submit only one CAREER proposal per annual competition. In addition, a Principal Investigator may not participate in more than three CAREER competitions. Proposals that are not reviewed (i.e., are withdrawn before review or are returned without review) do not count toward the three-competition limit.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+An eligible Principal Investigator may submit only one CAREER proposal per annual competition. No co-PIs are permitted.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

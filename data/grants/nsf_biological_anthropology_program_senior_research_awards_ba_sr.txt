@@ -10,3 +10,238 @@ Status: Cleared
 Posted date (Y-m-d): 2022-10-11
 URL: https://www.nsf.gov/funding/opportunities/ba-sr-biological-anthropology-program-senior-research-awards/nsf23-503
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Biological Anthropology Program Senior Research Awards (BA-SR)
+
+I. Introduction
+
+Three anthropological science programs, Archaeology, Biological Anthropology and Cultural Anthropology, are housed in the Division of Behavioral and Cognitive Sciences, part of NSF’s Social, Behavioral and Economic Sciences Directorate. As a group, these programs support basic research that advances anthropological theory, expands our understanding of human cultural and biological variation in the past and present and informs contemporary efforts to improve the human condition. The Biological Anthropology Program focuses specifically on processes that have shaped biological diversity in humans and their living and fossil primate relatives, through support of multifaceted, fundamental research on human and primate evolution, biological variation and adaptation, and interactions between biology, behavior and culture. This solicitation provides instructions and details (supplementary to the PAPPG) for preparation of proposals submitted to the Biological Anthropology Program, except for Biological Anthropology Doctoral Dissertation Research Improvement Grants .
+
+II. Program Description
+
+The Biological Anthropology Program supports a multifaceted portfolio of research on humans and their living and fossil primate relatives that 1) demonstrates engagement with biological anthropological and evolutionary theory, 2) includes diverse, often interdisciplinary methods in field, laboratory and computational settings, 3) encompasses multiple levels of analysis (e.g., molecular, organismal, population, ecosystem) and time scales from the short-term to evolutionary and 4) considers the ethical implications and societal impacts of the research.
+
+Proposals with a biocultural or bioarchaeological orientation may be appropriate for co-review with the Cultural Anthropology or Archaeology Programs. The Biological Anthropology Program also serves as a bridge within NSF between the social and behavioral sciences and the natural and physical sciences. Co-review may be requested by the PI but ultimately is at the discretion of the participating programs.
+
+NSF does not support research on the etiology, diagnosis or treatment of disease; research focused on basic ecological, biological and behavioral processes that underlie health and disease in humans and non-human primates, however, may be eligible for support in the Biological Anthropology Program. The program does not support applied forensic anthropology research, but projects that demonstrate substantial theoretical or methodological engagement with both bioarchaeology and forensic anthropology may be eligible for support.
+
+The program encourages PIs to consider the full scope of ethical implications that their proposed research has on individuals, communities, environments and the scientific enterprise. The program also supports a wide range of broader impact activities as part of research grants, including research outcomes with inherent benefit to society, efforts to broaden participation in STEM research, training and outreach activities and other evidence-based activities developed within the context of the mission, goals, and resources of the organizations and people involved. The program encourages the use of secondary data in research projects where appropriate. Examples of secondary data sources can include, but are not limited to, shared data resources, such as open-access data repositories, databases, and registries, as well as datasets from ongoing studies and publications.
+
+A list of recent awards made by the program demonstrates the range of sub-fields, methods and topics typically supported by the program. If a researcher is unsure whether the Biological Anthropology Program and NSF more broadly are appropriate for a proposal topic, they are encouraged to email a one-page summary of their project to the program officer(s) prior to a proposal submission.
+
+Additional Relevant Funding Opportunities The NSF Biological Anthropology Program supports multiple types of proposals:
+
+Senior Research Proposals
+
+Conference/Workshop Proposals
+
+Scholars Proposals and Mid-Career Advancement (MCA) Proposals
+
+Facilitating Community-Engaged Research Proposals and Supplemental Funding Requests
+
+Research Experiences for Post-Baccalaureates Supplemental Funding Requests
+
+Research Experiences for Undergraduates (REU) Supplemental Funding Requests
+
+Non-Academic Research Internships for Graduate Students (INTERN) Supplemental Funding Requests
+
+Faculty Early Career Development (CAREER) Program Proposals
+
+Facilitating Research at Primarily Undergraduate Institutions: Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA) Proposals and Supplemental Funding Requests
+
+Research Coordination Network Proposals
+
+High Risk Research in Biological Anthropology and Archaeology (HRRBAA) Proposals
+
+Rapid Response Research (RAPID) Proposals
+
+Early-concept Grants for Exploratory Research (EAGER) Proposals
+
+Research Advanced by Interdisciplinary Science & Engineering (RAISE) Proposals
+
+This list does not exhaust the full range of types of proposals described in Chapter II of the PAPPG . Rather, these are the types that may be most relevant for proposals submitted to the Biological Anthropology Program. Researchers are always welcome to consult with program officers about which NSF mechanisms and programs might best serve their research needs.
+
+Research Proposals Most faculty-level proposals submitted to the Biological Anthropology Program are “standard” research proposals. A project can be proposed to be carried out by a single researcher or a research team comprising a principal investigator along with co-principal investigators, other senior/key personnel, postdoctoral researchers, or other personnel (including specialists from other disciplines and other countries) as needed for the conduct of the research.
+
+Specific guidelines on proposal preparation are described in the PAPPG. Note that for collaborative projects across institutions, the Biological Anthropology program allows researchers to submit a single proposal with subawards or a collaborative proposal submitted as separate submissions from multiple organizations.
+
+Typical award sizes for the program are included in descriptions of recent awards . There is no award ceiling, but please be advised that a typical research award in the Biological Anthropology Program is in the range of $200,000-$600,000 total budget, inclusive of indirect costs. Most projects are scoped to a three-year duration and related expenses. Requested costs must relate directly to the aims of the research; the PAPPG describes allowable and unallowable costs.
+
+Conference Proposals The Biological Anthropology Program supports thematic conferences or workshops designed to highlight broadly relevant disciplinary or interdisciplinary research gaps and needs, future research priorities, innovations and grand challenges. The program does not support gatherings whose purpose is primarily to convey the results of completed research. The program encourages hybrid or virtual conferences when appropriate, as well as the inclusion of postdoctoral researchers, graduate students and members of groups underrepresented in anthropology and STEM as active conference participants.
+
+Researchers must contact the program officers prior to submitting a conference proposal. Conference proposals should generally be submitted a year in advance of the proposed event. While conference proposals may be submitted at any time, the program may elect to have them reviewed by review panels along with research proposals submitted to the regular submission windows. Please consult Chapter II.E of the PAPPG for information about preparing and submitting conference proposals, including a list of required elements and budget exclusions, while keeping in mind the Biological Anthropology Program's specific interests and limitations.
+
+Biological Anthropology Program conference support is typically in the range of $20,000 to $50,000, inclusive of indirect costs. We encourage seeking support from multiple agencies and organizations.
+
+Scholars Proposals The Biological Anthropology Scholars Awards support specialized methodological training for post-PhD biological anthropologists who have active research programs that would be enhanced by such training. The goal of the program is to improve anthropological research skills by affording researchers the opportunity to undertake training not normally available on their home campuses. Support may be requested to learn any methodological skill that will advance the research agenda, as justified in the proposal with reference to results from prior work.
+
+Mid-career researchers are eligible to apply for a related but separate cross-directorate program, Mid-Career Advancement .
+
+Please note that Biological Anthropology Scholars Awards are training projects, not research awards. The proposal must include a detailed study plan that indicates sponsorship by a senior expert (who should not have been involved with the proposer's Ph.D.), with whom the proposer will study and/or who will supervise the planned program of study. A signed statement affirming sponsorship must be included in the proposal (as a supplementary document). Proposals should show how this additional expertise would improve the proposer's ability to do research by referring to specific ongoing research projects and publications. Requests for support of a general upgrading of quantitative or methodological skills, for coursework routinely available on university campuses or for language training, will not be successful. Scholars proposals should be submitted in accordance with the PAPPG requirements to the Biological Anthropology submission window dates. Proposals are reviewed alongside other senior proposals in the Biological Anthropology program.
+
+Scholars Awards have a ceiling of $75,000 and a maximum duration of 36 months. They may include requests for summer salary, academic year release time, per diem, travel, equipment, supplies and other training expenses, as well as applicable indirect costs.
+
+Facilitating Community-Engaged Research Funding Requests Funds for developing community-engaged research can be requested as a supplement to an active award or as a proposal for a stand-alone engagement effort prior to the submission of a standard proposal, in order to support mutually beneficial and respectful interactions that not only produce meaningful research and education or outreach outcomes but also focus on the concerns of partnering communities, including questions of data sovereignty, co-authorship or co-review of project outcomes.
+
+Researchers interested in this opportunity must contact the Biological Anthropology program officers to discuss proposed activities and budget requirements. The proposal or supplemental funding request must describe the personnel and activities that will be conducted as part of the engagement process and the anticipated direction of research activities. Costs may relate to travel, meetings, and other activities directly related to establishing and maintaining the engagement process. Community engagement proposals should be submitted in accordance with the PAPPG requirements to the Biological Anthropology submission window dates and are reviewed alongside other senior proposals in the Biological Anthropology program. Supplemental funding requests can be submitted at any time and should be prepared and submitted in accordance with the guidance in PAPPG Chapter VI.E.
+
+Research Experiences for Post-Baccalaureates PIs of existing NSF awards may submit supplemental funding requests for one post-baccalaureate individual to obtain anthropological research experiences that will augment their preparation for graduate school admission or other STEM career opportunities. A post-baccalaureate student is defined as an individual who has a bachelor's degree but is not currently enrolled in another degree program. The Biological Anthropology Program is particularly interested in increasing the participation of post-baccalaureate individuals from underrepresented groups in anthropology and STEM who desire to engage in research or who want to pursue a career in STEM but did not have the opportunity to begin or complete a research experience as an undergraduate student. Examples of such experiences include, but are not necessarily limited to, training in field research (e.g., primatology, paleoanthropology, human biology) or in specialized laboratory methods. PIs must provide the participant(s) with an independent but guided research project and professional development. Ideally, participants will be involved in the development of their research project. PIs are expected to provide training in ethics and the responsible conduct of research and to inform participants of institutional policies or code of conduct on sexual harassment.
+
+Researchers must contact the Biological Anthropology program officers prior to submitting a supplemental funding request. A supplemental funding request must include a PI statement of no more than two pages that describes the participant's involvement in the research project, the mentoring plan for the participant, including any professional development activities, and information on the recruited participant, including a brief biographical sketch. The statement should also describe how the proposed program would contribute to the participants' long-term career goals and how the supplemental funding will serve to broaden participation. Supplemental funding requests can be submitted at any time and in accordance with the guidelines found in Chapter VI.E of the PAPPG .
+
+The Biological Anthropology Program will consider funding requests for up to three months and $8,000 for a post-baccalaureate individual, to support the costs of the individual’s training through an NSF-funded research project. Person-related participant support costs can include a stipend (recommended at $650/week for full-time participation) and, as appropriate, fringe benefits and travel. NSF expects that participant costs are included under the participant support costs category (Line F) in the budget. A modest amount for materials and supplies can be requested and should be included on line G1 in the budget. All costs should be clearly explained in the budget justification. Indirect costs should be calculated only on the amount listed on line G1.
+
+Research Experiences for Undergraduates (REU) Supplemental Funding Requests An REU supplement usually provides support for one or two undergraduate students to participate in research as a part of a new or ongoing NSF-funded research project. The student's research must be their own research project within the PI’s larger research program; these supplements are not intended to support clerical or research assistance to the PI. For REU requests submitted to the Biological Anthropology Program, proposers are advised that the PI should be a post-PhD anthropologist who holds existing NSF award(s).
+
+REU requests generally should be submitted as part of a senior research proposal; post-award supplemental funding is intended only for unanticipated opportunities that arise during the course of the project. Researchers must contact the Biological Anthropology program officers prior to submitting a supplemental request. See the REU Sites and Supplements guidelines for additional details. Supplemental funding requests can be submitted at any time.
+
+The Biological Anthropology Program will consider REU funding requests for up to $6000 per student and no more than two students per year, to support the cost of the student's independent research activity.
+
+Non-Academic Research Internships for Graduate Students (INTERN) Supplemental Funding Opportunity The INTERN program at NSF offers graduate students who are currently funded on an NSF award the opportunity to pursue research experiences in non-academic settings that will augment their graduate studies. For Biological Anthropology, this may involve experiences at other government agencies, corporations, nonprofit and nongovernmental organizations, science communication organizations or museums, among many other possibilities. The experience should augment but not be part of the student’s master’s or dissertation research. Researchers should contact the Biological Anthropology program officers prior to submitting a supplemental request. See the INTERN announcement for additional details.
+
+For Biological Anthropology, PIs may request up to $55K total costs and one 6-month period for a given student.
+
+Faculty Early Career Development (CAREER) Program Proposals The NSF Biological Anthropology Program participates in the NSF-wide CAREER Program for junior faculty (untenured but tenure-track or equivalent). CAREER proposals have a maximum duration of five years. In addition to research costs, proposers may include expenses for specialized training to enhance the research and their future professional trajectory. CAREER proposals also must have an educational component; the Biological Anthropology Program suggests that this component be integrated with the research, either in the field or at the home institution.
+
+Researchers who want to submit CAREER proposals should consult the CAREER-specific guidelines for eligibility information, allowable costs, submission deadlines (which are different than Biological Anthropology proposals) and other CAREER Program requirements. CAREER proposals that are submitted to the Biological Anthropology program are reviewed during the fall review cycle; a PI may not submit both a CAREER and a Senior Research proposal in the same cycle.
+
+Unlike standard research proposals, the minimum CAREER award is $400,000. CAREER award sizes in Biological Anthropology typically range from $400,000-$600,000.
+
+Facilitating Research at Primarily Undergraduate Institutions: Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA) The Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA) funding opportunities support research by faculty members at predominantly undergraduate institutions (PUIs). RUI proposals support PUI faculty in research that engages them in their professional field(s), builds capacity for research at their home institution and supports the integration of research and undergraduate education. ROAs similarly support PUI faculty research, but these awards typically allow faculty to work as visiting scientists at research-intensive organizations where they collaborate with other NSF-supported investigators.
+
+RUI proposals are reviewed alongside other senior proposals in the Biological Anthropology program. Please refer to the RUI guidelines for additional details on submission requirements. For questions about the ROA supplement opportunity, please contact the Biological Anthropology program officer(s).
+
+Research Coordination Network (RCN) Proposals The Biological Anthropology Program supports the "general" track of the NSF-wide Research Coordination Networks (RCN) program . RCN awards are intended to advance research directions by supporting new, thematically focused collaborations of researchers to communicate and coordinate research, training and educational activities across disciplinary, organizational, geographic and international boundaries. RCN awards do not support primary research, existing research networks, ongoing collaborations or collaborations at a single institution. Instead, they are intended to advance the creation of new collaborations, new fields, and new research directions.
+
+RCN proposals may request a maximum duration of 5 years and up to $500,000. They are reviewed alongside other senior proposals submitted to the Biological Anthropology Program. Researchers should follow the RCN Program guidelines .
+
+High-Risk Research In Biological Anthropology And Archaeology (HRRBAA) Much anthropological research is conducted in areas of the world where circumstances may exist that render access to data, research sites or other resources uncertain. To allow projects for which research outcomes are at risk for these or other reasons, Archaeology and Biological Anthropology programs have established the High-Risk Research in Biological Anthropology and Archaeology program (HRRBAA) .
+
+Researchers should refer to the separate HRRBAA guidelines and contact the Biological Anthropology program officers prior to submitting a HRRBAA proposal.
+
+PIs may apply for small awards (not to exceed $35,000 total costs and a one-year duration) to support pilot projects for proof of concept or proof of access.
+
+Rapid Response Research (RAPID) Proposals RAPID awards are to support urgent research. The urgency is that unanticipated research data would be lost if the researchers had to wait for the completion of a normal review cycle. This might be because of the unanticipated availability of access to rarely available phenomena, specialized equipment, research sites or specialized informants. RAPID support is often requested for quick-response research on natural or anthropogenic disasters and other unanticipated events. To be successful in obtaining RAPID support, investigators must convincingly argue that the particular situation to be investigated will produce data that are unlikely to be found in any other situation and that are essential for identified and important research questions. If the research is routine, failure to plan ahead is not sufficient rationale for RAPID support.
+
+Researchers must have prior approval from a Biological Anthropology program officer to submit a RAPID proposal to the program. In this initial email, proposers should briefly explain the data to be collected, why these data are scientifically important, an estimate of the needed budget and a timeline for the research. RAPID proposals are limited to 5 pages and only internal NSF review is required so funding can be made available relatively quickly. Please consult Chapter II.E of the PAPPG for further instructions on the preparation and submission of RAPID proposals.
+
+Please note that the Biological Anthropology Program rarely supports RAPID budgets over $30,000, which is less than the maximum allowed by the PAPPG. The maximum duration is 12 months.
+
+Early-Concept Grants for Exploratory Research (EAGER) Proposals The Biological Anthropology Program supports EAGER proposals for funding research on untested but potentially transformative research ideas and approaches.
+
+Researchers must have prior approval from a Biological Anthropology program officer to submit an EAGER proposal. The EAGER proposal type should not be used for proposals that could be submitted to a regular competition, so the initial inquiry should explain carefully why the anticipated project fits the EAGER criteria. There are no deadlines, the project description is limited to no more than 8 pages, and only internal NSF review is required. Please consult Chapter II.E of the PAPPG for further instructions on the preparation and submission of EAGER proposals.
+
+The Biological Anthropology Program rarely supports EAGER budgets over $30,000, which is less than the maximum allowed by the PAPPG. The maximum duration is 24 months.
+
+Research Advanced by Interdisciplinary Science and Engineering (RAISE) Proposals The Biological Anthropology Program is willing to consider requests to submit a RAISE proposal. This type of proposal is for unusually bold, innovative, risky but potentially transformative and unconventionally interdisciplinary research (that is, bringing together disciplines that do not normally collaborate) for which there is no other appropriate NSF program. Projects that typically would be co-reviewed by core programs are not appropriate for RAISE.
+
+Researchers interested in this type of proposal must consult with and receive the written support from program officers in two distinct NSF programs (usually in different directorates) before being allowed to submit a RAISE proposal. There are no deadlines and review is internal. Please consult Chapter II.E of the PAPPG for further instructions on the preparation and submission of RAISE proposals.
+
+The maximum duration is 5 years and the maximum award is $1 million.
+
+Additional Program Considerations
+
+Broader Impact Activities The program supports a wide range of broader impact activities, and successful projects will include creative, well-integrated, effective, evidence-based broader impact activities developed within the context of the mission, goals and resources of the organizations and people involved. The expertise of collaborators, the proposal budget and the budget justification should reflect this integration. Example activities include but are not limited to those that create effective methods of science outreach and engagement with local communities or the public at large; translate research to benefit broader societal needs; involve early career researchers and students who are veterans, persons with disabilities or from other groups that are underrepresented in science, technology, engineering and mathematics (STEM); or foster new partnerships, including if focused on capacity building (e.g., with Minority Serving Institutions, two-year colleges or internationally). Additional guidance for broader impacts may be found in the PAPPG and in the Dear Colleague Letter: A Broader Impacts Framework for Proposals Submitted to NSF's Social, Behavioral, and Economic Sciences Directorate .
+
+Ethics Statement The field of biological anthropology aspires to continually improve the integration of ethical considerations and practices into research projects. Such considerations could relate to community-engaged research or co-production of knowledge with living populations (e.g., research participants, descendant communities), many of whom are underrepresented in the STEM research enterprise; environmental impact of research; use of vertebrate animals; collection and analysis of human skeletal and biological data; researcher safety; data archiving and sharing, and other issues. With this solicitation, the program is therefore instituting a requirement for an ethics statement of no more than two pages for all research proposals, where the PIs can summarize the most salient ethical issues raised by the research and how the research team is approaching them. This document provides space to discuss issues not addressed at length elsewhere in the proposal, as well as to refer to issues that are addressed in other parts of the proposal.
+
+Community Engagement in Research Community engagement refers to substantive interaction with community partner organizations and anchor institutions such as governments; federal, state and local agencies; schools, libraries, health and social service providers; tribes and Indigenous-serving organizations; nonprofits; cultural organizations; and businesses. Co-production of knowledge includes the integration of different knowledge systems and methodologies to systematically understand the phenomena, systems and processes being studied in a research project. A co-produced approach includes research in which local and Indigenous peoples and organizations fully engage in the complete research process cycle from the development of research questions to the collection, use and stewardship of data and the interpretation, application and dissemination of results.
+
+Proposals that include community engagement, partnerships with communities and international collaboration should either (1) have already established agreed-upon partnerships, documented with the appropriate letters of collaboration and budget allocations, or (2) provide a clear plan for community engagement and partnership building as part of the first year of the grant. Both options must follow best practices in community partnerships, especially if partnerships are to be established with underrepresented communities. Successful proposals will have the appropriate expertise on the PI’s team to conduct community-based research, participatory research or place-based research. Sufficient funding should be allocated in the budget to support mutually beneficial and respectful interactions that not only produce meaningful research and education or outreach outcomes, but also focus on the concerns of partnering communities, including questions of data sovereignty, co-authorship or co-review of project outcomes.
+
+Projects Involving Native, Tribal and Indigenous Communities Proposals that include research in Native or Tribal communities or on Tribal lands must include a letter or email as a supplementary document that confirms community collaboration and/or permission to work on associated lands from the relevant community organizations or tribal leadership (see the U.S. Department of Housing and Urban Development Tribal Directory Assessment tool or the National Congress of American Indians tribal directory ). Collaborations should be well justified, in that they represent true intellectual collaboration and utilize the expertise and specialized skills, facilities and resources of the community. Collaboration with Native, Tribal and Indigenous communities should be reflected in the proposal budget and budget justification, such as through requests for sufficient funding to support the time and travel of Native community members, and through co-authorship on publications and presentations, as appropriate. Arrangements to allocate and share samples and data with the relevant communities should be discussed in the proposal or in the data management and sharing plan, following FAIR (Findable, Accessible, Interoperable and Reusable) principles for data management and CARE (Collective benefit, Authority to control, Responsibility and Ethics) principles for indigenous data governance.
+
+Projects Involving Collaboration with Foreign Organizations or Work in Foreign Countries As stated in the PAPPG, NSF rarely provides direct funding to support foreign organizations and only provides support for the U.S. portion of collaborative projects. If foreign organization involvement is essential to the project, subawards or consultant arrangements may be considered if the foreign organization contributes unique resources not otherwise available, or significant education, training and/or research opportunities to the U.S. Such information must be provided in the project description section of the proposal. For studies in countries other than the United States, the project description should discuss, where appropriate, collaborations with scientists and students from the host country, and how these individuals will be involved in the project.
+
+Collaborations should be well justified, in that they represent true intellectual collaboration and use the expertise and specialized skills, facilities and resources of the foreign collaborator. Letters of collaboration must be included in the other supplementary documents section of the proposal. Principal investigators are encouraged to provide U.S. students and junior researchers with international research experiences. Where relevant, arrangements to allocate samples and data between host country organizations or institutions and U.S. organizations or institutions should be discussed in the proposal. Investigators are encouraged to include any such permits (including legally required collecting, import and export permits for samples, instrumentation and data), authorizations, and agreements, in the other supplementary documents section of the proposal.
+
+Data Management As stated in the PAPPG , principal investigators (PIs) are expected to share with other researchers, at no more than incremental cost and within a reasonable time, the data, samples, physical collections and other supporting materials created or gathered in the course of work under NSF grants. The Biological Anthropology Program is committed to the establishment, maintenance, validation, description and distribution of high-quality data sets generated by program-funded projects. Proposals should generate data products that are findable, accessible, interoperable and reusable (FAIR). The Biological Anthropology program requires that data be shared (barring ethical limitations on sharing) within two years of final data collection. See proposal preparation and submission instructions below for additional information.
+
+Plans for the dissemination and sharing of research results will be traceable from the beginning to the end of a project (proposal, review and annual/final annual project report). PIs are required to provide updates on the status of metadata and data archiving in annual and final project reports. See reporting requirements below for additional information.
+
+Permits, Permissions and Collaborations PIs are responsible for obtaining the required authorizations from federal, state or local authorities for any collecting or other activities and for advising NSF that they have been obtained or requested. The proposal should briefly list the permits that are required and the timeline for approvals in the supplementary figures and tables document. For proposals that require support from centrally supported facilities, investigators must obtain letters of collaboration from the managing organization that follow the standard text described in the PAPPG, and those letters should be included as a supplementary document.
+
+Field Projects Field projects must describe the protocol that will be undertaken to ensure the safety of the field party, especially students and others who are inexperienced in working under conditions that can be, at times, uncomfortable, unfamiliar, or threatening. Protocols should incorporate best practices to ensure both physical and emotional safety of all participants and should be uploaded as other supplementary documents. See the PAPPG for additional guidance.
+
+Human Subjects Research Projects involving human subjects must indicate this on the cover sheet, including status of IRB approval and federal-wide assurance, and will need to provide Institutional Review Board approval prior to any award being processed (see the PAPPG). Though IRB approval is not required at the time of proposal submission, the program encourages PIs to briefly address the status of approval or the plan for IRB approval in the project description and provide any additional ethical considerations related to human subjects research in the ethics statement supplementary document.
+
+Vertebrate Animal Research Projects involving vertebrate animals must indicate this on the cover sheet, including status of IACUC approval and PHS Assurance, and must provide IACUC approval and current PHS Assurance information prior to any award being processed (see the PAPPG). Though IACUC approval and PHS Assurance are not required at the time of proposal submission, the program encourages PIs to briefly address the status of approval or plan for vertebrate animals approvals in the project description and discuss any additional ethical considerations related to vertebrate animals research in the ethics statement supplementary document. For proposals with plans for primary data analysis in captive or laboratory animals, PIs are encouraged to discuss in the project description or ethics statement: 1) the Essential 10 items in the ARRIVE Guidelines 2.0 (Animal Research: Reporting of In Vivo Experiments) and 2) the 3R principles of Replacement, Reduction and Refinement and how the proposed study can accelerate progress toward meeting these goals.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 20 to 40
+
+Anticipated Funding Amount: $4,000,000 to $5,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Tribal Nations: An American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. §§ 5130-5131.
+
+Who May Serve as PI:
+
+PIs and co-PIs must be researchers who have a Ph.D. or equivalent education and experience, sufficient to allow them to carry out independent basic research. PIs of senior proposals are encouraged to include undergraduate and graduate students in their research projects, but not as PI/co-PI or senior key personnel.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+For a given Biological Anthropology proposal submission window, an individual may only be listed as a PI, co-PI, faculty associate or subaward lead on one proposal. Researchers may be listed in other capacities (e.g., collaborator, consultant) on one additional proposal. This limit does not apply to conference or DDRIG proposals. CAREER proposals that are submitted to the program are reviewed in the fall; therefore, CAREER PIs should not submit a non-CAREER proposal for the July Biological Anthropology submission window. Proposals exceeding the limit for any person will be returned without review in the reverse order received.
+
+Given the timeline of the submission and review process for each review cycle, proposals that have been declined are not eligible for resubmission for one year from the original date of submission and must be substantially revised to be considered. Exceptions to this policy require prior approval by a cognizant program officer. A proposal that has not been substantially revised will be returned without review as per the PAPPG.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

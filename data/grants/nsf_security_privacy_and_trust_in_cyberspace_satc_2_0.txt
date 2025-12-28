@@ -16,3 +16,246 @@ Status: Cleared
 Posted date (Y-m-d): 2024-12-05
 URL: https://www.nsf.gov/funding/opportunities/satc-20-security-privacy-trust-cyberspace/nsf25-515
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Security, Privacy, and Trust in Cyberspace (SaTC 2.0)
+
+I. Introduction
+
+Society relies on a complex cyber ecosystem for vital communications, economic prosperity, individual well-being, resilient societal infrastructures, physical safety, and the advancement of knowledge. With this reliance comes an increase in the severity and nature of threats targeting the ecosystem with deleterious consequences, as noted in the 2023 Federal Cybersecurity Research and Development Strategic Plan 1 : "the structure of the digital ecosystem and its components remains prone to disruption or unintentional human-errors, vulnerable to exploitation, and is often co-opted by malicious actors." Society's confidence in this complex cyberspace depends on cybersecurity, broadly defined — thus constituting a national priority that integrates the technical, legal, and normative proscription, prevention, and mitigation of cyber-attacks, intrusions on privacy, and other cyber-facilitated harms, particularly those that fall on vulnerable groups.
+
+Compounding the potential for attacks and harm are rapidly evolving computing-based technologies, our interactions with them, and the ways they are deployed in society. Emerging capabilities such as artificial intelligence, computing in the post Moore's law era, quantum computing, and immersive technologies such as brain-computer interfaces and virtual reality raise new risks, vulnerabilities, attack scenarios, and harms. Advances in computing and its deployment throughout the cyber ecosystem also offer opportunities for a more secure, private, and resilient cyberspace.
+
+To develop trustworthy cyberspace now and in the future, research will need to address not just the properties of computer systems and data, but the many elements of our complex cyber ecosystem, and with richer and inter-related notions of trust and deeper integration of new technologies, applications, social contexts, and understanding of human behavior. This solicitation re-envisions the high-level goals of NSF's flagship Secure and Trustworthy Cyberspace (SaTC) program in the context of the current and future cyber ecosystem.
+
+The overarching vision of the Security, Privacy, and Trust in Cyberspace (SaTC 2.0) program is informed by recent governmental and academic reports and strategic plans that describe critical needs and approaches toward a more secure, resilient, and trustworthy cyberspace. This solicitation is strongly aligned with the 2023 Federal Cybersecurity Research and Development Strategic Plan, that states the need for "fundamental changes to the underlying dynamics of the digital ecosystem, shifting the advantage to its defenders and perpetually frustrating the forces that would threaten it," with the goal of achieving a "defensible, resilient digital ecosystem where it is costlier to attack systems than defend them, where sensitive information is secure and protected, and where neither incidents nor errors cascade into catastrophic, systemic consequences." The solicitation is also aligned with the National Privacy Research Strategy 2 and National Strategy to Advance Privacy-Preserving Data Sharing and Analytics 3 in that the proliferation of data collection methods along with the next generation of connectivity and ubiquitous sensors lead to massive data gathering and "such opportunities cannot be fully realized unless there are appropriate safeguards to protect privacy"; and the National Artificial Intelligence Research and Development Strategic Plan 4 in that it views AI as a powerful technology that can improve societal wellbeing, but that needs to be applied in a trustworthy and safe manner. The community-driven Secure and Trustworthy Computing 2.0 Vision Statement 5 , providing a comprehensive road-map for cybersecurity and privacy research for the next decade, also informed the program's updated vision.
+
+1 https://www.nitrd.gov/pubs/Federal-Cybersecurity-RD-Strategic-Plan-2023.pdf .
+
+2 https://www.nitrd.gov/pubs/NationalPrivacyResearchStrategy.pdf .
+
+3 https://www.nitrd.gov/pubs/National-Strategy-to-Advance-Privacy-Preserving-Data-Sharing-and-Analytics.pdf .
+
+4 https://www.nitrd.gov/pubs/National-Artificial-Intelligence-Research-and-Development-Strategic-Plan-2023-Update.pdf .
+
+5 https://arxiv.org/abs/2308.00623 .
+
+II. Program Description
+
+The SaTC 2.0 program aims to build trust in all aspects of global cyber ecosystems. Trust can assume different meanings according to the context but, for the purposes of this solicitation, is broadly defined to include concepts covering security, privacy, and resilience of cyberspace, particularly in the face of malicious intent and specific threats. Achieving this level of confidence in cyberspace requires not only understanding the vulnerabilities in a system that could be exploited and how they can be addressed, but also understanding the social and technical dimensions of trust in cyber systems, as well as educational efforts needed to increase public awareness of risks in cyberspace and to build a well-trained corps of privacy and security professionals. Examining the fundamentals of trust from these different perspectives and with strong research methodologies can lead to fundamentally new and holistic ways to design, build, and operate future trustworthy cyber systems, protect people and existing cyberinfrastructure, and motivate and educate the professional cybersecurity workforce and the general public.
+
+SaTC 2.0 welcomes proposals that address trust in cyberspace, broadly defined, that draw on expertise in one or more of these areas: computer and information science and engineering; education; mathematics; statistics; and social, behavioral, and economic sciences. Proposals that advance fundamental research in cybersecurity, privacy, trust, and resilience research within a single discipline are welcome, as are inter- and multi-disciplinary efforts that span multiple areas. Proposals whose security science exposes underlying principles having predictive value that extend across different security domains and are resilient against strong, adaptive attackers are preferred over those that are limited to a single platform, technology, or system, or that offer ad-hoc solutions that are not generalizable. The program especially encourages proposals with forward-looking, next-generation, clean-slate ideas that provide defenders with a distinct advantage and offer resilience against potential or unforeseen threats. Of particular interest are approaches to anticipate and mitigate risks and potential threats in new and emerging applications and technologies.
+
+SaTC 2.0 is designed to be distinct from other NSF programs through its focus on cyberspace; its attention to trust, security, and privacy; and its integration of social, economic, and technical considerations. Proposals whose core contributions do not directly align with these goals of SaTC 2.0 may be better suited to other types of solicitations and programs. For instance, proposals where security, privacy, malice, and threat are a small part of the proposal and whose main contributions would be recognized as core to existing CISE programs should consider those programs instead. Proposals whose main contributions are on underlying techniques that address reliability or resilience in cyberspace more generally in the context of other design considerations and lack malicious or deceptive threats are encouraged to consider other CISE programs including CISE Core , Formal Methods in the Field (FMitF) and Cyber Physical Systems (CPS). Proposals mainly focused on theoretical advances in decision making, public policy, the provision of public services, and international affairs, without explicit analysis of cyberspace, may be more suited for one of several programs in the Social, Behavioral, and Economic Sciences Directorate (SBE), such as Accountable Institutions and Behavior (AIB). Proposals that focus on well understood security and/or privacy issues in specific domains may be better suited for programs focused on novel advances in those domains: for example, CPS or Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH). Proposals whose main contributions are on enabling important new capabilities in robotics but lack novelty in security and/or privacy may wish to consider the Foundational Research in Robotics (FRR) program. Proposals solely focused on enhancing the trust in research cyberinfrastructure may be better suited for Cybersecurity Innovation for Cyberinfrastructure (CICI) program. Proposals focused on transition of research into practice may be more appropriate for one of several programs in the Technology, Innovation, and Partnership Directorate (TIP), such as Privacy-Preserving Data Sharing in Practice (PDaSP).
+
+The SATC 2.0 program spans the interests of NSF's Directorates for Computer and Information Science and Engineering (CISE), Mathematical and Physical Sciences (MPS), Social, Behavioral and Economic Sciences (SBE), and STEM Education (EDU). Proposals must be submitted pursuant to one of the following designations, each of which may have additional requirements:
+
+RES: This designation is the focus of the SaTC 2.0 research program.
+
+EDU: This designation is used to identify proposals focusing on education and training in cybersecurity and/or privacy.
+
+SEED: This designation is intended for special topics defined by accompanying Dear Colleague Letters.
+
+RESEARCH (RES) PROJECT DESIGNATION
+
+RES Projects are limited to total budgets up to $1,200,000 for durations of up to four years. This designation is intended for all research projects that range from single-investigator studies and/or studies of exploratory concepts to multi-investigator integrated efforts with larger-scale activities. The budget request must be commensurate with the complexity, scope, and scientific and societal impact of the proposed project. SaTC 2.0 will maintain a balanced portfolio of awards at all budget levels so proposers should tailor their budget to the needs of the proposed activities rather than tailoring their proposed activities to a specific budget number. Projects with budgets above $600,000 have additional requirements as detailed in section V.A. RES proposals may include an optional Transition to Education (TTE) plan with a budget allocation of up to $50,000 within the RES total budget request to co-evolve novel educational initiatives in the context of the proposed research.
+
+All RES proposals should (a) clearly articulate the notion of trust that the research will focus on; (b) include a clear and concise description of the specific risk(s), malicious intent or applicable threat scenario or model that the proposed research addresses; (c) discuss the generalizable contributions that will be developed beyond the state of the art (theories, research methods, empirical understanding, capabilities, tools and datasets, or other contributions appropriate to the project and the intellectual communities the project speaks to); and (d) discuss evaluation, reproducibility, trade-offs, and countermeasures involved in the project as appropriate. Proposals that focus primarily on the design, development, or use of offensive techniques are out of scope, especially to the extent such work may prove harmful to the operation of existing cyber infrastructure and/or be at odds with ethical, legal, and diplomatic concerns or other applicable rules and regulations.
+
+Projects are expected to include, but not be limited to, expertise in one or more the following research disciplines that correspond to the core building blocks of cyberspace: algorithms; artificial intelligence; compilers; communication networks; cryptography; data science; economics; ethics; formal methods; hardware security architecture and design; human centered computing; law and policy; machine learning; mathematics; programming languages; quantum and other emerging computing models and architectures; social and behavioral sciences; software; statistics; and systems.
+
+Broad topics of interest include computing and communication systems; foundations; human aspects; information ecosystems; and cybersecurity and artificial intelligence. A brief description of each is offered below; proposers should not feel obliged, however, to restrict themselves to these categories or see them as mutually exclusive; indeed, research directions that span key topics and/or probe those yet to be uncovered are especially encouraged.
+
+Computing and Communication Systems: Approaches for making existing cyber systems more resilient to current and emerging threats, and designing the next generation of systems, software, networks, and hardware that are secure, private and trustworthy by design. Examples include vulnerabilities and malware, digital forensics, access control, authentication, autonomous, distributed, and embedded systems, wired/wireless networks, secure software development, trusted execution environments, microarchitecture and integrated circuits.
+
+Foundations: Formal, mathematical, and other rigorous approaches for defining, modeling, designing, and ensuring trust in cyberspace. Examples include cryptography, formal methods, game theory, information theory, privacy theory, quantum computing, mechanism design, programming languages, probability, and statistics.
+
+Human Aspects: Social, behavioral, economic, cognitive, and other rigorous empirical approaches for understanding and addressing ethical, political, legal, cultural, and societal dimensions of cyber ecosystems and threats to society's trust in these systems and risks to human and organizational security, safety, and well-being. Examples include human-centered design, usable security and privacy, community security and norms, risks to persons, organizations, society, and marginalized populations.
+
+Information Ecosystems: Approaches to safeguard information ecosystems ranging from the trustworthy generation, dissemination, analysis, storage, and provenance of multi-modal data, to protecting the entities who consume this information. Examples include privacy-enhancing technologies, information leakage, provenance and authenticity, steganalysis, and trustworthy generation of synthetic data.
+
+Cybersecurity and Artificial Intelligence: Approaches to address the bidirectional role of AI both in eroding trust in cyberspace and in enhancing security, privacy and trust in cyberspace. Examples include adversarial machine learning and other attacks on AI systems themselves, attackers' use/weaponization of AI against people, information, and systems, responsible use of AI in predicting, detecting, and responding to attacks, and privacy-preserving machine learning.
+
+Proposers are also strongly encouraged to consider crosscutting issues, including but not limited to clean slate approaches that ensure security and privacy by design rather than remedying existing imperfect approaches, systems, networks, theories, and/or frameworks; end-to-end security methodology that works across layers of the cyberspace; trade-offs among different notions of trust; cyber resilience to and recovery from security attacks; ethical implications and unintended consequences of the research; and reproducibility, metrics, datasets, open source code, and research infrastructure to be used or generated in the proposed project.
+
+Optional Transition To Education (TTE) Plans in RES Proposals
+
+Proposers who choose to submit a TTE plan as part of their SaTC 2.0 RES research proposal must describe how successful research outcomes will be transitioned into an educational setting for formal or informal learning. The optional TTE plan must support the design, development, and deployment of innovative cybersecurity or privacy educational materials grounded in research. The TTE plan, not exceeding 2 pages and submitted as a supplementary document, should outline major activities and milestones, and it must detail how the deliverables will be made accessible to the broader academic community. It should also include evaluation with quantifiable metrics for learning assessment, aligned with the accompanying RES evaluation plan.
+
+The TTE plan will be evaluated with particular attention to: (a) the description of the educational need to be addressed; (b) the novelty of the educational content; (c) how the research or technology will be transitioned into education and its impact on the cybersecurity workforce; (d) the identification of an intended population that will serve as early adopters of the proposed educational content; (e) the deployment plan for implementing/piloting the educational materials; (f) the explanation of the post-grant, long-term sustainability of the educational content; (g) the extent to which learning experiences will feed back into research (if applicable); and (h) the justification of the TTE budget for the effort, which may include up to $50,000 within the RES total budget request.
+
+Questions regarding the TTE designation should be addressed directly to satc-EDU Program Officers via satc-EDU@nsf.gov
+
+Broadening Participation in Computing (BPC) Plans in RES Proposals
+
+All projects with a total budget greater than $600,000 that include an organization (department, school, or institute) that primarily carries out research and education in computer science, computer engineering, information science, and/or other closely related fields, must include a BPC plan (see details in Section V.A. Proposal Preparation).
+
+For projects where none of the PIs or co-PIs are from computing organizations as described above, a BPC plan is not required. To emphasize this point, PIs are encouraged to include a statement titled "Broadening Participation in Computing Plan" and the text "no PI on this project is in a computing organization, so no BPC plan is required".
+
+CISE has long been committed to Broadening Participation in Computing (BPC). This commitment means addressing the underrepresentation of many groups in CISE relative to their participation in postsecondary education ( https://ncses.nsf.gov/pubs/nsb20223/data ). Broadening participation will require a range of measures, including institutional programs and activities as well as culture changes across colleges, departments, classes, and research groups.
+
+CISE continues the BPC effort started in 2018 that encourages the research community to engage in meaningful BPC activities. Specifically: Each project with a total budget greater than $600,000 must include a BPC plan. CISE encourages the use of the resources available at the NSF-funded BPCnet Resource Portal ( https://bpcnet.org/ ). BPCnet provides BPC plan templates, suggested activities, opportunities for consultant services, and publicly available data to support PIs and departments in creating their BPC Plans. CISE encourages PIs to leverage Departmental BPC Plans verified by BPCnet which coordinate efforts within their institution. BPC plans must include roles for all PIs and co-PIs and be included as a Supplementary Document, following the guidelines as described in the Proposal Preparation Instructions.
+
+A meaningful BPC plan can answer positively to the following five elements:
+
+Goal and Context: Does the plan describe a goal and the data from your institution(s) or local community that justifies that goal?
+
+Intended population(s): Does the plan identify the characteristics of participants, including school level?
+
+Strategy: Does the plan describe activities that address the stated goal(s) and intended population(s)?
+
+Measurement: Is there a plan to measure the outcome(s) of the activities?
+
+PI Engagement: Is there a clear role for each PI and co-PI? Does the plan describe how the PI is prepared (or will prepare or collaborate) to do the proposed work?
+
+All PIs and co-PIs are expected to participate in BPC activities in a manner aligned with their personal contexts, interests, and skills. More information regarding the BPC effort can be found at https://www.nsf.gov/cise/bpc .
+
+EDUCATION (EDU) PROJECT DESIGNATION
+
+The Education (EDU) designation labels proposals that focus on cybersecurity education and workforce development in ensuring cybersecurity including security, privacy, trust, and resilience of cyberspace. The EDU project class supports the development of a robust and diverse cybersecurity workforce, as well as a cyber-aware citizenry.
+
+EDU proposals are limited to $500,000 in total budget, with durations of up to three years. Education research focused EDU proposals that demonstrate collaboration between cybersecurity subject matter experts and education researcher(s), as reflected in the PI team, may request an additional $100,000 beyond the $500,000 limit. The additional funding request must be justified primarily to support the education research activities of the proposed project. To qualify for the increased budget cap, proposals must address contributions in both cybersecurity and education, leading to novel understanding and impact on cybersecurity learning, pedagogy, and equity and inclusion in educational settings.
+
+SaTC 2.0 EDU seeks innovative inquiries into and the development of evidence-based and evidence-generating approaches that will enhance cybersecurity education and workforce development at the K-12, undergraduate, graduate, and professional education levels; and/or develop cybersecurity awareness that promotes safe online behavior across all age groups. EDU proposals must directly contribute to the development of foundational cyber skills or transformation of cybersecurity education in terms of scope, mechanism, methods, tools, and engagement of diverse learners through traditional or non-traditional approaches. Competitive EDU proposals should leverage findings from basic and/or applied research in cybersecurity and student learning to propose state-of-the-art interventions in education and workforce development, emphasizing both intellectual merit and broader impacts. They should address the challenges of expanding existing educational opportunities and resources in cybersecurity and/or privacy.
+
+EDU projects are expected to contribute to the cybersecurity and/or privacy education knowledge base by enhancing cybersecurity learning and learning environments in formal and/or informal settings, incorporating traditional and/or non-traditional methods of student learning within and across disciplines. This may include, but is not limited to, the following efforts:
+
+Conduct research that enhances the teaching and learning of cybersecurity, privacy and trust at K-12 and post-secondary levels;
+
+Based on the findings of basic and applied research in cybersecurity, define a cybersecurity body of knowledge and establish curricular activities for new course modules and educational pathways leading to wide dissemination and adoption;
+
+Research approaches to increasing undergraduate and graduate enrollment in cybersecurity and produce more cybersecurity professionals and practitioners;
+
+Investigate approaches to develop a cybersecurity workforce, including research and development workforce, in critical areas, such as secure software design and development, trustworthy AI development and usage, human-centered approaches to building secure systems, quantum computing, memory safety techniques, formal methods, advanced manufacturing, aerospace, microelectronics, and advanced wireless technologies;
+
+Design and implement new skill-based approaches, such as hands-on learning experiences, competitions, certifications, micro-credentials, and alignment with national and industry standards;
+
+Create innovative and scalable strategies to increase the number of cybersecurity faculty in institutions of higher education and K-12 schools;
+
+Develop approaches to support institutional collaborations between community colleges and four-year colleges and universities
+
+Cultivate digital literacy to ensure correct and safe online behavior for everyone;
+
+Integrate cybersecurity, privacy, and trust concepts into educational opportunities for learners of all ages;
+
+Design and develop instructional strategies to align cybersecurity education and workforce development with the NICE Cybersecurity Workforce Framework and make them more diverse, inclusive and culturally responsive;
+
+Investigate effective and ethical use of AI and automation in cybersecurity and privacy education; and
+
+Evaluate the effectiveness of learning, outreach, and retention methods and activities.
+
+All EDU proposals must have detailed plans for assessment and evaluation that are clearly aligned with the project's stated goals based on appropriate metrics. The evaluation should incorporate both formative evaluation to guide project improvements and summative evaluation to assess and document project outcomes, accomplishments, and lessons learned. Funds to support an evaluator independent of the project must be requested. The evaluator, while external to the project, may be employed by a project's home institution, provided they work in a separate organizational unit with a distinct reporting line from the project's home unit. The evaluator can be listed as project personnel, but cannot serve as a PI, co-PI, or other Senior/Key Personnel on the project. Evaluators are expected to adhere to the American Evaluation Association's Guiding Principles for Evaluators and project evaluations are expected to be consistent with standards established by the Joint Committee on Standards for Educational Evaluation .
+
+All EDU proposals must include a dissemination strategy that is tied to broader impact goals and a clear plan to report on the project and its successes and lessons learned to appropriate audiences. Please note the new EDU Data Management Plan guidelines at STEM Education Data Management and Sharing Plan Guidance for Proposals and Awards - Directorate for STEM Education (EDU) | NSF - National Science Foundation .
+
+In addition to promoting innovative work at the frontier of cybersecurity education, the program encourages education research focused EDU proposals, especially those from diverse institutions and student populations, to produce novel knowledge about the efficacy and transferability of findings. Education research focused EDU proposals aim to advance knowledge and understanding with potential relevance to the cybersecurity community, emphasizing the development or refinement of foundational or applied education research related to cybersecurity and/or privacy education. While applied research aims for specific relevance (e.g., to a particular curriculum or technology) with direct and immediate implications for practice, fundamental education research is crucial for advancing broad, long-term understanding of key relevance and principles, providing a foundation for future innovations in cybersecurity education research. For guidelines and resources for STEM education research, see the following:
+
+Common Guidelines for Education Research and Development
+
+Companion Guidelines on Replication and Reproducibility in Education Research
+
+Discipline-based education research: Understanding and improving learning in undergraduate science and engineering
+
+SEEDLING (SEED) PROJECT DESIGNATION
+
+The SEED designation is intended for special topic areas to be defined by accompanying Dear Colleague Letters (DCLs) while this solicitation is in effect. The total budget for SEED projects is limited to $300,000, with durations of up to two years. The associated DCLs will solicit proposal submissions in specified topic areas within a specified time frame. Investigators seeking to submit SEED proposals in response to a DCL may be required to (a) submit concept outlines (as described in the PAPPG Chapter I.D.1) to be evaluated by the SaTC 2.0 Program and invited for proposal submission; or (b) have a specific team composition intended to foster multi- and/or interdisciplinary research. The accompanying DCLs will only solicit proposals within specified submission windows and all active DCLs will be listed on the SaTC 2.0 Program web page . SEED proposals are expected to follow all applicable proposal preparation guidelines for RES submissions (as described in Section V.A).
+
+SaTC 2.0 PI Meetings
+
+The SaTC 2.0 program plans to host PI meetings every other year with participation from all active SaTC 2.0 projects. This meeting will be a community-wide event with representatives from federal agencies, academia, industry, and international institutions. Principal investigators from all solicitation designations are encouraged to participate in these meetings. The first PI meeting is expected to be held in Fall 2026, and approximately every two years thereafter.
+
+For all SaTC 2.0 awards of duration less than or equal to 3 years, at least one project representative (PI/co-PI/senior researcher or NSF-approved replacement) from each organization should attend the first PI meeting held after the award date. For awards of duration greater than 3 years, at least one project representative (PI/co-PI/senior researcher or NSF-approved replacement) from each organization should attend one PI meeting every two years for the duration of the project. PIs are explicitly required to budget for travel to the PI meetings.
+
+Access to Experimental Research Infrastructure
+
+PIs may consider utilizing NSF-supported research infrastructure (such as the Platforms for Advanced Wireless Research 6 , FABRIC 7 , Chameleon 8 , CloudLab 9 , and National Artificial Intelligence Research Resource (NAIRR) Pilot 10 ) when formulating their research plans and submitting proposals. Descriptions of the capabilities of each system and their availability can be found at websites.
+
+6 https://advancedwireless.org/ .
+
+7 https://portal.fabric-testbed.net/ .
+
+8 https://www.chameleoncloud.org/ .
+
+9 https://cloudlab.us/ .
+
+10 https://nairrpilot.org/ .
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 75
+
+Anticipated Funding Amount: $60,000,000 per year, dependent on the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of U.S. IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+As of the date the proposal is submitted, any PI, co-PI, or other Senior/Key project personnel must hold either:
+
+a tenured or tenure-track position, or
+
+a primary, full-time, paid appointment in a research or teaching position
+
+at a US-based campus of an organization eligible to submit to this solicitation (see above), with exceptions granted for family or medical leave, as determined by the submitting organization. Individuals with primary appointments at for-profit non-academic organizations or at overseas branch campuses of U.S. institutions of higher education are not eligible.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 4
+
+During any contiguous 12-month period, an individual may not participate as PI, co-PI, or Senior/Key Personnel in more than four proposals. There is a limit of:
+
+two proposals designated as RES;
+
+one proposal designated as EDU; and
+
+one proposal designated as SEED.
+
+This limit is applied beginning with this SaTC 2.0 solicitation and future versions of the SaTC 2.0 solicitation, unless noted otherwise.
+
+These eligibility constraints will be strictly enforced in order to treat everyone fairly and consistently . Any proposal that exceeds this limit at the time of submission for any PI, co-PI, or other Senior/Key Personnel will be returned without review. No exceptions will be made . Proposals that are withdrawn prior to commencement of merit review, or those that are returned without review by NSF, will not count against this proposal limit. Proposers are strongly encouraged to verify the dates of prior SaTC 2.0 submissions for all personnel on their teams to avoid their proposals being deemed non-compliant.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

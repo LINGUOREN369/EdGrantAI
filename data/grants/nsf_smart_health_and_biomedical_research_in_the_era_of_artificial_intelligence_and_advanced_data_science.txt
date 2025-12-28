@@ -9,3 +9,134 @@ Status: Waiting for new publication
 Posted date (Y-m-d): 2025-07-24
 URL: https://www.nsf.gov/funding/opportunities/sch-smart-health-biomedical-research-era-artificial-intelligence/nsf25-542
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH)
+
+I. Introduction
+
+The need for a significant transformation in medical, public health and healthcare delivery approaches has been recognized by numerous organizations and captured in a number of reports. For example, the Networking and Information Technology Research and Development (NITRD) program released the Federal Health Information Technology Research and Development Strategic Framework in 2020 that pointed to an overwhelming need for the integration between the computing, informatics, engineering, mathematics and statistics, behavioral and social science disciplines, and the biomedical, and public health research communities to produce the innovation necessary to improve the health of the country. Recent developments and significant advances in machine learning (ML), artificial intelligence (AI), deep learning, high performance and cloud computing, and availability of new datasets make such integration achievable, as documented in the 2023 updated National Artificial Intelligence Research and Development Strategic Plan .
+
+These anticipated transformations hinge on scientific and engineering innovations by interdisciplinary teams that intelligently collect, connect, analyze and interpret data from individuals, devices, and systems to enable discovery and optimize health. Technical challenges include a range of issues, including effective data generation, analysis and automation for a range of biomedical devices (from imaging through medical devices) and systems (e.g., electronic health records) and consumer devices (including the Internet of Things), as well as new technology to generate knowledge. Underlying these challenges are many fundamental scientific and engineering issues that require investment in interdisciplinary research to actualize the transformations, which is the goal of this solicitation.
+
+II. Program Description
+
+This interagency solicitation is a collaboration between NSF and the NIH. The Smart Health program supports innovative, high-risk/high-reward research with the promise of disruptive transformations in biomedical and public health research, which can only be achieved by well-coordinated, convergent, and interdisciplinary approaches that draw from multiple domains of computer and information science, engineering, mathematical sciences and the biomedical, social, behavioral, and economic sciences. Therefore, the work to be funded by this solicitation must make fundamental scientific or engineering contributions to two or more disciplines , such as computer or information sciences, engineering, mathematical sciences, statistics, social, behavioral, or cognitive sciences to improve fundamental understanding of human biological, biomedical, public health and/or health-related processes and address a key health problem. The research teams must include members with appropriate and demonstrable expertise in the major areas involved in the work. Traditional disease-centric medical, clinical, pharmacological, biological or physiological studies and evaluations are outside the scope of this solicitation. In addition, fundamental biological research with humans that also does not advance other fundamental science or engineering areas is out of scope for this program. Finally, proposals addressing health indirectly in the education or work environment are also out of scope.
+
+Generating these transformations will require fundamental research and development of new tools, workflows and methods across many dimensions; some of the themes are highlighted below. These themes should be seen as examples and not exhaustive.
+
+1. Fairness and Trustworthiness : Advancing fairness and trustworthiness in modeling in AI/ML is a highly interdisciplinary endeavor. Real world considerations go beyond the analytics and can inform new directions for computational science to better realize the benefits of algorithmic and data fairness and trustworthiness. The complexity of biomedical and health systems requires deeper understanding of causality in AI/ML models; new ways of integrating social and economic data to optimize health, such as disease heterogeneity, disease prevention, resilience, and treatment response, while systematically accounting for a broad range of uncertainties; and new insights into human-AI systems for clinical decision support. In general, this thrust supports the conduct of fundamental computational research into theories, techniques, and methodologies that go well beyond today's capabilities and are motivated by challenges and requirements in biomedical applications.
+
+2. Transformative Analytics in Biomedical and Behavioral Research : As biomedical and behavioral research continues to generate large amount of multi-level and multi-scale data (e.g., clinical, imaging, personal, social, contextual, environmental, and organizational data), challenges remain. New development in areas such as artificial intelligence and machine learning (AI/ML), natural language technologies (NLT), mathematics and statistics and/or quantum information science (QIS) also bring opportunities to address important biomedical and behavioral problems. This theme will support efforts to push forward the current frontline of AI/ML and advanced analytics for biomedical and behavioral research including:
+
+novel data reduction methods;
+
+new robust knowledge representations, visualizations, reasoning algorithms, optimization, modeling and inference methods to support development of innovative models for the study of health and disease;
+
+new computational approaches with provable mathematical guarantees for fusion and analysis of complex behavioral, biomedical and image data to improve inference accuracy, especially in scenarios of noisy and limited data records;
+
+novel explainable and interpretable AI/ML model development;
+
+advanced data management systems with the capability to deal with security, privacy and provenance issues;
+
+novel data systems to build a connected and modernized biomedical data ecosystem;
+
+development of novel technologies to extract information from unstructured text data such as clinical notes, radiology and pathology reports;
+
+development of novel simulation and modeling methods to aid in the design and evaluation of new assessments, treatments and medical devices; and
+
+novel QIS approaches to unique challenges in biomedical and behavioral research.
+
+3. Next Generation Multimodal and Reconfigurable Sensing Systems : This theme addresses the need for new multimodal and reconfigurable sensing systems/platforms and analytics to generate predictive and personalized models of health. The next generation of sensor systems for smart health must have just-in-time monitoring of biomarkers from multiple sensor modalities (e.g., electrochemical, electromagnetic, mechanical, optical, acoustic, etc.) interfaced with different platforms (e.g., mobile, wearable, and implantable). Existing sensor systems generally operate either in discrete formats or with limited inter-connectivity, and are limited in accuracy, selectivity, reliability and data throughput. Those limitations can be overcome by integrating heterogeneous sensing modalities and by having field-adaptive reconfigurable sensor microsystems. This theme encourages the design and fabrication of multimodal and/or reconfigurable sensor systems through innovative research on novel functional materials, devices and circuits for sensing or active interrogation of system states, imaging, communications, and computing. Areas of interest include miniaturized sensor microsystems with integrated signal processing and communication functionalities. Another area of interest is multimodal or reconfigurable sensor systems with dramatically reduced power consumption to extend battery lifetime and enable self-powered operation, making the sensor systems suitable for wearable and implantable applications. Other areas of interest include real-time monitoring of analytes and new biorecognition elements that can be reconfigured to target different analytes on-demand. This thrust also requires researchers to integrate data generated by the multimodal sensor systems, as well as data from other sources, such as laboratory generated data (e.g., genomics, proteomics, etc.), patient-reported outcomes, electronic health records, and existing data sources.
+
+4. Cyber-Physical Systems : Development and adoption of automation has lagged in the biomedical and public health communities. Cyber-physical systems (CPS) are controlled systems built from, and dependent upon, the seamless integration of computation and physical components. These data-rich systems enable new and higher degrees of automation and autonomy. Thus, this theme supports work that enables the creation of closed-loop or human-in- the-loop CPS systems to assess, treat and reduce adverse health events or behaviors, with core research areas including control, data analytics, and machine learning including real-time learning for control, autonomy, design, Internet of Things (IoT), networking, privacy, real-time systems, safety, security, and verification. Finally, development of automated technology that can be utilized across a range of settings (e.g., home, primary care, schools, criminal justice system, child welfare agencies, community-based organizations) to optimize the delivery of effective health interventions is also within scope of the theme.
+
+5. Robotics: This theme addresses the need for novel robotics to provide support and/or automation to enhance health, lengthen lifespan and reduce illness, enhance social connectedness and reduce disabilities. The theme encourages research on robotic systems that exhibit significant levels of both computational capability and physical complexity. Robots are defined as intelligence embodied in an engineered construct, with the ability to process information, sense, plan, and move within or substantially alter its working environment. Here intelligence includes a broad class of methods that enable a robot to solve problems or to make contextually appropriate decisions and act upon them. Currently, robotic devices in health have focused on limited areas (e.g., surgical robotics and exoskeletons). This theme welcomes a wide range of robotic areas, as well as research that considers inextricably interwoven questions of intelligence, computation, and embodiment. The next generation of robotic systems for smart health will need to also have to consider human-robot interaction to enhance usability and effectiveness.
+
+6. Biomedical Image interpretation . This theme's goal is to determine how characteristics of human pattern recognition, visual search, perceptual learning, attentional biases, etc. can inform and improve image interpretation. This theme would include using and developing presentation modalities (e.g., pathologists reading optical slides through a microscope vs. digital whole-slide imagery) and identifying the sources of inter- and intra-observer variability. The theme encourages development of models of how multi-modal contextual information (e.g., integrating patient history, omics, etc. with imaging data) changes the perception of complex images. It also supports new methods to exploit experts' implicit knowledge to improve perceptual decision making (e.g., via rapid gist extraction, context-guided search, etc.). Research on optimal methods for conveying 3D (and 4D) information about anatomy and physiology to human observers is also welcome. This theme also supports advances in image data compression algorithm development to enable more efficient data storage.
+
+The above listed themes are to provide examples for possible research activities that may be supported by this solicitation, but by no means should the proposed research activities be restricted to these themes. These research themes are clearly not mutually exclusive, and a given project may address multiple themes. This solicitation aims to support research activities that complement rather than duplicate the core programs of the NSF Directorates and the NIH Institutes and Centers and the research efforts supported by other agencies such as the Agency for Healthcare Research and Quality.
+
+NSF supports investigation of fundamental research questions with broadly applicable results. The Smart Health program supports research evaluation with humans. Because advancing fundamental science is early-stage research, randomized control trials are not appropriate for this solicitation and will not be funded. Research that has advanced to a stage that requires randomized control trials should be submitted to an agency whose mission is to improve health.
+
+NIH supports research and discovery that improve human health and save lives. This joint program focuses on fundamental research of generalizable, disease-agnostic approaches with broadly applicable results that align with NIH's Strategic Plan for Data Science .
+
+Integrative Innovation:
+
+Proposals submitted to this solicitation must be integrative and undertake research addressing key application areas by solving problems in multiple scientific domains. The work must make fundamental scientific or engineering contributions to two or more disciplines , such as computer or information sciences, engineering, mathematical sciences, social, behavioral, cognitive and/or economic sciences and address a key health problem. For example, these projects are expected to advance understanding of how computing, engineering and mathematics, combined with advances in behavioral and social science research, would support transformations in health, medicine and/or healthcare and improve the quality of life. Projects are expected to include students and postdocs. Project descriptions must be comprehensive and well-integrated, and should make a convincing case that the collaborative contributions of the project team will be greater than the sum of each of their individual contributions. Collaborations with researchers in the health application domains are required. Such collaborations typically involve multiple institutions, but this is not required. Because the successes of collaborative research efforts are known to depend on thoughtful collaboration mechanisms that regularly bring together the various participants of the project, a Collaboration Plan is required for ALL proposals . Projects will be funded for up to a four-year period and for up to a total of $300,000 per year. The proposed budget should be commensurate with the corresponding scope of work. Rationale must be provided to explain why a budget of the requested size is required to carry out the proposed work.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 10 to 16 per year, subject to the availability of funds.
+
+Projects will be funded for up to four years for a total of $1,200,000 ($300,000 per year).
+
+Anticipated Funding Amount: $15,000,000 to $20,000,000 will be invested in proposals submitted to this solicitation in each year of the solicitation, subject to the availability of funds and the quality of the proposals received.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 2
+
+In each annual competition, an investigator may participate as Principal Investigator (PI), co-Principal Investigator (co-PI), Project Director (PD), Senior/Key Personnel or Consultant in no more than two proposals submitted in response to each annual deadline in this solicitation. These eligibility constraints will be strictly enforced in order to treat everyone fairly and consistently . In the event that an individual exceeds this limit, proposals received within the limit will be accepted based on earliest date and time of proposal submission (i.e., the first two proposals received will be accepted, and the remainder will be returned without review). No exceptions will be made.
+
+Proposals submitted in response to this solicitation may not duplicate or be substantially similar to other proposals concurrently under consideration by NSF or NIH programs or study sections. Duplicate or substantially similar proposals will be returned without review. NIH will not accept any application that is essentially the same as one already reviewed within the past 37 months (as described in the NIH Grants Policy Statement ), except for submission:
+
+To an NIH Requests for Applications (RFA) of an application that was submitted previously as an investigator-initiated application but not paid;
+
+Of an NIH investigator-initiated application that was originally submitted to an RFA but not paid; or
+
+Of an NIH application with a changed grant activity code.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: For NSF, Proposal & Award Policies & Procedures Guide (PAPPG) Guidelines apply. For NIH, indirect costs on foreign subawards/subcontracts will be limited to eight (8) percent.
+
+For NSF, Proposal & Award Policies & Procedures Guide (PAPPG) Guidelines apply.
+
+For NIH, indirect costs on foreign subawards/subcontracts will be limited to eight (8) percent.
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

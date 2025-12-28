@@ -14,3 +14,188 @@ Status: Cleared
 Posted date (Y-m-d): 2024-08-26
 URL: https://www.nsf.gov/funding/opportunities/qlci-quantum-leap-challenge-institutes/nsf24-599
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Quantum Leap Challenge Institutes (QLCI)
+
+I. Introduction
+
+Quantum information science and technology (QIST) uses quantum physics phenomena such as coherence, superposition, wave-particle duality, interference, and entanglement for revolutionary approaches to computing, sensing, and networking 3 . Emerging Industries may benefit from new applications of quantum computation, quantum communication, quantum simulation and quantum sensing. However, there are several challenges at the frontiers of quantum information science and engineering that must be overcome before the full potential of quantum information technology can be realized. This is the motivation for the Challenge Institutes.
+
+The goal of the Quantum Leap Challenge Institute (QLCI) program is to support timely and bold research agendas aimed at making breakthroughs on clearly identified and compelling challenges in quantum information science and engineering within a 6-year period. Quantum Leap Challenge Institutes are expected to: engage communities in pursuit of solutions to major challenges; contribute to education and workforce training in fields underpinning QIST; and demonstrate value added from coordination both within the Institute and with the larger QIST community. As part of their research, education, and coordination activities, Challenge Institutes are expected to enable new and existing partnerships, improve access to infrastructure, facilitate international collaborations, and provide opportunities for technology translation.
+
+Now is an important time to extend the QLCI program, after the first five years of the National Quantum Initiative. The opportunity to strengthen existing Challenge Institutes or establish new Challenge Institutes will leverage recent breakthroughs in science and engineering and catalyze partnerships with industry, national laboratories and academic institutions. As platforms for quantum technology grow in sophistication and scale, Challenge Institutes will explore new horizons in QIS and pioneer new applications QIST, in partnership with potential end-users from a range of fields.
+
+The QLCI program is part of a portfolio of NSF investments in quantum information science and engineering. The results of these efforts, combined with activities supported by other government agencies and industry, indicate that the community of quantum information scientists and engineers is well-positioned to collaboratively identify new approaches to major challenges whose solution will catalyze breakthroughs. The QLCI program is intended to strengthen such cross-disciplinary research efforts, forge new partnerships between universities, non-profit organizations, industry, and government agencies and thus accelerate foundational discoveries, innovation, and technological developments. The scope of the Quantum Leap Challenge Institutes is aligned with that of NSF multidisciplinary centers for quantum research and education as described in the National Quantum Initiative Act 4 . The Quantum Leap Challenge Institutes are expected to connect multiple research approaches, integrating expertise from domains such as physics, materials science, engineering, mathematics, chemistry, computer science, and biological sciences. Challenge Institutes in collaboration with industry partners and other research institutions are also expected to develop and sustain cross-disciplinary approaches for education, training and workforce development. Combining these elements, the Quantum Leap Challenge Institutes will promote a sustainable innovation ecosystem where expertise from various disciplines, research institutions, and industry can be leveraged, as needed, to overcome scientific, technological, and workforce challenges in quantum information science and engineering. The multidisciplinary scope of quantum information science and engineering, in turn, holds promise for the development of radically new and more powerful scientific and technological tools that will open new science and engineering vistas.
+
+3 National Strategic Overview for Quantum Information Science , National Science and Technology Council, September 2018.
+
+4 National Quantum Initiative Act , Public Law 115-368, December 21, 2018.
+
+II. Program Description
+
+The Quantum Leap Challenge Institute (QLCI) program will fund Institutes comprised of multidisciplinary groups of scientists and engineers united by a common challenge theme for advancing the research frontiers in focus areas such as quantum networking, quantum computation, quantum simulation and/or quantum sensing. The Challenge Institutes will also contribute to the development of a well-trained workforce through cross-disciplinary and collaborative basic research, project-driven training, and innovative curricula. The QLCI program is expected to facilitate research, training, and education through exposure of trainees to theoretical frameworks, algorithmic techniques, experimental platforms and testbeds, and interactions with national laboratories, industry, and international partners. The Challenge Institutes will build on prior investments in quantum information science and engineering and are expected to coordinate and integrate with ongoing and new NSF QIST initiatives, including center-scale, infrastructure, and workforce development activities.
+
+The salient Characteristics of an Institute and the Major Activities performed by an Institute are next described in Sections II.A and II.B.
+
+A. Characteristics of a Quantum Leap Challenge Institute
+
+The QLCI program will support institutes led by Principal Investigators based at institutions of higher education to pursue major breakthroughs in critical areas at the intellectual and technological frontiers of quantum information science and engineering. Multidisciplinary approaches can be supported, as motivated by the scientific and engineering needs of the proposed research and associated challenges that the Institute seeks to address. The QLCI program is designed to enable new types of joint efforts that may be needed to address the most pressing challenges in QIST. Accordingly, Challenge Institutes may vary in size and exhibit various forms of organization, collaboration and operation suited to their individual needs.
+
+Each Institute will have a director who takes overall responsibility for the effort and provides leadership to develop and lead a interdisciplinary team to fulfill the vision of the Institute. Each Institute must have a strategic plan that reflects the overall vision of the Institute and describes the key elements of the proposed major activities spanning research, education and workforce development, institute coordination. Goals and plans for partnerships, infrastructure, collaborations, and technology translation should be part of this strategic plan, as motivated by the research, education, and coordination activity needs. Each institute must have a management and governance plan to indicate how the institute will operate. The plan must contain information on the overall management and reporting structure, how research projects are chosen, the existence and makeup of any advisory board(s) and the Principal Investigators responsible for different parts of the institute's research, education, and workforce development activities.
+
+Given the rapidly evolving nature of quantum information science and engineering, the Challenge Institutes are expected to have the ability and mechanisms in place to change course, when warranted, to address the changing research and technological needs within the context of the Institute. This may include the exit of certain PIs and organizations and on-boarding of new PIs and organizations.
+
+Through the major activities discussed below, competitive QLCI proposals will demonstrate:
+
+Unifying Research Themes A research challenge at the frontiers of Quantum Information Science and Engineering with compelling goals, milestones, and impacts that can galvanize a community of researchers and partners. A research approach that fosters community engagement and brings together experts and stakeholders from multiple disciplines to overcome important challenges in QIST research, development, and demonstration.
+
+A research challenge at the frontiers of Quantum Information Science and Engineering with compelling goals, milestones, and impacts that can galvanize a community of researchers and partners.
+
+A research approach that fosters community engagement and brings together experts and stakeholders from multiple disciplines to overcome important challenges in QIST research, development, and demonstration.
+
+Coherent Approaches to Education and Workforce Development Training and mentoring in the context of cutting-edge research. Innovative and substantive approaches to curricular and professional development, including multidisciplinary and practical activities, as motivated by the research challenges and the associated QIST ecosystem. Community engagement including outreach at all levels and industry engagement in the workforce development activities.
+
+Training and mentoring in the context of cutting-edge research.
+
+Innovative and substantive approaches to curricular and professional development, including multidisciplinary and practical activities, as motivated by the research challenges and the associated QIST ecosystem.
+
+Community engagement including outreach at all levels and industry engagement in the workforce development activities.
+
+Synergistic Coordination Demonstrating Value-Added from an Institute Partnerships that accelerate progress on the research theme and the education and training activities. Infrastructure enhancements, including new instrumentation, upgrades, staffing, and access to infrastructure in furtherance of the research and training goals. Coordination that unites the institute community, accelerates dissemination of results, facilitates technological innovation and development of new applications for QIST in service to the community and the nation, and justifies the value-added from an institute.
+
+Partnerships that accelerate progress on the research theme and the education and training activities.
+
+Infrastructure enhancements, including new instrumentation, upgrades, staffing, and access to infrastructure in furtherance of the research and training goals.
+
+Coordination that unites the institute community, accelerates dissemination of results, facilitates technological innovation and development of new applications for QIST in service to the community and the nation, and justifies the value-added from an institute.
+
+B. Major Activities
+
+Each Challenge Institute is expected to carry out its mission through major activities in three areas: 1) Research, 2) Education and Workforce Development, 3) Coordination. Synergistic Partnerships, Infrastructure Development, and Technological Innovation should be integrated into each of the three areas.
+
+1. Research
+
+Suggested examples of a unifying research theme for a Challenge Institute may include quantum frontiers such as:
+
+Expanding Opportunities for Quantum Technologies to Benefit Society
+
+Building the Discipline of Quantum Engineering
+
+Targeting Materials Science for Quantum Technologies
+
+Exploring Quantum Mechanics through Quantum Simulations
+
+Harnessing Quantum Information Technology for Precision Measurements
+
+Generating and Distributing Quantum Entanglement for New Applications
+
+Characterizing and Mitigating Quantum Errors
+
+Understanding the Universe through Quantum Information
+
+Exploring Quantum Phenomena in Relevant Environments such as Room Temperature Devices or Biological Systems.
+
+These research themes listed in the Quantum Frontiers Report 5 are merely examples, not a prescriptive list. The focus of a Challenge Institute may be on one theme area, or it may involve topics in multiple theme areas. Regardless of the focus, the overall unifying challenge research theme for the Institute must be clearly articulated and justified.
+
+The proposed research should identify compelling goals, milestones, and impacts, including sufficient detail on key approaches to enable innovation on physical platforms, theory, devices, and systems. Institutes may organize their research around a few interrelated research challenge (RC) topics that are united by the overall research theme. Use cases and potential end users should be identified to illustrate potential impacts. Transformative advances in both fundamental and applied QIST endeavors are encouraged.
+
+2. Education and Workforce Development
+
+Rapid development of quantum technologies and sustained progress in scientific advances and commercial applications require a growing and qualified workforce with interdisciplinary skill sets. The QLCI program aims to facilitate training of students with the combination of skills required for the conceptualization, development, and translation of new quantum technologies. The QLCI program requires activities to promote the training of students in environments that expose them to a convergent set of disciplines and help them acquire qualifications and skills needed in industry, national laboratories, and academia. New approaches to collaboration with industry are anticipated in a Challenge Institute not only to increase the translational impact of research, but also as a tool to assure the training and generation of a well-qualified workforce in quantum information science and engineering.
+
+The QLCI program also provides opportunities to nurture the growth of a vibrant cross-disciplinary research community through curriculum development, through research projects addressing various topics, as well as their integration. Relevant efforts may include: new degree programs and curriculum development within various academic departments (e.g., computer science, engineering, physics, chemistry, biology, materials science, and mathematics) and coordination across departments to foster cross-disciplinary research; development of a common basic cross-disciplinary curriculum for potential degree programs to be shared across departments; organization of conferences targeted at critical cross-disciplinary research interfaces; development of experimental prototypes and testbeds for exploring different emerging technology platforms that are accessible to the wider research community; and creation of entrepreneurial opportunities for academia-industry collaboration, technology transfer and commercialization.
+
+Although many quantum technologies are not yet mature enough for broad adoption, the Challenge Institutes are encouraged to address early-stage education, including elementary, middle, and high school levels, in the broad area of quantum science and engineering. Collaboration with organizations such as museums and venues facilitating outreach to broader audiences is also encouraged.
+
+As an integral part of their mission, the Challenge Institute teams are expected to develop new and creative approaches and strategies for cross-disciplinary training and workforce development. Successful teams are expected to provide assessment plans to evaluate effective strategies. The QLCI program also provides an opportunity to engage education scientists to study and evaluate how convergent research teams form and evolve in the context of an Institute aimed at addressing critical cross-disciplinary challenges to accelerate discovery and innovation.
+
+3. Coordination
+
+Challenge Institutes are expected to galvanize the community, facilitate partnerships, and enhance infrastructure in ways that provide value added from the institute approach.
+
+Institute proposals should articulate how the research teams will be organized, and how seminars and seasonal schools may be used in service of the institute goals, along with mechanisms for developing synergistic partnerships with industry, US national laboratories and international partners for advancing the goals and objectives of the Institute.
+
+The Institutes are required to hold internal annual PI meetings. The overall goal of such activities is to facilitate and accelerate discovery and innovation within the core Challenge Institute team, and also to engage the wider research community in areas of relevance to the Challenge Institutes vision. It is expected that such activities will facilitate the growth of a vibrant multi-disciplinary research community, engage an array of institutions and organizations, and foster new cross-cutting and convergent collaborations in various aspects of quantum information science and engineering research and workforce development.
+
+The Challenge Institute teams are expected to coordinate with their constituent organizations and partners to develop a concrete and workable plan for leveraging existing infrastructure resources in support of the Institute goals and objectives, including relevant laboratory facilities, testbeds and cyberinfrastructure to facilitate training and collaboration.
+
+Partnerships should be based on clearly defined objectives that are matched to the vision of the Challenge Institute. Partnerships are not expected to be permanent and partnership agreements may include sunset provisions as appropriate. The partnership ecosystem around a Challenge Institute is expected to be dynamic and matched at each point in time to the then-current needs of the Institute.
+
+Institutes should describe how they will address issues related to intellectual property (IP), so as to facilitate partnerships among multiple entities in academia and industry. This may involve plans to develop and execute agreements with its partners to address IP issues. Research carried out at a Challenge Institute will primarily be pre-competitive, in which case NSF requires that constituent organizations of an Institute must not be preferentially advantaged (or disadvantaged) in terms of IP rights or access to IP as a consequence of an Institute partnership.
+
+Each Challenge Institute must also ensure it is aware of, and complies with, the International Traffic in Arms Regulations (ITAR) and Export Administration Regulations (EAR) in the context of prototype and technology development.
+
+III. Award Information
+
+Anticipated Type of Award: Cooperative Agreement
+
+Estimated Number of Awards: 5 to 10
+
+An estimated 5 to 10 Challenge Institute cooperative agreements will be awarded.
+
+Anticipated Funding Amount: $200,000,000 to $300,000,000
+
+The QLCI program will support several Challenge Institute awards, which can be funded at different levels as motivated by the science and engineering challenges and proposed approaches. It is anticipated that individual Challenge Institutes can be funded at a level between $2,000,000/year and $7,500,000/year, for up to 6 years. Flexibility in the funding schedule may be allowed to enable ramping up or changing levels of effort as motivated by the Institute research, education, and coordination activities. A variety of Challenge Institute awards with a range of budget sizes and scopes will be considered. Each proposed Challenge Institute budget is expected to be commensurate with the associated QIST research, education, and coordination activities.
+
+The estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization: 2
+
+Limitations on the number of proposals per organization do not apply to the Letters of Intent.
+
+Lead organizations are limited to submit no more than two (2) Challenge Institute Preliminary Proposals. Lead organizations are limited to submit no more than two (2) invited Challenge Institute Full Proposals. Multi-institutional Challenge Institute proposals must be submitted as a single proposal by a single lead organization; separately submitted collaborative proposals are not permitted.
+
+Limit on Number of Proposals per PI or co-PI: 2
+
+Letters of Intent: Principal Investigators (PIs) and co-PIs may participate in multiple Letters of Intent. Limits on the number of Challenge Institute Full Proposals do not apply to Letters of Intent.
+
+Preliminary Proposals: Principal Investigators (PIs) and co-PIs may participate in multiple Preliminary Proposals. Limits on the number of Challenge Institute Full Proposals do not apply to Preliminary Proposals.
+
+Invited Full Proposals: The lead PI and up to four additional co-PIs who are named on the Cover Sheet of a Challenge Institute Full Proposal must only participate in one Challenge Institute Full Proposal. Senior/Key Personnel who are not named on the cover sheet of a Challenge Institute Full Proposal may participate in no more than two (2) Challenge Institute Full Proposals.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Submission of Letters of Intent is required. Please see the full text of this solicitation for further information.
+
+Preliminary Proposals: Submission of Preliminary Proposals is required. Please see the full text of this solicitation for further information.
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

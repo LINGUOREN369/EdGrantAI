@@ -9,3 +9,98 @@ Status: Cleared
 Posted date (Y-m-d): 2021-12-09
 URL: https://www.nsf.gov/funding/opportunities/gem-geospace-environment-modeling/nsf22-537
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Geospace Environment Modeling (GEM)
+
+I. Introduction
+
+The Geospace Environment Modeling (GEM) is one of three targeted programs in the Geospace Section designed to address the question of how the Sun influences geospace and the upper atmosphere. The overarching goal of the GEM program is to explore, understand, and ultimately predict the dynamics of the geospace system by advancing increasingly realistic numerical simulations, including global and specialized regional models, and capabilities for synoptic observations. In addition, the program supports an annual workshop. It is held for one week each summer to provide a forum for investigators to present and discuss recent results, exchange information, plan future experiments, and improve and develop geospace modeling capabilities. The GEM program encourages participation by students who benefit from the interdisciplinary nature of the program and its emphasis on model development and validation.
+
+II. Program Description
+
+The Geospace Environment Modeling (GEM) program is a broad-based research program focused on the physics of the Earth's magnetosphere and the coupling of the magnetosphere to the atmosphere and to the solar wind. The purpose of the GEM program is to support basic research into the dynamical and structural properties of geospace, leading to models of the geospace environment with predictive capability. To develop such a predictive model requires basic research into geospace processes through modeling, theory, observational, and experimental lab-based studies.
+
+The long-term goal of the GEM program is advancing numerical simulations of geospace that describe the global dynamics of the magnetosphere and how the magnetosphere interacts with the solar wind and the ionosphere. Advancing modeling capabilities includes metrics and validation, developing both first-principles and empirical models, as well as promoting the broader use of these models by the geospace community. The long-term goal is supported by the development of physical understanding of the integrated geospace dynamical system especially those processes required for accurate prediction. The program is committed to developing the next generation geospace researchers and submissions from early career scientists are encouraged.
+
+Towards these goals, topics are solicited in the following areas:
+
+Currently active GEM Focus Groups (FG). Information about the currently active GEM FGs can be found at the GEMwiki .
+
+Connections of the magnetosphere with climate. This includes understanding how the magnetosphere affects the lower atmosphere and longer term trends between the magnetosphere, weather, and climate.
+
+Modeling and/or observational projects incorporating machine learning/artificial intelligence techniques . Observational data sets may be included from any relevant source/federal agency but are particularly encouraged to include NSF funded observations (e.g., ground magnetometer measurements, incoherent scatter radars, and/or AMPERE).
+
+Comparative magnetosphere studies between the Earth's magnetosphere and those of other planetary or extra-solar planetary bodies. Such studies must inform on the physical processes of the geospace system in order to be considered for GEM funding.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 10 to 15
+
+new awards in each year
+
+Anticipated Funding Amount: $3,000,000
+
+for new awards in each year, pending the availability of funds
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 2
+
+Only two proposals per investigator, either as a PI, co-PI, or in a subaward, are allowed per calendar year in the GEM Program.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other Budgetary Limitations:
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

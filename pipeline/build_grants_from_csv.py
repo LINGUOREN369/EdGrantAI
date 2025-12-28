@@ -85,22 +85,32 @@ def _resolve_csv_path(path_like: Optional[str]) -> Path:
             return picks[0]
         raise FileNotFoundError(f"CSV path not found: {p}")
     # Defaults
-    base = settings.REPO_ROOT / "data" / "grants"
+    base_grants = settings.REPO_ROOT / "data" / "grants"
+    base_db = settings.REPO_ROOT / "data" / "NSF_database"
     candidates = [
-        base / "nsf_funding.csv",
-        base / "NSF_database.csv",
-        base / "NSF_database" / "NSF_database.csv",
+        base_db / "nsf_funding.csv",
+        base_grants / "nsf_funding.csv",
+        base_grants / "NSF_database.csv",
+        base_grants / "NSF_database" / "NSF_database.csv",
     ]
     for c in candidates:
         if c.exists():
             return c
-    # If not found, try any single CSV under data/grants
-    csvs = sorted(base.glob("*.csv"))
+    # If not found, try any single CSV under data/NSF_database then data/grants
+    for base in (base_db, base_grants):
+        csvs = sorted(base.glob("*.csv"))
+        if len(csvs) == 1:
+            return csvs[0]
+        if len(csvs) > 1:
+            # Prefer a file named like *fund* or *nsf*
+            pref = [p for p in csvs if "fund" in p.name.lower() or "nsf" in p.name.lower()]
+            if len(pref) == 1:
+                return pref[0]
     if len(csvs) == 1:
-        return csvs[0]
+        return csvs[0]  # fallback
     # If not found, raise with guidance
     raise FileNotFoundError(
-        "CSV not found. Provide --csv <path> or place nsf_funding.csv (or NSF_database.csv) under data/grants/"
+        "CSV not found. Provide --csv <path> or place nsf_funding.csv under data/NSF_database/ (or under data/grants/)."
     )
 
 
@@ -186,6 +196,109 @@ def extract_text_from_html(html: str) -> Tuple[Optional[str], str]:
     return title, body
 
 
+def _select_sections(text: str) -> Tuple[str, List[str]]:
+    """Return (selected_text, found_labels) for these sections:
+      - Summary of Program Requirements (or 'Synopsis of Program' fallback)
+      - I. Introduction
+      - II. Program Description
+      - III. Award Information
+      - IV. Eligibility Information
+
+    Heuristic, case-insensitive, based on heading lines. Stops sections at the
+    next recognized heading or any Roman numeral heading (V., VI., ...).
+    """
+    # Normalize newlines
+    lines = text.splitlines()
+
+    # Compile patterns for starts of sections we want (roman and plain variants)
+    want_patterns = [
+        ("Summary of Program Requirements", re.compile(r"^\s*(summary\s+of\s+program\s+requirements|synopsis\s+of\s+program|synopsis)\b.*$", re.I)),
+        ("I. Introduction", re.compile(r"^\s*(i\.[\s\-]*)?introduction\b.*$", re.I)),
+        ("II. Program Description", re.compile(r"^\s*(ii\.[\s\-]*)?program\s+description\b.*$", re.I)),
+        ("III. Award Information", re.compile(r"^\s*(iii\.[\s\-]*)?award\s+information\b.*$", re.I)),
+        ("IV. Eligibility Information", re.compile(r"^\s*(iv\.[\s\-]*)?eligibility\s+information\b.*$", re.I)),
+    ]
+
+    # Any Roman numeral heading marks a potential boundary for sections
+    roman_boundary = re.compile(r"^\s*[IVXLCDM]+\.[^\S\n]*.*$", re.I)
+
+    # Find starts
+    starts: List[Tuple[str, int]] = []
+    for idx, line in enumerate(lines):
+        s = line.strip()
+        if not s:
+            continue
+        for label, pat in want_patterns:
+            if pat.match(line):
+                # Avoid adding both Summary and Synopsis for same location: keep first match
+                starts.append((label, idx))
+                break
+
+    # No need for dedupe now; summary/synopsis share same label
+
+    if not starts:
+        # Nothing matched; return empty string and empty labels list
+        return "", []
+
+    # Sort by position then group by desired canonical order
+    starts.sort(key=lambda t: t[1])
+
+    # Build mapping from label to index, but only keep the earliest occurrence
+    first_pos: Dict[str, int] = {}
+    for label, pos in starts:
+        if label not in first_pos:
+            first_pos[label] = pos
+
+    # Pull sections in the canonical order
+    order = [
+        "Summary of Program Requirements",
+        "I. Introduction",
+        "II. Program Description",
+        "III. Award Information",
+        "IV. Eligibility Information",
+    ]
+    # If Summary missing, try Synopsis
+    if "Summary of Program Requirements" not in first_pos and any(lbl.startswith("Synopsis of Program") for lbl, _ in starts):
+        first_pos["Summary of Program Requirements"] = min(pos for lbl, pos in starts if lbl.startswith("Synopsis of Program"))
+
+    # Helper: find next boundary index after a given start
+    def next_boundary(after_idx: int) -> int:
+        # Next recognized wanted section or any roman heading (e.g., V.)
+        next_indices: List[int] = []
+        for _, pos in starts:
+            if pos > after_idx:
+                next_indices.append(pos)
+        # Also detect any roman heading boundary beyond after_idx
+        for j in range(after_idx + 1, len(lines)):
+            if roman_boundary.match(lines[j]):
+                next_indices.append(j)
+                break
+        return min(next_indices) if next_indices else len(lines)
+
+    pieces: List[str] = []
+    found: List[str] = []
+    for label in order:
+        if label not in first_pos:
+            continue
+        start = first_pos[label]
+        end = next_boundary(start)
+        # Extract block content up to boundary and drop the heading line(s)
+        block_lines = lines[start:end]
+        # Drop the first line (likely the heading) to avoid duplication
+        content_lines = block_lines[1:] if len(block_lines) > 1 else []
+        content = "\n".join(content_lines).strip()
+        if content:
+            # Insert a normalized header for clarity
+            pieces.append(f"{label}\n\n{content}")
+            found.append(label)
+    return "\n\n".join(pieces).strip(), found
+
+
+def _extract_selected_sections(text: str) -> str:
+    sel, _ = _select_sections(text)
+    return sel
+
+
 def _parse_structured_from_text(text: str) -> Dict[str, str]:
     """Heuristic parsing for common NSF solicitation fields from page text."""
     found: Dict[str, str] = {}
@@ -217,10 +330,28 @@ def _parse_structured_from_text(text: str) -> Dict[str, str]:
     return found
 
 
-def build_text_from_row(row: Dict[str, str], url_col: Optional[str], title_col: str, fetch: bool) -> str:
+REQUIRED_SECTION_LABELS = [
+    "I. Introduction",
+    "II. Program Description",
+    "III. Award Information",
+    "IV. Eligibility Information",
+]
+
+
+def build_text_from_row(
+    row: Dict[str, str],
+    url_col: Optional[str],
+    title_col: str,
+    fetch: bool,
+    *,
+    require_all_sections: bool = False,
+) -> Optional[str]:
     lines: List[str] = []
     # URL first line (if present)
-    url_val = row.get(url_col or "", "").strip() if url_col else ""
+    try:
+        url_val = (row.get(url_col) or "").strip() if url_col else ""
+    except Exception:
+        url_val = ""
     if url_val.lower().startswith("http://") or url_val.lower().startswith("https://"):
         lines.append(url_val)
         lines.append("")
@@ -250,35 +381,17 @@ def build_text_from_row(row: Dict[str, str], url_col: Optional[str], title_col: 
         else:
             html = body.decode("utf-8", errors="ignore")
             title, text = extract_text_from_html(html)
-            # Append a section with extracted info
-            lines.append("")
-            if title:
-                lines.append(f"Page Title: {title}")
-            # Parse structured fields
+            # Append only the requested sections from the solicitation page
             if text:
-                # Deadlines via existing extractor
-                dl = extract_deadline_info(text)
-                parsed = _parse_structured_from_text(text)
-                # Deadlines summary
-                if isinstance(dl, dict):
-                    lines.append("Deadline (parsed):")
-                    status = dl.get("status")
-                    dates = dl.get("dates") or []
-                    if status:
-                        lines.append(f"  status: {status}")
-                    if dates:
-                        try:
-                            joined = ", ".join(dates)
-                        except Exception:
-                            joined = str(dates)
-                        lines.append(f"  dates: {joined}")
-                # Other structured fields
-                for k, v in parsed.items():
-                    lines.append(f"{k}: {v}")
-                # Raw text last
-                lines.append("")
-                lines.append("Extracted from solicitation page:")
-                lines.append(text)
+                selected, found = _select_sections(text)
+                has_all = all(lbl in found for lbl in REQUIRED_SECTION_LABELS)
+                if require_all_sections and not has_all:
+                    # Not sufficient — skip this row entirely
+                    return None
+                if selected:
+                    lines.append("")
+                    lines.append("Extracted from solicitation page (selected sections):")
+                    lines.append(selected)
 
     return "\n".join(lines).rstrip() + "\n"
 
@@ -295,7 +408,36 @@ def unique_path(out_dir: Path, base_stem: str) -> Path:
         i += 1
 
 
-def process_csv(csv_path: Path, out_dir: Path, *, fetch: bool, overwrite: bool) -> Tuple[int, int]:
+def _is_grant_row(row: Dict[str, str], headers: Sequence[str]) -> bool:
+    """Return True if the CSV row represents a grant/solicitation to include.
+
+    Heuristics:
+    - Must have a non-empty Solicitation URL (http/https)
+    - Exclude Dear Colleague Letters (Type contains 'dear colleague')
+    """
+    # Locate keys case-insensitively
+    type_key = _best_column(headers, ["type"]) or "Type"
+    sol_key = _best_column(headers, ["solicitation url", "solicitation link", "solicitation"]) or "Solicitation URL"
+    tval = (row.get(type_key) or "").strip().lower()
+    if "dear colleague" in tval:
+        return False
+    sol = (row.get(sol_key) or "").strip()
+    if not (sol.startswith("http://") or sol.startswith("https://")):
+        return False
+    return True
+
+
+def process_csv(
+    csv_path: Path,
+    out_dir: Path,
+    *,
+    fetch: bool,
+    overwrite: bool,
+    limit: Optional[int] = None,
+    skip: int = 0,
+    prune_skipped: bool = False,
+    require_all_sections: bool = False,
+) -> Tuple[int, int]:
     out_dir.mkdir(parents=True, exist_ok=True)
     with open(csv_path, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
@@ -324,8 +466,33 @@ def process_csv(csv_path: Path, out_dir: Path, *, fetch: bool, overwrite: bool) 
 
         total = 0
         written = 0
-        for row in reader:
+        processed = 0
+        for idx, row in enumerate(reader):
+            if skip and idx < skip:
+                continue
+            if limit is not None and processed >= limit:
+                break
             total += 1
+            # Filter non-grants (DCLs, missing solicitation URL)
+            if not _is_grant_row(row, headers):
+                if prune_skipped:
+                    # Remove existing file for this row if present (based on slug)
+                    title_key = _best_column(headers, [
+                        "title",
+                        "opportunity title",
+                        "name",
+                        "program title",
+                    ])
+                    title_val = (row.get(title_key) or "").strip() if title_key else ""
+                    stem = "nsf_" + slugify(title_val or f"opportunity_{idx+1}")
+                    base = out_dir / f"{stem}.txt"
+                    if base.exists():
+                        try:
+                            base.unlink()
+                            print(f"[prune] removed non-grant file {base.name}")
+                        except Exception:
+                            pass
+                continue
             # Title and fallback
             title_val = (row.get(title_key) or "").strip() if title_key else ""
             if not title_val:
@@ -339,8 +506,25 @@ def process_csv(csv_path: Path, out_dir: Path, *, fetch: bool, overwrite: bool) 
                         break
             stem = "nsf_" + slugify(title_val or f"opportunity_{total}")
 
-            # Build text
-            content = build_text_from_row(row, url_key, title_key, fetch)
+            # Build text (may return None if require_all_sections is True and sections incomplete)
+            content = build_text_from_row(
+                row,
+                url_key,
+                title_key or "",
+                fetch or require_all_sections,
+                require_all_sections=require_all_sections,
+            )
+            if content is None:
+                if prune_skipped:
+                    out_path = out_dir / f"{stem}.txt"
+                    if out_path.exists():
+                        try:
+                            out_path.unlink()
+                            print(f"[prune] removed incomplete-section file {out_path.name}")
+                        except Exception:
+                            pass
+                print(f"[skip] missing required sections for {stem}")
+                continue
 
             # Write
             out_path = out_dir / f"{stem}.txt"
@@ -350,7 +534,8 @@ def process_csv(csv_path: Path, out_dir: Path, *, fetch: bool, overwrite: bool) 
             written += 1
             print(f"[ok] {out_path.name}")
             # polite pacing if fetching
-            if fetch and (total % 5 == 0):
+            processed += 1
+            if fetch and (processed % 5 == 0):
                 time.sleep(0.2)
 
     return total, written
@@ -362,6 +547,10 @@ def _parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
     p.add_argument("--out-dir", default=str(DEFAULT_OUT_DIR), help="Output directory (default: data/grants)")
     p.add_argument("--no-fetch", action="store_true", help="Do not fetch solicitation URLs for page text")
     p.add_argument("--overwrite", action="store_true", help="Overwrite existing files instead of uniquifying")
+    p.add_argument("--limit", type=int, help="Limit to the first N rows (after skipping)")
+    p.add_argument("--skip", type=int, default=0, help="Skip the first N data rows before processing")
+    p.add_argument("--prune-skipped", action="store_true", help="Delete any existing .txt for rows filtered out (non-grants or incomplete sections)")
+    p.add_argument("--require-all-sections", action="store_true", help="Include only rows where I–IV sections are found on the solicitation page")
     return p.parse_args(argv)
 
 
@@ -375,7 +564,16 @@ def main(argv: Optional[List[str]] = None) -> int:
     out_dir = Path(args.out_dir)
     fetch = not args.no_fetch
     try:
-        total, written = process_csv(csv_path, out_dir, fetch=fetch, overwrite=args.overwrite)
+        total, written = process_csv(
+            csv_path,
+            out_dir,
+            fetch=fetch,
+            overwrite=args.overwrite,
+            limit=args.limit,
+            skip=args.skip,
+            prune_skipped=args.prune_skipped,
+            require_all_sections=args.require_all_sections,
+        )
         print(f"[done] processed {total} rows → wrote {written} files to {out_dir}")
         return 0
     except Exception as e:

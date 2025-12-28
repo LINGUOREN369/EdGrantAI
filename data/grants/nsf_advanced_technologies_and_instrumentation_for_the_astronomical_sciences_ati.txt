@@ -10,3 +10,132 @@ Status: Cleared
 Posted date (Y-m-d): 2022-08-17
 URL: https://www.nsf.gov/funding/opportunities/ati-advanced-technologies-instrumentation-astronomical-sciences/nsf22-627
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Advanced Technologies and Instrumentation for the Astronomical Sciences (ATI)
+
+I. Introduction
+
+The Division of Astronomical Sciences (AST) of the National Science Foundation is the primary source of federal funding support for ground-based astronomy in the U.S. The Division supports a broad range of activities from funding national observational facilities to the research programs of individual scientists and graduate students. As of July 1, 2022, AST supports the development and operation of six national astronomy centers: the National Optical-Infrared Astronomy Research Laboratory (NOIRLab), the National Solar Observatory (NSO), the Daniel K. Inouye Solar Telescope (DKIST), the National Radio Astronomy Observatory (NRAO), the Green Bank Observatory (GBO), and the Arecibo Observatory (AO). AST supports the construction and operation of the Vera Rubin Observatory (Rubin). The Division provides the U.S. share of funding for two international facilities—the operation of the Gemini Observatory and the operation of the Atacama Large Millimeter/submillimeter Array (ALMA).
+
+Division programs also support the development of advanced technologies and instrumentation, mid-scale projects, the planning and design for future observational facilities and major collaborative projects in astronomy, and the management of the electromagnetic spectrum for scientific use.
+
+The Division supports individual investigators and small groups engaged in a broad array of observational, theoretical, laboratory, and archival data studies. Special grants and fellowship programs for junior faculty, postdoctoral fellows, and undergraduate students are designed to encourage the activities of researchers engaged in education and outreach.
+
+More information about the Division and its programs can be found at https://www.nsf.gov/div/index.jsp?org=AST .
+
+II. Program Description
+
+The Advanced Technologies and Instrumentation for the Astronomical Sciences (ATI) program supports the overarching science objectives of the Division of Astronomical Sciences. Decadal surveys of Astronomy & Astrophysics may be consulted for examples of science objectives that are considered to be timely and important. The ATI program provides both individual investigator and collaborative research grants for development of new technologies and instrumentation for use in ground based astronomy and astrophysics research. Proposals may request support for advanced technology development, concept feasibility studies, and instrumentation to enable new observations that are difficult to obtain with existing means. This includes observing at wavelengths where there is electromagnetic interference from human and natural, radio and OIR sources. Proposals that principally deploy existing or off-the-shelf instrumentation should demonstrate an innovative use of such instrumentation.
+
+The ATI program funds technology and instrument development projects that support the study of astronomical sources from ground-based observatories, which operate from optical through radio wavebands of the electromagnetic spectrum. Suitable proposal topics include innovative hardware, software and/or analysis methods that are applicable for use in research supported by the Division of Astronomical Sciences. A broad range of technologies are of relevance including (but not limited to): high contrast adaptive optics systems, extreme-precision radial velocity techniques, high resolution spectrometers, interferometers, massively multiplexed spectroscopy techniques, astrophotonics, imaging detectors, telescopes and antennae, optics and optical devices, and correlators and elements of radio cameras.
+
+In all cases, proposals must adequately demonstrate the astronomical context of the work or it shall be returned without review. Submissions need to demonstrate that the technology, instrumentation, and/or software being proposed will significantly advance and improve ground-based astronomy observations. Such proposed developments may also have a secondary relevance to space based projects.
+
+Routine upgrades to existing instruments and facilities will be given lower priority. This solicitation generally supports projects that are more exploratory, smaller in scope and may have higher risk than those suitable for the Mid-Scale Innovations Program or the Major Research Instrumentation Program. Please contact a cognizant NSF program officer if you have any questions about the suitability of your proposal for submission to the ATI Program.
+
+The program supports making enhanced capabilities available to the wider astronomical community. Although technology and instrumentation intended for private observatories are permitted, such submissions must describe the specific benefits to the entire U.S. astronomical community. This is an important criterion upon which proposals will be evaluated. For more details, see Section VI.A, Additional Solicitation Specific Review Criteria.
+
+The program supports community coordination and sharing of experience in technology development. Investigators are required to participate in an annual Principal Investigators (PI) meeting and should include travel funds to attend this meeting in their budgets. These meetings may be run in an in-person, virtual or hybrid mode and are scheduled in the September-October period.
+
+Accomplishment-Based Renewal proposals will not be accepted to this solicitation and will be returned without review.
+
+Proposals to this program are selected according to review criteria specified in Section VI of this solicitation. In particular, criteria that are unique to this solicitation are specified in section VI.A. Additional Solicitation Specific Review Criteria.
+
+Additional Funding Opportunities Inside the ATI Program
+
+The ATI Program will accept Research in Undergraduate Institutions (RUI) proposals. RUI proposals submitted to the ATI program must meet the ATI requirements, guidelines, and deadlines. Information about the RUI program and the format of these proposals can be found at https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5518 .
+
+The ATI Program will accept proposals for the Computational and Data Enabled Science and Engineering (CDS&E) funding opportunity, PD 22-8084. CDS&E proposals submitted to the ATI program must meet the ATI requirements, guidelines, and deadlines. CDS&E proposals submitted to the ATI Program must explicitly address the CDS&E program goals within the 15-page Project Description. More information about the CDS&E program can be found at https://beta.nsf.gov/funding/opportunities/computational-and-data-enabled-science-and-engineering-cdse-0
+
+Additional Funding Opportunities Outside the ATI Program
+
+Funding for technology and instrumentation may be awarded within other programs, such as the NSF-wide Faculty Early Career Development (CAREER) program or the Major Research Instrumentation (MRI) program. In particular, the MRI program serves to increase access to multi-user scientific and engineering instrumentation for research and research training in our nation's institutions of higher education and not-for-profit scientific/engineering research organizations. MRI projects require cost-sharing, are subject to institutional limits, and have a maximum cost to the NSF of $4 million. Within the Division of Astronomical Sciences, funding for technology and instrumentation may be awarded through the Mid-Scale Innovations Program (MSIP), which supports a variety of astronomical activities, typically with a total project cost exceeding $4 million. Some support for technology and instrumentation may be awarded through the Astronomy and Astrophysics Grants (AAG) program. Proposers may contact the NSF Program Officer for guidance if there are questions as to which solicitation may be most appropriate for submission.
+
+The guidelines in this solicitation do not apply to proposals submitted in response to other solicitations. This ATI solicitation also does not apply to requests for supplemental funding, conference proposals, Grants for Rapid Response Research (RAPID) or EArly-concept Grants for Exploratory Research (EAGER) proposals. Information on, and proposal preparation instructions for conferences, RAPIDs, and EAGERs are contained in the PAPPG Chapter II.E.
+
+Supplemental Funding Requests
+
+In order to receive full consideration, requests for Research Experiences for Undergraduates (REU), Research Opportunity Awards (ROA), Research Experiences for Teachers (RET), Alliances for Graduate Education and the Professoriate (AGEP) and other supplemental funding requests should be submitted by April 1 in the year for which the supplemental funds are requested. Later submissions of supplemental funding requests should be discussed with the cognizant AST program officer before submission. Guidance on preparing supplemental funding requests is contained in the NSF Proposal & Award Policies & Procedures Guide .
+
+Conference Proposals
+
+AST supports conferences, symposia, and workshops in areas of science supported by AST that bring experts together to discuss current research, to expose other researchers or students to new research methods, and to discuss future directions. Conferences may be supported only if equivalent results cannot be obtained at regular meetings of professional societies or other established conference series. For guidance on preparing conference proposals, see Chapter II.E.9 in the most recent version of the PAPPG ( https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg ).
+
+In particular, such proposals should be submitted at least 12 months before the anticipated conference or meeting date. Proposers are encouraged to contact an AST Program Officer prior to submission about the suitability of the proposed activity for support.
+
+Information Sharing with NASA
+
+NSF has a Memorandum of Understanding (MOU) with the National Aeronautics and Space Administration (NASA). Under the MOU, NSF may share information from proposals with NASA for consideration of joint funding and may invite NASA employees to attend merit review panels as observers.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 10
+
+About 10 projects will be funded per year, pending availability of funds.
+
+Anticipated Funding Amount: $8,000,000
+
+Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+The categories of proposers eligible to submit proposals to the National Science Foundation are identified in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), Chapter I.E. Unaffiliated individuals are not eligible to submit proposals in response to this solicitation.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

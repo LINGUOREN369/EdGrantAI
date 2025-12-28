@@ -10,3 +10,102 @@ Status: Cleared
 Posted date (Y-m-d): 2022-07-26
 URL: https://www.nsf.gov/funding/opportunities/aapf-nsf-astronomy-astrophysics-postdoctoral-fellowships/nsf22-621
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+NSF Astronomy and Astrophysics Postdoctoral Fellowships (AAPF)
+
+I. Introduction
+
+NSF Astronomy and Astrophysics Postdoctoral Fellowships (AAPF) provide an opportunity for highly qualified, recent doctoral scientists to carry out an integrated program of independent research and education. Fellows may engage in observational, instrumental, theoretical, laboratory or archival data research in any area of astronomy or astrophysics, in combination with a coherent educational plan for the duration of the fellowship. The program supports researchers for a period of up to three years with fellowships that may be taken to eligible host institutions of their choice. The program is intended to recognize early-career investigators of significant potential and to provide them with experience in research and education that will establish them in positions of distinction and leadership in the scientific community.
+
+II. Program Description
+
+Proposers are encouraged to approach the fellowships as opportunities to broaden their experience with research that moves beyond their previous research focus and that takes a broad view of integrating disciplines, extending technical approaches to problems, or expanding collaborations. Research that highlights the creative use of or is clearly related to NSF-funded facilities, institutes, or projects is particularly encouraged but not required. We encourage proposers to consider programs that focus on areas of research that are particularly facilitated or enabled by new ground-based capabilities in radio, optical/infrared, or solar astrophysics, including the development of theory that guides their use or the interpretation of resulting data.
+
+In all cases, proposals must demonstrate the astronomical context of the work. Proposals that do not adequately demonstrate the astronomical context shall be returned without review. Proposals that fund work at NASA centers or sites or have a work effort that is directly in support of NASA instruments or missions shall be returned without review. It is expected that proposals which predominantly exploit NASA data or resources will be submitted to NASA. AAPF proposals with extensive work to model or analyze data from NASA missions must include a section describing how this uniquely advances the science goals of the proposal, and synergies with data or methods beyond NASA. Please contact a cognizant NSF program officer if you have any questions about the suitability of your proposal for the AAPF Program.
+
+Proposers are expected to include educational activities in their fellowship plans, and they must present a substantive, coherent program of educational activities as part of the proposal. Examples of such activities include teaching or co-teaching one course each year at the host institution or an academic institution with ties to their host institution, developing educational materials, or engaging in a significant program of outreach or public education. As a rough guideline, Fellows should plan to dedicate no less than 10% and no more than 25% of their time towards their educational activities; proposers should identify the anticipated time commitment for their proposed activities. Proposers are encouraged to discuss the proposed educational activities with their prospective host institution prior to proposal submission to ensure that their educational plan is consistent with opportunities and plans at the institution.
+
+Candidates may propose to hold the fellowship at U.S. institutions of higher education, NSF-funded centers, facilities, institutes, or U.S. non-profit organizations with research and educational missions. Fellowship tenure is also allowed at international sites that are operated by U.S. organizations eligible for NSF funding, such as the Atacama Large Millimeter/submillimeter Array, Cerro Tololo InterAmerican Observatory, or Gemini South. Fellows are expected to be fully integrated into the research and educational activities of their host institution.
+
+National centers, sites, facilities, or institutes primarily funded by other federal agencies, such as NASA or the U.S. Department of Energy, are ineligible as host institutions for the NSF AAPF Program.
+
+The fellowship candidate must present a coherent research and educational plan throughout the proposed duration of the fellowship. However, the candidate may propose to take the fellowship to more than one host institution. Changes of institution may be sequential, which permits moving from one institution to another during the duration of the fellowship. Holding the fellowship at two institutions simultaneously, for example at an NSF-funded national center and a nearby university, is also possible. In the event of proposing to hold the fellowship at more than one institution simultaneously, the proposer must identify a primary host institution. In any case, the justification of the choice of institution(s) must be made clearly and compellingly as related to the proposed research and education plans, the professional development of the Fellow, and the activities of the host institution(s).
+
+III. Award Information
+
+Anticipated Type of Award: Fellowship
+
+Estimated Number of Awards: 8 to 9
+
+Anticipated Funding Amount: $880,000 to $990,000 in FY2023, subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+NSF Astronomy and Astrophysics Postdoctoral Fellowships are awards to individuals; proposals are submitted directly by the fellowship candidate to NSF. Each proposer must identify one or more scientific mentor(s) and host institution(s) at the time of proposal submission. Prospective Fellows may propose to hold the fellowship at: U.S. institutions of higher education, NSF-funded centers, facilities, or institutes, U.S. non-profit organizations with research and educational missions, or International sites that are operated by U.S. organizations eligible for NSF funding, such as the Atacama Large Millimeter/submillimeter Array, Cerro Tololo InterAmerican Observatory, or Gemini South. National centers, facilities, sites, or institutes funded by other federal agencies, such as NASA or the U.S. Department of Energy, are ineligible as host institutions for the NSF AAPF Program.
+
+U.S. institutions of higher education,
+
+NSF-funded centers, facilities, or institutes,
+
+U.S. non-profit organizations with research and educational missions, or
+
+International sites that are operated by U.S. organizations eligible for NSF funding, such as the Atacama Large Millimeter/submillimeter Array, Cerro Tololo InterAmerican Observatory, or Gemini South.
+
+National centers, facilities, sites, or institutes funded by other federal agencies, such as NASA or the U.S. Department of Energy, are ineligible as host institutions for the NSF AAPF Program.
+
+Who May Serve as PI:
+
+Fellowships are awarded to individuals. The fellowship candidate submits their proposal directly to NSF.
+
+An individual is eligible to submit a proposal to the NSF AAPF Program if all of the following criteria are met:
+
+The proposer is a citizen, national, or lawful permanent resident (Green Card Holder) of the United States.
+
+The proposer has earned the doctoral degree in an appropriate scientific field within five (5) years prior to the proposal submission deadline or will complete the doctoral degree by 1 October following the proposal deadline.
+
+By signing and submitting the proposal, the fellowship candidate is certifying that they meet the eligibility criteria specified in this program solicitation. Willful provision of false information in this request and its supporting documents or in reports required under an ensuing award is a criminal offense (U.S. Code, Title 18, Section 1001).
+
+Limit on Number of Proposals per Organization:
+
+Limit on Number of Proposals per PI or co-PI:
+
+Each proposer may submit only one AAPF proposal per annual competition. In addition, a proposer may not participate in more than two AAPF competitions. Proposals that are not reviewed (i.e., withdrawn before review or returned without review) do not count toward the two-competition limit.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

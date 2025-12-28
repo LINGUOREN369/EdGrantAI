@@ -10,3 +10,102 @@ Status: Cleared
 Posted date (Y-m-d): 2023-07-13
 URL: https://www.nsf.gov/funding/opportunities/msprf-mathematical-sciences-postdoctoral-research-fellowships/nsf23-603
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Mathematical Sciences Postdoctoral Research Fellowships (MSPRF)
+
+I. Introduction
+
+As researchers in the mathematical sciences expand their interactions with other disciplines, and as the interplay increases among the various areas of mathematics and statistics, opportunities for postdoctoral research and training become increasingly important. Postdoctoral fellowships are designed to provide increased flexibility for awardees in choosing research environments that will have maximal impact on their future scientific development. Awards of these fellowships will support research in areas of mathematics and statistics, including applications to other disciplines. The proposed research must be in an area of mathematics and statistics.
+
+II. Program Description
+
+The purpose of the Mathematical Sciences Postdoctoral Research Fellowships (MSPRF) is to provide flexibility for a Fellow to pursue a research program in the mathematical sciences in a postdoctoral research environment that will have maximal impact on the Fellow's scientific development. The Fellow will affiliate with a host institution during the entire tenure of the fellowship and select a sponsoring scientist who will provide mentoring and guidance for both the research and training proposed by the Fellow. The Fellow is responsible for making prior arrangements with the sponsoring scientist.
+
+The Fellow will have two options for holding the fellowship:
+
+The Research Fellowship option provides full-time support for any eighteen academic-year months in a three-year period, in intervals not shorter than three consecutive months;
+
+The Research Instructor-ship option provides a combination of full-time and half-time support over a period of three academic years, usually one academic year full-time followed by two academic years half-time. This option allows the Fellow the opportunity to gain teaching experience during the two half-time academic years. The full-time fellowship support will be provided during the first year except in extremely unusual circumstances, with any exception subject to approval by the managing program director.
+
+Under both options the award includes six summer months of support.
+
+The MSPRF program is designed to foster close collaboration between the Fellow and the sponsoring scientist, to promote the Fellow's professional development. For this reason, long-term absences of the Fellow from the host institution, unless accompanied by the sponsoring scientist, are not generally compatible with the intent of the MSPRF program, and any such absence longer than one month in duration must be approved in advance by the cognizant program director. If the Fellow plans an absence from the host institution of duration longer than one month during the first year of the Fellowship, the MSPRF proposal must fully describe in a supplementary document the rationale and plans for such an absence. Plans for long-term absences (which are expected to be uncommon) are subject to review together with the rest of the proposal. Program directors will typically not approve long-term absences of the Fellow from the host institution, unaccompanied by the sponsoring scientist, during the first year of a Fellowship unless plans for the long-term absence are spelled out in the proposal.
+
+III. Award Information
+
+Anticipated Type of Award: Fellowship
+
+Estimated Number of Awards: 35 to 45
+
+Anticipated Funding Amount: $8,500,000 subject to availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+The Mathematical Sciences Postdoctoral Research Fellowships are awards to individuals, and proposals are submitted directly by the fellowship proposer to NSF. Fellows must affiliate with institutions or organizations (e.g., Institutions of Higher Education (IHEs), government and national laboratories and facilities, privately sponsored nonprofit institutes and museums, and for-profit organizations under certain conditions).
+
+Who May Serve as PI:
+
+An individual is eligible to submit a proposal to this program if all the following criteria are met:
+
+Must, at the time of submission, be a U.S. citizen, U.S. national, or a legally admitted permanent resident alien of the United States;
+
+May not have held the doctoral degree more than 2 years as of January 1 of the year of the award;
+
+Must propose research in an area of mathematics or statistics;
+
+May not have previously been a principal investigator or co-principal investigator of an NSF award (other than a graduate research fellowship or an award in support of a conference or workshop);
+
+May not submit a research plan duplicated in another NSF proposal;
+
+Must not have previously been offered an award by the MSPRF program; and
+
+Must have a doctoral degree conferred before the postdoctoral appointment start date.
+
+Proposals that fail to meet the above eligibility requirements will be returned without review.
+
+By signing and submitting the proposal, the fellowship candidate is certifying that they meet the eligibility criteria specified in this program solicitation. Willful provision of false information in this request and its supporting documents or in reports required under an ensuing award is a criminal offense (U.S. Code, Title 18, Section 1001).
+
+Limit on Number of Proposals per Organization:
+
+Only individuals may submit proposals. There is no limit on the number of fellows that an institution may host.
+
+Limit on Number of Proposals per PI or co-PI:
+
+One proposal per individual per year.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Not Applicable

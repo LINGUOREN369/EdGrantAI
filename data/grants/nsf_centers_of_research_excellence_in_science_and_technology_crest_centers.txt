@@ -14,3 +14,156 @@ Status: Current but no longer receiving proposals
 Posted date (Y-m-d): 2023-05-24
 URL: https://www.nsf.gov/funding/opportunities/crest-centers-centers-research-excellence-science-technology/nsf23-595
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Centers of Research Excellence in Science and Technology (CREST Centers)
+
+I. Introduction
+
+Centers of Research Excellence in Science and Technology (CREST Centers) is managed by the Division of Equity for Excellence in STEM (EES). Across the agency and with guidance from the National Science Board, NSF is working to increase STEM skills and advance STEM opportunities for all Americans.
+
+NSF expects that awards made under the CREST program will catalyze institutional transformation in the development of research capabilities in alignment with the institution's mission and long-term goals and that the institutions will evaluate the impact of the award in effecting this transformation. Demonstrated leadership in the involvement of groups traditionally underrepresented in STEM is expected at all levels - students, postdoctoral researchers, and faculty. The research activities supported by CREST are expected to enable the full participation of faculty, graduate students, and undergraduates in a nationally competitive research enterprise. Outcomes and activities such as publications, involvement in regional, national, and international research forums, patents and commercial dissemination of research results, professional development of postdoctoral research associates, training of doctoral and master's students, and involvement of undergraduates in research activities should all occur in ways that establish the potential for national leadership.
+
+The ability of CREST Centers to leverage funding from federal, state, and local agencies as well as to foster industrial and academic collaborations as part of a sustainable research enterprise independent from CREST Centers funding, are important outcomes. At the same time, the projects will promote synergy between education and research; develop outreach activities for pre-college students, K-12 educators, and the general public; and serve as a model for research scholarship throughout the institution.
+
+II. Program Description
+
+1) General Characteristics
+
+Both Phase I and Phase II CREST Centers provide multi-year support for institutions that demonstrate a strong research base. The CREST Center proposal should clearly demonstrate a strong potential for the CREST Center to achieve national research competitiveness and to generate future non-CREST funding from federal, state, or private-sector sources. Preference will be given to institutions with demonstrated strengths in NSF-supported fields, as evidenced by a capacity to offer doctoral degrees in one or more STEM disciplines. Priority consideration will be given to STEM disciplines where minorities are less than 40% of graduates in that STEM discipline.
+
+CREST Centers integrate research and education, and must promote the development of new knowledge, enhance faculty research productivity, and increase diverse representation in STEM disciplines. CREST Center awards are typically 60-month continuing grants of up to $7.5 million. These funds are used to improve elements that the institution has identified as being critical to strengthening its future research capacity for national competitiveness.
+
+The proposed CREST Center director must be prepared to provide leadership in developing and overseeing an inclusive diverse team positioned to fulfill the vision of the CREST Center. CREST Centers will engage students, postdoctoral researchers, and faculty from underrepresented groups in numbers that can have a significant impact on increasing the diversity of the STEM workforce.
+
+CREST Centers may be organized around the development of groups of individual scientists or engineers; one or more science or engineering departments; or interdisciplinary/multidisciplinary research areas. Typically, a CREST Center consists of three to five scientifically meritorious research projects (referred to as subprojects in this solicitation) led by independent investigators, which are relevant to the unifying central research focus and overall objective of the CREST Center. These interrelated research projects are supported by a common administrative core. For more details, please refer to the Proposal Preparation Instructions.
+
+It is expected that CREST Center awards will add substantial, measurable value to the existing STEM research capability in areas of high national and institutional priority. Examples of areas of high national priority are data science and analytics; advanced materials, manufacturing, and robotics; cybersecurity; plant genetics/agricultural technologies; quantum information sciences; nanotechnology; semiconductors/microelectronics technologies; climate change and clean energy; and areas outlined in the resources below:
+
+CHIPS and Science Act of 2022
+
+Industries of the Future
+
+Understanding the Brain
+
+DOE Earthshots
+
+2) Commitment and Sustainability
+
+Organizational commitment from administrators and leaders to the proposed activities is vital for successful CREST Centers and for financial and organizational sustainability of promising activities. Letters of support from the provost or equivalent university officials with authority related to faculty, research, facilities and/or equipment, and education are required and should be submitted as supplementary documents.
+
+Proposals should discuss the commitment of leadership to research capacity-building either with additional grants and/or through changes to current practices. Proposals should discuss how the successful components developed under the CREST Center will be sustained. Awards are expected to lead to long-term organizational changes in the ways that the institution supports faculty members in increasing their research productivity. Therefore, awards are expected to consider the sustainability and institutionalization of the CREST Center's activities from the beginning of the project.
+
+3) Leadership, Management, and Oversight of the CREST Center
+
+The proposed CREST Center team must provide the leadership to develop and lead a diverse team to fulfill the vision of the CREST Center. CREST Centers will engage students, postdoctoral researchers, and faculty from underrepresented groups in numbers that can have a significant impact on building a diverse STEM workforce. CREST is committed to a culture and climate of research that results in an inclusive and diverse workforce. For this reason, CREST strongly encourages the inclusion of women in the identified leadership teams for CREST Centers.
+
+Each proposed CREST Center shall convene, at least annually, an external advisory committee (EAC). The function of the EAC is to provide guidance and advice to the CREST Center as well as to ensure that the CREST Center's activities are consistent with its vision, goals, and objectives. The advisors should include representatives from those served by the CREST Center (e.g., academic institutions, industry, state and local agencies, and national laboratories) and reflect the diversity of participants inherent in the citizenry of the United States. NSF highly encourages industry members in the EAC that can advise on intellectual property issues, acquisition of SBIR funding, and other means to support the financial and organizational sustainability of the CREST Center. Persons with a financial, institutional, or collaborative connection to the CREST Center may not serve as members of the EAC. Do not identify members of the EAC in the proposal.
+
+Each CREST Center shall also have an internal steering committee to include the PI, co-PIs, and other stakeholders.
+
+4) Collaborations / Partnerships
+
+Collaborative efforts involving industry, other research universities, federally funded laboratories, K-12 schools, museums, and science centers, and/or other national, state, or regional research and development institutions are required. Subawards to such collaborating institutions are permitted, subject to restrictions outlined in the PAPPG. The total amount of funding to all subawardee institutions cannot exceed 10% of the cumulative budget going to the primary institution.
+
+5) Evaluation Plan
+
+CREST Centers must develop a robust evaluation plan. The evaluation plan should be designed to gauge the accomplishment of the CREST Center's identified goals and objectives and the impacts of the CREST Center. Evaluation should be based on benchmarks, indicators, or expected outcomes related to CREST Center goals and activities.
+
+CREST Centers should design evaluations that are appropriate to the CREST Center's proposed activities. Plans for assessing progress toward realizing the CREST Center's outputs, outcomes, and impacts should rely on measures that are valid and reliable for the CREST Center's prioritized participants.
+
+Evaluation plans should be based on a logic model or other tool that relates the CREST Center's goals to activities and to outputs, outcomes, and impacts (i.e., immediate, short-term, and intermediate-term expected changes). Evaluation plans should be appropriate to the scope of the CREST Center and should include both formative aspects that will provide information to guide the CREST Center in making evidence-based decisions about changes in its activities, and summative aspects that will provide evidence of the overall impacts of the project.
+
+The budget must include adequate resources for evaluation. The evaluation should be led by an expert independent evaluation team.
+
+B) CREST Partnership Supplements
+
+CREST partnership supplements support the establishment or strengthening of partnerships and collaborations between existing CREST Centers and nationally or internationally recognized research centers including NSF-supported research centers, K-12 schools, and museums and science centers. Support may be requested for activities that have a direct positive influence on the competitiveness of participating scientists and engineers, and the quality of the institution's research and training.
+
+Supportable activities may include but are not limited to: exploratory research projects; acquisition of materials, supplies, research equipment, and instrumentation; hiring nationally competitive scientists and/or engineers; visiting scientists and engineers as short- or long-term consultants; faculty attendance at professional meetings and seminars; faculty sabbaticals and exchange programs; education activities directed toward the development of a diverse, internationally competitive and globally engaged workforce of scientists, engineers, and citizens well-prepared for a broad set of career paths; undergraduate and graduate research activities; development of outreach and other enhancement programs with neighboring institutions; and strengthening technical support personnel. The benefits to all parties in the proposed collaboration must be clearly articulated. Awarded partnership supplements will be made for a maximum of $100,000 per supplement.
+
+C) Other Funding Opportunities
+
+CREST also funds conferences; EAGER, RAISE, and RAPID grants; and grant supplements for existing awards. Grant supplements are different from partnership supplements described above. Grant supplements can be requested for up to 20% of the original award total.
+
+Such proposals may be submitted as described in the NSF Proposal & Award Policies & Procedures Guide (PAPPG), which is available at https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+III. Award Information
+
+Anticipated Type of Award:
+
+Standard Grant or Continuing Grant or Supplement
+
+Estimated Number of Awards: 5
+
+The number of awards and funding for CREST Centers (Phase I and Phase II) and CREST Partnership Supplements are contingent upon the availability of funds and the submission of a sufficient number of meritorious proposals.
+
+Anticipated Funding Amount: $8,000,000
+
+The annual budget of a CREST Center award will not exceed $1,500,000 per year/$7,500,000 during a five-year period. CREST Partnership Supplements will not exceed $100,000.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Eligible institutions are MSIs that offer graduate degrees in NSF STEM areas and have enrollments of 50% or more students (based on total student enrollment) who are members of minority groups underrepresented among those holding advanced degrees in science and engineering fields. Proposals are also invited from institutions of higher education that meet the 50% enrollment criterion and primarily serve populations of students with disabilities. Eligibility may be determined by reference to the Integrated Postsecondary Education Data System (IPEDS) of the US Department of Education National Center for Education Statistics ( https://nces.ed.gov/ipeds/ ). Funding of partnering institutions should be requested via subawards in the full proposal; separately submitted collaborative proposals will not be accepted. CREST partnership supplemental funding requests are accepted only from current CREST Center awardees.
+
+Funding of partnering institutions should be requested via subawards in the full proposal; separately submitted collaborative proposals will not be accepted.
+
+CREST partnership supplemental funding requests are accepted only from current CREST Center awardees.
+
+Who May Serve as PI:
+
+The Principal Investigator (PI) must hold a full-time faculty appointment at the institution submitting the proposal.
+
+Limit on Number of Proposals per Organization: 1
+
+Only one preliminary proposal may be submitted per eligible institution and due date.
+
+Full CREST Center proposals are to be submitted only when invited by NSF in response to a successful preliminary proposal.
+
+An institution may have only one active CREST Center award at one time, irrespective of focus area.
+
+Institutions that have completed a Phase I or Phase II award in a disciplinary area may re-compete in other disciplinary areas that are significantly different from those of the previous award(s). To be significantly different, the new project must also have new PIs, co-PIs, and faculty investigators. The research to be supported cannot be derived from the previous award.
+
+Institutions with active Phase I funding should submit the Phase II preliminary proposal by the due date before the full proposal is due and prior to the expiration of their Phase I award. For example, Phase I CREST Centers ending in 2025 should submit their preliminary proposals in 2023 to avoid disruptions in funding.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+Eligible individuals may be listed as the PI or co-PI on only one CREST Center proposal at the time of proposal submission.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposals: Submission of Preliminary Proposals is required. Please see the full text of this solicitation for further information.
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

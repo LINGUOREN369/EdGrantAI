@@ -28,3 +28,190 @@ Status: Cleared
 Posted date (Y-m-d): 2024-12-02
 URL: https://www.nsf.gov/funding/opportunities/s-stem-nsf-scholarships-science-technology-engineering-mathematics/nsf25-514
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)
+
+I. Introduction
+
+To meet the national need for a globally competitive STEM workforce, the National Science Foundation (NSF) established the Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM) program in accordance with the American Competitiveness and Workforce Improvement Act of 1998 (P.L. 105-227 and as reauthorized by P.L. 105-313 in 2000, P.L. 108-447 in 2004, and P.L. 117-167 in 2022). The Act provided funds for NSF to create a mechanism whereby the hiring of foreign workers on H-1B visas would help address the long-term workforce needs of the United States in technology-intensive sectors. The Act assessed a fee on each visa petition on behalf of an individual being hired by a US employer to fund scholarships for educating and training American post-secondary students who would in turn become members of the workforce in these high-demand sectors. An important feature of the Act was to specify that these scholarships should be provided to academically promising low-income students to boost economic mobility for as broad a population as possible.
+
+At its core, the S-STEM program seeks to increase the success of academically talented, domestic low-income students with demonstrated financial need who are pursuing associate, baccalaureate, or graduate degrees in eligible disciplines of strategic importance for the Nation. Initially, scholarships were only provided for students in math, engineering, and computer science. Later legislation authorized NSF to expand the eligible disciplines at the discretion of the NSF director. Currently, eligible degrees include those in all fields funded by NSF as long as there is demand in the regional or national workforce for professionals with those degrees, potential to address the long-term workforce needs of the United States, or other evidence of positive job prospects within the STEM workforce upon graduation with an undergraduate or graduate degree.
+
+II. Program Description
+
+A. Overview
+
+The S-STEM program provides IHEs with funds for scholarships to support academically talented, domestic low-income students with demonstrated financial need to enter the US workforce following completion of associate, baccalaureate, or graduate degrees in S-STEM eligible disciplines. Funds also enable IHEs to establish and assess evidence-based curricular and co-curricular activities and supports. See Section IV.B.2 for details on some common elements of all Track 1, 2, and 3 proposals and Section V.A.11 for additional details on required supplementary documents.
+
+S-STEM scholarship awards facilitate the establishment of infrastructure and collaborations to: (1) provide scholarships to academically promising, domestic low-income students with demonstrated financial need pursuing a degree in an eligible S-STEM eligible discipline; (2) adapt and implement evidence-based curricular and co-curricular activities to support S-STEM scholars in ways that align with institutional context and available resources, taking into account scholars' strengths, needs, and realities; (3) increase retention, student success, and graduation of these NSF S-STEM scholars in STEM; and (4) disseminate effective outcomes, supports and interventions undertaken by the project.
+
+B. Description of Program Tracks
+
+1. S-STEM Tracks
+
+Track 1 (Institutional Capacity Building)
+
+The aim of Track 1 is to build capacity and develop infrastructure to support low-income STEM students at institutions that have not had a recent award from the S-STEM program. Institutions without active S-STEM or STEP funding in the 5 years prior to the submission deadline may submit to this track. The entire institution is ineligible if any program, department, or school within the institution has had an active STEP or S-STEM award in the past 5 years. Track 1 proposals may include a focus on student transfer or progression to graduate school for its scholars' benchmark of success.
+
+Budget Guidelines: Track 1 proposals may request up to $2,000,000 total for up to 6 years. In Track 1 proposals, at least 50% of all funds must be provided solely as pure scholarships to cover the cost of attendance and entered as Participant Support – Stipends (Line F1) on the NSF budget form. Support for all non-scholarship costs must be included in the remaining portion of the budget. See additional budget guidelines in section V.A.6.
+
+Project Leadership and Management Team: Track 1 projects must be led by a PI who is (a) a faculty member currently teaching in one of the S-STEM eligible disciplines being pursued by the targeted scholars, or (b) an academic administrator who has taught in one of the eligible disciplines and can dedicate the time necessary to assure project success. The leadership and management team should also include a STEM administrator at the level of department head or above.
+
+Faculty members from all departments or academic units involved should have a role in the project either as Co-PIs, other senior/key personnel, or scholar mentors. The project team could include, if appropriate, a project manager to support the leadership and management team in areas where individual or institutional resources may not be available.
+
+Initial Planning Period: Track 1 proposals must detail an initial planning/self-study period to further develop institutional capacity before awarding scholarships. Examples of activities during this planning period include: piloting strategies to effectively solicit scholarship applications, curricular, or co-curricular activities; providing professional development for mentors or other individuals that will support scholars; or analyzing and revising institutional policies or practices that might inhibit the success of low-income STEM students. This planning period should last between 6 and 12 months and should be described in a supplemental document of no more than 4 pages. This document should include defined activities, a clear timeline, and designated roles for members of the project leadership team in the planning process.
+
+Track 2 (Implementation Projects)
+
+Any IHE (as described under the eligibility section) can submit a Track 2 proposal, regardless of prior S-STEM or STEP awards.
+
+Budget Guidelines: Proposals for Track 2 may request up to $2,000,000 total for up to 6 years. In all Track 2 proposals, at least 60% of all funds must be provided solely as pure scholarships to cover the cost of attendance and entered as Participant Support – Stipends (Line F1) on the NSF budget form. Support for all non-scholarship costs must be included in the remaining portion of the budget. See additional budget guidelines in section V.A.6.
+
+Project Leadership and Management Team: Track 2 projects must be led by a PI who is (a) a faculty member currently teaching in one of the S-STEM eligible disciplines being pursued by the targeted scholars, or (b) an academic administrator who has taught in one of the eligible disciplines and can dedicate the time necessary to assure project success. The leadership and management team should also include a STEM administrator at the level of department head or above.
+
+Faculty members from all departments or academic units involved should have a role in the project either as Co-PIs, other senior/key personnel, or scholar mentors. The project team could include, if appropriate, a project manager to support the leadership and management team in areas where individual or institutional resources may not be available.
+
+Track 3 (Inter-institutional Consortia)
+
+Track 3 projects support multi-institutional collaborations that focus on a common interest or challenge. Inter-institutional Consortia projects represent varied collaborations, including partnerships between 2-year colleges and 4-year colleges and universities, between 4-year colleges and graduate programs, or between comparable institutions looking to implement and study parallel interventions. For example, a collaboration among community colleges and four-year institutions may focus on issues associated with successful transfer of low-income students from 2-year institutions to 4-year programs. In another example, a multi-institutional collaboration may focus on factors that contribute to the success or degree attainment of domestic, low-income students in different types of institutions.
+
+Proposals with a strong focus on the transfer or advancement of students from one educational level to another should collaborate with appropriate institutional partners. For example, proposals focused on the transfer of students from 2-year institutions to 4-year institutions should include faculty and administrators from 2-year institutions and 4-year institutions in the leadership team; likewise, proposals focusing on the advancement of undergraduate students at predominately undergraduate institutions to graduate programs should include institutions, administrators, and Co-PIs representing both the undergraduate programs and the receiving graduate programs.
+
+Track 3 projects have similar aims as Track 1 and 2 projects but seek to achieve these aims at a large scale by leveraging multi-institutional efforts and infrastructure. In addition to the expectations stated below in section II.B.2 for all tracks, Track 3 projects are also expected to:
+
+Establish an authentic, strong, and mutually beneficial collaboration across all institutions involved in the consortia, providing comparable benefits to all institutions in terms of number of scholarships as well as in the infrastructure established to serve low-income students.
+
+Establish strong technical assistance and processes that support and manage project activities across institutions involved in the collaborative effort.
+
+Engage in high-quality educational or social science research to advance understanding of how to adapt, implement, and scale up effective evidence-based programs and practices designed to foster positive outcomes for low-income students in STEM.
+
+NSF does not favor a particular research design over others. The alignment of the chosen research methods and approaches with the research goals of the project should be fully explained in the proposal. Practically speaking, the goal of S-STEM is to support academically talented, low-income students with scholarship support covering their unmet need, up to the maximum allowable scholarship amount (whatever is less). Projects are strongly discouraged from allowing a desired enrollment size to play a role in the determination of the size of awarded scholarships.
+
+Track 3 projects are managed by leadership and management teams composed of faculty members who are currently teaching in an S-STEM eligible discipline(s), STEM administrators, and non-teaching institutional, educational, or social science researchers. The PI of Track 3 proposals must be either (a) a faculty member currently teaching in one of the S-STEM eligible disciplines, (b) a STEM administrator (department head or above), or (c) a non-teaching researcher whose expertise is in institutional, educational, or social science research in higher education. Key faculty from all the institutions and disciplines involved need to be included in the leadership team and/or senior/key personnel. The lead PI needs to demonstrate the capacity, experience, and resources needed to manage a complex, large-scale project and the necessary time to dedicate to assure project success.
+
+Track 3 proposals may request up to $5 million total for up to 6 years. In all Track 3 proposals, at least 60% of all funds must be provided solely as pure scholarships to cover the cost of attendance and entered as Participant Support – Stipends (Line F1) on the NSF budget form. Support for all non-scholarship costs must be included in the remaining portion of the budget. See additional budget guidelines in section V.A.6.
+
+Proposers should be aware that Track 3 projects will be formally reviewed by NSF during their third year to determine whether satisfactory progress has been made, with continued funding contingent on the result of the third-year review. See section VII.C on reporting requirements.
+
+Planning Proposals
+
+Planning proposals may be submitted at any time following consultation with and consent of an S-STEM Program Officer. Planning Proposals should allow institutions to gather data, assess the needs of low-income students in the local context, design or pilot student support mechanisms, create or strengthen partnerships, or otherwise prepare for a Track 1, 2, or 3 submission. Information about preparing Planning proposals is contained in PAPPG Chapter II.F.
+
+Conferences
+
+Proposals for conferences addressing important needs within the S-STEM community may be submitted at any time following consultation with an S-STEM program officer. Conference proposals that address effective student supports for low-income STEM students, professional development of S-STEM project personnel, and research collaborations of educational researchers and disciplinary scientists are especially encouraged. Information about preparing Conference proposals is contained in PAPPG Chapter II.F.
+
+2. Common Elements of Track 1, Track 2 and Track 3 proposals
+
+The following principles and expectations apply to submissions to Track 1 (Institutional Capacity Building), Track 2 (Implementation Projects), and Track 3 (Inter-institutional Consortia).
+
+Scholar Eligibility and Selection Criteria: All students meeting the institutional definition of low-income status and enrolled in degree programs listed in the proposal should receive fair consideration for S-STEM funding based solely on their academic talent and potential. Interest in specific subdisciplines, intention to participate in project activities, plans for future graduate study, and other similar criteria are not indicators of talent and cannot be used to select scholarship recipients.
+
+Membership in groups based on a specific demographic or shared experience (e.g., first-generation college attendee) is also not permitted as a selection criterion.
+
+See Section IV. Additional Eligibility Information, B. Scholarship Recipients, for additional details for both undergraduate and graduate students
+
+Evidence-based, context-specific interventions must be linked to low-income student needs : All projects must build their project on needs analyses specific to the targeted population of low-income students in the proposed disciplines. See Section V.A.4.a. for additional information on how to establish student needs.
+
+Scholar Cohorts and Faculty Mentoring: Educational research has established the importance of mentoring and cohort formation for low-income students. These efforts provide important touchpoints for scholars that can foster a sense of belonging and provide academic support. To this end, IHEs are expected to develop, support, and maintain S-STEM scholar cohorts and provide each scholar with at least one faculty mentor. Cohorts should be formed in a way to enable scholars to support each other academically and socially and should reflect each institution's local context. Proposals that plan to support a diverse collection of disciplines should explicitly demonstrate how cohorts will be maintained. Proposals should also ensure that there are enough faculty mentors with sufficient expertise to provide support to scholars within any proposed discipline or major. Plans for faculty mentoring of graduate student scholars should be described in the Project Description and can be referenced in the proposal Mentoring Plan.
+
+Involvement of Office of Financial Aid and Other Campus Partners: Each institution that will award scholarships must submit a letter from their respective Office of Financial Aid certifying the Office's understanding of the guidelines and requirements of the S-STEM program, in particular, that S-STEM scholarships must be "last dollar scholarships", i.e., intended to be paid after all other grants and scholarships (but not loans or work-study awards) for which the student qualifies have been awarded. This letter must provide the institutional definition of low income, affirm that scholars will meet its definition of low income, and commit to supporting the project as described in the proposal if awarded.
+
+Internal partnerships with other institutional offices or departments may be presented via separate letters of commitment. Examples of such partnering units include residential life, student services, tutoring services, or institutional research.
+
+Determination of Scholarship Amounts: S-STEM scholarship amounts are determined by the cost of attendance defined at the institutional level, which generally includes not only tuition and fees but other costs such as room and board, textbooks, transportation, laptops, etc. In all cases, the maximum duration of any scholarship is up to 5 years at each institution that an individual scholar attends or at each academic level.
+
+The established maximum amount of an individual scholarship is $15,000 per year for undergraduate students and $20,000 per year for graduate students. Scholarships also may not exceed a scholar's unmet need, which is the gap between what aid has been awarded and what aid is still needed to help a student meet the cost of attendance in full. This is an individual calculation to be performed by the Office of Financial Aid.
+
+Scholarships must cover the scholars' actual unmet need or the maximum allowable scholarship amount, whatever is less. Proposers should use institutional data to calculate an anticipated average award per scholar for budgeting purposes.
+
+See section V.A.4.b for more details on cost of attendance, and how to calculate scholarship amounts based on each individual scholar's unmet need.
+
+Analysis of Prospective Scholar Pool: All Track 1, 2, and 3 proposals must provide and analyze institutional data at all institutions that would award scholarships to substantiate the potential number of eligible scholars. The goal is to deduce how many available and eligible students would qualify for the scholarships at the time of proposal submission and provide evidence to justify financial and academic eligibility requirements imposed by the institution. Describing the general characteristics of the overall population of the institution's low-income students is insufficient to meet this analytical requirement.
+
+For each proposed S-STEM eligible discipline, proposals should provide the following data for each year of study (i.e., first year, second year, etc.) as a supplementary document (see Section V.A.8. for additional information):
+
+The number of students meeting both the institutional definition of low-income and any nominal criteria meant to estimate academic talent (e.g., GPA); and
+
+The average unmet need of these same students, as calculated by the institutional Financial Aid office.
+
+The analysis should clearly describe the calculation method used to determine the number of students who meet the income and academic criteria provided. NSF understands that this analysis must rely on current student data and hence may only serve as an estimate of the prospective pool of future scholars.
+
+Additional participation requirements in other project activities: S-STEM projects often include enhancements such as seminars, graduate school application workshops, field trips, student-faculty interaction outside classes, research opportunities, tutoring, and internships. These valuable opportunities can be strongly encouraged but participation cannot be required of scholars or used as criteria for scholar selection or retention. The primary criteria for continued scholarship eligibility must be satisfactory progress towards a degree or successful transfer and continued determination of low-income status. Under no circumstances should the scholarship funds be structured as compensation for either work or participation in other project activities.
+
+Knowledge Generation and Dissemination: Track 1 and Track 2 proposals require a strong evaluation plan, but do not require an additional research component. In contrast, Track 3 (Inter-institutional Consortia) proposals must include both a strong evaluation plan and a strong research component. See additional details in section V.A.4.h.
+
+Student data collection: S-STEM projects (Track 1, 2 and 3) are required to participate in regular NSF-led data collection activities to follow student progress as specified in section VII.C of Reporting Requirements.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 40 to 60 subject to availability of funds.
+
+Anticipated Funding Amount: $80,000,000 to $120,000,000
+
+Awards for Track 1 (Institutional Capacity Building) projects may not exceed $2,000,000 total for a maximum duration of 6 years.
+
+Awards for Track 2 (Implementation Projects) projects may not exceed $2,000,000 total for a maximum duration of 6 years.
+
+Awards for Track 3 (Inter-institutional Consortia) projects may not exceed $5,000,000 total for a maximum duration of 6 years.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the U.S., acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Who May Serve as PI:
+
+For Track 1 and Track 2 proposals, the Principal Investigator must be (a) a faculty member currently teaching in an S-STEM eligible discipline, or (b) an academic administrator who has taught in one of the eligible disciplines and can dedicate the time necessary to assure project success. Projects involving more than one department within an institution are eligible, but a single Principal Investigator must accept overall management and leadership responsibility. Faculty from all departments involved must have roles in the project as either Co-Principal Investigators, other senior/key personnel, or scholar mentors. Other members of the S-STEM project senior leadership and management team may be listed as Co-Principal Investigators.
+
+For Track 3 (Inter-institutional Consortia) projects, the Principal Investigator must be (a) a faculty member currently teaching in an S-STEM eligible discipline, (b) an academic administrator who has taught an S-STEM eligible discipline, or (c) a non-teaching institutional, educational, or social science researcher investigating questions related to low-income student success. The Principal Investigator must be able to provide the leadership and time required to ensure the success of the project. Track 3 consortium proposals must have a Principal Investigator who accepts overall management and leadership responsibility across all consortia members. Faculty from all institutions and departments involved need to have roles in the project as either Co-Principal investigators, other senior/key personnel, or scholar mentors. Other members of the S-STEM project senior leadership and management team may be listed as Co-Principal Investigators or as Principal Investigators on collaborative research proposals.
+
+Limit on Number of Proposals per Organization: 2
+
+For a given S-STEM deadline, an institution may submit up to two proposals in which it will be directly involved in providing scholarships. Multiple proposals from an institution must not overlap with regard to S-STEM eligible disciplines. See Additional Eligibility Information below for more details (see IV. Eligibility Information).
+
+Institutions with a current S-STEM award should wait at least until the end of the third year of execution of their current award before submitting a new Track 2 or Track 3 S-STEM proposal focused on students pursuing degrees in the same discipline(s).
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

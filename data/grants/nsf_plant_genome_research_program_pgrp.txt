@@ -14,3 +14,180 @@ Status: Cleared
 Posted date (Y-m-d): 2024-02-16
 URL: https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/nsf24-547
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Plant Genome Research Program (PGRP)
+
+I. Introduction
+
+Plants are fundamentally important to society to meet the needs for food, fuel, and fiber. As such, plants are the basis of the growing bioeconomy. Over the years, progress in plant genomics has improved our capacity to address basic biological questions, including those of economic and societal importance. This trajectory continues as knowledge from basic plant genomics research continues to solve pressing global problems through both individual projects and broad collaborative projects that surpass disciplinary boundaries. PGRP continues to support research that uncovers fundamental biological principles, contributes to understanding the rules of life, and develops the cutting-edge tools and resources to generate basic knowledge that can be applied to agriculture and beyond. With low cost, high output sequencing technologies expanding at breakneck pace, the current challenge is to integrate, mine, and fully interrogate massive, -omic wide datasets and to leverage and create new technologies to solve long-standing and all-new questions in plant biology. PGRP-funded research should be forward-thinking and focused on future societal and scientific impacts.
+
+The overarching goals of the PGRP are: (1) to support cutting-edge research that investigates the structure and function of plant genomes, from synthetic biology to broad comparative approaches, focusing on generating and integrating large scale datasets to investigate basic biological processes with societal impact and (2) to develop innovative tools, technologies and resources that are essential to drive plant functional genomics research forward.
+
+II. Program Description
+
+The Plant Genome Research Program (PGRP) supports genome-scale research at the frontier of plant biology and of importance to society. Breakthroughs in tools, technologies, and resources are still needed to understand how plant genomes, and their interactions with other genomes and with the environment, give rise to the myriad phenotypes of Earth's flora. Plants are also a critical part of solutions to global challenges from hunger and food insecurity to environmental change. Basic knowledge is an essential step toward improving plant health and agriculture and, by extension, national security and well-being. To achieve these goals, fundamental plant biology, novel methodologies and large-scale data sets need to be assimilated into a comprehensive framework. There remain pressing needs to refine the questions being asked, and to generate new tools, resources, and capabilities to carry out functional and structural studies of plant genomes. The goals of PGRP are thus to provide tools and knowledge to solve intractable, challenging biological questions, revolutionize agriculture, address fundamental societal issues, advance the bioeconomy, and build a scientifically engaged population. The program has a broad scope and supports studies of plants across the kingdom. Highly competitive proposals will describe interdisciplinary research on a genome-wide scale to provide new insights into plant processes that have the potential to advance food and national security and contribute to the bioeconomy.
+
+PGRP accepts proposals into two tracks.
+
+Track 1: Genome-scale research (RESEARCH-PGR): Genome-scale plant research to address fundamental biological questions in plants and processes of societal importance.
+
+PGRP continues to support projects that emphasize hypothesis-driven research from a genome-wide perspective. Functional genomics and data synthesis are integral to PGRP-funded projects. Proposals should be innovative and explore new scientific territory, and should articulate the problem, question, hypothesis, or grand challenge of the -omics-related topic. Holistic approaches, as well as transdisciplinary engagement, are highly encouraged. For this track, areas of interest could include, but are not limited to, the study of:
+
+Multi-genome/epigenome interactions with the environment,
+
+Biotic and abiotic interactions among plants and partner organisms,
+
+High throughput phenotyping to link genomes to phenomes,
+
+Incorporation of engineering, machine learning and quantitative modeling into research activities,
+
+Building bridges across scientific disciplines including plant physiology, ecology, evolution, and plant development or across agencies, the private sector or international borders, and
+
+Linking basic research to applied outcomes relevant to agriculture.
+
+Track 2: Tools, Resources and Technology Advances (TRTech-PGR ): Tools, resources and technology breakthroughs that further enable functional plant genomics.
+
+Capacity is needed to build functional genomics toolkits, advance -omic technologies and to synthesize large datasets into meaningful outcomes. Genome-enabled research requires improvement in large scale sequencing resources, assemblies and annotations in plants. Generation of sequence and other high throughput datasets often surpass the rate of data analysis. Therefore, large publicly available datasets often remain untapped resources that can be analyzed in new ways and re-purposed to yield new information. In the process, novel analytical tools and methods can be developed. For this track, areas of interest could include, but are not limited to, generating:
+
+New -omic datasets and the tools to improve and refine them, from single cell approaches to pan-genomes,
+
+Functional genomic resources and toolkits, especially those that enable plant synthetic biology approaches,
+
+New methods, tools, or techniques to overcome bottlenecks to plant transformation, especially those that improve plant regeneration, increase genotype independence or circumvent tissue culture, and facilitate ease of transformation in the public sector,
+
+Technologies for advancing genome/epigenome editing technologies,
+
+Data and analytical workflows that can be mined, re-used, and potentially reconfigured from already available large datasets and machine learning methods and tools of artificial intelligence to generate and analyze datasets, and
+
+Advances in imaging and data visualization that can be applied to existing or new datasets.
+
+For both of the submission tracks, the following information should be considered:
+
+Participation can vary from single investigators to small groups to consortia of investigators,
+
+Budgets should be commensurate with the scientific problem and approach. It is expected that for large consortia budgets may rarely exceed $5 million. Many research projects that include functional genomics, mining existing data or developing proof-of-concept technologies will be smaller grants rarely exceeding $2 million. PGRP expects to make awards covering the full range of budget requests commensurate with the scale and scope of each project and retains the ability to decrease budgets deemed out-sized relative to the scope of the project.
+
+ADDITIONAL CONSIDERATIONS FOR PGRP PROPOSAL SUBMISSIONS
+
+All proposals submitted under this solicitation should be aligned with the goals of PGRP, as articulated herein. Proposers are encouraged to contact PGRP Program Directors prior to submission with any questions about research ideas, budgets, and submissions. A one-page summary of proposal ideas to the Program Directors prior to submission to discuss program fit is highly encouraged. To facilitate proposal planning, the following Hallmarks of Successful PGRP Proposals may be useful:
+
+The proposed research tackles questions of biological and societal importance . Societal needs are changing as rapidly as research is progressing. PGRP remains committed to supporting basic research that is needed to address agricultural challenges, environmental change, and resource redistribution.
+
+Genome-wide research questions and approaches are used . Proposals should focus on genome-wide research questions and approaches, consistent with the scope described in this solicitation. Proposals focused on individual genes or gene families are more appropriate for funding through other BIO programs and should be submitted there.
+
+Transdisciplinarity is included, when appropriate . Breakthroughs in approach often develop from teams that transcend discipline boundaries. Fields such as engineering, computational science and modeling, artificial intelligence, physics, mathematics and biomechanics already have an impact on genomics, and there remains a need for transdisciplinary synergy to solve overarching biological problems.
+
+Investigative teams are optimally configured . While single investigator proposals are welcome, PGRP investigators have established a highly collaborative culture that values and benefits from shared research and multi-disciplinary training. All kinds of multi-investigator teams, including single- or multi-institutional teams are encouraged, and should be well-justified. Teams should be optimally designed and limited to those members essential to achieve the goals of the proposed work, and budgets should be commensurate with manageable project goals.
+
+Public access and timely data release is routine . Data products generated from PGRP-supported research are diverse and continue to be produced in massive quantities. Data products include sequences of all types, seeds, diversity populations, biological materials, genetic maps, genome browsers, informatics tools, images, software, publications, videos and movies, teaching curricula, etc. All data products must be fully released within a reasonable time consistent with community standards and plans for doing so should be articulated in the Data Management and Sharing Plan . Annual reports are expected to update progress regarding release of all data products.
+
+International cooperation must be fully justified . It is expected that non-U.S. participants will secure support from their own national programs. However, international subawards may be included if international investigators bring unique expertise and/or resources not available in the U.S. Information about international subawards is available in the NSF PAPPG .
+
+Training, education, and communication are strong and fully integrated . Research ideas and endeavors are rejuvenated by new participants. Training, outreach and education should be fully integrated into research. Activities that will successfully penetrate societal communication barriers are encouraged. Efforts could include, but are not limited to, training for translational research by including breeders in genomics projects and developing citizen science activities or other public outreach.
+
+INFORMATION FOR OTHER TYPES OF PROPOSALS SUBMITTED TO THIS SOLICITATION:
+
+In addition to the regular research proposals sought under this solicitation, PGRP also supports a variety of other Foundation-wide activities:
+
+Faculty Early Career Development Program (CAREER) proposals may be submitted to PGRP but must be submitted by the deadlines listed in the CAREER solicitation and follow the proposal preparation guidance in that solicitation.
+
+Research Coordination Networks (RCN), and Research at Undergraduate Institutions (RUI) proposals may be submitted at any time to PGRP but must follow the proposal preparation guidance in those solicitations.
+
+This solicitation will accept Renewal and Accomplishment Based Renewal (ABR) Proposals. Information on eligibility, scope, and format for Renewal and ABR submissions can be found in the PAPPG. If you are considering an ABR submission you are strongly advised to contact a Program Officer prior to submission.
+
+Grants for Rapid Response Research (RAPID), Early-concept Grants for Exploratory Research (EAGER), Research Advanced by Interdisciplinary Science and Engineering (RAISE), Grant Opportunities for Academic Liaison with Industry (GOALI), and proposals for Travel or Conferences support, including workshops, can be submitted at any time to any of the clusters/programs described in this solicitation. These types of proposals should be submitted in accordance with the guidance in the PAPPG. Conference and Travel proposals should be submitted at least 6 months before the start date of the conference or workshop; you are strongly advised to contact a Program Officer prior to submission. Note that before submitting RAPID, EAGER, or RAISE proposals you must receive approval from a Program Officer in the area of the proposal.
+
+International Activities
+
+Investigators may include well justified international components in proposals submitted to any relevant NSF program or request supplemental funding for projects already supported by NSF. Additional information about opportunities for research involving international partners can be found in NSF's Office for International Science and Engineering (OISE) .
+
+U.S.-Israel Binational Science Foundation (BSF) Collaborative Proposals
+
+Proposals for international research in accordance with the Dear Colleague Letter NSF 20-094 describing an international collaborative activity with the BSF will be accepted under this solicitation. Complete instructions for proposal submission can be found in the Dear Colleague Letter. Questions about this activity should be directed to NSF-IOS-BSF@nsf.gov .
+
+SUPPLEMENTAL FUNDING REQUESTS:
+
+Mid-Career Investigator Supplements in Integrative Organismal Biology (MCI)
+
+MCI activities may be included in full proposals submitted to this solicitation or as supplements to existing awards. A "mid-career" investigator is defined here as any researcher who is post-tenure and not retired. The MCI opportunity provides support for mid-career researchers/scientists to acquire new skills to use genomics and bioinformatics tools and/or novel technologies to answer organismal questions. Funds may be requested for costs related to research visits, participation in training opportunities in other laboratories, and for the use of genome research facilities not available at the applicant's institution. Support can be requested for an investigator's own activities or to host an eligible mid-career investigator and can include a request for salary support during periods of training. Interested investigators are strongly encouraged to contact a PGRP Program Director for further guidance prior to submission of a proposal containing these activities.
+
+REU, RET, RAHSS and ROA.
+
+PGRP accepts supplemental funding requests for Research Experiences for Undergraduates (REU), Research Experiences for Teachers (RET), Research Assistantships for High School Students (RAHSS), and Research Opportunity Award (ROA). Note: Supplemental funding is intended for unanticipated opportunities only and should be justified on this basis.
+
+Requests for support of planned REU, RET, RAHSS, and ROA activities should be included in the full proposal budget at the time of submission. The descriptions of proposed REU activities should be included in the Supplementary Documents. For REUs, follow the guidelines as described on the REU program page . REU projects must involve students in meaningful ways in ongoing research programs or in research projects specifically designed for the REU student. For other supplement requests, guidelines can be found at IOS Supplemental Funding Request page .
+
+Career Life Balance Supplements.
+
+PGRP will support Career Life Balance (CLB) supplements. NSF's Career-Life Balance (CLB) Initiative builds on family-friendly practices among individual NSF programs to expand them to activities NSF-wide. Funded Principal Investigators (PIs) are invited to submit supplemental funding requests to support additional personnel (e.g., research technicians or equivalent) to sustain research when the PI is on family leave.
+
+Non-Academic Research Internships for Graduate Students ( INTERN ) Supplements.
+
+The goal of INTERN is to provide graduate students with experiential learning opportunities through research internships outside academia to acquire core professional competencies and skills to support careers in any sector of the U.S. economy. Further information is available in the INTERN Dear Colleague Letter .
+
+More detailed instructions for submission of any of these supplements can be found on the IOS supplemental Funding Request website: IOS Supplemental Funding Request page . The target date for most IOS programs to receive supplemental funding requests is March 1 annually (or next business day if that is a weekend or holiday).
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant
+
+Estimated Number of Awards: 15 to 20
+
+Anticipated Funding Amount: $30,000,000
+
+Approximately $30,000,000 will be available for new and continuing awards. Estimated program budget, number of awards and average award number, size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Not Applicable
+
+Other Budgetary Limitations: Other budgetary limitations apply. Please see the full text of this solicitation for further information.
+
+Other budgetary limitations apply. Please see the full text of this solicitation for further information.

@@ -23,3 +23,122 @@ Status: Cleared
 Posted date (Y-m-d): 2025-07-09
 URL: https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice/nsf25-540
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+National Science Foundation Translation to Practice (NSF TTP)
+
+I. Introduction
+
+The U.S. NSF Directorate for Technology, Innovation and Partnerships (NSF TIP) partners across sectors to advance three primary focus areas – accelerating technology translation and development, fostering regional innovation and economic growth, and preparing the American workforce for future high-wage jobs in STEM fields.
+
+The translation of research to practice ensures that the insights and innovations developed through scientific study and experimentation have tangible, positive impacts on society. These impacts include improving the quality of life, promoting economic and job growth, ensuring national security, and maintaining global competitiveness. Indeed, scientific and engineering breakthroughs have the potential to address critical societal challenges in industries such as aerospace, agriculture, communications, education, energy, healthcare, national security, and transportation – but the translation of discoveries and innovations from the laboratory to society often take many forms including non-linear pathways.
+
+The NSF Translation to Practice (TTP) program has benefited from lessons learned from a prior program, Partnerships for Innovation (PFI) . The PFI program offered PIs and their teams the opportunity to develop groundbreaking technologies, engage in industry partnerships, and gain innovation and entrepreneurial skills. The NSF TTP program maintains these goals, while enabling greater flexibility so that researchers can strategically join the track best suited to the technological maturity of their technology. The NSF TTP program offers current NSF awardees a new track (NSF TTP-E) that serves as a “translational extension,” extending current basic research awards in the direction of adventurous, “high-risk” use-inspired research and enabling a direct on-ramp in this direction. The TTP program maintains previous PFI avenues for researchers that already have use-inspired projects, welcoming them to further mature their technologies, iterating and improving their solutions to ensure scalability and accessibility, and lowering the barriers to effective translation with or without NSF-Catalyzed Partnerships. This new NSF TTP program also considers a much broader range of translational impacts and outcomes than the previous PFI programs, enabling research-based innovations and solutions that impact the economy and society in numerous ways, from open-source ecosystem development to standards setting; from for-benefit or non-profit creation to accelerated commercialization by industry; and from for-profit startup or small business formation to collaborations with state and local governments, international organizations, and philanthropies. The NSF TTP program is also focused on the establishment of new NSF-Direct Partnerships which will help extend the reach of the translational efforts to various technology sectors.
+
+In short, the NSF TTP program seeks to:
+
+Identify and support the initiation of use-inspired research and initial translational activities enabling a continuum from foundational research to practice.
+
+Develop partnerships and collaborations that include traditional (academic) and non-traditional entities. These sustainable partnerships will accelerate the transfer of technology by ensuring needs and opportunities are appropriately addressed.
+
+Promote and advance the education and training of students and postdoctoral researchers, avoiding undue geographic concentration of funding and encouraging the participation of all Americans.
+
+For the NSF TTP-T and NSF TTP-P tracks: Identify future customer needs and opportunities through NSF I-Corps training.
+
+Successful NSF TTP award recipients are focused on translating research outputs to practice. As needed, NSF TTP award recipients are encouraged to access a range of other NSF programs , including, but not limited to: Pathways to Enable Open-Source Ecosystems (POSE), Small Business Innovation Research (SBIR) / Small Business Technology Transfer (STTR) , SBIR-STTR Fast-Track , NSF Translation Accelerators (NSF TAs), and the NSF Technology Translation Test Beds (NSF T3s), etc., to aid in the robust and complete development of their products, processes, or services. Over time, and potentially via follow-on funding from other NSF programs as well as other external funders, NSF TTP projects are expected to result in a variety of commercial, economic, and/or other outcomes.
+
+II. Program Description
+
+Importantly, the NSF TIP Directorate is interested in making investments that support pathways toward commercialization, but also seeks to go further, enabling research-based innovations and solutions that impact the economy and society in numerous ways, from open-source ecosystem development to standards setting; from for-benefit or non-profit creation to accelerated commercialization by industry; and from for-profit startup or small business formation to collaborations with state and local governments, international organizations, and philanthropies. TIP seeks to advance a vision of use-inspired research and initial translational activities taking on different forms in different settings and requiring a much more distributed set of approaches and solutions than the innovation ecosystem has afforded to date.
+
+This NSF TTP funding opportunity constitutes an investment in three different proposal tracks that aim to advance a vision of use-inspired research and initial translational activities. Researchers are welcome to join the pathways at the stage best fitting the maturity of the particular technology:
+
+NSF TTP-Explore (NSF TTP-E) is designed to encourage current, eligible NSF awardees to intentionally pursue applications of their research with the potential for societal impact. NSF TTP-E focuses on the support of adventurous, “high-risk” activities that bridge the gap between foundational scientific curiosity and a practical desire to address real-world problems. NSF TTP-E can be used for a large number of activities including but not limited to: initiation of interdisciplinary collaborations among scientists and engineers to bring together critical perspectives for solution development; engagement of the community in open-source products design and implementation; support of student internships and other collaborations with industry; and/or the acceleration and maturation of research technology readiness levels (TRL). In order to demonstrate real-world utilization, NSF-Catalyzed Partnerships with other academic institutions, non-profits, international organizations, government laboratories, small businesses, industry, etc. are encouraged but are not required.
+
+NSF TTP-Translate (NSF TTP-T) is focused on translating research results into technological innovations with promising commercial, economic, and/or other impacts. Whereas TTP-E is an extension of an existing NSF award, NSF TTP-T is a new award that aims to intentionally pursue the practical impact of the original research. TTP-T does not require previous NSF funding but begins with use-inspired research and initial translational activities and further matures the ideas, iterating and improving the solutions, ensuring scalability and accessibility, and lowering the barriers to effective translation. NSF TTP-T can be used to initiate a number of activities including, but not limited to: designing and iteratively testing prototypes; optimizing industrial processes for less resource consumption; completing activities to support patent applications that will protect intellectual property for future licensing and startup formation; engaging the community in open-source products design and implementation; working to develop and integrate acceptable standards for community benefit. In order to demonstrate real-world utilization, NSF-Catalyzed Partnerships with other academic institutions, non-profits, international organizations, government laboratories, small businesses, industry, etc. are encouraged, but are not required. As the NSF TTP-T track is focused on translating research results from the laboratory to practice, NSF I-Corps training will provide NSF TTP-T award recipients the entrepreneurial education and mentoring to reduce the time it takes to bring technologies from the laboratory to practice. NSF I-Corps training is a 7-week experiential course that has been shown to accelerate research toward commercialization – from demonstration to validation. For more information on I-Corps, please see the I-Corps website . (Note: NSF TTP-T PIs who can demonstrate that they have recently (within the last 2 years) completed National I-Corps training for the technology in the proposed project should identify the award number in the first line of the Project Summary and this requirement may be waived.)
+
+NSF TTP-Partner (NSF TTP-P) supports translational efforts that demand one or more partnerships for technology development and deployment. Here, strategic partnerships with stakeholders beyond U.S. institutions of higher education are essential ingredients for success and may include industry partners, government entities at all levels, philanthropies, international organizations, or other groups associated with large scale productization and distribution. Example NSF TTP-P activities include but are not limited to: collaborations associated with scaling and mass production of products to ensure interoperability and wide integration; the development of standards contributing to the global growth of the next generation market; and/or the large-scale advanced manufacturing and assembly of parts for commercial applications. Another highly successful outcome of the NSF TTP-P track is the formation of startups and/or small businesses. Successful partnerships may assist NSF TTP-P recipients in preparing their innovation for market as part of the POSE , SBIR/STTR , and/or SBIR-STTR Fast-Track programs, etc. Like TTP-T, the TTP-P track does not require previous NSF funding. While the NSF TTP-P track requires NSF-Catalyzed Partnerships within a competitive landscape, NSF TTP-P award recipients must understand prevailing community needs or unmet market opportunities to develop useful products, processes, or services. NSF I-Corps training will ensure that NSF TTP-P recipients are efficiently and effectively assessing their invention’s commercial potential and economic and/or other impacts. For more information on I-Corps, please see the I-Corps website . (Note: NSF TTP-P PIs who can demonstrate that they have recently (within the last 2 years) completed National I-Corps training for the proposed technology should identify the NSF award number in the first line of the Project Summary and this requirement may be waived.)
+
+While PIs are encouraged (NSF TTP-E and NSF TTP-T) or required (NSF TTP-P) to engage strategic partners as part of NSF-Catalyzed Partnerships, NSF also seeks to engage in NSF-Direct Partnerships with other co-funders from industry, philanthropies, other U.S. government agencies, international organizations, etc., at the programmatic level in order to promote the translation of research from the laboratory to practice. It is critical that PIs review the TTP-related Dear Colleague Letters (DCLs) and/or the NSF TTP program page as submission to the program is taken as explicit acceptance that their proposals may be shared with announced NSF-Direct Partners, and that awards may have specific Terms and Conditions related to these partnerships.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant
+
+Estimated Number of Awards: 29
+
+Anticipated Funding Amount: $30,000,000
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+By the submission deadline, a PI must hold either:
+
+A tenured or tenure-track position, or
+
+A primary, full-time, paid appointment in a research or teaching position (with exceptions granted for family or medical leave), as determined by the submitting institution.
+
+The NSF TTP-E track requires the proposers to have an active, eligible, NSF research award. NSF TTP-E proposers should have at least one year remaining on their NSF award and should have submitted (and had approved) 1-2 annual reports to date. As part of this track, EAGER, RAPID, or RAISE awards are not eligible to receive NSF TTP-E funds. TTP-E proposers MUST provide a 3- to 5-page description of future translational activities to their cognizant NSF Program Officer (PO) via email and gain their approval via email, before submission of an NSF TTP-E proposal.
+
+For the NSF TTP-P track, in addition to the PI, proposals must include a co-PI or Senior/Key Personnel who is a member or employee of an NSF-Catalyzed Partner. Partnerships with U.S. institutions of higher education are valued, but NSF TTP strongly prioritizes NSF-Catalyzed Partnerships that are able to help bring the product, process, or service to the market, potentially through licensing agreements, startup or small business formation, incorporation into an existing open-source ecosystem, development into standards setting arrangements, etc.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+A PI (or Co-PI) may submit only one NSF TTP proposal (NSF TTP-E, NSF TTP-T, or NSF TTP-P) at a time.
+
+PIs (or Co-PIs) must wait for a determination (award or decline recommendation) on their current TTP proposal before submitting another TTP proposal.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

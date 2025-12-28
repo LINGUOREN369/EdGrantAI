@@ -9,3 +9,126 @@ Status: Cleared
 Posted date (Y-m-d): 2025-04-10
 URL: https://www.nsf.gov/funding/opportunities/ihbem-incorporating-human-behavior-epidemiological-models/nsf25-538
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Incorporating Human Behavior in Epidemiological Models (IHBEM)
+
+I. Introduction
+
+The COVID-19 pandemic revealed that:
+
+Epidemiological models are invaluable tools in combating pandemics
+
+Current models are far less useful than possible for aiding in the development of measures for mitigating ongoing pandemics
+
+A large community of researchers is eager to contribute to the development and improvement of such modeling efforts.
+
+Current models have proved insufficient, in part, because human behavioral and social processes are missing. These processes, for example, include structural characteristics such as differential living conditions and patterns of social interaction, and behavioral and cognitive characteristics such as responsiveness to information by different segments of the population. As a result, the mathematical models and tools for analysis and simulation that were developed to respond to the pandemic were not as effective or useful as they could have been.
+
+The IHBEM program is motivated by the urgent need to provide more useful modeling tools to inform decision making and to evaluate public health policies during pandemics and other public health crises, with the premise that improvement may be made by incorporating human behavioral and social processes. The goal of this program is to ensure that public health interventions have their intended effects.
+
+II. Program Description
+
+The purpose of the Incorporating Human Behavior in Epidemiological Models activity is to support interdisciplinary collaborations that integrate research on behavioral and/or social processes in mathematical epidemiological models. Projects supported under this activity should be collaborative in nature and depend on the coordinated interaction of two or more PIs/co-PIs, with integrated participation from both the mathematical sciences and the social, behavioral, or economic sciences. Additional participants from other disciplines, especially the biological sciences, are also welcome.
+
+Each project should focus on a significant and well-delineated research challenge that integrates behavioral and social processes into mathematical epidemiological models. Examples of research challenges include, but not are limited to:
+
+1) Behavioral realism and sensitivity analysis . A common flaw attributed to epidemiological models during the COVID-19 pandemic was a failure to incorporate realistic human behavior. The challenge, therefore, is to incorporate realism while at the same time maintaining mathematical tractability. This realism includes differences in behavioral and social distributions along different characteristics of human populations and their intersections, including income, age, sex, region, religion, race and ethnicity, and education. It may also include differences in trust and beliefs. Accompanying the incorporation of these phenomena should be sensitivity analyses that determine how and to what extent these characteristics predict the success of different pandemic-related interventions.
+
+2) Incorporation of behavioral change . People’s behavior changes over time: it may change as they acquire more information, in strategic response to others’ (including organizations’ and governments’) behaviors, because of fatigue or increasing stress or deprivation, and so forth. The implication is that incorporating fixed assumptions about behavior into epidemiological models may be inadequate for understanding how best to respond to pandemics. A dynamic approach that embraces how behavior changes over time may be important.
+
+3) Incorporation of multiple environments: climate, seasonal, political, social . Climate affects human epidemiology in many ways, one of those being its effects on human behavior. Climate change also affects animal habitats, which can affect human-animal interactions such that some pathogens originally occurring only among animals may become transmissible in a human population. Climate is related to seasonal variation, which again affects patterns of human behavior. Political and social environments, while fundamentally different from climatic and seasonal ones, also exert a strong influence on behavior. Incorporation of these and other environmental considerations into epidemiological models is essential especially as they vary over different localities and change over time.
+
+4) Incorporation of population heterogeneity and policy models . The COVID-19 pandemic has highlighted that disease may affect different segments of the population differently. Considering this heterogeneity, it may be important to model endogenous mechanisms describing decision-makers’ enaction of public health policies (such as social distancing, mask wearing, vaccination) and social policies (for example, eviction moratoria, childcare provisions, and employment flexibility), and how these rules influence public health and welfare. This involves modeling political factors, communication, reactions in various kinds of media, behavioral responses, or interactions between dynamically coupled processes.
+
+5) Data needs for rich mathematical epidemiological models . As rich theoretical models are built with, for example, different possible transmission modes and behavioral responses, it becomes valuable to analyze what data are required to validate the models, and what data are necessary to distinguish between models, while acknowledging the limitations posed by data that are either observational or unrepresentative.
+
+Projects need not focus on human pathogens or human hosts, although such research must still incorporate human behavior and/or social processes. Examples of research on non-human systems include: how changes in behaviors or farming practices affect the transmission of foot-and-mouth disease, how economic factors affect the global spread of pathogens through the pet trade, or how hunting affects the spread of prions in wild game.
+
+All proposals should describe clearly the research challenges associated with the proposed mathematical epidemiological models and the approaches of incorporating social, behavioral, or economic processes, as well as the applicability of the models in real populations. In addition, the training of students and postdoctoral researchers at the intersection of the mathematical sciences and social, behavioral, and economic sciences is encouraged. Discuss how trainees will be recruited, mentored, and retained. Research teams are required to disseminate the results of their work in a timely and effective fashion.
+
+NIDA is specifically interested in proposals that support scientific research on drug use and its health and social consequences across the spectrum, from occasional use to problematic use and substance use disorders (SUDs), that integrates social, behavioral, or economic processes to respond to the public health crisis such as drug overdose, HIV, and HCV. Some examples of areas of interest include:
+
+Using technology and advanced statistical methods to inform our understanding of both social, behavioral and neurobiological components of drug use that are strongly influenced by diverse environmental and social factors in the context of responding to public health crisis such as drug overdose, HIV, and HCV.
+
+The development and validation of technologies, analytics, and models to help individuals gather, manage, and use data and information related to drug use and their personal health in the context of responding to public health crisis such as drug overdose, HIV, and HCV.
+
+Methods and algorithms for aggregation of data including, but not limited to, electronic health records (EHRs), laboratory generated data, environmental, and/or behavioral data.
+
+Diagnostic/monitoring tools and technology platforms to optimize drug use interventions and delivery, in the context of responding to public health crisis such as drug overdose, HIV, and HCV.
+
+CDC/CORVD is interested in supporting research projects that are based on innovative modes of collaboration among researchers working at the interface of mathematics, epidemiology, and public health policy. Mathematical modeling can further the public welfare and national security in many ways, notable among them by increasing understanding of biological phenomena and elucidating matters affecting the success of public health measures to prevent or mitigate infectious diseases. CDC/CORVD is specifically interested in proposals that support innovative research in modeling policy options for evolving public health challenges.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or R01 project (if the proposal is selected for funding by NIH/NIDA)
+
+Estimated Number of Awards: 10 to 15
+
+Approximately 10 to 15 awards from this competition may be made by either NSF or NIH at the option of the agencies, not the grantee. The number of awards will depend on the quality of received proposals and budget availability.
+
+Anticipated Funding Amount: $4,000,000 to $6,000,000
+
+Up to $6,000,000 per year for new awards (up to $4,000,000 from NSF and up to $2,000,000 from NIH/NIDA), subject to availability of funds and receipt of meritorious proposals, with total budgets of up to $1,000,000 for award durations of 3-4 years.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs): Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of sub-awards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI: 1
+
+A person may be PI or co-PI on no more than ONE proposal. Participating in other proposals as senior personnel does not count in this limit. Changes in investigator roles post-submission to meet the eligibility limits will not be allowed. It is the responsibility of the submitters to confirm that the entire team is within the eligibility guidelines.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

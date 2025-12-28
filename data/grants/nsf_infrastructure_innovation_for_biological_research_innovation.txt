@@ -11,3 +11,124 @@ Status: Cleared
 Posted date (Y-m-d): 2023-04-18
 URL: https://www.nsf.gov/funding/opportunities/innovation-infrastructure-innovation-biological-research/nsf23-578
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Infrastructure Innovation for Biological Research (Innovation)
+
+I. Introduction
+
+Transformative discoveries in the biological sciences are often catalyzed by the development and dissemination of new research tools and methods. For such advancements to take place, research infrastructure needs to be supported at all stages of its life-cycle that include: Innovation (the design of novel or greatly-improved research infrastructure), Capacity (the scaling of or major improvements to infrastructure), and Sustainability (continued operation of existing infrastructure). The Division of Biological Infrastructure (DBI) supports this life-cycle of research resources in biology by having three different programs focused on each of these important stages of development of research infrastructure in resources and services. The goals of the Innovation program are aligned with the first stage in this cycle: to advance contemporary biology in any research area supported by the Directorate for Biological Sciences at NSF.
+
+Proposers should review the Introduction section of the PAPPG for a general description of research topics normally outside the scope of NSF funding such as human disease, clinical, or drug design related research. Proposals to develop or provide infrastructure that is primarily to enable research in these excluded topics are not eligible for support under this solicitation and will be returned without review.
+
+II. Program Description
+
+The Infrastructure Innovation for Biological Research Program (Innovation) supports research to design novel or greatly improved research tools and methods that advance contemporary biology in any research area supported by the Biological Sciences Directorate at NSF. The Innovation Program focuses on research infrastructure that is broadly applicable to researchers in three programmatic areas: Bioinformatics, Instrumentation, and Research Methods. Infrastructure supported by this program is expected to advance biological understanding by improving scientists’ abilities to manipulate, control, analyze, or measure critical aspects of biological systems, which can be essential for addressing important fundamental research questions. Proposals submitted to these programmatic areas can do one of three things to advance or transform research in biology: develop novel infrastructure, significantly redesign existing infrastructure, or adapt existing infrastructure in novel ways. Projects are expected to have a significant application to one or more biological science questions and have the potential to be used by a community of researchers beyond a single research team.
+
+The innovative nature of the proposed work must be emphasized, and proposals with high-risk/high reward potential are welcome. PIs are encouraged to leverage NSF-supported scientific infrastructure, such as databases, data networks, computational resources, software, and centers.
+
+The three programmatic areas of the Innovation Program are described below. Please see links for further information in each area. PIs are encouraged to contact the program officers using the contact information above if they have questions about where to submit a proposal within this solicitation or if their proposed work cuts across one or more of these programmatic areas.
+
+Bioinformatics Programmatic Area :
+
+The Bioinformatics Programmatic Area supports the design of novel and innovative bioinformatics approaches that have the potential to become part of the cyberinfrastructure that will advance or transform biological understanding and that have the potential to be broadly applicable in biology.
+
+Instrumentation Programmatic Area :
+
+The Instrumentation Programmatic Area supports the design of novel and innovative instrumentation and associated methods that address a clearly defined gap in biologists’ ability to capture observations of biological phenomena and that have the potential to be broadly applicable in biology.
+
+Research Methods Programmatic Area :
+
+The Research Methods Programmatic Area supports the design of novel and innovative laboratory- or field-based methodologies with the potential for a transformative impact, enabling new and important insights into biological processes and to be broadly applicable in biology.
+
+Other proposal types
+
+In addition to the regular research proposals sought under this solicitation, the programmatic areas support a variety of other Foundation-wide activities:
+
+Faculty Early Career Development Program (CAREER) proposals may be submitted to any of the clusters/programs described in this solicitation but must be submitted by the deadlines listed in the CAREER solicitation and follow the proposal preparation guidance in that solicitation.
+
+Research Coordination Networks (RCN), and Research at Undergraduate Institutions (RUI) proposals may be submitted at any time, to any of the clusters/programs described in this solicitation but must follow the proposal preparation guidance in those solicitations.
+
+This solicitation will accept Renewal and Accomplishment Based Renewal (ABR) Proposals. Information on eligibility, scope, and format for Renewal and ABR submissions can be found in the PAPPG. If you are considering an ABR submission you are strongly advised to contact a Program Officer prior to submission.
+
+Grants for Rapid Response Research (RAPID), Early-concept Grants for Exploratory Research (EAGER), Research Advanced by Interdisciplinary Science and Engineering (RAISE), Grant Opportunities for Academic Liaison with Industry (GOALI), and proposals for Travel or Conferences support, including workshops, can be submitted at any time to any of the clusters/programs described in this solicitation. These types of proposals should be submitted in accordance with the guidance in the PAPPG. Conference and Travel proposals should be submitted at least 6 months before the start date of the conference or workshop; you are strongly advised to contact a Program Officer prior to submission. Note that before submitting RAPID, EAGER, or RAISE proposals you must receive approval from a Program Officer in the area of the proposal.
+
+Education Supplements
+
+The Innovation program only considers support for full proposals submitted to the program. Except for Career-Life-Balance supplements, program funds are generally not used to provide post-award supplements to existing awards. If activities that align with REU, RET, and RAHSS educational supplements are planned, these activities should be described and budgeted for in the original proposal submission.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 20 to 40
+
+Actual number of awards may vary depending on the split of funds across the different programs, which in turn may vary according to submission distribution, individual proposal merits, and budget amounts, and availability of funds.
+
+Anticipated Funding Amount: $16,000,000 to $18,000,000
+
+Approximately $16-18 million is expected to be available for new and continuing awards. The size and duration of any individual request should be justified by the amount and complexity of the work to be accomplished. As a rule, the larger the budget, the greater the expected impact on the biological research community.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Special Instructions for International Branch Campuses of US IHEs: If the proposal includes funding to be provided to an international branch campus of a US institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the US campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+There are no restrictions or limits.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable

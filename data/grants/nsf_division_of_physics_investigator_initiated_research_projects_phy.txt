@@ -64,3 +64,204 @@ Status: Cleared
 Posted date (Y-m-d): 2023-08-10
 URL: https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615
 Type: Program
+
+Extracted from solicitation page (selected sections):
+Summary of Program Requirements
+
+General Information
+
+Program Title:
+
+Division of Physics: Investigator-Initiated Research Projects (PHY)
+
+I. Introduction
+
+The Division of Physics (PHY) supports physics research and the preparation of future scientists in the nation’s colleges and universities across a broad range of physics disciplines that span scales of space and time from the largest to the smallest and the oldest to the youngest. The Division is comprised of disciplinary programs covering experimental and theoretical research in the following major subfields of physics: Atomic, Molecular and Optical Physics; Elementary Particle Physics; Gravitational Physics; Integrative Activities in Physics; Nuclear Physics; Particle Astrophysics; Physics at the Information Frontier; Physics of Living Systems; Plasma Physics; and Quantum Information Science.
+
+PHY Mission: To support fundamental research across the intellectual frontiers of physics, to support research that has broader impacts on other fields of science and on the health, economic strength, and defense of society, to enhance workforce preparation at all levels and share the excitement of science with the public through integration of research and education, and to steward the physics community so as to maintain the intellectual capital essential for future advances. Modes of support include single investigator awards, group awards, centers and institutes, some interdisciplinary in nature, and several national user facilities, as well as research equipment/instrumentation development grants and mid-scale research infrastructure awards.
+
+PHY Science: Physics research probes the properties of matter at its most fundamental level, the interactions between particles, and the organization of constituents and symmetry principles that lead to the rich structure and phenomena that we observe in the world around us. Physics seeks a deep understanding of processes that led to the formation of the cosmos, to the structure of matter at the very shortest distance scales where quantum effects dominate, and to the structure of atomic and molecular systems that shape and control the everyday world of chemistry and biological systems. Because of the breadth and scope of physics, it forms part of the core educational curriculum in most sciences and in engineering.
+
+Physics research encompasses both theoretical and experimental studies, has very profound connections with fundamental mathematics, and underlies most of the other physical sciences. Collaboration with the other scientific disciplines is very important to the continued health and excitement of physics, some examples being in biological physics at the molecular and cellular levels, in quantum information science and at the physics-computer science/engineering interface, and in the large-scale structure and evolution of the universe. PHY will continue to emphasize the importance of interdisciplinary research.
+
+Physics also supports the development of new tools and techniques needed to expand and refine our understanding of physical systems - from femtosecond lasers to probe and control atomic and molecular systems, to Artificial Intelligence numerical methods for the analysis of complex data sets, to LIGO (Laser Interferometer Gravitational-Wave Observatory), a new window to study the universe through the detection of gravitational waves. The extraordinary sensitivity required for some of the instrumentation demands new technology development and implementation of new mid-scale research infrastructure. PHY encourages research that pushes the envelope of technology as well as the reach of science and sees this also as an investment in developing the scientific leaders of the future.
+
+Proposals with scope covering topics within the purview of programs outside of the Division of Physics may be co-reviewed with the relevant Divisions as appropriate and at the discretion of the cognizant NSF Program Director.
+
+II. Program Description
+
+This solicitation covers three possible award types:
+
+individual investigator and group awards with standard time cycles;
+
+mid-scale research infrastructure awards; and
+
+awards that anticipate long-term support.
+
+For standard individual investigator and group awards that follow the usual cycles for competitive renewal, proposals must follow the requirements of the NSF Proposal & Award Policies & Procedures Guide plus specific additional requirements included in this solicitation. See Additional Information under Proposal Preparation Instructions and Additional Solicitation Specific Review Criteria under Merit Review Principles and Criteria.
+
+Proposals that involve significant investments either because they request mid-scale research infrastructure or because they involve activities that can span several renewal cycles are considered Large Investments by the Division and may involve additional instructions and additional review. See the relevant sections on Long-Duration Efforts and Mid-scale Research Infrastructure below .
+
+________________
+
+The Division of Physics invites research proposals in the following areas:
+
+Atomic Molecular and Optical Physics - Experiment [Program Description]
+
+Atomic Molecular and Optical Physics - Theory [Program Description]
+
+Elementary Particle Physics - Experiment [Program Description]
+
+Elementary Particle Physics - Theory [Program Description]
+
+Gravitational Physics - Theory [Program Description]
+
+LIGO Research Support [Program Description]
+
+Integrative Activities in Physics [Program Description]
+
+Nuclear Physics - Experiment [Program Description]
+
+Nuclear Physics - Theory [Program Description]
+
+Particle Astrophysics - Experiment [Program Description]
+
+Particle Astrophysics and Cosmology - Theory [Program Description]
+
+Physics of Living Systems [Program Description]
+
+Plasma Physics [Program Description]
+
+Quantum Information Science [Program Description]
+
+The scope of each program is described on the program page. Proposals that are determined to be outside the scope of the program to which they were submitted may be returned without review. Proposers are encouraged to consult with Program Directors prior to submission deadlines.
+
+________
+
+The following sections apply to proposals associated with activities whose duration typically covers several award cycles (Long-Duration Efforts), and/or involve instrumentation acquisition or development (Mid-scale Research Infrastructure).
+
+Large Investments
+
+Any activity that requires a level of program support which is significant compared to the associated program budget is considered by the Division of Physics to be a large investment. Designation of an activity as a large investment, and therefore subject to the guidelines, is made by the Program Directors in consultation with the Division Director.
+
+Some of these large investments entail the acquisition or development/implementation of research infrastructure. Large investments may also come in the form of long-duration efforts that require substantial funding over multiple award cycles while not necessarily requesting significant investments in a single award cycle. Activities that receive this designation typically aim to achieve a focused goal and may involve several individual or group awards. Large investments are not defined by a specific dollar amount, as these will vary by program. However, in all cases these projects require significant commitments from the individual programs, and therefore require special consideration. The largest of these investments may involve PHY mid-scale funding, which is allocated by the Division Director. Two modes are described below: A) Mid-scale Research Infrastructure and B) Long-duration activities.
+
+The following language applies both to Mid-scale Research Infrastructure and Long-Duration activities.
+
+Proposals are first considered on the basis of their science goals. Because the investment will substantially impact the budget of any individual program and because the impact will likely extend for more than a single award cycle, the science goals must be of high priority within the program. Standard proposal review panels prioritize a proposal compared to other proposals received that year. To appropriately prioritize a proposal involving a potentially large investment, the review panel may be asked to additionally consider the programmatic balance of investments across the full program. In some cases, a special panel may be required to consider and prioritize the proposed investment.
+
+Technical Review
+
+The feasibility of the proposed activities must also be thoroughly reviewed. Given the scale and complexity of most large investments a separate panel may be required to assess implementation plans. For some proposals, including those with instrument development and/or fabrication, the review may consider technical readiness, risk mitigation, management plans, budgets and schedules. For long-duration efforts where the lifetime of the project is expected to exceed a single award period, the review may consider performance schedules, lifecycle planning, and, for renewal proposals, the record of success in achieving any previously set milestones. As needed, these reviews may involve site visits. In all cases, the technical review panel will be asked to consider and provide guidance to the Program Directors on the appropriate duration of the award and milestones needed to evaluate the project’s progress.
+
+Awards for Long-Duration efforts or for Mid-scale Research Infrastructure may be made through cooperative agreements that contain terms and conditions specific to the nature and risks associated with the project. These may involve site visits or mid-term reviews, and NSF approval of changes in management or schedule. Oversight will include monitoring progress towards any milestones established during the technical review. Depending on the nature of the project and the recommendations from the technical reviews, initial awards may be made for 3 to 5 years. The duration of support will be determined based on the scientific goals of the project with input from the technical review and taking into account the financial burden on the programs. Proposals for continued support may involve both scientific and technical review, as appropriate at the time of the request. Appropriate close-out should be planned in advance. For the largest investments a close-out phase may be described in the cooperative agreement.
+
+New activities involving large investments will be governed by this solicitation. Currently funded projects that involve long-duration efforts will be subject to these same procedures if they apply for renewed support in order to determine whether the science continues to be of high priority within the programs and whether the implementation plans are sound.
+
+Mid-scale Research Infrastructure
+
+Mid-scale research infrastructure represents some of the largest investments within the Division of Physics. All research infrastructure implementation with costs between $4 million and $30 million fall into this category. Proponents should contact the Program Directors for the relevant program(s) for details. Review of the proposal and subsequent oversight of mid-scale research infrastructure awards will scale with the size and complexity of the proposed project as described in the 2019 Major Facilities Guide (MFG), or subsequent revision in effect at time of proposal submission found at: https://www.nsf.gov/bfa/lfo/lfo_documents.jsp . The guidelines listed here follow standard practices for activities of this scope.
+
+Requests for mid-scale research infrastructure support may involve a sequence of development phases and PHY Division-level reviews. For the most complex cases, these are designated by the following phases:
+
+early conceptual phase;
+
+pre-implementation phase;
+
+implementation phase.
+
+Less complex cases may skip development stages as determined by the cognizant PO.
+
+All proposals are evaluated using the NSF merit review criteria concerning intellectual merit and broader impacts, as well as an assessment as to how well the proposed mid-scale research infrastructure will address the stated science goals. Consideration of all mid-scale research infrastructure requests begins by evaluating and prioritizing the science goals within the individual programs and determining the feasibility of the implementation plan. For each of the relevant phases listed above, the associated proposal will be reviewed before passing on to the next stage. At each stage of development, the Division of Physics may choose to provide support through the next phase or end its involvement. At successive development phases, the reviews will be increasingly detailed and will involve an increasing level of commitment from the Division. Project planning must take into account the total project lifecycle. The Division investment in mid-scale research infrastructure development is of finite duration, and at the completion of fabrication, the Division involvement ends; program funding may support project operations. As appropriate, these stages of development will be coordinated with funding partners in other agencies or organizations.
+
+Although more than one organization may participate in a PHY mid-scale research infrastructure proposal, a single organization must accept overall management responsibility for the project. The proposal must be submitted by one organization, with funding provided to any other organization through subawards. The use of the separately submitted collaborative proposal method is not permitted for PHY mid-scale proposals. Awards for mid-scale research infrastructure will be in the form of cooperative agreements.
+
+PIs should consult section 5 of the NSF Research Infrastructure Guide (found at: https://www.nsf.gov/bfa/lfo/lfo_documents.jsp ) for guidance on planning and oversight of mid-scale research infrastructure projects.
+
+For further information, see Additional Information for Mid-scale Research Infrastructure under Proposal Preparation Instructions.
+
+Long-Duration Efforts
+
+Information Sharing with other Funding Agencies
+
+As permitted under the Memorandums of Understanding (MOUs) between NSF and the Department of Energy National Nuclear Security Administration (DOE/NNSA), the DOE Office of Science (DOE SC), and the Air Force Research Laboratory (AFRL), NSF may share information from proposals for consideration of joint funding and may invite employees of these agencies to attend merit review panels as observers.
+
+III. Award Information
+
+Anticipated Type of Award: Standard Grant or Continuing Grant or Cooperative Agreement
+
+Estimated Number of Awards: 300
+
+Anticipated Funding Amount: $120,000,000
+
+Pending availability of funds, approximately $120M will be committed for the total budget of all new awards in each year. Estimated program budget, number of awards and average award size/duration are subject to the availability of funds.
+
+IV. Eligibility Information
+
+Who May Submit Proposals:
+
+Proposals may only be submitted by the following:
+
+Institutions of Higher Education (IHEs) - Two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the U.S., acting on behalf of their faculty members. Special Instructions for International Branch Campuses of U.S. IHEs: If the proposal includes funding to be provided to an international branch campus of a U.S. institution of higher education (including through use of subawards and consultant arrangements), the proposer must explain the benefit(s) to the project of performance at the international branch campus, and justify why the project activities cannot be performed at the U.S. campus.
+
+Non-profit, non-academic organizations: Independent museums, observatories, research laboratories, professional societies and similar organizations located in the U.S. that are directly associated with educational or research activities.
+
+For-profit organizations: U.S.-based commercial organizations, including small businesses, with strong capabilities in scientific or engineering research or education and a passion for innovation.
+
+State and Local Governments: State educational offices or organizations and local school districts.
+
+Tribal Governments: The governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe under the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a, et seq.)
+
+Foreign organizations: For cooperative projects involving U.S. and foreign organizations, support will only be provided for the U.S. portion.
+
+Other Federal Agencies and Federally Funded Research and Development Centers (FFRDCs): Contact the appropriate program before preparing a proposal for submission.
+
+Who May Serve as PI:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per Organization:
+
+There are no restrictions or limits.
+
+Limit on Number of Proposals per PI or co-PI:
+
+None. However, the Division of Physics strongly encourages single proposal submission for possible co-review rather than submission of multiple related proposals to several programs.
+
+PIs considering submitting more than one proposal to this solicitation, or who already have an active PHY award, are encouraged to first consult with the relevant program officer(s) before preparing a new proposal. This does not apply to awards from or submissions to the MRI, REU, and/or center programs, or in cases of renewal proposals.
+
+Proposal Preparation and Submission Instructions
+
+A. Proposal Preparation Instructions
+
+Letters of Intent: Not required
+
+Preliminary Proposal Submission: Not required
+
+Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+Full Proposals:
+
+Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .
+
+Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).
+
+B. Budgetary Information
+
+Cost Sharing Requirements: Inclusion of voluntary committed cost sharing is prohibited.
+
+Cost Sharing Requirements:
+
+Inclusion of voluntary committed cost sharing is prohibited.
+
+Indirect Cost (F&A) Limitations: Not Applicable
+
+Indirect Cost (F&A) Limitations:
+
+Not Applicable
+
+Other Budgetary Limitations: Not Applicable
+
+Other Budgetary Limitations:
+
+Not Applicable
