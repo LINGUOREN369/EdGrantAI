@@ -1,0 +1,12 @@
+https://www.nsf.gov/funding/opportunities/nnci-national-nanotechnology-coordinated-infrastructure/nsf15-519/solicitation
+
+Title: National Nanotechnology Coordinated Infrastructure (NNCI)
+Synopsis: Over the past decade of its authorized award life, the National Nanotechnology Infrastructure Network (NNIN) has enabled major discoveries, innovations, and contributions to education and commerce by providing researchers from academia, small and large companies, and government with open access to university user facilities with leading-edge fabrication and characterization tools, instrumentation, and expertise within all disciplines of nanoscale science, engineering, and technology. The National Science Foundation is now moving forward with the new National Nanotechnology Coordinated Infrastructure (NNCI) as the successor to the NNIN.
+This solicitation establishes a competition for individual university user facility sites positioned across the nation. A Coordinating Office will then be selected competitively at a later stage from among the selected sites to enhance their impact as a national infrastructure of user facility sites. The ultimate selection of user facility sites will include capabilities and instrumentation addressing current and anticipated future user needs across the broad areas of nanoscale science, engineering, and technology.
+Award Type: coop
+Program ID: 505149
+NSF/PD Num: nsf15519
+Status: Current but no longer receiving proposals
+Posted date (Y-m-d): 2014-11-18
+URL: https://www.nsf.gov/funding/opportunities/nnci-national-nanotechnology-coordinated-infrastructure/nsf15-519
+Type: Program

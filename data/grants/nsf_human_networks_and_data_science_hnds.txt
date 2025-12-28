@@ -1,0 +1,15 @@
+https://www.nsf.gov/funding/opportunities/hnds-human-networks-data-science/nsf23-568/solicitation
+
+Title: Human Networks and Data Science (HNDS)
+Synopsis: The Human Networks and Data Science program (HNDS) supports research that enhances understanding of human behavior by leveraging data and network science research across a broad range of topics. HNDS research will identify ways in which dynamic, distributed, or heterogeneous data can provide novel answers to fundamental questions about individual or group behavior. HNDS is especially interested in proposals that provide data-rich insights about human networks to support improved health, prosperity, and security.
+HNDS has two tracks:
+(1) Human Networks and Data Science – Infrastructure (HNDS-I). Infrastructure proposals will address the development of data resources and relevant analytic techniques that support fundamental Social, Behavioral and Economic (SBE) research. Successful infrastructure proposals will construct, within the financial resources provided by the award, databases or relevant analytic techniques and produce a finished product that will enable previously impossible data-intensive research in the social sciences. The databases or techniques should have significant impacts, either across multiple fields or within broad disciplinary areas, by making possible new types of data-intensive research in the SBE sciences.
+(2) Human Networks and Data Science – Core Research (HNDS-R). Core research proposals will advance theory in a core SBE discipline by the application of data and network science methods. This includes the leveraging of large data sets with diverse spatio-temporal scales of measurement and linked qualitative and quantitative approaches, as well as multi-scale, multi-level network data and techniques of network analysis. Supported projects are expected to yield results that will enhance, expand, and transform theory and methods, and that generate novel understandings of human behavior – particularly understandings that can lead to significant societal benefits or opportunities. HNDS-R encourages core research proposals that make innovative use of NSF-supported data networks, databases, centers and other forms of scientific infrastructure including those developed by HNDS-I (formerly RIDIR) projects.
+Award Type: standard
+Next due date (Y-m-d): 2026-01-08, 2026-01-08
+Program ID: 505702
+NSF/PD Num: nsf23568
+Status: Cleared
+Posted date (Y-m-d): 2023-03-13
+URL: https://www.nsf.gov/funding/opportunities/hnds-human-networks-data-science/nsf23-568
+Type: Program

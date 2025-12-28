@@ -1,0 +1,18 @@
+https://www.nsf.gov/funding/opportunities/mcb-division-molecular-cellular-biosciences-core-programs/nsf24-539/solicitation
+
+Title: Cellular Dynamics and Function
+Synopsis: The Cellular Dynamics and Function (CDF) cluster supports fundamental cell biological research.  We seek proposals that use multidisciplinary approaches to provide insights into the fundamental biology of cells from animals, plants, or microbes, including cells from understudied species.  Proposals that rely heavily on descriptive approaches are given lower priority.
+The cluster encourages proposals in the following areas:
+
+Predictive understanding of the behavior of cells through integration of computational modeling and experimentation;
+Evolutionary approaches to understanding the rules governing cellular functions;
+Integration of structure and function with emerging cellular properties across broad spatiotemporal scales, including ideas that consider cellular organization from the standpoint of soft condensed matter; and
+Development or adaption of innovative tools or technologies with potential to enable new avenues of cellular investigation.
+
+Investigators considering submitting a proposal to the cluster are encouraged to contact CDF Program Directors to discuss project suitability before proposal submission.
+Program ID: 504861
+NSF/PD Num: nsf24539
+Status: Cleared
+Posted date (Y-m-d): 2012-10-09
+URL: https://www.nsf.gov/funding/opportunities/cellular-dynamics-function/pd13-1114
+Type: Program

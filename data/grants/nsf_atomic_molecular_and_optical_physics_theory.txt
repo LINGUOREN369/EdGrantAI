@@ -1,0 +1,12 @@
+https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation
+
+Title: Atomic, Molecular and Optical Physics - Theory
+Synopsis: All proposals submitted to the Physics Division that are not governed by another solicitation (such as CAREER) must be submitted to its division-wide solicitation: Division of Physics: Investigator-Initiated Research Projects.
+------
+The Theoretical Atomic, Molecular, and Optical Physics (TAMOP) program supports theoretical and computational research in all areas of atomic structure, the molecular structure of small molecules, electron, and atomic collisions, photoionization and photodetachment of electrons from atoms and small molecules, time-dependent interactions with atoms and small molecules, quantum optics, ultracold phenomena in Bose and Fermi gases, and quantum information.  Investigations primarily directed toward a theoretical understanding of  larger molecules or condensed matter systems should be directed toward the appropriate programs in the Division of Chemistry or the Division of Materials Research.
+Program ID: 505429
+NSF/PD Num: nsf23615
+Status: Cleared
+Posted date (Y-m-d): 2017-04-28
+URL: https://www.nsf.gov/funding/opportunities/atomic-molecular-optical-physics-theory/pd24-1284
+Type: Program

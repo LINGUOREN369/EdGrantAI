@@ -1,0 +1,11 @@
+https://www.nsf.gov/funding/opportunities/sch-smart-health-biomedical-research-era-artificial-intelligence/nsf25-542/solicitation
+
+Title: Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH)
+Synopsis: The purpose of this interagency program solicitation is to support the development of transformative high-risk, high-reward advances in computer and information science, engineering, mathematics, statistics, behavioral and/or cognitive research to address pressing questions in the biomedical and public health communities. Transformations hinge on scientific and engineering innovations by interdisciplinary teams that develop novel methods to intuitively and intelligently collect, sense, connect, analyze and interpret data from individuals, devices and systems to enable discovery and optimize health. Solutions to these complex biomedical or public health problems demand the formation of interdisciplinary teams that are ready to address these issues, while advancing fundamental science and engineering.
+Award Type: standard, continuing, coop
+Program ID: 504739
+NSF/PD Num: nsf25542
+Status: Waiting for new publication
+Posted date (Y-m-d): 2025-07-24
+URL: https://www.nsf.gov/funding/opportunities/sch-smart-health-biomedical-research-era-artificial-intelligence/nsf25-542
+Type: Program

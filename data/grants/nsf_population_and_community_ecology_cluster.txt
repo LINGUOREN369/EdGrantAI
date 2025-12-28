@@ -1,0 +1,13 @@
+https://www.nsf.gov/funding/opportunities/deb-division-environmental-biology/nsf24-543/solicitation
+
+Title: Population and Community Ecology Cluster
+Synopsis: The Population and Community Ecology (PCE) Cluster supports research that advances the conceptual or theoretical understanding of population ecology, species interactions and community dynamics in terrestrial, wetland, and freshwater habitats.  Topics supported include population dynamics of individual species, demography, and fundamental ecological interactions affecting populations, communities, and their environments.  Themes include but are not limited to: population regulation; food-web structure and trophic dynamics; competition, predation, mutualism and parasitism; mechanisms of coexistence and the maintenance of species diversity; community assembly; paleoecology; landscape ecology; conservation and restoration biology; behavioral ecology; and macroecology. 
+We encourage projects that integrate theoretical, modeling, and empirical approaches, or that promote synthesis across spatial and temporal scales.  The cluster seeks to fund projects that are transformative -- that is, those that will change the conceptual bases of population and community ecology and have broad implications for future research.  Proposals that develop research questions within the context of existing theory, consider alternate mechanisms, and design critical tests to distinguish among mechanisms are particularly encouraged, as are those that use contemporary approaches to develop new paradigms.  Inter- and multi-disciplinary proposals that cross traditional programmatic boundaries are welcomed; such proposals may be co-reviewed with other programs in DEB, in other Divisions in the Biology Directorate, or in other Directorates. 
+The cluster also funds proposals submitted in response to the CAREER, RCN, RUI, LTREB, MCA and OPUS solicitations. Requests for support of conferences and workshops, supplemental funding to existing awards, and for RAPIDs or EAGERs, should be submitted to the PAPPG (Proposal & Award Policies & Procedures Guide), following its standard guidelines.  For proposals submitted to the PAPPG, prior correspondence with a PCE Program Officer is strongly encouraged.
+Studies that focus on the ecology of marine organisms should be directed to the Biological Oceanography Program in the Division of Ocean Sciences. Applied research (e.g., ecotoxicology) and research focused on human disease or health are not supported.
+Program ID: 503665
+NSF/PD Num: nsf24543
+Status: Cleared
+Posted date (Y-m-d): 2011-06-15
+URL: https://www.nsf.gov/funding/opportunities/population-community-ecology-cluster/pd11-1196
+Type: Program

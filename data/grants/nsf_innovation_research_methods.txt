@@ -1,0 +1,10 @@
+https://www.nsf.gov/funding/opportunities/innovation-infrastructure-innovation-biological-research/nsf23-578/solicitation
+
+Title: Innovation: Research Methods
+Synopsis: The Research Methods Programmatic Area supports the design of novel and innovative laboratory- or field-based methodologies with the potential for a transformative impact, enabling new and important insights into biological processes and with the potential to be broadly applicable in biology.  Proposed projects may include methods for the field or laboratory related to any biological phenomena (e.g., molecular, cellular, organismal, ecosystem, biome) or process. Topics that are not supported in this programmatic area include refinement, optimization, or scaling of existing methods and validation of new reagents for standard approaches (e.g., new antibodies or fluorescent tags). The scope of the proposed innovative research method can include any method for measurement, perturbation, or analysis of biological systems in the lab or field. Projects are expected to have a significant application to one or more biological science questions and have the potential to be used by a community of researchers beyond a single research team.
+Program ID: 505837
+NSF/PD Num: nsf23578
+Status: Cleared
+Posted date (Y-m-d): 2020-08-19
+URL: https://www.nsf.gov/funding/opportunities/innovation-research-methods/pd20-166y
+Type: Program

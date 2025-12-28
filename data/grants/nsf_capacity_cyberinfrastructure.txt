@@ -1,0 +1,11 @@
+https://www.nsf.gov/funding/opportunities/capacity-infrastructure-capacity-biological-research/nsf23-580/solicitation
+
+Title: Capacity: Cyberinfrastructure
+Synopsis: The Cyberinfrastructure Programmatic Area supports the implementation of, scaling of, or major improvement to cyberinfrastructure for biology that advances or transforms contemporary biology and that is broadly applicable to a wide range of researchers. Proposed projects may include cyberinfrastructure related to any level of biological phenomena (e.g., molecular, cellular organismal, ecosystem, biome), but there needs to be a clear articulation of how the proposed capacity will lead to scientific understanding in biology. PIs are encouraged, where possible, to leverage existing resources in lieu of acquiring or developing new ones. Examples using existing resources include: using shared computational or storage hardware such as xSede, Open Science Grid, or JetStream; incorporating existing software or middleware for basic services (e.g., cyber security or user identity management); and deploying new software through existing platforms such as CyVerse, Galaxy, or R. The scope of the proposed infrastructure can include but is not limited to: design and construction of databases from new or existing data sources; software and methods for making use of new technologies for the acquisition, communication or visualization of biological data; software or ontologies related to data discovery, data mining, data integration or visualization; tools that facilitate biological research workflows, analytical pathways, or integration between the field and laboratory or between observations, experiments, and models; or scientific gateways (i.e., accessing shared computational and data resources). It is expected that projects will produce a finished product that is publicly accessible and useable for the biological research community. Projects are expected to produce quality products, result in important science outcomes that will be achieved by the users of the resource, and have the potential to be used by a community of researchers beyond a single research team.
+Proposals accepted anytime: 1
+Program ID: 505538
+NSF/PD Num: nsf23580
+Status: Cleared
+Posted date (Y-m-d): 2018-08-31
+URL: https://www.nsf.gov/funding/opportunities/capacity-cyberinfrastructure/pd18-1165
+Type: Program

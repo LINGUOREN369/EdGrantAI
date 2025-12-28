@@ -1,0 +1,26 @@
+https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf23-601/solicitation
+
+Title: Mathematical Sciences Research Experiences for Undergraduates Sites (DMS REU Sites)
+Synopsis: The NSF-wide REU Sites program is governed by a single solicitation but administered individually by each NSF Division or Directorate. An REU Site should provide research opportunities with a coherent intellectual theme and may be based in a single discipline or academic department or be interdisciplinary and multi-departmental.
+The NSF-wide Research Experiences for Undergraduates (REU) solicitation governs the overall competition. The following clarifications/explanations are specifically for REU Site proposals submitted to the Division of Mathematical Sciences.
+
+Three years is the typical project duration for DMS REU sites. Longer durations may be considered, but communication with the cognizant Program Officers (reu.dms@nsf.gov) prior to submission is encouraged.
+DMS REU sites usually host between 8 and 12 students per year. If the planned site falls outside this range, communication with the cognizant Program Officers is encouraged prior to submission of the proposal.
+Principal Investigators are reminded that the REU program solicitation requires specific information in the Project Description for an REU Site proposal, including detailed descriptions of examples of research projects that students will pursue. 
+Proposal budgets for REU Site proposals to the Division of Mathematical Sciences (DMS) should be formulated in accordance with the instructions in the NSF REU Program solicitation, with the following clarification: Well-justified requests for REU Sites with budgets exceeding the total-cost guideline in the REU solicitation will be considered.
+
+The budget request for an REU Site proposal to DMS may include salary support for program management commensurate with the number of person-hours involved. Such expenses, in proposal budget Sections A and B, may include appropriate support for PI, co-PI(s), research mentors, or other student or program assistants. The proposal Budget Justification should include a breakdown of the program management activities and person-hours allocated to each. Budget requests will be reviewed for reasonability.
+The bulk of the budget request for an REU Site proposal to DMS must consist primarily of Participant Support Costs for the undergraduate participants. However, proposal budgets are not strictly subject to the general expectation stated in the NSF REU program solicitation on maximum total REU Site project costs. Student stipends are expected to be no less than $700 per student per week. Other Participant Support Costs, including housing, meals, travel, and laboratory use fees, should reflect local conditions, and must be thoroughly justified.
+
+
+
+Students may not apply to NSF to participate in REU activities; rather, students apply directly to REU Sites. Students interested in Mathematical Sciences REU should consult the Online Directory of DMS REU Sites for opportunities.
+Interested PIs are also advised to explore the Online Directory of DMS REU Sites to determine the scope and breadth of fields supported.
+NOTE: All DMS REU Site proposals must be submitted to the NSF-wide REU solicitation, with "DMS - MPS/DMS - Research Experiences for Undergraduates" (Directorate: Directorate for Mathematical & Physical Sciences [MPS]; Division: Division of Mathematical Sciences [DMS]) selected as the appropriate Unit of Consideration.
+For more detailed information on the NSF-wide REU program, please see the REU program solicitation.
+Program ID: 506081
+NSF/PD Num: nsf23601
+Status: Cleared
+Posted date (Y-m-d): 2022-05-18
+URL: https://www.nsf.gov/funding/opportunities/dms-reu-sites-mathematical-sciences-research-experiences-undergraduates/pd22-1139
+Type: Program

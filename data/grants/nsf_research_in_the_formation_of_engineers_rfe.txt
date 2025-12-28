@@ -1,0 +1,46 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Research in the Formation of Engineers (RFE)
+Synopsis: The NSF Engineering Directorate (ENG) has launched a multi-year initiative, the Professional Formation of Engineers, to create and support an innovative and inclusive engineering profession for the 21st century. Professional Formation of Engineers (PFE) refers to the formal and informal processes and value systems by which people become engineers. It also includes the ethical responsibility of practicing engineers to sustain and grow the profession in order to improve quality of life for all peoples. The engineering profession must be responsive to national priorities, grand challenges, and dynamic workforce needs; it must be equally open and accessible to all.
+Professional Formation of Engineers includes, but is not limited, to:
+
+Introductions to the profession at any age;
+Development of deep technical and professional skills, knowledge, and abilities in both formal and informal settings/domains;
+Development of outlooks, perspectives, ways of thinking, knowing, and doing;
+Development of identity as an engineer and its intersection with other identities; and
+Acculturation to the profession, its standards, and norms.
+
+The goal of the Research in the Formation of Engineers (RFE) program is to advance our understanding of professional formation. It seeks both to deepen our fundamental understanding of the underlying processes and mechanisms that support professional formation and to demonstrate how professional formation is or can be accomplished. Ultimately RFE aims to transform the engineer-formation system, and thus the impact of proposed projects on this system must be described. Principal Investigators (PIs) should provide a roadmap detailing how they envision the proposed research will eventually broadly impact practice within the engineer-formation system, even if these activities are not within the scope of the submitted proposal.
+In order to accomplish its goals, RFE welcomes proposals in two categories: Research Projects, and Design and Development Projects. Research Projects address fundamental questions of professional formation, while Design and Development Projects provide new approaches to achieving professional formation. Additional details are provided below. Projects in both categories should address the iterative cycle in which research questions that advance understanding are informed by practice and the results of research are, in turn, translated into practice. In other words, proposals should explain how the research results will travel, translate, transfer, or scale. Successful projects identify specific target audiences, effective communication channels, and novel partnerships to ensure effective propagation and scaling. Proposal titles should begin with either “Research:” or “Design and Development:” as appropriate.
+Research Projects
+Research proposals are particularly welcome in the following areas:
+
+Research that addresses lifelong learning by the engineering workforce.
+Research on the impact of engineering education research. Proposals addressing this topic could investigate questions such as: How can we measure the impacts of engineering education research? What are effective strategies for scaling reforms? How can we translate knowledge from research to practice? What are the roles of technologies, networks and communities in achieving impact? RFE does not support efficacy, effectiveness, or scale-up studies for specific interventions.
+Research that addresses culture change in engineering education. Included in this topic are investigations of normative cultures of engineering at any level in the engineering education ecosystem and how these cultures may disadvantage certain groups.
+Research that addresses engineering formation at the two-year college level in both formal and informal settings.
+Research that addresses engineering formation at the graduate education level in both formal and informal settings.
+Research that investigates engineering in P-12 settings. Research in this area could include understanding of approaches to engineering in P-12, how to develop engineering ways of thinking, or the relationship between practices within the sciences and mathematics and engineering thinking.
+Research on the transitions between education levels, e.g., from high school to two-year college, high school to four-year college/university, two-year college to four-year college/university, undergraduate to graduate school, education settings to the workforce or professoriate, etc.
+Research that addresses the relationship between engineering and the public. Proposals addressing this topic could consider the social impact of engineering solutions, citizen engineering, education of an informed public, etc.
+Research that develops or adapts novel methodologies and frameworks appropriate for studying the professional formation of engineers, and especially minoritized, marginalized, or underserved populations.
+Research that addresses ways in which new technologies (such as artificial intelligence and machine learning) are changing engineering education.
+Research to transform engineering education so that all students encounter environmental and social sustainability principles as an integrated part of their education and are equipped with the tools needed to incorporate these principles into their future research, careers, and innovations.
+
+Proposals submitted to the Research Projects category should have clear research questions informed by an appropriate theoretical framework and a research design that includes sampling, data collection, and data analysis methods. This category will not support proposals that seek funding primarily to develop tools, curriculum, or laboratories, or that seek to implement classroom innovations that have already been shown to be effective in engineering. The program will evaluate the value of proposals by considering the impact and the cost. Research track projects that are small, exploratory, or speculative are especially encouraged. Larger Research track projects should have a correspondingly larger impact.
+Design and Development Projects
+RFE supports Design and Development projects (see https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf13126) that seek to develop and test new approaches in the following areas related to engineering education:
+
+Graduate education.
+Undergraduate education in new engineering technologies and environmental sustainability.
+Transitions between education levels, for example high school to two-year college, high school to four-year college/university, two-year college to four-year college/university, undergraduate to graduate school, education settings to the workforce or professoriate, etc.
+P-12, especially approaches to develop engineering thinking, or providing links between engineering, science, and mathematics.
+
+Proposals in this category should propose the design and development of new approaches that are informed by existing literature and theory. There should be clear objectives and the evaluation plan should be designed to determine if those objectives have been met. Projects cannot be solely demonstration projects but must add to the engineering education literature to inform future work.
+Proposals accepted anytime: 1
+Program ID: 506225
+NSF/PD Num: pd241340
+Status: Cleared
+Posted date (Y-m-d): 2023-09-13
+URL: https://www.nsf.gov/funding/opportunities/rfe-research-formation-engineers/pd24-1340
+Type: Program

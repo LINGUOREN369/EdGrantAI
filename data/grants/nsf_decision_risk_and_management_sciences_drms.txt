@@ -1,0 +1,12 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Decision, Risk and Management Sciences (DRMS)
+Synopsis: The Decision, Risk and Management Sciences Program (DRMS) supports scientific research directed at increasing understanding and effectiveness of decision making by individuals, groups, organizations and society. DRMS supports research with solid foundations in theories and methods of the social and behavioral sciences. This social and behavioral science research should advance knowledge, address fundamental scientific and societal issues and have strong broader impacts. DRMS funds disciplinary and interdisciplinary research, doctoral dissertation research improvement grants (DDRIGs) and conferences in the following areas: judgment and decision making; decision analysis and decision aids; risk analysis, perception and communication; societal and public-policy decision making; management science and organizational design. The program supports the use of the RAPID funding mechanism for research that involves ephemeral data, typically tied to disasters or other unanticipated events. Much less frequently, the program also supports highly unusual, proof-of-concept, high-risk projects that are potentially transformational (Early Concept Grants for Exploratory Research – EAGER). For detailed information concerning RAPID and EAGER grants, please review Chapter II.E of the NSF PAPPG. All research must be grounded in theory and generalizable. Purely algorithmic management-science proposals should be submitted to the Operations Engineering (OE) Program rather than to DRMS.
+Decision, Risk and Management Sciences offers Doctoral Dissertation Research Improvement Grants (DDRIGs) to improve the quality of dissertation research. For detailed guidelines on preparing a DDRIG proposal, consult the separate DRMS-DDRIG solicitation.
+Next due date (Y-m-d): 2026-01-20, 2026-01-20
+Program ID: 506203
+NSF/PD Num: pd231321
+Status: Cleared
+Posted date (Y-m-d): 2023-05-10
+URL: https://www.nsf.gov/funding/opportunities/drms-decision-risk-management-sciences/pd23-1321
+Type: Program

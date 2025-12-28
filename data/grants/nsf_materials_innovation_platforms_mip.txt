@@ -1,0 +1,12 @@
+https://www.nsf.gov/funding/opportunities/mip-materials-innovation-platforms/nsf25-521/solicitation
+
+Title: Materials Innovation Platforms (MIP)
+Synopsis: Materials Innovation Platforms (MIP) is a mid-scale infrastructure program in the Division of Materials Research (DMR) designed to accelerate advances in materials research. MIPs respond to the increasing complexity of materials research that requires close collaboration of interdisciplinary and transdisciplinary teams and access to cutting edge tools. These tools in a user facility benefit both a user program and in-house research, which focus on addressing grand challenges of fundamental science and meet national needs. MIPs embrace the paradigm set forth by the Materials Genome Initiative (MGI), which strives to “discover, manufacture, and deploy advanced materials twice as fast, at a fraction of the cost,” and conduct research through iterative “closed-loop” efforts among the areas of materials synthesis/processing, materials characterization, and theory/modeling/simulation. In addition, they are expected to engage the emerging field of data science in materials research. Each MIP is a scientific ecosystem, which includes in-house research scientists, external users and other scientists who, collectively, form a community of practitioners and share tools, codes, samples, data and know-how. The knowledge sharing is designed to strengthen collaborations among scientists and enable them to work in new ways, fostering new modalities of research and training, for the purpose of accelerating discovery and development of new materials and novel materials phenomena/properties, as well as fostering their eventual deployment.
+The scientific focus of the MIP program is subject to change from competition to competition. Information about the existing MIPs, from two previous competitions in 2015 and 2019, can be found at mip.org. The third MIP competition, in 2025, will accept proposals on alloys, amorphous, and composite materials. Given that the second MIP competition included an emphasis on biomaterials and polymer research, proposals mainly on these topics will not be considered in the third MIP competition.
+Award Type: coop
+Program ID: 505133
+NSF/PD Num: nsf25521
+Status: Cleared
+Posted date (Y-m-d): 2024-12-12
+URL: https://www.nsf.gov/funding/opportunities/mip-materials-innovation-platforms/nsf25-521
+Type: Program

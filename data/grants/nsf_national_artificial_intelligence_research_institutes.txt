@@ -1,0 +1,31 @@
+https://www.nsf.gov/funding/opportunities/national-artificial-intelligence-research-institutes/nsf23-610/solicitation
+
+Title: National Artificial Intelligence Research Institutes
+Synopsis: Artificial Intelligence (AI) has advanced tremendously and today promises personalized healthcare; enhanced national security; improved transportation; and more effective education, to name just a few benefits. Increased computing power, the availability of large datasets and streaming data, and algorithmic advances in machine learning (ML) have made it possible for AI research and development to create new sectors of the economy and revitalize industries. Continued advancement, enabled by sustained federal investment and channeled toward issues of national importance, holds the potential for further economic impact and quality-of-life improvements.  
+
+
+The 2023 update to the National Artificial Intelligence Research and Development Strategic Plan, informed by visioning activities in the scientific community as well as interaction with the public, identifies as its first strategic objective the need to make long-term investments in AI research in areas with the potential for long-term payoffs in AI. AI Institutes represent a cornerstone Federal Government commitment to fostering long-term, fundamental research in AI while also delivering significantly on each of the other eight objectives in that strategy.  The National Security Commission on Artificial Intelligence (NSCAI) identifies AI Institutes as a key component of a bold, sustained federal push to scale and coordinate federal AI R&D funding and to reinforce the foundation of technical leadership in AI.
+This program is a multisector effort led by the National Science Foundation (NSF), in partnership with the Simons Foundation (SF), the National Institute of Standards and Technology (NIST), Department of Defense (DOD) Office of the Under Secretary of Defense for Research and Engineering (OUSD (R&E)), Capital One Financial Corporation (Capital One), and Intel Corporation (Intel). 
+This program solicitation expands the nationwide network of AI Research Institutes with new funding opportunities over the next two years. In this round, the program invites proposals for institutes that have a principal focus in one of the following themes aimed at transformational advances in a range of economic sectors, and science and engineering fields:
+ 
+
+Group 1 - Awards anticipated in FY 2024:
+
+Theme 1: AI for Astronomical Sciences
+
+
+Group 2 - Awards anticipated in FY 2025:
+
+Theme 2: AI for Discovery in Materials Research
+Theme 3: Strengthening AI
+
+
+
+For the institute themes listed in Group 1, NSF anticipates awards to start in FY 2024; and for themes listed in Group 2, NSF anticipates awards to start in FY 2025. Each group has a specific set of due dates and review timeline pertaining only to that group. More detail is found under Due Dates and in the timeline provided in the Program Description.
+Award Type: coop
+Program ID: 505686
+NSF/PD Num: nsf23610
+Status: Waiting for new publication
+Posted date (Y-m-d): 2023-07-31
+URL: https://www.nsf.gov/funding/opportunities/national-artificial-intelligence-research-institutes/nsf23-610
+Type: Program

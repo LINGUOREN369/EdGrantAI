@@ -1,0 +1,13 @@
+https://www.nsf.gov/funding/opportunities/ios-division-integrative-organismal-systems-core-programs/nsf24-546/solicitation
+
+Title: Division of Integrative Organismal Systems Core Programs (IOS)
+Synopsis: The Division of Integrative Organismal Systems (IOS) Core Programs Track supports research to understand why organisms are structured the way they are and function as they do. Proposals are welcomed in all of the core scientific program areas supported by the Division of Integrative Organismal Systems (IOS). Areas of inquiry include, but are not limited to, developmental biology and the evolution of developmental processes, development, structure, modification, function, and evolution of the nervous system, biomechanics and functional morphology, physiological processes, symbioses and microbial interactions, interactions of organisms with biotic and abiotic environments, plant and animal genomics, and animal behavior. Proposals should focus on organisms as a fundamental unit of biological organization. Principal Investigators are encouraged to apply systems approaches that will lead to conceptual and theoretical insights and predictions about emergent organismal properties. 
+The IntBIO Track invites submission of collaborative proposals to tackle bold questions in biology that require an integrated approach to make substantive progress. Integrative biological research spans subdisciplines and incorporates cutting-edge methods, tools, and concepts from each to produce groundbreaking biological discovery that is synergistic, such that the whole is greater than the sum of the parts. The research should produce a novel, holistic understanding of how biological systems function and interact across different scales of organization, e.g., from molecules to cells, tissues to organisms, species to ecosystems and the entire Earth. Where appropriate, projects should apply experimental strategies, modeling, integrative analysis, advanced computation, or other research approaches to stimulate new discovery and general theory in biology.
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 503623
+NSF/PD Num: nsf24546
+Status: Cleared
+Posted date (Y-m-d): 2024-02-16
+URL: https://www.nsf.gov/funding/opportunities/ios-division-integrative-organismal-systems-core-programs/nsf24-546
+Type: Program

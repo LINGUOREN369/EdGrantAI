@@ -1,0 +1,19 @@
+https://www.nsf.gov/funding/opportunities/nairr-oc-foundations-operating-national-artificial-intelligence/nsf25-546/solicitation
+
+Title: Foundations for Operating the National Artificial Intelligence Research Resource: the NAIRR Operations Center (NAIRR-OC)
+Synopsis: The National Artificial Intelligence Research Resource (NAIRR) Pilot is a pioneering public-private initiative to catalyze a competitive national artificial intelligence (AI) ecosystem for discovery and innovation by connecting U.S. researchers and educators to the most advanced public and private-sector computational and data platforms, datasets, software, AI models, and technological expertise necessary to accelerate AI-driven discovery and innovation. Beginning in January 2024, U.S. National Science Foundation (NSF) – together with 14 other federal agencies and 28 private sector partners – established the NAIRR Pilot, which has immediately advanced innovative AI and science research and accelerated AI workforce training and education. As recommended by America's AI Action Plan, the NAIRR Operations Center (NAIRR-OC) will serve as a lean and sustainable operations capability and be the focal point for operational transition from the current Pilot towards a sustainable long-term NAIRR.
+This solicitation seeks proposals to establish a community-based organization that will be responsible for the foundational visioning, coordination, operations, and development activities in support of an integrated national infrastructure for AI research and education. The resulting award would advance the National Artificial Intelligence Research Resource (NAIRR) vision for a public-private partnership to accelerate AI innovation and national competitiveness. This NAIRR Operations Center (NAIRR-OC) will be responsible for the following overarching goals and responsibilities:
+
+Organizational leadership: Establishing the operational framework, organizational management, and success metrics for the NAIRR and its successful operations according to the vision, goals, and requirements established by the NSF and other federal partners.
+Building NAIRR capabilities and community: Undertaking specific development activities in support of NAIRR stakeholders, including interfacing with partner organizations and resources, deploying a unified web portal, integrating data-focused and other resources into the NAIRR, and conducting outreach and community building activities.
+Interfacing with Pilot Operations: Coordinating with existing NAIRR Pilot contributing partners and interfacing with the independently supported teams conducting NAIRR Pilot operational functions, while developing tailored plans to execute such functions via the NAIRR-OC in the future.
+
+NSF anticipates making a single award for this competition. NSF will provide oversight of award activities via the NAIRR Program Management Office (PMO) which may include representatives from partnering agencies. The awardee from this competition may be eligible for expansion of operational responsibilities and duties in a future phase, depending on NAIRR priorities, awardee performance and availability of funds.
+Award Type: coop
+Next due date (Y-m-d): 2026-02-04, 2026-02-04
+Program ID: 506437
+NSF/PD Num: nsf25546
+Status: Cleared
+Posted date (Y-m-d): 2025-09-02
+URL: https://www.nsf.gov/funding/opportunities/nairr-oc-foundations-operating-national-artificial-intelligence/nsf25-546
+Type: Program

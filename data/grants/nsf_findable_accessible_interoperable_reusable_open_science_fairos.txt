@@ -1,0 +1,17 @@
+https://www.nsf.gov/funding/opportunities/fairos-findable-accessible-interoperable-reusable-open-science/nsf25-533/solicitation
+
+Title: Findable Accessible Interoperable Reusable Open Science (FAIROS)
+Synopsis: The FAIROS Program seeks to support a broad range of transformative open science activities including but not limited to i.) Research, education, and socio-technical cyberinfrastructure development capacities that advance sustainable multi-disciplinary findable, accessible, interoperable, reusable (FAIR) research data management (RDM) and open science capabilities, ii.) Piloting new models of scientific communication and publication that improve efficiency and accessibility, iii.) Developing FAIROS data portals, research data commons, RDM as a national service, and iv.) Lowering barriers to accessing, curating, integrating, linking, managing, sharing, and storing data across many disciplinary domains, irrespective of data size.
+The program supports innovation across the cyberinfrastructure (CI) ecosystem to address accessibility, data curation, research data management,  discoverability, reliability, reproducibility, preservation, sustainability, and utility of research products, including data software, and code, developed as part of funded projects.
+FAIROS proposals must select one of two tracks to focus on, either: 1) Disciplinary Improvements to targeted scientific communities, or 2) Cross-Cutting Improvements that apply to many or most scientific disciplines. In the case of proposals focused on Disciplinary Improvements, it is strongly recommended that prospective PIs contact a program officer from the list of Cognizant Program Officers in the directorate closest to the major disciplinary impact of the proposed work to ascertain that the scientific focus and budget of the proposed work are appropriate for this solicitation. In the case of proposals focused on Cross-Cutting Improvements, it is strongly recommended that prospective PIs contact the cognizant program officer from the Office of Advanced Cyberinfrastructure (OAC). 
+After selecting either Disciplinary Improvements or Cross-Cutting Improvements in which to focus research, the proposal must include the kinds of activities relevant to the selected track.  Standard research proposals are the only type of proposal accepted in response to this solicitation.
+The FAIROS Program is undertaken in support of the US NSF Public Access Initiative.
+For more information on the US NSF Public Access Initiative please visit https://new.nsf.gov/public-access.
+Award Type: standard, continuing, coop
+Next due date (Y-m-d): 2026-04-08, 2026-04-08
+Program ID: 505943
+NSF/PD Num: nsf25533
+Status: Cleared
+Posted date (Y-m-d): 2025-01-06
+URL: https://www.nsf.gov/funding/opportunities/fairos-findable-accessible-interoperable-reusable-open-science/nsf25-533
+Type: Program

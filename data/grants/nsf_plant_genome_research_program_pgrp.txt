@@ -1,0 +1,16 @@
+https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/nsf24-547/solicitation
+
+Title: Plant Genome Research Program (PGRP)
+Synopsis: The Plant Genome Research Program (PGRP) supports genome-scale research that addresses challenging questions of biological, societal and economic importance. PGRP encourages the development of innovative tools, technologies, and resources that empower a broad plant research community to answer scientific questions on a genome-wide scale. Emphasis is placed on the scale and depth of the question being addressed and the creativity of the approach. Data produced by plant genomics should be usable, accessible, integrated across scales, and of high impact across biology. Training, broadening participation, and career development are essential to scientific progress and should be integrated in all PGRP-funded projects.
+Two funding tracks are currently available:
+
+RESEARCH-PGR TRACK: Genome-scale plant research to address fundamental questions in biology, including processes of economic and/or societal importance.
+TRTech-PGR TRACK: Tools, resources, and technology breakthroughs that further enable functional plant genomics.
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 5338
+NSF/PD Num: nsf24547
+Status: Cleared
+Posted date (Y-m-d): 2024-02-16
+URL: https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/nsf24-547
+Type: Program

@@ -1,0 +1,16 @@
+https://www.nsf.gov/funding/opportunities/expeditions-expeditions-computing/nsf20-544/solicitation
+
+Title: Expeditions in Computing (Expeditions)
+Synopsis: The far-reaching impact and rate of innovation in the computer and information science and engineering ﬁelds has been remarkable, generating economic prosperity and enhancing the quality of life for people throughout the world.
+More than a decade ago, the National Science Foundation’s (NSF) Directorate for Computer and Information Science and Engineering (CISE) established the Expeditions in Computing (Expeditions) program to build on past successes and provide the CISE research and education community with the opportunity to pursue ambitious, fundamental research agendas that promise to deﬁne the future of computing and information.
+In planning Expeditions projects, investigators are strongly encouraged to come together within or across departments or institutions to combine their creative talents in the identiﬁcation of compelling, transformative research agendas that look ahead by at least a decade and promise disruptive innovations in computer and information science and engineering for many years to come.
+Now funded at levels up to $15,000,000 for seven years, Expeditions projects represent some of the largest single investments currently made by the CISE directorate. Together with the Science and Technology Centers and the National Artificial Intelligence Research Institutes that CISE supports, Expeditions projects form the centerpiece of the directorate's center-scale award portfolio. With awards funded at levels that promote the formation of large research teams, CISE recognizes that concurrent research advances in multiple ﬁelds or sub-ﬁelds are often necessary to stimulate deep and enduring outcomes. The awards made in this program will complement research areas supported by other CISE programs, which target particular computer and information science and engineering ﬁelds.
+Additionally, CISE offers Innovation Transition (InTrans) awards for teams nearing the end of their Expeditions as well as Secure and Trustworthy Cyberspace (SaTC) and Cyber-Physical Systems (CPS) Frontier projects. The goal of InTrans is to continue the long-term vision and objectives of CISE’s center-scale projects. Through InTrans awards, CISE will provide limited funds to match industry support.
+Award Type: standard, continuing
+Next due date (Y-m-d): 2026-06-22, 2026-06-22
+Program ID: 503169
+NSF/PD Num: nsf20544
+Status: Cleared
+Posted date (Y-m-d): 2020-02-13
+URL: https://www.nsf.gov/funding/opportunities/expeditions-expeditions-computing/nsf20-544
+Type: Program

@@ -1,0 +1,16 @@
+https://www.nsf.gov/funding/opportunities/qlci-quantum-leap-challenge-institutes/nsf24-599/solicitation
+
+Title: Quantum Leap Challenge Institutes (QLCI)
+Synopsis: Quantum Leap Challenge Institutes are large-scale interdisciplinary research projects motivated by major challenges at the frontiers of quantum information science and technology (QIST). Institutes are expected to catalyze breakthroughs on important problems underpinning QIST, for example in the focus areas of quantum computation, quantum communication, quantum simulation and/or quantum sensing. Successful institutes will coordinate a variety of approaches to specific scientific, technological, and educational goals in these fields, including multiple institutions and building upon multiple disciplines, as motivated by the science and engineering challenges. In so doing, Institutes will nurture a culture of discovery, provide education, training, and workforce development opportunities in the context of cutting-edge research, and demonstrate value-added from synergistic coordination within the institute and with the broader community. Partnerships, infrastructure, industry engagement, outreach, international collaboration, and new applications for QIST should be fostered by Institutes in support of their research, education, and coordination goals.
+The QLCI program can support awards to continue existing Quantum Leap Challenge Institutes or to establish and operate new Quantum Leap Challenge Institutes. In either case, proposers should follow the same guidance for Challenge Institute proposal preparation described in this solicitation. While this is a crosscutting program, proposals responding to this solicitation must be submitted to the Office of Strategic Initiatives (OSI) in the Directorate of Mathematical and Physical Sciences (MPS). They will subsequently be managed by a cross-disciplinary team of NSF Program Directors.
+The QLCI program enables NSF multidisciplinary centers for quantum research and education as called for in the National Quantum Initiative (NQI) Act1 and an NQI Advisory Committee report, Renewing the National Quantum Initiative: Recommendations for Sustaining American Leadership in Quantum Information Science2. In alignment with the NQI Act, Quantum Leap Challenge Institutes shall pursue research at the frontiers of quantum information science, engineering, and technology, and explore solutions to important challenges for the development, application, commercialization, and pioneering use of quantum technologies. QLCI Institutes shall also lead education, training, and workforce development activities as may be needed for sustained leadership in QIST and related topics. Coordination both within each Institute and with new partners and the broader ecosystem should also serve to galvanize the community and catalyze the research and education activities in ways that go beyond what smaller projects could accomplish in isolation.
+
+1 National Quantum Initiative Act, Public Law 115-368, of December 21, 2018.
+2 https://www.quantum.gov/wp-content/uploads/2023/06/NQIAC-Report-Renewing-the-National-Quantum-Initiative.pdf
+Award Type: coop
+Program ID: 505634
+NSF/PD Num: nsf24599
+Status: Cleared
+Posted date (Y-m-d): 2024-08-26
+URL: https://www.nsf.gov/funding/opportunities/qlci-quantum-leap-challenge-institutes/nsf24-599
+Type: Program

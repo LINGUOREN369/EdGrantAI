@@ -1,0 +1,17 @@
+https://www.nsf.gov/funding/opportunities/dsc-data-science-corps/nsf24-560/solicitation
+
+Title: Data Science Corps (DSC)
+Synopsis: The objective of the Data Science Corps program is to help build a strong national data science infrastructure and workforce. The Data Science Corps program seeks to engage data science students in real-world data science implementation projects. This engagement will help bridge the data-to-knowledge gap in organizations and communities at all levels, including local, state, and national, and will empower better use of data for more effective decision making. Data Science Corps participants will be able to sharpen their skills in data science by working on real-world projects focused on specific community needs, including rural communities, urban communities, academia, industry, or government. This partnership between communities and data scientists will serve the nation by helping produce a workforce-ready cohort of data scientists and technologists, who have experience with data science in action in real-world settings. The program welcomes proposals that seek to broaden participation in science, technology, engineering and mathematics (STEM) and STEM education.  
+This solicitation prompts the community to respond to one or more mechanisms by which to provide students with data science education and training, including in data science issues related to knowledge representation and creation and use of knowledge graphs. The solicitation supports opportunities for undergraduates (including students from community colleges, Minority Serving Institutions, other emerging research institutions as defined in the CHIPS and Science Act, https://www.congress.gov/bill/117th-congress/house-bill/4346, and institutions in EPSCoR jurisdictions), and grade 6-12 teachers and students. When responding to this solicitation, even though proposals must be submitted through the Directorate for STEM Education, Division of Research on Learning in Formal and Informal Settings (EDU/DRL), once received, the proposals will be managed by a cross-disciplinary team of NSF Program Directors
+This solicitation grew out of the NSF-wide activity known as Harnessing the Data Revolution (HDR), a national-scale activity to enable new modes of data-driven discovery addressing fundamental questions at the frontiers of science and engineering.  HDR has supported an interrelated set of efforts in foundations of data science; data-intensive research in science and engineering; and education and workforce development.
+ 
+Contact Information:
+Please note that the following information is current at the time of publishing. See program website for any updates to the points of contact.
+·         General inquiries may be addressed to HDR-DSC@nsf.gov.
+Award Type: standard
+Program ID: 505536
+NSF/PD Num: nsf24560
+Status: Cleared
+Posted date (Y-m-d): 2024-03-22
+URL: https://www.nsf.gov/funding/opportunities/dsc-data-science-corps/nsf24-560
+Type: Program

@@ -1,0 +1,13 @@
+https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation
+
+Title: Particle Astrophysics and Cosmology - Theory
+Synopsis: All proposals submitted to the Physics Division that are not governed by another solicitation (such as CAREER) must be submitted to its division-wide solicitation: Division of Physics: Investigator-Initiated Research Projects.
+---
+The Astrophysics and Cosmology Theory program supports proposals that primarily are involved with theoretical particle astrophysics and big-bang cosmology as well as more speculative string theory-inspired cosmologies. Understanding the quarks-to-cosmos connection has been a recent focus of the program as well as better understanding the implications of the fluctuation spectra of the cosmic microwave background.  The cosmology and astrophysics research supported by the program is usually associated with people with training in particle theory and encompasses dark matter, dark energy, high energy cosmic rays as well as exotic cosmologies arising from Brane-world and String Theory scenarios. This includes formulating new approaches for theoretical, computational, and experimental research that explore the fundamental laws of physics and the behavior of physical systems; formulating quantitative hypotheses; exploring and analyzing the implications of such hypotheses analytically and computationally; and, in some cases, interpreting the results of others' experiments. The effort also includes a considerable number of interdisciplinary grants. Research in cosmology and astrophysics topics not mentioned above is supported by the Astronomy and Astrophysics Research Grants Program in the MPS Division of Astronomical Sciences.
+In addition, the program supports infrastructure activities such as short- and long-term visitor programs, workshops, and research centers involving the participation of external scientists from universities, national laboratories, and industry, as well as graduate students and postdoctoral fellows.
+Program ID: 505444
+NSF/PD Num: nsf23615
+Status: Cleared
+Posted date (Y-m-d): 2017-05-01
+URL: https://www.nsf.gov/funding/opportunities/particle-astrophysics-cosmology-theory/106690
+Type: Program

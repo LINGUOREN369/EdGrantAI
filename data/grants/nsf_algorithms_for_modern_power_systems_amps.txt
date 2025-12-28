@@ -1,0 +1,12 @@
+https://www.nsf.gov/funding/opportunities/amps-algorithms-modern-power-systems/nsf22-569/solicitation
+
+Title: Algorithms for Modern Power Systems (AMPS)
+Synopsis: The Algorithms for Modern Power Systems (AMPS) program will support research projects to develop the next generation of mathematical and statistical algorithms for improvement of the security, reliability, and efficiency of the modern power grid. The program is a partnership between the Division of Mathematical Sciences (DMS) at the National Science Foundation (NSF) and the Office of Electricity Delivery & Energy Reliability (OE) at the U.S. Department of Energy (DOE).
+Award Type: standard, continuing
+Next due date (Y-m-d): 2026-02-09, 2026-02-09
+Program ID: 505322
+NSF/PD Num: nsf22569
+Status: Cleared
+Posted date (Y-m-d): 2022-02-10
+URL: https://www.nsf.gov/funding/opportunities/amps-algorithms-modern-power-systems/nsf22-569
+Type: Program

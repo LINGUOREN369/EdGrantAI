@@ -1,0 +1,48 @@
+https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation
+
+Title: Foundations of Emerging Technologies (FET)
+Synopsis: The Foundations of Emerging Technologies (FET) program supports unconventional computing approaches whose potential is not yet fully realized. The program goal is the exploration of new technologies and models of computing, by means of theory, experimentation, and/or simulation. Core research in theory, algorithms, software, hardware, and architecture should be directed towards the appropriate CISE core program, but potentially paradigm-shifting nonconventional proposals including those crossing more than one field may be more appropriate in FET.
+Current exemplars include but are not limited to:
+
+Paradigms beyond von Neumann and silicon-based computing;
+
+
+Nanoscale science and engineering for computation (e.g., scalable use of novel devices and substrates for computing, use of silicon nano-photonics, their integration in silicon platform);
+
+
+Quantum information science and engineering as it relates to quantum computing and computational systems;
+
+
+Novel quantum computing methods and approaches (e.g., quantum machine learning, quantum neural networks, quantum AI);
+
+
+Biocomputing and/or computation with biological systems (e.g., DNA nanotechnology, molecular computing models, foundations of self-assembly, chemical reaction circuits, complex molecular assemblies);
+
+
+Computational challenges in biological systems-level computation (e.g., genomics, transcriptomics, epigenomics, proteomics, metabolomics);
+
+
+Novel ways to understand biological systems and/or the interaction between biological systems in service to computing;
+
+
+Physics-based computing models and technologies (e.g., thermodynamic computing, memcomputing);
+
+
+Brain-like problem solving with novel neural and cognitive architectures, (e.g., neuromorphic computing, neuro-inspired hardware design);
+
+
+Computational challenges for brain-computer interfaces;
+
+
+Theoretical modeling and analysis of unconventional computing;
+
+
+Other potentially game-changing, transformational, or disruptive computing models and technologies in service of computing.
+
+Proposers are encouraged to contact the relevant program officers at CISE-FET@nsf.gov and submit a one-page project summary before submitting proposals for formal review.
+Program ID: 505589
+NSF/PD Num: nsf25543
+Status: Cleared
+Posted date (Y-m-d): 2018-07-10
+URL: https://www.nsf.gov/funding/opportunities/fet-foundations-emerging-technologies/pd25-089y
+Type: Program

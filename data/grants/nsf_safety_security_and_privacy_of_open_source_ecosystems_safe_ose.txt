@@ -1,0 +1,13 @@
+https://www.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems/nsf24-608/solicitation
+
+Title: Safety, Security, and Privacy of Open-Source Ecosystems (Safe-OSE)
+Synopsis: Vulnerabilities in an open-source product and/or its continuous development, integration and deployment infrastructure can potentially be exploited to attack any user (human, organization, and/or another product/entity) of the product. To respond to the growing threats to the safety, security, and privacy of open-source ecosystems (OSEs), NSF is launching the Safety, Security, and Privacy for Open-Source Ecosystems (Safe-OSE) program. This program solicits proposals from OSEs, including those not originally funded by NSF’s Pathways to Enable Open-Source Ecosystems (POSE) program, to address significant safety, security, and/or privacy vulnerabilities, both technical (e.g., vulnerabilities in code and side-channels) and socio-technical (e.g., supply chain, insider threats). 
+Although most open-source products are software-based, it is important to note that Safe-OSE applies to any type of OSE, including those based on scientific methodologies, models, and processes; manufacturing processes and process specifications; materials formulations; programming languages and formats; hardware instruction sets; system designs or specifications; and data platforms. The goal of the Safe-OSE program is to catalyze meaningful improvements in the safety, security, and privacy of the targeted OSE that the OSE does not currently have the resources to undertake. Funds from this program should be directed toward efforts to enhance the safety, security, and privacy characteristics of the open-source product and its supply chain as well as to bolster the ecosystem’s capabilities for managing current and future risks, attacks, breaches, and responses.
+Award Type: coop
+Next due date (Y-m-d): 2026-01-13, 2026-01-13
+Program ID: 506343
+NSF/PD Num: nsf24608
+Status: Cleared
+Posted date (Y-m-d): 2024-09-19
+URL: https://www.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems/nsf24-608
+Type: Program

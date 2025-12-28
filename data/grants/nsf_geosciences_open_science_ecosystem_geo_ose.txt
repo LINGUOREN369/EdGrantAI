@@ -1,0 +1,12 @@
+https://www.nsf.gov/funding/opportunities/geo-ose-geosciences-open-science-ecosystem/nsf25-506/solicitation
+
+Title: Geosciences Open Science Ecosystem (GEO OSE)
+Synopsis: The Geosciences Open Science Ecosystem (GEO OSE) program seeks to realize the benefits of open science practices toward advancing research and education in the geosciences. To achieve this vision, the GEO OSE program encourages efforts to foster adoption of open scientific practices across geoscience domains. The program supports development of innovative open science approaches that advance geosciences research and education through leveraging expanding information resources and computing capabilities. The program also supports initiatives to strengthen the capacity of current and future geoscientists to access, utilize, and collaborate within the growing ecosystem of open science resources.
+GEO OSE projects may pursue a variety of activities to advance open science practices within the geosciences. This includes community/cohort building around defining a shared vision for open science and adopting open science practices within and across geoscience domains. It also includes development and implementation of open science approaches that accelerate geoscience research discovery via seamless workflows connecting data, software, physical collections, and computing. In addition, GEO OSE supports educational activities that instill open science practices and broaden adoption of cyberinfrastructure resources to reduce barriers to geoscience research and education.
+Award Type: standard, continuing
+Program ID: 506128
+NSF/PD Num: nsf25506
+Status: Cleared
+Posted date (Y-m-d): 2024-10-31
+URL: https://www.nsf.gov/funding/opportunities/geo-ose-geosciences-open-science-ecosystem/nsf25-506
+Type: Program

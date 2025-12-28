@@ -1,0 +1,71 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Infrastructure Cluster (AGS-IC)
+Synopsis: AGS Infrastructure Cluster  
+
+ 
+
+
+The Atmospheric and Geospace Sciences (AGS) Infrastructure Cluster (IC) is responsible for the oversight of facilities that enable research in the atmospheric and geospace sciences. The IC primarily oversees the NSF National Center for Atmospheric Research (NCAR), but it also supports community-based instrumentation and facilities, and data storage and provisioning. 
+
+
+ 
+
+
+NSF National Center for Atmospheric Research (NCAR) 
+
+
+NCAR is a Federally Funded Research and Development Center in Boulder, Colorado. The Center is a focal point for atmospheric science research and runs eight laboratories that cover a breadth of research topics in Earth system science. AGS supports NCAR to provide the university community with world-class facilities and services that are beyond the reach of any individual university, such as sophisticated computer models, supercomputing, extensive data sets, and research aircraft. NCAR also supports and trains the next generation of Earth system scientists. 
+
+
+NCAR is managed under a cooperative agreement between NSF and the University Corporation for Atmospheric Research (UCAR), a nonprofit consortium of North American universities with programs in atmospheric sciences. 
+
+
+ 
+
+
+Facilities for Atmospheric Research and Education (FARE) 
+
+
+AGS facilitates fundamental research in the atmospheric sciences by supporting state-of-the-art instruments and facilities through a collection of programs within FARE. These programs include the Lower Atmosphere Observing Facilities (LAOF) and the Community Instruments and Facilities (CIF). 
+
+
+LAOF include major facilities, instrumentation, and field support services that enable scientific fieldwork associated with investigations on a wide range of geophysical phenomena. Current facilities are managed by NCAR and the University of Wyoming. Proposals to LAOF are accepted by invitation from the FARE Program Director only. 
+
+
+CIF provides the NSF-sponsored atmospheric sciences research community with access to specialized instrumentation for field and laboratory-based studies.  The program requests proposals from instrument and facility providers who will make their equipment available for community use through an NSF-defined request process. CIF proposals are solicited on a rolling two to three-year proposal submission cycle. 
+
+
+Current lists of available facilities and instrumentation through LAOF and CIF are available here. 
+
+
+Proposals to use the available LAOF and CIF for science and/or education and outreach should be submitted through the Facility and Instrumentation Request Process (FIRP). 
+
+
+ 
+
+
+Geospace Facilities (GF) 
+
+
+GF supports several large geospace observatories anchored by incoherent scatter radar facilities as well as distributed arrays of small instruments. The facilities promote basic research on the structure and dynamics of the Earth's geospace environment; the research is strongly linked to science supported by the Geospace Cluster.  
+
+
+Proposals for large geospace observatories are accepted by invitation only. The community will be notified when a new solicitation for the Distributed Array of Small Instruments (DASI) program is released. 
+ 
+
+
+Data and Computing 
+
+
+The IC supports data infrastructure to enable open access to data products, facilitate cross-boundary studies, develop open-source software and modeling capabilities, and form community data distribution services or centers.  
+
+
+The IC oversees the NSF Unidata Program Center, which makes near-real-time and archived geoscience data and model output available to the university community. The IC also oversees the NCAR-Wyoming Supercomputer Center and other community-accessible computing and data archiving activities at NCAR.
+Proposals accepted anytime: 1
+Program ID: 506311
+NSF/PD Num: pd247791
+Status: Cleared
+Posted date (Y-m-d): 2024-09-25
+URL: https://www.nsf.gov/funding/opportunities/ags-ic-infrastructure-cluster/pd24-7791
+Type: Program

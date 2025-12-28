@@ -1,0 +1,12 @@
+https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576/solicitation
+
+Title: Plant Biotic Interactions
+Synopsis: The Plant Biotic Interactions (PBI) program supports research on the processes that mediate beneficial and antagonistic interactions between plants and their viral, bacterial, oomycete, fungal, plant, and invertebrate symbionts, pathogens and pests. This joint NSF/NIFA program supports projects focused on current and emerging model and non-model systems, and agriculturally relevant plants. The program’s scope extends from fundamental mechanisms to translational efforts, with the latter seeking to put into agricultural practice insights gained from basic research on the mechanisms that govern plant biotic interactions. Projects must be strongly justified in terms of fundamental biological processes and/or relevance to agriculture and may be purely fundamental or applied or include aspects of both perspectives. All types of symbiosis are appropriate, including commensalism, mutualism, parasitism, and host-pathogen interactions. Research may focus on the biology of the plant host, its pathogens, pests or symbionts, interactions among these, or on the function of plant-associated microbiomes. The program welcomes proposals on the dynamics of initiation, transmission, maintenance and outcome of these complex associations, including studies of metabolic interactions, immune recognition and signaling, host-symbiont regulation, reciprocal responses among interacting species and mechanisms associated with self/non-self recognition such as those in pollen-pistil interactions. Explanatory frameworks should include molecular, genomic, metabolic, cellular, network and organismal processes, with projects guided by hypothesis and/or discovery driven experimental approaches. Strictly ecological projects that do not address underlying mechanisms are not appropriate for this program.  Quantitative modeling in concert with experimental work is encouraged. Overall, the program seeks to support research that will deepen our understanding of the fundamental processes that mediate interactions between plants and the organisms with which they intimately associate and advance the application of that knowledge to benefit agriculture.
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 505267
+NSF/PD Num: nsf20576
+Status: Cleared
+Posted date (Y-m-d): 2020-05-13
+URL: https://www.nsf.gov/funding/opportunities/plant-biotic-interactions/nsf20-576
+Type: Program

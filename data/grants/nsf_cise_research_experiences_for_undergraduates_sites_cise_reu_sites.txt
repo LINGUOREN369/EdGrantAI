@@ -1,0 +1,22 @@
+https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf23-601/solicitation
+
+Title: CISE Research Experiences for Undergraduates Sites (CISE REU Sites)
+Synopsis: The Directorate for Computer and Information Science and Engineering (CISE) participates in the NSF-wide Research Experiences for Undergraduates (REU) program. The Division of Computer and Network Systems (CNS) manages the REU Site program for CISE. An REU Site should provide research opportunities with a coherent intellectual theme and may be based in a single discipline or academic department or be interdisciplinary and multi-departmental.
+REU proposals submitted to CISE should have a CISE research focus. Proposals should have a strong computing or cyberinfrastructure aspect and involve CISE majors in the cohorts and CISE faculty researchers as mentors. Projects involving research areas central to other disciplines that use computing applications should be directed to the directorate most closely aligned with the discipline focus area. The NSF-wide REU solicitation governs the overall competition. The following clarifications/explanations are specifically for REU Site proposals submitted to CISE.
+
+CISE expects proposal budgets to include no more than one month of salary for the PI and no more than one additional month of salary distributed across co-PIs and senior personnel.
+CISE REU Sites must exclusively use the NSF Education & Training Application (ETAP) to manage student applications and collecting student demographic information.
+Proposals should not include travel to PI meetings in their budget. PIs will have opportunities to request funding for travel as needed through separate venues.  
+Proposals should not include travel for students to conferences in their budget. Students may apply for Travel Grants via the Rocky Mountain Biological Laboratory's REU Travel Grant Program.
+CISE-funded REU Sites typically host between 8-10 students for a summer program lasting 8-10 weeks long.
+Over the past several years, Site awards to institutions have the predominant costs under the Participant Support Costs (PSC); typically, PSC constitute 75% or more of the Total Direct Costs. Student stipends are expected to be approximately $700 per student per week. Housing, meal needs, and travel to and from the REU are expected to be addressed for all REU students. Housing and meal allowance are expected to be based on costs provided by housing office or other relevant party. Local students participating in the REU site should receive a housing stipend if they are not staying in the housing provided by the REU Site. 
+CISE REU Sites are encouraged to participate in the program evaluation “Comparative Evaluation of Undergraduate Research Opportunities on Student Interest in Research Careers in CISE Fields” conducted by the Computing Research Association’s Center for Evaluating Research Pipeline to fulfill the evaluation requirement of the REU Sites program.  Submit an interest form to sign up and for a statement to include in your proposal. PIs who choose to participate in this evaluation do not have to include evaluation in their proposal budget.
+
+Interested PIs are advised to explore the Online Directory of CISE REU Sites to determine the scope and breadth of fields funded by CISE under the REU Sites program.
+NOTE: All CISE REU Site applicants should submit their proposals to the NSF-wide REU solicitation and choose Directorate: Computer and Information Science and Engineering [CISE] OR Division: Division of Computer and Network Systems [CNS] as the appropriate Unit of Consideration.  All CISE submissions go to the CNS and then are distributed among the CISE divisions during processing at NSF.
+Program ID: 505950
+NSF/PD Num: nsf23601
+Status: Cleared
+Posted date (Y-m-d): 2021-08-05
+URL: https://www.nsf.gov/funding/opportunities/cise-reu-sites-cise-research-experiences-undergraduates-sites/pd21-1139
+Type: Program

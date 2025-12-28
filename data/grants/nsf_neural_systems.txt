@@ -1,0 +1,14 @@
+https://www.nsf.gov/funding/opportunities/ios-division-integrative-organismal-systems-core-programs/nsf24-546/solicitation
+
+Title: Neural Systems
+Synopsis: The Neural Systems Cluster supports mechanistic studies in neuroscience, from structure to function in natural context, that span multiple levels of analysis, from molecular and cellular to complex behavioral aspects of organisms.   The Cluster encourages the use of comparative approaches, studies of organisms in their natural contexts, and the development of novel theoretical, computational, and transdisciplinary approaches to guide and instruct experimental design. 
+Proposals should be submitted to one of the three programs below:  
+The Organization Program supports research on how the nervous system is organized along developmental, genetic, molecular, and cellular lines; explorations of developmental mechanisms; and how experiential/environmental interactions affect basic structural and functional characteristics of the nervous system.
+The Activation Program supports research focused on how signals from the external environment activate the nervous system, and how the nervous system integrates sensorimotor responses to trigger an action. 
+The Modulation Program supports research focused on mechanisms mediating organism-environment interactions, including, but not limited to, synaptic, circuit, and behavioral plasticity; social and emotional regulation of behaviors; neuroendocrine and neuroimmune function; biological rhythms and other complex functions.
+Program ID: 504678
+NSF/PD Num: nsf24546
+Status: Cleared
+Posted date (Y-m-d): 2011-08-15
+URL: https://www.nsf.gov/funding/opportunities/neural-systems/pd11-7714
+Type: Program

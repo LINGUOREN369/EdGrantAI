@@ -1,0 +1,43 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Energy, Power, Control, and Networks (EPCN)
+Synopsis: The Energy, Power, Control, and Networks (EPCN) Program supports innovative research in modeling, optimization, learning, adaptation, and control of networked multi-agent systems, higher-level decision making, and dynamic resource allocation, as well as risk management in the presence of uncertainty, sub-system failures, and stochastic disturbances. EPCN also invests in novel machine learning algorithms and analysis, adaptive dynamic programming, brain-like networked architectures performing real-time learning, and neuromorphic engineering. EPCN’s goal is to encourage research on emerging technologies and applications including energy, transportation, robotics, and biomedical devices & systems. EPCN also emphasizes electric power systems, including generation, transmission, storage, and integration of renewable energy sources into the grid; power electronics and drives; battery management systems; hybrid and electric vehicles; and understanding of the interplay of power systems with associated regulatory & economic structures and with consumer behavior.
+Areas managed by Program Directors (please contact Program Directors listed in the EPCN staff directory for areas of interest):
+Control Systems
+
+Distributed Control and Optimization
+Networked Multi-Agent Systems
+Stochastic, Hybrid, Nonlinear Systems
+Dynamic Data-Enabled Learning, Decision and Control
+Cyber-Physical Control Systems
+Applications (Biomedical, Transportation, Robotics)
+
+Energy and Power Systems
+
+Solar, Wind, and Storage Devices Integration with the Grid
+Monitoring, Protection and Resilient Operation of Grid
+Power Grid Cybersecurity
+Market design, Consumer Behavior, Regulatory Policy
+Microgrids
+Energy Efficient Buildings and Communities
+
+Power Electronics Systems
+
+Advanced Power Electronics and Electric Machines
+Electric and Hybrid Electric Vehicles
+Energy Harvesting, Storage Devices and Systems
+Innovative Grid-tied Power Electronic Converters
+
+Learning and Adaptive Systems                  
+
+Neural Networks
+Neuromorphic Engineering Systems
+Data analytics and Intelligent Systems
+Machine Learning Algorithms, Analysis and Applications
+Proposals accepted anytime: 1
+Program ID: 505249
+NSF/PD Num: pd187607
+Status: Cleared
+Posted date (Y-m-d): 2018-06-15
+URL: https://www.nsf.gov/funding/opportunities/epcn-energy-power-control-networks/pd18-7607
+Type: Program

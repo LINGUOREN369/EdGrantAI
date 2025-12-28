@@ -1,0 +1,13 @@
+https://www.nsf.gov/funding/opportunities/dmr-tmrp-division-materials-research-topical-materials-research/nsf23-612/solicitation
+
+Title: Biomaterials
+Synopsis: All proposals submitted to this Program that are not governed by another solicitation (such as CAREER) must be submitted to the solicitation: Division of Materials Research: Topical Materials Research Programs (DMR:TMRP) (NSF 22-609). Proposals under this solicitation are accepted any time.
+Proposers should be aware that there is no change expected in the average time to decision and release of reviews. Considering that NSF’s fiscal year begins on October 1st and ends on September 30th, proposals submitted between February and August are more likely to be awarded in the following fiscal year.
+The Biomaterials program supports fundamental materials research related to 1) biological materials, 2) biomimetic, bioinspired, and bioenabled materials, 3) synthetic materials intended for applications in contact with biological systems, and 4) the processes through which nature produces biological materials. Projects are typically interdisciplinary and may encompass scales from the nanoscopic to the bulk. They may involve characterization, design, preparation, and modification; studies of structure-property relationships and interfacial behavior; and combinations of experiment, theory, and/or simulation. Proposals involving biomaterials realized through synthetic biology; fueled biomaterials; stimuli-responsive biomaterials; antimicrobial or antiviral biomaterials; biodegradable, renewable, and sustainable materials; and plant- or fungal- based biomaterials are also encouraged. The emphasis is on novel materials design and development, and discovery of new phenomena.
+Projects involving in vitro demonstration of biological compatibility and efficacy are appropriate, but the program can support only limited in vivo studies. Tissue engineering and drug/gene delivery projects must have a specific focus on fundamental materials development and characterization. Studies of the mechanical behavior of hard and soft biological materials and tissues, and projects in molecular biophysics may be more appropriate for one or more of the NSF programs listed below under Related Programs. Projects with an emphasis on device design and fabrication are generally more appropriate for a program in the NSF Engineering Directorate.
+Program ID: 505461
+NSF/PD Num: nsf23612
+Status: Cleared
+Posted date (Y-m-d): 2017-07-11
+URL: https://www.nsf.gov/funding/opportunities/biomaterials/pd20-7623
+Type: Program

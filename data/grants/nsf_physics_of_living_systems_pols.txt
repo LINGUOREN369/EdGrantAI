@@ -1,0 +1,13 @@
+https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation
+
+Title: Physics of Living Systems (PoLS)
+Synopsis: All proposals submitted to the Physics Division that are not governed by another solicitation (such as CAREER) must be submitted to its division-wide solicitation: Division of Physics: Investigator-Initiated Research Projects.
+---
+The program "Physics of Living Systems" (PoLS) targets synergy of theoretical and experimental research exploring the most fundamental physical processes that living systems utilize to perform their functions in dynamic and diverse environments. The focus of the research proposals should be on understanding basic physical principles that underlie biological function. Proposals that use physics equipment only as a tool to study biological questions are of VERY low priority.
+PoLS encourages research that emphasizes the physical principles of organization and function of living systems, including the exploration of artificial life forms and how life began. While the problems under study must be important to advancing our understanding of the living world in a quantitative way, particular emphasis will be placed on those projects in which lessons learned from the biological application also expand the intellectual range of physics. Awards cover a broad spectrum of physics approaches in biology, ranging from the physical principles and mechanisms at the single cell level such as molecular architecture and dynamics inside cells, energy metabolism, gene regulation and intracellular and intercellular communication, to collective behavior and evolution of complexity in life forms and living populations of organisms. This systems approach in physics has been very successful in understanding inanimate systems, and has the potential to bring deep understanding of the world of animated, replicating systems, through testable phenomenological theories. The program funds individual investigators, although collaborative proposals between physicists and biological researchers are welcome. Proposals with potential societal impact such as renewable energy, human health, and education are good examples of strong broader impact and are of interest to the program.
+Program ID: 505425
+NSF/PD Num: nsf23615
+Status: Cleared
+Posted date (Y-m-d): 2017-04-28
+URL: https://www.nsf.gov/funding/opportunities/pols-physics-living-systems/106666
+Type: Program

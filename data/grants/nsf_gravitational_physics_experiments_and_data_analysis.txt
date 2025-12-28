@@ -1,0 +1,14 @@
+https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation
+
+Title: Gravitational Physics - Experiments and Data Analysis
+Synopsis: All proposals submitted to the Physics Division that are not governed by another solicitation (such as CAREER) must be submitted to its division-wide solicitation: Division of Physics: Investigator-Initiated Research Projects.
+---
+The Gravitational Physics programs (Gravitational Physics - Theory, Gravitational Physics – Experiments and Data Analysis, and LIGO Research Support) support research at the frontiers of science aimed towards answering questions about the nature of space and time, the gravitational attraction and the use of gravitational waves (GW) to explore the universe.
+The Gravitational Physics – Experiments and Data Analysis program supports research on gravitation at large and small scales as well as the connection between gravity and the other three fundamental forces. Experiments funded by this program include tests on the inverse distance square law of gravitational attraction, Lorentz invariance and Equivalence Principle as well as the measurement of the Newtonian gravitational constant. The program also supports data analysis projects related to NSF-funded GW detectors such as the Laser Interferometer Gravitational-Wave Observatory (LIGO) and North American Nanohertz Observatory for Gravitational Waves (NANOGrav). This excludes modeling of astrophysical GW sources and LIGO instrumentation which are supported elsewhere.
+In addition, the program supports infrastructure activities such as visitor programs, workshops, and research centers involving the participation of external scientists from universities, national laboratories, and industry, as well as graduate students and postdoctoral fellows.
+Program ID: 505434
+NSF/PD Num: nsf23615
+Status: Cleared
+Posted date (Y-m-d): 2017-05-01
+URL: https://www.nsf.gov/funding/opportunities/gravitational-physics-experiments-data-analysis/106675
+Type: Program

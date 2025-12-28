@@ -1,0 +1,40 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Combustion and Fire Systems (CFS)
+Synopsis: The Combustion and Fire Systems program is part of the Transport Phenomena cluster, which also includes 1) the Fluid Dynamics program; 2) the Particulate and Multiphase Processes program; and 3) the Thermal Transport Processes program.
+The goal of the Combustion and Fire Systems program is to create new knowledge to support advances in clean energy, climate change mitigation, a cleaner environment and public safety.
+The program endeavors to create fundamental scientific knowledge that is needed for safe, clean and useful combustion applications and for mitigating the effects of fire. The program aims to identify and understand the controlling basic principles and to use that knowledge to create predictive capabilities for designing and optimizing practical combustion devices and understanding fire.
+Important outcomes for this program include:
+
+broad-based tools — experimental, theoretical, and computational — that can be applied to a variety of problems in combustion technologies and fire;
+science and technology for clean and efficient generation of power;
+discoveries that enable clean environments (for example, by reduction in combustion-generated pollutants); and
+enhanced public safety and climate change mitigation through research on wildland and building fire growth, inhibition, and suppression.
+
+Research areas of interest for this program include:
+
+Basic combustion science: Combustion of gas, liquid, and solid fuels over a broad range of temperatures, pressures, and compositions; combustion at supercritical conditions; advanced propulsion concepts; flame synthesis of materials; integration of fuel design and combustion; control of reaction pathways; development of chemical kinetics models, analytical and numerical predictive methods, and advanced diagnostic tools.
+Combustion science related to clean energy: Increasing efficiency and reducing pollution; production and use of renewable and/or carbon-free fuels; biomass pyrolysis, gasification, and oxidation; technologies such as oxy-fuel combustion and chemical looping combustion for carbon capture.
+Fire prevention: Improved understanding of building and wildland fires to prevent their spread, inhibit their growth, and suppress them; prediction and mitigation of fires in the wildland-urban interface.
+Turbulence-chemistry interactions: Fundamental understanding of turbulent flow interactions with finite-rate chemical kinetic pathways at high Reynolds and Karlovitz number conditions, including but not limited to: (1) fundamental experiments to generate physico-chemical data to reduce the uncertainty of combustion chemistry and turbulent combustion models; (2) spatially/temporally well-resolved, multi-scale/multi-physics computations; novel approaches of developing embedded multi-scale direct numerical simulation (DNS) of complex geometries and data-assimilations for incorporating measured data from the state-of-art in situ diagnostic approaches; (3) other innovative approaches on development and validation of predictive computational methods. NOTE: This is an NSF-AFOSR (Air Force Office of Scientific Research) joint funding area. Proposals will be jointly reviewed by NSF and AFOSR using the NSF merit review process. Actual funding format and agency split for an award (depending on availability of funds) will be determined after the proposal selection process. The AFOSR program that participates in this initiative is the program on Energy, Combustion, and Nonequilibrium Thermodynamics.
+
+Innovative proposals outside of these specific interest areas may be considered. However, prior to submission, it is recommended that the Principal Investigator contact the program director to avoid the possibility of the proposal being returned without review.
+
+
+INFORMATION COMMON TO MOST CBET PROGRAMS
+
+
+Proposals should address the novelty and/or potentially transformative nature of the proposed work compared to previous work in the field. Also, it is important to address why the proposed work is important in terms of engineering science, as well as to also project the potential impact on society and/or industry of success in the research. The novelty or potentially transformative nature of the research should be included, as a minimum, in the Project Summary of each proposal.
+The duration of unsolicited proposal awards in CBET is generally up to three years. Single-investigator award budgets typically include support for one graduate student (or equivalent) and up to one month of PI time per year (awards for multiple investigator projects are typically larger). Proposal budgets that are much larger than typical should be discussed with the program director prior to submission. Proposers can view budget amounts and other information from recent awards made by this program via the “What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)” link towards the bottom of this page.
+Faculty Early Career Development (CAREER) program proposals are strongly encouraged. Award duration is five years. The submission deadline for Engineering CAREER proposals is in July every year. Learn more in the CAREER program description.   
+Proposals for Conferences, Workshops, and Supplements: PIs are strongly encouraged to discuss their requests with the program director before submission of the proposal.
+Grants for Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research (EAGER) are also considered when appropriate. Please note that proposals of these types must be discussed with the program director before submission. Grant Opportunities for Academic Liaison with Industry (GOALI) proposals that integrate fundamental research with translational results and are consistent with the application areas of interest to each program are also encouraged. Please note that RAPID, EAGER, and GOALI proposals can be submitted anytime during the year. Details about RAPID, EAGER, and GOALI are available in the Proposal & Award Policies & Procedures Guide (PAPPG), Part 1, Chapter II, Section E: Types of Proposals.
+Compliance: Proposals that are not compliant with the Proposal & Award Policies & Procedures Guide (PAPPG) will be returned without review.
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 506075
+NSF/PD Num: pd231407
+Status: Cleared
+Posted date (Y-m-d): 2023-04-12
+URL: https://www.nsf.gov/funding/opportunities/cfs-combustion-fire-systems/pd23-1407
+Type: Program

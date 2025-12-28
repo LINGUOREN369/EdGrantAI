@@ -1,0 +1,36 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Cellular and Biochemical Engineering
+Synopsis: Synopsis
+The Cellular and Biochemical Engineering (CBE) program is part of the Engineering Biology and Health cluster, which also includes: 1) the Biophotonics program; 2) the Biosensing program; 3) the Disability and Rehabilitation Engineering program; and 4) the Engineering of Biomedical Systems program.
+The Cellular and Biochemical Engineering program supports fundamental engineering research that advances understanding of cellular and biomolecular processes. CBE-funded research may lead to the development of enabling technology for advanced biomanufacturing of therapeutic cells, biochemicals, and biopharmaceuticals, and for other biotechnology industrie .
+The program encourages highly innovative and potentially transformative engineering research leading to novel bioprocessing and biomanufacturing approaches. Fundamental to many CBE research projects is the understanding of how biomolecules, subcellular systems, cells, and cell populations interact, and how those interactions lead to changes in structure, function, and behavior. A quantitative treatment of problems related to biological processes is considered vital to successful research projects in the CBE program. 
+Major areas of interest for the program include:
+
+Metabolic engineering and synthetic biology for biomanufacturing,
+The design of synthetic metabolic components and synthetic cells, 
+Microbiome structure, function, maintenance, and design,
+Protein and enzyme engineering, and
+Design of integrated chemoenzymatic systems.
+
+The CBE program also encourages proposals that effectively integrate knowledge and practices from different disciplines while incorporating ongoing research into educational activities.
+All proposals should include a description on the potential impact of proposed research on an associated biomanufacturing process.
+Proposals whose core innovation involves tissue engineering, organ culture, development of models of healthy or diseased physiology, or design and application of technologies focused on the diagnosis or treatment of disease should be submitted to the Engineering of Biomedical Systems program (CBET 5345). 
+
+
+
+Innovative proposals outside of these specific interest areas may be considered. However, prior to submission, it is recommended that the Principal Investigator contact the program director to avoid the possibility of the proposal being returned without review.
+INFORMATION COMMON TO MOST CBET PROGRAMS
+Proposals should address the novelty and/or potentially transformative nature of the proposed work compared to previous work in the field.  Also, it is important to address why the proposed work is important in terms of engineering science, as well as to also project the potential impact of success in the research on society and/or industry.  The novelty or potentially transformative nature of the research should be included, as a minimum, in the Project Summary of each proposal.
+The duration of unsolicited proposal awards in CBET is generally up to three years.  Single-investigator award budgets typically include support for one graduate student (or equivalent) and up to one month of principal investigator time per year (awards for multiple investigator projects are typically larger). Proposal budgets that are much larger than typical should be discussed with the Program Director prior to submission. Proposers can view budget amounts and other information from recent awards made by this program via the “What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)” link towards the bottom of this page.
+Faculty Early Career Development (CAREER) program proposals are strongly encouraged.  Award duration is five years.  The submission deadline for Engineering CAREER proposals is in July every year. Learn more in the CAREER program description. 
+Proposals for Conferences, Workshops, and Supplements: Principal Investigators are strongly encouraged to discuss their requests with the Program Director before submission of the proposal.
+Grants for Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research (EAGER) are also considered when appropriate.  Please note that proposals of these types must be discussed with the program director before submission.  Grant Opportunities for Academic Liaison with Industry (GOALI) proposals that integrate fundamental research with translational results and are consistent with the application areas of interest to each program are also encouraged. Please note that RAPID, EAGER, and GOALI proposals can be submitted anytime during the year. Details about RAPID, EAGER, and GOALI are available in the Proposal & Award Policies & Procedures Guide (PAPPG), Part 1, Chapter II, Section E: Types of Proposals.  
+Compliance: Proposals that are not compliant with the Proposal & Award Policies & Procedures Guide (PAPPG) will be returned without review.
+Proposals accepted anytime: 1
+Program ID: 506182
+NSF/PD Num: pd231491
+Status: Cleared
+Posted date (Y-m-d): 2023-06-16
+URL: https://www.nsf.gov/funding/opportunities/cellular-biochemical-engineering/pd23-1491
+Type: Program

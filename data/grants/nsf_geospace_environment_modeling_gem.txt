@@ -1,0 +1,11 @@
+https://www.nsf.gov/funding/opportunities/gem-geospace-environment-modeling/nsf22-537/solicitation
+
+Title: Geospace Environment Modeling (GEM)
+Synopsis: Geospace Environment Modeling (GEM) is a broad-based research program investigating the physics of the Earth's magnetosphere and the coupling of the magnetosphere to the atmosphere and to the solar wind. The goal of the GEM program is to make accurate predictions of the geospace environment by developing physical understanding of the large-scale organization and dynamics through observations, theory, and increasingly realistic models.
+Award Type: standard, continuing
+Program ID: 5506
+NSF/PD Num: nsf22537
+Status: Cleared
+Posted date (Y-m-d): 2021-12-09
+URL: https://www.nsf.gov/funding/opportunities/gem-geospace-environment-modeling/nsf22-537
+Type: Program

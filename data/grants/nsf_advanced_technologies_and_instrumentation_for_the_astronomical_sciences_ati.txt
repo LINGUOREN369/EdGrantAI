@@ -1,0 +1,12 @@
+https://www.nsf.gov/funding/opportunities/ati-advanced-technologies-instrumentation-astronomical-sciences/nsf22-627/solicitation
+
+Title: Advanced Technologies and Instrumentation for the Astronomical Sciences (ATI)
+Synopsis: The Advanced Technologies and Instrumentation for the Astronomical Sciences (ATI) program provides individual investigator and collaborative research grants for the development of new technologies and instrumentation for use in ground-based astronomy and astrophysics.  The program supports achieving the science objectives of the Division of Astronomical Sciences.  The development of innovative, potentially transformative, technologies and instruments are sought, even at high technical risk. Supported categories include (but are not limited to):  advanced technology development, concept feasibility studies, and specialized instrumentation to enable new observations that are difficult or impossible to obtain with existing means.  Proposals may include hardware and/or software development and/or analysis to enable new types of astronomical observations.  Access to the ATI supported technology and instrumentation development efforts by the US astronomical community is viewed as an important metric of success.  An annual Principal Investigators meeting is planned to disseminate information between the funded research efforts.
+Award Type: standard, continuing
+Next due date (Y-m-d): 2026-11-16, 2026-11-16
+Program ID: 505586
+NSF/PD Num: nsf22627
+Status: Cleared
+Posted date (Y-m-d): 2022-08-17
+URL: https://www.nsf.gov/funding/opportunities/ati-advanced-technologies-instrumentation-astronomical-sciences/nsf22-627
+Type: Program

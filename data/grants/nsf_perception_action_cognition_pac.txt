@@ -1,0 +1,15 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Perception, Action & Cognition (PAC)
+Synopsis: The aim of the PAC program is to support empirically grounded, theoretically engaged and methodologically sophisticated research in a wide range of topic areas related to human perceptual, motor, and cognitive processes and their interactions. The PAC program welcomes a wide range of perspectives and a variety of methodologies (including computational modeling if the goal is to expand explanatory theories of human perception, action, or cognition). PAC strongly encourages proposals that examine human behavior in realistic (or real-world) scenarios and that include varied subject population. It is expected that knowledge gained from PAC-supported projects will have a clear and direct path towards benefitting society. PAC is open to co-review of proposals submitted to other programs both within the Social, Behavioral, and Economic Sciences Directorate and across other directorates.
+Note: Proposals may be returned without review if the primary goal of the research is to understand (1) structure/function mappings between PAC processes and neural activity; (2) clinical populations per se; or (3) behavior of non-human animals without a clear and direct impact on our understanding of human perception, action or cognition. Before submitting a proposal, investigators are encouraged to email sbe-pac@nsf.gov with a one-page summary of the proposed research (modeled after the Project Summary page of a standard proposal and including a description of both Intellectual Merit and Broader Impacts) in order to confirm appropriateness of the work for the PAC program.
+PIs are strongly encouraged to submit the Single Copy Document titled “List of Suggested Reviewers” with their full proposal. Sharing of data and other materials is an expectation for funded research. Please consult the NSF Dear Colleague Letter: Effective Practices for Data for more details.
+Interested in talking with a program director? Send a one-page description of the proposed research to sbe-pac@nsf.gov.
+Award Type: standard, continuing
+Next due date (Y-m-d): 2026-02-02, 2026-02-02
+Program ID: 5686
+NSF/PD Num: pd097252
+Status: Cleared
+Posted date (Y-m-d): 2002-09-30
+URL: https://www.nsf.gov/funding/opportunities/pac-perception-action-cognition/pd09-7252
+Type: Program

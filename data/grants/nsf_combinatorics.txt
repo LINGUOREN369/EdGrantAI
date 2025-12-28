@@ -1,0 +1,11 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Combinatorics
+Synopsis: The Combinatorics program supports research on discrete structures and includes algebraic, enumerative, existential, extremal, geometric, and probabilistic combinatorics, including graph theory.ConferencesPrincipal Investigators should carefully read the program solicitation "Conferences and Workshops in the Mathematical Sciences" (link below) to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, and similar activities.  Conference proposals must be submitted at least six months in advance of the conference, and in the same fiscal year (which begins October 1) if possible.
+Next due date (Y-m-d): 2026-09-22, 2026-09-22
+Program ID: 503570
+NSF/PD Num: pd187970
+Status: Cleared
+Posted date (Y-m-d): 2010-08-20
+URL: https://www.nsf.gov/funding/opportunities/combinatorics/pd18-7970
+Type: Program

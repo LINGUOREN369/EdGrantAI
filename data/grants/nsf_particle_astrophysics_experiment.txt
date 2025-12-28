@@ -1,0 +1,17 @@
+https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation
+
+Title: Particle Astrophysics - Experiment
+Synopsis: All proposals submitted to the Physics Division that are not governed by another solicitation (such as CAREER) must be submitted to its division-wide solicitation: Division of Physics: Investigator-Initiated Research Projects.
+---
+Particle Physics seeks to explore the fundamental nature of matter, energy, space, and time. It asks such questions as: What are the origins of mass? Can the basic forces of nature be unified? How did the universe begin? How will it evolve in the future? What are dark matter and dark energy? Are there extra dimensions of space-time? Formerly separate questions in cosmology (the universe on the largest scales) and quantum phenomena (the universe on the smallest scales) become connected through our understanding that the early universe can be explored through the techniques of particle physics. These questions are addressed by programs in both theoretical and experimental particle physics in the Division of Physics.
+The Particle Astrophysics – Experiment program is organized into the following subareas:
+Particle Astrophysics – Cosmic Phenomena (1643): This area supports university research that uses astrophysical sources and particle physics techniques to study fundamental physics. This includes astrophysical sources of gamma-rays, cosmic-rays, and neutrinos (except IceCube).
+Particle Astrophysics – Underground Physics (7235): This area supports university research that locates experiments in low background environments. Currently funded activities include studies of solar, underground, and reactor neutrinos; neutrino mass measurements; searches for the direct detection of Dark Matter.
+Particle Astrophysics – IceCube Research Support (011Y): This area supports university research that utilizes the facilities of IceCube at the South Pole. Currently supported activities include: searches for ultra-high energy neutrinos and studies of the properties of neutrinos.
+Proposals should be submitted to the appropriate subarea. Proposals submitted to the Particle Astrophysics program that are determined to be more complex may, at the discretion of the Program Officer, be subjected to an additional level of review. Proposals that include scientific scope outside of the Particle Astrophysics program may be co-reviewed by other programs.
+Program ID: 505442
+NSF/PD Num: nsf23615
+Status: Cleared
+Posted date (Y-m-d): 2017-05-01
+URL: https://www.nsf.gov/funding/opportunities/particle-astrophysics-experiment/pd24-7235
+Type: Program

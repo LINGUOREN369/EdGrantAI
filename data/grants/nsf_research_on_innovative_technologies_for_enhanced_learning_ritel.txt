@@ -1,0 +1,11 @@
+https://www.nsf.gov/funding/opportunities/ritel-research-innovative-technologies-enhanced-learning/nsf23-624/solicitation
+
+Title: Research on Innovative Technologies for Enhanced Learning (RITEL)
+Synopsis: The purpose of the Research on Innovative Technologies for Enhanced Learning (RITEL) program is to support early-stage research in emerging technologies for teaching and learning that respond to pressing needs in authentic (real-world) educational environments. RITEL supports future-oriented exploratory and synergistic research in emerging technologies (including, but not limited to, artificial intelligence (AI), robotics, and immersive or augmenting technologies) for teaching and learning. The program accepts proposals that focus on learning, teaching, or a combination of both. The scope of the program is broad and includes teaching and learning in science, technology, engineering, and mathematics (STEM) and in foundational areas that enable STEM (e.g., self-regulation, literacy, communication, collaboration, creativity, and socio-emotional skills). RITEL supports research in all learning contexts (e.g., formal, informal, workplace) and for all learner populations. RITEL has a special interest in learner/educator populations and in developing new educational technologies that are cost-effective for budget-limited school districts, colleges and universities. Research in this program should be informed by the convergence (synthesis) of multiple disciplines: e.g., learning sciences; discipline-based education research; computer and information science and engineering; design; and cognitive, behavioral, and social sciences. RITEL is unique in its requirement that projects must advance research in both learning (and/or teaching) and technology.
+Award Type: standard
+Program ID: 504984
+NSF/PD Num: nsf23624
+Status: Cleared
+Posted date (Y-m-d): 2023-09-26
+URL: https://www.nsf.gov/funding/opportunities/ritel-research-innovative-technologies-enhanced-learning/nsf23-624
+Type: Program

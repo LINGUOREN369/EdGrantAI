@@ -1,0 +1,13 @@
+https://www.nsf.gov/funding/opportunities/designer-cells-designing-synthetic-cells-beyond-bounds-evolution/nsf24-505/solicitation
+
+Title: Designing Synthetic Cells Beyond the Bounds of Evolution (Designer Cells)
+Synopsis: Because of recent technological advances in synthetic biology and bioengineering, researchers are now able to tailor cells and cell-like systems for a variety of basic and applied research purposes. The goal of this solicitation is to support research that (1) develops cell-like systems to identify the minimal requirements for the processes of life, (2) designs synthetically-modified cells to address fundamental questions in the evolution of life or to explore biological diversity beyond that which currently exists in nature, and (3) leverages basic research in cell design to build novel synthetic cell-like systems and cells for innovative biotechnology applications.  
+Highest funding priority is given to proposals that have outstanding intellectual merit and broader impacts, while proposals with weaknesses in either category (or those that are perceived as likely to have an incremental impact) will not be competitive. Proposals submitted to this solicitation should address social, ethical, and safety issues associated with designing and building synthetically modified cells as an integrated component of the project.
+Award Type: standard, continuing
+Next due date (Y-m-d): 2026-02-02, 2026-02-02
+Program ID: 505851
+NSF/PD Num: nsf24505
+Status: Cleared
+Posted date (Y-m-d): 2023-11-02
+URL: https://www.nsf.gov/funding/opportunities/designer-cells-designing-synthetic-cells-beyond-bounds-evolution/nsf24-505
+Type: Program

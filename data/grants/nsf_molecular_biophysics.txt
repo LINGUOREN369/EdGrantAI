@@ -1,0 +1,21 @@
+https://www.nsf.gov/funding/opportunities/mcb-division-molecular-cellular-biosciences-core-programs/nsf24-539/solicitation
+
+Title: Molecular Biophysics
+Synopsis: The Molecular Biophysics (MB) cluster supports fundamental research on the structure, dynamics, and function of biomolecules and supramolecular assemblies. We encourage proposals to elucidate and establish the principles that underlie biomolecular interactions, regulation of biological function from the atomic to molecular levels, and biological organization at the cellular level.
+The cluster seeks studies that utilize robust experimental and computational approaches synergistically. Proposals integrating not only techniques but also emerging ideas and approaches from other disciplines to tackle complex biological problems are also welcome. The cluster strongly encourages studies under physiological conditions or those that mimic the native physiological environment. Research at the interface of the biological sciences with the chemical, computational, engineering, mathematical and physical sciences is welcome. Proposals involving mechanistic biochemistry or those that involve the study of systems from which broad biological principles cannot be derived will be given lower priority.
+The cluster encourages proposals in the following areas:
+
+Large scale computations that incorporate experimental constraints obtained using a variety of techniques ranging from NMR to high-resolution microscopies;
+Biomolecular folding and dynamics studies on multiple timescales with a goal towards understanding their role in molecular recognition, function, and allostery;
+Determination of structure, dynamics, assembly, and interactions of large functional macromolecular complexes in membrane-bound environments, membraneless cellular environments, or phase-separated condensates;
+Understanding biophysical principles that permit life at the extremes;
+Emerging areas such as quantum phenomena in biological systems or using quantum devices to investigate biological problems; and
+Development of new experimental tools or techniques for the interrogation of biological questions not accessible by current techniques.
+
+Investigators considering submitting a proposal to the cluster are encouraged to contact a MB Program Director before submission.
+Program ID: 504858
+NSF/PD Num: nsf24539
+Status: Cleared
+Posted date (Y-m-d): 2012-10-10
+URL: https://www.nsf.gov/funding/opportunities/molecular-biophysics/pd13-1144
+Type: Program

@@ -1,0 +1,25 @@
+https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice/nsf25-540/solicitation
+
+Title: National Science Foundation Translation to Practice (NSF TTP)
+Synopsis: The U.S. NSF Directorate for Technology, Innovation and Partnerships (NSF TIP) partners across sectors to advance three primary focus areas – accelerating technology translation and development, fostering regional innovation and economic growth, and preparing the American workforce for future high-wage jobs in STEM fields.
+The translation of research to practice ensures that the insights and innovations developed through scientific study and experimentation have tangible, positive impacts for the Nation. These impacts include improving the quality of life, promoting economic and job growth, ensuring national security, and maintaining global competitiveness. Indeed, scientific and engineering breakthroughs have the potential to address critical societal challenges in industries such as aerospace, agriculture, communications, education, energy, healthcare, national security, and transportation – but the translation of discoveries and innovations from the laboratory to society often takes many forms including non-linear pathways.  
+The NSF TTP program was developed with several goals in mind:
+
+To identify and support use-inspired research and translational activities enabling a continuum from foundational research to practice;
+To develop partnerships and collaborations between institutions of higher education and other entities (e.g., industry, state/local/national government agencies, philanthropies, open-source ecosystems, for-benefit, for-profit and non-profit organizations, international organizations, etc.);
+To promote and advance the education and training of students and postdoctoral researchers, encouraging the participation of all Americans in STEM including innovation and entrepreneurship; and
+To identify future customer needs and opportunities and bring these to the forefront in the conduct of use-inspired research and translational activities.
+
+The NSF TTP program offers three tracks that represent different starting points or stages in moving discoveries and innovations from the laboratory to practice:
+
+NSF TTP-Explore (NSF TTP-E) is a pilot track that is likely to be the first step for researchers seeking to translate their basic research to practice. To be eligible for the NSF TTP-E track, proposers must have an active, eligible, NSF research award (see Eligibility Information for further details). TTP-E is designed to encourage current, eligible NSF awardees to intentionally pursue applications of their research with the potential for societal impact. The NSF TTP-E track provides the opportunity to obtain an extension of the initial award period of a current NSF award for up to two years in order to offer investigators an opportunity to explore adventurous, high-risk, use-inspired research and initial translational activities as the starting point for translation that was not covered by the original research award. 
+NSF TTP-Translate (NSF TTP-T) starts with use-inspired research and initial translational activities and further matures the idea(s), iterates and improves the solution(s), and lowers the barrier(s) to effective translation of research from lab to practice.
+NSF TTP-Partner (NSF TTP-P) supports translational efforts that demand one or more partnerships for technology development and deployment. Here, strategic partnerships with stakeholders beyond U.S. institutions of higher education are essential ingredients for success and may include industry partners, government entities at all levels, philanthropies, international organizations, or other groups associated with large scale productization and distribution. The NSF TTP-P track requires an NSF-Catalyzed Partnership with an organization that will assist in the translation to practice. In addition to the Principal Investigator (PI), NSF TTP-P proposals must include a co-PI or Senior/Key Personnel who is a member or employee of the NSF-Catalyzed Partner. Partnerships with U.S. institutions of higher education are valued, but NSF TTP strongly prioritizes NSF-Catalyzed Partnerships that are able to help bring the product, process, or service to the market, potentially through licensing agreements, startup or small business formation, incorporation into an existing open-source ecosystem, development into standards setting arrangements, etc.
+Award Type: standard
+Next due date (Y-m-d): 2026-01-20, 2026-01-20
+Program ID: 506416
+NSF/PD Num: nsf25540
+Status: Cleared
+Posted date (Y-m-d): 2025-07-09
+URL: https://www.nsf.gov/funding/opportunities/nsf-ttp-national-science-foundation-translation-practice/nsf25-540
+Type: Program

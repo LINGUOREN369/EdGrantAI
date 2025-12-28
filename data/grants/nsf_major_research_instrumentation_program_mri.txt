@@ -1,0 +1,23 @@
+https://www.nsf.gov/funding/opportunities/mri-major-research-instrumentation-program/nsf23-519/solicitation
+
+Title: Major Research Instrumentation Program (MRI)
+Synopsis: The Major Research Instrumentation (MRI) Program (MRI Program Website) serves to increase access to multi-user scientific and engineering instrumentation for research and research training in our Nation's institutions of higher education and not-for-profit scientific/engineering research organizations. An MRI award supports the acquisition of a multi-user research instrument that is commercially available through direct purchase from a vendor, or for the personnel costs and equipment that are required for the development of an instrument with new capabilities, thereby advancing instrumentation capabilities and enhancing expertise for instrument design and fabrication at academic institutions. MRI instruments are, in general, too costly and/or not appropriate for support through other NSF programs.
+MRI provides support to acquire critical research instrumentation without which advances in fundamental science and engineering research may not otherwise occur. MRI also provides support to obtain next-generation research instruments by developing instruments with new capabilities that open new opportunities to advance the frontiers in science and engineering research. Additionally, an MRI award is expected to enhance research training of students who will become the next generation of instrument users, designers and builders.
+An MRI proposal may request from NSF up to $4 million for either acquisition or development of a research instrument. Each performing organization may submit in revised "Tracks" as defined below, with no more than two (2) submissions in Track 1 and no more than one (1) submission in Track 2. For the newly defined Track 3, no more than one (1) submission per competition is permitted.  As a result, it is now possible for an institution to submit up to four MRI proposals within the Track limits as described above.
+
+Track 1: Track 1 MRI proposals are those that request funds from NSF greater than $100,000[1] and less than $1,400,000.
+Track 2: Track 2 MRI proposals are those that request funds from NSF greater than or equal to $1,400,000 up to and including $4,000,000.
+Track 3: Track 3 MRI proposals are those that request funds from NSF greater than or equal to $100,000[1] and less than or equal to $4,000,000 that include the purchase, installation, operation, and maintenance of equipment and instrumentation to conserve or reduce the consumption of helium. Institutions may submit no more than one Track 3 proposal. Submission of a Track 3 proposal does not impact limits that apply for Track 1 and Track 2 proposals.
+
+Cost sharing requirements for new awards in the MRI Program are waived for a period of 5 years beginning with the FY 2023 MRI competition. Institutional submission limits for Track 1, Track 2 and Track 3 proposals remain.
+The MRI Program especially seeks broad representation of groups, institutions, and geographic regions that are underrepresented in STEM disciplines. Proposals from women, underrepresented minorities, persons with disabilities and early-career PIs are encouraged, as are proposals that benefit early-career researchers and proposals with PIs from geographically underserved regions, including EPSCoR jurisdictions. Additionally, proposals are encouraged from under-resourced institutions, including from emerging research institutions, where MRI can significantly build capacity for research.
+___________________________
+[1]Track 1 proposals requesting funds from NSF less than $100,000 will be accepted only from: a) eligible performing organizations requesting instrumentation supporting research in the disciplines of mathematics or social, behavioral and economic sciences; or b) non-Ph.D.-granting institutions of higher education requesting instrumentation supporting research in any NSF-supported disciplines.
+Award Type: standard
+Next due date (Y-m-d): 2026-11-16, 2026-11-16
+Program ID: 5260
+NSF/PD Num: nsf23519
+Status: Cleared
+Posted date (Y-m-d): 2022-11-21
+URL: https://www.nsf.gov/funding/opportunities/mri-major-research-instrumentation-program/nsf23-519
+Type: Program

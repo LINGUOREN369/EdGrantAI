@@ -1,0 +1,25 @@
+https://www.nsf.gov/funding/opportunities/che-drpndp-division-chemistry-disciplinary-research-programs-no/nsf22-606/solicitation
+
+Title: Chemical Theory, Models, and Computational Methods (CTMC)
+Synopsis: The Chemical Theory, Models, and Computational Methods (CTMC) Program supports the discovery and development of theoretical and computational methods or models to address a range of fundamental chemical challenges, with emphasis on emerging areas of chemical research. Areas of interest include, but are not limited to, electronic structure, quantum reaction dynamics, theoretical/computational spectroscopy, statistical mechanics, molecular dynamics and simulation, bio-simulation, and development of AI-based approaches including machine learning.
+Proposals dealing with methods relevant to chemistry domains that have a strong history of application of theory and computation, should involve innovations that substantially broaden their applicability. Collaborative proposals that combine forefront advances in both CTMC and other disciplinary research programs in the Chemistry Division are encouraged. 
+The CTMC Program also encourages proposal submissions in the following topical areas: Chemistry-oriented proposals on quantum information science (QIS) ranging from fundamentals to quantum computing, sensing, and communication are encouraged. CTMC participates in the Critical Aspects of Sustainability (CAS) program, and welcomes CTMC-relevant proposals consistent with the goals of that program. The CTMC Program encourages the integration of innovative software development with methodological and algorithmic development, especially computational approaches that allow efficient utilization of emerging computer architectures. Such Computational and Data Science and Engineering (CDS&E) proposals should be submitted to the CTMC Program directly. Grant Opportunities for Academic Liaison with Industry (GOALI) proposals, where such advances are connected directly to industrial considerations, are also encouraged.
+Research topics that are not of interest to the CTMC Program: Proposals that utilize established theoretical and modeling approaches to solve problems in chemistry without significant theoretical or methodological development, or that focus on the development of biology or materials design, may be more appropriate for other programs in either the Chemistry Division or in other NSF Divisions or Directorates. 
+Proposals submitted to this program (including individual and collaborative proposals, GOALIs) must be submitted to the CHE Disciplinary Research Programs solicitation. 
+Exceptions:
+·         RUI proposals must be submitted to the RUI Solicitation during the regular proposal submission window for this program.
+·         Proposals submitted in response to another solicitation (CAREER) should follow the solicitation guidelines (e.g. CAREER)
+·         Workshop, EAGER, RAPID or RAISE proposals must be discussed with a Program Officer before submission, and then should only be submitted as instructed.
+PIs are encouraged to monitor current funding priorities identified by the Foundation and the Executive and Legislative branches, and to highlight relevant synergies in their Project Summaries and Project Descriptions.
+CHE is also committed to the inclusion of all people and institutions across all geographies in the U.S. because all are vital to the nation’s health, security and global leadership in STEM. NSF welcomes the submission of proposals to this funding opportunity that include the participation of the full spectrum of diverse talent in STEM, e.g., as PI, co-PI, senior personnel, postdoctoral scholars, graduate or undergraduate students or trainees. CHE also recognizes that STEM research and education occur at a wide range of institutions, including Minority-serving Institutions (MSIs), Primarily Undergraduate Institutions (PUIs), and two-year colleges, as well as major research institutions. CHE welcomes single institution and multi-institutional collaborative proposals from all types of institutions and encourages authentic and substantive collaborations and partnerships across diverse geographies and types of institutions. Proposals from EPSCoR jurisdictions are especially encouraged.
+CHE occasionally supports forward-looking workshops attempting to inform roadmaps (included in the resulting workshop reports) for future research needs and directions relevant to chemical science.  We are not generally able to support research symposia, including those at either special or recurring meetings and conferences. 
+For recent awards made by the program, search NSF award database with the Program Element Code 688100.
+
+What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)
+Map of Recent Awards Made Through This Program
+Program ID: 505563
+NSF/PD Num: nsf22606
+Status: Cleared
+Posted date (Y-m-d): 2018-04-30
+URL: https://www.nsf.gov/funding/opportunities/ctmc-chemical-theory-models-computational-methods/pd18-6881
+Type: Program

@@ -1,0 +1,33 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Biosensing
+Synopsis: The Biosensing program is part of the Engineering Biology and Health cluster, which also includes 1) the Biophotonics program; 2) the Cellular and Biochemical Engineering program; 3) the Disability and Rehabilitation Engineering program; and 4) the Engineering of Biomedical Systems program.
+The Biosensing program supports fundamental engineering research in the monitoring, identification and/or quantification of biological analytes and phenomena using innovations that exist at the intersection of engineering, life sciences, and information technology.  Projects submitted to the program must advance both engineering and life sciences.   
+The Biosensing program encourages proposals that, in addition to advancing biosensing technology, address critical sensor needs in biomedical research, public health, food safety, agriculture, forensics, environmental protection, and homeland security.
+Proposals are especially encouraged in areas of critical need: sensing technologies that can enable monitoring and surveillance of the environment and/or individuals for novel infectious agents; platform technologies that can readily be modified as soon as new agents are detected, sequenced, and/or otherwise characterized to enable rapid deployment of sensors in clinics and the environment; and adaptive and/or multiplex sensing technologies that can help the nation prevent the spread of the next global pandemic.
+Major areas of interest for the program include:
+
+Novel signal transduction principles and mechanisms that enable sensitive and specific biosensors, suitable for measurements in multiple areas;
+Design of novel biorecognition elements and appropriately designed transducing systems to enable adaptable and/or reconfigurable operating parameters in response to environmental changes or application needs at levels of device, system, or data analysis;
+Development of adaptive and/or evolvable biosensing systems for detection of novel target analytes or analytes under novel conditions;
+Novel synthetic biology approaches for the development of cell-free and cell-based biosensors; and
+Combining biosensors with artificial intelligence (AI) methods to improve sensor specificity and response time.
+
+Innovative ideas outside of the above specific interest areas may be considered. However, prior to submission, it is recommended that the PI contact the program director to avoid the possibility of the proposal being returned without review. 
+The Biosensors program does not encourage proposals addressing circuit design for signal processing and amplification, computational modeling, and microfluidics for sample separation and filtration. Medical imaging-based measurements are outside of the scope of the program interests. Proposals that rely heavily on descriptive approaches are given lower priority. Proposals for optimizing and/or utilizing established methods for specific applications should be directed to programs focused on the application of sensor technology.
+NOTE: Projects related to water and/or soil quality may be jointly supported with the Environmental Engineering program (CBET 1440). Photonic devices with medical imaging and/or optogenetics should be submitted to the Biophotonics program (CBET 7236). Applications of devices for tissue engineering or organ-on-chip systems should be submitted to the Engineering of Biomedical Systems program (CBET 5345). Basic chemical/biochemical sensing mechanisms should be submitted to the Chemical Measurement and Imaging program (CMI 6880) in the Division of Chemistry. Proposals for dynamic biosensing systems, including circuit design for signal/data processing and amplification, and sensing systems through communication and machine learning should be submitted to the Communications, Circuits, and Sensing-Systems program (CCSS 7564) in the Division of Electrical, Communications, and Cyber Systems. 
+INFORMATION COMMON TO MOST CBET PROGRAMS
+Proposals should address the novelty and/or potentially transformative nature of the proposed work compared to previous work in the field. Also, it is important to address why the proposed work is important in terms of engineering science, as well as to also project the potential impact on society and/or industry of success in the research. The novelty or potentially transformative nature of the research should be included, as a minimum, in the Project Summary of each proposal.
+The duration of unsolicited proposal awards in CBET is generally up to three years.  Single-investigator award budgets typically include support for one graduate student (or equivalent) and up to one month of PI time per year (awards for multiple investigator projects are typically larger). Proposal budgets that are much larger than typical should be discussed with the program director prior to submission. Proposers can view budget amounts and other information from recent awards made by this program via the ?What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)? link towards the bottom of this page.
+Faculty Early Career Development (CAREER) program proposals are strongly encouraged. Award duration is five years. The submission deadline for Engineering CAREER proposals is in July every year. Learn more in the CAREER program description. 
+Proposals for Conferences, Workshops, and Supplements: PIs are strongly encouraged to discuss their requests with the program director before submission of the proposal.
+Grants for Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research (EAGER) are also considered when appropriate.  Please note that proposals of these types must be discussed with the program director before submission.  Grant Opportunities for Academic Liaison with Industry (GOALI) proposals that integrate fundamental research with translational results and are consistent with the application areas of interest to each program are also encouraged. Please note that RAPID, EAGER, and GOALI proposals can be submitted anytime during the year. Details about RAPID, EAGER, and GOALI are available in the Proposal & Award Policies & Procedures Guide (PAPPG), Part 1, Chapter II, Section E: Types of Proposals.  
+Compliance: Proposals that are not compliant with the Proposal & Award Policies & Procedures Guide (PAPPG) will be returned without review.
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 505720
+NSF/PD Num: pd207909
+Status: Cleared
+Posted date (Y-m-d): 2019-09-11
+URL: https://www.nsf.gov/funding/opportunities/biosensing/pd20-7909
+Type: Program

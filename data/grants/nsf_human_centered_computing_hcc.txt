@@ -1,0 +1,21 @@
+https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation
+
+Title: Human-Centered Computing (HCC)
+Synopsis: Human-Centered Computing (HCC) supports research in human-computer interaction (HCI), taken broadly, integrating knowledge across disciplines—such as the social and behavioral sciences with computer and information sciences—in order to design new computing systems to amplify diverse humans’ physical, cognitive, and social capabilities to accomplish individual and collective goals; to assess benefits, effects, and risks of computing systems; and to understand how human, technical, and contextual aspects of systems interact to shape those effects. HCC addresses novel:
+
+Human-technology interfaces: Includes multimedia and multimodal interfaces, such as haptic, tangible, gestural, spatial, and wearable; brain-computer interfaces; intelligent and interactive user interfaces; affective computing; human state estimation involving interaction; and methods for interaction with artificial intelligence.
+Computer graphics: Includes computer animation; rendering, modeling, and simulation; and virtual and augmented reality. 
+Computing for creativity: Includes computational methods and systems for creating and authoring video, audio, textual, visual, and multimedia forms in support of creative expression and ideation.
+Computer-mediated communication and collaboration: Includes technology-supported human-to-human communication; social media; groupware; crowdsourcing; and systems for public participation in science, technology, engineering, and mathematics (STEM).
+Assistive and adaptive technology: Includes systems to improve access to information, work, and entertainment by persons with physical, cognitive, or social impairments; universal and ability-based design; and study of individual, social, and cultural factors impacting interactive systems’ usability and outcomes.
+Social impacts of computing: Includes understanding social impacts of computer technology and how sociotechnical systems grow and evolve.
+Design: Includes methods that engage people to generate and expand the space of ideas about potential uses, as well as effects of technologies; and to iteratively transform the development of information, interaction, networks, systems, and other forms of computation in response to human needs, desires, and intentions.
+Domain-specific HCI: Includes projects that advance HCC in the context of domains, such as health, education, families, or work.
+
+Note that projects that simply apply existing HCC techniques to particular domains of science and engineering are more appropriate for funding opportunities issued by the NSF programs cognizant for those domains. Most proposals focused on human-robot interaction (HRI) should be submitted to the Foundational Research in Robotics (Robotics) program; however, HCC may be more appropriate when the human behavior is the core research thrust and pre-existing robotic technology is used.
+Program ID: 504958
+NSF/PD Num: nsf25543
+Status: Cleared
+Posted date (Y-m-d): 2013-08-21
+URL: https://www.nsf.gov/funding/opportunities/hcc-human-centered-computing/pd25-7367
+Type: Program

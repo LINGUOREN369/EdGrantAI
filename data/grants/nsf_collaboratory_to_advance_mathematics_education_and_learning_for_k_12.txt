@@ -1,0 +1,12 @@
+https://www.nsf.gov/funding/opportunities/collaboratory-advance-mathematics-education-learning-k-12/nsf26-501/solicitation
+
+Title: Collaboratory to Advance Mathematics Education and Learning for K-12
+Synopsis: The Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12 initiative aims to advance mathematics learning and education through purposeful collaboration that draws on the interdisciplinary Science of Learning (including neuroscience; cognitive, developmental, and social sciences; computer science; machine learning; engineering; and education research), deep experiences in education practice and teaching, and innovations in the use of data science, AI and technology. Through an agreement with philanthropic partners, including the Walton Family Foundation (WFF), CAMEL consists of two phases. Phase I invites proposals for the creation of new research networks to support the generation of high value datasets that aim to advance math learning and education. These research networks must include researchers who study the basic science of learning, education practitioners, and data scientists. The high value dataset may come from either generating a new dataset or by increasing the value of an existing dataset. Phase II, open only to awardees of Phase I, establishes a “collaboratory,” which is a socio-technological platform that prioritizes community-building and capacity-building to sustain collaborative efforts to advance math learning and education in K-12. Expanding Participation in STEM, NSF Priorities and Gold Standard Science:NSF prioritizes cutting-edge discovery science and engineering research, advancing technology and innovation, and creating opportunities for all Americans. NSF has established priorities set forth by Congress, the administration and the NSF director to promote NSF's mission. Proposers should review the list of NSF priorities and are encouraged to align their proposals with them, where appropriate. NSF also expects the highest standards of scientific rigor, integrity and adherence to appropriate tenets of Gold Standard Science in proposals, as appropriate for the field of science and research modality.
+Award Type: standard
+Next due date (Y-m-d): 2026-01-09, 2026-01-09
+Program ID: 506447
+NSF/PD Num: nsf26501
+Status: Cleared
+Posted date (Y-m-d): 2025-12-10
+URL: https://www.nsf.gov/funding/opportunities/collaboratory-advance-mathematics-education-learning-k-12/nsf26-501
+Type: Program

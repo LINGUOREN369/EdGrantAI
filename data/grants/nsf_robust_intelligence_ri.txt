@@ -1,0 +1,26 @@
+https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation
+
+Title: Robust Intelligence (RI)
+Synopsis: Robust Intelligence (RI) encompasses foundational computational research needed to understand and develop systems that can sense, learn, reason, communicate, and act in the world; exhibit flexibility, resourcefulness, creativity, real-time responsiveness and long-term reflection; use a variety of representation or reasoning approaches; and demonstrate competence in complex environments and social contexts. The RI program accepts research proposals aimed at contributing deeper understanding and new insights in and across the disciplinary areas outlined below. Areas within RI include:
+
+Artificial intelligence (AI): All matters of learning, abstraction and inference required for intelligent behavior, and including architectures for intelligence, integrated intelligent agents, and multi-agent systems. Aspects of intelligence include knowledge representation, logical and probabilistic reasoning, planning, search, constraint satisfaction, and optimization.
+
+
+Machine learning: The study of algorithms and models that are able to solve tasks by generalizing from data. 
+
+
+Computer vision: The ability of systems to sense and reason about the visual world. Research in this area ranges from novel work in computational imaging to methods for high-level semantic understanding of images or videos.
+
+
+Human language technologies: The ability of intelligent systems to analyze, produce, translate, and respond to human text and speech.
+
+
+Computational neuroscience: Theory and analysis of computational processes in the nervous system, including approaches to the above RI problem areas that are grounded in neural computation and neuroscience.
+
+Note that projects that simply apply existing RI techniques to particular domains of science and engineering are more appropriate for funding opportunities issued by the NSF programs cognizant for those domains. Investigators wishing to submit proposals in robotics, including robotics research in the design, construction, operation, and use of machines capable of carrying out a complex series of actions automatically, should submit proposals to the Foundational Research in Robotics (Robotics) program.
+Program ID: 503305
+NSF/PD Num: nsf25543
+Status: Cleared
+Posted date (Y-m-d): 2008-07-23
+URL: https://www.nsf.gov/funding/opportunities/ri-robust-intelligence/103514
+Type: Program

@@ -1,0 +1,37 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Crosscutting Activities in Materials Research (XC)
+Synopsis: Crosscutting Activities in Materials Research (XC) coordinates and supports crosscutting activities within the Division of Materials Research (DMR) and more broadly across NSF.
+The emphasis within XC is diversity and inclusion, international cooperation, and education (including experiential learning at REU/RET Sites). Additionally, activities that broadly engage the community, such as summer schools, institutes, workshops, and conferences that do not fit within just one or two programs in the Division of Materials Research, may be supported by XC. If preparing a workshop proposal, follow the Special Guidelines for Conference Proposals outlined in the Proposal & Award Policies & Procedures Guide (PAPPG). Occasionally projects crossing several programs in DMR are shifted to XC or co-funded by XC. The goal is to bring greater visibility to these projects through DMR’s XC website.
+Proposals are welcome that do not fit elsewhere at NSF that are also highly relevant for the materials research and education community. Some XC activities are co-funded with other NSF units. XC does not handle traditional research proposals suitable for submission to topical or other programs in DMR. For this reason, the XC Team welcomes inquiries that include a draft of one-page NSF summary, or a shorter write-up. It is highly recommended that you contact one of the Program Directors for XC prior to submission of a full proposal exceeding $50,000.
+Crosscutting Activities in Materials Research (XC) replaced the Office of Special Programs in Materials Research (OSP) in 2016.
+Diversity:
+
+Activities that focus on broadening participation of underrepresented groups and/or diversity and inclusion are supported.
+Supplements (e.g., CLB, AGEP-GRS, MPS-GRSV and ROAs) are handled by the cognizant Program Director of the original award. See the Related Publications section below for more information.
+XC supports Facilitation Awards for Scientists and Engineers with Disabilities (see Proposal & Award Policies & Procedures Guide, Chapter II.E.6 for details) https://www.nsf.gov/pubs/policydocs/pappg18_1/pappg_2.jsp#IIE6
+
+International:
+
+In 2016 a Dear Colleague Letter outlining collaborative projects with Israel (BSF) was issued; it remains active until archived.
+Submission of full proposals with an international component may be made to the disciplinary programs (but not to XC directly).
+Supplements are handled by the cognizant Program Director of the original award.
+Discontinued in 2014: The previous International Materials Institutes (IMI) and Materials World Network (MWN) programs are no longer supported.
+
+Education:
+
+Innovative and creative ideas in education (e.g., materials science and/or engineering, solid state and materials chemistry, condensed matter physics, integrated computational materials science/engineering, or materials data science/analytics) that do not have a forum elsewhere at NSF are of interest.
+XC encourages outreach and/or materials education proposals targeting underserved populations such as K-12 students in rural communities and those designed to increase public scientific literacy.
+
+Research Experiences for Undergraduates (REU)/ Research Experiences for Teachers (RET): reu.dmr@nsf.gov
+
+XC coordinates the REU and RET Sites activities within DMR. See the REU Site Solicitation for deadlines and additional program information.
+REU/RET supplements to research proposals are handled by the cognizant Program Director of the original award.
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 505350
+NSF/PD Num: pd187222
+Status: Cleared
+Posted date (Y-m-d): 2016-08-12
+URL: https://www.nsf.gov/funding/opportunities/xc-crosscutting-activities-materials-research/pd18-7222
+Type: Program

@@ -1,0 +1,28 @@
+https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf23-601/solicitation
+
+Title: Chemistry Research Experiences for Undergraduates Sites (CHE REU Sites)
+Synopsis: The Division of Chemistry's REU program is part of an NSF-wide program under a single solicitation administered individually by each NSF Directorate and/or Division. In the Mathematical and Physical Sciences Directorate, each Division administers the program. An REU Site should provide research opportunities with a coherent intellectual theme and may be based in a single discipline or academic department or be interdisciplinary and multi-departmental.
+The NSF-wide Research Experiences for Undergraduates (REU) solicitation governs the overall competition. The following clarifications/explanations are specifically for REU Site proposals submitted to the Division of Chemistry.
+
+Three years is typically the maximum project duration for CHE REU sites. Longer durations may be considered, but discussion with the cognizant Program Officer prior to submission is encouraged.
+Usually, at least 80% of CHE REU participants come from outside the host institution.
+CHE REU sites usually host 10 students per year, and seldom fewer than 8 or more than 12. If the planned site falls outside this range, discussion with the cognizant Program Officer is encouraged prior to submission of the proposal.
+A typical budget in the CHE REU program does not fund more than 1 month of summer salary per year for Program Management. Sites may distribute this as needed to the PI, co-PI, research mentors, and other student- or program-assistants. Evaluation costs are considered to be separate from Program Management.
+CHE REU site budgets tend to fall under $1,550 per student per week. Budgets in excess of this may be justified for extraordinary circumstances such as international sites, support for student cohorts with unusual needs, or dispersed sites, but discussion with the cognizant Program Officer prior to submission is encouraged.
+
+Interested PIs are advised to explore the Online Directory of CHE REU Sites to determine the scope and breadth of fields funded under our program.
+REU Supplements may be requested for ongoing NSF-funded research projects or may be included as a component of proposals for new or renewal NSF grants or cooperative agreements. 
+Undergraduate student participants in either Sites or Supplements must be citizens or permanent residents of the United States or its possessions. 
+Students may not apply to NSF to participate in REU activities. Students apply directly to REU Sites and should consult the directory of active REU Sites on the Web at https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5048.
+NOTE: All CHE REU Site applicants should submit their proposals to the NSF-wide REU solicitation and choose "CHE - MPS/CHE - Undergraduate Programs in Chemistry" (Directorate: Directorate for Mathematical & Physical Sciences [MPS]; Division: Division of Chemistry [CHE]) as the appropriate Unit of Consideration
+For more detailed information on the NSF-wide REU program, please see the REU program solicitation: NSF 23-601.
+PIs are encouraged to monitor current funding priorities identified by the Foundation and the Executive and Legislative Branches, and to highlight relevant synergies in their Project Summaries and Program Descriptions.
+
+What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)
+Map of Recent Awards Made Through This Program
+Program ID: 503210
+NSF/PD Num: nsf23601
+Status: Cleared
+Posted date (Y-m-d): 2008-01-08
+URL: https://www.nsf.gov/funding/opportunities/che-reu-sites-chemistry-research-experiences-undergraduates-sites/pd20-1986
+Type: Program

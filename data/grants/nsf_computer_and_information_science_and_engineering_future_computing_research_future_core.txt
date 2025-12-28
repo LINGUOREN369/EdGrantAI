@@ -1,0 +1,26 @@
+https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation
+
+Title: Computer and Information Science and Engineering : Future Computing Research (Future CoRe)
+Synopsis: The NSF CISE Directorate supports research and education projects that develop new knowledge in all aspects of computing, communications, and information science and engineering through the following Future Computing Research (Future CoRe) programs: 
+
+Algorithmic Foundations (AF) program; 
+Communications and Information Foundations (CIF) program; 
+Computer Systems Research (CSR) program; 
+Computing Education Research (CER) program; 
+Cyber-Physical System Foundations and Connected Communities (CPS) program; 
+Foundations of Emerging Technologies (FET) program;  
+Human-Centered Computing (HCC) program; 
+Information Integration and Informatics (III) program; 
+Networking Technology and Systems (NeTS) program;  
+Robust Intelligence (RI) program; and 
+Software and Hardware Foundations (SHF) program;
+
+The CISE Future Computing Research program anticipates a portfolio of awards with a range of budgets and durations, including projects of smaller scope. Project durations and budgets must be commensurate with the scope of the proposed work up to the maximum limit of $1,000,000 with a duration up to 4 years.  Typical projects are approximately $150,000 to $250,000 per year and are 3 to 4 years in duration. Projects are discouraged from exceeding $300,000 in any single year.  Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.
+Award Type: standard, continuing
+Next due date (Y-m-d): 2026-02-05, 2026-02-05
+Program ID: 505667
+NSF/PD Num: nsf25543
+Status: Cleared
+Posted date (Y-m-d): 2025-07-25
+URL: https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543
+Type: Program

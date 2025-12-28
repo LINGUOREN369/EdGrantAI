@@ -1,0 +1,15 @@
+https://www.nsf.gov/funding/opportunities/dmr-tmrp-division-materials-research-topical-materials-research/nsf23-612/solicitation
+
+Title: Division of Materials Research: Topical Materials Research Programs (DMR-TMRP)
+Synopsis: Materials Research is the field of science where physics, chemistry, materials science, and engineering naturally converge in the pursuit of the fundamental understanding of the properties of materials and the phenomena they host. Materials are abundant and pervasive, serving as critical building blocks in technology and innovation. Materials Research impacts life and society, as it shapes our understanding of the material world and enables significant advances spanning the range from nanoelectronics to health-related fields. The development and deployment of advanced materials are major drivers of U.S. economic growth.
+Research supported by the Division of Materials Research (DMR) focuses on advancing the fundamental understanding of materials, materials discovery, design, synthesis, characterization, properties, and materials-related phenomena. DMR awards enable understanding of the electronic, atomic, and molecular structures, mechanisms, and processes that govern nanoscale to macroscale morphology and properties; manipulation and control of these properties; discovery of emerging phenomena of matter and materials; and creation of novel design, synthesis, and processing strategies that lead to new materials with unique characteristics. These discoveries and advancements transcend traditional scientific and engineering disciplines. Projects supported by DMR are not only essential for the development of future technologies and industries that address societal needs, but also for the preparation of the next generation of materials researchers.
+Additional Information
+Eligibility rules apply for submissions; please see Section II. Program Description, Section IV. Eligibility Information, and Section V.A Proposal Preparation Instructions
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 505922
+NSF/PD Num: nsf23612
+Status: Cleared
+Posted date (Y-m-d): 2023-07-31
+URL: https://www.nsf.gov/funding/opportunities/dmr-tmrp-division-materials-research-topical-materials-research/nsf23-612
+Type: Program

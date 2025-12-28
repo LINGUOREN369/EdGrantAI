@@ -1,0 +1,28 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Social Psychology
+Synopsis: The Social Psychology Program at NSF supports theoretically focused empirical investigations that advance fundamental social psychological explanations of human behavior, attitudes, and experience.
+ 
+Synopsis
+The Social Psychology Program invites research and infrastructure proposals that advance knowledge of how human behavior is influenced by macro- and micro-level social forces, including how thought, motivation, emotion, neural, and physiological processes explain ways of thinking about and relating to self and others.
+Proposed research should carry strong potential for groundbreaking discoveries about the power of social dynamics to shape peoples’ attitudes, behavior, and experience. Basic research that connects to emerging and ongoing global challenges is especially encouraged.
+
+ 
+Proposals that develop new theories or methods are highly encouraged.
+Proposals involving non-human animals are considered only if the research offers clear and direct contributions to understanding human social behavior.
+Note: Proposals may be returned without review if the primary goal of the research is to improve clinical practice as its primary outcome, or contains disease-related goals, including work on the etiology, diagnosis or treatment of physical or mental illness or disease, medical abnormality, or clinical interventions.
+In assessing intellectual merit, the Social Psychology Program places highest priority on research that is theoretically grounded, based on empirical observation and validation, and with designs appropriate to the questions asked (including but not limited to experiments, naturalistic observations, field studies, longitudinal analyses, and computational modeling).
+In assessing broader impacts, the Social Psychology Program places highest priority on proposals that offer strong potential to benefit society, strengthen national security interests, improve the quality of life, build STEM talent, enhance infrastructure for research and education, increase public engagement with science, and include a proactive plan for sharing the results with a wide variety of audiences. PIs are encouraged to review the NSF resources on broader impact.
+The Social Psychology Program expects the methods, measures and data that result from NSF support to be openly shared with other researchers and the public. For further guidance proposers should consult  Data Management for NSF SBE Directorate Proposals and Awards. The Data Management and Sharing Plan (DMSP) should articulate how the proposed research will engage with best practices of open science. Researchers are expected to engage in open science practices and deviations from that should be well-justified.
+The Social Psychology Program accepts regular research proposals, including Faculty Early Career Development (CAREER) proposals, proposals for research in undergraduate institutions (RUI), rapid response research proposals (RAPID) and early-concept grants for exploratory research (EAGER). The program also accepts small conference proposals for events (including workshops) being planned one year or more after submission. The Social Psychology Program does not accept proposals for doctoral dissertation improvement awards or mid-career advancement (MCA) awards.
+Principal Investigators should select PD 22-1332 in the program announcement/solicitation block on the proposal cover sheet for submission of regular research projects to the Social Psychology program. Interdisciplinary, multidisciplinary and convergent research approaches are encouraged, and PIs are encouraged to identify possible other programs for co-review. PIs are strongly encouraged to submit the Single Copy Document titled “List of Suggested Reviewers” with their full proposal.
+Investigators are encouraged to contact a Social Psychology program director before submitting a proposal to confirm its fit with the scope and priorities of the Social Psychology Program. Such contact is most productive when a one-page (maximum) summary of the planned proposal is sent ahead of a meeting.  This summary should include a description of the proposed intellectual merit and broader impacts, as well as an additional page of references cited.
+The Social Psychology program is always interested in identifying new reviewers. Potential reviewers should have a Ph.D. in psychology or related field and have a demonstrated area of basic research expertise relevant to social psychology. Individuals interested in reviewing for the program should complete a short survey to indicate their area of expertise and contact information.
+Award Type: continuing
+Next due date (Y-m-d): 2026-01-15, 2026-01-15
+Program ID: 5712
+NSF/PD Num: pd221332
+Status: Cleared
+Posted date (Y-m-d): 2002-09-30
+URL: https://www.nsf.gov/funding/opportunities/social-psychology/pd22-1332
+Type: Program

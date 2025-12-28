@@ -1,0 +1,25 @@
+https://www.nsf.gov/funding/opportunities/sbirsttr-phase-i-nsf-small-business-innovation-research-small-business/nsf24-579/solicitation
+
+Title: NSF Small Business Innovation Research / Small Business Technology Transfer Phase I Programs (SBIR/STTR Phase I)
+Synopsis: The NSF SBIR/STTR programs provide non-dilutive funds for use-inspired research and development (R&D) of unproven, leading-edge, technology innovations that address societal challenges. By investing federal research and development funds into startups and small businesses, NSF helps build a strong national economy and stimulates the creation of novel products, services, and solutions in the private sector; strengthens the role of small business in meeting federal research and development needs; increases the commercial application of federally-supported research results; and develops and increases the U.S. workforce, especially by fostering and encouraging participation by socially and economically-disadvantaged and women-owned small businesses.
+NSF seeks unproven, leading-edge technology innovations that demonstrate the following characteristics:
+
+The innovations are underpinned and enabled by a new scientific discovery or meaningful engineering innovation.
+The innovations still require intensive technical research and development to be fully embedded in a reliable product or service.
+The innovations have not yet been reduced to practice by anyone and it is not guaranteed, at present, that doing so is technically possible.
+The innovations provide a strong competitive advantage that are not easily replicable by competitors (even technically proficient ones).
+Once reduced to practice, the innovations are expected to result in a product or service that would either be disruptive to existing markets or create new markets/new market segments.
+
+The NSF SBIR/STTR programs fund broadly across scientific and engineering disciplines and do not solicit specific technologies or procure goods and services from startups and small businesses. The funding provided is non-dilutive. Any invention conceived or reduced to practice with the assistance of SBIR/STTR funding is subject to the Bayh-Dole Act. For more information, refer to the SBIR/STTR Frequently Asked Questions, #75. 
+NSF encourages input and participation from the full spectrum of diverse talent that society has to offer which includes underrepresented and underserved communities.
+This program is governed by 15 U.S.C. 638 and the National Science Foundation Act of 1950, as amended (42 U.S.C. 1861 et seq.).
+Introduction to Program:
+The SBIR and STTR programs, initiated at NSF, were established in 1982 as part of the Small Business Innovation Development Act. The NSF SBIR/STTR programs focus on stimulating technical innovation from diverse entrepreneurs and startups by translating new scientific and engineering discoveries emerging from the private sector, federal labs, and academia into products and services that can be scaled and commercialized into sustainable businesses with significant societal benefits.
+The NSF SBIR/STTR programs are now part of the Directorate for Technology, Innovation and Partnerships (TIP), which was recently launched to accelerate innovation and enhance economic competitiveness by catalyzing partnerships and investments that strengthen the links between fundamental research and technology development, deployment, and use.
+Award Type: standard
+Program ID: 505960
+NSF/PD Num: nsf24579
+Status: Cleared
+Posted date (Y-m-d): 2024-05-30
+URL: https://www.nsf.gov/funding/opportunities/sbirsttr-phase-i-nsf-small-business-innovation-research-small-business/nsf24-579
+Type: Program

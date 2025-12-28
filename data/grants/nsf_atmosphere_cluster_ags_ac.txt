@@ -1,0 +1,165 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Atmosphere Cluster (AGS-AC)
+Synopsis: The Atmosphere Cluster (AC) in the Division of Atmospheric and Geospace Sciences (AGS) supports fundamental studies of atmospheric processes from the Earth’s surface to the stratosphere, and from timescales of nanoseconds to millennia. Core areas of research include the chemical, physical, and dynamical processes in the atmosphere that impact clouds, weather, climate, air quality, and the water cycle. Research methods include modeling, collecting observations, conducting experiments in the laboratory and field, and advancing analytical measurement techniques. 
+
+
+ 
+
+
+General research topics that are supported by the AC include, and are not limited to: 
+
+
+
+
+Chemical processes and mechanisms that explain how atmospheric gases and aerosols form, react, transform and interact with the surrounding environment. 
+
+
+
+
+
+
+Processes and dynamics that govern climate and hydroclimate, including their mean state, variability, response to external forcing and their role in the establishment of a global energy and water balance; coupled atmosphere-ocean interactions, land-atmosphere interactions and interactions among clouds, atmospheric circulation and climate. 
+
+
+
+
+
+
+Observational and modeling studies of past climate and its drivers and studies that develop and synthesize paleoclimate proxies and records. 
+
+
+
+
+
+
+Physics and dynamics of atmospheric motions on all scales, from the planetary to the microscale, including the general circulation of the troposphere and stratosphere, planetary waves, synoptic and mesoscale systems, convection, gravity waves, turbulence and planetary boundary layer dynamics. 
+
+
+
+
+
+
+Physical meteorology including aerosol, cloud, and precipitation physics and atmospheric electricity. 
+
+
+
+
+
+
+Synoptic and mesoscale meteorology including the processes, predictability and future changes in severe and hazardous weather. 
+
+
+
+
+ 
+
+
+Proposals to the AC are welcome at any time. However, the following solicitation in support of specific atmospheric science and community efforts has a target date or deadline. Please refer to the solicitation documents for further details: 
+
+
+
+
+The Facility and Instrumentation Request Process (FIRP) solicitation describes the requirements for the submission of proposals that will make use of AGS-supported facilities and instrumentation managed by the Facilities for Atmospheric Reseach and Education (FARE) program. 
+
+
+
+
+ 
+AGS encourages and inspires scientific leaders by investing in the atmospheric and geospace sciences, enhancing educational opportunities and experiences and supporting faculty and researchers at all career stages. The Division expects that proposers will integrate education, outreach and dissemination activities into their research plans in compliance with NSF Broader Impacts Merit Review criteria.  
+  
+
+
+AGS invites proposals that include plans for workforce development, educational and outreach activities, open science initiatives, and efforts to broaden participation and encourage diverse talent in the atmosphere and geospace sciences. Furthermore, AGS encourages proposals from all institutions, including Minority Serving Institutions, Emerging Research Institutions and institutions in Established Program to Stimulate Competitive Research (EPSCoR) jurisdictions. 
+
+
+ 
+
+
+The Proposal & Award Policies & Procedures Guide (PAPPG) provides the instructions for submitting proposals to AGS. Additionally, Chapter II.F of the PAPPG defines “Other Types of Proposals,” including community-building proposals such as Conference, Travel or Planning Proposals and special categories of proposals, such as Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research (EAGER). Proposals that are not compliant with the PAPPG will be returned without review. 
+
+
+ 
+
+
+The following sections highlight specific NSF-, GEO- or AGS-wide solicitations that may be relevant to the AGS Community. Please be aware that solicitations are frequently updated, so make sure that you are looking at the most recent version.   
+
+
+ 
+
+
+Career Development 
+
+
+ 
+
+
+AGS Postdoctoral Research Fellowship (AGS-PRF):  The AGS-PRF program supports researchers (also known as Fellows) for up to 24 months at the institution of their choice. The program is intended to recognize beginning investigators of significant potential and provide them with research experience that will broaden perspectives, facilitate interdisciplinary interactions and establish them in leadership positions within the AGS community. 
+
+
+ 
+
+
+Faculty Early Career Development Program (CAREER):  The CAREER program supports early career (assistant professor-level) faculty who have the potential to serve as academic role models in research and education and to lead advances for their department or organization. Awards are 5 years long and must integrate research and education. 
+
+
+ 
+
+
+Mid-Career Advancement (MCA):  The MCA program provides opportunities for scientists and engineers at the associate professor rank (or equivalent) to substantively enhance and advance their research program through synergistic partnerships. 
+
+
+  
+
+
+Capacity Development 
+
+
+ 
+
+
+EMpowering BRoader Academic Capacity and Education (EMBRACE):  The EMBRACE program supports research and educational efforts at "non-R1" institutions, including non-R1 minority serving institutions (MSIs), two-year colleges (2YCs), primarily undergraduate institutions (PUIs), and emerging research (ERIs) and master's level institutions. 
+
+
+ 
+
+
+Historically Black Colleges and Universities - Excellence in Research (HBCU - EiR):  The HBCU-EiR – program supports research at public and private historically Black colleges and universities to strengthen research capacity and promote engagement with NSF. 
+
+
+ 
+
+
+Facilitating Research at Primarily Undergraduate Institutions (RUI and ROA):  RUI awards support PUI faculty in research that engages them in their professional field(s), builds capacity for research at their home institution, and supports the integration of research and undergraduate education. ROA awards similarly support PUI faculty research, but these awards typically allow faculty to work as visiting scientists at research-intensive organizations where they collaborate with other NSF-supported investigators. 
+
+
+ 
+
+
+Instrumentation and Facilities 
+
+
+ 
+
+
+Major Research Instrumentation:  The MRI program supports requests for up to $4 million from NSF for the development or acquisition of multi-user research instruments that are critical to the advancement of science and engineering. 
+
+
+ 
+
+
+Mid-scale Research Infrastructure-1:  The MSRI-1 program supports the design and implementation of research infrastructure — including equipment, cyberinfrastructure, large-scale datasets and personnel — whose total project costs exceed the NSF Major Research Instrumentation program limit but are under $20 million. 
+
+
+ 
+
+
+Mid-scale Research Infrastructure-2:  The MSRI-2 program supports the implementation of research infrastructure — including equipment, cyberinfrastructure, large-scale datasets and personnel — whose total project costs fall between $20 million and $100 million.
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 506308
+NSF/PD Num: pd247790
+Status: Cleared
+Posted date (Y-m-d): 2024-09-25
+URL: https://www.nsf.gov/funding/opportunities/ags-ac-atmosphere-cluster/pd24-7790
+Type: Program

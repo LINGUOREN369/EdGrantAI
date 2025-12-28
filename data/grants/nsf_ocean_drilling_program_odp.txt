@@ -1,0 +1,34 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Ocean Drilling Program (ODP)
+Synopsis: International Ocean Discovery Program Operations
+The International Ocean Discovery Program (IODP) serves to advance basic research in the marine geosciences and is supported by the National Science Foundation (NSF) and its international partners. The science plan, Illuminating Earth's Past, Present, and Future: The International Ocean Discovery Program Science Plan for 2013-2023, provides justification for the United States' participation in the IODP and reflects the top priorities of the international science community. A multi-platform approach is required to address the goals outlined in the IODP science plan, including a non-riser vessel to collect widely-distributed high-resolution cores to address climate, environmental, crustal and observatory science objectives; a heavy riser-equipped vessel to reach the deep sedimentary and crustal layers; and mission-specific platforms to support high-latitude and shallow-water projects.
+The light drillship, JOIDES Resolution, is provided by the U.S. National Science Foundation. Science operations for the JOIDES Resolution are conducted through a Cooperative Agreement with Texas A&M University with scientific planning conducted by the JOIDES Resolution Facility Board.
+The Ministry of Education, Culture, Sports, Science and Technology (MEXT) of Japan provides the heavy drillship, Chikyu (Earth), to conduct the deep drilling projects in the new program. The Center for Deep Earth Exploration of the Independent Administrative Institution, Japan Agency for Marine-Earth Science and Technology (JAMSTEC) operates the vessel for IODP. Scientific planning for Chikyu IODP operations is conducted by the Chikyu IODP Board.
+Mission Specific Platforms (MSP) are provided by the European Consortium for Ocean Research Drilling (ECORD). The ECORD Facility Board conducts scientific planning for MSP expeditions and the platforms themselves are operated by the European Science Operator (ESO).
+A Science Support Office (SSO) is provided by Scripps Institution of Oceanography, University of California San Diego under a Cooperative Agreement with the National Science Foundation. The SSO’s primary tasks include:
+
+providing logistical support for the JOIDES Resolution Facility Board and its advisory panels
+overseeing the proposal submission and review process
+managing the Site Survey Data Bank 
+providing a gateway website to IODP scientific planning 
+
+U.S. scientific community involvement in IODP is facilitated by the United States Science Support Program (USSSP) for Ocean Drilling. USSSP is run by Lamont-Doherty Earth Observatory of Columbia University under a Cooperative Agreement with the National Science Foundation. USSSP’s primary tasks are:
+
+support for U.S.-based researchers to participate on IODP expeditions, participate on the IODP advisory panels, and conduct initial post-expedition research
+support for planning and thematic workshops and pre-drilling activities to collect, refine, and/or integrate site specific and/or regional data that aid in planning drilling expeditions
+support outreach activities on IODP drilling platforms, for graduate students fellowships, and an IODP-themed lecture series. 
+
+United States Science Support for Drilling-Related Research
+Grant support for drilling-related research performed by United States scientists is available from the NSF. Proposals for most pre-expedition (e.g., site characterization) and post-expedition studies should be submitted through the appropriate NSF programs, such as Ocean Sciences Marine Geology and Geophysics, Earth Sciences, Polar Programs, etc.
+Additional drilling-related research support for United States scientists may be obtained via the U.S. Science Support Program. Funding opportunities from this NSF-sponsored program include, but are not limited to:
+
+supplemental funding (
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 13524
+NSF/PD Num: pd145720
+Status: Waiting for new publication
+Posted date (Y-m-d): 2005-01-25
+URL: https://www.nsf.gov/funding/opportunities/odp-ocean-drilling-program/pd14-5720
+Type: Program

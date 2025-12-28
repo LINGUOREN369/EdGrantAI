@@ -1,0 +1,26 @@
+https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation
+
+Title: Information Integration and Informatics (III)
+Synopsis: Information Integration and Informatics (III) supports innovative research on computational methods for the full data lifecycle, from collection through archiving and knowledge discovery, to maximize the utility of information resources to science and engineering and broadly to society. III projects range from formal theoretical research to those that advance data-intensive applications of scientific, engineering, or societal importance. Research areas within III include:
+
+General methods for data acquisition, exploration, analysis and explanation: Innovative methods for collecting and analyzing data as part of a scalable computational system.
+
+
+Advanced analytics: Novel machine learning, data mining, and prediction methods applicable to large, high-velocity, complex, and/or heterogenous datasets. This area includes data visualization, search, information filtering, knowledge extraction, and recommender systems.
+
+
+Data management: Research on databases, data processing algorithms, and novel information architectures. This topic includes representations for scalable handling of various types of data, such as multimedia (text, speech, sounds, images, and videos), matrices, or graphs; spatio-temporal data, vectors, and streaming data; methods for integrating heterogenous and distributed data; probabilistic and other approaches to handling uncertainty in data and derived results; ways to ensure data privacy, security and provenance; and novel methods for data archiving and reuse.
+
+
+Knowledge bases: Ontology construction, knowledge sharing, methods for handling inconsistent knowledge bases and methods for constructing open knowledge networks through expert knowledge acquisition, crowdsourcing, machine learning, knowledge updates, or a combination of techniques.
+
+
+Domain-specific methods for data acquisition, exploration, analysis, and explanation: Work that advances III research while leveraging properties of specific application domains, such as health, education, science, or work.
+
+Note that projects that simply apply existing III techniques to particular domains of science and engineering are more appropriate for funding opportunities issued by the NSF programs cognizant for those domains.
+Program ID: 503303
+NSF/PD Num: nsf25543
+Status: Cleared
+Posted date (Y-m-d): 2008-07-23
+URL: https://www.nsf.gov/funding/opportunities/iii-information-integration-informatics/pd25-7364
+Type: Program

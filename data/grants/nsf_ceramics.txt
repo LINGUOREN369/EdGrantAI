@@ -1,0 +1,14 @@
+https://www.nsf.gov/funding/opportunities/dmr-tmrp-division-materials-research-topical-materials-research/nsf23-612/solicitation
+
+Title: Ceramics
+Synopsis: All proposals submitted to this Program that are not governed by another solicitation (such as CAREER) must be submitted to the solicitation: Division of Materials Research: Topical Materials Research Programs (DMR:TMRP) (NSF 23-612). Proposals under this solicitation are accepted any time.
+Proposers should be aware that there is no change expected in the average time to decision and release of reviews. Considering that NSF’s fiscal year begins on October 1st and ends on September 30th, proposals submitted between February and August are more likely to be awarded in the following fiscal year.
+This program supports fundamental scientific research in ceramics (e.g., oxides, carbides, nitrides and borides), glass-ceramics, inorganic glasses, ceramic-based composites and inorganic carbon-based materials. Projects should be centered on experiments; inclusion of computational and theory components are encouraged. The objective of the program is to increase fundamental understanding and to develop predictive capabilities for relating synthesis, processing, and microstructure of these materials to their properties and ultimate performance in various environments and applications. Research to enhance or enable the discovery or creation of new ceramic materials is welcome. Development of new experimental techniques or novel approaches to carry out projects is encouraged. Topics supported include basic processes and mechanisms associated with nucleation and growth of thin films; bulk crystal growth; phase transformations and equilibria; morphology; surface modification; corrosion, interfaces and grain boundary structure; and defects. Within the context of societal challenges, proposals offering fundamental ceramics science approaches toward sustainable materials or more environmentally benign processes are welcome (they should be submitted with the prefix CAS in the title; see Critical Aspects of Sustainability). 
+Additional Information
+Investigators are encouraged to include all anticipated broader impact activities in their initial proposals, rather than planning on supplemental funding requests. Most projects include: (1) the anticipated significance on science, engineering and/or technology including possible benefits to society, (2) plans for the dissemination, and (3) broadening participation of underrepresented groups and/or excellence in training, mentoring, and/or teaching. Many successful proposals include one additional broader impact activity.
+Program ID: 505831
+NSF/PD Num: nsf23612
+Status: Cleared
+Posted date (Y-m-d): 2020-08-04
+URL: https://www.nsf.gov/funding/opportunities/ceramics/pd20-1774
+Type: Program

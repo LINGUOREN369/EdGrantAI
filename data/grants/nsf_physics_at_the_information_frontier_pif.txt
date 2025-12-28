@@ -1,0 +1,14 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Physics at the Information Frontier (PIF)
+Synopsis: All proposals submitted to the Physics Division that are not governed by another solicitation (such as CAREER) must be submitted to its division-wide solicitation: Division of Physics: Investigator-Initiated Research Projects.
+---
+Physics at the Information Frontier (PIF) supports the development of enabling capabilities through computational advances that are required to address compelling scientific goals relevant to disciplines within the purview of the Physics Division. The program emphasizes aspects of Big Data and High-Performance Computing convergence, convergent research for algorithm development and efficient use of novel architectures, and community-building activities for computational and data-enabled science.
+The Physics at the Information Frontier (PIF) program is focused on investigations relevant to disciplines supported by the Physics Division, while encouraging broader impacts on other disciplines. Disciplines within the purview of the Physics Division include: atomic, molecular, optical, plasma, elementary particle, nuclear, gravitational and biological physics, and particle astrophysics. Proposals with intellectual focus in areas supported by other NSF Divisions should be submitted to those divisions directly.
+The Physics at the Information Frontier (PIF) program accepts proposals only as noted in the PHY Program Solicitation.
+Program ID: 505432
+NSF/PD Num: pd177244
+Status: Cleared
+Posted date (Y-m-d): 2017-05-01
+URL: https://www.nsf.gov/funding/opportunities/pif-physics-information-frontier/pd17-7244
+Type: Program

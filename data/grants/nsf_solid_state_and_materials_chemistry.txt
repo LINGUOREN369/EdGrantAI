@@ -1,0 +1,25 @@
+https://www.nsf.gov/funding/opportunities/dmr-tmrp-division-materials-research-topical-materials-research/nsf23-612/solicitation
+
+Title: Solid State and Materials Chemistry
+Synopsis: All proposals submitted to this Program that are not governed by another solicitation (such as CAREER) must be submitted to the solicitation: Division of Materials Research: Topical Materials Research Programs (DMR:TMRP) (NSF 22-609). Proposals under this solicitation are accepted any time.
+ Proposers should be aware that there is no change expected in the average time to decision and release of reviews. Considering that NSF’s fiscal year begins on October 1st and ends on September 30th, proposals submitted between February and August are more likely to be awarded in the following fiscal year.
+ The multidisciplinary Solid State and Materials Chemistry (SSMC) program portfolio comprises fundamental research on organic, inorganic, and hybrid materials with an emphasis on synthesis and structure-property relationship studies. The SSMC program supports fundamental research focused on experimentally elucidating atomic and molecular underpinnings for materials development and properties of extended solid-state materials, spanning the entire range from nanoscale assemblies to the bulk. The SSMC program particularly encourages research encompassing multicomponent materials systems, a strong mesoscale aspect, and/or interface-related phenomena with regard to materials properties.
+ The SSMC program encourages potentially transformative submissions at the frontiers of solid-state and materials chemistry research, which include but are not limited to:
+1) Crystallization and crystal growth studies of organic and inorganic materials. 2) Synthesis of hybrid materials and fundamental investigations into their emergent properties. 3) Development of original materials design principles and approaches to innovative design, including proposals with a machine-learning aspect. 4) Studies correlating materials properties of framework materials, nanomaterial assemblies, or 2D materials to their structure and/or components. 5) Development and fundamental investigation of novel material systems for energy harvesting, conversion, and storage. Research in this area will be considered only if the objective of the study is advancing insights into fundamental materials chemistry challenges through systematic investigations rather than improving performance. Submissions related to synthesis and characterization of next generation “beyond Li-ion” battery materials are encouraged. 6) The SSMC program also welcomes proposals on all materials aspects of sustainability under the Critical Aspects of Sustainability (CAS) program.
+ All fundamental research projects targeting eventual end applications beyond the scope of the project submitted to the SSMC program, should use application-related device design or performance testing only as a characterization tool to inform materials chemistry questions within the context of structure-property relationship studies, rather than to improve performance.
+
+While the SSMC program acknowledges the importance of computational materials chemistry and sees merit in studies that combine experimental and computational aspects, proposals submitted to the SSMC program need to contain at least an experimental validation component, if experimental materials chemistry is not the major focus of the research project.
+
+
+Proposals with a significant emphasis on catalysis-related research that are submitted to the SSMC program may be discussed with program directors for the catalysis program in the ENG-CBET or MPS-CHE division, respectively. Proposals may either be transferred or reviewed jointly depending on the extent of alignment with the goals of both programs. PIs are strongly encouraged to contact the SSMC program to discuss the submission of proposals that potentially fall in this category. Submission deadlines for the intended secondary program need to be taken into consideration.
+
+
+Proposals within the area of liquid crystal research that are submitted to the SSMC program will be discussed with the Condensed Matter Physics (CMP) program and possibly either co-reviewed or transferred depending on the extent of alignment with the goals of both programs. PIs are strongly encouraged to contact the SSMC program to discuss the submission of proposals that potentially fall in this category.
+
+The SSMC program works closely with other programs within the Mathematical and Physical Sciences (MPS) and Engineering (ENG) directorates to accommodate the multidisciplinary nature of proposal submissions.
+Program ID: 505466
+NSF/PD Num: nsf23612
+Status: Cleared
+Posted date (Y-m-d): 2017-07-11
+URL: https://www.nsf.gov/funding/opportunities/solid-state-materials-chemistry/pd20-1762
+Type: Program

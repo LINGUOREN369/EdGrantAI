@@ -1,0 +1,13 @@
+https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation
+
+Title: Nuclear Physics - Theory
+Synopsis: All proposals submitted to the Physics Division that are not governed by another solicitation (such as CAREER) must be submitted to its division-wide solicitation: Division of Physics: Investigator-Initiated Research Projects.
+---
+The nuclear theory program encompasses the structure and reactions of nuclei, and of hadrons in few-nucleon and nuclear environments, and the quark/gluon substructure expressed by Quantum Chromodynamics. Supported research includes contributions to fundamental theoretical aspects of nuclear physics, as well as model building and applications to astrophysical phenomena and to experimental programs at facilities such as the Facility for Rare Isotope Beams, the Relativistic Heavy Ion Collider, and the Jefferson Laboratory. This includes formulating new approaches for theoretical, computational, and experimental research that explore the fundamental laws of physics and the behavior of physical systems; formulating quantitative hypotheses; exploring and analyzing the implications of such hypotheses analytically and computationally; and interpreting the results of experiments. Some awards are co-funded with other programs in the Physics Division and in other divisions.
+It is strongly recommended that prospective PIs contact the Nuclear Theory Program Officer(s) to ascertain that the focus and budget of their proposal are appropriate for this solicitation.
+Program ID: 505581
+NSF/PD Num: nsf23615
+Status: Cleared
+Posted date (Y-m-d): 2022-06-27
+URL: https://www.nsf.gov/funding/opportunities/nuclear-physics-theory/pd22-1285
+Type: Program

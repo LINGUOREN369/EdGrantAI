@@ -1,0 +1,11 @@
+https://www.nsf.gov/funding/opportunities/irnc-international-research-education-network-connections/nsf20-535/solicitation
+
+Title: International Research and education Network Connections (IRNC)
+Synopsis: The International Research and education Network Connections (IRNC) Base program supports high-performance network connectivity required by international science and engineering research and education collaborations involving the NSF research community. High-performance network connections and infrastructure funded by this program are intended to support science and engineering research and education applications, and preference will be given to solutions that provide the best economy of scale and demonstrate the ability to support the largest communities of interest with the broadest services. Funded projects will assist the U.S. research and education community by enabling state-of-the-art international network services and access to increased collaboration and data services. NSF expects to make 3 to 10 awards in production R&E network infrastructure; 1 to 3 awards in international testbeds; and 1 award in Engagement.
+Award Type: standard, continuing, coop
+Program ID: 503382
+NSF/PD Num: nsf20535
+Status: Cleared
+Posted date (Y-m-d): 2020-01-02
+URL: https://www.nsf.gov/funding/opportunities/irnc-international-research-education-network-connections/nsf20-535
+Type: Program

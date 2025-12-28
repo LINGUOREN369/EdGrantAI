@@ -1,0 +1,14 @@
+https://www.nsf.gov/funding/opportunities/ios-division-integrative-organismal-systems-core-programs/nsf24-546/solicitation
+
+Title: Developmental Systems
+Synopsis: The Developmental Systems Cluster supports research aimed at understanding how interacting developmental processes give rise to the emergent properties of organisms.  Systems level approaches to understanding these processes at the molecular, cellular, and organismal levels of organization, combining the use of molecular, genetic, biochemical, and physiological techniques as well as techniques from outside biology are encouraged.  The Developmental Systems Cluster is also particularly interested in understanding how emergent properties result in the development of complex phenotypes and lead to the evolution of developmental mechanisms.
+Proposals should be submitted to one of the three programs below:
+The Plant, Fungal and Microbial Developmental Mechanisms Program supports research that addresses developmental processes in plants from algae to angiosperms, microbes and fungi.
+The Animal Developmental Mechanisms Program supports research that seeks to understand the processes that result in the complex phenotypes of animals.  Because different organisms may be more amenable to certain approaches than others, analyses of development in a wide range of different species are encouraged. Proposals directed to study the development of the Nervous System should be submitted to the Organization Program of the Neural Systems Cluster (see below).
+The Evolution of Developmental Mechanisms Program supports research to discover the developmental processes that are shared by all organisms, and also those processes that produce diversity (phenotypic variation within a species and/or between species).  For example, the program is interested in elucidating how gene networks are modified to generate different phenotypic outcomes.  Understanding these processes will likely require inter-disciplinary and collaborative approaches using a wide range of organisms.
+Program ID: 504677
+NSF/PD Num: nsf24546
+Status: Cleared
+Posted date (Y-m-d): 2011-08-15
+URL: https://www.nsf.gov/funding/opportunities/developmental-systems/pd11-1119
+Type: Program

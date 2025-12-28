@@ -1,0 +1,19 @@
+https://www.nsf.gov/funding/opportunities/crest-rise-centers-research-excellence-science-technology-research/nsf24-562/solicitation
+
+Title: Centers of Research Excellence in Science and Technology - Research Infrastructure for Science and Engineering (CREST-RISE)
+Synopsis: The Centers of Research Excellence in Science and Technology (CREST) program provides support to enhance the research capabilities of minority-serving institutions (MSIs) as defined in this solicitation’s Eligibility section, through effective integration of education and research. The CREST program, composed of the CREST Centers, the CREST Postdoctoral Research Program, and the projects supported by this CREST-RISE solicitation, promotes the development of new knowledge, enhancements of the research productivity of individual faculty and postdoctoral scholars, and an expanded presence of research doctoral students in science, technology, engineering, and mathematics (STEM) disciplines, especially those from underrepresented groups.
+CREST-RISE is the component of the CREST program that supports the expansion of institutional research capacity by increasing the strength of institutional graduate programs and the successful production of research doctoral students, especially those from groups underrepresented in STEM.
+The CREST-RISE component supports STEM research doctoral programs in all NSF supported areas and encourages proposals in areas of national interest, such as artificial intelligence, data science and analytics; advanced materials, manufacturing, robotics; cybersecurity; plant genetics/agricultural technologies; quantum information sciences; nanotechnology, semiconductors/microelectronics technologies; climate change and clean energy.
+CREST-RISE projects must have a direct connection to the long-term plans of the host department(s) and the institution’s strategic plan and mission. Project plans should emphasize activities designed to increase the production of research doctoral students, especially those underrepresented in STEM as well as expand institutional research capacity.
+The goals of CREST-RISE are to increase: 1) the number of STEM research doctoral programs at MSIs (as defined in the Eligibility section), 2) the number of STEM research doctoral students graduating from MSIs, especially those from groups underrepresented in STEM, and 3) institutional research capacity to increase doctoral students’ graduation rates. To achieve these goals, the CREST-RISE program includes three tracks as follows:
+
+CREST-RISE STEM Doctoral Programs Support Initiative (CREST-RISE DPSI)
+CREST-RISE Research Advancement and Development (CREST-RISE RAD)
+CREST-RISE Equipment & Instrumentation (CREST-RISE E&I)
+Award Type: standard, continuing
+Program ID: 506118
+NSF/PD Num: nsf24562
+Status: Waiting for new publication
+Posted date (Y-m-d): 2024-03-25
+URL: https://www.nsf.gov/funding/opportunities/crest-rise-centers-research-excellence-science-technology-research/nsf24-562
+Type: Program

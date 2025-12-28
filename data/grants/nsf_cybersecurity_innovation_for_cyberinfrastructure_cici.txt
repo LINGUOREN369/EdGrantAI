@@ -1,0 +1,16 @@
+https://www.nsf.gov/funding/opportunities/cici-cybersecurity-innovation-cyberinfrastructure/nsf25-531/solicitation
+
+Title: Cybersecurity Innovation for Cyberinfrastructure (CICI)
+Synopsis: The objective of the Cybersecurity Innovation for Cyberinfrastructure (CICI) program is to advance scientific discovery and innovation by enhancing the security and privacy of cyberinfrastructure. CICI supports efforts to develop, deploy and integrate cybersecurity that will benefit the broader scientific community by securing science data, computation, collaborations workflows, and infrastructure. CICI recognizes the unique nature of modern, complex, data-driven, distributed, rapid, and collaborative science and the breadth of infrastructure and requirements across scientific disciplines, practitioners, researchers, and projects. CICI seeks proposals in four program areas:
+1.  Usable and Collaborative Security for Science (UCSS): Projects in this program area should support novel and/or applied security and usability research that facilitates scientific collaboration, encourages the adoption of security into the scientific workflow, and helps create a holistic, integrated security environment that spans the entire scientific cyberinfrastructure ecosystem.
+2.  Reference Scientific Security Datasets (RSSD): Projects in this program area should leverage instrumented cyberinfrastructure to capture metadata from scientific workflows and workloads as reference data artifacts that can help support reproducible security research, testing and evaluation.
+3.  Transition to Cyberinfrastructure Resilience (TCR): Projects in this program area should improve the robustness, trustworthiness, integrity, and/or resilience of scientific cyberinfrastructure through testing, evaluation, hardening, validation, and technology transition of novel cybersecurity research. The TCR area further encourages transition activities that advance the deployment and use of reproducibility in CI, workflows, and data.
+4.  Integrity, Provenance, and Authenticity for Artificial Intelligence Ready Data (IPAAI): Projects in this program area should enhance confidence and reproducibility in AI produced scientific results by improving the integrity, provenance, and authenticity of scientific datasets used by Artificial Intelligence systems.
+Award Type: standard, continuing
+Next due date (Y-m-d): 2026-01-21, 2026-01-21
+Program ID: 505159
+NSF/PD Num: nsf25531
+Status: Cleared
+Posted date (Y-m-d): 2025-01-03
+URL: https://www.nsf.gov/funding/opportunities/cici-cybersecurity-innovation-cyberinfrastructure/nsf25-531
+Type: Program

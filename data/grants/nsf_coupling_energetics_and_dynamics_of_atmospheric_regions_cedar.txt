@@ -1,0 +1,12 @@
+https://www.nsf.gov/funding/opportunities/cedar-coupling-energetics-dynamics-atmospheric-regions/nsf25-510/solicitation
+
+Title: Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR)
+Synopsis: The Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR) program supports research to increase our understanding of the behavior of atmospheric regions from the middle atmosphere upward through the thermosphere and ionosphere into the exosphere. Projects explore coupling, energetics, chemistry, and dynamics on regional and global scales. The research topics include investigations of upper atmosphere responses due to a) processes driven by the lower atmospheric perturbations and (b) solar radiation and particle inputs from above. The activities supported by this program include observations from ground-based and space-based platforms, as well as theory and modeling of the upper atmosphere of the Earth and other planets in our solar systems.   Novel approaches that include AI and ML tools and open data and open science practices are encouraged.
+Award Type: standard, continuing
+Next due date (Y-m-d): 2026-03-04, 2026-03-04
+Program ID: 5503
+NSF/PD Num: nsf25510
+Status: Cleared
+Posted date (Y-m-d): 2024-11-13
+URL: https://www.nsf.gov/funding/opportunities/cedar-coupling-energetics-dynamics-atmospheric-regions/nsf25-510
+Type: Program

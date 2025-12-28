@@ -1,0 +1,12 @@
+https://www.nsf.gov/funding/opportunities/aiming-artificial-intelligence-formal-methods-mathematical/nsf24-554/solicitation
+
+Title: Artificial Intelligence, Formal Methods, and Mathematical Reasoning (AIMing)
+Synopsis: The Artificial Intelligence, Formal Methods, and Mathematical Reasoning (AIMing) program seeks to support research at the interface of innovative computational and artificial intelligence (AI) technologies and new strategies/technologies in mathematical reasoning to automate knowledge discovery. Mathematical reasoning is a central ability of human intelligence that plays an important role in knowledge discovery. In the last decades, both the mathematics and computer science communities have contributed to research in machine-assisted mathematical reasoning, encompassing conjecture, proof, and verification. This has been in the form of both formal methods and interactive theorem provers, as well as using techniques from artificial intelligence. Recent technological advances have led to a surge of interest in machine-assisted mathematical reasoning from the mathematical sciences, formal methods, and AI communities.  In turn, advances in this field have potential impact on research in AI.
+Award Type: standard, continuing
+Next due date (Y-m-d): 2026-02-05, 2026-02-05
+Program ID: 506242
+NSF/PD Num: nsf24554
+Status: Cleared
+Posted date (Y-m-d): 2024-03-04
+URL: https://www.nsf.gov/funding/opportunities/aiming-artificial-intelligence-formal-methods-mathematical/nsf24-554
+Type: Program

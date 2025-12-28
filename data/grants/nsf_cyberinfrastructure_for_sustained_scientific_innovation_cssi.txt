@@ -1,0 +1,20 @@
+https://www.nsf.gov/funding/opportunities/cssi-cyberinfrastructure-sustained-scientific-innovation/nsf22-632/solicitation
+
+Title: Cyberinfrastructure for Sustained Scientific Innovation (CSSI)
+Synopsis: The Cyberinfrastructure for Sustained Scientific Innovation (CSSI) program seeks to enable funding opportunities that are flexible and responsive to the evolving and emerging needs in cyberinfrastructure (CI). The program continues to emphasize integrated CI services, quantitative metrics with targets for delivery and usage of these services, and community creation.
+The CSSI program anticipates three classes of awards:
+
+Elements: These awards target small groups that will create and deploy robust services for which there is a demonstrated need, and that will advance one or more significant areas of science and engineering.
+Framework Implementations: These awards target larger, interdisciplinary teams organized around the development and application of services aimed at solving common research problems faced by NSF researchers in one or more areas of science and engineering, and resulting in a sustainable community framework providing CI services to a diverse community or communities.
+Transition to Sustainability: These awards target groups who would like to execute a well-defined sustainability plan for existing CI with demonstrated impact in one or more areas of science and engineering supported by NSF. The sustainability plan should enable new avenues of support for the long-term sustained impact of the CI.
+
+NSF support for projects funded via CSSI Elements and Frameworks awards, or its predecessor programs, is intended to be of finite duration, limited to no more than 10 years. If appropriate for transition to sustainability, teams may request further one-time support through the “Transition to Sustainability” class of awards.
+Prospective Principal Investigators (PIs) should be aware that this is a multi-directorate activity and that they are encouraged to submit proposals with broad, interdisciplinary interests. Further, not all divisions are participating at the same level, and division-specific priorities differ. Prospective PIs should also refer to the directorate/division-specific descriptions contained in Section II of this solicitation.
+Finally, it is strongly recommended that prospective PIs contact program officer(s) from the list of Cognizant Program Officers in the division(s) that typically support the scientists and engineers who would make use of the proposed work, to gain insight into the priorities for the relevant areas of science and engineering to which their proposals should be responsive. As part of contacting Cognizant Program Officers, prospective PIs are also encouraged to ascertain that the focus and budget of their proposed work are appropriate for this solicitation.
+Award Type: standard, continuing
+Program ID: 505505
+NSF/PD Num: nsf22632
+Status: Cleared
+Posted date (Y-m-d): 2022-09-16
+URL: https://www.nsf.gov/funding/opportunities/cssi-cyberinfrastructure-sustained-scientific-innovation/nsf22-632
+Type: Program

@@ -278,6 +278,29 @@ Use the provided Make targets to keep taxonomies in sync:
 - Generate synonyms (safe, format-level variants) for all taxonomies:
   - `make synonyms-build`
 
+- Download current NSF opportunities (writes text files under `data/grants/`):
+  - `make nsf-download` (uses Grants.gov; set `GRANTS_GOV_API_KEY` in `.env` for best results)
+  - Options via env: `STATUSES=posted|forecasted`, `SINCE=YYYY-MM-DD`, `MAX=2000`
+  - If you do not have an API key, the tool can use a fallback endpoint. See `python -m pipeline.fetch_nsf_grants --help`.
+
+- Download NSF awards (historical/awarded grants) — no API key required:
+  - `make nsf-awards-download`
+  - Options via env: `SINCE=YYYY-MM-DD`, `UNTIL=YYYY-MM-DD`, `MAX=2000`
+
+- Download NSF funding opportunities directly from nsf.gov (web scrape):
+  - `make nsf-opps-download` (saves pages under `data/grants/`)
+  - Options via env: `MAX=500`
+  - Uses a lightweight stdlib scraper that extracts readable text from each opportunity page; first line is the source URL.
+
+- Build grant files from a CSV (with solicitation URL enrichment):
+  - `make nsf-from-csv` (defaults to `data/grants/nsf_funding.csv` if present, else `data/grants/NSF_database.csv`)
+  - Options via env:
+    - `CSV=path/to/file.csv` or a directory containing a single CSV
+    - `NO_FETCH=1` to skip downloading the solicitation URL content
+    - `OVERWRITE=1` to overwrite existing files
+  - Output `.txt` files in `data/grants/` named from the CSV Title; the first line is the solicitation URL if available, followed by CSV fields and extracted page text.
+  - When fetching is enabled, the tool also parses common NSF fields from the page (when present): solicitation number, deadline summary (uses `deadline_extractor`), estimated number of awards, and anticipated funding amount.
+
 Quick embeddings rebuild checklist
 - Rebuild taxonomy embeddings:
   - `make rebuild-taxonomy`
@@ -287,6 +310,12 @@ Quick embeddings rebuild checklist
 - Process all profiles from text files:
   - Grants: `make grants-all` (reads from `data/grants`, writes to `data/processed_grants`)
   - Orgs: `make orgs-all` (reads from `data/orgs`, writes to `data/processed_orgs`)
+
+- Download NSF opportunities first (optional):
+  - `make nsf-download` to fetch current NSF postings into `data/grants/`
+    - Recommended: add `GRANTS_GOV_API_KEY=...` to `.env`
+  - Or download past NSF awards: `make nsf-awards-download` (no key required)
+  - Or scrape NSF funding opportunities directly: `make nsf-opps-download`
 
 - Matching engine (rank grants for org profiles):
   - One org: `make recs ORG=data/processed_orgs/<org>_profile.json [TOP=10] [GRANTS_DIR=data/processed_grants] [OUT=reports/<org>_recommendations.json]`
@@ -441,6 +470,43 @@ This helps nonprofits avoid wasting 30–50 hours on ineligible grants.
 4) Generate recommendations
 - One org: `make recs ORG=data/processed_orgs/<org>_profile.json [TOP=10]`
 - All orgs: `make recs-all` (writes JSON files under `reports/`)
+
+---
+
+## Update Grant Information
+
+Use one (or more) of the options below to refresh the grant source files under `data/grants/`, then rebuild profiles.
+
+- From a maintained CSV (recommended)
+  - Place your CSV at `data/NSF_database/nsf_funding.csv` (or pass a custom path).
+  - Build `.txt` files (URL on line 1, CSV fields, and page text):
+    - `CSV=data/NSF_database/nsf_funding.csv OVERWRITE=1 make nsf-from-csv`
+    - Direct CLI: `python -m pipeline.build_grants_from_csv --csv data/NSF_database/nsf_funding.csv --out-dir data/grants --overwrite`
+  - Offline mode (skip fetching solicitation pages): add `NO_FETCH=1` or `--no-fetch`.
+
+- From NSF funding opportunities pages (nsf.gov)
+  - `MAX=1000 make nsf-opps-download` (saves each opportunity page to `data/grants/`)
+
+- From Grants.gov (current opportunities)
+  - `STATUSES=posted|forecasted SINCE=2024-10-01 MAX=2000 make nsf-download`
+  - Works without an API key using fallback mode; set `GRANTS_GOV_API_KEY` for the official API.
+
+- From NSF Awards API (awarded grants)
+  - `SINCE=2024-01-01 MAX=2000 make nsf-awards-download`
+
+- After updating `.txt` sources
+  - Rebuild profiles: `make grants-all` (writes JSON to `data/processed_grants/`)
+  - Optionally run recommendations: `make recs ORG=data/processed_orgs/<org>_profile.json [TOP=10]`
+
+- Edit a single grant manually
+  - Add or update a `.txt` under `data/grants/`.
+  - Put the source URL on the first line; the rest can be description, bullets, or pasted text.
+  - Re-run `make grants-all` to refresh the profile JSON.
+
+Troubleshooting
+- Network blocked? Use `NO_FETCH=1` with the CSV flow or run the scraper locally where you have internet.
+- Duplicate filenames? Use `OVERWRITE=1` to replace or let the tool auto-uniquify (`_2`, `_3`, ...).
+- See warnings inside generated `.txt` files if a solicitation page failed to fetch.
 
 ---
 

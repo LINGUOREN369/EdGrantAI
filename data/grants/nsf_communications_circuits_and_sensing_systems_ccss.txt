@@ -1,0 +1,44 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Communications, Circuits, and Sensing-Systems (CCSS)
+Synopsis: The Communications, Circuits, and Sensing-Systems (CCSS) Program supports innovative research in circuit and system hardware and signal processing techniques. CCSS also supports system and network architectures for communications and sensing to enable the next-generation cyber-physical systems (CPS) that leverage computation, communication, and sensing integrated with physical domains. CCSS invests in micro- and nano-electromechanical systems (MEMS/NEMS), physical, chemical, and biological sensing systems, neurotechnologies, and communication & sensing circuits and systems. The goal is to create new complex and hybrid systems ranging from nano- to macro-scale with innovative engineering principles and solutions for a variety of applications including but not limited to healthcare, medicine, environmental and biological monitoring, communications, disaster mitigation, homeland security, intelligent transportation, manufacturing, energy, and smart buildings. CCSS encourages research proposals based on emerging technologies and applications for communications and sensing such as high-speed communications of terabits per second and beyond, sensing and imaging covering microwave to terahertz frequencies, personalized health monitoring and assistance, secured wireless connectivity and sensing for the Internet of Things, and dynamic-data-enabled autonomous systems through real-time sensing and learning.
+Areas managed by CCSS Program Directors (please contact Program Directors listed in the CCSS staff directory for areas of interest):
+RF Circuits and Antennas for Communications and Sensing 
+
+RF Communications and Sensing Technologies from kHz to THz
+Antennas and Wave Propagation for Communications and Sensing
+Circuits and Systems for Secured Communications and Sensing
+Trusted Microelectronic Circuits
+RF Biomedical Applications and Remote Sensing
+Bio-mimetic Circuits and Systems
+Dynamic-data-enabled Reconfigurable RF Subsystems through Sensing and Machine Learning
+Wireless Energy Transfer and RF Energy Harvesting
+
+ Communication Systems and Signal Processing 
+
+Wireless, Optical, and Hybrid Communications and Networking
+Full-duplex, massive MIMO, mm-Wave, and THz communications
+Spectrum Access and Sharing
+Integrated Sensing, Communication, and Computational Systems
+Signal Processing, image processing, and Compressive Sampling
+Cyber Physical Systems and Hardware-controlled Secured Communications
+Dynamic-data-enabled Communication Systems through Sensing and Machine Learning
+Quantum Communication Systems
+
+ Dynamic Bio-Sensing Systems
+
+Micro, Nano, and Bio Systems (MEMS/NEMS)
+Chemical, Biological, and Physical Diagnostics
+Sensors, Actuators, and Electronic Interfaces
+Ultra-Low Power Wearable and Implantable Sensing Systems
+Dynamic-data-enabled Reconfigurable Sensing Systems
+Personalized Health Monitoring Systems through Sensing and Machine Learning
+Neuroengineering and Brain-Inspired Concepts and Designs
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 505248
+NSF/PD Num: pd187564
+Status: Cleared
+Posted date (Y-m-d): 2018-06-15
+URL: https://www.nsf.gov/funding/opportunities/ccss-communications-circuits-sensing-systems/pd18-7564
+Type: Program

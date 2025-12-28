@@ -1,0 +1,37 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Mathematical Sciences Infrastructure Program
+Synopsis: The primary aim of the Mathematical Sciences Infrastructure Program is to foster the continuing health of the mathematical sciences research community as a whole. In addition, the program complements the Workforce Program in the Mathematical Sciences in its goal to increase the number of well-prepared U.S. based individuals who successfully pursue careers in the mathematical sciences and in other professions in which expertise in the mathematical sciences plays an increasingly important role. The DMS Infrastructure program invites projects that support core research in the mathematical sciences, including: 1) novel projects supporting research infrastructure across the mathematical sciences community; 2) training projects complementing the Workforce Program, and 3) conference, workshop, and travel support requests that include cross-disciplinary activities or have an impact at the national scale. 
+Proposals under this solicitation submitted to DMS Infrastructure must show engagement in developing or enhancing the mathematical sciences research infrastructure in the U.S., including, but not limited to, broadening participation activities; professional development training; or involvement of students and early career researchers. Proposals must explain the regional or national scale impact of the activity that goes substantially beyond the submitting institution or the location of the event.
+Full proposals (with exception of conference proposals, which are subject to lead-time requirements) must be submitted close to one of the Full Proposal Target Dates.
+See below for more information about each category of Infrastructure projects.
+(1) Novel projects that serve to strengthen the research infrastructure: The DMS Infrastructure Program will consider novel projects that support and strengthen the research infrastructure across the mathematical sciences community. These projects most often cut across multiple sub-disciplines supported by DMS or involve interdisciplinary collaborations. The main goal of these projects should be to create a new research infrastructure or substantially enhance or transform an existing infrastructure with regional or national impact that goes substantially beyond the submitting institution or the location of the project.   Full proposals must be submitted by the Full Proposal Target Date.
+(2) Training projects: Training proposals submitted to DMS Infrastructure must not fit into one of the areas covered by solicitations in the Workforce Program in the Mathematical Sciences; they must be submitted by the Full Proposal Target Date; and they must:
+A. Include a core research component for trainees in mathematical sciences;
+B. Demonstrate promise for an impact at the regional or national scale that goes substantially beyond the submitting institution or the location of the project;
+C. Satisfy at least one of the following criteria:
+i. Serve as models to be replicated,ii. Promote partnerships with non-academic entities, minority-serving institutions, or community colleges, or iii. Include a substantial broadening participation initiative.
+In addition, all proposals of this type must clearly identify:
+
+Goals to be achieved;
+Specific new activities to be conducted, the way in which these address the goals, and the way in which the activities significantly differ from or enhance common practice;
+Measurable outcomes for the project;
+Plans and methods for assessment of progress toward the goals to be achieved, and for evaluation of the success of the activity;
+Recruitment, selection, and retention plans for participants, including members of underrepresented groups;
+Sustainability plans to continue the pursuit of the project's goals when funding terminates; and
+A budget commensurate with the proposed activity.
+
+3) Conferences, Symposia, Working Research Sessions, Travel Support Requests: Principal Investigators should carefully read the program solicitation Conferences and Workshops in the Mathematical Sciences to obtain important information regarding the substance of proposals for conferences, workshops, summer/winter schools, international travel support, and similar activities. Conference/workshop proposals that concern topics within a particular subdiscipline of mathematics or statistics should be submitted to the appropriate DMS disciplinary program(s). These submissions are subject to the lead-time requirements specified by the disciplinary program(s); see the program web pages listed on the DMS home page.
+Conference/workshop proposals may be submitted to the DMS Infrastructure program only if the intended topical areas span a wide range of the mathematical sciences and are consequently not within the scope of DMS disciplinary programs. The required lead time for submission of such proposals is:
+
+6 months in advance of the meeting date for proposals requesting no more than $50,000 to support a domestic meeting;
+9 months in advance of the meeting date for proposals requesting more than $50,000 to support a domestic meeting;
+12 months in advance of the meeting date for proposals requesting support for participation in a meeting taking place outside the United States.
+Award Type: standard, continuing
+Next due date (Y-m-d): 2026-02-03, 2026-02-03
+Program ID: 12756
+NSF/PD Num: pd201260
+Status: Cleared
+Posted date (Y-m-d): 2004-02-09
+URL: https://www.nsf.gov/funding/opportunities/mathematical-sciences-infrastructure-program/pd20-1260
+Type: Program

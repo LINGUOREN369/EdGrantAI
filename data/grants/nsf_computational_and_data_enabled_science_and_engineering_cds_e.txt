@@ -1,0 +1,138 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Computational and Data-Enabled Science and Engineering (CDS&E)
+Synopsis: Large-scale simulations and the ability to accumulate massive amounts of data have revolutionized science and engineering. The goal of the Computational and Data-enabled Science and Engineering (CDS&E) meta-program is to identify and capitalize on opportunities for major scientific and engineering breakthroughs through new computational and data-analysis approaches and best practices. The CDS&E meta-program supports projects that harness computation and data to advance knowledge and accelerate discovery above and beyond the goals of the participating individual programs. The intellectual drivers may be in an individual discipline or cut across more than one discipline in various Divisions and Directorates. A CDS&E proposal should enable and/or utilize the development and adaptation of advances in research and infrastructure in computational and data science.
+The CDS&E meta-program encourages research that pushes the envelope of science and engineering through computation and data, welcoming proposals in any research area supported by the participating divisions. A proposal may address topics that develop or enable interactions among theory, computing, experiment, and observation to achieve progress on hitherto intractable science and engineering problems. Areas of emphasis for CDS&E vary by program. PIs are advised to consult the "related programs" links below before submitting.
+The CDS&E meta-program is not intended to replace existing programs that support projects involving computation or the analysis of large or complex data sets using established methods. Rather, proposals submitted to the CDS&E meta-program must have a significant component of computational or data science that goes well beyond what would typically be included in these programs. Any proposal submitted to the CDS&E program that is not responsive to this Program Description may be transferred to or reviewed within the context of an individual program. A proposal requesting consideration within the context of CDS&E should begin the title with the identifying acronym "CDS&E:". Supplement requests to existing awards may also be considered. A CDS&E proposal should include substantive science, engineering, or computing research. Algorithm and pilot software development supporting science and engineering may also be appropriate, depending on the program. Proposers who seek to implement proven, existing methods into robust cyberinfrastructure are referred instead to the program on Cyberinfrastructure for Sustained Scientific Innovation (CSSI).
+A CDS&E proposal should be submitted to one of the "Related Programs" or Divisions by the associated submission window, deadline, or target date listed in the table below. In picking the most relevant program, PIs are advised to read program descriptions and solicitations carefully and consult with cognizant Program Officers before proposal preparation. Proposal submissions outside the receiving program's scientific scope may be transferred to a different program or returned without review.
+ 
+Due Dates
+
+
+DirectorateDivision and ProgramSubmission Window or Target Date
+
+
+
+
+ENG
+
+
+Division of Chemical, Bioengineering, Environmental, and Transport Systems
+
+
+  September 01, 2024 - September 16, 2024
+  September 01- September 15, Annually Thereafter
+
+
+
+
+ENG
+
+
+Division of Civil, Mechanical and Manufacturing Innovation
+
+
+  September 01, 2024 - September 16, 2024
+  September 01- September 15, Annually Thereafter
+
+
+
+
+MPS
+
+
+Division of Chemistry - Chemical Catalysis (CAT), Chemical Mechanism, Function, and Properties (CMFP), Chemical Synthesis (SYN)
+
+
+  September 01, 2024 - September 30, 2024
+  September 01 - September 30, Annually Thereafter
+
+
+
+
+MPS
+
+
+Division of Materials Research
+
+
+  October 15, 2024
+  October 15, Annually Thereafter
+
+
+
+
+MPS
+
+
+Division of Astronomical Sciences - Advanced Technologies and Instrumentation
+
+
+  October 01, 2024 - November 15, 2024
+  October 01 - November 15, Annually Thereafter
+
+
+
+
+MPS
+
+
+Division of Chemistry - Chemical Measurement and Imaging (CMI), Environmental Chemical Sciences (ECS), and Macromolecular, Supramolecular and Nanochemistry (MSN)
+
+
+  October 01, 2024 - October 31, 2024
+  October 1 - October 31, Annually Thereafter
+
+
+
+
+MPS
+
+
+Division of Mathematical Sciences
+
+
+  October 15, 2024 - October 31, 2024
+  October 15 - October 31, Annually Thereafter
+
+
+
+
+MPS
+
+
+Division of Astronomical Sciences - Astronomy and Astrophysics Research Grants
+
+
+  October 01, 2024 - November 15, 2024
+  October 01 - November 15, Annually Thereafter
+
+
+
+
+MPS
+
+
+Division of Physics: Investigator-Initiated Research Projects – Plasma Physics program
+
+
+  November 20, 2024,
+  Third Monday in November, Annually Thereafter
+
+
+
+
+MPS
+
+
+Division of Chemistry - Chemistry of Life Processes (CLP), Chemical Structure and Dynamics (CSD), Chemical Theory, Models and Computational Methods (CTMC)
+
+
+  Full proposals accepted anytime
+Next due date (Y-m-d): 2026-09-15, 2026-09-15, 2026-09-15, 2026-09-15
+Program ID: 506212
+NSF/PD Num: pd248084
+Status: Cleared
+Posted date (Y-m-d): 2024-08-14
+URL: https://www.nsf.gov/funding/opportunities/cdse-computational-data-enabled-science-engineering/pd24-8084
+Type: Program

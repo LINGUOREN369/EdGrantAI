@@ -1,0 +1,20 @@
+https://www.nsf.gov/funding/opportunities/firp-facility-instrumentation-request-process/nsf23-602/solicitation
+
+Title: Facility and Instrumentation Request Process (FIRP)
+Synopsis: The Facility and Instrumentation Request Process (FIRP) solicitation describes the mechanism by which the research community can propose projects that require access to instrumentation and facilities sponsored by the Facilities for Atmospheric Research and Education (FARE) Program in the Division of Atmospheric and Geospace Sciences (AGS).  FARE provides funding to a variety of organizations to make specialized instrumentation and facilities available to the atmospheric science research community through the Lower Atmosphere Observing Facilities (LAOF) and the Community Instruments and Facilities (CIF) programs. FIRP allows for parallel evaluation of intellectual merit and broader impacts along with the feasibility of the proposed project.
+All proposals to AGS that require the use of FARE-sponsored assets must be submitted through this solicitation. 
+The FIRP solicitation offers three proposal submission tracks based on the type and purpose of the request:  
+
+Track 1 - Education and Outreach.
+Track 2 - Single Facility Request.
+Track 3 - Field Campaigns.    
+
+Preference for funding will be given to proposals submitted to programs in the Division of Atmospheric and Geospace Sciences (AGS) in the Geosciences Directorate (GEO). If you are planning to submit a proposal to a program outside AGS, including NSF-wide or Directorate-wide solicitations, please contact the FARE program director, Shree Mishra at fare@nsf.gov to discuss the timelines, review process, and budget request for the use of FARE assets.
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 505855
+NSF/PD Num: nsf23602
+Status: Cleared
+Posted date (Y-m-d): 2023-07-03
+URL: https://www.nsf.gov/funding/opportunities/firp-facility-instrumentation-request-process/nsf23-602
+Type: Program

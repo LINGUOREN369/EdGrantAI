@@ -1,0 +1,21 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Research Infrastructure in the Social and Behavioral Sciences (RISBS)
+Synopsis: The Research Infrastructure in the Social and Behavioral Sciences Program (RISBS) supports projects that create computational tools and data to facilitate basic research in the social and behavioral sciences that can lead to improved health, prosperity and security.
+Projects should be aimed at creating computational tools and data to enable research by social scientists. Examples include, but are not limited to, data collection or assembly efforts that result in new resources for a community of researchers or software platforms that facilitate data collection efforts by others. RISBS does not support research by PIs except in service of creation of the infrastructure. Innovation is especially encouraged.  
+RISBS directly supports three key longitudinal surveys and panel studies that provide researchers with data on how American society functions and changes over time (and in 2010 were recognized as among the 60 most significant "discoveries or advances that... have had a large impact or influence on every American’s life... call[ed] the ‘Sensational 60’, in honor of NSF’s 60th anniversary”):
+
+The American National Election Study, which started in 1948 and has been funded by NSF since 1977, provides “gold standard” data on voting, public opinion, and political participation in U.S. national elections.
+The General Social Survey, a nationally representative interview survey of the U.S. adult population, collects data on a wide range of topics and has been funded by NSF since its inception in 1972.
+The Panel Study of Income Dynamics, a longitudinal survey of a nationally representative sample of U.S. families begun in 1968 (with NSF taking over most of its funding in 1980) collects data on a wide array of economic, social and health factors.
+
+The RISBS program administers separate solicitations for the American National Election Study (ANES), the General Social Survey (GSS) and the Panel Study of Income Dynamics (PSID). These solicitations have specific requirements and submission deadlines. Other infrastructure proposals may be submitted directly to the RISBS program at any time or transferred from other SBE programs following the respective program’s submission guidelines. RISBS also collaborates with other programs in the social and behavioral sciences through a co-funding process to support projects that create especially valuable tools for researchers in those fields or are furthering innovations in research infrastructure.
+Prospective PIs may also be interested in the Human Networks and Data Science Program — Infrastructure (HNDS-I), which supports proposals addressing the development of data resources and relevant analytic techniques that support research in the social, behavioral and economic sciences. Prospective PIs are strongly encouraged to contact the RISBS program officers and/or program officers from other SBE programs that may be applicable to the proposal before submitting to RISBS and to refer to the NSF Proposal & Award Policies & Procedures Guide (PAPPG) policies on duplicate or substantially similar proposals.
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 506221
+NSF/PD Num: pd23277Y
+Status: Cleared
+Posted date (Y-m-d): 2023-09-27
+URL: https://www.nsf.gov/funding/opportunities/risbs-research-infrastructure-social-behavioral-sciences/pd23-277y
+Type: Program

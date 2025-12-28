@@ -1,0 +1,13 @@
+https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation
+
+Title: Communications and Information Foundations (CIF)
+Synopsis: The Communications and Information Foundations (CIF) program supports research activities that address the theoretical underpinnings for information acquisition, transmission, and processing in communications and information processing systems. CIF projects have contributed to the development of the inter-related areas of communications, information theory, coding theory, and signal and image processing, areas that are expected to play key roles in future technology.
+The CIF program also supports foundational research in networked systems, such as network information theory and cross-layer design in wireless systems. Examples include secure communication, sensor networks, and other scenarios that feature massive data aggregation from distributed sensing.
+In addition to the traditional topics that have fueled the information revolution, there is continued interest within the CIF program in new paradigms. These include but are not limited to statistical learning and inference, signal processing on graphs and networks, multi-terminal communication problems, information-theoretic security, geometric methods in signal processing and machine learning, computational imaging, and communication-theoretic challenges associated with emerging communication technology. In the machine learning area in particular, CIF seeks to encourage research promoting paradigms based on foundational principles, rooted in information theory and statistical inference, that advance the explainability and generalizability of machine learning. Topics of interest include, but are not limited to, scalability, performance guarantees, and fundamental limits, alongside fairness and robustness of machine learning techniques.
+At its core, CIF is interested in the mathematical exploration of novel problem formulations rooted in the aforementioned application domains.
+Program ID: 503300
+NSF/PD Num: nsf25543
+Status: Cleared
+Posted date (Y-m-d): 2008-07-30
+URL: https://www.nsf.gov/funding/opportunities/cif-communications-information-foundations/pd25-7797
+Type: Program

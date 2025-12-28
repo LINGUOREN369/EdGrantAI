@@ -1,0 +1,63 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Geospace Cluster (AGS-GC)
+Synopsis: The Geospace Cluster (GC) in the Division of Atmospheric and Geospace Sciences (AGS) supports fundamental and solutions-oriented research, technology development and education related to the Earth's near-space environment (including the mesosphere, thermosphere, ionosphere, exosphere, magnetosphere and radiation belts) and the inner heliosphere and solar atmosphere. The GC advances knowledge of the Sun--Earth system, including how various parts of the system are coupled through dynamical, electrodynamical and chemical processes. The GC supports research on the societal impacts of these processes including space weather and upper atmosphere climate change, with the aim of increasing resilience to such natural hazards. The GC supports research that uses ground-based or space-based observational facilities and instruments as well as data centers and a broad range of theoretical, modeling, observational, data analyses and laboratory activities.
+  
+  General research topics that are supported by the GC include, but are not limited to:
+
+  Aeronomy, including studies of wave dynamics, ionization, recombination, chemical reaction, photo emission and transport of energy and momentum within and between the mesosphere, thermosphere and ionosphere of the Earth; how this global system is coupled to the stratosphere below and magnetosphere above; and the plasma physics of phenomena manifested in the coupled ionosphere-magnetosphere system.
+  Magnetospheric physics, including studies of the magnetosphere, or the cavity carved out of the solar wind by the Earth's magnetic field, its energization by the solar wind and population by solar and ionospheric sources; waves and instabilities in such natural plasmas; the origin of planetary electric fields; the origin of geomagnetic storms and substorms; and the coupling among the radiation belts, magnetosphere, ionosphere and atmosphere.
+  Solar-terrestrial physics, including how energy generation and eruptive processes occur in the solar atmosphere and how energy and momentum are transported within the Sun-Earth system; solar dynamo, solar activity cycle and magnetic flux emergence; eruptive activity including solar flares and coronal mass ejections; solar wind heating, solar energetic particles and interactions with cosmic rays; solar wind/magnetosphere boundary; and helioseismology.
+  Space weather and space climate, including solar or terrestrial drivers of space weather; observations and modeling of the integrative geospace system that could lead to better predictive capabilities of the time-varying space environment; and characterization of space weather impacts on critical infrastructure and technological systems.
+
+Proposals to the GC are welcome at any time. However, the following solicitations in support of specific geospace science and community efforts have target dates or deadlines. They also may have PI and/or Institution restrictions. Please refer to the solicitation documents for further details:
+
+  The Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR) targeted research program aims to understand the behavior of the Earth's atmospheric regions from the middle atmosphere upward through the thermosphere and ionosphere into the exosphere in terms of coupling, energetics, chemistry and dynamics on regional and global scales.
+  The Geospace Environment Modeling (GEM) targeted research program supports investigations of the physics of the Earth's magnetosphere and the coupling of the magnetosphere to the atmosphere and solar wind, including for making accurate predictions of the geospace environment.
+  The Solar, Heliospheric, and Interplanetary Environment (SHINE) targeted research program supports enhanced understanding of and predictive capabilities for the processes by which energy in the form of magnetic fields and particles are produced by the Sun and/or accelerated in interplanetary space and on the mechanisms by which these fields and particles are transported to the Earth through the inner heliosphere.
+  The Faculty Development in geoSpace Science (FDSS) solicitation integrates topics in geospace science, including solar and space physics and space weather research, into natural sciences, engineering or related departments at U.S. institutions of higher education. The solicitation also stimulates the development of undergraduate or graduate programs or curricula to train the next generation of leaders in geospace science.
+
+The Geospace Cluster participates in other AGS, GEO and NSF programs and solicitations including but not limited to:
+
+  Distributed Array of Small Instruments (DASI)
+  ECosystem for Leading Innovation in Plasma Science and Engineering (ECLIPSE)
+
+AGS encourages and inspires scientific leaders by investing in the atmospheric and geospace sciences, enhancing educational opportunities and experiences and supporting faculty and researchers at all career stages. The Division expects that proposers will integrate education, outreach and dissemination activities into their research plans in compliance with NSF Broader Impacts Merit Review criteria.
+
+AGS invites proposals that include plans for workforce development, educational and outreach activities, open science initiatives and efforts to broaden participation and encourage diverse talent in the atmosphere and geospace sciences. Furthermore, AGS encourages proposals from all institutions, including Minority Serving Institutions, Emerging Research Institutions and institutions in EPSCoR jurisdictions.
+
+The Proposal & Award Policies & Procedures Guide (PAPPG) provides the instructions for submitting proposals to AGS. Additionally, Chapter II.F of the PAPPG defines "Other Types of Proposals," including community-building proposals such as Conference, Travel or Planning Proposals and special categories of proposals, such as Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research (EAGER). Proposals that are not compliant with the PAPPG will be returned without review.
+
+The following sections highlight specific NSF-, GEO-, or AGS-wide solicitations that may be relevant to the AGS Community. Please be aware that solicitations are frequently updated, so make sure that you are looking at the most recent version.  
+
+Career Development
+
+AGS Postdoctoral Research Fellowship (AGS-PRF): The AGS-PRF program supports researchers (also known as Fellows) for up to 24 months at the institution of their choice. The program is intended to recognize beginning investigators of significant potential and provide them with research experience that will broaden perspectives, facilitate interdisciplinary interactions, and establish them in leadership positions within the AGS community.
+
+Faculty Early Career Development Program (CAREER): The CAREER program supports early career (assistant professor-level) faculty who have the potential to serve as academic role models in research and education and to lead advances for their department or organization. Awards are 5 years long and must integrate research and education.
+
+Mid-Career Advancement (MCA): The MCA program provides opportunities for scientists and engineers at the associate professor rank (or equivalent) to substantively enhance and advance their research program through synergistic partnerships.
+
+
+Capacity Development
+
+EMpowering BRoader Academic Capacity and Education (EMBRACE):  The EMBRACE program supports research and educational efforts at "non-R1" institutions, including non-R1 minority serving institutions (MSIs), two-year colleges (2YCs), primarily undergraduate institutions (PUIs), and emerging research (ERIs) and master's level institutions.
+
+Historically Black Colleges and Universities Excellence in Research (HBCU - EiR):  The HBCU-EiR program supports research at public and private historically Black colleges and universities to strengthen research capacity and promote engagement with NSF.
+
+Facilitating Research at Primarily Undergraduate Institutions (RUI and ROA):  RUI awards support PUI faculty in research that engages them in their professional field(s), build capacity for research at their home institution, and support the integration of research and undergraduate education. ROA awards similarly support PUI faculty research, but these awards typically allow faculty to work as visiting scientists at research-intensive organizations where they collaborate with other NSF-supported investigators.
+
+Instrumentation and Facilities
+
+Major Research Instrumentation:  The MRI program supports requests for up to $4 million from NSF for the development or acquisition of multi-user research instruments that are critical to the advancement of science and engineering.
+
+Mid-scale Research Infrastructure-1:  The MSRI-1 program supports the design and implementation of research infrastructure--including equipment, cyberinfrastructure, large-scale datasets and personnel--whose total project costs exceed the NSF Major Research Instrumentation program limit but are under $20 million.
+
+Mid-scale Research Infrastructure-2:  The MSRI-2 program supports the implementation of research infrastructure--including equipment, cyberinfrastructure, large-scale datasets and personnel--whose total project costs fall between $20 million and $100 million.
+Proposals accepted anytime: 1
+Program ID: 506312
+NSF/PD Num: pd247789
+Status: Cleared
+Posted date (Y-m-d): 2024-09-25
+URL: https://www.nsf.gov/funding/opportunities/ags-gc-geospace-cluster/pd24-7789
+Type: Program

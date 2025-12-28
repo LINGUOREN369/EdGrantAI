@@ -1,0 +1,12 @@
+https://www.nsf.gov/funding/opportunities/emb-emerging-mathematics-biology/nsf25-509/solicitation
+
+Title: Emerging Mathematics in Biology (eMB)
+Synopsis: The Emerging Mathematics in Biology (eMB) program seeks to stimulate the development of innovative mathematical theories, techniques, and approaches to investigate challenging questions of great interest to biologists and public health policymakers. It supports truly integrative research projects in mathematical biology that address challenging and significant biological questions through novel applications of traditional, but nontrivial, mathematical tools and methods or the development of new mathematical theories particularly from foundational mathematics, including the mathematical foundation of Artificial Intelligence/Deep Learning/Machine Learning (AI/DL/ML) enabling explainable AI or mechanistic insight. The program emphasizes the uses of mathematical methodologies to advance our understanding of complex, dynamic, and heterogenous biological systems at all scales (molecular, cellular, organismal, population, ecosystems, evolutionary, etc.).
+Award Type: standard, continuing
+Next due date (Y-m-d): 2026-03-02, 2026-03-02
+Program ID: 506133
+NSF/PD Num: nsf25509
+Status: Cleared
+Posted date (Y-m-d): 2024-11-06
+URL: https://www.nsf.gov/funding/opportunities/emb-emerging-mathematics-biology/nsf25-509
+Type: Program

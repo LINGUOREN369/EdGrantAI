@@ -1,0 +1,18 @@
+https://www.nsf.gov/funding/opportunities/ltreb-long-term-research-environmental-biology/nsf21-544/solicitation
+
+Title: Long Term Research in Environmental Biology (LTREB)
+Synopsis: The Long Term Research in Environmental Biology (LTREB) Program supports the generation of extended time series of data to address important questions in evolutionary biology, ecology, and ecosystem science. Research areas include, but are not limited to, the effects of natural selection or other evolutionary processes on populations, communities, or ecosystems; the effects of interspecific interactions that vary over time and space; population or community dynamics for organisms that have extended life spans and long turnover times; feedbacks between ecological and evolutionary processes; pools of materials such as nutrients in soils that turn over at intermediate to longer time scales; and external forcing functions such as climatic cycles that operate over long return intervals.
+All proposals submitted through the LTREB solicitation are processed by 1 of the 3 clusters in the Division of Environmental Biology: Ecosystem Science, Population and Community Ecology, and Evolutionary Processes. Proposals must address topics supported by these clusters. Researchers who are uncertain about the suitability of their project for the LTREB Program are encouraged to contact the cognizant Program Officer.
+Ecological research on marine populations, communities and ecosystems is not supported by LTREB and should be directed to the Biological Oceanography Program: (https://www.nsf.gov/funding/opportunities/biooce-biological-oceanography). However, research that examines the evolutionary dynamics of marine populations or communities will be accepted. Investigators who are uncertain about the suitability of their research for LTREB are strongly encouraged to contact the managing Program Officers listed in this solicitation.
+Examples of current LTREB awards can be viewed at https://www.nsf.gov/awardsearch/ by including 'LTREB' in a title search.
+The Program intends to support decadal projects. Funding for an initial, 5-year period requires submission of a proposal that includes a 15-page project description containing two essential components: a decadal research plan and a description of core data. Proposals for the second five years of support (renewal proposals) are limited to a ten-page project description.
+Continuation of an LTREB project beyond an initial ten-year award will require submission of a new proposal that presents a new decadal research plan.
+Specific review criteria for LTREB proposals and renewals are explained within this solicitation. Prospective proposers are advised to read this solicitation carefully.
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 13544
+NSF/PD Num: nsf21544
+Status: Cleared
+Posted date (Y-m-d): 2020-12-09
+URL: https://www.nsf.gov/funding/opportunities/ltreb-long-term-research-environmental-biology/nsf21-544
+Type: Program

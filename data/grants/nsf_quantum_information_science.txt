@@ -1,0 +1,14 @@
+https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation
+
+Title: Quantum Information Science
+Synopsis: All proposals submitted to the Physics Division that are not governed by another solicitation (such as CAREER) must be submitted to its division-wide solicitation: Division of Physics: Investigator-Initiated Research Projects.
+---
+Quantum Information Science (QIS) supports theoretical and experimental proposals that explore quantum applications to new computing paradigms or that foster interactions between physicists, mathematicians, and computer scientists that push the frontiers of quantum-based information, transmission, and manipulation.
+The quantum information science program is focused on investigations relevant to disciplines supported by the Physics Division, while encouraging broader impacts on other disciplines. Disciplines within the purview of the Physics Division include: atomic, molecular, optical, plasma, elementary particle, nuclear, gravitational and biological physics, and particle astrophysics.
+Proposals with intellectual focus in areas supported by other NSF Divisions should be submitted to those divisions directly. Proposals that cross Divisional lines are welcome, but the Physics Division encourages PIs to request a co-review by naming other Divisional programs on the cover sheet. This facilitates the co-review and participation of other programs in the review process.
+Program ID: 505446
+NSF/PD Num: nsf23615
+Status: Cleared
+Posted date (Y-m-d): 2017-05-01
+URL: https://www.nsf.gov/funding/opportunities/quantum-information-science/pd24-7281
+Type: Program

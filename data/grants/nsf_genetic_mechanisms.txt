@@ -1,0 +1,19 @@
+https://www.nsf.gov/funding/opportunities/mcb-division-molecular-cellular-biosciences-core-programs/nsf24-539/solicitation
+
+Title: Genetic Mechanisms
+Synopsis: The Genetic Mechanisms (GM) cluster seeks inventive ideas and research to address fundamental questions about genetics, epigenetics, and gene expression mechanisms in diverse organisms. The cluster encourages cross-disciplinary and collaborative research, especially employing perspectives and approaches from computational, mathematical, chemical, and physical sciences and engineering. Creative tool development to address new or long-standing questions about genetic mechanisms is welcome. Primarily descriptive projects are given lower priority.
+The cluster encourages research on predictive understanding of:
+
+The spatiotemporal organization, coordination and/or regulation of processes that maintain, replicate, transcribe and translate the genome;
+Relationships between genomic or epigenomic determinants and molecular or cellular phenotypes;
+Transcriptomic, epitranscriptomic, and other RNA-based regulatory mechanisms;
+Structure-function relationships, interactions, and reactions of macromolecules involved in genetic and epigenetic processes; and
+Mechanisms of evolution of genes and genomes.
+
+Investigators are encouraged to contact GM Program Directors with project ideas or to seek any further information.
+Program ID: 504862
+NSF/PD Num: nsf24539
+Status: Cleared
+Posted date (Y-m-d): 2012-10-10
+URL: https://www.nsf.gov/funding/opportunities/genetic-mechanisms/pd13-1112
+Type: Program

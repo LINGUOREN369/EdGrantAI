@@ -1,0 +1,18 @@
+https://www.nsf.gov/funding/opportunities/gi-geoinformatics/nsf23-594/solicitation
+
+Title: Geoinformatics (GI)
+Synopsis: The Geoinformatics program funds the deployment, operation, and sustainment of cyberinfrastructure (CI) resources to serve and support Earth Sciences research and education. In this solicitation, “Earth Sciences” refers to the academic research communities supported by programs within NSF’s Division of Earth Sciences (EAR) (https://www.nsf.gov/funding/programs.jsp?org=EAR).
+Goals for Geoinformatics support include (but are not limited to): (i) Enabling the management of and access to data, physical samples, and other research products in the Earth Sciences; (ii) Facilitating the development and use of open-source software and modeling capabilities, preferably via approaches that leverage shared computing resources and collaborative software development processes; (iii) Fostering transparent and reproducible modes of research and education in the Earth Sciences; and (iv) Increasing the capacity of Earth Scientists to utilize cyberinfrastructure resources.
+The Geoinformatics program will consider proposals within two tracks of support:
+
+The Innovative Resources track supports the early-stage development, deployment, and community-building for CI resources that serve Earth Sciences research and education.
+The Sustained Resources track supports the sustained operations and user community support for mature CI resources that serve Earth Sciences research and education.
+
+Principal Investigators (PIs) are strongly recommended to contact cognizant Program Officer(s) for this solicitation in advance of proposal submission to ascertain that the focus and budget of proposed projects are appropriate for this solicitation and the designated track. Guidance on the appropriate scope of Geoinformatics projects is provided in the Program Description. In addition, all proposers for Sustained Resources track projects must submit a Concept Outline at least three (3) months in advance of the full proposal target date.
+Award Type: standard, continuing, coop
+Program ID: 503447
+NSF/PD Num: nsf23594
+Status: Cleared
+Posted date (Y-m-d): 2023-05-23
+URL: https://www.nsf.gov/funding/opportunities/gi-geoinformatics/nsf23-594
+Type: Program

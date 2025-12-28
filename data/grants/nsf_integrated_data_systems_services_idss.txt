@@ -1,0 +1,45 @@
+https://www.nsf.gov/funding/opportunities/idss-integrated-data-systems-services/nsf25-544/solicitation
+
+Title: Integrated Data Systems & Services (IDSS)
+Synopsis: The Integrated Data Systems and Services (IDSS) program supports operations-level national-scale cyberinfrastructure systems and services that broadly advance and facilitate open, data-intensive and artificial intelligence-driven science and engineering research, innovation, and education. 
+
+
+Through this solicitation, the IDSS program is accepting proposals for three categories of projects: 
+
+
+
+
+Category I. Development, deployment, and operation of novel national-scale integrated data systems and services, which may include interfacing with or leveraging other existing capabilities, systems and services, as appropriate to the project; 
+
+
+
+
+
+
+Category II.  Transition of established smaller scale, regional, pilot, or prototype data-focused systems and services to national-scale production/operational quality/level. This may also include enhancement and expansion of existing national-scale data-focused operational systems and services; and 
+
+
+
+
+
+
+Category III. Planning grants for future potential development/deployment or transition/enhancement IDSS projects. 
+
+
+
+
+ 
+
+
+NSF and the Office of Advanced Cyberinfrastructure (OAC) have long supported the development of innovative foundational and application-specific cyberinfrastructure resources and systems to address data-intensive research needs at the campus, regional, and community scales, through programs such as Cyberinfrastructure for Sustained Scientific Innovation (CSSI), Campus Cyberinfrastructure (CC*), and other investments. The primary goal of the IDSS program is to support national-scale foundational data cyberinfrastructure that broadly enables data- and artificial intelligence-driven research for many communities. The IDSS program supports foundational transdisciplinary and demonstrably multi-disciplinary projects aimed to broadly impact the science and engineering research and education community. Projects that aim to primarily benefit a single science discipline, domain, project, or application are not supported. 
+
+
+It is recommended that prospective PIs contact program officer(s) from the list of Cognizant Program Officers to gain insight about alignment of their project ideas with the priorities of the IDSS program and Office of Advanced Cyberinfrastructure. As part of contacting Cognizant Program Officers, prospective PIs are also encouraged to ascertain that the focus and budget of their proposed work are appropriate for this solicitation.
+Award Type: standard, coop
+Next due date (Y-m-d): 2026-07-28, 2026-07-28
+Program ID: 506424
+NSF/PD Num: nsf25544
+Status: Cleared
+Posted date (Y-m-d): 2025-08-06
+URL: https://www.nsf.gov/funding/opportunities/idss-integrated-data-systems-services/nsf25-544
+Type: Program

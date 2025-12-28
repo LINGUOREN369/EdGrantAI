@@ -1,0 +1,13 @@
+https://www.nsf.gov/funding/opportunities/dli-del-nsf-dynamic-language-infrastructure-neh-documenting/nsf22-615/solicitation
+
+Title: NSF Dynamic Language Infrastructure - NEH Documenting Endangered Languages (DLI-DEL)
+Synopsis: This funding partnership between the National Science Foundation (NSF) and the National Endowment for the Humanities (NEH) supports projects to develop and advance knowledge concerning dynamic language infrastructure in the context of endangered human languages — languages that are both understudied and at risk of falling out of use. Made urgent by the imminent loss of roughly half of the approximately 7,000 currently used languages, this effort aims to exploit advances in human-language technology to build computational infrastructure for endangered language research. The program supports projects that contribute to data management and archiving, and to the development of the next generation of researchers. Funding can support fieldwork and other activities relevant to the digital recording, documentation and analysis, and archiving of endangered language data, including the preparation of lexicons, grammars, text samples, and databases. Funding is available in the form of one- to three-year senior research grants and conference proposals. Fellowship support is available through a separate funding opportunity administered by NEH.
+Note: a conference proposal should generally be submitted at least a year in advance of the scheduled date of the conference. For additional information about creating and submitting conference proposals, please refer to PAPPG Chapter II. E.9.
+Award Type: standard, continuing
+Next due date (Y-m-d): 2026-02-17, 2026-02-17
+Program ID: 505705
+NSF/PD Num: nsf22615
+Status: Cleared
+Posted date (Y-m-d): 2022-07-15
+URL: https://www.nsf.gov/funding/opportunities/dli-del-nsf-dynamic-language-infrastructure-neh-documenting/nsf22-615
+Type: Program

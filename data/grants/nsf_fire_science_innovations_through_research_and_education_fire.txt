@@ -1,0 +1,46 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Fire Science Innovations through Research and Education (FIRE)
+Synopsis: Wildland fire is a powerful force on the planet, one that is rapidly accelerating in complexity beyond our current understanding. A new approach is needed. This approach requires a proactive and scalable perspective that recognizes the variety and connectedness of components of wildland fire. Coordinated scientific research and education that enables large-scale, cross-cutting breakthroughs to transform our understanding of wildland fire is urgently needed. In an era of rapid change, our society needs forward-looking research built on new frameworks that will realign our relationship with wildland fire.
+The Fire Science Innovations through Research and Education (FIRE) program invites innovative multidisciplinary and multisector investigations focused on convergent research and education activities in wildland fire. All areas of science, engineering, and education supported by the U.S. National Science Foundation are included in this program. Projects developed by a wide array of groups including, for example, academics, educators, scientists, community members, students, industry partners, practitioners, resource managers, and Tribal representatives, working together to generate new knowledge of the interactions among biological, social, geoscientific, and engineering processes encompassing multiple fields, scales, and perspectives on wildland fire are encouraged.
+To advance convergent research and education in wildland fire science, FIRE proposals should demonstrate strengths in one or more of the following areas: (1) new advances in data collection, storage, and sharing relevant to wildland fire dynamics, including Earth observations; (2) new modeling and computational approaches to understand wildland fire (including artificial intelligence and machine learning approaches); (3) new understanding of the cross-scale interactions of wildland fire across local, regional and global extents; (4) new insights into community adaptation and governance relevant to wildland fire; (5) new approaches to reduce the vulnerability of built infrastructure, natural fuels, and social systems to wildland fire; and (6) engagement of a variety of community members and stakeholders to promote a forward-looking approach to wildland fire science.
+NSF manages the review of proposals in consultation with partner organizations. Copies of proposals and unattributed reviews will be shared with the partner organizations, as appropriate.
+FIRE supports research proposals and conference (network) proposals that focus on one or more of the following elements:
+Focus area 1: Next Generation Coupled Fire Models (FIRE-MODEL)
+Understanding wildland fires and smoke requires new predictive approaches and models to capture the full spatial and temporal range of unresolved dynamics. Furthermore, model development efforts necessitate well-coordinated experiments ranging from laboratory to landscape scales, along with state-of-the-art data management and analysis approaches. To reduce the current large uncertainties associated with fire models and to discover new weather-fire coupling phenomena driving the increasing frequency of large-scale fires worldwide, advanced experimental, theoretical, and computational methods are needed. The impacts of improved models include increased accuracy, better integration of Earth observation data, more efficient planning of prescribed burns, effective training of work force, timely warnings, and better management of limited human/equipment resources.
+Successful FIRE-MODEL proposals are suggested to address the following key themes:
+
+Innovative models, methods and algorithms for fire phenomena at disparate spatio-temporal scales, including systematic quantification of various sources of uncertainties and holistic verification and validation of the developed tools and technologies;  
+Improvement of models with key measurable parameters spanning the full array of wildland fire factors as well as methods to bridge gaps of missing data;
+Incorporation of the underlying processes operating on fast and slow timescales, to potentially enable predictive fire ecology, exploration of possible future fire regimes, and forecasting of future wildland fires; and
+Novel mathematical and statistical methodologies and use-inspired technologies to accelerate experiments on wildland fire and smoke dynamics and reliably infer the associated uncertainties; such directions may include but are not limited to surrogate models and digital twins.
+
+Focus area 2: Enhancing Capacity for Fire Resilience in the Wildland-Urban Interface (FIRE-WUI)
+The space where the built environment and wildland vegetation meet is referred to as the wildland-urban interface (hereafter WUI). It represents a critical nexus of potential human-fire interaction, where lives, infrastructure, and communities are often most vulnerable to wildfire. Research related to the complexities of the WUI requires a convergent, multidisciplinary approach to improve understanding of wildland fire, which can inform risk management and response, adaptation and resilience across infrastructures, communities, cultures, and natural environments.
+Considering impacts of wildland fire at the WUI in the context of global change, including demographics, ecosystems, land use and development, FIRE-WUI awards will support research that may for example:
+
+Inform community adaptation and governance relevant to wildland fire;
+Investigate public perceptions and understanding of wildland fire as well as decision making and communication and the resultant impact on livelihoods and cultural heritage; 
+Promote better understanding of the socioeconomic disparities related to the impacts of wildfire on remote rural communities;
+Test and model behaviors of building materials, structures, and infrastructures under wildfire loads;
+Develop novel materials, methods, and technologies for retrofitting existing buildings and remediating buildings following wildfire and smoke events;
+Create robust wildfire risk scenarios and algorithms for evaluating cascading failures and community-scale vulnerability.
+
+Focus area 3: Fire Science Innovations through Research and Education (FIRE) Networks (FIRE-NET)
+FIRE-Network projects will build new collaborative teams to synthesize aspects of wildland fire science and develop strategies for tackling key gaps. These networks will advance wildland fire research, or create new directions in research or education by supporting groups of investigators to communicate and coordinate their research, training, and educational activities across disciplinary, organizational, geographic, and international boundaries. Exchanging knowledge and information across and among different groups is encouraged. Projects will provide opportunities to foster new collaborations, including those with international partners where appropriate, and will address interdisciplinary knowledge and data exchange focused on wildland fire research and education.
+Successful FIRE-NET conference proposals are encouraged to include but are not limited to the following types of activities:
+
+Leveraging existing and developing data resources to support the development of new wildland fire-related research directions and educational activities;
+Employing novel networking strategies and collaborative training technologies to enhance coordination among a variety of fields and knowledge holders;
+Developing community standards for data and meta- data use and management in wildland fire research;
+Developing mechanisms to share information and ideas, such as bringing together disparate data sources including Earth observation data;
+Advancing wildland fire-related science and education through communication, data analysis, ideas sharing, novel collaborations, and workforce development.   
+
+Particular areas of interest for FIRE-NETs include developing partnerships among groups that are not currently working together that might include multiple sectors, such as scientists from various disciplines, government representatives, resource managers, operational organizations, and community members. Small to large scale conference proposals that bring together different parts of the community to build a highly-functioning team are encouraged.
+Next due date (Y-m-d): 2026-04-07, 2026-04-07
+Program ID: 506410
+NSF/PD Num: pd25345Y
+Status: Cleared
+Posted date (Y-m-d): 2025-03-13
+URL: https://www.nsf.gov/funding/opportunities/fire-fire-science-innovations-through-research-education/pd25-345y
+Type: Program

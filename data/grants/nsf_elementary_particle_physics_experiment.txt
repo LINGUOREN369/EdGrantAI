@@ -1,0 +1,17 @@
+https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation
+
+Title: Elementary Particle Physics - Experiment
+Synopsis: All proposals submitted to the Physics Division that are not governed by another solicitation (such as CAREER) must be submitted to its division-wide solicitation: Division of Physics: Investigator-Initiated Research Projects.
+---
+The Experimental Particle Physics (EPP) program explores the fundamental building blocks of matter and their forces by probing, directly or indirectly, particle interactions in a laboratory setting. Major focus areas include direct observation of new phenomena at the highest achievable energies and indirect discovery via precision measurements of known processes. The program provides support for university research at high energy accelerator facilities, development of novel instrumentation and analysis paradigms, and techniques that provide alternate pathways to discovery of new physics beyond the Standard Model.
+The EPP program is organized in the following subareas (Program Elements):
+High Energy Particle Physics (1221): This area supports university research focused primarily on direct discovery using the highest achievable energies.  It includes research support for the ATLAS and CMS experiments at the Large Hadron Collider and studies of discovery reach at current and future collider facilities.
+Precision Particle Physics (156Y): This area supports university research focused on precision measurements of known and often rare processes to discover or constrain deviations from Standard Model expectations. It includes research support for experiments at accelerator facilities, such as the LHCb experiment and neutrino experiments, and non-accelerator experiments using AMO or other techniques.
+Tools for Particle Physics (157Y): This area supports university research efforts to significantly improve or transform current particle physics experimental techniques.  It includes early concept research into new particle detection technologies and development of novel data collection, processing, and analysis capabilities.  Advances in this area are expected from connections to other domains such as AMO, QIS, and AI.
+Proposals should be submitted to the appropriate subarea. Proposals submitted to the EPP program that are determined to be sufficiently complex may, at the discretion of the Program Officer, be subjected to an additional level of review. Proposals that include scientific scope outside of the EPP program may be co-reviewed by other programs.
+Program ID: 505433
+NSF/PD Num: nsf23615
+Status: Cleared
+Posted date (Y-m-d): 2017-05-01
+URL: https://www.nsf.gov/funding/opportunities/elementary-particle-physics-experiment/pd20-1221
+Type: Program

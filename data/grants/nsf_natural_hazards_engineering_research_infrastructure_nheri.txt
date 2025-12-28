@@ -1,0 +1,22 @@
+https://www.nsf.gov/funding/opportunities/nheri-natural-hazards-engineering-research-infrastructure/nsf15-598/solicitation
+
+Title: Natural Hazards Engineering Research Infrastructure (NHERI)
+Synopsis: The planned outcome of this solicitation is to establish the final three awards for the NSF-supported Natural Hazards Engineering Research Infrastructure (NHERI) - Network Coordination Office (NCO), Computational Modeling and Simulation Center (SimCenter), and Post-Disaster, Rapid Response Research (RAPID) Facility. The NCO, SimCenter, and RAPID Facility components for NHERI were originally competed under program solicitation NSF 14-605, Natural Hazards Engineering Research Infrastructure (NHERI) 2015-2019, but no awards for these components were made under that solicitation. Because the NCO, SimCenter, and RAPID Facility are integral awards for an integrated NHERI facility, this solicitation includes information about all four components of NHERI listed in NSF 14-605:  NCO, Cyberinfrastructure (CI), SimCenter, and Experimental Facility (EF).   The RAPID Facility is considered part of the EF cohort.  Under this solicitation, proposals will only be accepted for the NCO, SimCenter, and RAPID Facility. All other proposals will be returned without review.
+NHERI is the next generation of National Science Foundation (NSF) support for a natural hazards engineering research large facility, replacing the George E. Brown, Jr. Network for Earthquake Engineering Simulation (NEES). NEES was established by NSF as a distributed, multi-user, national research infrastructure for earthquake engineering through a facility construction phase during 2000 - 2004, followed by operations of this infrastructure to support research, innovation, and education activities from October 2004 through September 2014.
+NHERI will be a distributed, multi-user, national facility that will provide the natural hazards engineering community with access to research infrastructure (earthquake and wind engineering experimental facilities, cyberinfrastructure, computational modeling and simulation tools, and research data), coupled with education and community outreach activities. NHERI will enable research and educational advances that can contribute knowledge and innovation for the nation's civil infrastructure and communities to prevent natural hazard events from becoming societal disasters.
+NHERI will consist of the following components, established through separate awards:
+
+NCO - one award to be made under this solicitation;
+SimCenter - one award to be made under this solicitation;
+Experimental Facility:  RAPID Facility - one award to be made under this solicitation;
+CI - one award made under NSF 14-605; and
+Experimental Facilities for earthquake engineering and wind engineering research - six or seven awards made under NSF 14-605.
+
+Under this solicitation, one cooperative agreement for the NCO, one cooperative agreement for the SimCenter, and one cooperative agreement for the RAPID Facility are anticipated to commence in early calendar 2016, with a five-year award duration. These three Awardees will not conduct research.  The primary research enabled by NHERI will be conducted by investigators supported through separate NSF awards. The NCO, SimCenter, and RAPID Facility Awardees, along with the other NHERI Awardees and the natural hazards engineering community, will work together, through Governance and Awardee activities, to establish a shared vision for NHERI, set natural hazards engineering research and education agendas and priorities, and make NHERI a value-added and productive research infrastructure.
+Award Type: coop
+Program ID: 503259
+NSF/PD Num: nsf15598
+Status: Current but no longer receiving proposals
+Posted date (Y-m-d): 2015-08-03
+URL: https://www.nsf.gov/funding/opportunities/nheri-natural-hazards-engineering-research-infrastructure/nsf15-598
+Type: Program

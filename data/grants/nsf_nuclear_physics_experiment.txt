@@ -1,0 +1,30 @@
+https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation
+
+Title: Nuclear Physics - Experiment
+Synopsis: All proposals submitted to the Physics Division that are not governed by another solicitation (such as CAREER) must be submitted to its division-wide solicitation: Division of Physics: Investigator-Initiated Research Projects.
+---
+Nuclear physics ranges from the very tiny kernel at the center of all atoms to gigantic stars burning throughout the universe, as understood through the strong and electroweak interactions. It seeks to answer questions such as:　
+
+What are the phases of strongly interacting matter and what roles do they play in the cosmos?
+
+
+What is the internal structure of hadrons in terms of quarks and gluons?
+
+
+What is the role of gluons in mesons, nucleons and nuclei?　
+
+
+What is the nature of the nuclear force that binds protons and neutrons into stable nuclei and rare isotopes?　
+
+
+How much mass do neutrinos have and could they be their own anti-particle? Could neutrinos help us understand why there is more matter than anti-matter in the universe?
+
+Responding to these fundamental questions is part of human nature and leads students as well as other researchers to develop both innovative and incremental advances in nuclear physics and other fields.
+The experimental nuclear physics program supports research at the frontiers of nuclear science, including: properties and behavior of nuclei and nuclear matter under extreme conditions, and/or as they relate to astrophysical phenomena; the quark-gluon basis for the structure and dynamics of hadrons and nuclei; phase transitions of nuclear matter from normal nuclear density and temperature to the predicted high-temperature quark-gluon plasma; basic interactions and fundamental symmetries; and neutrino properties as determined through neutrino-less double beta decay. This research involves many venues, including low-energy to multi-GeV electrons and photons; intermediate-energy light ions; low-energy to relativistic heavy ions, including radioactive beams; cold and ultra-cold neutrons; weakly decaying nuclei; as well as non-accelerator-based experiments. Proposals that include scientific scope outside the program may be co-reviewed with other programs within the Physics Division and/or other Divisions. Proposals submitted to the program that are determined to be more complex may, at the discretion of the Program Officer, be subjected to an additional level of review.
+The program supports university user groups executing experiments at a large number of laboratories and facilities in the United States and abroad.  The program also supports smaller accelerator facilities, such as those at Florida State University and the University of Notre Dame. Some awards are co-funded with other programs in the Physics Division and in other divisions.
+Program ID: 505441
+NSF/PD Num: nsf23615
+Status: Cleared
+Posted date (Y-m-d): 2017-05-01
+URL: https://www.nsf.gov/funding/opportunities/nuclear-physics-experiment/pd24-7201
+Type: Program

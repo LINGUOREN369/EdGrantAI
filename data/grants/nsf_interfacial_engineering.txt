@@ -1,0 +1,29 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Interfacial Engineering
+Synopsis: The Interfacial Engineering program is part of the Chemical Process Systems cluster, which also includes: 1) the Catalysis program; 2) the Electrochemical Systems program; and 3) the Process Systems, Reaction Engineering, and Molecular Thermodynamics program.
+The goal of the Interfacial Engineering program is to support fundamental research on atomic- and molecular-scale interfacial phenomena and engineering of interfacial properties, processes, and materials. Fundamental understanding of the thermodynamic, kinetic, and transport properties of interfacial systems underpins improvements in chemical process efficiency and resource utilization. As such, proposed research should have a clear vision for how the results will translate to practice in or otherwise advance industrial chemical or biochemical processes. The program encourages proposals that present new approaches to long-standing challenges or address emerging research areas and technologies. Collaborative and interdisciplinary proposals are also encouraged, particularly those that involve a combination of experiment with theory or modeling.
+Major research areas of interest in the program include:
+
+Chemical separations: Design of scalable mass separating agents (for example, sorbents and membranes); field-induced separation processes that target a significant reduction in energy and/or materials requirements
+Biological separations: Downstream processing of biologically-derived chemicals, therapeutic proteins, and biologics for increased throughput and purity; engineering interfaces for molecular recognition
+Interfacial phenomena at engineered interfaces and surfaces: Kinetics and thermodynamics of adsorption/desorption and complex interactions of molecules and ions at engineered interfaces and surfaces within chemical process systems
+Nanoconfinement and engineered surfaces: Theory, modeling, and/or approaches for examining transport and thermodynamic properties of fluids within nanopores, under nanoconfinement, or at highly engineered surfaces within chemical process systems
+
+NOTE: Studies that examine chemical reaction and transport phenomena related to electrochemical system performance, including batteries, fuel cells, flow batteries, electrochemical conversions, and related components, should be directed to the Electrochemical Systems program (CBET 7644). Studies that focus on interactions of nanomaterials and nanosystems, particularly as relevant to environmental or biological applications, may be more appropriate for the Nanoscale Interactions program (CBET 1179). Studies of how interfacial dynamics affect transport or bulk properties of multiphase systems may be more appropriate for the Particulate and Multiphase Processes program (CBET 1415). Please consult with program directors prior to submission if you have questions about programmatic fit.
+Innovative proposals outside of these specific interest areas may be considered. The Principal Investigator is encouraged contact the Program Director prior to submission to avoid the possibility of the proposal being returned without review.
+INFORMATION COMMON TO MOST CBET PROGRAMS
+Proposals should address the novelty and/or potentially transformative nature of the proposed work compared to previous work in the field. Also, it is important to address why the proposed work is important in terms of engineering science, as well as to also project the potential impact on society and/or industry of success in the research. The novelty or potentially transformative nature of the research should be included, as a minimum, in the Project Summary of each proposal.
+The duration of unsolicited proposal awards in CBET is generally up to three years.  Single-investigator award budgets typically include support for one graduate student (or equivalent) and up to one month of principal investigator time per year (awards for multiple investigator projects are typically larger). Proposal budgets that are much larger than typical should be discussed with the Program Director prior to submission. Proposers can view budget amounts and other information from recent awards made by this program via the “What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)” link towards the bottom of this page.
+Faculty Early Career Development (CAREER) program proposals are strongly encouraged. Award duration is five years. The submission deadline for Engineering CAREER proposals is in July every year. Learn more in the CAREER program description. 
+Proposals for Conferences, Workshops, and Supplements: PIs are strongly encouraged to discuss their requests with the Program Director before submission of the proposal.
+Grants for Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research (EAGER) are also considered when appropriate. Please note that proposals of these types must be discussed with the program director before submission. Grant Opportunities for Academic Liaison with Industry (GOALI) proposals that integrate fundamental research with translational results and are consistent with the application areas of interest to each program are also encouraged. Please note that RAPID, EAGER, and GOALI proposals can be submitted anytime during the year. Details about RAPID, EAGER, and GOALI are available in theProposal & Award Policies & Procedures Guide (PAPPG), Part 1, Chapter II, Section E.
+COMPLIANCE: Proposals which are not compliant with the Proposal & Award Policies & Procedures Guide (PAPPG) will be returned without review
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 506071
+NSF/PD Num: pd231417
+Status: Cleared
+Posted date (Y-m-d): 2023-04-03
+URL: https://www.nsf.gov/funding/opportunities/interfacial-engineering/pd23-1417
+Type: Program

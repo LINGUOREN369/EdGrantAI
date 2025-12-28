@@ -1,0 +1,25 @@
+https://www.nsf.gov/funding/opportunities/bring-synbio-biomedical-research-initiative-next-gen-biotechnologies/nsf24-603/solicitation
+
+Title: Biomedical Research Initiative for Next-Gen BioTechnologies - SynBio Control (BRING SynBio)
+Synopsis: The National Science Foundation Directorate for Engineering (NSF/ENG) and the National Institute of Biomedical Imaging and Bioengineering (NIH/NIBIB) announce the Biomedical Research Initiative for Next-Gen BioTechnologies – SynBio Control (BRING-SynBio) Solicitation. The BRING – SynBio Control solicitation aims to accelerate the translation of novel fundamental synthetic and engineering biology advances to early-stage biomedical technologies through interagency collaboration.
+Projects responsive to the BRING–SynBio solicitation will include a two-phased plan to pursue proof of principle synthetic and engineering biology research (Phase I) and exploratory research to translate findings toward biomedical technologies (Phase II). Phase II research should build on the projected outcomes of Phase I. NSF will provide support for fundamental research activity in Phase I. NIH will provide support for exploratory biomedical engineering technology development in Phase II. Successful completion of Phase I milestones will be administratively evaluated by NIH/NIBIB to determine eligibility to transition to Phase II. This transition is neither automatic nor guaranteed.
+Potential areas of interest for BRING–SynBio include but are not limited to: 
+Novel design principles for the characterization and design of new synthetic biology tools and parts:
+
+Gene circuit designs that enhance robustness, reliability, predictability, and tuneability of current designs.
+Modular designs for tools and parts that, when combined, result in predictable network outcomes.
+New strategies to improve upon size limitations of gene circuit designs.
+
+Regulation and control of biological processes in cells/tissues:
+
+Synthetic gene regulatory networks for controlled modulation of gene expression and dynamic noise filtering.
+Design of synthetic circuits that incorporate novel feedback control strategies.
+
+Projects that address only one of the phases, do not pursue advances in synthetic biology that incorporate biological control theory, or do not address a challenge with clear relevance to the mission of NIBIB are non-responsive. Non-responsive projects will be returned without review.
+Award Type: standard
+Program ID: 506165
+NSF/PD Num: nsf24603
+Status: Cleared
+Posted date (Y-m-d): 2024-09-04
+URL: https://www.nsf.gov/funding/opportunities/bring-synbio-biomedical-research-initiative-next-gen-biotechnologies/nsf24-603
+Type: Program

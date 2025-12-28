@@ -1,0 +1,24 @@
+https://www.nsf.gov/funding/opportunities/nqvl-nsf-national-quantum-virtual-laboratory-quantum-testbeds/nsf24-586/solicitation
+
+Title: NSF National Quantum Virtual Laboratory - Quantum Testbeds (NQVL)
+Synopsis: The National Quantum Initiative (NQI) Act1 aims to ensure the continuing leadership of the United States (U.S.) in quantum information science and technology. In conformance with the NQI goals, an argument2-5 was set forth for a renewed emphasis on identifying and fostering early adoption of quantum technologies to transform the field of Quantum Information Science and Engineering (QISE) and to accelerate broader impacts on society. A systematic approach to maturing quantum technology platforms by integrating end-users and potential customers from other fields of science and engineering and other sectors of the economy into cycles of research, development, and demonstration should lower the barriers for end-users to pioneer new applications. NSF support for use-inspired and translational research in QISE, combined with continued strong support of the underlying foundational research, is anticipated to accelerate development of a market for quantum technologies.
+With this program solicitation, the Foundation is taking the next step in implementing the National Quantum Virtual Laboratory (NQVL) concept as an overarching shared infrastructure designed to facilitate the translation from basic science and engineering to the resultant technology, while at the same time emphasizing and advancing its scientific and technical value. The NQVL aims to develop and utilize use-inspired and application-oriented quantum technologies. In the process, NQVL researchers will explore quantum frontiers6, foster the development of QISE education and workforce development strategies, engage in outreach activities at all levels, and promote input and participation from the full spectrum of talent in QISE, thereby lowering barriers at all entry points of the research enterprise. Engagement with all sectors of the United States (U.S.) QISE community will be necessary for this initiative to succeed, and, indeed, the project is designed to include participation from a full spectrum of organizations who have expertise to contribute. In particular, NSF recognizes that the involvement of industry partners is essential and will welcome these to be a part of the overall structure. Partnerships with other U.S. Federal agencies under the NQI umbrella are also encouraged.
+While this solicitation lays out the vision for the entire NQVL program that includes Quantum Science and Technology Demonstration (QSTD) projects, support for enabling technologies through Transformative Advances in Quantum Systems (TAQS), as well as a central coordination hub, only proposals for Design- and Implementation-phase QSTDs are solicited at this time.
+Submission of a QSTD:Design proposal is contingent upon the existence of a QSTD:Pilot project in the same topical area, and the positive recommendation from the Conceptual Design Review of the QSTD:Pilot project. The QSTD:Design project builds on progress made in the QSTD:Pilot phase.
+Submission of a QSTD:Implementation proposal is contingent upon the existence of a QSTD:Design project in the same topical area, and the positive recommendation from the Preliminary Design Review of the QSTD:Design project. The QSTD:Implementation project builds on progress made in the QSTD:Design phase.
+It is required that prospective PIs contact the NQVL Program Officer(s) as soon as possible, but not later than two weeks before submitting a proposal in response to this solicitation, to ascertain that the focus and budget of their proposal is appropriate for this solicitation.
+
+H.R.6227 - National Quantum Initiative Act, https://www.congress.gov/bill/115th-congress/house-bill/6227
+Accelerating Progress Towards Practical Quantum Advantage, A National Science Foundation Project Scoping Workshop (2022), https://arxiv.org/abs/2210.14757
+Quantum Computer Systems for Scientific Discovery, PRX Quantum 2, 017001 (2021) https://doi.org/10.1103/PRXQuantum.2.017001
+Development of Quantum InterConnects for Next-Generation Information Technologies, PRX Quantum 2, 017002 (2021) https://doi.org/10.1103/PRXQuantum.2.017002
+Quantum Simulators: Architectures and Opportunities, PRX Quantum 2, 017003 (2021) https://doi.org/10.1103/PRXQuantum.2.017003
+Quantum Frontiers: Report on Community Input to the Nation's Strategy for Quantum Information Science, https://www.quantum.gov/wp-content/uploads/2020/10/QuantumFrontiers.pdf
+Award Type: coop
+Next due date (Y-m-d): 2026-04-07, 2026-04-07, 2026-04-07, 2026-04-07
+Program ID: 506264
+NSF/PD Num: nsf24586
+Status: Cleared
+Posted date (Y-m-d): 2024-06-27
+URL: https://www.nsf.gov/funding/opportunities/nqvl-nsf-national-quantum-virtual-laboratory-quantum-testbeds/nsf24-586
+Type: Program

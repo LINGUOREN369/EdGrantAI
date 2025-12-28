@@ -1,0 +1,27 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Manufacturing Systems Integration (MSI)
+Synopsis: The Manufacturing Systems Integration (MSI) Program supports fundamental research addressing the opportunities and challenges that digital technologies present for the next industrial revolution, with particular emphasis on the digital integration of design and manufacturing within the larger life cycle ecosystem.  Manufacturing Systems Integration proposals should address underlying principles and advances that are generalizable for globally competitive and world leading industries. Connectivity, automation, and secure collaboration are examples of areas that are integral to digital environments capable of supporting the innovation, realization and sustainment of manufactured products and systems in the value creation process. 
+ 
+Fundamental generalizable research for manufacturing systems integration might include, for example:
+ 
+
+Digital representation, protocols, and/or processes for integration and collaboration in manufacturing systems (machines and/or humans)
+Intelligent self-organizing production systems
+Ease of use, interoperability and seamless integration of technologies, machines, and humans
+Service-oriented architectures and systems
+Data sets that are compatible and usable across platforms
+Reliable and secure communications within and across the manufacturing value chain
+Integration of distributed manufacturing systems across time and space, including incorporating both legacy and leading-edge equipment and technologies
+Methods for assessing the impact and value of externalities throughout the life cycle within the digital environment
+
+ 
+ 
+Interdisciplinary, convergent proposals that bring diverse perspectives, populations, disciplines, and capabilities together are welcome.  It is strongly encouraged and expected that investigators discuss their ideas with a MSI program director well in advance of proposal submission.
+Proposals accepted anytime: 1
+Program ID: 505941
+NSF/PD Num: pd23229Y
+Status: Cleared
+Posted date (Y-m-d): 2023-01-11
+URL: https://www.nsf.gov/funding/opportunities/msi-manufacturing-systems-integration/pd23-229y
+Type: Program

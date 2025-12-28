@@ -1,0 +1,18 @@
+https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure/nsf24-530/solicitation
+
+Title: Campus Cyberinfrastructure (CC*)
+Synopsis: The Campus Cyberinfrastructure (CC*) program invests in coordinated campus-level cyberinfrastructure improvements, innovation, integration, and engineering for science applications and distributed research projects. Projects that help overcome disparities in cyber-connectivity associated with geographic location, and thereby advance the geography of innovation and enable populations based in these locales to become more nationally competitive in science, technology, engineering, and mathematics (STEM) research and education are particularly encouraged. Science-driven requirements are the primary motivation for any proposed activity.
+CC* awards will be supported in five program areas: 
+
+Area (1) Data Driven Networking Infrastructure (Campus or Region), 
+Area (2) Computing and the Computing Continuum (Campus or Region), 
+Area (3) Network Integration and Applied Innovation (Small or Large), 
+Area (4) Data Storage and Digital Archives, (Campus or Region), and 
+Area (5) Strategy (Campus or Region).
+Award Type: standard, continuing
+Program ID: 504748
+NSF/PD Num: nsf24530
+Status: Waiting for new publication
+Posted date (Y-m-d): 2024-01-23
+URL: https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure/nsf24-530
+Type: Program

@@ -1,0 +1,11 @@
+https://www.nsf.gov/funding/opportunities/ios-division-integrative-organismal-systems-core-programs/nsf24-546/solicitation
+
+Title: Behavioral Systems
+Synopsis: The Behavioral Systems Cluster supports research in the area of integrative animal behavior to understand how and why individuals and groups of animals do what they do in nature. Integrative projects that cross multiple levels of analysis to uncover connections between the development, mechanisms, adaptive value, and evolutionary history of behavior are encouraged.  The Cluster will consider both species-specific and comparative studies, as well as modeling and theoretical approaches that use animal systems to discover and explore overarching principles of the biology of behavior, and to advance a complete understanding of the integrated behavioral phenotype from genes to ecosystems.  The program recognizes that behavioral phenotypes play a key role in animal responses to pressing environmental challenges, and thus, studies of the role of animal behavior in responses to urbanization and other environmental change, and disease dynamics are encouraged.  Understanding human behavior per se is not a specific goal of the cluster, but the cluster will consider comparative projects involving humans.  Research submitted to this cluster should be driven by behavioral questions; projects that use behavior as an assay to answer questions about physiology, neuroscience or other areas of organismal biology are not appropriate and should go to one of the other clusters in IOS as described.  Projects where the driving question is focused on populations, communities, or ecosystems, or on processes by which evolution occurs, should go to programs in the Division of Environmental Biology (DEB).
+Animal Behavior Program The Cluster supports these broad integrative goals by supporting research proposed through the IOS core solicitation, EAGERs, RAPIDs and other special funding initiatives as well as selected seminars/conferences/workshops.  The Animal Behavior program will consider integrative projects of all sizes and timelines, including long term projects and those based on long term data.
+Program ID: 504676
+NSF/PD Num: nsf24546
+Status: Cleared
+Posted date (Y-m-d): 2011-08-15
+URL: https://www.nsf.gov/funding/opportunities/behavioral-systems/pd11-7659
+Type: Program

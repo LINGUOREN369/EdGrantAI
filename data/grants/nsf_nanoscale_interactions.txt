@@ -1,0 +1,33 @@
+https://www.nsf.gov/policies/pappg
+
+Title: Nanoscale Interactions
+Synopsis: The Nanoscale Interactions program is part of the Environmental Engineering and Sustainability cluster, which also includes: 1) the Environmental Engineering program; and 2) the Environmental Sustainability program.
+The goal of the Nanoscale Interactions program is to support research to advance fundamental and quantitative understanding of the interactions of nanomaterials and nanosystems with biological and environmental media.
+Materials of interest include one- to three-dimensional nanostructures, heterogeneous nano-bio hybrid assemblies, dendritic and micelle structures, quantum dots, and other nanoparticles. Such nanomaterials and systems frequently exhibit novel physical, chemical, photonic, electronic, and biological behavior as compared to the bulk scale.  Collaborative and interdisciplinary proposals are encouraged.
+Research areas supported by the program include:
+
+Characterization of interactions at the interfaces of nanomaterials and nanosystems, including both simple nanoparticles and complex and/or heterogeneous composites and nanosystems, with surrounding biological and environmental media;
+Development of predictive tools based on the fundamental behavior of nanostructures to advance cost-effective and environmentally benign processing and engineering solutions over full-life material cycles;
+Examination of the transport, interaction, and impact of nanostructured materials and nanosystems on biological systems and the environment;
+Simulations of nanoparticle behavior at interfaces, in conjunction with experimental comparisons, and new theories and simulation approaches for determining the transport and transformation of nanoparticles in various media; and
+Investigations of quantum vibronic and spin phenomena with correlations to nano phenomena.
+
+The Nanoscale Interactions program will support exploratory research projects on nanoscale interactions of quantum effects which explain macroscopic changes and physiological and metabolic processes; investigate quantum vibration and electron spin to elucidate nano phenomena and produce quantitative data and evidence of quantum effects.
+Research in these areas will enable the design of nanostructured materials and heterogeneous nanosystems with desired chemical, electronic, photonic, biological, and mechanical properties for optimal and sustainable handling, manufacture, and utilization.
+NOTE: Studies that focus on fundamental research concerning atomic- and molecular-scale interfacial phenomena and engineering of interfacial properties, processes, and materials, particularly as relevant towards advancing industrial chemical or biochemical processes, may be more appropriate for the Interfacial Engineering program (CBET 1417). Please consult with program directors prior to submission if you have questions about programmatic fit.
+Innovative proposals outside of these specific interest areas may be considered. However, prior to submission, it is recommended that the Principal Investigator contact the program director to avoid the possibility of the proposal being returned without review.
+INFORMATION COMMON TO MOST CBET PROGRAMS
+Proposals should address the novelty and/or potentially transformative nature of the proposed work compared to previous work in the field.  Also, it is important to address why the proposed work is important in terms of engineering science, as well as to also project the potential impact on society and/or industry of success in the research.  The novelty or potentially transformative nature of the research should be included, as a minimum, in the Project Summary of each proposal.
+The duration of unsolicited proposal awards in CBET is generally up to three years.  Single-investigator award budgets typically include support for one graduate student (or equivalent) and up to one month of PI time per year (awards for multiple investigator projects are typically larger). Proposal budgets that are much larger than typical should be discussed with the program director prior to submission. Proposers can view budget amounts and other information from recent awards made by this program via the “What Has Been Funded (Recent Awards Made Through This Program, with Abstracts)” link towards the bottom of this page.
+Faculty Early Career Development (CAREER) program proposals are strongly encouraged.  Award duration is five years.  The submission deadline for Engineering CAREER proposals is in July every year. Learn more in the CAREER program description. 
+Proposals for Conferences, Workshops, and Supplements: PIs are strongly encouraged to discuss their requests with the program director before submission of the proposal.
+Grants for Rapid Response Research (RAPID) and EArly-concept Grants for Exploratory Research (EAGER) are also considered when appropriate. Please note that proposals of these types must be discussed with the program director before submission. Grant Opportunities for Academic Liaison with Industry (GOALI) proposals that integrate fundamental research with translational results and are consistent with the application areas of interest to each program are also encouraged.  Please note that RAPID, EAGER, and GOALI proposals can be submitted anytime during the year. Details about RAPID, EAGER, and GOALI are available in the Proposal & Award Policies & Procedures Guide (PAPPG), Part 1, Chapter II, Section E: Types of Proposals.  
+Compliance: Proposals that are not compliant with the Proposal & Award Policies & Procedures Guide (PAPPG) will be returned without review.
+Award Type: standard, continuing
+Proposals accepted anytime: 1
+Program ID: 506129
+NSF/PD Num: pd231179
+Status: Cleared
+Posted date (Y-m-d): 2023-04-03
+URL: https://www.nsf.gov/funding/opportunities/nanoscale-interactions/pd23-1179
+Type: Program

@@ -1,0 +1,10 @@
+https://www.nsf.gov/funding/opportunities/innovation-infrastructure-innovation-biological-research/nsf23-578/solicitation
+
+Title: Innovation: Bioinformatics
+Synopsis: The Bioinformatics Programmatic Area supports the design of novel and innovative bioinformatics approaches that have the potential to become part of the cyberinfrastructure that will advance or transform biological understanding and that has the potential to be broadly applicable in biology. Proposed projects may be focused on any biological process that will be better understood through the development of computational tools and approaches to acquire, model, or analyze biological information. The scope of the proposed project should include one discrete or several tightly coupled problems in biological informatics or data science that addresses a biological research problem that can include but is not limited to: novel databases, including standards, ontologies, architectures, and interoperability; algorithms or software; tools for data analysis and integrating across biological scales; or scientific workflows. However, projects that develop tools for computer and information science, math or statistics, with no clear application to biology will be returned without review. Projects are expected to have a significant application to one or more biological science questions and have the potential to be used by a community of researchers beyond a single research team.
+Program ID: 505835
+NSF/PD Num: nsf23578
+Status: Cleared
+Posted date (Y-m-d): 2020-08-19
+URL: https://www.nsf.gov/funding/opportunities/innovation-bioinformatics/pd20-164y
+Type: Program
