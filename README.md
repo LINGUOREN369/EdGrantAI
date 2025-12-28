@@ -473,6 +473,25 @@ This helps nonprofits avoid wasting 30–50 hours on ineligible grants.
 
 Use one (or more) of the options below to refresh the grant source files under `data/grants/`, then rebuild profiles.
 
+- Grants Refresh (one command)
+  - Run: `make grants-refresh`
+  - What it does:
+    - Auto-detects your CSV (prefers `data/NSF_database/nsf_funding.csv`)
+    - Writes `.txt` files to `data/grants/` (overwrites existing)
+    - Skips non-grants (e.g., “Dear colleague letter”) and rows without a valid Solicitation URL
+    - Fetches each solicitation page and keeps only the selected sections with clear headers:
+      - “I. Introduction”
+      - “II. Program Description”
+      - “III. Award Information”
+      - “IV. Eligibility Information”
+      - Also recognizes “Summary of Program Requirements” or “Synopsis of Program” when present
+    - Requires all four I–IV sections to appear on the page; otherwise the item is skipped and any existing `.txt` is pruned
+    - Does not build profiles (run `make grants-batch` or `make grants-all` afterwards)
+  - Customize:
+    - `CSV=path/to/your.csv make grants-refresh`
+    - `OUT_DIR=path/to/output make grants-refresh`
+  - Requires internet access (to fetch and extract the solicitation sections)
+
 - From a maintained CSV (recommended)
   - Place your CSV at `data/NSF_database/nsf_funding.csv` (or pass a custom path).
   - Build `.txt` files (URL on line 1, CSV fields, and page text):
