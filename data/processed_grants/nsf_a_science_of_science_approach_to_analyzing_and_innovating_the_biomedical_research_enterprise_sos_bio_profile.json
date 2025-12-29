@@ -1,0 +1,97 @@
+{
+  "grant_id": "nsf_a_science_of_science_approach_to_analyzing_and_innovating_the_biomedical_research_enterprise_sos_bio",
+  "created_at": "2025-12-28T20:57:10.326277-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise",
+    "SoS:BIO",
+    "National Science Foundation",
+    "NSF",
+    "National Institutes of Health",
+    "NIH",
+    "biomedical research enterprise",
+    "science of science policy research community",
+    "Social, Behavioral and Economic Sciences",
+    "SBE Directorate",
+    "basic research on people and society",
+    "SBE sciences",
+    "human behavior and social organizations",
+    "Science of Science: Discovery, Communication and Impact Program",
+    "SoS:DCI",
+    "National Institute of General Medical Sciences",
+    "NIGMS",
+    "basic biomedical research",
+    "scientific research enterprise",
+    "partnering",
+    "high-quality research",
+    "diverse, innovative, productive and efficient scientific workforce",
+    "future scientific leaders",
+    "interdisciplinary research",
+    "broadening participation",
+    "standard grant",
+    "continuing grant",
+    "number of awards",
+    "limited eligibility",
+    "Unaffiliated individuals",
+    "Proposal & Award Policies & Procedures Guide",
+    "PAPPG"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "broadening participation",
+        "confidence": 1.0,
+        "sources": [
+          "broadening participation"
+        ]
+      },
+      {
+        "tag": "education system partnerships",
+        "source_text": "partnering",
+        "confidence": 0.5556,
+        "sources": [
+          "partnering"
+        ]
+      },
+      {
+        "tag": "research-based learning",
+        "source_text": "high-quality research",
+        "confidence": 0.5513,
+        "sources": [
+          "high-quality research"
+        ]
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "limited geographic eligibility",
+        "source_text": "limited eligibility",
+        "confidence": 0.8129,
+        "sources": [
+          "limited eligibility"
+        ]
+      }
+    ]
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-02-09"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-02-09, 2026-02-09",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_a_science_of_science_approach_to_analyzing_and_innovating_the_biomedical_research_enterprise_sos_bio.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/sosbio-science-science-approach-analyzing-innovating-biomedical/nsf23-569/solicitation"
+  }
+}

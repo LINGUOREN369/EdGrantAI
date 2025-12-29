@@ -1,0 +1,135 @@
+{
+  "grant_id": "nsf_advanced_technologies_and_instrumentation_for_the_astronomical_sciences_ati",
+  "created_at": "2025-12-28T21:01:44.246632-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Advanced Technologies and Instrumentation for the Astronomical Sciences",
+    "ATI program",
+    "Division of Astronomical Sciences",
+    "federal funding support",
+    "ground-based astronomy",
+    "National Optical-Infrared Astronomy Research Laboratory",
+    "National Solar Observatory",
+    "Daniel K. Inouye Solar Telescope",
+    "National Radio Astronomy Observatory",
+    "Green Bank Observatory",
+    "Arecibo Observatory",
+    "Vera Rubin Observatory",
+    "Gemini Observatory",
+    "Atacama Large Millimeter/submillimeter Array",
+    "advanced technologies and instrumentation",
+    "mid-scale projects",
+    "observational facilities",
+    "management of the electromagnetic spectrum",
+    "individual investigators",
+    "small groups",
+    "observational studies",
+    "theoretical studies",
+    "laboratory studies",
+    "archival data studies",
+    "junior faculty",
+    "postdoctoral fellows",
+    "undergraduate students",
+    "Research in Undergraduate Institutions",
+    "Computational and Data Enabled Science and Engineering",
+    "CDS&E proposals",
+    "Principal Investigators",
+    "Research Experiences for Undergraduates",
+    "Research Opportunity Awards",
+    "Research Experiences for Teachers",
+    "Alliances for Graduate Education and the Professoriate",
+    "Astrophotonics",
+    "National Science Foundation",
+    "Instrumentation",
+    "high contrast adaptive optics systems",
+    "extreme-precision radial velocity techniques",
+    "high resolution spectrometers",
+    "interferometers",
+    "massively multiplexed spectroscopy techniques",
+    "imaging detectors",
+    "telescopes",
+    "antennae",
+    "optics",
+    "optical devices",
+    "correlators",
+    "elements of radio cameras",
+    "Accomplishment-Based Renewal proposals",
+    "solicitation",
+    "annual Principal Investigators meeting",
+    "technology and instrumentation",
+    "U.S. astronomical community",
+    "research programs",
+    "development of new technologies",
+    "ground based astronomy",
+    "support for advanced technology development",
+    "concept feasibility studies"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "undergraduate research experiences",
+        "source_text": "Research in Undergraduate Institutions",
+        "confidence": 0.6894,
+        "sources": [
+          "undergraduate students",
+          "Research in Undergraduate Institutions",
+          "Research Experiences for Teachers"
+        ]
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "undergraduate students",
+        "confidence": 0.5945,
+        "sources": [
+          "undergraduate students"
+        ]
+      },
+      {
+        "tag": "undergraduate mentorship programs",
+        "source_text": "undergraduate students",
+        "confidence": 0.5732,
+        "sources": [
+          "undergraduate students"
+        ]
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "undergraduate students",
+        "source_text": "undergraduate students",
+        "confidence": 1.0,
+        "sources": [
+          "undergraduate students"
+        ]
+      },
+      {
+        "tag": "postdoctoral researchers",
+        "source_text": "postdoctoral fellows",
+        "confidence": 0.8242,
+        "sources": [
+          "postdoctoral fellows"
+        ]
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-11-16"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-11-16, 2026-11-16",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_advanced_technologies_and_instrumentation_for_the_astronomical_sciences_ati.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ati-advanced-technologies-instrumentation-astronomical-sciences/nsf22-627/solicitation"
+  }
+}

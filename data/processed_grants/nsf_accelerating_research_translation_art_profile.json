@@ -1,0 +1,228 @@
+{
+  "grant_id": "nsf_accelerating_research_translation_art",
+  "created_at": "2025-12-28T20:59:18.325246-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Accelerating Research Translation",
+    "U.S. National Science Foundation",
+    "academic research",
+    "tangible solutions",
+    "public benefit",
+    "scientific and economic leadership",
+    "translational research ecosystems",
+    "Institutions of Higher Education",
+    "geography of our nation",
+    "sustained impacts",
+    "primary aim",
+    "technology transfer offices",
+    "intellectual property",
+    "entrepreneurial training teams",
+    "scientific, technological and engineering fields",
+    "Tracks",
+    "research translation",
+    "technology transfer",
+    "sustained economic and collective impacts",
+    "research translation readiness level",
+    "research expenditures",
+    "technology transfer and entrepreneurship related activities",
+    "invention disclosures",
+    "patents",
+    "licenses",
+    "royalties",
+    "partnerships with industry",
+    "non-profits",
+    "ART program",
+    "institutional infrastructure",
+    "engaged scholarship",
+    "experiential opportunities",
+    "science and engineering education",
+    "community-engaged scholarship",
+    "research translation-related activities",
+    "innovations",
+    "track",
+    "Accelerating Technology Transfer",
+    "Growing Capacity for Research Translation",
+    "Technology Transfer Resource Centers",
+    "Education and Training",
+    "Coordinating Accelerating Research Translation",
+    "low to medium RTRL",
+    "higher RTRL",
+    "low RTRL",
+    "strong performance",
+    "standard grant",
+    "continuing grant",
+    "cooperative agreement",
+    "anticipated number of awards",
+    "eligibility requirements",
+    "Mentoring Institution",
+    "research translation ecosystem",
+    "research outcomes",
+    "entrepreneurship",
+    "academic institutions and research activities",
+    "innovation potential",
+    "research translation activities",
+    "proposal preparation",
+    "evaluation plan",
+    "sustainability plan",
+    "impact",
+    "research translation readiness level",
+    "education nonprofit",
+    "minority-serving institutions"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "engineering education",
+        "source_text": "science and engineering education",
+        "confidence": 0.7316,
+        "sources": [
+          "science and engineering education"
+        ]
+      },
+      {
+        "tag": "science education",
+        "source_text": "science and engineering education",
+        "confidence": 0.7274,
+        "sources": [
+          "science and engineering education"
+        ]
+      },
+      {
+        "tag": "evaluation and assessment",
+        "source_text": "evaluation plan",
+        "confidence": 0.7176,
+        "sources": [
+          "evaluation plan"
+        ]
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "science and engineering education",
+        "confidence": 0.6947,
+        "sources": [
+          "science and engineering education"
+        ]
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "science and engineering education",
+        "confidence": 0.682,
+        "sources": [
+          "science and engineering education"
+        ]
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "science and engineering education",
+        "confidence": 0.6528,
+        "sources": [
+          "science and engineering education"
+        ]
+      },
+      {
+        "tag": "STEM education research",
+        "source_text": "science and engineering education",
+        "confidence": 0.631,
+        "sources": [
+          "science and engineering education"
+        ]
+      },
+      {
+        "tag": "education system partnerships",
+        "source_text": "partnerships with industry",
+        "confidence": 0.6307,
+        "sources": [
+          "partnerships with industry"
+        ]
+      },
+      {
+        "tag": "elementary STEM education",
+        "source_text": "science and engineering education",
+        "confidence": 0.6245,
+        "sources": [
+          "science and engineering education"
+        ]
+      },
+      {
+        "tag": "undergraduate mentorship programs",
+        "source_text": "Mentoring Institution",
+        "confidence": 0.604,
+        "sources": [
+          "Mentoring Institution"
+        ]
+      },
+      {
+        "tag": "instructional innovation",
+        "source_text": "innovations",
+        "confidence": 0.5974,
+        "sources": [
+          "innovations"
+        ]
+      },
+      {
+        "tag": "research-based learning",
+        "source_text": "academic research",
+        "confidence": 0.591,
+        "sources": [
+          "academic research"
+        ]
+      },
+      {
+        "tag": "education improvement",
+        "source_text": "education nonprofit",
+        "confidence": 0.5826,
+        "sources": [
+          "education nonprofit"
+        ]
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "minority-serving institutions",
+        "confidence": 0.9479,
+        "sources": [
+          "minority-serving institutions"
+        ]
+      },
+      {
+        "tag": "industry partner",
+        "source_text": "partnerships with industry",
+        "confidence": 0.7316,
+        "sources": [
+          "partnerships with industry"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profits",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-15"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-15, 2026-01-15",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_accelerating_research_translation_art.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/art-accelerating-research-translation/nsf25-548/solicitation"
+  }
+}

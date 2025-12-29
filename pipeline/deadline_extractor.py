@@ -25,7 +25,17 @@ from typing import Dict, List, Optional
 
 
 _LINE_HINT = re.compile(
-    r"\b(deadline|due date|due|submit by|submission deadline|closing date|loi due|letter of intent)\b",
+    r"\b("
+    r"deadline|due date|due|submit by|submission deadline|closing date|"
+    r"target date|submission window|full proposal|full proposals|"
+    r"loi due|letter of intent|pre[- ]?proposal|preproposal"
+    r")\b",
+    re.IGNORECASE,
+)
+
+# Lines that should NOT be considered as deadlines even if a date is present
+_NEGATIVE_HINT = re.compile(
+    r"\b(posted|posted date|post date|posted on|publish|published|publication|release date|posted date \(y-m-d\))\b",
     re.IGNORECASE,
 )
 
@@ -85,9 +95,13 @@ def extract_deadline_info(text: str) -> Dict:
         line = raw.strip()
         if not line:
             continue
+        # Skip lines that clearly refer to posting/publishing rather than due dates
+        if _NEGATIVE_HINT.search(line):
+            continue
         if _ROLLING.search(line):
             rolling = True
-        if _LINE_HINT.search(line) or _ROLLING.search(line) or _DATE_TOKENS.search(line):
+        # Only consider lines that have explicit deadline-like cues or rolling hints
+        if _LINE_HINT.search(line) or _ROLLING.search(line):
             # collect mentions around likely markers
             if line not in mentions:
                 mentions.append(line)
@@ -109,4 +123,3 @@ def extract_deadline_info(text: str) -> Dict:
         "dates": dates[:5],
         "raw_mentions": mentions[:10],
     }
-

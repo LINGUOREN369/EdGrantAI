@@ -1,0 +1,91 @@
+{
+  "grant_id": "nsf_accelerating_research_through_international_network_to_network_collaborations_accelnet",
+  "created_at": "2025-12-28T20:57:38.991875-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Accelerating Research through International Network-to-Network Collaborations",
+    "AccelNet",
+    "international research network of networks",
+    "scientific research",
+    "US-based workforce",
+    "multi-team international collaboration",
+    "grand research challenges",
+    "NoN",
+    "Design Track",
+    "Implementation Track",
+    "Implementation Track Phase 1",
+    "Implementation Track Phase 2",
+    "Institutions of Higher Education",
+    "community colleges",
+    "Non-profit organizations",
+    "Tribal Governments",
+    "Implementation Track Phase 1 recipients",
+    "Phase 2 award",
+    "Phase 1 PIs"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "community college STEM programs",
+        "source_text": "community colleges",
+        "confidence": 0.6473,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "research-based learning",
+        "source_text": "scientific research",
+        "confidence": 0.5677,
+        "sources": [
+          "scientific research"
+        ]
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_accelerating_research_through_international_network_to_network_collaborations_accelnet.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/accelnet-accelerating-research-through-international-network-network/nsf23-619/solicitation"
+  }
+}

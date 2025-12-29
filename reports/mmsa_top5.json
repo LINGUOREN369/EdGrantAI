@@ -66,63 +66,6 @@
       "funding_min": null,
       "funding_max": null,
       "reasons": []
-    },
-    {
-      "grant_profile": "nsf_science_and_technology_centers_integrative_partnerships_profile.json",
-      "score": 0.402,
-      "bucket": "Maybe",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['underrepresented groups in STEM']",
-        "Population overlap: ['historically underserved students']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_focused_research_groups_in_the_mathematical_sciences_frgms_profile.json",
-      "score": 0.353,
-      "bucket": "Avoid",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": []
-    },
-    {
-      "grant_profile": "nsf_incorporating_human_behavior_in_epidemiological_models_ihbem_profile.json",
-      "score": 0.353,
-      "bucket": "Avoid",
-      "deadlines": [],
-      "deadline_status": "rolling",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": []
-    },
-    {
-      "grant_profile": "nsf_capacity_biological_field_stations_and_marine_laboratories_fsml_profile.json",
-      "score": 0.348,
-      "bucket": "Avoid",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['STEM education research']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_a_science_of_science_approach_to_analyzing_and_innovating_the_biomedical_research_enterprise_sos_bio_profile.json",
-      "score": 0.309,
-      "bucket": "Avoid",
-      "deadlines": [
-        "2026-02-09"
-      ],
-      "deadline_status": "date",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": []
     }
   ]
 }

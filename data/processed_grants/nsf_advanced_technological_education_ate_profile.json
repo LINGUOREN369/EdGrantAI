@@ -1,0 +1,232 @@
+{
+  "grant_id": "nsf_advanced_technological_education_ate",
+  "created_at": "2025-12-28T21:00:14.260090-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Advanced Technological Education (ATE)",
+    "two-year Institutions of Higher Education (IHEs)",
+    "education of technicians",
+    "high-technology fields",
+    "partnerships between academic institutions",
+    "credit-bearing courses",
+    "faculty-led projects",
+    "curriculum development",
+    "professional development of college faculty",
+    "secondary school teachers",
+    "career pathway development",
+    "applied research projects",
+    "Minority Serving Institutions",
+    "underrepresented and underserved communities",
+    "STEM technician education programs",
+    "associate degrees",
+    "track 1: Small Scale Projects",
+    "track 2: Projects",
+    "track 3: Consortia for Innovations in Technician Education",
+    "track 4: Centers",
+    "rural technician education",
+    "articulation between programs",
+    "teacher preparation",
+    "applied research on technician education",
+    "educational pathways for technicians",
+    "workforce development issues",
+    "entrepreneurial skills development for students",
+    "technical skills and competencies",
+    "skilled technical workforce",
+    "community college faculty",
+    "Institutions of Higher Education (IHEs)",
+    "non-profit, non-academic organizations",
+    "for-profit organizations",
+    "State and Local Governments",
+    "Tribal Nations",
+    "No restrictions or limits",
+    "no restrictions or limits",
+    "sustainability plan",
+    "two-year IHEs"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "curriculum development",
+        "source_text": "curriculum development",
+        "confidence": 1.0,
+        "sources": [
+          "curriculum development"
+        ]
+      },
+      {
+        "tag": "workforce development",
+        "source_text": "workforce development issues",
+        "confidence": 0.8494,
+        "sources": [
+          "workforce development issues",
+          "skilled technical workforce"
+        ]
+      },
+      {
+        "tag": "education system partnerships",
+        "source_text": "partnerships between academic institutions",
+        "confidence": 0.7004,
+        "sources": [
+          "partnerships between academic institutions"
+        ]
+      },
+      {
+        "tag": "STEM career pathways",
+        "source_text": "STEM technician education programs",
+        "confidence": 0.6921,
+        "sources": [
+          "STEM technician education programs",
+          "educational pathways for technicians"
+        ]
+      },
+      {
+        "tag": "teacher professional development",
+        "source_text": "professional development of college faculty",
+        "confidence": 0.6593,
+        "sources": [
+          "professional development of college faculty",
+          "teacher preparation"
+        ]
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "STEM technician education programs",
+        "confidence": 0.644,
+        "sources": [
+          "STEM technician education programs"
+        ]
+      },
+      {
+        "tag": "community college STEM programs",
+        "source_text": "STEM technician education programs",
+        "confidence": 0.6235,
+        "sources": [
+          "STEM technician education programs",
+          "community college faculty"
+        ]
+      },
+      {
+        "tag": "high school STEM education",
+        "source_text": "STEM technician education programs",
+        "confidence": 0.6036,
+        "sources": [
+          "STEM technician education programs"
+        ]
+      },
+      {
+        "tag": "underrepresented groups in STEM",
+        "source_text": "underrepresented and underserved communities",
+        "confidence": 0.6031,
+        "sources": [
+          "underrepresented and underserved communities"
+        ]
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "underserved communities",
+        "source_text": "underrepresented and underserved communities",
+        "confidence": 0.8472,
+        "sources": [
+          "underrepresented and underserved communities"
+        ]
+      },
+      {
+        "tag": "high school teachers",
+        "source_text": "secondary school teachers",
+        "confidence": 0.8333,
+        "sources": [
+          "secondary school teachers"
+        ]
+      },
+      {
+        "tag": "middle school teachers",
+        "source_text": "secondary school teachers",
+        "confidence": 0.7664,
+        "sources": [
+          "secondary school teachers"
+        ]
+      },
+      {
+        "tag": "historically underserved students",
+        "source_text": "underrepresented and underserved communities",
+        "confidence": 0.7081,
+        "sources": [
+          "underrepresented and underserved communities"
+        ]
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community college faculty",
+        "confidence": 0.7079,
+        "sources": [
+          "community college faculty"
+        ]
+      },
+      {
+        "tag": "pre-service teachers",
+        "source_text": "teacher preparation",
+        "confidence": 0.684,
+        "sources": [
+          "teacher preparation"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "Minority Serving Institutions",
+        "confidence": 0.8828,
+        "sources": [
+          "Minority Serving Institutions"
+        ]
+      },
+      {
+        "tag": "community college",
+        "source_text": "community college faculty",
+        "confidence": 0.7037,
+        "sources": [
+          "community college faculty"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "two-year Institutions of Higher Education (IHEs)",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-10-01"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-10-01, 2026-10-01",
+      "Proposal Deadline",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_advanced_technological_education_ate.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ate-advanced-technological-education/nsf24-584/solicitation"
+  }
+}

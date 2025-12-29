@@ -179,6 +179,12 @@ def map_phrases_to_canonical(
     # Heuristic guardrails to reduce systemic misclassification
     audience_like = re.compile(r"\b(k[-–]?12|k-5|grades?\s*(?:k|\d+(?:-\d+)?)|elementary|middle\s+school|high\s+school|higher\s+education|undergraduate|graduate|postdoctoral|students?|teachers?|instructors?|learners?)\b", re.I)
     redflag_gate = re.compile(r"\b(only|limited|eligib|require|required|must|submission\s*limit|letter\s*of\s*intent|prepropos|IRB|human\s*subjects|data\s*management|mentoring|letters\s*of\s*collaboration)\b", re.I)
+    # Mechanism acronyms and spelled-out variants that should not produce mission tags
+    mech_acronyms = re.compile(r"\b(REU|RUI|GOALI|CAREER|EAGER|RAPID|RAISE|SBIR|STTR)\b", re.I)
+    mech_spelled = re.compile(
+        r"\b(Research Experiences for Undergraduates|Grant Opportunities for Academic Liaison with Industry|Facilitating Research at Primarily Undergraduate Institutions|Small Business Innovation Research|Small Business Technology Transfer)\b",
+        re.I,
+    )
 
     def _allow_mapping(phrase: str, tag: str) -> bool:
         # Org type: avoid mapping audience phrases to organization types
@@ -191,6 +197,9 @@ def map_phrases_to_canonical(
                 return False
         # Mission: tighten computing-specific tags unless explicit cues present
         if taxonomy_name == "mission_tags":
+            # Never allow mechanism/instrument terms to create mission tags
+            if mech_acronyms.search(phrase or "") or mech_spelled.search(phrase or ""):
+                return False
             if tag.lower() in {"computing education research", "computer science education", "computing education"}:
                 if not re.search(r"\b(comput|computer\s*science|\bCS\b|coding)\b", (phrase or ""), re.I):
                     return False
@@ -292,8 +301,64 @@ def map_all_taxonomies(extracted_phrases: List[str]) -> Dict[str, List[Dict]]:
     """
     Map phrases across all four taxonomy types.
     """
-    out = {}
+    out: Dict[str, List[Dict]] = {}
     for tax in settings.TAXONOMIES:
         key = settings.TAXONOMY_TO_OUTPUT_KEY.get(tax, tax)
         out[key] = map_phrases_to_canonical(extracted_phrases, tax)
+
+    # Deterministic NSF mapping layer (post-processing)
+    phrases = extracted_phrases or []
+
+    def _append(dst_key: str, tag: str, phrase: str):
+        lst = out.setdefault(dst_key, [])
+        if not any(d.get("tag") == tag for d in lst):
+            lst.append({"tag": tag, "source_text": phrase, "confidence": 1.0})
+
+    # 1) Deterministic org type mapping
+    for p in phrases:
+        pl = (p or "").lower()
+        if "institutions of higher education" in pl:
+            _append("org_type_tags", "institution_of_higher_education", p)
+        if ("non-profit, non-academic organizations" in pl) or ("nonprofit" in pl or "non-profit" in pl):
+            _append("org_type_tags", "nonprofit", p)
+
+    # 2) Deterministic red-flag mapping: submission limits
+    re_one = re.compile(r"\bone\s+proposal\b|\blimited\s+submission\b", re.I)
+    for p in phrases:
+        pl = (p or "").lower()
+        if (
+            "limit on number of proposals" in pl
+            or "submission limit" in pl
+            or re_one.search(pl)
+        ):
+            _append("red_flag_tags", "submission_limit", p)
+
+    # 3) Mission tag cleanup: remove mechanism-driven mission tags
+    mech_phrase_re = re.compile(
+        r"\b(REU|RUI|GOALI|CAREER|EAGER|RAPID|RAISE|SBIR|STTR)\b|\b(Research Experiences for Undergraduates|Grant Opportunities for Academic Liaison with Industry|Facilitating Research at Primarily Undergraduate Institutions)\b",
+        re.I,
+    )
+    missions = out.get("mission_tags", []) or []
+    missions_filtered = [m for m in missions if not mech_phrase_re.search(str(m.get("source_text") or ""))]
+    out["mission_tags"] = missions_filtered
+
+    # 4) Mission selection fallback using domain phrases
+    if not out.get("mission_tags"):
+        domain_terms = [
+            "chemical measurement and imaging",
+            "measurement science",
+            "chemical imaging",
+            "mass spectrometry",
+        ]
+        added = 0
+        for p in phrases:
+            low = (p or "").lower()
+            if any(term in low for term in domain_terms):
+                out.setdefault("mission_tags", []).append(
+                    {"tag": p, "source_text": p, "confidence": 0.85}
+                )
+                added += 1
+                if added >= 3:
+                    break
+
     return out

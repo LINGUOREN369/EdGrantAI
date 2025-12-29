@@ -111,6 +111,10 @@ def _generate_explanation(
         return None
 from .embedding_matcher import load_taxonomy_embeddings, cosine_similarity
 
+# Cache taxonomy embeddings in memory to avoid re-reading large JSON files for
+# every grant scored. Keys are taxonomy file basenames (e.g., 'mission_tags').
+_EMB_CACHE: dict[str, dict] = {}
+
 
 TAX_KEYS = [
     "mission_tags",
@@ -153,7 +157,13 @@ def _semantic_overlap(
     if not org_tags:
         return 0.0
     try:
-        emb = load_taxonomy_embeddings(str(settings.TAXONOMY_EMBEDDINGS_DIR / f"{taxonomy_name}_embeddings.json"))
+        if taxonomy_name not in _EMB_CACHE:
+            _EMB_CACHE[taxonomy_name] = load_taxonomy_embeddings(
+                str(settings.TAXONOMY_EMBEDDINGS_DIR / f"{taxonomy_name}_embeddings.json")
+            )
+        emb = _EMB_CACHE.get(taxonomy_name) or {}
+        if not emb:
+            return _overlap_ratio(org_tags, grant_tags)
     except Exception:
         return _overlap_ratio(org_tags, grant_tags)
 
