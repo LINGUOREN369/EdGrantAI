@@ -1,0 +1,194 @@
+{
+  "grant_id": "nsf_coastlines_and_people_hubs_for_research_and_broadening_participation_cope",
+  "created_at": "2025-12-29T23:52:13.778319-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Coastlines and People Hubs for Research and Broadening Participation",
+    "Coastlines and People program",
+    "Coastal Research Hubs",
+    "Earth Systems approach",
+    "broadening participation goals",
+    "coastal sustainability",
+    "human dimensions",
+    "coastal processes",
+    "populated coastal environments",
+    "K\u201312",
+    "STEM",
+    "Science, Technology, Engineering, and Mathematics",
+    "CoPe Hubs",
+    "stakeholder engagement",
+    "community engagement",
+    "interdisciplinary, convergent research",
+    "basic research",
+    "Coastlines and People Hubs",
+    "large-scale CoPe hubs",
+    "Focused CoPe hubs",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "Independent museums",
+    "observatories",
+    "research labs",
+    "professional societies"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Coastlines and People Hubs for Research and Broadening Participation",
+      "section": "Other"
+    },
+    {
+      "text": "Coastlines and People program",
+      "section": "Other"
+    },
+    {
+      "text": "Coastal Research Hubs",
+      "section": "Other"
+    },
+    {
+      "text": "Earth Systems approach",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation goals",
+      "section": "Other"
+    },
+    {
+      "text": "coastal sustainability",
+      "section": "Other"
+    },
+    {
+      "text": "human dimensions",
+      "section": "Other"
+    },
+    {
+      "text": "coastal processes",
+      "section": "Other"
+    },
+    {
+      "text": "populated coastal environments",
+      "section": "Program Description"
+    },
+    {
+      "text": "K\u201312",
+      "section": "Other"
+    },
+    {
+      "text": "STEM",
+      "section": "Program Description"
+    },
+    {
+      "text": "Science, Technology, Engineering, and Mathematics",
+      "section": "Program Description"
+    },
+    {
+      "text": "CoPe Hubs",
+      "section": "Program Description"
+    },
+    {
+      "text": "stakeholder engagement",
+      "section": "Program Description"
+    },
+    {
+      "text": "community engagement",
+      "section": "Program Description"
+    },
+    {
+      "text": "interdisciplinary, convergent research",
+      "section": "Introduction"
+    },
+    {
+      "text": "basic research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Coastlines and People Hubs",
+      "section": "Other"
+    },
+    {
+      "text": "large-scale CoPe hubs",
+      "section": "Program Description"
+    },
+    {
+      "text": "Focused CoPe hubs",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Independent museums",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "observatories",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "research labs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "professional societies",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "stakeholder engagement",
+        "source_text": "stakeholder engagement",
+        "confidence": 0.9
+      },
+      {
+        "tag": "research-based learning",
+        "source_text": "basic research",
+        "confidence": 0.5655
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K\u201312",
+        "confidence": 1.0,
+        "sources": [
+          "K\u201312"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "The CoPe Program welcomes proposals for Large-scale hubs via this solicitation. These awards are intended to support hubs that require larger budgets because of the scope of the science or geographical area involved ($2-$4 million per year). Due to the potential scope and complexity of the Large-scale hubs, the awards may be continuing grants or cooperative agreements.",
+      "Due to the potential scope and complexity of CoPe Hubs, the awards may be continuing grants or cooperative agreements.",
+      "Full Proposals: Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_coastlines_and_people_hubs_for_research_and_broadening_participation_cope.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/cope-coastlines-people-hubs-research-broadening-participation/nsf21-613/solicitation"
+  },
+  "document_title": "Coastlines and People Hubs for Research and Broadening Participation (CoPe)"
+}

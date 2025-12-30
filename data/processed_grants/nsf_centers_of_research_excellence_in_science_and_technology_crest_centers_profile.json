@@ -1,0 +1,241 @@
+{
+  "grant_id": "nsf_centers_of_research_excellence_in_science_and_technology_crest_centers",
+  "created_at": "2025-12-29T23:42:09.393802-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Centers of Research Excellence in Science and Technology",
+    "CREST Centers",
+    "Minority-serving institutions",
+    "STEM disciplines",
+    "Division of Equity for Excellence in STEM",
+    "research capabilities",
+    "broadening participation in STEM",
+    "research productivity",
+    "underrepresented groups",
+    "Phase I and Phase II CREST Center Awards",
+    "research base",
+    "CREST Center proposal",
+    "multiyear support",
+    "data science and analytics",
+    "advanced materials",
+    "manufacturing and robotics",
+    "cybersecurity",
+    "plant genetics/agricultural technologies",
+    "quantum information sciences",
+    "nanotechnology",
+    "semiconductors/microelectronics technologies",
+    "climate change and clean energy",
+    "K-12 schools",
+    "CREST Partnership Supplements",
+    "partnerships and collaborations",
+    "evaluation plan",
+    "Principal Investigator",
+    "eligible institutions",
+    "students with disabilities"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Centers of Research Excellence in Science and Technology",
+      "section": "Other"
+    },
+    {
+      "text": "CREST Centers",
+      "section": "Other"
+    },
+    {
+      "text": "Minority-serving institutions",
+      "section": "Other"
+    },
+    {
+      "text": "STEM disciplines",
+      "section": "Program Description"
+    },
+    {
+      "text": "Division of Equity for Excellence in STEM",
+      "section": "Other"
+    },
+    {
+      "text": "research capabilities",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation in STEM",
+      "section": "Other"
+    },
+    {
+      "text": "research productivity",
+      "section": "Other"
+    },
+    {
+      "text": "underrepresented groups",
+      "section": "Other"
+    },
+    {
+      "text": "Phase I and Phase II CREST Center Awards",
+      "section": "Other"
+    },
+    {
+      "text": "research base",
+      "section": "Other"
+    },
+    {
+      "text": "CREST Center proposal",
+      "section": "Other"
+    },
+    {
+      "text": "multiyear support",
+      "section": "Other"
+    },
+    {
+      "text": "data science and analytics",
+      "section": "Program Description"
+    },
+    {
+      "text": "advanced materials",
+      "section": "Program Description"
+    },
+    {
+      "text": "manufacturing and robotics",
+      "section": "Other"
+    },
+    {
+      "text": "cybersecurity",
+      "section": "Program Description"
+    },
+    {
+      "text": "plant genetics/agricultural technologies",
+      "section": "Program Description"
+    },
+    {
+      "text": "quantum information sciences",
+      "section": "Program Description"
+    },
+    {
+      "text": "nanotechnology",
+      "section": "Program Description"
+    },
+    {
+      "text": "semiconductors/microelectronics technologies",
+      "section": "Program Description"
+    },
+    {
+      "text": "climate change and clean energy",
+      "section": "Program Description"
+    },
+    {
+      "text": "K-12 schools",
+      "section": "Other"
+    },
+    {
+      "text": "CREST Partnership Supplements",
+      "section": "Other"
+    },
+    {
+      "text": "partnerships and collaborations",
+      "section": "Other"
+    },
+    {
+      "text": "evaluation plan",
+      "section": "Program Description"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "eligible institutions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "students with disabilities",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "STEM education",
+        "source_text": "STEM disciplines",
+        "confidence": 0.7543
+      },
+      {
+        "tag": "evaluation and assessment",
+        "source_text": "evaluation plan",
+        "confidence": 0.7176
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "students with disabilities",
+        "source_text": "students with disabilities",
+        "confidence": 1.0,
+        "sources": [
+          "students with disabilities"
+        ]
+      },
+      {
+        "tag": "K-12 students",
+        "source_text": "K-12 schools",
+        "confidence": 0.8193,
+        "sources": [
+          "K-12 schools"
+        ]
+      },
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K-12 schools",
+        "confidence": 0.7608,
+        "sources": [
+          "K-12 schools"
+        ]
+      },
+      {
+        "tag": "historically underserved students",
+        "source_text": "underrepresented groups",
+        "confidence": 0.6059,
+        "sources": [
+          "underrepresented groups"
+        ]
+      },
+      {
+        "tag": "underserved communities",
+        "source_text": "underrepresented groups",
+        "confidence": 0.6057,
+        "sources": [
+          "underrepresented groups"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "Minority-serving institutions",
+        "confidence": 0.9062,
+        "sources": [
+          "Minority-serving institutions"
+        ]
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Preliminary proposals are required for Phase I and Phase II projects. Thus, an invitation from NSF must be received before submitting a full proposal. Both Phase I and Phase II CREST Center awards provide multi-year support for institutions that demonstrate a strong research base. Phase I CREST Center awards provide funding for five years of research on a specific NSF-supported topic. If invited, institutions may submit a Phase II CREST Center proposal requesting funding to continue research in the same disciplinary area as the Phase I Center or may submit a Phase I proposal focused on a disciplinary area that is significantly different from those of the previous award(s).",
+      "Eligible institutions are MSIs that offer graduate degrees in NSF STEM areas and have enrollments of 50% or more students (based on total student enrollment) who are members of minority groups underrepresented among those holding advanced degrees in science and engineering fields. Proposals are also invited from institutions of higher education that meet the 50% enrollment criterion and primarily serve populations of students with disabilities. Eligibility may be determined by reference to the Integrated Postsecondary Education Data System (IPEDS) of the US Department of Education National Center for Education Statistics ( https://nces.ed.gov/ipeds/ ). Funding of partnering institutions should be requested via subawards in the full proposal; separately submitted collaborative proposals will not be accepted. CREST partnership supplemental funding requests are accepted only from current CREST Center awardees.",
+      "Funding of partnering institutions should be requested via subawards in the full proposal; separately submitted collaborative proposals will not be accepted.",
+      "Only one preliminary proposal may be submitted per eligible institution and due date.",
+      "Institutions with active Phase I funding should submit the Phase II preliminary proposal by the due date before the full proposal is due and prior to the expiration of their Phase I award. For example, Phase I CREST Centers ending in 2025 should submit their preliminary proposals in 2023 to avoid disruptions in funding.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_centers_of_research_excellence_in_science_and_technology_crest_centers.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/crest-centers-centers-research-excellence-science-technology/nsf23-595/solicitation"
+  },
+  "document_title": "Centers of Research Excellence in Science and Technology (CREST Centers)"
+}

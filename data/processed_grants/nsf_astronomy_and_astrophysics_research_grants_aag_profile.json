@@ -1,0 +1,312 @@
+{
+  "grant_id": "nsf_astronomy_and_astrophysics_research_grants_aag",
+  "created_at": "2025-12-29T23:26:52.398037-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Astronomy and Astrophysics Research Grants",
+    "AAG",
+    "Division of Astronomical Sciences",
+    "federal funding support",
+    "ground-based astronomy",
+    "observational facilities",
+    "research programs",
+    "graduate students",
+    "National Optical-Infrared Astronomy Research Laboratory",
+    "NOIRLab",
+    "National Solar Observatory",
+    "NSO",
+    "Daniel K. Inouye Solar Telescope",
+    "DKIST",
+    "National Radio Astronomy Observatory",
+    "NRAO",
+    "Green Bank Observatory",
+    "GBO",
+    "Arecibo Observatory",
+    "AO",
+    "Vera Rubin Observatory",
+    "Rubin",
+    "international facilities",
+    "Gemini Observatory",
+    "Atacama Large Millimeter/submillimeter Array",
+    "ALMA",
+    "advanced technologies and instrumentation",
+    "mid-scale projects",
+    "education and outreach",
+    "Research in Undergraduate Institutions",
+    "RUI",
+    "Computational and Data Enabled Science and Engineering",
+    "CDS&E",
+    "Accomplishment-Based Renewal",
+    "Research Experiences for Undergraduates",
+    "REU",
+    "Research Experiences for Teachers",
+    "RET",
+    "Research Opportunity Awards",
+    "ROA",
+    "Alliances for Graduate Education",
+    "Professoriate Graduate Research Supplements",
+    "AGEP-GRS",
+    "High School Student Research Assistantships",
+    "MPS-High",
+    "Memorandum of Understanding",
+    "MOU",
+    "National Aeronautics and Space Administration",
+    "NASA",
+    "Standard Grant",
+    "Continuing Grant",
+    "Estimated Number of Awards"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Astronomy and Astrophysics Research Grants",
+      "section": "Other"
+    },
+    {
+      "text": "AAG",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Astronomical Sciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "federal funding support",
+      "section": "Introduction"
+    },
+    {
+      "text": "ground-based astronomy",
+      "section": "Introduction"
+    },
+    {
+      "text": "observational facilities",
+      "section": "Introduction"
+    },
+    {
+      "text": "research programs",
+      "section": "Introduction"
+    },
+    {
+      "text": "graduate students",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Optical-Infrared Astronomy Research Laboratory",
+      "section": "Introduction"
+    },
+    {
+      "text": "NOIRLab",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Solar Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "NSO",
+      "section": "Introduction"
+    },
+    {
+      "text": "Daniel K. Inouye Solar Telescope",
+      "section": "Introduction"
+    },
+    {
+      "text": "DKIST",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Radio Astronomy Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "NRAO",
+      "section": "Introduction"
+    },
+    {
+      "text": "Green Bank Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "GBO",
+      "section": "Introduction"
+    },
+    {
+      "text": "Arecibo Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "AO",
+      "section": "Introduction"
+    },
+    {
+      "text": "Vera Rubin Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "Rubin",
+      "section": "Introduction"
+    },
+    {
+      "text": "international facilities",
+      "section": "Introduction"
+    },
+    {
+      "text": "Gemini Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "Atacama Large Millimeter/submillimeter Array",
+      "section": "Introduction"
+    },
+    {
+      "text": "ALMA",
+      "section": "Introduction"
+    },
+    {
+      "text": "advanced technologies and instrumentation",
+      "section": "Introduction"
+    },
+    {
+      "text": "mid-scale projects",
+      "section": "Introduction"
+    },
+    {
+      "text": "education and outreach",
+      "section": "Introduction"
+    },
+    {
+      "text": "Research in Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "RUI",
+      "section": "Program Description"
+    },
+    {
+      "text": "Computational and Data Enabled Science and Engineering",
+      "section": "Program Description"
+    },
+    {
+      "text": "CDS&E",
+      "section": "Program Description"
+    },
+    {
+      "text": "Accomplishment-Based Renewal",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Program Description"
+    },
+    {
+      "text": "REU",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Teachers",
+      "section": "Program Description"
+    },
+    {
+      "text": "RET",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Opportunity Awards",
+      "section": "Program Description"
+    },
+    {
+      "text": "ROA",
+      "section": "Program Description"
+    },
+    {
+      "text": "Alliances for Graduate Education",
+      "section": "Program Description"
+    },
+    {
+      "text": "Professoriate Graduate Research Supplements",
+      "section": "Program Description"
+    },
+    {
+      "text": "AGEP-GRS",
+      "section": "Program Description"
+    },
+    {
+      "text": "High School Student Research Assistantships",
+      "section": "Program Description"
+    },
+    {
+      "text": "MPS-High",
+      "section": "Program Description"
+    },
+    {
+      "text": "Memorandum of Understanding",
+      "section": "Program Description"
+    },
+    {
+      "text": "MOU",
+      "section": "Program Description"
+    },
+    {
+      "text": "National Aeronautics and Space Administration",
+      "section": "Program Description"
+    },
+    {
+      "text": "NASA",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "CDS&E",
+        "source_text": "CDS&E",
+        "confidence": 0.9
+      },
+      {
+        "tag": "NASA",
+        "source_text": "NASA",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "graduate students",
+        "source_text": "graduate students",
+        "confidence": 1.0,
+        "sources": [
+          "graduate students"
+        ]
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-11-16"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-11-16, 2026-11-16",
+      "Full Proposals: For proposals submitted via Research.gov, PAPPG guidelines apply. For proposals submitted via Grants.gov, NSF Grants.gov Application Guide guidelines apply.",
+      "Full Proposals:"
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_astronomy_and_astrophysics_research_grants_aag.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/aag-astronomy-astrophysics-research-grants/nsf22-624/solicitation"
+  },
+  "document_title": "Astronomy and Astrophysics Research Grants (AAG)"
+}

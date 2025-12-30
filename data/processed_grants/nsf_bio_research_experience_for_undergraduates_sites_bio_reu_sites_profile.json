@@ -1,0 +1,248 @@
+{
+  "grant_id": "nsf_bio_research_experience_for_undergraduates_sites_bio_reu_sites",
+  "created_at": "2025-12-29T23:29:58.347215-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Research Experiences for Undergraduates",
+    "BIO Research Experience for Undergraduates Sites",
+    "Research Experiences for Undergraduates (REU)",
+    "REU program",
+    "Division for Biological Infrastructure",
+    "REU Site program",
+    "NSF-wide Research Experiences for Undergraduates solicitation",
+    "Summer program",
+    "Participant Support Costs",
+    "diverse pool of talented students",
+    "REU Sites and Supplements",
+    "REU projects",
+    "STEM",
+    "community colleges",
+    "EPSCoR-eligible jurisdictions",
+    "minority-serving institutions",
+    "emerging research institutions",
+    "iREUs",
+    "International Research Experiences for Students",
+    "Research Experiences for Teachers",
+    "K-12 teachers",
+    "REU Sites",
+    "Cooperative arrangements",
+    "high-quality mentoring",
+    "Standard Grant",
+    "Continuing Grant",
+    "Cooperative Agreement",
+    "Estimated Number of Awards",
+    "Limit on Number of Proposals per Organization",
+    "Limit on Number of Proposals per PI or co-PI",
+    "Proposal Preparation and Submission Instructions"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Other"
+    },
+    {
+      "text": "BIO Research Experience for Undergraduates Sites",
+      "section": "Other"
+    },
+    {
+      "text": "Research Experiences for Undergraduates (REU)",
+      "section": "Other"
+    },
+    {
+      "text": "REU program",
+      "section": "Other"
+    },
+    {
+      "text": "Division for Biological Infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "REU Site program",
+      "section": "Other"
+    },
+    {
+      "text": "NSF-wide Research Experiences for Undergraduates solicitation",
+      "section": "Other"
+    },
+    {
+      "text": "Summer program",
+      "section": "Other"
+    },
+    {
+      "text": "Participant Support Costs",
+      "section": "Other"
+    },
+    {
+      "text": "diverse pool of talented students",
+      "section": "Introduction"
+    },
+    {
+      "text": "REU Sites and Supplements",
+      "section": "Other"
+    },
+    {
+      "text": "REU projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "STEM",
+      "section": "Program Description"
+    },
+    {
+      "text": "community colleges",
+      "section": "Program Description"
+    },
+    {
+      "text": "EPSCoR-eligible jurisdictions",
+      "section": "Program Description"
+    },
+    {
+      "text": "minority-serving institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "emerging research institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "iREUs",
+      "section": "Program Description"
+    },
+    {
+      "text": "International Research Experiences for Students",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Teachers",
+      "section": "Program Description"
+    },
+    {
+      "text": "K-12 teachers",
+      "section": "Program Description"
+    },
+    {
+      "text": "REU Sites",
+      "section": "Other"
+    },
+    {
+      "text": "Cooperative arrangements",
+      "section": "Program Description"
+    },
+    {
+      "text": "high-quality mentoring",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per Organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Proposal Preparation and Submission Instructions",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "undergraduate research experiences",
+        "source_text": "International Research Experiences for Students",
+        "confidence": 0.658
+      },
+      {
+        "tag": "undergraduate mentorship programs",
+        "source_text": "high-quality mentoring",
+        "confidence": 0.5877
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K-12 teachers",
+        "confidence": 1.0,
+        "sources": [
+          "K-12 teachers"
+        ]
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "minority-serving institutions",
+        "confidence": 0.9479,
+        "sources": [
+          "minority-serving institutions"
+        ]
+      },
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR-eligible jurisdictions",
+        "confidence": 0.944,
+        "sources": [
+          "EPSCoR-eligible jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per Organization",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "Research experience is one of the most effective avenues for attracting students to and retaining them in science and engineering and for preparing them for careers in these fields. The REU program, through both Sites and Supplements, aims to provide appropriate and valuable educational experiences for undergraduate students through participation in research. REU projects involve students in meaningful ways in ongoing research programs or in research projects specifically designed for the REU program. REU projects feature high-quality interaction of students with faculty and/or other research mentors and access to appropriate facilities and professional development opportunities.",
+      "REU Sites are based on independent proposals, submitted for an annual deadline date, to initiate and conduct projects that engage a number of undergraduate students in research.",
+      "An REU Supplement typically provides support for one or two undergraduate students to participate in research as part of a new or ongoing NSF-funded research project. However, centers or large research efforts may request support for a number of students commensurate with the size and nature of the project. REU Supplements are supported by the various research programs throughout the Foundation, including programs such as Small Business Innovation Research (SBIR).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_bio_research_experience_for_undergraduates_sites_bio_reu_sites.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf23-601/solicitation"
+  },
+  "document_title": "BIO Research Experience for Undergraduates Sites (BIO REU Sites)"
+}

@@ -1,0 +1,211 @@
+{
+  "grant_id": "nsf_chemical_catalysis_cat",
+  "created_at": "2025-12-29T23:44:09.193342-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Chemical Catalysis",
+    "CAT Program",
+    "program scope",
+    "catalytic processes",
+    "catalytic approaches",
+    "modeling, theory, simulation",
+    "energy-related catalytic processes",
+    "sustainable chemistry",
+    "Grant Opportunities for Academic Liaison with Industry",
+    "GOALI proposals",
+    "Division of Chemistry",
+    "Disciplinary Research Programs",
+    "designing, synthesizing and characterizing new molecules",
+    "fundamental discovery, invention, and innovation",
+    "chemical species, their structures, and their chemical transformations",
+    "new tools and novel instrumentation",
+    "structure-function relationships",
+    "Chemical Catalysis",
+    "Chemical Measurement and Imaging",
+    "Chemical Mechanism, Function and Properties",
+    "Chemical Synthesis",
+    "Environmental Chemical Sciences",
+    "Macromolecular, Supramolecular and Nanochemistry",
+    "Institutions of Higher Education",
+    "non-profit, non-academic organizations",
+    "Limit on Number of Proposals per PI or co-PI",
+    "two proposals",
+    "collaborative proposals",
+    "EAGER, RAPID, RAISE, and conference proposals",
+    "No Deadline Pilot"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Chemical Catalysis",
+      "section": "Other"
+    },
+    {
+      "text": "CAT Program",
+      "section": "Other"
+    },
+    {
+      "text": "program scope",
+      "section": "Other"
+    },
+    {
+      "text": "catalytic processes",
+      "section": "Other"
+    },
+    {
+      "text": "catalytic approaches",
+      "section": "Other"
+    },
+    {
+      "text": "modeling, theory, simulation",
+      "section": "Other"
+    },
+    {
+      "text": "energy-related catalytic processes",
+      "section": "Other"
+    },
+    {
+      "text": "sustainable chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "Grant Opportunities for Academic Liaison with Industry",
+      "section": "Other"
+    },
+    {
+      "text": "GOALI proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Division of Chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "Disciplinary Research Programs",
+      "section": "Other"
+    },
+    {
+      "text": "designing, synthesizing and characterizing new molecules",
+      "section": "Program Description"
+    },
+    {
+      "text": "fundamental discovery, invention, and innovation",
+      "section": "Program Description"
+    },
+    {
+      "text": "chemical species, their structures, and their chemical transformations",
+      "section": "Program Description"
+    },
+    {
+      "text": "new tools and novel instrumentation",
+      "section": "Program Description"
+    },
+    {
+      "text": "structure-function relationships",
+      "section": "Program Description"
+    },
+    {
+      "text": "Chemical Catalysis",
+      "section": "Other"
+    },
+    {
+      "text": "Chemical Measurement and Imaging",
+      "section": "Program Description"
+    },
+    {
+      "text": "Chemical Mechanism, Function and Properties",
+      "section": "Program Description"
+    },
+    {
+      "text": "Chemical Synthesis",
+      "section": "Other"
+    },
+    {
+      "text": "Environmental Chemical Sciences",
+      "section": "Program Description"
+    },
+    {
+      "text": "Macromolecular, Supramolecular and Nanochemistry",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two proposals",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "collaborative proposals",
+      "section": "Other"
+    },
+    {
+      "text": "EAGER, RAPID, RAISE, and conference proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "No Deadline Pilot",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "chemical species, their structures, and their chemical transformations",
+        "source_text": "chemical species, their structures, and their chemical transformations",
+        "confidence": 0.9
+      },
+      {
+        "tag": "designing, synthesizing and characterizing new molecules",
+        "source_text": "designing, synthesizing and characterizing new molecules",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per PI or co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 RUI proposals must be submitted to the RUI Solicitation during the regular proposal submission window for this program.",
+      "CAREER proposals should be submitted through the CAREER solicitation by the deadline specified for CAREER proposals.",
+      "This restriction includes proposals under Grant Opportunities for Academic Liaison with Industry (GOALI) and Facilitating Research at Primarily Undergraduate Institutions ( RUI), as well as proposals submitted to the Division of Chemistry: Disciplinary Research Programs: No Deadline Pilot (CHE-DRP:NDP) Solicitation ( NSF 22-606 ).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_chemical_catalysis_cat.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/che-drp-division-chemistry-disciplinary-research-programs/nsf22-605/solicitation"
+  },
+  "document_title": "Chemical Catalysis (CAT)"
+}

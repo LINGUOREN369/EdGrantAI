@@ -1,0 +1,317 @@
+{
+  "grant_id": "nsf_developmental_sciences_ds",
+  "created_at": "2025-12-30T00:08:22.443721-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Developmental Sciences (DS)",
+    "basic research",
+    "perceptual processes",
+    "cognitive processes",
+    "linguistic processes",
+    "social processes",
+    "cultural processes",
+    "biological processes",
+    "human development",
+    "lifespan",
+    "research investigating factors",
+    "family influences",
+    "peer influences",
+    "school influences",
+    "community influences",
+    "cultural influences",
+    "media influences",
+    "physical influences",
+    "genetic influences",
+    "epigenetic influences",
+    "multidisciplinary approaches",
+    "multi-method approaches",
+    "longitudinal approaches",
+    "Diversity, Equity, and Inclusion",
+    "historically marginalized groups",
+    "PIs and co-PIs",
+    "communities",
+    "developmental sciences",
+    "Institutions of Higher Education",
+    "Two- and four-year IHEs",
+    "community colleges",
+    "Non-profit, non-academic organizations",
+    "for-profit organizations",
+    "State and Local Governments",
+    "Local school districts",
+    "Tribal Nations",
+    "Foreign organizations",
+    "Other Federal Agencies",
+    "Federally Funded Research and Development Centers",
+    "Standard Grant",
+    "Continuing Grant",
+    "Estimated Number of Awards",
+    "12"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Developmental Sciences (DS)",
+      "section": "Other"
+    },
+    {
+      "text": "basic research",
+      "section": "Other"
+    },
+    {
+      "text": "perceptual processes",
+      "section": "Other"
+    },
+    {
+      "text": "cognitive processes",
+      "section": "Other"
+    },
+    {
+      "text": "linguistic processes",
+      "section": "Other"
+    },
+    {
+      "text": "social processes",
+      "section": "Other"
+    },
+    {
+      "text": "cultural processes",
+      "section": "Other"
+    },
+    {
+      "text": "biological processes",
+      "section": "Other"
+    },
+    {
+      "text": "human development",
+      "section": "Other"
+    },
+    {
+      "text": "lifespan",
+      "section": "Other"
+    },
+    {
+      "text": "research investigating factors",
+      "section": "Other"
+    },
+    {
+      "text": "family influences",
+      "section": "Other"
+    },
+    {
+      "text": "peer influences",
+      "section": "Other"
+    },
+    {
+      "text": "school influences",
+      "section": "Other"
+    },
+    {
+      "text": "community influences",
+      "section": "Other"
+    },
+    {
+      "text": "cultural influences",
+      "section": "Other"
+    },
+    {
+      "text": "media influences",
+      "section": "Other"
+    },
+    {
+      "text": "physical influences",
+      "section": "Other"
+    },
+    {
+      "text": "genetic influences",
+      "section": "Other"
+    },
+    {
+      "text": "epigenetic influences",
+      "section": "Other"
+    },
+    {
+      "text": "multidisciplinary approaches",
+      "section": "Other"
+    },
+    {
+      "text": "multi-method approaches",
+      "section": "Other"
+    },
+    {
+      "text": "longitudinal approaches",
+      "section": "Other"
+    },
+    {
+      "text": "Diversity, Equity, and Inclusion",
+      "section": "Other"
+    },
+    {
+      "text": "historically marginalized groups",
+      "section": "Program Description"
+    },
+    {
+      "text": "PIs and co-PIs",
+      "section": "Program Description"
+    },
+    {
+      "text": "communities",
+      "section": "Program Description"
+    },
+    {
+      "text": "developmental sciences",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "for-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Local school districts",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Foreign organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Other Federal Agencies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Federally Funded Research and Development Centers",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "12",
+      "section": "Award Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "PIs and co-PIs",
+        "source_text": "PIs and co-PIs",
+        "confidence": 0.9
+      },
+      {
+        "tag": "communities",
+        "source_text": "communities",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "school districts",
+        "source_text": "Local school districts",
+        "confidence": 0.8376,
+        "sources": [
+          "Local school districts"
+        ]
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "public school district",
+        "source_text": "Local school districts",
+        "confidence": 0.7973,
+        "sources": [
+          "Local school districts"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-30"
+    ],
+    "raw_mentions": [
+      "In addition to consulting the NSF awards database, it is often useful for interested proposers to submit (via email) a summary of no more than one page so that a program director can advise the investigator on the fit of the project for DS before the preparation of a full proposal. New investigators are encouraged to solicit assistance in the preparation of their project proposals via consultation with senior researchers in their area, pre-submission review by colleagues, and attendance at symposia and events at professional conferences geared towards educating investigators seeking federal funding.",
+      "Next due date (Y-m-d): 2026-01-30, 2026-01-30",
+      "Conference proposals should generally be submitted at least 1 year in advance of the proposed event. While conference proposals may be submitted at any time, the program may elect to have them reviewed by review panels along with research proposals submitted to the regular proposal deadline. Please consult Chapter II.F of the PAPPG for information about preparing and submitting conference proposals, including a list of required elements and budget exclusions, while keeping in mind the Developmental Science Program's specific interests and limitations.",
+      "An REU supplement usually provides support for one or two undergraduate students to participate in research as a part of a new or ongoing NSF-funded research project. For REU requests submitted to the Developmental Sciences Program, proposers are advised that the PI should be a post-PhD developmental scientist who holds existing NSF award(s).",
+      "The Research in Undergraduate Institutions (RUI) and Research Opportunity Awards (ROA) funding opportunities support research by faculty members at predominantly undergraduate institutions (PUIs). RUI proposals support PUI faculty in research that engages them in their professional field(s), builds capacity for research at their home institution, and supports the integration of research and undergraduate education. ROAs similarly support PUI faculty research, but these awards typically allow faculty to work as visiting scientists at research-intensive organizations where they collaborate with other NSF-supported investigators. RUI proposals are reviewed alongside other standard proposals in the Developmental Sciences program and must be submitted by the deadline specified in this solicitation.",
+      "For a given Developmental Sciences proposal submission deadline, an individual may only be listed as a PI, co-PI, faculty associate or subaward lead on one proposal. Researchers may be listed in other capacities (e.g., collaborator, consultant) on one additional proposal. Exceeding the limit of submissions per PI will result in a proposal returned without review in the reverse order received. Based on a need for portfolio diversity, we encourage recent recipients to explore alternative funding opportunities rather than seek additional funding from Developmental Sciences.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_developmental_sciences_ds.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ds-developmental-sciences/nsf24-544/solicitation"
+  },
+  "document_title": "Developmental Sciences (DS)"
+}

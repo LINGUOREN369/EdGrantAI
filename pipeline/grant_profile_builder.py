@@ -52,6 +52,7 @@ from typing import Dict, List, Optional
 
 from .cke import run_cke
 from .canonical_mapper import map_all_taxonomies
+from .section_utils import assign_sections_to_phrases
 from .config import settings
 from .deadline_extractor import extract_deadline_info
 import argparse
@@ -96,9 +97,28 @@ def build_grant_profile(
 
     # Step 1 — Controlled Keyphrase Extraction
     extracted_phrases = run_cke(grant_text)
+    phrases_structured = assign_sections_to_phrases(extracted_phrases, grant_text)
 
-    # Step 2 — Canonical Mapping
-    mapped_tags = map_all_taxonomies(extracted_phrases)
+    # Optional document title (e.g., from a line like 'Title: ...')
+    doc_title: Optional[str] = None
+    for line in grant_text.splitlines():
+        l = line.strip()
+        if not l:
+            continue
+        if l.lower().startswith("title:"):
+            try:
+                doc_title = l.split(":", 1)[1].strip() or None
+            except Exception:
+                doc_title = None
+            break
+
+    # Step 2 — Canonical Mapping (provenance-aware)
+    mapped_tags = map_all_taxonomies(
+        extracted_phrases,
+        phrases_structured,
+        doc_title=doc_title,
+        full_text=grant_text,
+    )
 
     # Step 3 — Load taxonomy version
     version = load_taxonomy_version()
@@ -109,12 +129,14 @@ def build_grant_profile(
         "created_at": datetime.now(ZoneInfo(settings.TIMEZONE)).isoformat(),
         "taxonomy_version": version,
         "extracted_phrases": extracted_phrases,
+        "extracted_phrases_structured": phrases_structured,
         "canonical_tags": mapped_tags,
         "deadline": extract_deadline_info(grant_text),
         "source": {
             "path": str(source_path) if source_path else None,
             "url": str(source_url) if source_url else None,
         },
+        "document_title": doc_title,
     }
 
     return profile

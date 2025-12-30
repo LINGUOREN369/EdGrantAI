@@ -1,0 +1,119 @@
+{
+  "grant_id": "nsf_nsf_national_quantum_virtual_laboratory_quantum_testbeds_nqvl",
+  "created_at": "2025-12-30T01:20:10.734065-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "NSF National Quantum Virtual Laboratory",
+    "Quantum Testbeds",
+    "National Quantum Initiative",
+    "Quantum Information Science and Engineering",
+    "Quantum Frontiers",
+    "QISE education and workforce development strategies",
+    "National Quantum Virtual Laboratory concept",
+    "Quantum Science and Technology Demonstration",
+    "Design and Implementation phases",
+    "Quantum Science and Technology Demonstration projects",
+    "Transformative Advances in Quantum Systems",
+    "NQVL Central Hub",
+    "Quantum Economic Development Consortium",
+    "QISE Strategic Plans",
+    "Education and Workforce Development Plan"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "NSF National Quantum Virtual Laboratory",
+      "section": "Other"
+    },
+    {
+      "text": "Quantum Testbeds",
+      "section": "Other"
+    },
+    {
+      "text": "National Quantum Initiative",
+      "section": "Other"
+    },
+    {
+      "text": "Quantum Information Science and Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "Quantum Frontiers",
+      "section": "Other"
+    },
+    {
+      "text": "QISE education and workforce development strategies",
+      "section": "Other"
+    },
+    {
+      "text": "National Quantum Virtual Laboratory concept",
+      "section": "Other"
+    },
+    {
+      "text": "Quantum Science and Technology Demonstration",
+      "section": "Other"
+    },
+    {
+      "text": "Design and Implementation phases",
+      "section": "Introduction"
+    },
+    {
+      "text": "Quantum Science and Technology Demonstration projects",
+      "section": "Introduction"
+    },
+    {
+      "text": "Transformative Advances in Quantum Systems",
+      "section": "Other"
+    },
+    {
+      "text": "NQVL Central Hub",
+      "section": "Introduction"
+    },
+    {
+      "text": "Quantum Economic Development Consortium",
+      "section": "Introduction"
+    },
+    {
+      "text": "QISE Strategic Plans",
+      "section": "Program Description"
+    },
+    {
+      "text": "Education and Workforce Development Plan",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "workforce development",
+        "source_text": "Education and Workforce Development Plan",
+        "confidence": 0.6869
+      },
+      {
+        "tag": "Quantum Science and Technology Demonstration projects",
+        "source_text": "Quantum Science and Technology Demonstration projects",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-04-07"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-04-07, 2026-04-07, 2026-04-07, 2026-04-07",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_national_quantum_virtual_laboratory_quantum_testbeds_nqvl.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/nqvl-nsf-national-quantum-virtual-laboratory-quantum-testbeds/nsf24-586/solicitation"
+  },
+  "document_title": "NSF National Quantum Virtual Laboratory - Quantum Testbeds (NQVL)"
+}

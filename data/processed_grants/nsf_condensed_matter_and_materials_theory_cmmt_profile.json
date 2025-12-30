@@ -1,0 +1,286 @@
+{
+  "grant_id": "nsf_condensed_matter_and_materials_theory_cmmt",
+  "created_at": "2025-12-29T23:57:57.599015-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Condensed Matter and Materials Theory",
+    "CMMT",
+    "Division of Materials Research",
+    "theoretical and computational materials research",
+    "Condensed Matter Physics",
+    "Biomaterials",
+    "Ceramics",
+    "Electronic and Photonic Materials",
+    "Metals and Metallic Nanostructures",
+    "Polymers",
+    "Solid State and Materials Chemistry",
+    "hard and soft materials",
+    "materials-related phenomena",
+    "analytical, computational, and data-centric techniques",
+    "predictive materials-specific theory",
+    "simulation and modeling",
+    "first-principles electronic structure",
+    "quantum many-body and field theories",
+    "statistical mechanics",
+    "molecular dynamics",
+    "data-centric approaches",
+    "machine learning",
+    "polymeric materials",
+    "strongly correlated electron systems",
+    "topological phases",
+    "low-dimensional materials and systems",
+    "quantum and classical nonequilibrium phenomena",
+    "coherent quantum states",
+    "sustainable materials",
+    "active matter",
+    "biologically inspired materials",
+    "interfaces of materials with biological systems",
+    "Computational and Data-Enabled Science and Engineering",
+    "EAGER",
+    "RAPID",
+    "standard grant",
+    "continuing grant",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "Limit on Number of Proposals per PI or Co-PI",
+    "Grant Opportunities for Academic Liaison with Industry",
+    "Facilitating Research at Primarily Undergraduate Institutions",
+    "Dear Colleague Letter",
+    "NSF and US-Israel Binational Science Foundation",
+    "United States-Ireland-Northern Ireland R&D Partnership"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Condensed Matter and Materials Theory",
+      "section": "Other"
+    },
+    {
+      "text": "CMMT",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Materials Research",
+      "section": "Other"
+    },
+    {
+      "text": "theoretical and computational materials research",
+      "section": "Other"
+    },
+    {
+      "text": "Condensed Matter Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Biomaterials",
+      "section": "Other"
+    },
+    {
+      "text": "Ceramics",
+      "section": "Other"
+    },
+    {
+      "text": "Electronic and Photonic Materials",
+      "section": "Other"
+    },
+    {
+      "text": "Metals and Metallic Nanostructures",
+      "section": "Other"
+    },
+    {
+      "text": "Polymers",
+      "section": "Other"
+    },
+    {
+      "text": "Solid State and Materials Chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "hard and soft materials",
+      "section": "Other"
+    },
+    {
+      "text": "materials-related phenomena",
+      "section": "Other"
+    },
+    {
+      "text": "analytical, computational, and data-centric techniques",
+      "section": "Other"
+    },
+    {
+      "text": "predictive materials-specific theory",
+      "section": "Other"
+    },
+    {
+      "text": "simulation and modeling",
+      "section": "Other"
+    },
+    {
+      "text": "first-principles electronic structure",
+      "section": "Other"
+    },
+    {
+      "text": "quantum many-body and field theories",
+      "section": "Other"
+    },
+    {
+      "text": "statistical mechanics",
+      "section": "Other"
+    },
+    {
+      "text": "molecular dynamics",
+      "section": "Other"
+    },
+    {
+      "text": "data-centric approaches",
+      "section": "Other"
+    },
+    {
+      "text": "machine learning",
+      "section": "Other"
+    },
+    {
+      "text": "polymeric materials",
+      "section": "Other"
+    },
+    {
+      "text": "strongly correlated electron systems",
+      "section": "Other"
+    },
+    {
+      "text": "topological phases",
+      "section": "Other"
+    },
+    {
+      "text": "low-dimensional materials and systems",
+      "section": "Other"
+    },
+    {
+      "text": "quantum and classical nonequilibrium phenomena",
+      "section": "Other"
+    },
+    {
+      "text": "coherent quantum states",
+      "section": "Other"
+    },
+    {
+      "text": "sustainable materials",
+      "section": "Other"
+    },
+    {
+      "text": "active matter",
+      "section": "Other"
+    },
+    {
+      "text": "biologically inspired materials",
+      "section": "Other"
+    },
+    {
+      "text": "interfaces of materials with biological systems",
+      "section": "Other"
+    },
+    {
+      "text": "Computational and Data-Enabled Science and Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "EAGER",
+      "section": "Program Description"
+    },
+    {
+      "text": "RAPID",
+      "section": "Program Description"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or Co-PI",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Grant Opportunities for Academic Liaison with Industry",
+      "section": "Program Description"
+    },
+    {
+      "text": "Facilitating Research at Primarily Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Dear Colleague Letter",
+      "section": "Program Description"
+    },
+    {
+      "text": "NSF and US-Israel Binational Science Foundation",
+      "section": "Program Description"
+    },
+    {
+      "text": "United States-Ireland-Northern Ireland R&D Partnership",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Facilitating Research at Primarily Undergraduate Institutions",
+        "source_text": "Facilitating Research at Primarily Undergraduate Institutions",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Grant Opportunities for Academic Liaison with Industry",
+        "source_text": "Grant Opportunities for Academic Liaison with Industry",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per PI or Co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "Exceptions are proposals through mechanisms that have their own solicitations or program descriptions, such as CAREER, CDS&E, and RUI/ROA. CAREER and CDS&E proposals should be submitted through their respective solicitations by the deadline date specified therein. RUI/ROA proposals have no deadline: they should be submitted through the RUI/ROA solicitation but are subject to the same submission constraints as other proposals submitted to the DMR Topical Materials Research Programs.",
+      "A multidisciplinary proposal bridging several NSF programs can request co-review by indicating more than one program. After the proposal has been created in Research.gov, click on the \"Manage Where to Apply\" link where programs can be added. If such a proposal selects CMMT as a secondary program, the proposal must be submitted by the proposal submission deadline of the first program. If such a proposal selects CMMT as the primary program, it is highly encouraged the proposal be submitted by proposal submission deadline of the secondary program in order to facilitate co-review.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_condensed_matter_and_materials_theory_cmmt.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/cmmt-condensed-matter-materials-theory/nsf23-611/solicitation"
+  },
+  "document_title": "Condensed Matter and Materials Theory (CMMT)"
+}

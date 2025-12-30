@@ -1,0 +1,295 @@
+{
+  "grant_id": "nsf_mid_scale_research_infrastructure_1_mid_scale_ri_1",
+  "created_at": "2025-12-30T01:07:32.703271-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Mid-scale Research Infrastructure-1",
+    "Mid-scale RI-1",
+    "Major Research Instrumentation",
+    "Major Multi-user Facilities",
+    "Research Infrastructure",
+    "Mid-scale projects",
+    "STEM research infrastructure",
+    "diverse workforce",
+    "cyberinfrastructure",
+    "National Science Board",
+    "U.S. researchers",
+    "global research environment",
+    "Implementation",
+    "Design",
+    "Implementation projects",
+    "Design activities",
+    "Mid-scale RI-2",
+    "infrastructure investments",
+    "broadening participation in STEM",
+    "persons with disabilities",
+    "Mid-scale Research Infrastructure Projects",
+    "Award Type",
+    "Standard Grant",
+    "Continuing Grant",
+    "Cooperative Agreement",
+    "Estimated Number of Awards",
+    "Proposals may only be submitted by",
+    "institutions of higher education",
+    "not-for-profit organizations",
+    "independent museums",
+    "science centers",
+    "observatories",
+    "research laboratories",
+    "Federal agencies",
+    "FFRDCs",
+    "geographically diverse set",
+    "EPSCoR jurisdictions",
+    "diverse talent",
+    "principal investigators",
+    "sub-awards",
+    "minority-serving institutions"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Mid-scale Research Infrastructure-1",
+      "section": "Other"
+    },
+    {
+      "text": "Mid-scale RI-1",
+      "section": "Other"
+    },
+    {
+      "text": "Major Research Instrumentation",
+      "section": "Other"
+    },
+    {
+      "text": "Major Multi-user Facilities",
+      "section": "Other"
+    },
+    {
+      "text": "Research Infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "Mid-scale projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "STEM research infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "diverse workforce",
+      "section": "Other"
+    },
+    {
+      "text": "cyberinfrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Board",
+      "section": "Introduction"
+    },
+    {
+      "text": "U.S. researchers",
+      "section": "Other"
+    },
+    {
+      "text": "global research environment",
+      "section": "Other"
+    },
+    {
+      "text": "Implementation",
+      "section": "Other"
+    },
+    {
+      "text": "Design",
+      "section": "Other"
+    },
+    {
+      "text": "Implementation projects",
+      "section": "Other"
+    },
+    {
+      "text": "Design activities",
+      "section": "Other"
+    },
+    {
+      "text": "Mid-scale RI-2",
+      "section": "Other"
+    },
+    {
+      "text": "infrastructure investments",
+      "section": "Introduction"
+    },
+    {
+      "text": "broadening participation in STEM",
+      "section": "Other"
+    },
+    {
+      "text": "persons with disabilities",
+      "section": "Other"
+    },
+    {
+      "text": "Mid-scale Research Infrastructure Projects",
+      "section": "Other"
+    },
+    {
+      "text": "Award Type",
+      "section": "Other"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Proposals may only be submitted by",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "institutions of higher education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "not-for-profit organizations",
+      "section": "Other"
+    },
+    {
+      "text": "independent museums",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "science centers",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "observatories",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "research laboratories",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Federal agencies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "FFRDCs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "geographically diverse set",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR jurisdictions",
+      "section": "Other"
+    },
+    {
+      "text": "diverse talent",
+      "section": "Other"
+    },
+    {
+      "text": "principal investigators",
+      "section": "Program Description"
+    },
+    {
+      "text": "sub-awards",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "minority-serving institutions",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Mid-scale projects",
+        "source_text": "Mid-scale projects",
+        "confidence": 0.9
+      },
+      {
+        "tag": "principal investigators",
+        "source_text": "principal investigators",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "students with disabilities",
+        "source_text": "persons with disabilities",
+        "confidence": 0.6749,
+        "sources": [
+          "persons with disabilities"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "minority-serving institutions",
+        "confidence": 0.9479,
+        "sources": [
+          "minority-serving institutions"
+        ]
+      },
+      {
+        "tag": "science center",
+        "source_text": "science centers",
+        "confidence": 0.8789,
+        "sources": [
+          "science centers"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "institutions of higher education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR jurisdictions",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-09-01"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-09-01, 2026-09-01",
+      "The goal of Mid-scale RI-1 is the fulfillment of a research community-defined need that enables current and next-generation U.S. researchers to be competitive in a global research environment. In order to solve the most pressing scientific and societal problems of the day (such as those called out in National Academies reports and decadal surveys, identified through research community planning and prioritizing exercises, or called out as other national priorities), the use of new technologies, techniques, and concepts is encouraged in this competition. Mid-scale RI-1 focuses on innovative, potentially transformative projects. The scientific justification should demonstrate how the proposed infrastructure provides more advanced research capabilities relative to what is generally available to the general U.S. research community; investigators whose preliminary proposals are for capabilities similar to those currently available to the U.S. research community are unlikely to be invited to submit full proposals. With the exception of design awards, infrastructure acquired or developed with support from the Mid-scale RI-1 Program is expected to be operational by the end of the award period to enable the research for which the infrastructure was proposed.",
+      "Prior to making a funding decision, NSF is required to ensure compliance with applicable federal environmental laws and regulations such as the National Environmental Policy Act (NEPA), the National Historic Preservation Act (NHPA), and the Endangered Species Act (ESA). For example, these statutes require NSF to consider the potential impacts of activities associated with proposals under consideration for NSF funding on a broad range of environmental resources (NEPA), significant historic properties (NHPA), and endangered and/or threatened species (ESA). To assist NSF in determining which environmental statutes may apply and what level of environmental review may be appropriate, preliminary proposals (and if applicable full proposals) should indicate whether activities are anticipated to impact the natural or cultural environment, especially those involving renovation, construction, or major fixed equipment installation. In order to support NSF's federal environmental review and compliance obligations, additional information may be requested from the PI. For projects that are invited to submit full proposals, an Environmental Checklist must be provided as a Single Copy Document. Details are provided under the Full Proposal Preparation section in this Solicitation.",
+      "The Mid-scale RI-1 Program does not provide operating or maintenance funds for projects it supports through this solicitation. However, to inform NSF directorates and divisions of potential future O&M obligations, both preliminary and full proposals must describe viable plans for post-implementation O&M for any planned infrastructure.",
+      "Proposals may only be submitted by organizations located in the United States, its territories, or possessions, as follows. Institutions of higher education (Ph.D.-granting and non-Ph.D.-granting), acting on behalf of their faculty members, that are accredited in and have their main campus in the United States, its territories, or possessions. Distinct academic campuses (e.g., that award their own degrees, have independent administrative structures, admissions policies, alumni associations, etc.) within multi-campus systems qualify as separate submission-eligible institutions. Not-for-profit, non-degree-granting domestic U.S. organizations, acting on behalf of their employees, for example (but not limited to) independent museums and science centers, observatories, research laboratories and similar organizations that are directly associated with the Nation's research activities. These organizations must have an independent, permanent administrative organization (e.g., a sponsored projects office) located in the United States, its territories, or possessions, and have 501(c)(3) tax status. Consortia as follows: A legally incorporated, not-for-profit consortium that includes two or more submission-eligible organizations as described in items (1) and (2) above. Such a consortium is one with an independent administrative structure (e.g., a sponsored projects office) located in the United States, its territories, or possessions and has 501(c)(3) status. Submission-eligible organizations as described in items (1) and (2) above, on behalf of an informal consortium. The Cover Sheet of such a proposal must identify both a PI and co-PI(s) from at least two Mid-scale RI-1 submission-eligible organizations (items 1 and/or 2 above) as lead investigators in the consortium. These consortium proposals may also include as partners, via sub-awards, other U.S. and non-U.S. organizations that are not eligible to submit Mid-scale RI-1 proposals. In either case, the proposal title should indicate that a consortium is proposing. For-profit commercial organizations, especially U.S. small businesses with strong capabilities in scientific or engineering research or education, are eligible for infrastructure support through sub-awards/subcontracts as private sector partners with submitting organizations; they may not submit proposals in response to this solicitation. Such partnerships must be substantive and meaningful and build capacity for infrastructure development within Mid-scale RI-1 submission-eligible organization(s). In addition, the value added by the for-profit commercial organization should be justified as a unique contribution that is otherwise unavailable within organizations described in (1) and (2). Unless otherwise specified in the award, title to the resulting infrastructure should be retained by the Mid-scale RI-1-eligible performing organization. Prospective PIs may contact cognizant Mid-scale RI-1 program officers regarding organizational eligibility, and for information on other NSF funding opportunities for instrumentation and research infrastructure. Additionally: Proposals that augment MREFC projects: The Mid-scale RI-1 program will not accept proposals for an instrument or other infrastructure that augments an ongoing NSF Major Multi-user Facility or Mid-scale RI-2 project in the construction stage, since the scope of those projects is already defined. A list of Major Facilities projects is available at https://www.nsf.gov/bfa/lfo/docs/major-facilities-list.pdf and the Mid-scale RI-2 projects link lists awards made through that program. Proposals involving other Federal agencies, their labs or FFRDCs: NSF's Federally Funded Research and Development Centers (FFRDCs) are eligible to submit under item 2) above. Proposals involving another Federal agency, one of their labs or one of their FFRDCs must be submitted as a consortium proposal by a submission-eligible organization as described in item 3(b) above. In addition, a second submission-eligible organization must be involved as well as the agency/lab/FFRDC (or its managing organization) as a partner in the consortium. Such involvement must make unique contributions to the needs of researchers within the consortium and/or establish access to new multi-user research capabilities. Preliminary inquiry to the cognizant Mid-scale RI-1 point of contact should be made before preparing such a proposal for submission. (The current list of FFRDCs can be found at https://www.nsf.gov/statistics/ffrdclist/ .)",
+      "Proposals that augment MREFC projects: The Mid-scale RI-1 program will not accept proposals for an instrument or other infrastructure that augments an ongoing NSF Major Multi-user Facility or Mid-scale RI-2 project in the construction stage, since the scope of those projects is already defined. A list of Major Facilities projects is available at https://www.nsf.gov/bfa/lfo/docs/major-facilities-list.pdf and the Mid-scale RI-2 projects link lists awards made through that program.",
+      "There are no limits to the number of preliminary proposals submitted as the lead organization. Full proposals are to be submitted only if/when invited by NSF. There is no limit to participation as a partner organization or sub-awardee.",
+      "Any one individual may be the Principal Investigator (PI) or co-Principal Investigator (co-PI) for no more than one preliminary or full proposal. A PI or co-PI for a preliminary proposal who is not invited for a full proposal submission may later serve as a co-PI or other senior personnel on an invited full proposal at the full-proposal organization's and PI's discretion.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg ."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_mid_scale_research_infrastructure_1_mid_scale_ri_1.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/mid-scale-ri-1-mid-scale-research-infrastructure-1/nsf24-598/solicitation"
+  },
+  "document_title": "Mid-scale Research Infrastructure-1 (Mid-scale RI-1)"
+}

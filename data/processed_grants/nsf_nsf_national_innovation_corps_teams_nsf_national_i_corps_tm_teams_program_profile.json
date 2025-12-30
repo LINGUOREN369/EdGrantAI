@@ -1,0 +1,205 @@
+{
+  "grant_id": "nsf_nsf_national_innovation_corps_teams_nsf_national_i_corps_tm_teams_program",
+  "created_at": "2025-12-30T01:19:48.103806-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "NSF National Innovation Corps Teams",
+    "NSF National I-Corps (TM) Teams program",
+    "innovation ecosystem",
+    "foundational research",
+    "customer discovery",
+    "deep technologies",
+    "entrepreneurial education",
+    "third-party funding",
+    "NSF National I-Corps Teams program",
+    "NSF National I-Corps Team",
+    "Entrepreneurial Lead",
+    "Technical Lead",
+    "Industrial Mentor",
+    "Regional NSF I-Corps Training Program",
+    "NSF I-Corps Hub",
+    "scientific or engineering field",
+    "Institutions of Higher Education",
+    "two-year IHEs",
+    "four-year IHEs",
+    "community colleges",
+    "Principal Investigator",
+    "NSF National I-Corps Teams Program",
+    "NSF National I-Corps teams",
+    "team members",
+    "entrepreneurial immersion training",
+    "Executive Summary",
+    "technology demonstration",
+    "commercial application"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "NSF National Innovation Corps Teams",
+      "section": "Other"
+    },
+    {
+      "text": "NSF National I-Corps (TM) Teams program",
+      "section": "Other"
+    },
+    {
+      "text": "innovation ecosystem",
+      "section": "Other"
+    },
+    {
+      "text": "foundational research",
+      "section": "Other"
+    },
+    {
+      "text": "customer discovery",
+      "section": "Program Description"
+    },
+    {
+      "text": "deep technologies",
+      "section": "Other"
+    },
+    {
+      "text": "entrepreneurial education",
+      "section": "Other"
+    },
+    {
+      "text": "third-party funding",
+      "section": "Other"
+    },
+    {
+      "text": "NSF National I-Corps Teams program",
+      "section": "Other"
+    },
+    {
+      "text": "NSF National I-Corps Team",
+      "section": "Other"
+    },
+    {
+      "text": "Entrepreneurial Lead",
+      "section": "Program Description"
+    },
+    {
+      "text": "Technical Lead",
+      "section": "Program Description"
+    },
+    {
+      "text": "Industrial Mentor",
+      "section": "Program Description"
+    },
+    {
+      "text": "Regional NSF I-Corps Training Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "NSF I-Corps Hub",
+      "section": "Program Description"
+    },
+    {
+      "text": "scientific or engineering field",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two-year IHEs",
+      "section": "Other"
+    },
+    {
+      "text": "four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Program Description"
+    },
+    {
+      "text": "NSF National I-Corps Teams Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "NSF National I-Corps teams",
+      "section": "Program Description"
+    },
+    {
+      "text": "team members",
+      "section": "Program Description"
+    },
+    {
+      "text": "entrepreneurial immersion training",
+      "section": "Program Description"
+    },
+    {
+      "text": "Executive Summary",
+      "section": "Program Description"
+    },
+    {
+      "text": "technology demonstration",
+      "section": "Other"
+    },
+    {
+      "text": "commercial application",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "NSF National I-Corps Teams Program",
+        "source_text": "NSF National I-Corps Teams Program",
+        "confidence": 0.9
+      },
+      {
+        "tag": "entrepreneurial immersion training",
+        "source_text": "entrepreneurial immersion training",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_national_innovation_corps_teams_nsf_national_i_corps_tm_teams_program.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/nsf-national-innovation-corps-teams-nsf-national-i-corps-tm/nsf25-549/solicitation"
+  },
+  "document_title": "NSF National Innovation Corps Teams (NSF National I-Corps (TM) Teams) program"
+}

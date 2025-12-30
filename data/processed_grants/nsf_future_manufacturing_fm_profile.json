@@ -1,0 +1,232 @@
+{
+  "grant_id": "nsf_future_manufacturing_fm",
+  "created_at": "2025-12-30T00:35:09.705895-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Future Manufacturing",
+    "Future Manufacturing Research Grants",
+    "Future Manufacturing Seed Grants",
+    "Future Cyber Manufacturing Research",
+    "Future Eco Manufacturing Research",
+    "Future Biomanufacturing Research",
+    "National Strategy for Advanced Manufacturing",
+    "NSF Research Traineeship",
+    "research and education",
+    "STEM workforce",
+    "minority-serving institutions",
+    "primarily undergraduate institutions",
+    "community colleges",
+    "established relationships",
+    "new manufacturing capabilities",
+    "education of a diverse and skilled technical workforce",
+    "new materials",
+    "new processes",
+    "quantum computing",
+    "quantum devices",
+    "artificial intelligence",
+    "machine learning",
+    "sustainable manufacturing",
+    "biomanufacturing capacity",
+    "health disparities",
+    "environmental sustainability",
+    "social challenges",
+    "skilled technical workforce",
+    "higher education",
+    "U.S.-based commercial organizations",
+    "research and education activities"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Future Manufacturing",
+      "section": "Other"
+    },
+    {
+      "text": "Future Manufacturing Research Grants",
+      "section": "Other"
+    },
+    {
+      "text": "Future Manufacturing Seed Grants",
+      "section": "Other"
+    },
+    {
+      "text": "Future Cyber Manufacturing Research",
+      "section": "Other"
+    },
+    {
+      "text": "Future Eco Manufacturing Research",
+      "section": "Other"
+    },
+    {
+      "text": "Future Biomanufacturing Research",
+      "section": "Other"
+    },
+    {
+      "text": "National Strategy for Advanced Manufacturing",
+      "section": "Other"
+    },
+    {
+      "text": "NSF Research Traineeship",
+      "section": "Introduction"
+    },
+    {
+      "text": "research and education",
+      "section": "Other"
+    },
+    {
+      "text": "STEM workforce",
+      "section": "Other"
+    },
+    {
+      "text": "minority-serving institutions",
+      "section": "Other"
+    },
+    {
+      "text": "primarily undergraduate institutions",
+      "section": "Other"
+    },
+    {
+      "text": "community colleges",
+      "section": "Other"
+    },
+    {
+      "text": "established relationships",
+      "section": "Program Description"
+    },
+    {
+      "text": "new manufacturing capabilities",
+      "section": "Other"
+    },
+    {
+      "text": "education of a diverse and skilled technical workforce",
+      "section": "Introduction"
+    },
+    {
+      "text": "new materials",
+      "section": "Other"
+    },
+    {
+      "text": "new processes",
+      "section": "Introduction"
+    },
+    {
+      "text": "quantum computing",
+      "section": "Introduction"
+    },
+    {
+      "text": "quantum devices",
+      "section": "Introduction"
+    },
+    {
+      "text": "artificial intelligence",
+      "section": "Other"
+    },
+    {
+      "text": "machine learning",
+      "section": "Introduction"
+    },
+    {
+      "text": "sustainable manufacturing",
+      "section": "Other"
+    },
+    {
+      "text": "biomanufacturing capacity",
+      "section": "Other"
+    },
+    {
+      "text": "health disparities",
+      "section": "Other"
+    },
+    {
+      "text": "environmental sustainability",
+      "section": "Other"
+    },
+    {
+      "text": "social challenges",
+      "section": "Other"
+    },
+    {
+      "text": "skilled technical workforce",
+      "section": "Other"
+    },
+    {
+      "text": "higher education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S.-based commercial organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "research and education activities",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "quantum computing",
+        "source_text": "quantum computing",
+        "confidence": 0.9
+      },
+      {
+        "tag": "machine learning",
+        "source_text": "machine learning",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "undergraduate students",
+        "source_text": "primarily undergraduate institutions",
+        "confidence": 0.6056,
+        "sources": [
+          "primarily undergraduate institutions"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "minority-serving institutions",
+        "confidence": 0.9479,
+        "sources": [
+          "minority-serving institutions"
+        ]
+      },
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "Transformative advances in manufacturing processes and products may create opportunities to implement innovations in social and organizational aspects of manufacturing where human workers interact with emerging technological advances to outperform either human workers or automation alone. Proposals submitted to this solicitation may address such opportunities through an optional Future of Work (FW) research component that enhances the Intellectual Merit of the proposal. The FW component should include expertise in appropriate social, economic, and/or behavioral disciplines. It will contain fully integrated research on the human worker, including a social, organizational, cognitive, behavioral, or health perspective. The optional FW component should show potential to alter established relationships between manufacturing, work, and society, to strengthen the social fabric, to promote human agency and dignity, to enhance the mental and physical well-being of manufacturing workers and the broader community, to protect the environment, and to facilitate ongoing innovation and continual constructive disruption in manufacturing. Proposals with an FW component have additional formatting requirements. See \"Proposal Preparation Instructions\" for specifics.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_future_manufacturing_fm.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/fm-future-manufacturing/nsf24-525/solicitation"
+  },
+  "document_title": "Future Manufacturing (FM)"
+}

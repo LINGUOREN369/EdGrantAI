@@ -1,0 +1,129 @@
+{
+  "grant_id": "nsf_expeditions_in_computing_expeditions",
+  "created_at": "2025-12-30T00:27:28.701711-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Expeditions in Computing",
+    "computer and information science and engineering",
+    "CISE research and education community",
+    "fundamental research agendas",
+    "disruptive innovations",
+    "Innovation Transition",
+    "InTrans",
+    "Secure and Trustworthy Cyberspace",
+    "Cyber-Physical Systems",
+    "BROADENING PARTICIPATION",
+    "institutions of higher education",
+    "two-and four-year U.S. IHEs",
+    "non-profit non-academic organizations",
+    "national laboratories"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Expeditions in Computing",
+      "section": "Other"
+    },
+    {
+      "text": "computer and information science and engineering",
+      "section": "Other"
+    },
+    {
+      "text": "CISE research and education community",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental research agendas",
+      "section": "Other"
+    },
+    {
+      "text": "disruptive innovations",
+      "section": "Other"
+    },
+    {
+      "text": "Innovation Transition",
+      "section": "Other"
+    },
+    {
+      "text": "InTrans",
+      "section": "Other"
+    },
+    {
+      "text": "Secure and Trustworthy Cyberspace",
+      "section": "Other"
+    },
+    {
+      "text": "Cyber-Physical Systems",
+      "section": "Other"
+    },
+    {
+      "text": "BROADENING PARTICIPATION",
+      "section": "Program Description"
+    },
+    {
+      "text": "institutions of higher education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two-and four-year U.S. IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "national laboratories",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "BROADENING PARTICIPATION",
+        "confidence": 1.0
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "national laboratory",
+        "source_text": "national laboratories",
+        "confidence": 0.8956,
+        "sources": [
+          "national laboratories"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "institutions of higher education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-06-22"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-06-22, 2026-06-22",
+      "In the event that an individual exceeds this limit for a given deadline, any Expeditions proposal submitted to that deadline with this individual listed as a PI, co-PI, or senior/key personnel after the first proposal is received at NSF will be returned without review. No exceptions will be made.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_expeditions_in_computing_expeditions.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/expeditions-expeditions-computing/nsf20-544/solicitation"
+  },
+  "document_title": "Expeditions in Computing (Expeditions)"
+}

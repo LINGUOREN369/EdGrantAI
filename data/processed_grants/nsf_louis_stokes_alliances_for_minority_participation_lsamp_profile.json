@@ -1,0 +1,239 @@
+{
+  "grant_id": "nsf_louis_stokes_alliances_for_minority_participation_lsamp",
+  "created_at": "2025-12-30T00:59:35.018788-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Louis Stokes Alliances for Minority Participation",
+    "STEM Learning Ecosystem",
+    "STEM workforce",
+    "LSAMP populations",
+    "Blacks and African-Americans",
+    "Hispanic and Latino Americans",
+    "American Indians",
+    "Alaska Natives",
+    "Native Hawaiians",
+    "Pacific Islanders",
+    "B2B",
+    "Bridge-to-the-Baccalaureate",
+    "B2B alliances",
+    "STEM Pathways Implementation-Only",
+    "SPIO alliances",
+    "STEM Pathways Research Alliances",
+    "SPRA",
+    "Bridge to STEM Graduate Degrees in National Priorities",
+    "BD-Master's",
+    "BD-Doctoral",
+    "STEM Networking Incentives and Engagement",
+    "NETWORKS",
+    "estimated number of awards",
+    "two-and-four-year IHEs",
+    "Institutions of Higher Education",
+    "IHEs",
+    "community colleges",
+    "non-profit organizations",
+    "for-profit organizations",
+    "Carnegie Classification",
+    "Alliances",
+    "STEM Pathways Research Alliance",
+    "full proposals",
+    "STEM education research knowledge",
+    "evidence-based strategies"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Louis Stokes Alliances for Minority Participation",
+      "section": "Other"
+    },
+    {
+      "text": "STEM Learning Ecosystem",
+      "section": "Other"
+    },
+    {
+      "text": "STEM workforce",
+      "section": "Other"
+    },
+    {
+      "text": "LSAMP populations",
+      "section": "Other"
+    },
+    {
+      "text": "Blacks and African-Americans",
+      "section": "Other"
+    },
+    {
+      "text": "Hispanic and Latino Americans",
+      "section": "Other"
+    },
+    {
+      "text": "American Indians",
+      "section": "Other"
+    },
+    {
+      "text": "Alaska Natives",
+      "section": "Other"
+    },
+    {
+      "text": "Native Hawaiians",
+      "section": "Other"
+    },
+    {
+      "text": "Pacific Islanders",
+      "section": "Other"
+    },
+    {
+      "text": "B2B",
+      "section": "Other"
+    },
+    {
+      "text": "Bridge-to-the-Baccalaureate",
+      "section": "Other"
+    },
+    {
+      "text": "B2B alliances",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "STEM Pathways Implementation-Only",
+      "section": "Other"
+    },
+    {
+      "text": "SPIO alliances",
+      "section": "Other"
+    },
+    {
+      "text": "STEM Pathways Research Alliances",
+      "section": "Other"
+    },
+    {
+      "text": "SPRA",
+      "section": "Other"
+    },
+    {
+      "text": "Bridge to STEM Graduate Degrees in National Priorities",
+      "section": "Other"
+    },
+    {
+      "text": "BD-Master's",
+      "section": "Other"
+    },
+    {
+      "text": "BD-Doctoral",
+      "section": "Other"
+    },
+    {
+      "text": "STEM Networking Incentives and Engagement",
+      "section": "Other"
+    },
+    {
+      "text": "NETWORKS",
+      "section": "Other"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "two-and-four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Other"
+    },
+    {
+      "text": "IHEs",
+      "section": "Other"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit organizations",
+      "section": "Other"
+    },
+    {
+      "text": "for-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Carnegie Classification",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Alliances",
+      "section": "Other"
+    },
+    {
+      "text": "STEM Pathways Research Alliance",
+      "section": "Other"
+    },
+    {
+      "text": "full proposals",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "STEM education research knowledge",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "evidence-based strategies",
+      "section": "Introduction"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "evidence-based practice",
+        "source_text": "evidence-based strategies",
+        "confidence": 0.6983
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_louis_stokes_alliances_for_minority_participation_lsamp.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/lsamp-louis-stokes-alliances-minority-participation/nsf24-563/solicitation"
+  },
+  "document_title": "Louis Stokes Alliances for Minority Participation (LSAMP)"
+}

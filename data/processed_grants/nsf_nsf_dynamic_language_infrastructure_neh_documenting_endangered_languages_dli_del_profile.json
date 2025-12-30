@@ -1,0 +1,209 @@
+{
+  "grant_id": "nsf_nsf_dynamic_language_infrastructure_neh_documenting_endangered_languages_dli_del",
+  "created_at": "2025-12-30T01:18:11.924501-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "NSF Dynamic Language Infrastructure - NEH Documenting Endangered Languages (DLI-DEL)",
+    "dynamic language infrastructure",
+    "endangered human languages",
+    "human languages",
+    "linguistics",
+    "fieldwork",
+    "digital recording",
+    "language documentation",
+    "lexicons",
+    "grammars",
+    "text samples",
+    "databases",
+    "senior research grants",
+    "conference proposals",
+    "collaborative proposals",
+    "tribal colleges and universities program (TCUP)-eligible institutions",
+    "tribal organizations",
+    "Institutions of Higher Education (IHEs)",
+    "non-profit, non-academic organizations",
+    "U.S. Department of Health and Human Services",
+    "standard grant",
+    "continuing grant",
+    "estimated number of awards",
+    "Senior Research and Conference Projects",
+    "Senior Research proposal",
+    "conference/workshop proposals",
+    "careers proposals",
+    "Native Language Program",
+    "interagency initiative"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "NSF Dynamic Language Infrastructure - NEH Documenting Endangered Languages (DLI-DEL)",
+      "section": "Other"
+    },
+    {
+      "text": "dynamic language infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "endangered human languages",
+      "section": "Other"
+    },
+    {
+      "text": "human languages",
+      "section": "Other"
+    },
+    {
+      "text": "linguistics",
+      "section": "Introduction"
+    },
+    {
+      "text": "fieldwork",
+      "section": "Other"
+    },
+    {
+      "text": "digital recording",
+      "section": "Other"
+    },
+    {
+      "text": "language documentation",
+      "section": "Program Description"
+    },
+    {
+      "text": "lexicons",
+      "section": "Other"
+    },
+    {
+      "text": "grammars",
+      "section": "Other"
+    },
+    {
+      "text": "text samples",
+      "section": "Other"
+    },
+    {
+      "text": "databases",
+      "section": "Other"
+    },
+    {
+      "text": "senior research grants",
+      "section": "Other"
+    },
+    {
+      "text": "conference proposals",
+      "section": "Other"
+    },
+    {
+      "text": "collaborative proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "tribal colleges and universities program (TCUP)-eligible institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "tribal organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education (IHEs)",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S. Department of Health and Human Services",
+      "section": "Program Description"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Senior Research and Conference Projects",
+      "section": "Award Information"
+    },
+    {
+      "text": "Senior Research proposal",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "conference/workshop proposals",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "careers proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Native Language Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "interagency initiative",
+      "section": "Introduction"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "language documentation",
+        "source_text": "language documentation",
+        "confidence": 0.9
+      },
+      {
+        "tag": "linguistics",
+        "source_text": "linguistics",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "tribal college or university",
+        "source_text": "tribal colleges and universities program (TCUP)-eligible institutions",
+        "confidence": 0.7682,
+        "sources": [
+          "tribal colleges and universities program (TCUP)-eligible institutions"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education (IHEs)",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-02-17"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-02-17, 2026-02-17",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_dynamic_language_infrastructure_neh_documenting_endangered_languages_dli_del.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/dli-del-nsf-dynamic-language-infrastructure-neh-documenting/nsf22-615/solicitation"
+  },
+  "document_title": "NSF Dynamic Language Infrastructure - NEH Documenting Endangered Languages (DLI-DEL)"
+}

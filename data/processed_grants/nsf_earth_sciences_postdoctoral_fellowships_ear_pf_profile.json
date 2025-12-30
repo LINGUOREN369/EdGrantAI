@@ -1,0 +1,237 @@
+{
+  "grant_id": "nsf_earth_sciences_postdoctoral_fellowships_ear_pf",
+  "created_at": "2025-12-30T00:15:28.289699-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Earth Sciences Postdoctoral Fellowships (EAR-PF)",
+    "Division of Earth Sciences",
+    "geosciences Directorate",
+    "postdoctoral fellowships",
+    "independent research",
+    "professional development",
+    "Earth Sciences community",
+    "research experience",
+    "mentorship",
+    "broadening participation in the geoscience discipline",
+    "interdisciplinary questions",
+    "priority science questions",
+    "A Vision for NSF Earth Sciences 2020-2030: Earth in Time",
+    "artificial intelligence",
+    "Host Organizations",
+    "U.S. IHEs",
+    "non-profit, non-academic organizations",
+    "for-profit research organizations",
+    "Federally funded research and development centers",
+    "ineligible as primary host organizations",
+    "fellowship candidate",
+    "Earth Sciences Postdoctoral Fellowship proposals",
+    "Institutions of Higher Education",
+    "community colleges",
+    "nonprofit, non-academic organizations",
+    "scientific or engineering research",
+    "U.S. citizen",
+    "doctoral degree",
+    "long time limit",
+    "24 full-time-equivalent months",
+    "Eligibility Information"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Earth Sciences Postdoctoral Fellowships (EAR-PF)",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Earth Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "geosciences Directorate",
+      "section": "Introduction"
+    },
+    {
+      "text": "postdoctoral fellowships",
+      "section": "Other"
+    },
+    {
+      "text": "independent research",
+      "section": "Other"
+    },
+    {
+      "text": "professional development",
+      "section": "Other"
+    },
+    {
+      "text": "Earth Sciences community",
+      "section": "Other"
+    },
+    {
+      "text": "research experience",
+      "section": "Other"
+    },
+    {
+      "text": "mentorship",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation in the geoscience discipline",
+      "section": "Other"
+    },
+    {
+      "text": "interdisciplinary questions",
+      "section": "Program Description"
+    },
+    {
+      "text": "priority science questions",
+      "section": "Program Description"
+    },
+    {
+      "text": "A Vision for NSF Earth Sciences 2020-2030: Earth in Time",
+      "section": "Program Description"
+    },
+    {
+      "text": "artificial intelligence",
+      "section": "Program Description"
+    },
+    {
+      "text": "Host Organizations",
+      "section": "Program Description"
+    },
+    {
+      "text": "U.S. IHEs",
+      "section": "Program Description"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Program Description"
+    },
+    {
+      "text": "for-profit research organizations",
+      "section": "Program Description"
+    },
+    {
+      "text": "Federally funded research and development centers",
+      "section": "Program Description"
+    },
+    {
+      "text": "ineligible as primary host organizations",
+      "section": "Program Description"
+    },
+    {
+      "text": "fellowship candidate",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Earth Sciences Postdoctoral Fellowship proposals",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "nonprofit, non-academic organizations",
+      "section": "Other"
+    },
+    {
+      "text": "scientific or engineering research",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S. citizen",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "doctoral degree",
+      "section": "Other"
+    },
+    {
+      "text": "long time limit",
+      "section": "Other"
+    },
+    {
+      "text": "24 full-time-equivalent months",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Eligibility Information",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Federally funded research and development centers",
+        "source_text": "Federally funded research and development centers",
+        "confidence": 0.9
+      },
+      {
+        "tag": "ineligible as primary host organizations",
+        "source_text": "ineligible as primary host organizations",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "postdoctoral researchers",
+        "source_text": "postdoctoral fellowships",
+        "confidence": 0.7485,
+        "sources": [
+          "postdoctoral fellowships"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-10-28"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-10-28, 2026-10-28",
+      "To be eligible to submit a proposal to the EAR-PF Program an individual must, as of the full proposal deadline, meet all the following criteria:",
+      "Not have worked for more than a total of 24 full-time-equivalent months in positions that require the doctoral degree by the EAR-PF deadline date.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_earth_sciences_postdoctoral_fellowships_ear_pf.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ear-pf-earth-sciences-postdoctoral-fellowships/nsf25-500/solicitation"
+  },
+  "document_title": "Earth Sciences Postdoctoral Fellowships (EAR-PF)"
+}

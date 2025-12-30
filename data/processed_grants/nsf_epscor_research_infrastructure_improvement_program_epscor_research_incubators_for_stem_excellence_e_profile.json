@@ -1,0 +1,235 @@
+{
+  "grant_id": "nsf_epscor_research_infrastructure_improvement_program_epscor_research_incubators_for_stem_excellence_e",
+  "created_at": "2025-12-30T00:24:40.185115-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "EPSCoR Research Infrastructure Improvement Program",
+    "EPSCoR Research Incubators for STEM Excellence",
+    "Established Program to Stimulate Competitive Research",
+    "U.S. National Science Foundation",
+    "research infrastructure",
+    "R&D capacity",
+    "eligible EPSCoR jurisdictions",
+    "Science and Technology Plan",
+    "E-RISE",
+    "STEM capacity",
+    "STEM education",
+    "workforce development",
+    "E-RISE projects",
+    "hypothesis-driven research",
+    "problem-driven research",
+    "sustainable broad networks",
+    "E-RISE proposals",
+    "interdisciplinary research areas",
+    "collaborative engagement",
+    "skilled workforce",
+    "use-inspired perspectives",
+    "societal impact",
+    "jurisdiction-wide network",
+    "collaborations with other EPSCoR jurisdictions",
+    "Emerging Research Institutions",
+    "EPSCoR eligibility criteria",
+    "mini-grants",
+    "institutions of higher education",
+    "non-profit U.S. organizations",
+    "Tribal Governments",
+    "E-RISE funding",
+    "collaborating partner",
+    "one submission per organization",
+    "PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "EPSCoR Research Infrastructure Improvement Program",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR Research Incubators for STEM Excellence",
+      "section": "Other"
+    },
+    {
+      "text": "Established Program to Stimulate Competitive Research",
+      "section": "Other"
+    },
+    {
+      "text": "U.S. National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "research infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "R&D capacity",
+      "section": "Other"
+    },
+    {
+      "text": "eligible EPSCoR jurisdictions",
+      "section": "Other"
+    },
+    {
+      "text": "Science and Technology Plan",
+      "section": "Other"
+    },
+    {
+      "text": "E-RISE",
+      "section": "Other"
+    },
+    {
+      "text": "STEM capacity",
+      "section": "Other"
+    },
+    {
+      "text": "STEM education",
+      "section": "Introduction"
+    },
+    {
+      "text": "workforce development",
+      "section": "Introduction"
+    },
+    {
+      "text": "E-RISE projects",
+      "section": "Other"
+    },
+    {
+      "text": "hypothesis-driven research",
+      "section": "Other"
+    },
+    {
+      "text": "problem-driven research",
+      "section": "Other"
+    },
+    {
+      "text": "sustainable broad networks",
+      "section": "Other"
+    },
+    {
+      "text": "E-RISE proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "interdisciplinary research areas",
+      "section": "Other"
+    },
+    {
+      "text": "collaborative engagement",
+      "section": "Program Description"
+    },
+    {
+      "text": "skilled workforce",
+      "section": "Other"
+    },
+    {
+      "text": "use-inspired perspectives",
+      "section": "Program Description"
+    },
+    {
+      "text": "societal impact",
+      "section": "Other"
+    },
+    {
+      "text": "jurisdiction-wide network",
+      "section": "Program Description"
+    },
+    {
+      "text": "collaborations with other EPSCoR jurisdictions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Emerging Research Institutions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "EPSCoR eligibility criteria",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "mini-grants",
+      "section": "Other"
+    },
+    {
+      "text": "institutions of higher education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit U.S. organizations",
+      "section": "Other"
+    },
+    {
+      "text": "Tribal Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "E-RISE funding",
+      "section": "Other"
+    },
+    {
+      "text": "collaborating partner",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "one submission per organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "jurisdiction-wide network",
+        "source_text": "jurisdiction-wide network",
+        "confidence": 0.9
+      },
+      {
+        "tag": "E-RISE proposals",
+        "source_text": "E-RISE proposals",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "institutions of higher education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit U.S. organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "eligible EPSCoR jurisdictions",
+        "confidence": 0.9298,
+        "sources": [
+          "eligible EPSCoR jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-08-11"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-08-11, 2026-08-11",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_epscor_research_infrastructure_improvement_program_epscor_research_incubators_for_stem_excellence_e.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/e-rise-epscor-research-infrastructure-improvement-program-epscor/nsf25-522/solicitation"
+  },
+  "document_title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Research Incubators for STEM Excellence (E-RISE)"
+}

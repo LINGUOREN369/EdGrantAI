@@ -1,0 +1,362 @@
+{
+  "grant_id": "nsf_global_centers_gc",
+  "created_at": "2025-12-30T00:38:41.667342-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Global Centers",
+    "use-inspired research",
+    "bioeconomy",
+    "international partnerships",
+    "global challenges",
+    "interdisciplinary research",
+    "community engagement",
+    "broadening participation",
+    "research collaborations",
+    "team science",
+    "knowledge-to-action frameworks",
+    "Pasteur\u2019s Quadrant",
+    "co-generated research",
+    "global challenges",
+    "biotechnology",
+    "biomanufacturing",
+    "clean energy",
+    "sustainable food systems",
+    "water insecurity",
+    "resource efficiency",
+    "biodiversity",
+    "circular bioeconomy",
+    "interdisciplinary teams",
+    "scientists",
+    "educators",
+    "practitioners",
+    "workforce development",
+    "education",
+    "Leveraging Biodiversity Across the Tree of Life to Power the Bioeconomy",
+    "Biofoundries",
+    "Design-Build-Test-Learn process",
+    "Public engagement",
+    "global science and technology enterprise",
+    "international research centers",
+    "multilateral teams",
+    "crosscutting themes",
+    "societal challenges",
+    "participation of the full spectrum of diverse talent in STEM",
+    "scientific challenges",
+    "physical or virtual international research centers",
+    "community members",
+    "co-generation of results",
+    "stakeholder engagement",
+    "international collaboration",
+    "multistakeholder engagement",
+    "broadening participation activities",
+    "global center",
+    "Institutions of Higher Education",
+    "two-year IHEs",
+    "four-year IHEs",
+    "community colleges",
+    "non-profit organizations",
+    "Independent museums",
+    "research laboratories",
+    "professional societies",
+    "limits on number of proposals",
+    "full Proposals"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Global Centers",
+      "section": "Other"
+    },
+    {
+      "text": "use-inspired research",
+      "section": "Introduction"
+    },
+    {
+      "text": "bioeconomy",
+      "section": "Other"
+    },
+    {
+      "text": "international partnerships",
+      "section": "Other"
+    },
+    {
+      "text": "global challenges",
+      "section": "Other"
+    },
+    {
+      "text": "interdisciplinary research",
+      "section": "Other"
+    },
+    {
+      "text": "community engagement",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation",
+      "section": "Other"
+    },
+    {
+      "text": "research collaborations",
+      "section": "Other"
+    },
+    {
+      "text": "team science",
+      "section": "Other"
+    },
+    {
+      "text": "knowledge-to-action frameworks",
+      "section": "Other"
+    },
+    {
+      "text": "Pasteur\u2019s Quadrant",
+      "section": "Other"
+    },
+    {
+      "text": "co-generated research",
+      "section": "Other"
+    },
+    {
+      "text": "global challenges",
+      "section": "Other"
+    },
+    {
+      "text": "biotechnology",
+      "section": "Other"
+    },
+    {
+      "text": "biomanufacturing",
+      "section": "Other"
+    },
+    {
+      "text": "clean energy",
+      "section": "Other"
+    },
+    {
+      "text": "sustainable food systems",
+      "section": "Other"
+    },
+    {
+      "text": "water insecurity",
+      "section": "Other"
+    },
+    {
+      "text": "resource efficiency",
+      "section": "Other"
+    },
+    {
+      "text": "biodiversity",
+      "section": "Other"
+    },
+    {
+      "text": "circular bioeconomy",
+      "section": "Other"
+    },
+    {
+      "text": "interdisciplinary teams",
+      "section": "Other"
+    },
+    {
+      "text": "scientists",
+      "section": "Other"
+    },
+    {
+      "text": "educators",
+      "section": "Other"
+    },
+    {
+      "text": "practitioners",
+      "section": "Other"
+    },
+    {
+      "text": "workforce development",
+      "section": "Other"
+    },
+    {
+      "text": "education",
+      "section": "Other"
+    },
+    {
+      "text": "Leveraging Biodiversity Across the Tree of Life to Power the Bioeconomy",
+      "section": "Other"
+    },
+    {
+      "text": "Biofoundries",
+      "section": "Other"
+    },
+    {
+      "text": "Design-Build-Test-Learn process",
+      "section": "Other"
+    },
+    {
+      "text": "Public engagement",
+      "section": "Other"
+    },
+    {
+      "text": "global science and technology enterprise",
+      "section": "Other"
+    },
+    {
+      "text": "international research centers",
+      "section": "Program Description"
+    },
+    {
+      "text": "multilateral teams",
+      "section": "Introduction"
+    },
+    {
+      "text": "crosscutting themes",
+      "section": "Other"
+    },
+    {
+      "text": "societal challenges",
+      "section": "Program Description"
+    },
+    {
+      "text": "participation of the full spectrum of diverse talent in STEM",
+      "section": "Introduction"
+    },
+    {
+      "text": "scientific challenges",
+      "section": "Program Description"
+    },
+    {
+      "text": "physical or virtual international research centers",
+      "section": "Program Description"
+    },
+    {
+      "text": "community members",
+      "section": "Program Description"
+    },
+    {
+      "text": "co-generation of results",
+      "section": "Program Description"
+    },
+    {
+      "text": "stakeholder engagement",
+      "section": "Program Description"
+    },
+    {
+      "text": "international collaboration",
+      "section": "Other"
+    },
+    {
+      "text": "multistakeholder engagement",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "global center",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two-year IHEs",
+      "section": "Other"
+    },
+    {
+      "text": "four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit organizations",
+      "section": "Other"
+    },
+    {
+      "text": "Independent museums",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "research laboratories",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "professional societies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "limits on number of proposals",
+      "section": "Other"
+    },
+    {
+      "text": "full Proposals",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "stakeholder engagement",
+        "source_text": "stakeholder engagement",
+        "confidence": 0.9
+      },
+      {
+        "tag": "societal challenges",
+        "source_text": "societal challenges",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "teachers",
+        "source_text": "educators",
+        "confidence": 1.0,
+        "sources": [
+          "educators"
+        ]
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_global_centers_gc.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/gc-global-centers/nsf24-556/solicitation"
+  },
+  "document_title": "Global Centers (GC)"
+}

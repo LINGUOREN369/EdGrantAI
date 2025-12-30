@@ -1,0 +1,249 @@
+{
+  "grant_id": "nsf_nsf_small_business_innovation_research_small_business_technology_transfer_phase_i_programs_sbir_sttr",
+  "created_at": "2025-12-30T01:24:21.473562-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "NSF Small Business Innovation Research",
+    "Small Business Technology Transfer Phase I Programs",
+    "SBIR/STTR Phase I",
+    "non-dilutive funds",
+    "use-inspired research and development",
+    "leading-edge technology innovations",
+    "societal challenges",
+    "Federal research and development funds",
+    "small businesses",
+    "U.S. workforce",
+    "socially and economically-disadvantaged small businesses",
+    "women-owned small businesses",
+    "Directorate for Technology, Innovation and Partnerships",
+    "Technical Innovation",
+    "Commercialization Potential",
+    "Intellectual Merit",
+    "Broader Impacts",
+    "STEM Education",
+    "high-risk technology innovations",
+    "sustainable businesses",
+    "significant societal benefits",
+    "Research and Development",
+    "fundamental science or engineering",
+    "new scientific and engineering discoveries",
+    "proof-of-concept",
+    "intensive technical research and development",
+    "technical risk",
+    "disruptive to existing markets",
+    "new markets",
+    "diverse entrepreneurs",
+    "commercialization of the product/service",
+    "scalable need",
+    "social mission",
+    "collaborative proposal from multiple organizations",
+    "small business concern",
+    "Majority U.S.-owned companies",
+    "principal investigator",
+    "malign foreign talent recruitment program",
+    "cognizant program officer"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "NSF Small Business Innovation Research",
+      "section": "Other"
+    },
+    {
+      "text": "Small Business Technology Transfer Phase I Programs",
+      "section": "Other"
+    },
+    {
+      "text": "SBIR/STTR Phase I",
+      "section": "Other"
+    },
+    {
+      "text": "non-dilutive funds",
+      "section": "Other"
+    },
+    {
+      "text": "use-inspired research and development",
+      "section": "Other"
+    },
+    {
+      "text": "leading-edge technology innovations",
+      "section": "Other"
+    },
+    {
+      "text": "societal challenges",
+      "section": "Other"
+    },
+    {
+      "text": "Federal research and development funds",
+      "section": "Other"
+    },
+    {
+      "text": "small businesses",
+      "section": "Other"
+    },
+    {
+      "text": "U.S. workforce",
+      "section": "Other"
+    },
+    {
+      "text": "socially and economically-disadvantaged small businesses",
+      "section": "Other"
+    },
+    {
+      "text": "women-owned small businesses",
+      "section": "Other"
+    },
+    {
+      "text": "Directorate for Technology, Innovation and Partnerships",
+      "section": "Introduction"
+    },
+    {
+      "text": "Technical Innovation",
+      "section": "Introduction"
+    },
+    {
+      "text": "Commercialization Potential",
+      "section": "Program Description"
+    },
+    {
+      "text": "Intellectual Merit",
+      "section": "Program Description"
+    },
+    {
+      "text": "Broader Impacts",
+      "section": "Program Description"
+    },
+    {
+      "text": "STEM Education",
+      "section": "Introduction"
+    },
+    {
+      "text": "high-risk technology innovations",
+      "section": "Program Description"
+    },
+    {
+      "text": "sustainable businesses",
+      "section": "Introduction"
+    },
+    {
+      "text": "significant societal benefits",
+      "section": "Introduction"
+    },
+    {
+      "text": "Research and Development",
+      "section": "Program Description"
+    },
+    {
+      "text": "fundamental science or engineering",
+      "section": "Program Description"
+    },
+    {
+      "text": "new scientific and engineering discoveries",
+      "section": "Introduction"
+    },
+    {
+      "text": "proof-of-concept",
+      "section": "Program Description"
+    },
+    {
+      "text": "intensive technical research and development",
+      "section": "Other"
+    },
+    {
+      "text": "technical risk",
+      "section": "Program Description"
+    },
+    {
+      "text": "disruptive to existing markets",
+      "section": "Other"
+    },
+    {
+      "text": "new markets",
+      "section": "Other"
+    },
+    {
+      "text": "diverse entrepreneurs",
+      "section": "Introduction"
+    },
+    {
+      "text": "commercialization of the product/service",
+      "section": "Program Description"
+    },
+    {
+      "text": "scalable need",
+      "section": "Program Description"
+    },
+    {
+      "text": "social mission",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "collaborative proposal from multiple organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "small business concern",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Majority U.S.-owned companies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "principal investigator",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "malign foreign talent recruitment program",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "cognizant program officer",
+      "section": "Introduction"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "fundamental science or engineering",
+        "source_text": "fundamental science or engineering",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Commercialization Potential",
+        "source_text": "Commercialization Potential",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "small business concern",
+        "source_text": "small business concern",
+        "confidence": 1.0,
+        "sources": [
+          "small business concern"
+        ]
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "multiple",
+    "dates": [
+      "2024-05-30",
+      "2024-09-18",
+      "2024-11-06"
+    ],
+    "raw_mentions": [
+      "Proposers must obtain an official invitation to submit a proposal. To receive the invitation, potential proposers must submit a Project Pitch and receive an official response (via email) from the cognizant Program Officer. Project Pitch invitations are valid for two deadlines after the date of the initial official invitation from NSF; for example, if an official invitation is received on May 30, 2024, the proposer may submit for either the September 18, 2024, or November 6 deadline. In this example, submissions after November 6, 2024 will require a new Project Pitch invitation.",
+      "An organization may submit only one NSF SBIR/STTR Phase I Project Pitch and/or proposal per submission deadline.",
+      "Full Proposals: This solicitation contains information that deviates from the standard NSF Proposal and Award Policies and Procedures Guide (PAPPG) proposal preparation guidelines. Please see the full text of the solicitation for further information."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_small_business_innovation_research_small_business_technology_transfer_phase_i_programs_sbir_sttr.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-i-nsf-small-business-innovation-research-small-business/nsf24-579/solicitation"
+  },
+  "document_title": "NSF Small Business Innovation Research / Small Business Technology Transfer Phase I Programs (SBIR/STTR Phase I)"
+}

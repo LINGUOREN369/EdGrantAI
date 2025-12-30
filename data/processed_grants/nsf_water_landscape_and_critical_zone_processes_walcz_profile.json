@@ -1,0 +1,184 @@
+{
+  "grant_id": "nsf_water_landscape_and_critical_zone_processes_walcz",
+  "created_at": "2025-12-30T02:03:02.635197-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Water, Landscape, and Critical Zone Processes",
+    "WaLCZ",
+    "Division of Earth Sciences",
+    "Directorate for Geosciences",
+    "Earth\u2019s near-surface environment",
+    "Earth surface processes",
+    "natural resource sustainability",
+    "mitigation of natural hazards",
+    "hydrologic processes",
+    "water availability",
+    "water quality",
+    "geomorphic processes",
+    "biogeochemical reactions",
+    "human activity",
+    "Critical Zone",
+    "integrated modeling",
+    "geophysical methods",
+    "broadening participation in the geosciences",
+    "Faculty Early Career Development",
+    "Research Coordination Networks",
+    "EMpowering BRoader Academic Capacity and Education",
+    "Mid-Career Advancement",
+    "Rapid Response Research",
+    "EArly-concept Grants for Exploratory Research",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Water, Landscape, and Critical Zone Processes",
+      "section": "Other"
+    },
+    {
+      "text": "WaLCZ",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Earth Sciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "Directorate for Geosciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "Earth\u2019s near-surface environment",
+      "section": "Other"
+    },
+    {
+      "text": "Earth surface processes",
+      "section": "Other"
+    },
+    {
+      "text": "natural resource sustainability",
+      "section": "Other"
+    },
+    {
+      "text": "mitigation of natural hazards",
+      "section": "Other"
+    },
+    {
+      "text": "hydrologic processes",
+      "section": "Program Description"
+    },
+    {
+      "text": "water availability",
+      "section": "Other"
+    },
+    {
+      "text": "water quality",
+      "section": "Program Description"
+    },
+    {
+      "text": "geomorphic processes",
+      "section": "Program Description"
+    },
+    {
+      "text": "biogeochemical reactions",
+      "section": "Program Description"
+    },
+    {
+      "text": "human activity",
+      "section": "Program Description"
+    },
+    {
+      "text": "Critical Zone",
+      "section": "Other"
+    },
+    {
+      "text": "integrated modeling",
+      "section": "Other"
+    },
+    {
+      "text": "geophysical methods",
+      "section": "Program Description"
+    },
+    {
+      "text": "broadening participation in the geosciences",
+      "section": "Program Description"
+    },
+    {
+      "text": "Faculty Early Career Development",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Coordination Networks",
+      "section": "Program Description"
+    },
+    {
+      "text": "EMpowering BRoader Academic Capacity and Education",
+      "section": "Program Description"
+    },
+    {
+      "text": "Mid-Career Advancement",
+      "section": "Program Description"
+    },
+    {
+      "text": "Rapid Response Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "EArly-concept Grants for Exploratory Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "EMpowering BRoader Academic Capacity and Education",
+        "source_text": "EMpowering BRoader Academic Capacity and Education",
+        "confidence": 0.9
+      },
+      {
+        "tag": "EArly-concept Grants for Exploratory Research",
+        "source_text": "EArly-concept Grants for Exploratory Research",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Couplings and feedbacks between geomorphic processes, their rates, and their relative roles, especially in the contexts of variation in biologic, climatic, and tectonic influences and changes due to human impact",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_water_landscape_and_critical_zone_processes_walcz.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/walcz-water-landscape-critical-zone-processes/nsf25-519/solicitation"
+  },
+  "document_title": "Water, Landscape, and Critical Zone Processes (WaLCZ)"
+}

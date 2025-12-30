@@ -1,0 +1,205 @@
+{
+  "grant_id": "nsf_environmental_chemical_sciences_ecs",
+  "created_at": "2025-12-30T00:22:33.091608-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Environmental Chemical Sciences",
+    "Critical Aspects of Sustainability",
+    "emerging contaminants",
+    "Grant Opportunities for Academic Liaison with Industry",
+    "individual and collaborative proposals",
+    "Minority-serving Institutions",
+    "Primarily Undergraduate Institutions",
+    "two-year colleges",
+    "EPSCoR jurisdictions",
+    "Division of Chemistry: Disciplinary Research Programs",
+    "Chemical Catalysis",
+    "Chemical Measurement and Imaging",
+    "Chemical Mechanism, Function and Properties",
+    "Chemical Synthesis",
+    "Environmental Chemical Sciences",
+    "Macromolecular, Supramolecular and Nanochemistry",
+    "Standard Grant",
+    "Continuing Grant",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "Limit on Number of Proposals per PI or co-PI",
+    "Grant Opportunities for Academic Liaison with Industry"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Environmental Chemical Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "Critical Aspects of Sustainability",
+      "section": "Other"
+    },
+    {
+      "text": "emerging contaminants",
+      "section": "Other"
+    },
+    {
+      "text": "Grant Opportunities for Academic Liaison with Industry",
+      "section": "Other"
+    },
+    {
+      "text": "individual and collaborative proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Minority-serving Institutions",
+      "section": "Other"
+    },
+    {
+      "text": "Primarily Undergraduate Institutions",
+      "section": "Other"
+    },
+    {
+      "text": "two-year colleges",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR jurisdictions",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Chemistry: Disciplinary Research Programs",
+      "section": "Introduction"
+    },
+    {
+      "text": "Chemical Catalysis",
+      "section": "Program Description"
+    },
+    {
+      "text": "Chemical Measurement and Imaging",
+      "section": "Program Description"
+    },
+    {
+      "text": "Chemical Mechanism, Function and Properties",
+      "section": "Program Description"
+    },
+    {
+      "text": "Chemical Synthesis",
+      "section": "Program Description"
+    },
+    {
+      "text": "Environmental Chemical Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "Macromolecular, Supramolecular and Nanochemistry",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Grant Opportunities for Academic Liaison with Industry",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Chemical Catalysis",
+        "source_text": "Chemical Catalysis",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Division of Chemistry: Disciplinary Research Programs",
+        "source_text": "Division of Chemistry: Disciplinary Research Programs",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "two-year colleges",
+        "confidence": 0.6055,
+        "sources": [
+          "two-year colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "Minority-serving Institutions",
+        "confidence": 0.8996,
+        "sources": [
+          "Minority-serving Institutions"
+        ]
+      },
+      {
+        "tag": "two-year college",
+        "source_text": "two-year colleges",
+        "confidence": 0.8894,
+        "sources": [
+          "two-year colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR jurisdictions",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per PI or co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 RUI proposals must be submitted to the RUI Solicitation during the regular proposal submission window for this program.",
+      "CAREER proposals should be submitted through the CAREER solicitation by the deadline specified for CAREER proposals.",
+      "This restriction includes proposals under Grant Opportunities for Academic Liaison with Industry (GOALI) and Facilitating Research at Primarily Undergraduate Institutions ( RUI), as well as proposals submitted to the Division of Chemistry: Disciplinary Research Programs: No Deadline Pilot (CHE-DRP:NDP) Solicitation ( NSF 22-606 ).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_environmental_chemical_sciences_ecs.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/che-drp-division-chemistry-disciplinary-research-programs/nsf22-605/solicitation"
+  },
+  "document_title": "Environmental Chemical Sciences (ECS)"
+}

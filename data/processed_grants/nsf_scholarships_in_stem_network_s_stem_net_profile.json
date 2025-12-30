@@ -1,0 +1,125 @@
+{
+  "grant_id": "nsf_scholarships_in_stem_network_s_stem_net",
+  "created_at": "2025-12-30T01:48:44.043320-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Scholarships in STEM Network",
+    "S-STEM-Net",
+    "S-STEM stakeholders",
+    "S-STEM Research Hubs",
+    "S-STEM-Hub",
+    "domestic low-income STEM students",
+    "higher education institutions",
+    "S-STEM-Hub",
+    "Institutions of Higher Education",
+    "community colleges",
+    "Non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Scholarships in STEM Network",
+      "section": "Other"
+    },
+    {
+      "text": "S-STEM-Net",
+      "section": "Other"
+    },
+    {
+      "text": "S-STEM stakeholders",
+      "section": "Other"
+    },
+    {
+      "text": "S-STEM Research Hubs",
+      "section": "Other"
+    },
+    {
+      "text": "S-STEM-Hub",
+      "section": "Other"
+    },
+    {
+      "text": "domestic low-income STEM students",
+      "section": "Other"
+    },
+    {
+      "text": "higher education institutions",
+      "section": "Other"
+    },
+    {
+      "text": "S-STEM-Hub",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "low-income students",
+        "source_text": "domestic low-income STEM students",
+        "confidence": 0.7292,
+        "sources": [
+          "domestic low-income STEM students"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-08-13"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-08-13, 2026-08-13",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_scholarships_in_stem_network_s_stem_net.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/nsf23-536/solicitation"
+  },
+  "document_title": "Scholarships in STEM Network (S-STEM-Net)"
+}

@@ -1,0 +1,156 @@
+{
+  "grant_id": "nsf_archaeometry_amtry",
+  "created_at": "2025-12-29T23:23:47.956865-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Archaeometry competition",
+    "anthropologically relevant archaeometric techniques",
+    "support laboratories",
+    "dating trace element",
+    "isotopic and dendrochronological analyses",
+    "data archives",
+    "basic archaeological infrastructure",
+    "Archaeology Program",
+    "Cultural Anthropology programs",
+    "Biological Anthropology programs",
+    "broader impact activities",
+    "research outcomes",
+    "training and outreach activities",
+    "collaboration with Foreign Organizations",
+    "human subjects",
+    "Institutional Review Board",
+    "standard grant",
+    "Continuing Grant",
+    "National Science Foundation",
+    "unaffiliated individuals",
+    "PIs",
+    "co-PIs"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Archaeometry competition",
+      "section": "Other"
+    },
+    {
+      "text": "anthropologically relevant archaeometric techniques",
+      "section": "Other"
+    },
+    {
+      "text": "support laboratories",
+      "section": "Other"
+    },
+    {
+      "text": "dating trace element",
+      "section": "Other"
+    },
+    {
+      "text": "isotopic and dendrochronological analyses",
+      "section": "Other"
+    },
+    {
+      "text": "data archives",
+      "section": "Other"
+    },
+    {
+      "text": "basic archaeological infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "Archaeology Program",
+      "section": "Other"
+    },
+    {
+      "text": "Cultural Anthropology programs",
+      "section": "Other"
+    },
+    {
+      "text": "Biological Anthropology programs",
+      "section": "Program Description"
+    },
+    {
+      "text": "broader impact activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "research outcomes",
+      "section": "Program Description"
+    },
+    {
+      "text": "training and outreach activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "collaboration with Foreign Organizations",
+      "section": "Program Description"
+    },
+    {
+      "text": "human subjects",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutional Review Board",
+      "section": "Program Description"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "unaffiliated individuals",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "PIs",
+      "section": "Program Description"
+    },
+    {
+      "text": "co-PIs",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "broader impact activities",
+        "confidence": 0.5668
+      },
+      {
+        "tag": "human subjects",
+        "source_text": "human subjects",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-12-01"
+    ],
+    "raw_mentions": [
+      "Synopsis: The Archaeology Program administers an annual Archaeometry competition with a target date of December 1. The goal is to fund projects in two main categories:",
+      "Next due date (Y-m-d): 2026-12-01, 2026-12-01",
+      "The Archaeology Program administers an annual Archaeometry competition with a target date of December 1. The goal is to fund projects in two main categories:",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_archaeometry_amtry.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/amtry-archaeometry/nsf23-573/solicitation"
+  },
+  "document_title": "Archaeometry (AMTRY)"
+}

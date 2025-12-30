@@ -1,0 +1,163 @@
+{
+  "grant_id": "nsf_materials_innovation_platforms_mip",
+  "created_at": "2025-12-30T01:01:53.696841-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Materials Innovation Platforms",
+    "MIP",
+    "Division of Materials Research",
+    "transdisciplinary research and training",
+    "cutting-edge tools",
+    "knowledge sharing",
+    "national priority",
+    "Materials Genome Initiative",
+    "MGI",
+    "materials synthesis/processing",
+    "materials characterization",
+    "theory/modeling/simulation",
+    "scientific ecosystem",
+    "user facility",
+    "educational focal point",
+    "training the next generation",
+    "materials research capabilities",
+    "Senior/Key Personnel",
+    "Institutions of Higher Education",
+    "IHEs",
+    "cooperative agreement",
+    "number of awards",
+    "MIP funding"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Materials Innovation Platforms",
+      "section": "Other"
+    },
+    {
+      "text": "MIP",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Materials Research",
+      "section": "Other"
+    },
+    {
+      "text": "transdisciplinary research and training",
+      "section": "Program Description"
+    },
+    {
+      "text": "cutting-edge tools",
+      "section": "Introduction"
+    },
+    {
+      "text": "knowledge sharing",
+      "section": "Other"
+    },
+    {
+      "text": "national priority",
+      "section": "Program Description"
+    },
+    {
+      "text": "Materials Genome Initiative",
+      "section": "Other"
+    },
+    {
+      "text": "MGI",
+      "section": "Other"
+    },
+    {
+      "text": "materials synthesis/processing",
+      "section": "Other"
+    },
+    {
+      "text": "materials characterization",
+      "section": "Other"
+    },
+    {
+      "text": "theory/modeling/simulation",
+      "section": "Other"
+    },
+    {
+      "text": "scientific ecosystem",
+      "section": "Other"
+    },
+    {
+      "text": "user facility",
+      "section": "Other"
+    },
+    {
+      "text": "educational focal point",
+      "section": "Introduction"
+    },
+    {
+      "text": "training the next generation",
+      "section": "Introduction"
+    },
+    {
+      "text": "materials research capabilities",
+      "section": "Program Description"
+    },
+    {
+      "text": "Senior/Key Personnel",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "cooperative agreement",
+      "section": "Program Description"
+    },
+    {
+      "text": "number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "MIP funding",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "cooperative agreement",
+        "source_text": "cooperative agreement",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Senior/Key Personnel",
+        "source_text": "Senior/Key Personnel",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "An institution that submits a proposal is expected to have extensive materials research capabilities so that it is in a strong position to engage external users and build a scientific ecosystem. Each proposed project must be directed by a team of at least three Senior/Key Personnel with complementary expertise on materials synthesis/processing, characterization, theory/modeling/simulation, etc. The whole MIP team also includes Senior/Key Personnel and technical staff with expertise in tool development, data and knowledge sharing, and user facility operation. NSF expects that, in addition to scientific and technical staff, each MIP includes a Managing Director and a User Facility Coordinator. The main responsibilities of the Managing Director include, for example, ongoing operations, staffing, financial management oversight, reporting as well as coordination between the different components of the MIP on a daily basis. The User Facility Coordinator engages the user community, facilitates instrument time/resource allocation, and may also manage the user proposal submission, review and selection process, safety, and/or user training.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_materials_innovation_platforms_mip.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/mip-materials-innovation-platforms/nsf25-521/solicitation"
+  },
+  "document_title": "Materials Innovation Platforms (MIP)"
+}

@@ -1,0 +1,137 @@
+{
+  "grant_id": "nsf_enabling_discovery_through_genomics_edge",
+  "created_at": "2025-12-30T00:21:04.311912-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Enabling Discovery through GEnomics",
+    "EDGE program",
+    "Functional Genomic Tools track",
+    "Complex Multigenic Traits track",
+    "Functional Genomic Tools",
+    "Complex Multigenic Traits",
+    "Integrative Research in Biology",
+    "IOS Core Programs Track",
+    "Behavioral Systems Cluster",
+    "Developmental Systems Cluster",
+    "Neural Systems Cluster",
+    "Physiological and Structural Systems Cluster",
+    "Plant Genome Research Program",
+    "broader impacts",
+    "educational and training opportunities",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Enabling Discovery through GEnomics",
+      "section": "Other"
+    },
+    {
+      "text": "EDGE program",
+      "section": "Other"
+    },
+    {
+      "text": "Functional Genomic Tools track",
+      "section": "Other"
+    },
+    {
+      "text": "Complex Multigenic Traits track",
+      "section": "Other"
+    },
+    {
+      "text": "Functional Genomic Tools",
+      "section": "Other"
+    },
+    {
+      "text": "Complex Multigenic Traits",
+      "section": "Other"
+    },
+    {
+      "text": "Integrative Research in Biology",
+      "section": "Introduction"
+    },
+    {
+      "text": "IOS Core Programs Track",
+      "section": "Introduction"
+    },
+    {
+      "text": "Behavioral Systems Cluster",
+      "section": "Program Description"
+    },
+    {
+      "text": "Developmental Systems Cluster",
+      "section": "Program Description"
+    },
+    {
+      "text": "Neural Systems Cluster",
+      "section": "Program Description"
+    },
+    {
+      "text": "Physiological and Structural Systems Cluster",
+      "section": "Program Description"
+    },
+    {
+      "text": "Plant Genome Research Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "broader impacts",
+      "section": "Program Description"
+    },
+    {
+      "text": "educational and training opportunities",
+      "section": "Introduction"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Physiological and Structural Systems Cluster",
+        "source_text": "Physiological and Structural Systems Cluster",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Developmental Systems Cluster",
+        "source_text": "Developmental Systems Cluster",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_enabling_discovery_through_genomics_edge.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ios-division-integrative-organismal-systems-core-programs/nsf24-546/solicitation"
+  },
+  "document_title": "Enabling Discovery Through Genomics (EDGE)"
+}

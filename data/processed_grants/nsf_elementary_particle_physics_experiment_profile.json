@@ -1,0 +1,213 @@
+{
+  "grant_id": "nsf_elementary_particle_physics_experiment",
+  "created_at": "2025-12-30T00:18:20.658174-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Elementary Particle Physics",
+    "Division of Physics",
+    "Investigator-Initiated Research Projects",
+    "Experimental Particle Physics",
+    "EPP program",
+    "High Energy Particle Physics",
+    "Precision Particle Physics",
+    "Tools for Particle Physics",
+    "Research Experiences for Undergraduates",
+    "Atomic, Molecular and Optical Physics",
+    "Gravitational Physics",
+    "Integrative Activities in Physics",
+    "Nuclear Physics",
+    "Particle Astrophysics",
+    "Physics at the Information Frontier",
+    "Physics of Living Systems",
+    "Plasma Physics",
+    "Quantum Information Science",
+    "Large Hadron Collider",
+    "LHCb experiment",
+    "Artificial Intelligence",
+    "Mid-scale Research Infrastructure",
+    "Standard Grant",
+    "Continuing Grant",
+    "Cooperative Agreement",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "For-profit organizations",
+    "State and Local Governments",
+    "Tribal Governments",
+    "Foreign organizations",
+    "Federally Funded Research and Development Centers"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Elementary Particle Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Investigator-Initiated Research Projects",
+      "section": "Other"
+    },
+    {
+      "text": "Experimental Particle Physics",
+      "section": "Other"
+    },
+    {
+      "text": "EPP program",
+      "section": "Other"
+    },
+    {
+      "text": "High Energy Particle Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Precision Particle Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Tools for Particle Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Other"
+    },
+    {
+      "text": "Atomic, Molecular and Optical Physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "Gravitational Physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "Integrative Activities in Physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "Nuclear Physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "Particle Astrophysics",
+      "section": "Introduction"
+    },
+    {
+      "text": "Physics at the Information Frontier",
+      "section": "Introduction"
+    },
+    {
+      "text": "Physics of Living Systems",
+      "section": "Introduction"
+    },
+    {
+      "text": "Plasma Physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "Quantum Information Science",
+      "section": "Introduction"
+    },
+    {
+      "text": "Large Hadron Collider",
+      "section": "Other"
+    },
+    {
+      "text": "LHCb experiment",
+      "section": "Other"
+    },
+    {
+      "text": "Artificial Intelligence",
+      "section": "Introduction"
+    },
+    {
+      "text": "Mid-scale Research Infrastructure",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "For-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Foreign organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Federally Funded Research and Development Centers",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Mid-scale Research Infrastructure",
+        "source_text": "Mid-scale Research Infrastructure",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Integrative Activities in Physics",
+        "source_text": "Integrative Activities in Physics",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_elementary_particle_physics_experiment.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation"
+  },
+  "document_title": "Elementary Particle Physics - Experiment"
+}

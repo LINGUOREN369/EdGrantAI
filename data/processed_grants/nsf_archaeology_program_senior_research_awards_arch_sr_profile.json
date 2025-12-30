@@ -1,0 +1,233 @@
+{
+  "grant_id": "nsf_archaeology_program_senior_research_awards_arch_sr",
+  "created_at": "2025-12-29T23:23:14.561926-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Archaeology Program Senior Research Awards",
+    "Archaeology Program",
+    "Division of Behavioral and Cognitive Sciences",
+    "Social, Behavioral and Economic Sciences Directorate",
+    "anthropologically relevant archaeological research",
+    "understanding of past behaviors",
+    "anthropological knowledge",
+    "geographic region",
+    "theoretical orientation",
+    "field research",
+    "analysis of archaeological material",
+    "cultural or biological orientation",
+    "Cultural Anthropology",
+    "Biological Anthropology",
+    "broader impact activities",
+    "Research Experiences for Undergraduates",
+    "Faculty Early Career Development Program",
+    "Research in Undergraduate Institutions",
+    "Research Opportunity Awards",
+    "High-Risk Research in Biological Anthropology and Archaeology",
+    "Rapid Response Research",
+    "EArly-Concept Grants for Exploratory Research",
+    "broader impact activities",
+    "High-Risk Research in Biological Anthropology and Archaeology",
+    "Doctoral Dissertation Research Improvement Grants",
+    "collaboration with foreign organizations",
+    "scientists and students from the host country",
+    "Human Subjects Research",
+    "Standard Grant",
+    "Continuing Grant",
+    "20 to 30",
+    "unaffiliated individuals",
+    "Ph.D.",
+    "undergraduate and graduate students"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Archaeology Program Senior Research Awards",
+      "section": "Other"
+    },
+    {
+      "text": "Archaeology Program",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Behavioral and Cognitive Sciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "Social, Behavioral and Economic Sciences Directorate",
+      "section": "Introduction"
+    },
+    {
+      "text": "anthropologically relevant archaeological research",
+      "section": "Other"
+    },
+    {
+      "text": "understanding of past behaviors",
+      "section": "Other"
+    },
+    {
+      "text": "anthropological knowledge",
+      "section": "Other"
+    },
+    {
+      "text": "geographic region",
+      "section": "Other"
+    },
+    {
+      "text": "theoretical orientation",
+      "section": "Other"
+    },
+    {
+      "text": "field research",
+      "section": "Other"
+    },
+    {
+      "text": "analysis of archaeological material",
+      "section": "Other"
+    },
+    {
+      "text": "cultural or biological orientation",
+      "section": "Program Description"
+    },
+    {
+      "text": "Cultural Anthropology",
+      "section": "Introduction"
+    },
+    {
+      "text": "Biological Anthropology",
+      "section": "Introduction"
+    },
+    {
+      "text": "broader impact activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Program Description"
+    },
+    {
+      "text": "Faculty Early Career Development Program",
+      "section": "Other"
+    },
+    {
+      "text": "Research in Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Opportunity Awards",
+      "section": "Program Description"
+    },
+    {
+      "text": "High-Risk Research in Biological Anthropology and Archaeology",
+      "section": "Program Description"
+    },
+    {
+      "text": "Rapid Response Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "EArly-Concept Grants for Exploratory Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "broader impact activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "High-Risk Research in Biological Anthropology and Archaeology",
+      "section": "Program Description"
+    },
+    {
+      "text": "Doctoral Dissertation Research Improvement Grants",
+      "section": "Program Description"
+    },
+    {
+      "text": "collaboration with foreign organizations",
+      "section": "Program Description"
+    },
+    {
+      "text": "scientists and students from the host country",
+      "section": "Program Description"
+    },
+    {
+      "text": "Human Subjects Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "20 to 30",
+      "section": "Award Information"
+    },
+    {
+      "text": "unaffiliated individuals",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Ph.D.",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "undergraduate and graduate students",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "High-Risk Research in Biological Anthropology and Archaeology",
+        "source_text": "High-Risk Research in Biological Anthropology and Archaeology",
+        "confidence": 0.9
+      },
+      {
+        "tag": "High-Risk Research in Biological Anthropology and Archaeology",
+        "source_text": "High-Risk Research in Biological Anthropology and Archaeology",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "undergraduate students",
+        "source_text": "undergraduate and graduate students",
+        "confidence": 0.8655,
+        "sources": [
+          "undergraduate and graduate students"
+        ]
+      },
+      {
+        "tag": "graduate students",
+        "source_text": "undergraduate and graduate students",
+        "confidence": 0.7672,
+        "sources": [
+          "undergraduate and graduate students"
+        ]
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-07-01"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-07-01, 2026-07-01",
+      "The Archaeology Program administers an annual Archaeometry competition with a target date of December 1. The goal is to fund projects in two main categories:",
+      "An REU supplement usually provides support for one or two undergraduate students to participate in research as a part of a new or ongoing NSF-funded research project. The student's research must be their own independent research project within the PI's larger research program; these supplements are not intended to support clerical or research assistance to the PI. See the REU Sites and Supplements guidelines for additional details. Supplemental funding requests can be submitted at any time.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_archaeology_program_senior_research_awards_arch_sr.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/arch-sr-archaeology-program-senior-research-awards/nsf23-566/solicitation"
+  },
+  "document_title": "Archaeology Program Senior Research Awards (Arch-SR)"
+}

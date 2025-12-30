@@ -1,0 +1,162 @@
+{
+  "grant_id": "nsf_integrated_data_systems_services_idss",
+  "created_at": "2025-12-30T00:52:29.294577-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Integrated Data Systems and Services",
+    "IDSS program",
+    "data-intensive research needs",
+    "national-scale operational data cyberinfrastructure",
+    "artificial intelligence-driven research",
+    "data systems and services",
+    "foundational data cyberinfrastructure",
+    "science and engineering research",
+    "Cognizant Program Officers",
+    "development of innovative foundational and application-specific cyberinfrastructure",
+    "research data to knowledge and discovery",
+    "scientific openness and reproducibility",
+    "scientific data lifecycle",
+    "open research data",
+    "data lifecycle",
+    "standard grant",
+    "cooperative agreement",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "Federal Agencies",
+    "Federally Funded Research and Development Centers"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Integrated Data Systems and Services",
+      "section": "Other"
+    },
+    {
+      "text": "IDSS program",
+      "section": "Other"
+    },
+    {
+      "text": "data-intensive research needs",
+      "section": "Other"
+    },
+    {
+      "text": "national-scale operational data cyberinfrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "artificial intelligence-driven research",
+      "section": "Other"
+    },
+    {
+      "text": "data systems and services",
+      "section": "Other"
+    },
+    {
+      "text": "foundational data cyberinfrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "science and engineering research",
+      "section": "Other"
+    },
+    {
+      "text": "Cognizant Program Officers",
+      "section": "Other"
+    },
+    {
+      "text": "development of innovative foundational and application-specific cyberinfrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "research data to knowledge and discovery",
+      "section": "Introduction"
+    },
+    {
+      "text": "scientific openness and reproducibility",
+      "section": "Introduction"
+    },
+    {
+      "text": "scientific data lifecycle",
+      "section": "Program Description"
+    },
+    {
+      "text": "open research data",
+      "section": "Program Description"
+    },
+    {
+      "text": "data lifecycle",
+      "section": "Introduction"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "cooperative agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Federal Agencies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Federally Funded Research and Development Centers",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "scientific data lifecycle",
+        "source_text": "scientific data lifecycle",
+        "confidence": 0.9
+      },
+      {
+        "tag": "data lifecycle",
+        "source_text": "data lifecycle",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-07-28"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-07-28, 2026-07-28",
+      "An organization may submit only one proposal as lead institution for each of Category I and Category II for each solicitation deadline but may be a subawardee on other Category I and II proposals responding to this solicitation. The restriction to no more than one submitted proposal as lead institution is to help ensure that there is appropriate institutional commitment necessary for responsible oversight, by the potential recipient institution, of a national data infrastructure resource. This restriction does not apply to Category III proposals.",
+      "An individual may participate as PI, co-PI, or other Senior Personnel on at most one proposal across Categories I and II for each solicitation deadline. Thus, if an individual participates on a Category I proposal, the individual may not participate in a Category II proposal, or vice versa. Note that any individual whose biographical sketch is provided as part of the proposal will be considered as Senior Personnel in the proposed activity, with or without financial support from the project. Other staff who will be funded under an IDSS proposal are not subject to this restriction.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_integrated_data_systems_services_idss.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/idss-integrated-data-systems-services/nsf25-544/solicitation"
+  },
+  "document_title": "Integrated Data Systems & Services (IDSS)"
+}

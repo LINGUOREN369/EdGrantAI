@@ -1,40 +1,140 @@
 {
   "grant_id": "nsf_a_science_of_science_approach_to_analyzing_and_innovating_the_biomedical_research_enterprise_sos_bio",
-  "created_at": "2025-12-28T20:57:10.326277-05:00",
+  "created_at": "2025-12-28T21:22:08.064338-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
-    "Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise",
-    "SoS:BIO",
-    "National Science Foundation",
-    "NSF",
-    "National Institutes of Health",
-    "NIH",
+    "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
+    "National Science Foundation (NSF)",
+    "National Institutes of Health (NIH)",
     "biomedical research enterprise",
     "science of science policy research community",
-    "Social, Behavioral and Economic Sciences",
-    "SBE Directorate",
+    "Social, Behavioral and Economic Sciences (SBE) Directorate",
     "basic research on people and society",
     "SBE sciences",
-    "human behavior and social organizations",
-    "Science of Science: Discovery, Communication and Impact Program",
-    "SoS:DCI",
-    "National Institute of General Medical Sciences",
-    "NIGMS",
+    "Science of Science: Discovery, Communication and Impact Program (SoS:DCI)",
+    "National Institute of General Medical Sciences (NIGMS)",
     "basic biomedical research",
+    "disease diagnosis",
+    "treatment and prevention",
     "scientific research enterprise",
     "partnering",
-    "high-quality research",
     "diverse, innovative, productive and efficient scientific workforce",
     "future scientific leaders",
+    "SoS:DCI program",
     "interdisciplinary research",
     "broadening participation",
-    "standard grant",
-    "continuing grant",
-    "number of awards",
-    "limited eligibility",
+    "Standard Grant or Continuing Grant",
+    "Estimated Number of Awards",
+    "NIGMS and SBE",
     "Unaffiliated individuals",
-    "Proposal & Award Policies & Procedures Guide",
-    "PAPPG"
+    "limit on number of proposals per organization",
+    "limit on number of proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation (NSF)",
+      "section": "Other"
+    },
+    {
+      "text": "National Institutes of Health (NIH)",
+      "section": "Other"
+    },
+    {
+      "text": "biomedical research enterprise",
+      "section": "Other"
+    },
+    {
+      "text": "science of science policy research community",
+      "section": "Other"
+    },
+    {
+      "text": "Social, Behavioral and Economic Sciences (SBE) Directorate",
+      "section": "Other"
+    },
+    {
+      "text": "basic research on people and society",
+      "section": "Other"
+    },
+    {
+      "text": "SBE sciences",
+      "section": "Other"
+    },
+    {
+      "text": "Science of Science: Discovery, Communication and Impact Program (SoS:DCI)",
+      "section": "Other"
+    },
+    {
+      "text": "National Institute of General Medical Sciences (NIGMS)",
+      "section": "Other"
+    },
+    {
+      "text": "basic biomedical research",
+      "section": "Other"
+    },
+    {
+      "text": "disease diagnosis",
+      "section": "Other"
+    },
+    {
+      "text": "treatment and prevention",
+      "section": "Other"
+    },
+    {
+      "text": "scientific research enterprise",
+      "section": "Other"
+    },
+    {
+      "text": "partnering",
+      "section": "Other"
+    },
+    {
+      "text": "diverse, innovative, productive and efficient scientific workforce",
+      "section": "Other"
+    },
+    {
+      "text": "future scientific leaders",
+      "section": "Other"
+    },
+    {
+      "text": "SoS:DCI program",
+      "section": "Other"
+    },
+    {
+      "text": "interdisciplinary research",
+      "section": "Program Description"
+    },
+    {
+      "text": "broadening participation",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant or Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "NIGMS and SBE",
+      "section": "Other"
+    },
+    {
+      "text": "Unaffiliated individuals",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "limit on number of proposals per organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "limit on number of proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
   ],
   "canonical_tags": {
     "mission_tags": [
@@ -45,22 +145,6 @@
         "sources": [
           "broadening participation"
         ]
-      },
-      {
-        "tag": "education system partnerships",
-        "source_text": "partnering",
-        "confidence": 0.5556,
-        "sources": [
-          "partnering"
-        ]
-      },
-      {
-        "tag": "research-based learning",
-        "source_text": "high-quality research",
-        "confidence": 0.5513,
-        "sources": [
-          "high-quality research"
-        ]
       }
     ],
     "population_tags": [],
@@ -68,12 +152,21 @@
     "geography_tags": [],
     "red_flag_tags": [
       {
-        "tag": "limited geographic eligibility",
-        "source_text": "limited eligibility",
-        "confidence": 0.8129,
-        "sources": [
-          "limited eligibility"
-        ]
+        "tag": "submission_limit",
+        "source_text": "limit on number of proposals per organization",
+        "confidence": 1.0
+      }
+    ],
+    "secondary_mission_tags": [
+      {
+        "tag": "interdisciplinary research",
+        "source_text": "interdisciplinary research",
+        "confidence": 0.9
+      },
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "broadening participation",
+        "confidence": 1.0
       }
     ]
   },
@@ -93,5 +186,6 @@
   "source": {
     "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_a_science_of_science_approach_to_analyzing_and_innovating_the_biomedical_research_enterprise_sos_bio.txt",
     "url": "https://www.nsf.gov/funding/opportunities/sosbio-science-science-approach-analyzing-innovating-biomedical/nsf23-569/solicitation"
-  }
+  },
+  "document_title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)"
 }

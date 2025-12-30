@@ -1,0 +1,216 @@
+{
+  "grant_id": "nsf_pathways_to_enable_open_source_ecosystems_pose",
+  "created_at": "2025-12-30T01:32:29.016300-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Pathways to Enable Open-Source Ecosystems",
+    "POSE",
+    "open-source development",
+    "open-source products",
+    "open-source ecosystem",
+    "OSE",
+    "Community Infrastructure for Research in Computer and Information Science and Engineering",
+    "CIRC",
+    "Cyberinfrastructure for Sustained Scientific Innovation",
+    "CSSI",
+    "Infrastructure Capacity for Biological Research",
+    "Capacity",
+    "Human Networks and Data Science \u2013 Infrastructure",
+    "HNDS-1",
+    "LLVM",
+    "Galaxy",
+    "RISC-V",
+    "open-source model",
+    "open-source product",
+    "open-source innovations",
+    "high-impact OSEs",
+    "Phase I",
+    "Phase II",
+    "Institutions of Higher Education",
+    "IHEs",
+    "non-profit, non-academic organizations",
+    "for-profit organizations",
+    "State and Local Governments",
+    "Tribal Nations",
+    "open-source license"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Pathways to Enable Open-Source Ecosystems",
+      "section": "Other"
+    },
+    {
+      "text": "POSE",
+      "section": "Other"
+    },
+    {
+      "text": "open-source development",
+      "section": "Other"
+    },
+    {
+      "text": "open-source products",
+      "section": "Other"
+    },
+    {
+      "text": "open-source ecosystem",
+      "section": "Other"
+    },
+    {
+      "text": "OSE",
+      "section": "Other"
+    },
+    {
+      "text": "Community Infrastructure for Research in Computer and Information Science and Engineering",
+      "section": "Introduction"
+    },
+    {
+      "text": "CIRC",
+      "section": "Introduction"
+    },
+    {
+      "text": "Cyberinfrastructure for Sustained Scientific Innovation",
+      "section": "Introduction"
+    },
+    {
+      "text": "CSSI",
+      "section": "Introduction"
+    },
+    {
+      "text": "Infrastructure Capacity for Biological Research",
+      "section": "Introduction"
+    },
+    {
+      "text": "Capacity",
+      "section": "Introduction"
+    },
+    {
+      "text": "Human Networks and Data Science \u2013 Infrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "HNDS-1",
+      "section": "Introduction"
+    },
+    {
+      "text": "LLVM",
+      "section": "Introduction"
+    },
+    {
+      "text": "Galaxy",
+      "section": "Introduction"
+    },
+    {
+      "text": "RISC-V",
+      "section": "Introduction"
+    },
+    {
+      "text": "open-source model",
+      "section": "Introduction"
+    },
+    {
+      "text": "open-source product",
+      "section": "Other"
+    },
+    {
+      "text": "open-source innovations",
+      "section": "Program Description"
+    },
+    {
+      "text": "high-impact OSEs",
+      "section": "Program Description"
+    },
+    {
+      "text": "Phase I",
+      "section": "Other"
+    },
+    {
+      "text": "Phase II",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "for-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "open-source license",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "open-source license",
+        "source_text": "open-source license",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Capacity",
+        "source_text": "Capacity",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-13"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-13, 2026-01-13",
+      "An Open-Source Ecosystem (OSE) is a self-sustaining organization that enables the ongoing, distributed, asynchronous development of an open-source product that is designed to be publicly accessible, modifiable, and distributable by anyone under an open-source licensing model. An OSE organization has several key components: a leadership team that is responsible for governance and management of distributed development processes and infrastructure, a decentralized and open network of intellectual content contributors/developers who are committed to the vision of the OSE and contribute their time and expertise to develop and maintain the core product, and users whose needs serve to guide the evolution of the product. The intellectual content contributors are a key part of an OSE because they help develop, grow, and maintain the core open-source product. Building a successful open-source ecosystem depends on many different elements, including recruiting, motivating, mentoring, managing, and mediating disputes among community members. There are many existing models of OSEs, ranging from non-profit institutions that are well-coordinated community efforts to build and support open source products (e.g., the Apache Software Foundation , the Linux Foundation , and the Mozilla Foundation ), to for-profit companies that release open-source products and then coordinate an open-source community around them (e.g., IBM's Qiskit and Google's TensorFlow ).",
+      "By the submission deadline, any PI, co-PI, or other Senior/Key Personnel must hold either:",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_pathways_to_enable_open_source_ecosystems_pose.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems/nsf24-606/solicitation"
+  },
+  "document_title": "Pathways to Enable Open-Source Ecosystems (POSE)"
+}

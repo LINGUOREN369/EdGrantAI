@@ -1,0 +1,299 @@
+{
+  "grant_id": "nsf_data_science_corps_dsc",
+  "created_at": "2025-12-30T00:05:37.374288-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Data Science Corps",
+    "national data science infrastructure",
+    "data science students",
+    "real-world data science implementation projects",
+    "data-to-knowledge gap",
+    "local communities",
+    "state communities",
+    "national communities",
+    "rural communities",
+    "urban communities",
+    "workforce-ready cohort of data scientists",
+    "broadening participation in science, technology, engineering and mathematics",
+    "data science education",
+    "data science training",
+    "undergraduates",
+    "community colleges",
+    "Minority-Serving Institutions",
+    "emerging research institutions",
+    "EPSCoR jurisdictions",
+    "grades 6-12",
+    "data science literacy",
+    "Standard Grant",
+    "Institutions of Higher Education",
+    "Two- and four-year IHEs",
+    "non-profit, non-academic organizations",
+    "educational or research activities",
+    "Limit on Number of Proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Data Science Corps",
+      "section": "Other"
+    },
+    {
+      "text": "national data science infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "data science students",
+      "section": "Other"
+    },
+    {
+      "text": "real-world data science implementation projects",
+      "section": "Other"
+    },
+    {
+      "text": "data-to-knowledge gap",
+      "section": "Other"
+    },
+    {
+      "text": "local communities",
+      "section": "Other"
+    },
+    {
+      "text": "state communities",
+      "section": "Other"
+    },
+    {
+      "text": "national communities",
+      "section": "Other"
+    },
+    {
+      "text": "rural communities",
+      "section": "Other"
+    },
+    {
+      "text": "urban communities",
+      "section": "Other"
+    },
+    {
+      "text": "workforce-ready cohort of data scientists",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation in science, technology, engineering and mathematics",
+      "section": "Other"
+    },
+    {
+      "text": "data science education",
+      "section": "Other"
+    },
+    {
+      "text": "data science training",
+      "section": "Program Description"
+    },
+    {
+      "text": "undergraduates",
+      "section": "Other"
+    },
+    {
+      "text": "community colleges",
+      "section": "Other"
+    },
+    {
+      "text": "Minority-Serving Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "emerging research institutions",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR jurisdictions",
+      "section": "Other"
+    },
+    {
+      "text": "grades 6-12",
+      "section": "Other"
+    },
+    {
+      "text": "data science literacy",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "educational or research activities",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Minority-Serving Institutions",
+        "source_text": "Minority-Serving Institutions",
+        "confidence": 0.9
+      },
+      {
+        "tag": "data science education",
+        "source_text": "data science training",
+        "confidence": 0.8286
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "undergraduate students",
+        "source_text": "undergraduates",
+        "confidence": 0.8782,
+        "sources": [
+          "undergraduates"
+        ]
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "graduate students",
+        "source_text": "undergraduates",
+        "confidence": 0.6904,
+        "sources": [
+          "undergraduates"
+        ]
+      },
+      {
+        "tag": "rural students",
+        "source_text": "rural communities",
+        "confidence": 0.6774,
+        "sources": [
+          "rural communities"
+        ]
+      },
+      {
+        "tag": "K-12 students",
+        "source_text": "grades 6-12",
+        "confidence": 0.6773,
+        "sources": [
+          "grades 6-12"
+        ]
+      },
+      {
+        "tag": "middle school students",
+        "source_text": "grades 6-12",
+        "confidence": 0.671,
+        "sources": [
+          "grades 6-12"
+        ]
+      },
+      {
+        "tag": "underserved communities",
+        "source_text": "rural communities",
+        "confidence": 0.6708,
+        "sources": [
+          "rural communities"
+        ]
+      },
+      {
+        "tag": "urban students",
+        "source_text": "urban communities",
+        "confidence": 0.6639,
+        "sources": [
+          "urban communities"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "minority-serving institution",
+        "source_text": "Minority-Serving Institutions",
+        "confidence": 0.8712,
+        "sources": [
+          "Minority-Serving Institutions"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "rural communities",
+        "source_text": "rural communities",
+        "confidence": 1.0,
+        "sources": [
+          "rural communities"
+        ]
+      },
+      {
+        "tag": "urban communities",
+        "source_text": "urban communities",
+        "confidence": 1.0,
+        "sources": [
+          "urban communities"
+        ]
+      },
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR jurisdictions",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per PI or co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_data_science_corps_dsc.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/dsc-data-science-corps/nsf24-560/solicitation"
+  },
+  "document_title": "Data Science Corps (DSC)"
+}

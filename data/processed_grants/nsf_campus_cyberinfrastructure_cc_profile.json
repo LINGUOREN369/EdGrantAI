@@ -1,0 +1,318 @@
+{
+  "grant_id": "nsf_campus_cyberinfrastructure_cc",
+  "created_at": "2025-12-29T23:33:20.698969-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Campus Cyberinfrastructure (CC*)",
+    "cyberinfrastructure improvements",
+    "geographic location",
+    "geography of innovation",
+    "science, technology, engineering, and mathematics (STEM) research and education",
+    "Data Driven Networking Infrastructure",
+    "Computing and the Computing Continuum",
+    "Network Integration and Applied Innovation",
+    "Data Storage and Digital Archives",
+    "Strategy",
+    "science-driven requirements",
+    "STEM research and education needs",
+    "Campus CI plan",
+    "research and education cyberinfrastructure resources",
+    "under-resourced institutions",
+    "multi-campus and multi-institution CI components",
+    "broadening participation in STEM",
+    "Office of Advanced Cyberinfrastructure (OAC)",
+    "Established Program to Stimulate Competitive Research (EPSCoR)",
+    "scalable cyberinfrastructure solutions",
+    "Primarily Undergraduate Institutions (PUIs)",
+    "Minority-Serving Institutions (MSIs)",
+    "collaborations between EPSCoR and non-EPSCoR jurisdictions",
+    "Cyberinfrastructure limitations",
+    "network upgrades",
+    "data services",
+    "campus IT/networking organization",
+    "network security measures",
+    "collaborating domain scientists",
+    "project management plan",
+    "shared high-performance network-connected compute resource",
+    "collaborative technologies",
+    "cloud computing resources",
+    "data management and sharing plan",
+    "campus-wide cyberinfrastructure needs",
+    "expected outcomes",
+    "open source platforms",
+    "data storage and management",
+    "integrated CI planning",
+    "national and global high-performance end-to-end access",
+    "network diagram",
+    "campus-wide approach to cybersecurity",
+    "funded activities",
+    "targeted small and under-resourced institutions",
+    "science drivers and their resource environments",
+    "network connectivity",
+    "collaboration letter",
+    "shared resource",
+    "data lifecycle management",
+    "FAIR principles",
+    "coordinated approaches",
+    "student engagement, education, and training",
+    "compliance with NSF guidelines"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Campus Cyberinfrastructure (CC*)",
+      "section": "Other"
+    },
+    {
+      "text": "cyberinfrastructure improvements",
+      "section": "Other"
+    },
+    {
+      "text": "geographic location",
+      "section": "Introduction"
+    },
+    {
+      "text": "geography of innovation",
+      "section": "Other"
+    },
+    {
+      "text": "science, technology, engineering, and mathematics (STEM) research and education",
+      "section": "Other"
+    },
+    {
+      "text": "Data Driven Networking Infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "Computing and the Computing Continuum",
+      "section": "Other"
+    },
+    {
+      "text": "Network Integration and Applied Innovation",
+      "section": "Other"
+    },
+    {
+      "text": "Data Storage and Digital Archives",
+      "section": "Other"
+    },
+    {
+      "text": "Strategy",
+      "section": "Other"
+    },
+    {
+      "text": "science-driven requirements",
+      "section": "Other"
+    },
+    {
+      "text": "STEM research and education needs",
+      "section": "Introduction"
+    },
+    {
+      "text": "Campus CI plan",
+      "section": "Program Description"
+    },
+    {
+      "text": "research and education cyberinfrastructure resources",
+      "section": "Program Description"
+    },
+    {
+      "text": "under-resourced institutions",
+      "section": "Introduction"
+    },
+    {
+      "text": "multi-campus and multi-institution CI components",
+      "section": "Introduction"
+    },
+    {
+      "text": "broadening participation in STEM",
+      "section": "Other"
+    },
+    {
+      "text": "Office of Advanced Cyberinfrastructure (OAC)",
+      "section": "Introduction"
+    },
+    {
+      "text": "Established Program to Stimulate Competitive Research (EPSCoR)",
+      "section": "Introduction"
+    },
+    {
+      "text": "scalable cyberinfrastructure solutions",
+      "section": "Other"
+    },
+    {
+      "text": "Primarily Undergraduate Institutions (PUIs)",
+      "section": "Introduction"
+    },
+    {
+      "text": "Minority-Serving Institutions (MSIs)",
+      "section": "Introduction"
+    },
+    {
+      "text": "collaborations between EPSCoR and non-EPSCoR jurisdictions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Cyberinfrastructure limitations",
+      "section": "Introduction"
+    },
+    {
+      "text": "network upgrades",
+      "section": "Introduction"
+    },
+    {
+      "text": "data services",
+      "section": "Introduction"
+    },
+    {
+      "text": "campus IT/networking organization",
+      "section": "Program Description"
+    },
+    {
+      "text": "network security measures",
+      "section": "Program Description"
+    },
+    {
+      "text": "collaborating domain scientists",
+      "section": "Other"
+    },
+    {
+      "text": "project management plan",
+      "section": "Program Description"
+    },
+    {
+      "text": "shared high-performance network-connected compute resource",
+      "section": "Other"
+    },
+    {
+      "text": "collaborative technologies",
+      "section": "Program Description"
+    },
+    {
+      "text": "cloud computing resources",
+      "section": "Program Description"
+    },
+    {
+      "text": "data management and sharing plan",
+      "section": "Other"
+    },
+    {
+      "text": "campus-wide cyberinfrastructure needs",
+      "section": "Program Description"
+    },
+    {
+      "text": "expected outcomes",
+      "section": "Program Description"
+    },
+    {
+      "text": "open source platforms",
+      "section": "Program Description"
+    },
+    {
+      "text": "data storage and management",
+      "section": "Other"
+    },
+    {
+      "text": "integrated CI planning",
+      "section": "Program Description"
+    },
+    {
+      "text": "national and global high-performance end-to-end access",
+      "section": "Program Description"
+    },
+    {
+      "text": "network diagram",
+      "section": "Program Description"
+    },
+    {
+      "text": "campus-wide approach to cybersecurity",
+      "section": "Program Description"
+    },
+    {
+      "text": "funded activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "targeted small and under-resourced institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "science drivers and their resource environments",
+      "section": "Program Description"
+    },
+    {
+      "text": "network connectivity",
+      "section": "Program Description"
+    },
+    {
+      "text": "collaboration letter",
+      "section": "Program Description"
+    },
+    {
+      "text": "shared resource",
+      "section": "Program Description"
+    },
+    {
+      "text": "data lifecycle management",
+      "section": "Program Description"
+    },
+    {
+      "text": "FAIR principles",
+      "section": "Program Description"
+    },
+    {
+      "text": "coordinated approaches",
+      "section": "Introduction"
+    },
+    {
+      "text": "student engagement, education, and training",
+      "section": "Program Description"
+    },
+    {
+      "text": "compliance with NSF guidelines",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "science drivers and their resource environments",
+        "source_text": "science drivers and their resource environments",
+        "confidence": 0.9
+      },
+      {
+        "tag": "student engagement, education, and training",
+        "source_text": "student engagement, education, and training",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "Minority-Serving Institutions (MSIs)",
+        "confidence": 0.8081,
+        "sources": [
+          "Minority-Serving Institutions (MSIs)"
+        ]
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "As a campus CI program, funded activities should represent ongoing opportunities for student engagement, education, and training. Proposals that demonstrate opportunities to engage students directly in the design, deployment, operation, and advancement of the funded CI activities, consistent with the required Campus CI plan, are encouraged.",
+      "Proposals will be evaluated on the extent to which the proposal addresses the sustainability of the proposed work in terms of ongoing operational and engineering costs.",
+      "Funded activities should represent ongoing opportunities for student engagement, education, and training.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_campus_cyberinfrastructure_cc.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure/nsf24-530/solicitation"
+  },
+  "document_title": "Campus Cyberinfrastructure (CC*)"
+}

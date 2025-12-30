@@ -1,0 +1,170 @@
+{
+  "grant_id": "nsf_national_stem_teacher_corps_pilot_program",
+  "created_at": "2025-12-30T01:12:29.226277-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "National STEM Teacher Corps Pilot Program",
+    "CHIPS Act of 2022",
+    "National STEM Teacher Corps",
+    "STEM teacher profession",
+    "outstanding STEM educators",
+    "preK-12 classrooms",
+    "professional development",
+    "Regional Alliances",
+    "STEM education",
+    "diverse cadre of outstanding STEM educators",
+    "equity in our Nation\u2019s PreK \u201312 classrooms",
+    "mentorship",
+    "community of National STEM Teacher Corps members",
+    "teacher retention rates",
+    "high-quality STEM learning experiences",
+    "High-Need School",
+    "Institutions of Higher Education",
+    "two-year IHEs",
+    "four-year IHEs",
+    "cooperative agreement",
+    "Elementary and Secondary Education Act"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "National STEM Teacher Corps Pilot Program",
+      "section": "Other"
+    },
+    {
+      "text": "CHIPS Act of 2022",
+      "section": "Other"
+    },
+    {
+      "text": "National STEM Teacher Corps",
+      "section": "Other"
+    },
+    {
+      "text": "STEM teacher profession",
+      "section": "Introduction"
+    },
+    {
+      "text": "outstanding STEM educators",
+      "section": "Introduction"
+    },
+    {
+      "text": "preK-12 classrooms",
+      "section": "Introduction"
+    },
+    {
+      "text": "professional development",
+      "section": "Introduction"
+    },
+    {
+      "text": "Regional Alliances",
+      "section": "Other"
+    },
+    {
+      "text": "STEM education",
+      "section": "Introduction"
+    },
+    {
+      "text": "diverse cadre of outstanding STEM educators",
+      "section": "Program Description"
+    },
+    {
+      "text": "equity in our Nation\u2019s PreK \u201312 classrooms",
+      "section": "Program Description"
+    },
+    {
+      "text": "mentorship",
+      "section": "Introduction"
+    },
+    {
+      "text": "community of National STEM Teacher Corps members",
+      "section": "Introduction"
+    },
+    {
+      "text": "teacher retention rates",
+      "section": "Introduction"
+    },
+    {
+      "text": "high-quality STEM learning experiences",
+      "section": "Introduction"
+    },
+    {
+      "text": "High-Need School",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Program Description"
+    },
+    {
+      "text": "two-year IHEs",
+      "section": "Other"
+    },
+    {
+      "text": "four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "cooperative agreement",
+      "section": "Other"
+    },
+    {
+      "text": "Elementary and Secondary Education Act",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Elementary and Secondary Education Act",
+        "source_text": "Elementary and Secondary Education Act",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Institutions of Higher Education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 students",
+        "source_text": "preK-12 classrooms",
+        "confidence": 0.7215,
+        "sources": [
+          "preK-12 classrooms"
+        ]
+      },
+      {
+        "tag": "K-12 teachers",
+        "source_text": "preK-12 classrooms",
+        "confidence": 0.713,
+        "sources": [
+          "preK-12 classrooms"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_national_stem_teacher_corps_pilot_program.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/national-stem-teacher-corps-pilot-program/nsf24-577/solicitation"
+  },
+  "document_title": "National STEM Teacher Corps Pilot Program"
+}

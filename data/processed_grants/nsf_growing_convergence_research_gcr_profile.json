@@ -1,0 +1,178 @@
+{
+  "grant_id": "nsf_growing_convergence_research_gcr",
+  "created_at": "2025-12-30T00:41:37.569333-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Growing Convergence Research (GCR)",
+    "Convergence Research",
+    "specific and compelling problem",
+    "deep integration across disciplines",
+    "societal needs",
+    "scientific challenges",
+    "NSF Science and Technology Centers",
+    "NSF Engineering Research Centers",
+    "Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science",
+    "Future of Work at the Human-Technology Frontier",
+    "Strengthening American Infrastructure",
+    "Convergence Accelerators",
+    "integrated team research",
+    "institutions of higher education",
+    "non-profit, non-academic organizations",
+    "Institutions of Higher Education (IHEs)",
+    "Two- and four-year IHEs",
+    "community colleges",
+    "full-time appointments",
+    "Limit on Number of Proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Growing Convergence Research (GCR)",
+      "section": "Introduction"
+    },
+    {
+      "text": "Convergence Research",
+      "section": "Other"
+    },
+    {
+      "text": "specific and compelling problem",
+      "section": "Other"
+    },
+    {
+      "text": "deep integration across disciplines",
+      "section": "Program Description"
+    },
+    {
+      "text": "societal needs",
+      "section": "Other"
+    },
+    {
+      "text": "scientific challenges",
+      "section": "Other"
+    },
+    {
+      "text": "NSF Science and Technology Centers",
+      "section": "Introduction"
+    },
+    {
+      "text": "NSF Engineering Research Centers",
+      "section": "Introduction"
+    },
+    {
+      "text": "Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science",
+      "section": "Introduction"
+    },
+    {
+      "text": "Future of Work at the Human-Technology Frontier",
+      "section": "Introduction"
+    },
+    {
+      "text": "Strengthening American Infrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "Convergence Accelerators",
+      "section": "Introduction"
+    },
+    {
+      "text": "integrated team research",
+      "section": "Program Description"
+    },
+    {
+      "text": "institutions of higher education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education (IHEs)",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "full-time appointments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Growing Convergence Research (GCR)",
+        "source_text": "Growing Convergence Research (GCR)",
+        "confidence": 0.9
+      },
+      {
+        "tag": "deep integration across disciplines",
+        "source_text": "deep integration across disciplines",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "institutions of higher education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per PI or co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-02-09"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-02-09, 2026-02-09",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_growing_convergence_research_gcr.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/gcr-growing-convergence-research/nsf24-527/solicitation"
+  },
+  "document_title": "GROWING CONVERGENCE RESEARCH (GCR)"
+}

@@ -1,0 +1,209 @@
+{
+  "grant_id": "nsf_centers_for_chemical_innovation_cci",
+  "created_at": "2025-12-29T23:36:38.077318-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Centers for Chemical Innovation",
+    "CCI",
+    "fundamental chemical research challenges",
+    "transformative research",
+    "broader impacts",
+    "innovation",
+    "higher education and professional development",
+    "broadening participation",
+    "informal science communication",
+    "Phase I",
+    "Phase II",
+    "NSF Division of Chemistry",
+    "Advanced Manufacturing",
+    "Artificial Intelligence",
+    "Semiconductor Research",
+    "Biotechnology",
+    "Climate Research and Sustainability",
+    "Clean Energy",
+    "Quantum Information Science",
+    "Institutions of Higher Education",
+    "non-profit, non-academic organizations",
+    "Principal Investigator",
+    "independent museums",
+    "observatories",
+    "research laboratories",
+    "professional societies",
+    "applications",
+    "number of proposals per organization",
+    "limit on number of proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Centers for Chemical Innovation",
+      "section": "Other"
+    },
+    {
+      "text": "CCI",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental chemical research challenges",
+      "section": "Introduction"
+    },
+    {
+      "text": "transformative research",
+      "section": "Other"
+    },
+    {
+      "text": "broader impacts",
+      "section": "Other"
+    },
+    {
+      "text": "innovation",
+      "section": "Other"
+    },
+    {
+      "text": "higher education and professional development",
+      "section": "Introduction"
+    },
+    {
+      "text": "broadening participation",
+      "section": "Other"
+    },
+    {
+      "text": "informal science communication",
+      "section": "Other"
+    },
+    {
+      "text": "Phase I",
+      "section": "Other"
+    },
+    {
+      "text": "Phase II",
+      "section": "Other"
+    },
+    {
+      "text": "NSF Division of Chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "Advanced Manufacturing",
+      "section": "Other"
+    },
+    {
+      "text": "Artificial Intelligence",
+      "section": "Other"
+    },
+    {
+      "text": "Semiconductor Research",
+      "section": "Other"
+    },
+    {
+      "text": "Biotechnology",
+      "section": "Other"
+    },
+    {
+      "text": "Climate Research and Sustainability",
+      "section": "Other"
+    },
+    {
+      "text": "Clean Energy",
+      "section": "Other"
+    },
+    {
+      "text": "Quantum Information Science",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Program Description"
+    },
+    {
+      "text": "independent museums",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "observatories",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "research laboratories",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "professional societies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "applications",
+      "section": "Other"
+    },
+    {
+      "text": "number of proposals per organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "limit on number of proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Principal Investigator",
+        "source_text": "Principal Investigator",
+        "confidence": 0.9
+      },
+      {
+        "tag": "teacher professional development",
+        "source_text": "higher education and professional development",
+        "confidence": 0.6282
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "limit on number of proposals per PI or co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "The Division of Chemistry is considering new Phase I proposals and Phase II proposals in FY 2024. Both phases are described in this solicitation. There are no institutional limits on the number of preliminary proposals or full proposals; however, new Phase I preliminary proposals and full proposals from institutions currently leading a CCI effort (Phase I or Phase II) are discouraged.",
+      "A CCI is built around a compelling chemistry research challenge. The proposed research should be ambitious and have significant potential for transformative impact in chemistry. The CCI Program is intended to support science that cannot be effectively done by individual investigators or small teams, but requires the synergistic, coordinated efforts of a research center. The potential for synergy is explicitly evaluated during the review process. At the same time, Principal Investigators should ensure that their proposed project does not significantly overlap with ongoing Federally funded research for themselves or any of their team members. Developing a distinct and distinctive science portfolio is essential for any CCI.",
+      "Strategic planning is an enabling activity for a developing center team. These plans cover all aspects of a CCI, including research, broader impact activities (in the four areas noted above), management, diversity and inclusion, and center-wide data approaches. Phase I Principal Investigators are required to complete strategic planning activities during the first year of the award and to submit their strategic plan to NSF within 15 months of the start of the award. All aspects of the strategic plan will be evaluated by external reviewers and NSF staff during Phase I post-award oversight and during Phase II proposal review and post-award oversight. Developing a strong strategic plan will require consultation with strategic planning experts. Phase I proposers will commit to strategic planning in their proposal (management plan section). Phase II proposers will discuss their approach to ongoing strategic planning activities.",
+      "Center Management Plans address leadership of centers, how decisions will be made, including the roles of any internal committees, and how synergy among projects and activities will be actively promoted in service of a center's vision. They include mechanisms for the ongoing assessment of research outcomes and broader impacts; development and implementation of strategic plans; allocation of resources; the ability to initiate new lines of research and terminate support for lower priority efforts; and approaches to encourage and promote effective communication throughout the center and with partners.",
+      "Key milestones during Phase II include site visits and other oversight. The initial Phase II award is made for five years (contingent on acceptable progress). A proposal and its thorough review are required for renewal of up to five additional years (for a total of up to 10 years funding at Phase II). Additional information is provided in the proposal preparation guidance for a Phase II full proposal.",
+      "An investigator may participate (as PI or Other Senior Personnel) in only one CCI preliminary proposal, one CCI Phase I full proposal, and one CCI Phase II full proposal submitted to this competition. In cases where an individual appears in two or more proposals at the same stage, any submitted proposals involving that person may be returned without review.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_centers_for_chemical_innovation_cci.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/cci-centers-chemical-innovation/nsf23-575/solicitation"
+  },
+  "document_title": "Centers for Chemical Innovation (CCI)"
+}

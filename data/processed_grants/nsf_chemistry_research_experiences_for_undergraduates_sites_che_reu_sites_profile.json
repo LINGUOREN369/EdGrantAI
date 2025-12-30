@@ -1,0 +1,163 @@
+{
+  "grant_id": "nsf_chemistry_research_experiences_for_undergraduates_sites_che_reu_sites",
+  "created_at": "2025-12-29T23:51:08.854546-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Chemistry Research Experiences for Undergraduates Sites",
+    "Research Experiences for Undergraduates",
+    "Division of Chemistry",
+    "Mathematical and Physical Sciences Directorate",
+    "REU Site",
+    "citizens or permanent residents of the United States",
+    "REU Sites and Supplements",
+    "Research Experiences for Teachers",
+    "Department of Defense",
+    "Department of Energy",
+    "Semiconductor Research Corporation",
+    "EPSCoR-eligible jurisdictions",
+    "minority-serving institutions",
+    "Division of Materials Research",
+    "Division of Physics",
+    "Principal Investigator",
+    "Co-Principal Investigator",
+    "estimated number of awards",
+    "1,300 to 1,350",
+    "NSF-wide program"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Chemistry Research Experiences for Undergraduates Sites",
+      "section": "Other"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "Mathematical and Physical Sciences Directorate",
+      "section": "Other"
+    },
+    {
+      "text": "REU Site",
+      "section": "Other"
+    },
+    {
+      "text": "citizens or permanent residents of the United States",
+      "section": "Other"
+    },
+    {
+      "text": "REU Sites and Supplements",
+      "section": "Other"
+    },
+    {
+      "text": "Research Experiences for Teachers",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Defense",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Energy",
+      "section": "Program Description"
+    },
+    {
+      "text": "Semiconductor Research Corporation",
+      "section": "Program Description"
+    },
+    {
+      "text": "EPSCoR-eligible jurisdictions",
+      "section": "Program Description"
+    },
+    {
+      "text": "minority-serving institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Division of Materials Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Division of Physics",
+      "section": "Program Description"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Co-Principal Investigator",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "1,300 to 1,350",
+      "section": "Award Information"
+    },
+    {
+      "text": "NSF-wide program",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Semiconductor Research Corporation",
+        "source_text": "Semiconductor Research Corporation",
+        "confidence": 0.9
+      },
+      {
+        "tag": "undergraduate research experiences",
+        "source_text": "Research Experiences for Teachers",
+        "confidence": 0.6364
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "minority-serving institutions",
+        "confidence": 0.9479,
+        "sources": [
+          "minority-serving institutions"
+        ]
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR-eligible jurisdictions",
+        "confidence": 0.9441,
+        "sources": [
+          "EPSCoR-eligible jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "REU Supplements may be requested for ongoing NSF-funded research projects or may be included as a component of proposals for new or renewal NSF grants or cooperative agreements.",
+      "Research experience is one of the most effective avenues for attracting students to and retaining them in science and engineering and for preparing them for careers in these fields. The REU program, through both Sites and Supplements, aims to provide appropriate and valuable educational experiences for undergraduate students through participation in research. REU projects involve students in meaningful ways in ongoing research programs or in research projects specifically designed for the REU program. REU projects feature high-quality interaction of students with faculty and/or other research mentors and access to appropriate facilities and professional development opportunities.",
+      "REU Sites are based on independent proposals, submitted for an annual deadline date, to initiate and conduct projects that engage a number of undergraduate students in research.",
+      "An REU Supplement typically provides support for one or two undergraduate students to participate in research as part of a new or ongoing NSF-funded research project. However, centers or large research efforts may request support for a number of students commensurate with the size and nature of the project. REU Supplements are supported by the various research programs throughout the Foundation, including programs such as Small Business Innovation Research (SBIR).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_chemistry_research_experiences_for_undergraduates_sites_che_reu_sites.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf23-601/solicitation"
+  },
+  "document_title": "Chemistry Research Experiences for Undergraduates Sites (CHE REU Sites)"
+}

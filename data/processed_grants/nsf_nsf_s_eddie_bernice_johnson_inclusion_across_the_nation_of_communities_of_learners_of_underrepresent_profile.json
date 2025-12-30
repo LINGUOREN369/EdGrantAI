@@ -1,0 +1,215 @@
+{
+  "grant_id": "nsf_nsf_s_eddie_bernice_johnson_inclusion_across_the_nation_of_communities_of_learners_of_underrepresent",
+  "created_at": "2025-12-30T01:21:02.855740-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science Initiative",
+    "INCLUDES Initiative",
+    "broadening participation in STEM",
+    "National Network",
+    "INCLUDES funded projects",
+    "Subcommittee on Federal Coordination in STEM Education",
+    "organizations that support the goals of the INCLUDES Initiative",
+    "collaborative infrastructure building",
+    "Design and Development Launch Pilots",
+    "Collaborative Change Consortia",
+    "Alliances",
+    "Network Connectors",
+    "Conferences",
+    "INCLUDES National Network",
+    "broadening participation research and evaluation",
+    "collaborative infrastructure",
+    "shared vision",
+    "partnerships",
+    "goals and metrics",
+    "leadership and communication",
+    "expansion, sustainability, and scale",
+    "Collaborative Change Consortia",
+    "shared vision and strategy",
+    "broadening participation of an identified population(s) in STEM",
+    "multi-sector partnerships",
+    "rigorous and innovative research to the knowledge base about broadening participation in STEM",
+    "data management",
+    "capacity building",
+    "national scale",
+    "Alliances",
+    "backbone organization",
+    "logic model",
+    "individuals engaged in broadening participation",
+    "Network Connectors"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science Initiative",
+      "section": "Other"
+    },
+    {
+      "text": "INCLUDES Initiative",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation in STEM",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Network",
+      "section": "Other"
+    },
+    {
+      "text": "INCLUDES funded projects",
+      "section": "Other"
+    },
+    {
+      "text": "Subcommittee on Federal Coordination in STEM Education",
+      "section": "Other"
+    },
+    {
+      "text": "organizations that support the goals of the INCLUDES Initiative",
+      "section": "Introduction"
+    },
+    {
+      "text": "collaborative infrastructure building",
+      "section": "Other"
+    },
+    {
+      "text": "Design and Development Launch Pilots",
+      "section": "Other"
+    },
+    {
+      "text": "Collaborative Change Consortia",
+      "section": "Other"
+    },
+    {
+      "text": "Alliances",
+      "section": "Other"
+    },
+    {
+      "text": "Network Connectors",
+      "section": "Other"
+    },
+    {
+      "text": "Conferences",
+      "section": "Other"
+    },
+    {
+      "text": "INCLUDES National Network",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation research and evaluation",
+      "section": "Other"
+    },
+    {
+      "text": "collaborative infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "shared vision",
+      "section": "Other"
+    },
+    {
+      "text": "partnerships",
+      "section": "Other"
+    },
+    {
+      "text": "goals and metrics",
+      "section": "Other"
+    },
+    {
+      "text": "leadership and communication",
+      "section": "Other"
+    },
+    {
+      "text": "expansion, sustainability, and scale",
+      "section": "Other"
+    },
+    {
+      "text": "Collaborative Change Consortia",
+      "section": "Other"
+    },
+    {
+      "text": "shared vision and strategy",
+      "section": "Program Description"
+    },
+    {
+      "text": "broadening participation of an identified population(s) in STEM",
+      "section": "Other"
+    },
+    {
+      "text": "multi-sector partnerships",
+      "section": "Program Description"
+    },
+    {
+      "text": "rigorous and innovative research to the knowledge base about broadening participation in STEM",
+      "section": "Program Description"
+    },
+    {
+      "text": "data management",
+      "section": "Program Description"
+    },
+    {
+      "text": "capacity building",
+      "section": "Program Description"
+    },
+    {
+      "text": "national scale",
+      "section": "Program Description"
+    },
+    {
+      "text": "Alliances",
+      "section": "Other"
+    },
+    {
+      "text": "backbone organization",
+      "section": "Program Description"
+    },
+    {
+      "text": "logic model",
+      "section": "Program Description"
+    },
+    {
+      "text": "individuals engaged in broadening participation",
+      "section": "Other"
+    },
+    {
+      "text": "Network Connectors",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "broadening participation in STEM",
+        "confidence": 1.0
+      },
+      {
+        "tag": "shared vision and strategy",
+        "source_text": "shared vision and strategy",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "The INCLUDES Initiative will consider conference proposals on an ongoing basis. Please note that although Conference proposals may be accepted at any time, proposals received after the second Tuesday in May target date each year may not be reviewed until the next fiscal year.",
+      "For Network Connectors, Design and Development Launch Pilots, and Conferences, full proposals must be submitted as a single submission from a lead organization, with other collaborating organizations included as subawardees.",
+      "An individual may serve as a PI or Co-PI on only one INCLUDES proposal per annual due date, not including conferences . Proposals that exceed the PI or Co-PI limit will be returned without review. No exceptions will be made.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_s_eddie_bernice_johnson_inclusion_across_the_nation_of_communities_of_learners_of_underrepresent.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/nsfs-eddie-bernice-johnson-inclusion-across-nation/nsf22-622/solicitation"
+  },
+  "document_title": "NSF's Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science Initiative"
+}

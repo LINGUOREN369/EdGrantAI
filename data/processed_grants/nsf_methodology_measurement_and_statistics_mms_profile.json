@@ -1,0 +1,216 @@
+{
+  "grant_id": "nsf_methodology_measurement_and_statistics_mms",
+  "created_at": "2025-12-30T01:06:35.261592-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Methodology, Measurement, and Statistics (MMS)",
+    "Directorate for Social, Behavioral, and Economic Sciences",
+    "innovative analytical and statistical methods",
+    "official statistics",
+    "Regular Research Awards",
+    "Awards for conferences and community-development activities",
+    "Doctoral Dissertation Research Improvement (DDRI) Grants",
+    "Research Experience for Undergraduates (REU) Supplements",
+    "Faculty Early Career Development (CAREER) awards",
+    "social, behavioral, and economic sciences",
+    "infrastructure projects",
+    "data collection methods",
+    "Federal Statistical System",
+    "Interagency Council on Statistical Policy (ICSP)",
+    "Federal Committee on Statistical Methodology (FCSM)",
+    "Department of Agriculture",
+    "Department of Commerce",
+    "Department of Education",
+    "Department of Energy",
+    "Department of Health and Human Services",
+    "Department of Justice",
+    "Department of Labor",
+    "Department of Transportation",
+    "Department of Treasury",
+    "National Science Foundation",
+    "Social Security Administration",
+    "Doctoral Dissertation Research Improvement Awards",
+    "Research Experiences for Undergraduates (REU) Supplements",
+    "standard Grant or Continuing Grant",
+    "Estimated Number of Awards",
+    "Unaffiliated individuals",
+    "Doctoral Dissertation Research Improvement Awards"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Methodology, Measurement, and Statistics (MMS)",
+      "section": "Other"
+    },
+    {
+      "text": "Directorate for Social, Behavioral, and Economic Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "innovative analytical and statistical methods",
+      "section": "Other"
+    },
+    {
+      "text": "official statistics",
+      "section": "Other"
+    },
+    {
+      "text": "Regular Research Awards",
+      "section": "Other"
+    },
+    {
+      "text": "Awards for conferences and community-development activities",
+      "section": "Other"
+    },
+    {
+      "text": "Doctoral Dissertation Research Improvement (DDRI) Grants",
+      "section": "Other"
+    },
+    {
+      "text": "Research Experience for Undergraduates (REU) Supplements",
+      "section": "Other"
+    },
+    {
+      "text": "Faculty Early Career Development (CAREER) awards",
+      "section": "Other"
+    },
+    {
+      "text": "social, behavioral, and economic sciences",
+      "section": "Program Description"
+    },
+    {
+      "text": "infrastructure projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "data collection methods",
+      "section": "Program Description"
+    },
+    {
+      "text": "Federal Statistical System",
+      "section": "Program Description"
+    },
+    {
+      "text": "Interagency Council on Statistical Policy (ICSP)",
+      "section": "Program Description"
+    },
+    {
+      "text": "Federal Committee on Statistical Methodology (FCSM)",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Agriculture",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Commerce",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Education",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Energy",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Health and Human Services",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Justice",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Labor",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Transportation",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Treasury",
+      "section": "Program Description"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Program Description"
+    },
+    {
+      "text": "Social Security Administration",
+      "section": "Program Description"
+    },
+    {
+      "text": "Doctoral Dissertation Research Improvement Awards",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Research Experiences for Undergraduates (REU) Supplements",
+      "section": "Program Description"
+    },
+    {
+      "text": "standard Grant or Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Unaffiliated individuals",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Doctoral Dissertation Research Improvement Awards",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Federal Committee on Statistical Methodology (FCSM)",
+        "source_text": "Federal Committee on Statistical Methodology (FCSM)",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Interagency Council on Statistical Policy (ICSP)",
+        "source_text": "Interagency Council on Statistical Policy (ICSP)",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "ministries of education",
+        "source_text": "Department of Education",
+        "confidence": 0.6464,
+        "sources": [
+          "Department of Education"
+        ]
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-29"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-29, 2026-01-29",
+      "Although proposals submitted in response to this solicitation may address any aspect of the topics listed above, priority will be given to basic research proposals that are interdisciplinary in nature, have broad implications for the field in general, and have the greatest potential for creating fundamental knowledge of value to the Federal Statistical System. Because methodological problems often require knowledge and expertise from multiple disciplines, collaborations among the relevant sciences, including the social sciences, linguistics, cognitive science, statistics, computer science, and economics are welcome. Although proposals on the above topics may be submitted to either one of the two MMS deadline dates, only proposals submitted to the January due date are guaranteed full consideration by the federal statistical agencies.",
+      "To enhance undergraduate education and training in the development of methods for the social, behavioral, and economic sciences and to broaden the participation of underrepresented students in high-quality research projects, the MMS Program encourages the submission of REU supplements to ongoing MMS-supported research projects. The supplement request should not exceed three pages and should describe the proposed student's involvement in the project, identifying the value of the student's participation both for the conduct of the research and for the student's academic development. The experience of the investigator in involving undergraduates in research should be discussed, including the results of prior REU supplement support (if applicable). If the student has been preselected, the supplement request should describe the grounds for selection and include a brief biographical sketch of the student. If the student has not been preselected, the supplement request should discuss the process and criteria for selecting the student. The MMS Program particularly encourages the submission of REU supplements to support the participation of women and other underrepresented groups in the research process.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_methodology_measurement_and_statistics_mms.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/mms-methodology-measurement-statistics/nsf19-575/solicitation"
+  },
+  "document_title": "Methodology, Measurement, and Statistics (MMS)"
+}

@@ -1,0 +1,199 @@
+{
+  "grant_id": "nsf_improving_undergraduate_stem_education_directorate_for_stem_education_iuse_edu",
+  "created_at": "2025-12-30T00:47:04.820859-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Improving Undergraduate STEM Education",
+    "Directorate for STEM Education",
+    "IUSE: EDU",
+    "STEM education",
+    "undergraduate STEM education",
+    "diverse STEM workforce",
+    "STEM-literate public",
+    "highest caliber undergraduate STEM education",
+    "evidence-based practices",
+    "K-12 teachers",
+    "faculty professional development",
+    "institutional partnerships",
+    "broader societal impacts",
+    "Innovation and Research",
+    "Engaged Student Learning",
+    "Institutional and Community Transformation",
+    "Capacity-Building",
+    "track 1",
+    "track 2",
+    "early-stage exploratory projects",
+    "measuring student outcomes",
+    "professional societies",
+    "community organizations",
+    "local, regional, or national industries",
+    "transformative and effective STEM teaching",
+    "Institutional and Community Transformation",
+    "change processes",
+    "research partnerships"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Improving Undergraduate STEM Education",
+      "section": "Other"
+    },
+    {
+      "text": "Directorate for STEM Education",
+      "section": "Other"
+    },
+    {
+      "text": "IUSE: EDU",
+      "section": "Other"
+    },
+    {
+      "text": "STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "undergraduate STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "diverse STEM workforce",
+      "section": "Introduction"
+    },
+    {
+      "text": "STEM-literate public",
+      "section": "Introduction"
+    },
+    {
+      "text": "highest caliber undergraduate STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "evidence-based practices",
+      "section": "Other"
+    },
+    {
+      "text": "K-12 teachers",
+      "section": "Program Description"
+    },
+    {
+      "text": "faculty professional development",
+      "section": "Program Description"
+    },
+    {
+      "text": "institutional partnerships",
+      "section": "Other"
+    },
+    {
+      "text": "broader societal impacts",
+      "section": "Other"
+    },
+    {
+      "text": "Innovation and Research",
+      "section": "Other"
+    },
+    {
+      "text": "Engaged Student Learning",
+      "section": "Other"
+    },
+    {
+      "text": "Institutional and Community Transformation",
+      "section": "Other"
+    },
+    {
+      "text": "Capacity-Building",
+      "section": "Program Description"
+    },
+    {
+      "text": "track 1",
+      "section": "Program Description"
+    },
+    {
+      "text": "track 2",
+      "section": "Program Description"
+    },
+    {
+      "text": "early-stage exploratory projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "measuring student outcomes",
+      "section": "Program Description"
+    },
+    {
+      "text": "professional societies",
+      "section": "Program Description"
+    },
+    {
+      "text": "community organizations",
+      "section": "Program Description"
+    },
+    {
+      "text": "local, regional, or national industries",
+      "section": "Program Description"
+    },
+    {
+      "text": "transformative and effective STEM teaching",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutional and Community Transformation",
+      "section": "Other"
+    },
+    {
+      "text": "change processes",
+      "section": "Program Description"
+    },
+    {
+      "text": "research partnerships",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "teacher professional development",
+        "source_text": "faculty professional development",
+        "confidence": 0.7625
+      },
+      {
+        "tag": "professional societies",
+        "source_text": "professional societies",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K-12 teachers",
+        "confidence": 1.0,
+        "sources": [
+          "K-12 teachers"
+        ]
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-21"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-21, 2026-01-21",
+      "The annual deadline for ESL Level 1 submissions is the third Wednesday in January.",
+      "The annual deadline for ESL Level 2 submissions is the third Wednesday in July.",
+      "To determine suitability of a project for consideration as an ESL Level 3 effort, or for assistance in distinguishing between ESL Level 3 and ICT Level 2 projects (see below), proposers are encouraged to contact an NSF program officer prior to preparation and submission of a full proposal.",
+      "The annual deadline for ESL Level 3 submissions is the third Wednesday in July.",
+      "The annual deadline for ICT Capacity-Building submissions is the third Wednesday in January.",
+      "The annual deadline for ICT Level 1 submissions is the third Wednesday in January.",
+      "To determine suitability of a project for consideration as an ICT Level 2 effort, or for assistance in distinguishing between ICT Level 2 and ESL Level 3 projects (see above), proposers are encouraged to contact an NSF program officer prior to preparation and submission of a full proposal.",
+      "The annual deadline for ICT Level 2 submissions is the third Wednesday in July.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_improving_undergraduate_stem_education_directorate_for_stem_education_iuse_edu.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/iuse-edu-improving-undergraduate-stem-education-directorate-stem/nsf23-510/solicitation"
+  },
+  "document_title": "Improving Undergraduate STEM Education: Directorate for STEM Education (IUSE: EDU)"
+}

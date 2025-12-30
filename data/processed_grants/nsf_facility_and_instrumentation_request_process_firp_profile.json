@@ -1,0 +1,223 @@
+{
+  "grant_id": "nsf_facility_and_instrumentation_request_process_firp",
+  "created_at": "2025-12-30T00:30:01.832924-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Facility and Instrumentation Request Process",
+    "FIRP",
+    "Facilities for Atmospheric Research and Education",
+    "FARE Program",
+    "Division of Atmospheric and Geospace Sciences",
+    "AGS",
+    "Lower Atmosphere Observing Facilities",
+    "LAOF",
+    "Community Instruments and Facilities",
+    "CIF",
+    "Principal Investigators",
+    "Track 1",
+    "Education and Outreach",
+    "Track 2",
+    "Single Facility Request",
+    "Track 3",
+    "Field Campaigns",
+    "Geosciences Directorate",
+    "GEO",
+    "National Center for Atmospheric Research",
+    "NCAR",
+    "University of Wyoming",
+    "Track 1 Aircraft Deployments",
+    "Track 2 proposals",
+    "CIF",
+    "LAOF",
+    "Track 3 proposals",
+    "Statement of Interest",
+    "SoI",
+    "Anticipated Type of Award",
+    "Standard Grant",
+    "Continuing Grant",
+    "Estimated Number of Awards",
+    "Eligibility Information",
+    "National Science Foundation",
+    "NSF"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Facility and Instrumentation Request Process",
+      "section": "Other"
+    },
+    {
+      "text": "FIRP",
+      "section": "Other"
+    },
+    {
+      "text": "Facilities for Atmospheric Research and Education",
+      "section": "Introduction"
+    },
+    {
+      "text": "FARE Program",
+      "section": "Introduction"
+    },
+    {
+      "text": "Division of Atmospheric and Geospace Sciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "AGS",
+      "section": "Other"
+    },
+    {
+      "text": "Lower Atmosphere Observing Facilities",
+      "section": "Other"
+    },
+    {
+      "text": "LAOF",
+      "section": "Other"
+    },
+    {
+      "text": "Community Instruments and Facilities",
+      "section": "Other"
+    },
+    {
+      "text": "CIF",
+      "section": "Other"
+    },
+    {
+      "text": "Principal Investigators",
+      "section": "Introduction"
+    },
+    {
+      "text": "Track 1",
+      "section": "Other"
+    },
+    {
+      "text": "Education and Outreach",
+      "section": "Other"
+    },
+    {
+      "text": "Track 2",
+      "section": "Other"
+    },
+    {
+      "text": "Single Facility Request",
+      "section": "Other"
+    },
+    {
+      "text": "Track 3",
+      "section": "Other"
+    },
+    {
+      "text": "Field Campaigns",
+      "section": "Other"
+    },
+    {
+      "text": "Geosciences Directorate",
+      "section": "Other"
+    },
+    {
+      "text": "GEO",
+      "section": "Other"
+    },
+    {
+      "text": "National Center for Atmospheric Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "NCAR",
+      "section": "Program Description"
+    },
+    {
+      "text": "University of Wyoming",
+      "section": "Program Description"
+    },
+    {
+      "text": "Track 1 Aircraft Deployments",
+      "section": "Program Description"
+    },
+    {
+      "text": "Track 2 proposals",
+      "section": "Introduction"
+    },
+    {
+      "text": "CIF",
+      "section": "Other"
+    },
+    {
+      "text": "LAOF",
+      "section": "Other"
+    },
+    {
+      "text": "Track 3 proposals",
+      "section": "Introduction"
+    },
+    {
+      "text": "Statement of Interest",
+      "section": "Program Description"
+    },
+    {
+      "text": "SoI",
+      "section": "Program Description"
+    },
+    {
+      "text": "Anticipated Type of Award",
+      "section": "Award Information"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Eligibility Information",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "NSF",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Statement of Interest",
+        "source_text": "Statement of Interest",
+        "confidence": 0.9
+      },
+      {
+        "tag": "NCAR",
+        "source_text": "NCAR",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Activities that are deemed \"straightforward\" will have a submission window between 15 and 21 months in advance of the campaign start date.",
+      "Activities that are deemed \"complex\" will have a submission window between 18 and 24 months in advance of the campaign start date.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_facility_and_instrumentation_request_process_firp.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/firp-facility-instrumentation-request-process/nsf23-602/solicitation"
+  },
+  "document_title": "Facility and Instrumentation Request Process (FIRP)"
+}

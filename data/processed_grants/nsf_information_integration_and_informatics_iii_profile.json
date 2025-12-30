@@ -1,0 +1,182 @@
+{
+  "grant_id": "nsf_information_integration_and_informatics_iii",
+  "created_at": "2025-12-30T00:48:00.453363-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Information Integration and Informatics (III)",
+    "computational methods for the full data lifecycle",
+    "data acquisition",
+    "advanced analytics",
+    "data management",
+    "knowledge bases",
+    "domain-specific methods for data acquisition",
+    "future computing research",
+    "Computer and Information Science and Engineering (CISE)",
+    "mathematical, scientific and technological foundations of computing communication",
+    "computer and network systems",
+    "cybersecurity",
+    "Computing Education Research (CER)",
+    "Intelligent communication network systems",
+    "EPSCoR-eligible institutions",
+    "Tribal Nations",
+    "Institutions of Higher Education (IHEs)",
+    "Non-profit, non-academic organizations",
+    "limit on number of proposals per PI or co-PI",
+    "standard grant",
+    "continuing grant",
+    "estimated number of awards",
+    "anticipated funding amount"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Information Integration and Informatics (III)",
+      "section": "Other"
+    },
+    {
+      "text": "computational methods for the full data lifecycle",
+      "section": "Other"
+    },
+    {
+      "text": "data acquisition",
+      "section": "Other"
+    },
+    {
+      "text": "advanced analytics",
+      "section": "Other"
+    },
+    {
+      "text": "data management",
+      "section": "Other"
+    },
+    {
+      "text": "knowledge bases",
+      "section": "Other"
+    },
+    {
+      "text": "domain-specific methods for data acquisition",
+      "section": "Other"
+    },
+    {
+      "text": "future computing research",
+      "section": "Introduction"
+    },
+    {
+      "text": "Computer and Information Science and Engineering (CISE)",
+      "section": "Introduction"
+    },
+    {
+      "text": "mathematical, scientific and technological foundations of computing communication",
+      "section": "Introduction"
+    },
+    {
+      "text": "computer and network systems",
+      "section": "Introduction"
+    },
+    {
+      "text": "cybersecurity",
+      "section": "Introduction"
+    },
+    {
+      "text": "Computing Education Research (CER)",
+      "section": "Program Description"
+    },
+    {
+      "text": "Intelligent communication network systems",
+      "section": "Program Description"
+    },
+    {
+      "text": "EPSCoR-eligible institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education (IHEs)",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "limit on number of proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "anticipated funding amount",
+      "section": "Award Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Computer and Information Science and Engineering (CISE)",
+        "source_text": "Computer and Information Science and Engineering (CISE)",
+        "confidence": 0.9
+      },
+      {
+        "tag": "future computing research",
+        "source_text": "future computing research",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education (IHEs)",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "limit on number of proposals per PI or co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_information_integration_and_informatics_iii.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation"
+  },
+  "document_title": "Information Integration and Informatics (III)"
+}

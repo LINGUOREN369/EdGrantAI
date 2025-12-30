@@ -1,0 +1,307 @@
+{
+  "grant_id": "nsf_tribal_colleges_and_universities_program_tcup",
+  "created_at": "2025-12-30T02:01:07.630261-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Tribal Colleges and Universities Program",
+    "TCUP",
+    "federally recognized Tribal Colleges and Universities",
+    "Alaska Native-serving institutions",
+    "Native Hawaiian-serving institutions",
+    "high quality science",
+    "STEM education",
+    "transformative capacity-building",
+    "community engagement projects",
+    "Instructional Capacity Excellence in TCUP Institutions",
+    "ICE-TI",
+    "Targeted STEM Infusion Projects",
+    "TSIP",
+    "TCUP for Secondary and Elementary Teachers in STEM",
+    "TSETS",
+    "TCU Enterprise Advancement Centers",
+    "TEA Centers",
+    "Cyberinfrastructure Health, Assistance, and Improvements",
+    "CHAI",
+    "Preparing for TCUP Implementation",
+    "Pre-TI",
+    "TCUP Partnerships",
+    "Small Grants for Research",
+    "SGR",
+    "broadening participation in STEM",
+    "STEM workforce",
+    "service area",
+    "national STEM leader",
+    "Tribal Colleges and Universities",
+    "TCUs",
+    "research opportunities",
+    "research studies",
+    "community colleges",
+    "STEM teacher preparation",
+    "educational support",
+    "STEM education initiatives",
+    "professional development for K-12 STEM educators",
+    "academic infrastructure",
+    "dual-credit projects",
+    "instructional training",
+    "research capacity",
+    "STEM instructional capacity",
+    "STEM teaching",
+    "STEM fields",
+    "non-TCUP institutions",
+    "geoscience education",
+    "career pathways"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Tribal Colleges and Universities Program",
+      "section": "Other"
+    },
+    {
+      "text": "TCUP",
+      "section": "Other"
+    },
+    {
+      "text": "federally recognized Tribal Colleges and Universities",
+      "section": "Introduction"
+    },
+    {
+      "text": "Alaska Native-serving institutions",
+      "section": "Other"
+    },
+    {
+      "text": "Native Hawaiian-serving institutions",
+      "section": "Other"
+    },
+    {
+      "text": "high quality science",
+      "section": "Other"
+    },
+    {
+      "text": "STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "transformative capacity-building",
+      "section": "Other"
+    },
+    {
+      "text": "community engagement projects",
+      "section": "Other"
+    },
+    {
+      "text": "Instructional Capacity Excellence in TCUP Institutions",
+      "section": "Other"
+    },
+    {
+      "text": "ICE-TI",
+      "section": "Other"
+    },
+    {
+      "text": "Targeted STEM Infusion Projects",
+      "section": "Other"
+    },
+    {
+      "text": "TSIP",
+      "section": "Other"
+    },
+    {
+      "text": "TCUP for Secondary and Elementary Teachers in STEM",
+      "section": "Other"
+    },
+    {
+      "text": "TSETS",
+      "section": "Other"
+    },
+    {
+      "text": "TCU Enterprise Advancement Centers",
+      "section": "Other"
+    },
+    {
+      "text": "TEA Centers",
+      "section": "Other"
+    },
+    {
+      "text": "Cyberinfrastructure Health, Assistance, and Improvements",
+      "section": "Other"
+    },
+    {
+      "text": "CHAI",
+      "section": "Other"
+    },
+    {
+      "text": "Preparing for TCUP Implementation",
+      "section": "Other"
+    },
+    {
+      "text": "Pre-TI",
+      "section": "Other"
+    },
+    {
+      "text": "TCUP Partnerships",
+      "section": "Other"
+    },
+    {
+      "text": "Small Grants for Research",
+      "section": "Other"
+    },
+    {
+      "text": "SGR",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation in STEM",
+      "section": "Other"
+    },
+    {
+      "text": "STEM workforce",
+      "section": "Introduction"
+    },
+    {
+      "text": "service area",
+      "section": "Other"
+    },
+    {
+      "text": "national STEM leader",
+      "section": "Other"
+    },
+    {
+      "text": "Tribal Colleges and Universities",
+      "section": "Other"
+    },
+    {
+      "text": "TCUs",
+      "section": "Program Description"
+    },
+    {
+      "text": "research opportunities",
+      "section": "Other"
+    },
+    {
+      "text": "research studies",
+      "section": "Other"
+    },
+    {
+      "text": "community colleges",
+      "section": "Other"
+    },
+    {
+      "text": "STEM teacher preparation",
+      "section": "Introduction"
+    },
+    {
+      "text": "educational support",
+      "section": "Program Description"
+    },
+    {
+      "text": "STEM education initiatives",
+      "section": "Introduction"
+    },
+    {
+      "text": "professional development for K-12 STEM educators",
+      "section": "Other"
+    },
+    {
+      "text": "academic infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "dual-credit projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "instructional training",
+      "section": "Program Description"
+    },
+    {
+      "text": "research capacity",
+      "section": "Other"
+    },
+    {
+      "text": "STEM instructional capacity",
+      "section": "Other"
+    },
+    {
+      "text": "STEM teaching",
+      "section": "Other"
+    },
+    {
+      "text": "STEM fields",
+      "section": "Other"
+    },
+    {
+      "text": "non-TCUP institutions",
+      "section": "Other"
+    },
+    {
+      "text": "geoscience education",
+      "section": "Other"
+    },
+    {
+      "text": "career pathways",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "TCUs",
+        "source_text": "TCUs",
+        "confidence": 0.9
+      },
+      {
+        "tag": "federally recognized Tribal Colleges and Universities",
+        "source_text": "federally recognized Tribal Colleges and Universities",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "tribal college or university",
+        "source_text": "Tribal Colleges and Universities",
+        "confidence": 0.8752,
+        "sources": [
+          "Tribal Colleges and Universities Program",
+          "federally recognized Tribal Colleges and Universities",
+          "Tribal Colleges and Universities"
+        ]
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-12"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-12, 2026-01-12",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_tribal_colleges_and_universities_program_tcup.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/tcup-tribal-colleges-universities-program/nsf21-595/solicitation"
+  },
+  "document_title": "Tribal Colleges and Universities Program (TCUP)"
+}

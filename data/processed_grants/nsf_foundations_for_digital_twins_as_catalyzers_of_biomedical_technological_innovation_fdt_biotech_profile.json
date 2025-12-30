@@ -1,0 +1,183 @@
+{
+  "grant_id": "nsf_foundations_for_digital_twins_as_catalyzers_of_biomedical_technological_innovation_fdt_biotech",
+  "created_at": "2025-12-30T00:32:59.221094-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Foundations for Digital Twins as Catalyzers of Biomedical Technological Innovation",
+    "FDT-BioTech",
+    "digital twins",
+    "biomedical technologies",
+    "healthcare applications",
+    "digital, in silico models",
+    "medical devices",
+    "biomedical technological innovation",
+    "mathematical, statistical, and engineering foundations",
+    "synthetic human models",
+    "interdisciplinary teams",
+    "computational representations of physiologic systems",
+    "Verification, Validation, and Uncertainty Quantification",
+    "transferability, generalizability and robustness",
+    "Ethics, Security, and Privacy",
+    "digital cohorts",
+    "human digital twins",
+    "Ethical, Legal, and Social Implications",
+    "collaborative projects",
+    "Institutions of Higher Education",
+    "Two- and four-year IHEs",
+    "community colleges",
+    "international branch campus"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Foundations for Digital Twins as Catalyzers of Biomedical Technological Innovation",
+      "section": "Other"
+    },
+    {
+      "text": "FDT-BioTech",
+      "section": "Other"
+    },
+    {
+      "text": "digital twins",
+      "section": "Other"
+    },
+    {
+      "text": "biomedical technologies",
+      "section": "Other"
+    },
+    {
+      "text": "healthcare applications",
+      "section": "Other"
+    },
+    {
+      "text": "digital, in silico models",
+      "section": "Other"
+    },
+    {
+      "text": "medical devices",
+      "section": "Other"
+    },
+    {
+      "text": "biomedical technological innovation",
+      "section": "Other"
+    },
+    {
+      "text": "mathematical, statistical, and engineering foundations",
+      "section": "Introduction"
+    },
+    {
+      "text": "synthetic human models",
+      "section": "Introduction"
+    },
+    {
+      "text": "interdisciplinary teams",
+      "section": "Introduction"
+    },
+    {
+      "text": "computational representations of physiologic systems",
+      "section": "Introduction"
+    },
+    {
+      "text": "Verification, Validation, and Uncertainty Quantification",
+      "section": "Program Description"
+    },
+    {
+      "text": "transferability, generalizability and robustness",
+      "section": "Program Description"
+    },
+    {
+      "text": "Ethics, Security, and Privacy",
+      "section": "Program Description"
+    },
+    {
+      "text": "digital cohorts",
+      "section": "Program Description"
+    },
+    {
+      "text": "human digital twins",
+      "section": "Introduction"
+    },
+    {
+      "text": "Ethical, Legal, and Social Implications",
+      "section": "Program Description"
+    },
+    {
+      "text": "collaborative projects",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "international branch campus",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Verification, Validation, and Uncertainty Quantification",
+        "source_text": "Verification, Validation, and Uncertainty Quantification",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Ethical, Legal, and Social Implications",
+        "source_text": "Ethical, Legal, and Social Implications",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-05-04"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-05-04, 2026-05-04",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_foundations_for_digital_twins_as_catalyzers_of_biomedical_technological_innovation_fdt_biotech.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/fdt-biotech-foundations-digital-twins-catalyzers-biomedical/nsf24-561/solicitation"
+  },
+  "document_title": "Foundations for Digital Twins as Catalyzers of Biomedical Technological Innovation (FDT-BioTech)"
+}

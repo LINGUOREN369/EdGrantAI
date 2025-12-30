@@ -1,0 +1,188 @@
+{
+  "grant_id": "nsf_safety_security_and_privacy_of_open_source_ecosystems_safe_ose",
+  "created_at": "2025-12-30T01:48:27.871395-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Safety, Security, and Privacy of Open-Source Ecosystems",
+    "Safe-OSE program",
+    "open source",
+    "open-source software",
+    "safety, security, and privacy risks",
+    "open-source development methods",
+    "Pathways to Enable Open-Source Ecosystems",
+    "proposals from OSEs",
+    "safety, security, and privacy vulnerabilities",
+    "technical vulnerabilities",
+    "socio-technical vulnerabilities",
+    "mature open-source ecosystems",
+    "evidence that OSE team leaders",
+    "threat landscape",
+    "Open-Source Program Office",
+    "Cooperative Agreement",
+    "Non-profit, non-academic organizations",
+    "For-profit organizations",
+    "State and Local Governments",
+    "Tribal Nations",
+    "Institutions of Higher Education",
+    "limit on number of proposals per organization",
+    "limit on number of proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Safety, Security, and Privacy of Open-Source Ecosystems",
+      "section": "Other"
+    },
+    {
+      "text": "Safe-OSE program",
+      "section": "Other"
+    },
+    {
+      "text": "open source",
+      "section": "Introduction"
+    },
+    {
+      "text": "open-source software",
+      "section": "Program Description"
+    },
+    {
+      "text": "safety, security, and privacy risks",
+      "section": "Introduction"
+    },
+    {
+      "text": "open-source development methods",
+      "section": "Introduction"
+    },
+    {
+      "text": "Pathways to Enable Open-Source Ecosystems",
+      "section": "Other"
+    },
+    {
+      "text": "proposals from OSEs",
+      "section": "Other"
+    },
+    {
+      "text": "safety, security, and privacy vulnerabilities",
+      "section": "Program Description"
+    },
+    {
+      "text": "technical vulnerabilities",
+      "section": "Other"
+    },
+    {
+      "text": "socio-technical vulnerabilities",
+      "section": "Other"
+    },
+    {
+      "text": "mature open-source ecosystems",
+      "section": "Program Description"
+    },
+    {
+      "text": "evidence that OSE team leaders",
+      "section": "Program Description"
+    },
+    {
+      "text": "threat landscape",
+      "section": "Program Description"
+    },
+    {
+      "text": "Open-Source Program Office",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "For-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "limit on number of proposals per organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "limit on number of proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "safety, security, and privacy vulnerabilities",
+        "source_text": "safety, security, and privacy vulnerabilities",
+        "confidence": 0.9
+      },
+      {
+        "tag": "open-source software",
+        "source_text": "open-source software",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "limit on number of proposals per organization",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-13"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-13, 2026-01-13",
+      "Although open-source development methods accelerate and catalyze innovation, they can also create safety, security, and privacy risks and unintended harms. Adversaries can leverage the pillars of the open-source development philosophy - the democratization of development and broad opportunities for reuse - to insert and exploit vulnerabilities in open-source products. For OSS, even code written in memory-safe languages can be compromised because code re-usability and modularity can introduce dependencies, complexity, and liabilities to the software development life cycle. A recent study found that 82% of OSS components present risks due to vulnerabilities, security issues, and code quality or maintainability concerns. Furthermore, as noted in the report of a recent workshop sponsored by the Office of Management and Budget (OMB), NSF, and the National Institute for Standards and Technology (NIST) on the Open-source Software Security Initiative, the dynamics of complex, distributed organizations pose unique challenges in the creation and maintenance of a secure open-source ecosystem.",
+      "By the submission deadline, any PI, co-PI, or other Senior/Key Personnel must hold either:",
+      "Up to two (2) preliminary proposals per lead organization are allowed. NSF will review the preliminary proposals and provide a binding \"Invite\" or \"Do Not Invite\" response for each preliminary proposal. Invited organizations will be allowed to submit a full proposal on the project described in the preliminary proposal by the full proposal submission deadline.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_safety_security_and_privacy_of_open_source_ecosystems_safe_ose.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/safe-ose-safety-security-privacy-open-source-ecosystems/nsf24-608/solicitation"
+  },
+  "document_title": "Safety, Security, and Privacy of Open-Source Ecosystems (Safe-OSE)"
+}

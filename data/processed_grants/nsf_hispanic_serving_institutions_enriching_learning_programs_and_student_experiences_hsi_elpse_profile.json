@@ -1,0 +1,219 @@
+{
+  "grant_id": "nsf_hispanic_serving_institutions_enriching_learning_programs_and_student_experiences_hsi_elpse",
+  "created_at": "2025-12-30T00:42:43.235123-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Hispanic-Serving Institutions",
+    "HSI Program",
+    "Hispanic Serving Institutions",
+    "National Science Foundation",
+    "undergraduate science, technology, engineering, and mathematics (STEM) education",
+    "recruitment, retention, and graduation rates",
+    "student experience",
+    "Certificate",
+    "minor",
+    "degree programs",
+    "Academic departments",
+    "Hispanic Serving Institutions: Enriching Learning, Programs, and Student Experiences",
+    "broadening participation in STEM",
+    "Implementation and Evaluation Projects",
+    "Educational Instrumentation",
+    "undergraduate STEM educational programs",
+    "U.S. Department of Education",
+    "Primarily Undergraduate Institutions",
+    "EPSCoR jurisdictions",
+    "educational instrumentation",
+    "data infrastructure",
+    "student pathways",
+    "first-generation",
+    "peer mentors",
+    "student mentoring plan",
+    "educational experiences",
+    "positive outcomes",
+    "academic advising",
+    "STEM workforce",
+    "higher education ecosystem"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Hispanic-Serving Institutions",
+      "section": "Other"
+    },
+    {
+      "text": "HSI Program",
+      "section": "Other"
+    },
+    {
+      "text": "Hispanic Serving Institutions",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Introduction"
+    },
+    {
+      "text": "undergraduate science, technology, engineering, and mathematics (STEM) education",
+      "section": "Other"
+    },
+    {
+      "text": "recruitment, retention, and graduation rates",
+      "section": "Other"
+    },
+    {
+      "text": "student experience",
+      "section": "Other"
+    },
+    {
+      "text": "Certificate",
+      "section": "Other"
+    },
+    {
+      "text": "minor",
+      "section": "Other"
+    },
+    {
+      "text": "degree programs",
+      "section": "Other"
+    },
+    {
+      "text": "Academic departments",
+      "section": "Other"
+    },
+    {
+      "text": "Hispanic Serving Institutions: Enriching Learning, Programs, and Student Experiences",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation in STEM",
+      "section": "Other"
+    },
+    {
+      "text": "Implementation and Evaluation Projects",
+      "section": "Other"
+    },
+    {
+      "text": "Educational Instrumentation",
+      "section": "Other"
+    },
+    {
+      "text": "undergraduate STEM educational programs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S. Department of Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Primarily Undergraduate Institutions",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR jurisdictions",
+      "section": "Other"
+    },
+    {
+      "text": "educational instrumentation",
+      "section": "Other"
+    },
+    {
+      "text": "data infrastructure",
+      "section": "Program Description"
+    },
+    {
+      "text": "student pathways",
+      "section": "Other"
+    },
+    {
+      "text": "first-generation",
+      "section": "Other"
+    },
+    {
+      "text": "peer mentors",
+      "section": "Program Description"
+    },
+    {
+      "text": "student mentoring plan",
+      "section": "Program Description"
+    },
+    {
+      "text": "educational experiences",
+      "section": "Program Description"
+    },
+    {
+      "text": "positive outcomes",
+      "section": "Other"
+    },
+    {
+      "text": "academic advising",
+      "section": "Program Description"
+    },
+    {
+      "text": "STEM workforce",
+      "section": "Program Description"
+    },
+    {
+      "text": "higher education ecosystem",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "undergraduate mentorship programs",
+        "source_text": "student mentoring plan",
+        "confidence": 0.6771
+      },
+      {
+        "tag": "educational experiences",
+        "source_text": "educational experiences",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "first-generation students",
+        "source_text": "first-generation",
+        "confidence": 0.7558,
+        "sources": [
+          "first-generation"
+        ]
+      },
+      {
+        "tag": "undergraduate students",
+        "source_text": "student experience",
+        "confidence": 0.6088,
+        "sources": [
+          "student experience"
+        ]
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR jurisdictions",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Implementation and Evaluation Proposals: Eligible institutions may submit up to a total of three IEP proposals per solicitation deadline, regardless of level. An institution may, for example, submit three Level 1 IEP proposals, or one Level 1 IEP proposal and two Level 2 IEP proposals in the same deadline.",
+      "An individual may be listed as PI or Co-PI on at most two proposals per submission deadline.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_hispanic_serving_institutions_enriching_learning_programs_and_student_experiences_hsi_elpse.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/hsielpse-hispanic-serving-institutions-enriching-learning-programs/nsf24-551/solicitation"
+  },
+  "document_title": "Hispanic-Serving Institutions: Enriching Learning, Programs, and Student Experiences (HSI:ELPSE)"
+}

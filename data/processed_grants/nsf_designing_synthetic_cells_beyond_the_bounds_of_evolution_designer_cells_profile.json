@@ -1,0 +1,213 @@
+{
+  "grant_id": "nsf_designing_synthetic_cells_beyond_the_bounds_of_evolution_designer_cells",
+  "created_at": "2025-12-30T00:07:19.574877-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Designing Synthetic Cells Beyond the Bounds of Evolution",
+    "synthetic biology",
+    "bioengineering",
+    "cell-like systems",
+    "synthetically-modified cells",
+    "novel synthetic cell-like systems",
+    "biotechnology applications",
+    "intellectual merit",
+    "broader impacts",
+    "social, ethical, and safety issues",
+    "synthetically modified cells",
+    "biological diversity",
+    "novel biotechnology applications",
+    "synthetic cell components",
+    "synthetic components",
+    "synthetically modified prokaryotic and/or eukaryotic cells",
+    "regulatory circuits",
+    "synthetic systems",
+    "biochemical diversity",
+    "synthetic biosystems",
+    "innovative biotechnology applications",
+    "minimal cellular functional units",
+    "social scientists",
+    "biodiversity",
+    "Institutions of Higher Education",
+    "community colleges",
+    "Non-profit, non-academic organizations",
+    "Tribal Governments"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Designing Synthetic Cells Beyond the Bounds of Evolution",
+      "section": "Other"
+    },
+    {
+      "text": "synthetic biology",
+      "section": "Other"
+    },
+    {
+      "text": "bioengineering",
+      "section": "Other"
+    },
+    {
+      "text": "cell-like systems",
+      "section": "Other"
+    },
+    {
+      "text": "synthetically-modified cells",
+      "section": "Other"
+    },
+    {
+      "text": "novel synthetic cell-like systems",
+      "section": "Other"
+    },
+    {
+      "text": "biotechnology applications",
+      "section": "Other"
+    },
+    {
+      "text": "intellectual merit",
+      "section": "Other"
+    },
+    {
+      "text": "broader impacts",
+      "section": "Other"
+    },
+    {
+      "text": "social, ethical, and safety issues",
+      "section": "Other"
+    },
+    {
+      "text": "synthetically modified cells",
+      "section": "Other"
+    },
+    {
+      "text": "biological diversity",
+      "section": "Other"
+    },
+    {
+      "text": "novel biotechnology applications",
+      "section": "Introduction"
+    },
+    {
+      "text": "synthetic cell components",
+      "section": "Program Description"
+    },
+    {
+      "text": "synthetic components",
+      "section": "Program Description"
+    },
+    {
+      "text": "synthetically modified prokaryotic and/or eukaryotic cells",
+      "section": "Program Description"
+    },
+    {
+      "text": "regulatory circuits",
+      "section": "Program Description"
+    },
+    {
+      "text": "synthetic systems",
+      "section": "Program Description"
+    },
+    {
+      "text": "biochemical diversity",
+      "section": "Program Description"
+    },
+    {
+      "text": "synthetic biosystems",
+      "section": "Program Description"
+    },
+    {
+      "text": "innovative biotechnology applications",
+      "section": "Other"
+    },
+    {
+      "text": "minimal cellular functional units",
+      "section": "Program Description"
+    },
+    {
+      "text": "social scientists",
+      "section": "Program Description"
+    },
+    {
+      "text": "biodiversity",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Governments",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "synthetic components",
+        "source_text": "synthetic components",
+        "confidence": 0.9
+      },
+      {
+        "tag": "synthetic systems",
+        "source_text": "synthetic systems",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-02-02"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-02-02, 2026-02-02",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_designing_synthetic_cells_beyond_the_bounds_of_evolution_designer_cells.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/designer-cells-designing-synthetic-cells-beyond-bounds-evolution/nsf24-505/solicitation"
+  },
+  "document_title": "Designing Synthetic Cells Beyond the Bounds of Evolution (Designer Cells)"
+}

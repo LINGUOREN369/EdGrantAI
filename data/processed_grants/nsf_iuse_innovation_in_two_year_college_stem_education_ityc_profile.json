@@ -1,0 +1,218 @@
+{
+  "grant_id": "nsf_iuse_innovation_in_two_year_college_stem_education_ityc",
+  "created_at": "2025-12-30T00:55:04.147884-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "IUSE: Innovation in Two-Year College STEM Education (ITYC)",
+    "two-year institutions of higher education",
+    "two-year colleges",
+    "student success in STEM education",
+    "STEM-based foundational courses",
+    "academic pathways for both majors and non-majors",
+    "social, behavioral, and economic sciences",
+    "two-year college students",
+    "two-year college strengths and innovation",
+    "A Focus on the Academic Experiences of Two-Year College Students",
+    "Leveraging Two-Year College Strengths and Innovation",
+    "Advanced Technological Education (ATE) program",
+    "undergraduate STEM education",
+    "NSF's Improving Undergraduate STEM Education (IUSE) framework",
+    "two tracks",
+    "Track 1",
+    "Track 2",
+    "dual credit",
+    "dual enrollment",
+    "two-year colleges",
+    "traditional and non-traditional students",
+    "STEM education research",
+    "work-based settings",
+    "community-based projects",
+    "preparation of the future STEM workforce",
+    "experiential learning opportunities",
+    "professional development of faculty",
+    "communities of practice",
+    "bridging the gap between research and practice"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "IUSE: Innovation in Two-Year College STEM Education (ITYC)",
+      "section": "Other"
+    },
+    {
+      "text": "two-year institutions of higher education",
+      "section": "Other"
+    },
+    {
+      "text": "two-year colleges",
+      "section": "Other"
+    },
+    {
+      "text": "student success in STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "STEM-based foundational courses",
+      "section": "Other"
+    },
+    {
+      "text": "academic pathways for both majors and non-majors",
+      "section": "Other"
+    },
+    {
+      "text": "social, behavioral, and economic sciences",
+      "section": "Other"
+    },
+    {
+      "text": "two-year college students",
+      "section": "Other"
+    },
+    {
+      "text": "two-year college strengths and innovation",
+      "section": "Other"
+    },
+    {
+      "text": "A Focus on the Academic Experiences of Two-Year College Students",
+      "section": "Other"
+    },
+    {
+      "text": "Leveraging Two-Year College Strengths and Innovation",
+      "section": "Other"
+    },
+    {
+      "text": "Advanced Technological Education (ATE) program",
+      "section": "Introduction"
+    },
+    {
+      "text": "undergraduate STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "NSF's Improving Undergraduate STEM Education (IUSE) framework",
+      "section": "Other"
+    },
+    {
+      "text": "two tracks",
+      "section": "Other"
+    },
+    {
+      "text": "Track 1",
+      "section": "Program Description"
+    },
+    {
+      "text": "Track 2",
+      "section": "Program Description"
+    },
+    {
+      "text": "dual credit",
+      "section": "Program Description"
+    },
+    {
+      "text": "dual enrollment",
+      "section": "Program Description"
+    },
+    {
+      "text": "two-year colleges",
+      "section": "Other"
+    },
+    {
+      "text": "traditional and non-traditional students",
+      "section": "Other"
+    },
+    {
+      "text": "STEM education research",
+      "section": "Program Description"
+    },
+    {
+      "text": "work-based settings",
+      "section": "Program Description"
+    },
+    {
+      "text": "community-based projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "preparation of the future STEM workforce",
+      "section": "Other"
+    },
+    {
+      "text": "experiential learning opportunities",
+      "section": "Program Description"
+    },
+    {
+      "text": "professional development of faculty",
+      "section": "Program Description"
+    },
+    {
+      "text": "communities of practice",
+      "section": "Program Description"
+    },
+    {
+      "text": "bridging the gap between research and practice",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "experiential learning opportunities",
+        "source_text": "experiential learning opportunities",
+        "confidence": 0.9
+      },
+      {
+        "tag": "STEM education research",
+        "source_text": "STEM education research",
+        "confidence": 1.0
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "two-year college students",
+        "confidence": 0.7963,
+        "sources": [
+          "two-year colleges",
+          "two-year college students"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "two-year college",
+        "source_text": "two-year colleges",
+        "confidence": 0.8894,
+        "sources": [
+          "two-year colleges"
+        ]
+      },
+      {
+        "tag": "community-based organization",
+        "source_text": "community-based projects",
+        "confidence": 0.7078,
+        "sources": [
+          "community-based projects"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "two-year institutions of higher education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_iuse_innovation_in_two_year_college_stem_education_ityc.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ityc-iuse-innovation-two-year-college-stem-education/nsf23-584/solicitation"
+  },
+  "document_title": "IUSE: Innovation in Two-Year College STEM Education (ITYC)"
+}

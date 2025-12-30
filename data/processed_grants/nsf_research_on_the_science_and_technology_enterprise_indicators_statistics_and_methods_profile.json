@@ -1,0 +1,292 @@
+{
+  "grant_id": "nsf_research_on_the_science_and_technology_enterprise_indicators_statistics_and_methods",
+  "created_at": "2025-12-30T01:46:03.807929-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Research on the Science and Technology Enterprise: Indicators, Statistics, and Methods",
+    "National Center for Science and Engineering Statistics",
+    "National Science Foundation",
+    "statistical data",
+    "science and technology (S&T) enterprise",
+    "practitioners, researchers, policymakers and the public",
+    "Women, Minorities and Persons with Disabilities in Science and Engineering",
+    "National Science Board's biennial report",
+    "Science and Engineering (S&E) Indicators",
+    "education and training of researchers",
+    "large-scale nationally representative datasets",
+    "standard research proposals",
+    "Institutions of Higher Education",
+    "Two- and four-year IHEs",
+    "community colleges",
+    "non-profit, non-academic organizations",
+    "Tribal Nations",
+    "Doctoral Dissertation Research Improvement Grant proposals",
+    "improved approaches to indicator construction",
+    "new S&T indicator development",
+    "data collection methodologies",
+    "STEM education",
+    "Survey of Graduate Students and Postdoctorates in Science and Engineering",
+    "Survey of Earned Doctorates",
+    "Science and Engineering Workforce",
+    "Early Career Doctorates Survey",
+    "Survey of Doctorate Recipients",
+    "National Survey of College Graduates",
+    "National Training, Education, and Workforce Survey",
+    "Survey of Postdocs at Federally Funded Research and Development Centers",
+    "Government Funding for Science and Engineering",
+    "Survey of Federal Funds for Research and Development",
+    "Survey of Federal Science and Engineering Support to Universities, Colleges, and Nonprofit Institutions",
+    "Survey of State Research and Development Expenditures",
+    "Higher Education Research and Development",
+    "Higher Education Research and Development Survey",
+    "Survey of Science and Engineering Research Facilities",
+    "Annual Business Survey",
+    "Business Enterprise Research and Development Survey",
+    "Federal Facilities Research and Development Survey",
+    "Nonprofit Research Activities Survey"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Research on the Science and Technology Enterprise: Indicators, Statistics, and Methods",
+      "section": "Other"
+    },
+    {
+      "text": "National Center for Science and Engineering Statistics",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "statistical data",
+      "section": "Other"
+    },
+    {
+      "text": "science and technology (S&T) enterprise",
+      "section": "Other"
+    },
+    {
+      "text": "practitioners, researchers, policymakers and the public",
+      "section": "Other"
+    },
+    {
+      "text": "Women, Minorities and Persons with Disabilities in Science and Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Board's biennial report",
+      "section": "Other"
+    },
+    {
+      "text": "Science and Engineering (S&E) Indicators",
+      "section": "Other"
+    },
+    {
+      "text": "education and training of researchers",
+      "section": "Other"
+    },
+    {
+      "text": "large-scale nationally representative datasets",
+      "section": "Other"
+    },
+    {
+      "text": "standard research proposals",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Doctoral Dissertation Research Improvement Grant proposals",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "improved approaches to indicator construction",
+      "section": "Program Description"
+    },
+    {
+      "text": "new S&T indicator development",
+      "section": "Program Description"
+    },
+    {
+      "text": "data collection methodologies",
+      "section": "Program Description"
+    },
+    {
+      "text": "STEM education",
+      "section": "Program Description"
+    },
+    {
+      "text": "Survey of Graduate Students and Postdoctorates in Science and Engineering",
+      "section": "Program Description"
+    },
+    {
+      "text": "Survey of Earned Doctorates",
+      "section": "Program Description"
+    },
+    {
+      "text": "Science and Engineering Workforce",
+      "section": "Program Description"
+    },
+    {
+      "text": "Early Career Doctorates Survey",
+      "section": "Program Description"
+    },
+    {
+      "text": "Survey of Doctorate Recipients",
+      "section": "Program Description"
+    },
+    {
+      "text": "National Survey of College Graduates",
+      "section": "Program Description"
+    },
+    {
+      "text": "National Training, Education, and Workforce Survey",
+      "section": "Program Description"
+    },
+    {
+      "text": "Survey of Postdocs at Federally Funded Research and Development Centers",
+      "section": "Program Description"
+    },
+    {
+      "text": "Government Funding for Science and Engineering",
+      "section": "Program Description"
+    },
+    {
+      "text": "Survey of Federal Funds for Research and Development",
+      "section": "Other"
+    },
+    {
+      "text": "Survey of Federal Science and Engineering Support to Universities, Colleges, and Nonprofit Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Survey of State Research and Development Expenditures",
+      "section": "Program Description"
+    },
+    {
+      "text": "Higher Education Research and Development",
+      "section": "Program Description"
+    },
+    {
+      "text": "Higher Education Research and Development Survey",
+      "section": "Program Description"
+    },
+    {
+      "text": "Survey of Science and Engineering Research Facilities",
+      "section": "Program Description"
+    },
+    {
+      "text": "Annual Business Survey",
+      "section": "Program Description"
+    },
+    {
+      "text": "Business Enterprise Research and Development Survey",
+      "section": "Program Description"
+    },
+    {
+      "text": "Federal Facilities Research and Development Survey",
+      "section": "Program Description"
+    },
+    {
+      "text": "Nonprofit Research Activities Survey",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Higher Education Research and Development",
+        "source_text": "Higher Education Research and Development",
+        "confidence": 0.9
+      },
+      {
+        "tag": "data collection methodologies",
+        "source_text": "data collection methodologies",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "postdoctoral researchers",
+        "source_text": "education and training of researchers",
+        "confidence": 0.614,
+        "sources": [
+          "education and training of researchers"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_research_on_the_science_and_technology_enterprise_indicators_statistics_and_methods.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/research-science-technology-enterprise-indicators-statistics/nsf24-587/solicitation"
+  },
+  "document_title": "Research on the Science and Technology Enterprise: Indicators, Statistics, and Methods"
+}

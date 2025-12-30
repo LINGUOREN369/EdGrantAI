@@ -1,0 +1,160 @@
+{
+  "grant_id": "nsf_human_networks_and_data_science_hnds",
+  "created_at": "2025-12-30T00:46:26.519965-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Human Networks and Data Science",
+    "HNDS",
+    "Social, Behavioral and Economic",
+    "SBE",
+    "infrastructure proposals",
+    "data resources",
+    "analytic techniques",
+    "Core Research",
+    "HNDS-R",
+    "data-intensive methods",
+    "large data sets",
+    "network data",
+    "network analysis",
+    "data-intensive research",
+    "HNDS-I",
+    "databases",
+    "analytical tools",
+    "fundamental research",
+    "core SBE discipline",
+    "social data science",
+    "models of existing or emerging human networks",
+    "scientific infrastructure",
+    "broad disciplinary areas"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Human Networks and Data Science",
+      "section": "Other"
+    },
+    {
+      "text": "HNDS",
+      "section": "Other"
+    },
+    {
+      "text": "Social, Behavioral and Economic",
+      "section": "Other"
+    },
+    {
+      "text": "SBE",
+      "section": "Other"
+    },
+    {
+      "text": "infrastructure proposals",
+      "section": "Other"
+    },
+    {
+      "text": "data resources",
+      "section": "Other"
+    },
+    {
+      "text": "analytic techniques",
+      "section": "Other"
+    },
+    {
+      "text": "Core Research",
+      "section": "Other"
+    },
+    {
+      "text": "HNDS-R",
+      "section": "Other"
+    },
+    {
+      "text": "data-intensive methods",
+      "section": "Introduction"
+    },
+    {
+      "text": "large data sets",
+      "section": "Other"
+    },
+    {
+      "text": "network data",
+      "section": "Other"
+    },
+    {
+      "text": "network analysis",
+      "section": "Other"
+    },
+    {
+      "text": "data-intensive research",
+      "section": "Other"
+    },
+    {
+      "text": "HNDS-I",
+      "section": "Other"
+    },
+    {
+      "text": "databases",
+      "section": "Other"
+    },
+    {
+      "text": "analytical tools",
+      "section": "Program Description"
+    },
+    {
+      "text": "fundamental research",
+      "section": "Introduction"
+    },
+    {
+      "text": "core SBE discipline",
+      "section": "Other"
+    },
+    {
+      "text": "social data science",
+      "section": "Introduction"
+    },
+    {
+      "text": "models of existing or emerging human networks",
+      "section": "Introduction"
+    },
+    {
+      "text": "scientific infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "broad disciplinary areas",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "fundamental research",
+        "source_text": "fundamental research",
+        "confidence": 0.9
+      },
+      {
+        "tag": "analytical tools",
+        "source_text": "analytical tools",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-08"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-08, 2026-01-08",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_human_networks_and_data_science_hnds.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/hnds-human-networks-data-science/nsf23-568/solicitation"
+  },
+  "document_title": "Human Networks and Data Science (HNDS)"
+}

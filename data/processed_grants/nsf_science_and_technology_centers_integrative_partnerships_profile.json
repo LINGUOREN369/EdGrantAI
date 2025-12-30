@@ -1,0 +1,226 @@
+{
+  "grant_id": "nsf_science_and_technology_centers_integrative_partnerships",
+  "created_at": "2025-12-30T01:49:24.292530-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Science and Technology Centers: Integrative Partnerships",
+    "STC",
+    "research and education projects",
+    "new scientific paradigms",
+    "new scientific disciplines",
+    "transformative technologies",
+    "broad scientific or societal impact",
+    "world-class research",
+    "partnerships among institutions of higher education",
+    "national laboratories",
+    "industrial organizations",
+    "public or private entities",
+    "international collaborations",
+    "STC program",
+    "STC investments",
+    "NSF vision",
+    "knowledge transfer",
+    "broadening participation in STEM",
+    "knowledge transfer arrangements",
+    "cooperative agreement",
+    "STC program objectives",
+    "diverse talent",
+    "minority-serving institutions",
+    "K-12 educational institutions",
+    "estimated number of awards",
+    "institutions of higher education",
+    "United States"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Science and Technology Centers: Integrative Partnerships",
+      "section": "Other"
+    },
+    {
+      "text": "STC",
+      "section": "Other"
+    },
+    {
+      "text": "research and education projects",
+      "section": "Other"
+    },
+    {
+      "text": "new scientific paradigms",
+      "section": "Other"
+    },
+    {
+      "text": "new scientific disciplines",
+      "section": "Other"
+    },
+    {
+      "text": "transformative technologies",
+      "section": "Other"
+    },
+    {
+      "text": "broad scientific or societal impact",
+      "section": "Other"
+    },
+    {
+      "text": "world-class research",
+      "section": "Other"
+    },
+    {
+      "text": "partnerships among institutions of higher education",
+      "section": "Introduction"
+    },
+    {
+      "text": "national laboratories",
+      "section": "Other"
+    },
+    {
+      "text": "industrial organizations",
+      "section": "Other"
+    },
+    {
+      "text": "public or private entities",
+      "section": "Other"
+    },
+    {
+      "text": "international collaborations",
+      "section": "Other"
+    },
+    {
+      "text": "STC program",
+      "section": "Other"
+    },
+    {
+      "text": "STC investments",
+      "section": "Other"
+    },
+    {
+      "text": "NSF vision",
+      "section": "Other"
+    },
+    {
+      "text": "knowledge transfer",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation in STEM",
+      "section": "Other"
+    },
+    {
+      "text": "knowledge transfer arrangements",
+      "section": "Other"
+    },
+    {
+      "text": "cooperative agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "STC program objectives",
+      "section": "Other"
+    },
+    {
+      "text": "diverse talent",
+      "section": "Other"
+    },
+    {
+      "text": "minority-serving institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "K-12 educational institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "institutions of higher education",
+      "section": "Other"
+    },
+    {
+      "text": "United States",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "minority-serving institutions",
+        "source_text": "minority-serving institutions",
+        "confidence": 0.9
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "K-12 educational institutions",
+        "confidence": 0.6789
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 students",
+        "source_text": "K-12 educational institutions",
+        "confidence": 0.7854,
+        "sources": [
+          "K-12 educational institutions"
+        ]
+      },
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K-12 educational institutions",
+        "confidence": 0.735,
+        "sources": [
+          "K-12 educational institutions"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "minority-serving institutions",
+        "confidence": 0.9479,
+        "sources": [
+          "minority-serving institutions"
+        ]
+      },
+      {
+        "tag": "national laboratory",
+        "source_text": "national laboratories",
+        "confidence": 0.8956,
+        "sources": [
+          "national laboratories"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "partnerships among institutions of higher education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "United States",
+        "source_text": "United States",
+        "confidence": 1.0,
+        "sources": [
+          "United States"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Preliminary proposals and invited full proposals may only be submitted by institutions of higher education that are located in the United States, its territories or possessions, and have doctoral degree-granting research and education programs in any area of research supported by NSF. The lead institution is expected to develop partnerships or arrangements with other universities, colleges, or other scientific organizations, such as national laboratories, research museums, private sector research laboratories, state and local government laboratories, and international organizations as appropriate to enable the Center to attain its strategic goals.",
+      "A single organization may submit a maximum of three preliminary proposals as the lead institution. Full proposals are to be submitted only when invited by NSF. There is no limit on the number of proposals in which an organization participates as a partner institution. The STC program will not support more than one Center from any one lead institution in this competition.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_science_and_technology_centers_integrative_partnerships.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/science-technology-centers-integrative-partnerships/nsf24-594/solicitation"
+  },
+  "document_title": "Science and Technology Centers: Integrative Partnerships"
+}

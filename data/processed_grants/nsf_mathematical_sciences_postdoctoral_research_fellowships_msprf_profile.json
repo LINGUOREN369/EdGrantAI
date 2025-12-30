@@ -1,0 +1,161 @@
+{
+  "grant_id": "nsf_mathematical_sciences_postdoctoral_research_fellowships_msprf",
+  "created_at": "2025-12-30T01:03:56.327135-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Mathematical Sciences Postdoctoral Research Fellowships",
+    "MSPRF",
+    "postdoctoral research environments",
+    "areas of mathematics and statistics",
+    "Research Fellowship",
+    "Research Instructorship",
+    "Research Instructor-ship",
+    "six summer months of support",
+    "U.S. citizen",
+    "U.S. national",
+    "legally admitted permanent resident alien",
+    "Fellows must affiliate",
+    "Institutions of Higher Education",
+    "government and national laboratories",
+    "privately sponsored nonprofit institutes and museums",
+    "for-profit organizations",
+    "doctoral degree",
+    "MSPRF program"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Mathematical Sciences Postdoctoral Research Fellowships",
+      "section": "Other"
+    },
+    {
+      "text": "MSPRF",
+      "section": "Other"
+    },
+    {
+      "text": "postdoctoral research environments",
+      "section": "Other"
+    },
+    {
+      "text": "areas of mathematics and statistics",
+      "section": "Other"
+    },
+    {
+      "text": "Research Fellowship",
+      "section": "Other"
+    },
+    {
+      "text": "Research Instructorship",
+      "section": "Other"
+    },
+    {
+      "text": "Research Instructor-ship",
+      "section": "Program Description"
+    },
+    {
+      "text": "six summer months of support",
+      "section": "Program Description"
+    },
+    {
+      "text": "U.S. citizen",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S. national",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "legally admitted permanent resident alien",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Fellows must affiliate",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "government and national laboratories",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "privately sponsored nonprofit institutes and museums",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "for-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "doctoral degree",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "MSPRF program",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "MSPRF program",
+        "source_text": "MSPRF program",
+        "confidence": 0.9
+      },
+      {
+        "tag": "six summer months of support",
+        "source_text": "six summer months of support",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "postdoctoral researchers",
+        "source_text": "postdoctoral research environments",
+        "confidence": 0.7383,
+        "sources": [
+          "postdoctoral research environments"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "national laboratory",
+        "source_text": "government and national laboratories",
+        "confidence": 0.7324,
+        "sources": [
+          "government and national laboratories"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "privately sponsored nonprofit institutes and museums",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-10-21"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-10-21, 2026-10-21",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg ."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_mathematical_sciences_postdoctoral_research_fellowships_msprf.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/msprf-mathematical-sciences-postdoctoral-research-fellowships/nsf23-603/solicitation"
+  },
+  "document_title": "Mathematical Sciences Postdoctoral Research Fellowships (MSPRF)"
+}

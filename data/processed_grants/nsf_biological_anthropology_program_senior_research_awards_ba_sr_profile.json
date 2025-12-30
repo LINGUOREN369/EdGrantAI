@@ -1,0 +1,240 @@
+{
+  "grant_id": "nsf_biological_anthropology_program_senior_research_awards_ba_sr",
+  "created_at": "2025-12-29T23:30:44.528785-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Biological Anthropology Program Senior Research Awards",
+    "basic research",
+    "human and primate evolution",
+    "biological variation",
+    "interactions between biology, behavior, and culture",
+    "biological anthropological and evolutionary theory",
+    "diverse and interdisciplinary methods",
+    "multiple levels of analysis",
+    "time scales",
+    "broader impact activities",
+    "science, technology, engineering, and mathematics",
+    "Senior Research Proposals",
+    "Conference/Workshop Proposals",
+    "Scholars Proposals",
+    "Mid-Career Advancement",
+    "Facilitating Community-Engaged Research Proposals",
+    "Research Experiences for Post-Baccalaureates",
+    "Research Experiences for Undergraduates",
+    "Non-Academic Research Internships for Graduate Students",
+    "Faculty Early Career Development Program Proposals",
+    "Research in Undergraduate Institutions",
+    "Research Opportunity Awards Proposals",
+    "Research Coordination Network Proposals",
+    "High Risk Research in Biological Anthropology and Archaeology Proposals",
+    "Rapid Response Research Proposals",
+    "Early-concept Grants for Exploratory Research Proposals",
+    "Research Advanced by Interdisciplinary Science and Engineering Proposals",
+    "Standard Grant",
+    "Continuing Grant",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "Tribal Nations",
+    "Ph.D.",
+    "senior proposals"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Biological Anthropology Program Senior Research Awards",
+      "section": "Other"
+    },
+    {
+      "text": "basic research",
+      "section": "Other"
+    },
+    {
+      "text": "human and primate evolution",
+      "section": "Other"
+    },
+    {
+      "text": "biological variation",
+      "section": "Other"
+    },
+    {
+      "text": "interactions between biology, behavior, and culture",
+      "section": "Other"
+    },
+    {
+      "text": "biological anthropological and evolutionary theory",
+      "section": "Other"
+    },
+    {
+      "text": "diverse and interdisciplinary methods",
+      "section": "Other"
+    },
+    {
+      "text": "multiple levels of analysis",
+      "section": "Other"
+    },
+    {
+      "text": "time scales",
+      "section": "Other"
+    },
+    {
+      "text": "broader impact activities",
+      "section": "Other"
+    },
+    {
+      "text": "science, technology, engineering, and mathematics",
+      "section": "Other"
+    },
+    {
+      "text": "Senior Research Proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Conference/Workshop Proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Scholars Proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Mid-Career Advancement",
+      "section": "Program Description"
+    },
+    {
+      "text": "Facilitating Community-Engaged Research Proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Post-Baccalaureates",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Program Description"
+    },
+    {
+      "text": "Non-Academic Research Internships for Graduate Students",
+      "section": "Program Description"
+    },
+    {
+      "text": "Faculty Early Career Development Program Proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Research in Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Opportunity Awards Proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Research Coordination Network Proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "High Risk Research in Biological Anthropology and Archaeology Proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Rapid Response Research Proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Early-concept Grants for Exploratory Research Proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Research Advanced by Interdisciplinary Science and Engineering Proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Ph.D.",
+      "section": "Program Description"
+    },
+    {
+      "text": "senior proposals",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Non-Academic Research Internships for Graduate Students",
+        "source_text": "Non-Academic Research Internships for Graduate Students",
+        "confidence": 0.9
+      },
+      {
+        "tag": "undergraduate research experiences",
+        "source_text": "Research in Undergraduate Institutions",
+        "confidence": 0.6894
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-02-02"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-02-02, 2026-02-02",
+      "The program encourages PIs to consider the full scope of ethical implications that their proposed research has on individuals, communities, environments and the scientific enterprise. The program also supports a wide range of broader impact activities as part of research grants, including research outcomes with inherent benefit to society, efforts to broaden participation in STEM research, training and outreach activities and other evidence-based activities developed within the context of the mission, goals, and resources of the organizations and people involved. The program encourages the use of secondary data in research projects where appropriate. Examples of secondary data sources can include, but are not limited to, shared data resources, such as open-access data repositories, databases, and registries, as well as datasets from ongoing studies and publications.",
+      "Please note that Biological Anthropology Scholars Awards are training projects, not research awards. The proposal must include a detailed study plan that indicates sponsorship by a senior expert (who should not have been involved with the proposer's Ph.D.), with whom the proposer will study and/or who will supervise the planned program of study. A signed statement affirming sponsorship must be included in the proposal (as a supplementary document). Proposals should show how this additional expertise would improve the proposer's ability to do research by referring to specific ongoing research projects and publications. Requests for support of a general upgrading of quantitative or methodological skills, for coursework routinely available on university campuses or for language training, will not be successful. Scholars proposals should be submitted in accordance with the PAPPG requirements to the Biological Anthropology submission window dates. Proposals are reviewed alongside other senior proposals in the Biological Anthropology program.",
+      "Researchers interested in this opportunity must contact the Biological Anthropology program officers to discuss proposed activities and budget requirements. The proposal or supplemental funding request must describe the personnel and activities that will be conducted as part of the engagement process and the anticipated direction of research activities. Costs may relate to travel, meetings, and other activities directly related to establishing and maintaining the engagement process. Community engagement proposals should be submitted in accordance with the PAPPG requirements to the Biological Anthropology submission window dates and are reviewed alongside other senior proposals in the Biological Anthropology program. Supplemental funding requests can be submitted at any time and should be prepared and submitted in accordance with the guidance in PAPPG Chapter VI.E.",
+      "Research Experiences for Undergraduates (REU) Supplemental Funding Requests An REU supplement usually provides support for one or two undergraduate students to participate in research as a part of a new or ongoing NSF-funded research project. The student's research must be their own research project within the PI\u2019s larger research program; these supplements are not intended to support clerical or research assistance to the PI. For REU requests submitted to the Biological Anthropology Program, proposers are advised that the PI should be a post-PhD anthropologist who holds existing NSF award(s).",
+      "Research Coordination Network (RCN) Proposals The Biological Anthropology Program supports the \"general\" track of the NSF-wide Research Coordination Networks (RCN) program . RCN awards are intended to advance research directions by supporting new, thematically focused collaborations of researchers to communicate and coordinate research, training and educational activities across disciplinary, organizational, geographic and international boundaries. RCN awards do not support primary research, existing research networks, ongoing collaborations or collaborations at a single institution. Instead, they are intended to advance the creation of new collaborations, new fields, and new research directions.",
+      "For a given Biological Anthropology proposal submission window, an individual may only be listed as a PI, co-PI, faculty associate or subaward lead on one proposal. Researchers may be listed in other capacities (e.g., collaborator, consultant) on one additional proposal. This limit does not apply to conference or DDRIG proposals. CAREER proposals that are submitted to the program are reviewed in the fall; therefore, CAREER PIs should not submit a non-CAREER proposal for the July Biological Anthropology submission window. Proposals exceeding the limit for any person will be returned without review in the reverse order received.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg ."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_biological_anthropology_program_senior_research_awards_ba_sr.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ba-sr-biological-anthropology-program-senior-research-awards/nsf23-503/solicitation"
+  },
+  "document_title": "Biological Anthropology Program Senior Research Awards (BA-SR)"
+}

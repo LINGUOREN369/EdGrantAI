@@ -1,0 +1,141 @@
+{
+  "grant_id": "nsf_incorporating_human_behavior_in_epidemiological_models_ihbem",
+  "created_at": "2025-12-30T00:47:26.250890-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Incorporating Human Behavior in Epidemiological Models",
+    "IHBEM",
+    "epidemiological models",
+    "mathematical epidemiological models",
+    "social and behavioral processes",
+    "behavioral realism and sensitivity analysis",
+    "human behavior",
+    "dynamic approach",
+    "population heterogeneity",
+    "policy models",
+    "public health policies",
+    "data needs",
+    "Institutions of Higher Education",
+    "two- and four-year IHEs",
+    "community colleges"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Incorporating Human Behavior in Epidemiological Models",
+      "section": "Other"
+    },
+    {
+      "text": "IHBEM",
+      "section": "Other"
+    },
+    {
+      "text": "epidemiological models",
+      "section": "Other"
+    },
+    {
+      "text": "mathematical epidemiological models",
+      "section": "Other"
+    },
+    {
+      "text": "social and behavioral processes",
+      "section": "Other"
+    },
+    {
+      "text": "behavioral realism and sensitivity analysis",
+      "section": "Program Description"
+    },
+    {
+      "text": "human behavior",
+      "section": "Introduction"
+    },
+    {
+      "text": "dynamic approach",
+      "section": "Program Description"
+    },
+    {
+      "text": "population heterogeneity",
+      "section": "Program Description"
+    },
+    {
+      "text": "policy models",
+      "section": "Program Description"
+    },
+    {
+      "text": "public health policies",
+      "section": "Introduction"
+    },
+    {
+      "text": "data needs",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "human behavior",
+        "source_text": "human behavior",
+        "confidence": 0.9
+      },
+      {
+        "tag": "public health policies",
+        "source_text": "public health policies",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8856,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "Current models are far less useful than possible for aiding in the development of measures for mitigating ongoing pandemics",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_incorporating_human_behavior_in_epidemiological_models_ihbem.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ihbem-incorporating-human-behavior-epidemiological-models/nsf25-538/solicitation"
+  },
+  "document_title": "Incorporating Human Behavior in Epidemiological Models (IHBEM)"
+}

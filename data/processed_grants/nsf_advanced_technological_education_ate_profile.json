@@ -1,15 +1,13 @@
 {
   "grant_id": "nsf_advanced_technological_education_ate",
-  "created_at": "2025-12-28T21:00:14.260090-05:00",
+  "created_at": "2025-12-28T21:24:19.130079-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
-    "Advanced Technological Education (ATE)",
-    "two-year Institutions of Higher Education (IHEs)",
-    "education of technicians",
-    "high-technology fields",
-    "partnerships between academic institutions",
+    "Advanced Technological Education",
+    "Institutions of Higher Education",
+    "skilled technical workforce",
+    "science and engineering technicians",
     "credit-bearing courses",
-    "faculty-led projects",
     "curriculum development",
     "professional development of college faculty",
     "secondary school teachers",
@@ -18,111 +16,228 @@
     "Minority Serving Institutions",
     "underrepresented and underserved communities",
     "STEM technician education programs",
-    "associate degrees",
-    "track 1: Small Scale Projects",
-    "track 2: Projects",
-    "track 3: Consortia for Innovations in Technician Education",
-    "track 4: Centers",
+    "two-year degrees",
+    "four-year IHEs",
+    "secondary career and technical education",
+    "CTE program",
+    "advanced manufacturing technologies",
+    "agricultural and bio-technologies",
+    "energy and environmental technologies",
+    "engineering technologies",
+    "information technologies",
+    "micro- and nano-technologies",
+    "security technologies",
+    "geospatial technologies",
+    "autonomous technologies",
+    "artificial intelligence",
+    "quantum information sciences",
     "rural technician education",
-    "articulation between programs",
-    "teacher preparation",
-    "applied research on technician education",
-    "educational pathways for technicians",
-    "workforce development issues",
-    "entrepreneurial skills development for students",
-    "technical skills and competencies",
-    "skilled technical workforce",
-    "community college faculty",
-    "Institutions of Higher Education (IHEs)",
-    "non-profit, non-academic organizations",
-    "for-profit organizations",
+    "students with disabilities",
+    " Technician Education",
+    "Standard Grant",
+    "Continuing Grant",
+    "estimated number of awards",
+    "Two- and four-year IHEs",
+    "community colleges",
+    "Non-profit organizations",
+    "For-profit organizations",
     "State and Local Governments",
     "Tribal Nations",
-    "No restrictions or limits",
-    "no restrictions or limits",
-    "sustainability plan",
-    "two-year IHEs"
+    "significant leadership roles",
+    "Co-PIs"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Advanced Technological Education",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Other"
+    },
+    {
+      "text": "skilled technical workforce",
+      "section": "Introduction"
+    },
+    {
+      "text": "science and engineering technicians",
+      "section": "Other"
+    },
+    {
+      "text": "credit-bearing courses",
+      "section": "Other"
+    },
+    {
+      "text": "curriculum development",
+      "section": "Other"
+    },
+    {
+      "text": "professional development of college faculty",
+      "section": "Other"
+    },
+    {
+      "text": "secondary school teachers",
+      "section": "Other"
+    },
+    {
+      "text": "career pathway development",
+      "section": "Other"
+    },
+    {
+      "text": "applied research projects",
+      "section": "Other"
+    },
+    {
+      "text": "Minority Serving Institutions",
+      "section": "Other"
+    },
+    {
+      "text": "underrepresented and underserved communities",
+      "section": "Other"
+    },
+    {
+      "text": "STEM technician education programs",
+      "section": "Other"
+    },
+    {
+      "text": "two-year degrees",
+      "section": "Introduction"
+    },
+    {
+      "text": "four-year IHEs",
+      "section": "Introduction"
+    },
+    {
+      "text": "secondary career and technical education",
+      "section": "Introduction"
+    },
+    {
+      "text": "CTE program",
+      "section": "Other"
+    },
+    {
+      "text": "advanced manufacturing technologies",
+      "section": "Introduction"
+    },
+    {
+      "text": "agricultural and bio-technologies",
+      "section": "Other"
+    },
+    {
+      "text": "energy and environmental technologies",
+      "section": "Introduction"
+    },
+    {
+      "text": "engineering technologies",
+      "section": "Introduction"
+    },
+    {
+      "text": "information technologies",
+      "section": "Introduction"
+    },
+    {
+      "text": "micro- and nano-technologies",
+      "section": "Introduction"
+    },
+    {
+      "text": "security technologies",
+      "section": "Introduction"
+    },
+    {
+      "text": "geospatial technologies",
+      "section": "Introduction"
+    },
+    {
+      "text": "autonomous technologies",
+      "section": "Introduction"
+    },
+    {
+      "text": "artificial intelligence",
+      "section": "Introduction"
+    },
+    {
+      "text": "quantum information sciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "rural technician education",
+      "section": "Introduction"
+    },
+    {
+      "text": "students with disabilities",
+      "section": "Introduction"
+    },
+    {
+      "text": " Technician Education",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit organizations",
+      "section": "Other"
+    },
+    {
+      "text": "For-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "significant leadership roles",
+      "section": "Introduction"
+    },
+    {
+      "text": "Co-PIs",
+      "section": "Introduction"
+    }
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "curriculum development",
-        "source_text": "curriculum development",
-        "confidence": 1.0,
-        "sources": [
-          "curriculum development"
-        ]
+        "tag": "Technician Education",
+        "source_text": "Technician Education",
+        "confidence": 0.9
       },
       {
-        "tag": "workforce development",
-        "source_text": "workforce development issues",
-        "confidence": 0.8494,
-        "sources": [
-          "workforce development issues",
-          "skilled technical workforce"
-        ]
-      },
-      {
-        "tag": "education system partnerships",
-        "source_text": "partnerships between academic institutions",
-        "confidence": 0.7004,
-        "sources": [
-          "partnerships between academic institutions"
-        ]
-      },
-      {
-        "tag": "STEM career pathways",
-        "source_text": "STEM technician education programs",
-        "confidence": 0.6921,
-        "sources": [
-          "STEM technician education programs",
-          "educational pathways for technicians"
-        ]
-      },
-      {
-        "tag": "teacher professional development",
-        "source_text": "professional development of college faculty",
-        "confidence": 0.6593,
-        "sources": [
-          "professional development of college faculty",
-          "teacher preparation"
-        ]
-      },
-      {
-        "tag": "STEM education",
-        "source_text": "STEM technician education programs",
-        "confidence": 0.644,
-        "sources": [
-          "STEM technician education programs"
-        ]
-      },
-      {
-        "tag": "community college STEM programs",
-        "source_text": "STEM technician education programs",
-        "confidence": 0.6235,
-        "sources": [
-          "STEM technician education programs",
-          "community college faculty"
-        ]
-      },
-      {
-        "tag": "high school STEM education",
-        "source_text": "STEM technician education programs",
-        "confidence": 0.6036,
-        "sources": [
-          "STEM technician education programs"
-        ]
-      },
-      {
-        "tag": "underrepresented groups in STEM",
-        "source_text": "underrepresented and underserved communities",
-        "confidence": 0.6031,
-        "sources": [
-          "underrepresented and underserved communities"
-        ]
+        "tag": "advanced manufacturing technologies",
+        "source_text": "advanced manufacturing technologies",
+        "confidence": 0.9
       }
     ],
     "population_tags": [
+      {
+        "tag": "students with disabilities",
+        "source_text": "students with disabilities",
+        "confidence": 1.0,
+        "sources": [
+          "students with disabilities"
+        ]
+      },
       {
         "tag": "underserved communities",
         "source_text": "underrepresented and underserved communities",
@@ -148,31 +263,31 @@
         ]
       },
       {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
         "tag": "historically underserved students",
         "source_text": "underrepresented and underserved communities",
         "confidence": 0.7081,
         "sources": [
           "underrepresented and underserved communities"
         ]
-      },
-      {
-        "tag": "community college students",
-        "source_text": "community college faculty",
-        "confidence": 0.7079,
-        "sources": [
-          "community college faculty"
-        ]
-      },
-      {
-        "tag": "pre-service teachers",
-        "source_text": "teacher preparation",
-        "confidence": 0.684,
-        "sources": [
-          "teacher preparation"
-        ]
       }
     ],
     "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
       {
         "tag": "minority-serving institution",
         "source_text": "Minority Serving Institutions",
@@ -182,21 +297,21 @@
         ]
       },
       {
-        "tag": "community college",
-        "source_text": "community college faculty",
-        "confidence": 0.7037,
+        "tag": "two-year college",
+        "source_text": "two-year degrees",
+        "confidence": 0.7463,
         "sources": [
-          "community college faculty"
+          "two-year degrees"
         ]
       },
       {
         "tag": "institution_of_higher_education",
-        "source_text": "two-year Institutions of Higher Education (IHEs)",
+        "source_text": "Institutions of Higher Education",
         "confidence": 1.0
       },
       {
         "tag": "nonprofit",
-        "source_text": "non-profit, non-academic organizations",
+        "source_text": "Non-profit organizations",
         "confidence": 1.0
       }
     ],
@@ -228,5 +343,6 @@
   "source": {
     "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_advanced_technological_education_ate.txt",
     "url": "https://www.nsf.gov/funding/opportunities/ate-advanced-technological-education/nsf24-584/solicitation"
-  }
+  },
+  "document_title": "Advanced Technological Education (ATE)"
 }

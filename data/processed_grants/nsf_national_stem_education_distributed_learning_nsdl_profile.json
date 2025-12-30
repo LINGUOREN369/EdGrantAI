@@ -1,0 +1,279 @@
+{
+  "grant_id": "nsf_national_stem_education_distributed_learning_nsdl",
+  "created_at": "2025-12-30T01:11:57.069053-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "National STEM Education Distributed Learning",
+    "NSDL",
+    "STEM education",
+    "Pathways projects",
+    "Pathways II projects",
+    "Services projects",
+    "Targeted Research",
+    "NSDL Resource Center",
+    "collaboration assistance",
+    "thematic research and evaluation studies",
+    "user audience",
+    "technology-intensive projects",
+    "small grants",
+    "K-12 teachers",
+    "Pathways track",
+    "Pathways - II",
+    "Services track",
+    "educational digital collection efforts",
+    "Digital Library Federation",
+    "Gateway to Educational Materials",
+    "Institute of Museum and Library Services",
+    "National Digital Information Infrastructure and Preservation Program",
+    "curricular and learning modules",
+    "community colleges",
+    "educational impact",
+    "e.g.",
+    "building block",
+    "learning objects",
+    "learning resources",
+    "cyberlearning infrastructure",
+    "digital rights management systems",
+    "project leadership",
+    "Pathways providers",
+    "educators in disciplines",
+    "high-quality and relevant digital content",
+    "learning communities",
+    "user experience",
+    "long-term management plan",
+    "small grant support",
+    "community-based review",
+    "data management and sharing plan"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "National STEM Education Distributed Learning",
+      "section": "Other"
+    },
+    {
+      "text": "NSDL",
+      "section": "Other"
+    },
+    {
+      "text": "STEM education",
+      "section": "Introduction"
+    },
+    {
+      "text": "Pathways projects",
+      "section": "Other"
+    },
+    {
+      "text": "Pathways II projects",
+      "section": "Other"
+    },
+    {
+      "text": "Services projects",
+      "section": "Other"
+    },
+    {
+      "text": "Targeted Research",
+      "section": "Other"
+    },
+    {
+      "text": "NSDL Resource Center",
+      "section": "Other"
+    },
+    {
+      "text": "collaboration assistance",
+      "section": "Other"
+    },
+    {
+      "text": "thematic research and evaluation studies",
+      "section": "Other"
+    },
+    {
+      "text": "user audience",
+      "section": "Other"
+    },
+    {
+      "text": "technology-intensive projects",
+      "section": "Other"
+    },
+    {
+      "text": "small grants",
+      "section": "Other"
+    },
+    {
+      "text": "K-12 teachers",
+      "section": "Program Description"
+    },
+    {
+      "text": "Pathways track",
+      "section": "Other"
+    },
+    {
+      "text": "Pathways - II",
+      "section": "Other"
+    },
+    {
+      "text": "Services track",
+      "section": "Program Description"
+    },
+    {
+      "text": "educational digital collection efforts",
+      "section": "Program Description"
+    },
+    {
+      "text": "Digital Library Federation",
+      "section": "Program Description"
+    },
+    {
+      "text": "Gateway to Educational Materials",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institute of Museum and Library Services",
+      "section": "Program Description"
+    },
+    {
+      "text": "National Digital Information Infrastructure and Preservation Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "curricular and learning modules",
+      "section": "Program Description"
+    },
+    {
+      "text": "community colleges",
+      "section": "Introduction"
+    },
+    {
+      "text": "educational impact",
+      "section": "Other"
+    },
+    {
+      "text": "e.g.",
+      "section": "Introduction"
+    },
+    {
+      "text": "building block",
+      "section": "Introduction"
+    },
+    {
+      "text": "learning objects",
+      "section": "Introduction"
+    },
+    {
+      "text": "learning resources",
+      "section": "Introduction"
+    },
+    {
+      "text": "cyberlearning infrastructure",
+      "section": "Program Description"
+    },
+    {
+      "text": "digital rights management systems",
+      "section": "Program Description"
+    },
+    {
+      "text": "project leadership",
+      "section": "Program Description"
+    },
+    {
+      "text": "Pathways providers",
+      "section": "Program Description"
+    },
+    {
+      "text": "educators in disciplines",
+      "section": "Program Description"
+    },
+    {
+      "text": "high-quality and relevant digital content",
+      "section": "Program Description"
+    },
+    {
+      "text": "learning communities",
+      "section": "Program Description"
+    },
+    {
+      "text": "user experience",
+      "section": "Other"
+    },
+    {
+      "text": "long-term management plan",
+      "section": "Program Description"
+    },
+    {
+      "text": "small grant support",
+      "section": "Other"
+    },
+    {
+      "text": "community-based review",
+      "section": "Program Description"
+    },
+    {
+      "text": "data management and sharing plan",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "STEM education",
+        "source_text": "STEM education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "long-term management plan",
+        "source_text": "long-term management plan",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K-12 teachers",
+        "confidence": 1.0,
+        "sources": [
+          "K-12 teachers"
+        ]
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "NSDL activities are distinct from original content development supported by other NSF programs such as the Transforming Undergraduate Education in STEM (TUES) [formerly called the Course, Curriculum, and Laboratory Improvement (CCLI) program], the materials development aspects of programs in the NSF Division of Research on Learning in Formal and Informal Settings (DRL), and similar curriculum and materials development programs funded by NSF or other agencies. NSDL projects start from the assumption that materials, resources, modules, and other digital learning objects are developed. Similarly, proposals that are primarily digitization or conversion projects are not appropriate for the NSDL program. Prospective proposers who have questions are encouraged to contact the NSDL program at due-nsdl-program@nsf.gov .",
+      "It is important that proposals provide evidence of familiarity with and understanding of the current state of development not only of NSDL, but also other leading providers of access to digital educational resources. A project's stewardship should contribute to the overall value of NSDL, as it serves to facilitate the development and dissemination of both new and tested materials and methods supporting continued improvements in STEM education. Websites that provide information about ongoing projects and activities are listed at the end of this solicitation.",
+      "Potential audiences include: the users of subjects and concepts within a broad STEM domain; the educational community associated with a grade band; or users and providers of professional expertise in areas such as assessment or evaluation. Proposals to address audiences formed by the intersection and/or combination of the preceding examples are also possible, as well as proposals that identify other broad audiences defined by a coherent set of content and user needs. In all cases projects should indicate clearly the attributes of the audience(s) being targeted and the most pressing needs and areas of stewardship to be addressed. In FY2010 priority will be given to projects that clearly serve the needs of audiences not currently met by the ongoing Pathways efforts. In order to gain a better understanding of the unique role of Pathways within NSDL, investigators considering a Pathways proposal submission are strongly encouraged to contact the NSDL Resource Center and/or Technical Network Services prior to preparing their proposal. (See References section below for more information on these ongoing projects.)",
+      "Pathways - II proposals should clearly outline the accomplishments of the project to date and relate them to key Pathways priorities, including a detailed description of their ongoing stewardship activities. Applicants should also review the collections that the project makes available, and chart the growth of usage of the materials and services provided by the project. Projects should show how use of the materials impacts teaching and learning, analyze the cost/benefit structure where feasible, and document how users customize the resources to their needs. Where appropriate, the proposal should describe how the project has worked successfully toward the shared goals of the NSDL, and how the project has acquired and maintained partners that have contributed to its success.",
+      "Proposals for basic research on the use of technology in education or other investigations relevant to NSDL's development may be supported by programs such as Advanced Learning Technologies ( https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=12834 ) or Research and Evaluation on Education in Science and Engineering (REESE) ( https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13667 ). Emerging grant opportunities also exist within the Human and Social Dynamics priority area ( https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=11678 ) or the Cyber-enabled Discovery and Innovation initiative ( https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503163&org=OCI&from=home ). Prospective proposers are encouraged to contact the NSDL program at due-nsdl-program@nsf.gov if they have questions about the match between their interests and the goals of NSDL versus these related programs.",
+      "To participate in or follow the activities of the NSDL community and its ongoing online exploration of key issues, as well as current workgroups, meetings, and outreach activities, see the NSDL community website at http://nsdlnetwork.org/ .",
+      "To follow the activities of the NSDL community and its ongoing online exploration of key issues, see the Community Pages at http://nsdl.org/resources_for/library_builders/index.php .",
+      "Full Proposals: Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg ."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_national_stem_education_distributed_learning_nsdl.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/nsdl-national-stem-education-distributed-learning/nsf10-545/solicitation"
+  },
+  "document_title": "National STEM Education Distributed Learning (NSDL)"
+}

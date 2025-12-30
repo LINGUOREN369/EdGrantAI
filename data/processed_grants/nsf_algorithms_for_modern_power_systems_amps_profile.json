@@ -1,0 +1,195 @@
+{
+  "grant_id": "nsf_algorithms_for_modern_power_systems_amps",
+  "created_at": "2025-12-29T23:20:58.592199-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Algorithms for Modern Power Systems",
+    "AMPS",
+    "mathematical and statistical algorithms",
+    "security",
+    "reliability",
+    "efficiency",
+    "modern power grid",
+    "Division of Mathematical Sciences",
+    "NSF",
+    "Office of Electricity Delivery & Energy Reliability",
+    "DOE",
+    "power grid community",
+    "interdisciplinary efforts",
+    "power system engineering",
+    "mathematics",
+    "statistics",
+    "financial mathematics",
+    "new statistical and uncertainty-analysis-based methods",
+    "uncertainty quantification",
+    "model validation",
+    "anomaly detection",
+    "data analytics",
+    "risk hedging",
+    "network theory",
+    "computational methods",
+    "Standard Grant",
+    "Continuing Grant",
+    "4 to 10",
+    "national science foundation",
+    "Unaffiliated individuals"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Algorithms for Modern Power Systems",
+      "section": "Other"
+    },
+    {
+      "text": "AMPS",
+      "section": "Other"
+    },
+    {
+      "text": "mathematical and statistical algorithms",
+      "section": "Other"
+    },
+    {
+      "text": "security",
+      "section": "Other"
+    },
+    {
+      "text": "reliability",
+      "section": "Other"
+    },
+    {
+      "text": "efficiency",
+      "section": "Other"
+    },
+    {
+      "text": "modern power grid",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Mathematical Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "NSF",
+      "section": "Other"
+    },
+    {
+      "text": "Office of Electricity Delivery & Energy Reliability",
+      "section": "Other"
+    },
+    {
+      "text": "DOE",
+      "section": "Other"
+    },
+    {
+      "text": "power grid community",
+      "section": "Program Description"
+    },
+    {
+      "text": "interdisciplinary efforts",
+      "section": "Program Description"
+    },
+    {
+      "text": "power system engineering",
+      "section": "Program Description"
+    },
+    {
+      "text": "mathematics",
+      "section": "Program Description"
+    },
+    {
+      "text": "statistics",
+      "section": "Program Description"
+    },
+    {
+      "text": "financial mathematics",
+      "section": "Program Description"
+    },
+    {
+      "text": "new statistical and uncertainty-analysis-based methods",
+      "section": "Program Description"
+    },
+    {
+      "text": "uncertainty quantification",
+      "section": "Program Description"
+    },
+    {
+      "text": "model validation",
+      "section": "Program Description"
+    },
+    {
+      "text": "anomaly detection",
+      "section": "Program Description"
+    },
+    {
+      "text": "data analytics",
+      "section": "Program Description"
+    },
+    {
+      "text": "risk hedging",
+      "section": "Program Description"
+    },
+    {
+      "text": "network theory",
+      "section": "Program Description"
+    },
+    {
+      "text": "computational methods",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "4 to 10",
+      "section": "Award Information"
+    },
+    {
+      "text": "national science foundation",
+      "section": "Other"
+    },
+    {
+      "text": "Unaffiliated individuals",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "mathematics education",
+        "source_text": "mathematics",
+        "confidence": 0.7042
+      },
+      {
+        "tag": "new statistical and uncertainty-analysis-based methods",
+        "source_text": "new statistical and uncertainty-analysis-based methods",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-02-09"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-02-09, 2026-02-09",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_algorithms_for_modern_power_systems_amps.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/amps-algorithms-modern-power-systems/nsf22-569/solicitation"
+  },
+  "document_title": "Algorithms for Modern Power Systems (AMPS)"
+}

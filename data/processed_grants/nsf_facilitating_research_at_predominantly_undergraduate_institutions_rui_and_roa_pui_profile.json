@@ -1,0 +1,210 @@
+{
+  "grant_id": "nsf_facilitating_research_at_predominantly_undergraduate_institutions_rui_and_roa_pui",
+  "created_at": "2025-12-30T00:29:06.292090-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Research in Undergraduate Institutions",
+    "RUI",
+    "Research Opportunity Awards",
+    "ROA",
+    "predominantly undergraduate institutions",
+    "PUIs",
+    "accredited colleges and universities",
+    "two-year community colleges",
+    "Bachelor's degrees",
+    "Master's degrees",
+    "Ph.D./D.Sci. degrees",
+    "NSF-supported fields",
+    "undergraduate education",
+    "STEM",
+    "PUI faculty",
+    "research instrumentation",
+    "collaborative research project",
+    "individual research project",
+    "ROA activities",
+    "continuing grant",
+    "standard grant",
+    "anticipated number of awards",
+    "RUI awards",
+    "ROA awards",
+    "Eligibility Information",
+    "Limit on Number of Proposals per Organization",
+    "Limit on Number of Proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Research in Undergraduate Institutions",
+      "section": "Other"
+    },
+    {
+      "text": "RUI",
+      "section": "Other"
+    },
+    {
+      "text": "Research Opportunity Awards",
+      "section": "Other"
+    },
+    {
+      "text": "ROA",
+      "section": "Other"
+    },
+    {
+      "text": "predominantly undergraduate institutions",
+      "section": "Other"
+    },
+    {
+      "text": "PUIs",
+      "section": "Other"
+    },
+    {
+      "text": "accredited colleges and universities",
+      "section": "Other"
+    },
+    {
+      "text": "two-year community colleges",
+      "section": "Other"
+    },
+    {
+      "text": "Bachelor's degrees",
+      "section": "Other"
+    },
+    {
+      "text": "Master's degrees",
+      "section": "Other"
+    },
+    {
+      "text": "Ph.D./D.Sci. degrees",
+      "section": "Other"
+    },
+    {
+      "text": "NSF-supported fields",
+      "section": "Other"
+    },
+    {
+      "text": "undergraduate education",
+      "section": "Other"
+    },
+    {
+      "text": "STEM",
+      "section": "Introduction"
+    },
+    {
+      "text": "PUI faculty",
+      "section": "Other"
+    },
+    {
+      "text": "research instrumentation",
+      "section": "Other"
+    },
+    {
+      "text": "collaborative research project",
+      "section": "Other"
+    },
+    {
+      "text": "individual research project",
+      "section": "Other"
+    },
+    {
+      "text": "ROA activities",
+      "section": "Other"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "anticipated number of awards",
+      "section": "Other"
+    },
+    {
+      "text": "RUI awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "ROA awards",
+      "section": "Introduction"
+    },
+    {
+      "text": "Eligibility Information",
+      "section": "Introduction"
+    },
+    {
+      "text": "Limit on Number of Proposals per Organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Eligibility Information",
+        "source_text": "Eligibility Information",
+        "confidence": 0.9
+      },
+      {
+        "tag": "ROA awards",
+        "source_text": "ROA awards",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "undergraduate students",
+        "source_text": "undergraduate education",
+        "confidence": 0.7276,
+        "sources": [
+          "predominantly undergraduate institutions",
+          "undergraduate education"
+        ]
+      },
+      {
+        "tag": "community college students",
+        "source_text": "two-year community colleges",
+        "confidence": 0.6498,
+        "sources": [
+          "two-year community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "two-year college",
+        "source_text": "two-year community colleges",
+        "confidence": 0.8533,
+        "sources": [
+          "two-year community colleges"
+        ]
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per Organization",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_facilitating_research_at_predominantly_undergraduate_institutions_rui_and_roa_pui.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/rui-roa-pui-facilitating-research-predominantly-undergraduate/nsf14-579/solicitation"
+  },
+  "document_title": "Facilitating Research at Predominantly Undergraduate Institutions: (RUI and ROA-PUI)"
+}

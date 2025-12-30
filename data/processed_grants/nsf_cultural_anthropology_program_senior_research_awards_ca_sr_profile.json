@@ -1,0 +1,180 @@
+{
+  "grant_id": "nsf_cultural_anthropology_program_senior_research_awards_ca_sr",
+  "created_at": "2025-12-30T00:00:49.229848-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Cultural Anthropology Program Senior Research Awards",
+    "Cultural Anthropology Program",
+    "fundamental, systematic anthropological research",
+    "human social and cultural variability",
+    "ethnographic field research",
+    "basic scientific research",
+    "theory-generating and theory-testing research",
+    "Cultural Anthropology Program encourages",
+    "basic, theory-testing and generalizable research",
+    "Contemporary urbanization and urban life",
+    "natural and anthropogenic disasters",
+    "Human mobility and migration",
+    "Culturally grounded and empirically driven theories",
+    "social network analysis",
+    "Research Experiences for Undergraduates",
+    "Faculty Early Career Development",
+    "Mid-Career Advancement",
+    "TREES - Trans-disciplinary REsearch in Environmental Social Science",
+    "Research Community Development Activities Proposals",
+    "Estimated Number of Awards",
+    "Institutions of Higher Education",
+    "non-profit, non-academic organizations",
+    "Tribal Nations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Cultural Anthropology Program Senior Research Awards",
+      "section": "Other"
+    },
+    {
+      "text": "Cultural Anthropology Program",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental, systematic anthropological research",
+      "section": "Other"
+    },
+    {
+      "text": "human social and cultural variability",
+      "section": "Other"
+    },
+    {
+      "text": "ethnographic field research",
+      "section": "Other"
+    },
+    {
+      "text": "basic scientific research",
+      "section": "Other"
+    },
+    {
+      "text": "theory-generating and theory-testing research",
+      "section": "Other"
+    },
+    {
+      "text": "Cultural Anthropology Program encourages",
+      "section": "Introduction"
+    },
+    {
+      "text": "basic, theory-testing and generalizable research",
+      "section": "Introduction"
+    },
+    {
+      "text": "Contemporary urbanization and urban life",
+      "section": "Introduction"
+    },
+    {
+      "text": "natural and anthropogenic disasters",
+      "section": "Introduction"
+    },
+    {
+      "text": "Human mobility and migration",
+      "section": "Introduction"
+    },
+    {
+      "text": "Culturally grounded and empirically driven theories",
+      "section": "Introduction"
+    },
+    {
+      "text": "social network analysis",
+      "section": "Introduction"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Introduction"
+    },
+    {
+      "text": "Faculty Early Career Development",
+      "section": "Introduction"
+    },
+    {
+      "text": "Mid-Career Advancement",
+      "section": "Introduction"
+    },
+    {
+      "text": "TREES - Trans-disciplinary REsearch in Environmental Social Science",
+      "section": "Introduction"
+    },
+    {
+      "text": "Research Community Development Activities Proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Research Community Development Activities Proposals",
+        "source_text": "Research Community Development Activities Proposals",
+        "confidence": 0.9
+      },
+      {
+        "tag": "TREES - Trans-disciplinary REsearch in Environmental Social Science",
+        "source_text": "TREES - Trans-disciplinary REsearch in Environmental Social Science",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-15"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-15, 2026-01-15",
+      "Please note that these are training awards , not research awards. The proposal must include a detailed study plan that indicates sponsorship by a senior expert (who should not have been involved with the proposer's Ph.D.), with whom the proposer will study and/or who will supervise the planned program of study. A signed statement affirming sponsorship must be included in the proposal (as a supplementary document). Proposals should show how this additional expertise would improve the proposer's ability to do research by referring to specific ongoing research projects and publications. Requests for support of a general upgrading of quantitative or methodological skills, for coursework routinely available on university campuses, or for language training will not be successful. Scholars proposals should be submitted in accordance with the PAPPG requirements to the Cultural Anthropology target dates. Proposals are reviewed alongside other senior research proposals in the Cultural Anthropology Program.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_cultural_anthropology_program_senior_research_awards_ca_sr.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ca-sr-cultural-anthropology-program-senior-research-awards/nsf25-502/solicitation"
+  },
+  "document_title": "Cultural Anthropology Program Senior Research Awards (CA-SR)"
+}

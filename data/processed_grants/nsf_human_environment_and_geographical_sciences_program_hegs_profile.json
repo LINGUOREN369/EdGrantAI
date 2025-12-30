@@ -1,0 +1,169 @@
+{
+  "grant_id": "nsf_human_environment_and_geographical_sciences_program_hegs",
+  "created_at": "2025-12-30T00:45:52.193182-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Human-Environment and Geographical Sciences Program",
+    "HEGS",
+    "basic scientific research",
+    "spatial dimensions of human behaviors",
+    "environmental and social processes",
+    "geographical and geospatial sciences",
+    "Senior Research Proposals",
+    "Faculty Early Career Development Program Proposals",
+    "Research Coordination Networks",
+    "Research Experiences for Undergraduates",
+    "Research Experiences for Graduate Students",
+    "Transdisciplinary REsearch in Environmental Social Science",
+    "Behavioral and Cognitive Sciences Division",
+    "Social, Behavioral and Economic Sciences Directorate",
+    "standard grant",
+    "continuing grant",
+    "Institutions of Higher Education",
+    "Non-profit organizations",
+    "For-profit organizations",
+    "State and Local Governments",
+    "Tribal Nations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Human-Environment and Geographical Sciences Program",
+      "section": "Other"
+    },
+    {
+      "text": "HEGS",
+      "section": "Other"
+    },
+    {
+      "text": "basic scientific research",
+      "section": "Other"
+    },
+    {
+      "text": "spatial dimensions of human behaviors",
+      "section": "Other"
+    },
+    {
+      "text": "environmental and social processes",
+      "section": "Other"
+    },
+    {
+      "text": "geographical and geospatial sciences",
+      "section": "Other"
+    },
+    {
+      "text": "Senior Research Proposals",
+      "section": "Introduction"
+    },
+    {
+      "text": "Faculty Early Career Development Program Proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Research Coordination Networks",
+      "section": "Introduction"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Introduction"
+    },
+    {
+      "text": "Research Experiences for Graduate Students",
+      "section": "Introduction"
+    },
+    {
+      "text": "Transdisciplinary REsearch in Environmental Social Science",
+      "section": "Introduction"
+    },
+    {
+      "text": "Behavioral and Cognitive Sciences Division",
+      "section": "Other"
+    },
+    {
+      "text": "Social, Behavioral and Economic Sciences Directorate",
+      "section": "Other"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit organizations",
+      "section": "Other"
+    },
+    {
+      "text": "For-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Transdisciplinary REsearch in Environmental Social Science",
+        "source_text": "Transdisciplinary REsearch in Environmental Social Science",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Research Experiences for Undergraduates",
+        "source_text": "Research Experiences for Undergraduates",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-16"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-16, 2026-01-16",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_human_environment_and_geographical_sciences_program_hegs.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/hegs-human-environment-geographical-sciences-program/nsf25-507/solicitation"
+  },
+  "document_title": "Human-Environment and Geographical Sciences Program (HEGS)"
+}

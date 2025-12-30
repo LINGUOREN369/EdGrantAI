@@ -1,0 +1,292 @@
+{
+  "grant_id": "nsf_innovative_technology_experiences_for_students_and_teachers_itest",
+  "created_at": "2025-12-30T00:51:59.625313-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Innovative Technology Experiences for Students and Teachers",
+    "ITEST",
+    "national security",
+    "STEM education",
+    "equitable access",
+    "underrepresented groups",
+    "Blacks and African Americans",
+    "Alaska Natives",
+    "Hispanics and Latinos",
+    "Native Americans",
+    "Native Hawaiians",
+    "Native Pacific Islanders",
+    "persons with disabilities",
+    "neurodiverse students",
+    "women in the STEM workforce",
+    "PreK-12 students",
+    "technology-rich learning",
+    "data literacy",
+    "evidence-based decision-making",
+    "career and workforce preparation",
+    "STEM pathways",
+    "ITEST project types",
+    "Exploring Theory and Design Principles",
+    "Developing and Testing Innovations",
+    "Scaling, Expanding, and Iterating Innovations",
+    "Synthesis and Conference/Workshop proposals",
+    "innovative use of technologies in learning and teaching",
+    "strategies for equity in STEM education",
+    "project evaluation plan",
+    "high-quality research plan",
+    "STEM/ICT careers",
+    "project staff",
+    "underrepresented and underserved groups in STEM fields",
+    "collaborations",
+    "community partnerships",
+    "internal and external evaluation",
+    "standard grant",
+    "continuing grant"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Innovative Technology Experiences for Students and Teachers",
+      "section": "Other"
+    },
+    {
+      "text": "ITEST",
+      "section": "Other"
+    },
+    {
+      "text": "national security",
+      "section": "Other"
+    },
+    {
+      "text": "STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "equitable access",
+      "section": "Other"
+    },
+    {
+      "text": "underrepresented groups",
+      "section": "Other"
+    },
+    {
+      "text": "Blacks and African Americans",
+      "section": "Introduction"
+    },
+    {
+      "text": "Alaska Natives",
+      "section": "Other"
+    },
+    {
+      "text": "Hispanics and Latinos",
+      "section": "Other"
+    },
+    {
+      "text": "Native Americans",
+      "section": "Other"
+    },
+    {
+      "text": "Native Hawaiians",
+      "section": "Other"
+    },
+    {
+      "text": "Native Pacific Islanders",
+      "section": "Other"
+    },
+    {
+      "text": "persons with disabilities",
+      "section": "Other"
+    },
+    {
+      "text": "neurodiverse students",
+      "section": "Other"
+    },
+    {
+      "text": "women in the STEM workforce",
+      "section": "Other"
+    },
+    {
+      "text": "PreK-12 students",
+      "section": "Other"
+    },
+    {
+      "text": "technology-rich learning",
+      "section": "Other"
+    },
+    {
+      "text": "data literacy",
+      "section": "Other"
+    },
+    {
+      "text": "evidence-based decision-making",
+      "section": "Other"
+    },
+    {
+      "text": "career and workforce preparation",
+      "section": "Other"
+    },
+    {
+      "text": "STEM pathways",
+      "section": "Other"
+    },
+    {
+      "text": "ITEST project types",
+      "section": "Other"
+    },
+    {
+      "text": "Exploring Theory and Design Principles",
+      "section": "Other"
+    },
+    {
+      "text": "Developing and Testing Innovations",
+      "section": "Other"
+    },
+    {
+      "text": "Scaling, Expanding, and Iterating Innovations",
+      "section": "Other"
+    },
+    {
+      "text": "Synthesis and Conference/Workshop proposals",
+      "section": "Other"
+    },
+    {
+      "text": "innovative use of technologies in learning and teaching",
+      "section": "Other"
+    },
+    {
+      "text": "strategies for equity in STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "project evaluation plan",
+      "section": "Program Description"
+    },
+    {
+      "text": "high-quality research plan",
+      "section": "Program Description"
+    },
+    {
+      "text": "STEM/ICT careers",
+      "section": "Program Description"
+    },
+    {
+      "text": "project staff",
+      "section": "Program Description"
+    },
+    {
+      "text": "underrepresented and underserved groups in STEM fields",
+      "section": "Program Description"
+    },
+    {
+      "text": "collaborations",
+      "section": "Other"
+    },
+    {
+      "text": "community partnerships",
+      "section": "Other"
+    },
+    {
+      "text": "internal and external evaluation",
+      "section": "Other"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "high-quality research plan",
+        "source_text": "high-quality research plan",
+        "confidence": 0.9
+      },
+      {
+        "tag": "evaluation and assessment",
+        "source_text": "project evaluation plan",
+        "confidence": 0.5881
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "neurodivergent students",
+        "source_text": "neurodiverse students",
+        "confidence": 1.0,
+        "sources": [
+          "neurodiverse students"
+        ]
+      },
+      {
+        "tag": "K-12 students",
+        "source_text": "PreK-12 students",
+        "confidence": 0.8864,
+        "sources": [
+          "PreK-12 students"
+        ]
+      },
+      {
+        "tag": "K-12 teachers",
+        "source_text": "PreK-12 students",
+        "confidence": 0.7268,
+        "sources": [
+          "PreK-12 students"
+        ]
+      },
+      {
+        "tag": "elementary students",
+        "source_text": "PreK-12 students",
+        "confidence": 0.6863,
+        "sources": [
+          "PreK-12 students"
+        ]
+      },
+      {
+        "tag": "students with disabilities",
+        "source_text": "persons with disabilities",
+        "confidence": 0.6749,
+        "sources": [
+          "persons with disabilities"
+        ]
+      },
+      {
+        "tag": "historically underserved students",
+        "source_text": "underrepresented and underserved groups in STEM fields",
+        "confidence": 0.6284,
+        "sources": [
+          "underrepresented groups",
+          "underrepresented and underserved groups in STEM fields"
+        ]
+      },
+      {
+        "tag": "underserved communities",
+        "source_text": "underrepresented groups",
+        "confidence": 0.6056,
+        "sources": [
+          "underrepresented groups"
+        ]
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "Formative evaluation is often designed to document the extent to which project activities are being carried out as intended and to provide information on interim outcomes. Such information allows the project team not only to assess success over the course of the project, but also to make mid-course corrections iteratively to improve the project. Summative evaluation activities typically focus on documenting the final outcomes achieved and the extent to which these are in line with the original goals of the project. Evidence from ongoing evaluative activities may provide valuable insights into any discrepancies between stated and achieved outcomes.",
+      "Description of how the project plans to use the evaluation evidence, including how feedback will be shared, with whom (e.g., project leadership, external advisors), and for what purpose (e.g., to inform ongoing project management, to supplement research findings and contribute to the generation of knowledge).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_innovative_technology_experiences_for_students_and_teachers_itest.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/itest-innovative-technology-experiences-students-teachers/nsf22-585/solicitation"
+  },
+  "document_title": "Innovative Technology Experiences for Students and Teachers (ITEST)"
+}

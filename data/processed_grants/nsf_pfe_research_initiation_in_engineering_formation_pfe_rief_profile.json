@@ -1,0 +1,184 @@
+{
+  "grant_id": "nsf_pfe_research_initiation_in_engineering_formation_pfe_rief",
+  "created_at": "2025-12-30T01:33:54.311618-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "PFE: Research Initiation in Engineering Formation",
+    "PFE: RIEF",
+    "Professional Formation of Engineers",
+    "engineering education research",
+    "Professional Formation of Engineers (PFE)",
+    "21st Century",
+    "K12 level",
+    "community of engineering education researchers",
+    "engineering formation",
+    "diversifying pathways to and through engineering",
+    "engineering faculty",
+    "professional formation of engineers",
+    "research projects",
+    "independent museums",
+    "two- and four-year IHEs",
+    "community colleges",
+    "formal and informal education",
+    "non-profit, non-academic organizations",
+    "PFE: RIEF awards"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "PFE: Research Initiation in Engineering Formation",
+      "section": "Other"
+    },
+    {
+      "text": "PFE: RIEF",
+      "section": "Other"
+    },
+    {
+      "text": "Professional Formation of Engineers",
+      "section": "Other"
+    },
+    {
+      "text": "engineering education research",
+      "section": "Other"
+    },
+    {
+      "text": "Professional Formation of Engineers (PFE)",
+      "section": "Other"
+    },
+    {
+      "text": "21st Century",
+      "section": "Other"
+    },
+    {
+      "text": "K12 level",
+      "section": "Introduction"
+    },
+    {
+      "text": "community of engineering education researchers",
+      "section": "Introduction"
+    },
+    {
+      "text": "engineering formation",
+      "section": "Other"
+    },
+    {
+      "text": "diversifying pathways to and through engineering",
+      "section": "Introduction"
+    },
+    {
+      "text": "engineering faculty",
+      "section": "Other"
+    },
+    {
+      "text": "professional formation of engineers",
+      "section": "Introduction"
+    },
+    {
+      "text": "research projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "independent museums",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Introduction"
+    },
+    {
+      "text": "formal and informal education",
+      "section": "Other"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "PFE: RIEF awards",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "research projects",
+        "source_text": "research projects",
+        "confidence": 0.9
+      },
+      {
+        "tag": "professional formation of engineers",
+        "source_text": "professional formation of engineers",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "K-12 students",
+        "source_text": "K12 level",
+        "confidence": 0.7631,
+        "sources": [
+          "K12 level"
+        ]
+      },
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K12 level",
+        "confidence": 0.6904,
+        "sources": [
+          "K12 level"
+        ]
+      },
+      {
+        "tag": "informal learners",
+        "source_text": "formal and informal education",
+        "confidence": 0.6347,
+        "sources": [
+          "formal and informal education"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_pfe_research_initiation_in_engineering_formation_pfe_rief.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/pfe-rief-pfe-research-initiation-engineering-formation/nsf20-558/solicitation"
+  },
+  "document_title": "PFE: Research Initiation in Engineering Formation (PFE: RIEF)"
+}

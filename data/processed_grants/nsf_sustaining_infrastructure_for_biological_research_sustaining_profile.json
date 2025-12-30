@@ -1,0 +1,145 @@
+{
+  "grant_id": "nsf_sustaining_infrastructure_for_biological_research_sustaining",
+  "created_at": "2025-12-30T01:55:45.605116-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Sustaining Infrastructure for Biological Research",
+    "Directorate for Biological Sciences",
+    "Division of Biological Infrastructure",
+    "underrepresented groups",
+    "U.S. Armed Forces",
+    "Sustaining Program",
+    "cyberinfrastructure",
+    "biological living stocks",
+    "existing research infrastructure",
+    "research areas supported by the BIO",
+    "standard Grant",
+    "Continuing Grant",
+    "Cooperative Agreement",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Sustaining Infrastructure for Biological Research",
+      "section": "Other"
+    },
+    {
+      "text": "Directorate for Biological Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Biological Infrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "underrepresented groups",
+      "section": "Introduction"
+    },
+    {
+      "text": "U.S. Armed Forces",
+      "section": "Introduction"
+    },
+    {
+      "text": "Sustaining Program",
+      "section": "Other"
+    },
+    {
+      "text": "cyberinfrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "biological living stocks",
+      "section": "Other"
+    },
+    {
+      "text": "existing research infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "research areas supported by the BIO",
+      "section": "Program Description"
+    },
+    {
+      "text": "standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Division of Biological Infrastructure",
+        "source_text": "Division of Biological Infrastructure",
+        "confidence": 0.9
+      },
+      {
+        "tag": "research areas supported by the BIO",
+        "source_text": "research areas supported by the BIO",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "historically underserved students",
+        "source_text": "underrepresented groups",
+        "confidence": 0.6059,
+        "sources": [
+          "underrepresented groups"
+        ]
+      },
+      {
+        "tag": "underserved communities",
+        "source_text": "underrepresented groups",
+        "confidence": 0.6056,
+        "sources": [
+          "underrepresented groups"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "This program serves all research areas supported by the BIO. Funds are limited, and individual awards may not be sufficient to cover 100% of the operating costs of a given resource. While institutional cost-share is not allowed, it is expected that resources supported under this program will make every effort to generate revenue through the development of a business plan that will spread some of its operating costs onto its user community or other funding sources in a manner that does not unduly restrict open and fair access for research, education and the public. Continued support through this program may be contingent on evidence of cost recovery efforts to reduce the dependency on direct NSF support for ongoing operations. In developing a business plan, PIs should be aware that proposals submitted to any NSF research program that rely on the use of infrastructure such as data repositories, collections, or computational services may include in their budget funds to cover the cost of certain fees associated with those resources (see NSF 19-069 , Effective Practices for Data, https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf19069 ).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_sustaining_infrastructure_for_biological_research_sustaining.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/sustaining-sustaining-infrastructure-biological-research/nsf21-503/solicitation"
+  },
+  "document_title": "Sustaining Infrastructure for Biological Research (Sustaining)"
+}

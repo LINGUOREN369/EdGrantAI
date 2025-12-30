@@ -1,0 +1,506 @@
+{
+  "grant_id": "nsf_research_on_innovative_technologies_for_enhanced_learning_ritel",
+  "created_at": "2025-12-30T01:45:00.683469-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Research on Innovative Technologies for Enhanced Learning",
+    "RITEL",
+    "early-stage research",
+    "emerging technologies for teaching and learning",
+    "pressing needs in authentic educational environments",
+    "future-oriented exploratory and synergistic research",
+    "artificial intelligence",
+    "robotics",
+    "immersive or augmenting technologies",
+    "learning",
+    "teaching",
+    "science, technology, engineering, and mathematics",
+    "STEM",
+    "self-regulation",
+    "literacy",
+    "communication",
+    "collaboration",
+    "creativity",
+    "socio-emotional skills",
+    "all learning contexts",
+    "formal",
+    "informal",
+    "workplace",
+    "learner populations",
+    "learner/educator populations",
+    "cost-effective for budget-limited school districts",
+    "colleges and universities",
+    "convergence of multiple disciplines",
+    "learning sciences",
+    "discipline-based education research",
+    "computer and information science and engineering",
+    "design",
+    "cognitive, behavioral, and social sciences",
+    "innovative teaching",
+    "educating",
+    "mentoring practices",
+    "physical and virtual classrooms",
+    "museums",
+    "nature centers",
+    "libraries",
+    "public participation in scientific research",
+    "just-in-time learning",
+    "upskilling",
+    "reskilling",
+    "lifelong learning",
+    "high-impact research",
+    "interdisciplinary teams",
+    "human-computer interaction",
+    "ethics",
+    "policy",
+    "privacy",
+    "cross-disciplinary teams",
+    "Research on Innovative Technologies for Enhanced Learning",
+    "passion for innovation",
+    "AI-driven technologies",
+    "virtual",
+    "immersive",
+    "embodied",
+    "interactive",
+    "augmented environments",
+    "multimodal modeling/sensing",
+    "learning analytics",
+    "robotics",
+    "Standard Grant",
+    "Estimated Number of Awards",
+    "Institutions of Higher Education",
+    "Two- and four-year IHEs",
+    "community colleges",
+    "non-profit, non-academic organizations",
+    "Independent museums",
+    "observatories",
+    "research laboratories",
+    "professional societies",
+    "similar organizations",
+    "Tribal Nations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Research on Innovative Technologies for Enhanced Learning",
+      "section": "Other"
+    },
+    {
+      "text": "RITEL",
+      "section": "Other"
+    },
+    {
+      "text": "early-stage research",
+      "section": "Other"
+    },
+    {
+      "text": "emerging technologies for teaching and learning",
+      "section": "Other"
+    },
+    {
+      "text": "pressing needs in authentic educational environments",
+      "section": "Other"
+    },
+    {
+      "text": "future-oriented exploratory and synergistic research",
+      "section": "Other"
+    },
+    {
+      "text": "artificial intelligence",
+      "section": "Other"
+    },
+    {
+      "text": "robotics",
+      "section": "Other"
+    },
+    {
+      "text": "immersive or augmenting technologies",
+      "section": "Other"
+    },
+    {
+      "text": "learning",
+      "section": "Other"
+    },
+    {
+      "text": "teaching",
+      "section": "Other"
+    },
+    {
+      "text": "science, technology, engineering, and mathematics",
+      "section": "Other"
+    },
+    {
+      "text": "STEM",
+      "section": "Other"
+    },
+    {
+      "text": "self-regulation",
+      "section": "Other"
+    },
+    {
+      "text": "literacy",
+      "section": "Other"
+    },
+    {
+      "text": "communication",
+      "section": "Other"
+    },
+    {
+      "text": "collaboration",
+      "section": "Other"
+    },
+    {
+      "text": "creativity",
+      "section": "Other"
+    },
+    {
+      "text": "socio-emotional skills",
+      "section": "Other"
+    },
+    {
+      "text": "all learning contexts",
+      "section": "Other"
+    },
+    {
+      "text": "formal",
+      "section": "Other"
+    },
+    {
+      "text": "informal",
+      "section": "Other"
+    },
+    {
+      "text": "workplace",
+      "section": "Other"
+    },
+    {
+      "text": "learner populations",
+      "section": "Other"
+    },
+    {
+      "text": "learner/educator populations",
+      "section": "Other"
+    },
+    {
+      "text": "cost-effective for budget-limited school districts",
+      "section": "Other"
+    },
+    {
+      "text": "colleges and universities",
+      "section": "Other"
+    },
+    {
+      "text": "convergence of multiple disciplines",
+      "section": "Other"
+    },
+    {
+      "text": "learning sciences",
+      "section": "Other"
+    },
+    {
+      "text": "discipline-based education research",
+      "section": "Other"
+    },
+    {
+      "text": "computer and information science and engineering",
+      "section": "Other"
+    },
+    {
+      "text": "design",
+      "section": "Other"
+    },
+    {
+      "text": "cognitive, behavioral, and social sciences",
+      "section": "Other"
+    },
+    {
+      "text": "innovative teaching",
+      "section": "Introduction"
+    },
+    {
+      "text": "educating",
+      "section": "Introduction"
+    },
+    {
+      "text": "mentoring practices",
+      "section": "Introduction"
+    },
+    {
+      "text": "physical and virtual classrooms",
+      "section": "Introduction"
+    },
+    {
+      "text": "museums",
+      "section": "Introduction"
+    },
+    {
+      "text": "nature centers",
+      "section": "Introduction"
+    },
+    {
+      "text": "libraries",
+      "section": "Introduction"
+    },
+    {
+      "text": "public participation in scientific research",
+      "section": "Introduction"
+    },
+    {
+      "text": "just-in-time learning",
+      "section": "Introduction"
+    },
+    {
+      "text": "upskilling",
+      "section": "Introduction"
+    },
+    {
+      "text": "reskilling",
+      "section": "Introduction"
+    },
+    {
+      "text": "lifelong learning",
+      "section": "Introduction"
+    },
+    {
+      "text": "high-impact research",
+      "section": "Introduction"
+    },
+    {
+      "text": "interdisciplinary teams",
+      "section": "Introduction"
+    },
+    {
+      "text": "human-computer interaction",
+      "section": "Introduction"
+    },
+    {
+      "text": "ethics",
+      "section": "Introduction"
+    },
+    {
+      "text": "policy",
+      "section": "Introduction"
+    },
+    {
+      "text": "privacy",
+      "section": "Introduction"
+    },
+    {
+      "text": "cross-disciplinary teams",
+      "section": "Introduction"
+    },
+    {
+      "text": "Research on Innovative Technologies for Enhanced Learning",
+      "section": "Other"
+    },
+    {
+      "text": "passion for innovation",
+      "section": "Other"
+    },
+    {
+      "text": "AI-driven technologies",
+      "section": "Program Description"
+    },
+    {
+      "text": "virtual",
+      "section": "Introduction"
+    },
+    {
+      "text": "immersive",
+      "section": "Other"
+    },
+    {
+      "text": "embodied",
+      "section": "Program Description"
+    },
+    {
+      "text": "interactive",
+      "section": "Introduction"
+    },
+    {
+      "text": "augmented environments",
+      "section": "Program Description"
+    },
+    {
+      "text": "multimodal modeling/sensing",
+      "section": "Program Description"
+    },
+    {
+      "text": "learning analytics",
+      "section": "Program Description"
+    },
+    {
+      "text": "robotics",
+      "section": "Other"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Independent museums",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "observatories",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "research laboratories",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "professional societies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "similar organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "learning technologies",
+        "source_text": "learning analytics",
+        "confidence": 1.0
+      },
+      {
+        "tag": "embodied",
+        "source_text": "embodied",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "adult learners",
+        "source_text": "learner populations",
+        "confidence": 0.674,
+        "sources": [
+          "learner populations",
+          "learner/educator populations",
+          "lifelong learning"
+        ]
+      },
+      {
+        "tag": "informal learners",
+        "source_text": "learner populations",
+        "confidence": 0.6573,
+        "sources": [
+          "informal",
+          "learner populations"
+        ]
+      },
+      {
+        "tag": "global learners",
+        "source_text": "learner populations",
+        "confidence": 0.6569,
+        "sources": [
+          "learner populations"
+        ]
+      },
+      {
+        "tag": "all-ages learners",
+        "source_text": "learner populations",
+        "confidence": 0.6534,
+        "sources": [
+          "all learning contexts",
+          "learner populations",
+          "learner/educator populations"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "institution of higher education",
+        "source_text": "colleges and universities",
+        "confidence": 1.0,
+        "sources": [
+          "colleges and universities"
+        ]
+      },
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "museum",
+        "source_text": "museums",
+        "confidence": 0.7849,
+        "sources": [
+          "museums"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_research_on_innovative_technologies_for_enhanced_learning_ritel.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ritel-research-innovative-technologies-enhanced-learning/nsf23-624/solicitation"
+  },
+  "document_title": "Research on Innovative Technologies for Enhanced Learning (RITEL)"
+}

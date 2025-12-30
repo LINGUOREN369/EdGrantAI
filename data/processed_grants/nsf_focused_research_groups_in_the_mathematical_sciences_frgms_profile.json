@@ -1,0 +1,199 @@
+{
+  "grant_id": "nsf_focused_research_groups_in_the_mathematical_sciences_frgms",
+  "created_at": "2025-12-30T00:32:24.227208-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Focused Research Groups in the Mathematical Sciences",
+    "Focused Research Group activity",
+    "collaborative groups",
+    "major research challenges",
+    "mathematical sciences",
+    "scientific opportunities",
+    "collaborative research projects",
+    "interdisciplinary projects",
+    "significant new advances",
+    "outstanding problem",
+    "widely felt consequences",
+    "timely",
+    "limited in duration",
+    "creativity extension",
+    "major innovative breakthrough",
+    "collective effort",
+    "Fostered a crucial and unusual synergy",
+    "research group",
+    "senior personnel",
+    "focused research agenda",
+    "training of students and postdoctoral researchers",
+    "approximately 5-10 awards annually",
+    "Institutions of Higher Education",
+    "two-year IHEs",
+    "four-year IHEs",
+    "international branch campus",
+    "Limit on Number of Proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Focused Research Groups in the Mathematical Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "Focused Research Group activity",
+      "section": "Other"
+    },
+    {
+      "text": "collaborative groups",
+      "section": "Other"
+    },
+    {
+      "text": "major research challenges",
+      "section": "Other"
+    },
+    {
+      "text": "mathematical sciences",
+      "section": "Other"
+    },
+    {
+      "text": "scientific opportunities",
+      "section": "Program Description"
+    },
+    {
+      "text": "collaborative research projects",
+      "section": "Introduction"
+    },
+    {
+      "text": "interdisciplinary projects",
+      "section": "Other"
+    },
+    {
+      "text": "significant new advances",
+      "section": "Program Description"
+    },
+    {
+      "text": "outstanding problem",
+      "section": "Other"
+    },
+    {
+      "text": "widely felt consequences",
+      "section": "Introduction"
+    },
+    {
+      "text": "timely",
+      "section": "Other"
+    },
+    {
+      "text": "limited in duration",
+      "section": "Other"
+    },
+    {
+      "text": "creativity extension",
+      "section": "Other"
+    },
+    {
+      "text": "major innovative breakthrough",
+      "section": "Other"
+    },
+    {
+      "text": "collective effort",
+      "section": "Program Description"
+    },
+    {
+      "text": "Fostered a crucial and unusual synergy",
+      "section": "Other"
+    },
+    {
+      "text": "research group",
+      "section": "Program Description"
+    },
+    {
+      "text": "senior personnel",
+      "section": "Program Description"
+    },
+    {
+      "text": "focused research agenda",
+      "section": "Program Description"
+    },
+    {
+      "text": "training of students and postdoctoral researchers",
+      "section": "Program Description"
+    },
+    {
+      "text": "approximately 5-10 awards annually",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two-year IHEs",
+      "section": "Other"
+    },
+    {
+      "text": "four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "international branch campus",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "research group",
+        "source_text": "research group",
+        "confidence": 0.9
+      },
+      {
+        "tag": "senior personnel",
+        "source_text": "senior personnel",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "postdoctoral researchers",
+        "source_text": "training of students and postdoctoral researchers",
+        "confidence": 0.6524,
+        "sources": [
+          "training of students and postdoctoral researchers"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per PI or co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "New research directions that have become possible due to recent advances are explored, and significant progress is achieved.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_focused_research_groups_in_the_mathematical_sciences_frgms.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/frgms-focused-research-groups-mathematical-sciences/nsf23-621/solicitation"
+  },
+  "document_title": "Focused Research Groups in the Mathematical Sciences (FRGMS)"
+}

@@ -1,0 +1,176 @@
+{
+  "grant_id": "nsf_ecosystem_science_cluster",
+  "created_at": "2025-12-30T00:16:02.764621-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Ecosystem Science Cluster",
+    "material and energy fluxes",
+    "ecosystem dynamics",
+    "ecosystem services",
+    "Ecosystem Science",
+    "Biological Oceanography Program",
+    "Division of Ocean Sciences",
+    "Population and Community Ecology Cluster",
+    "Division of Environmental Biology",
+    "CAREER",
+    "RCN",
+    "LTREB",
+    "MCA",
+    "OPUS",
+    "NSF-supported data networks",
+    "National Ecological Observatory Network",
+    "Long-Term Ecological Research",
+    "Environmental Data Initiative",
+    "Integrated Digitized Biocollections",
+    "Integrative Research in Biology",
+    "IntBIO",
+    "STAR Grants",
+    "Institutions of Higher Education",
+    "non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Ecosystem Science Cluster",
+      "section": "Other"
+    },
+    {
+      "text": "material and energy fluxes",
+      "section": "Other"
+    },
+    {
+      "text": "ecosystem dynamics",
+      "section": "Other"
+    },
+    {
+      "text": "ecosystem services",
+      "section": "Other"
+    },
+    {
+      "text": "Ecosystem Science",
+      "section": "Other"
+    },
+    {
+      "text": "Biological Oceanography Program",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Ocean Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "Population and Community Ecology Cluster",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Environmental Biology",
+      "section": "Other"
+    },
+    {
+      "text": "CAREER",
+      "section": "Other"
+    },
+    {
+      "text": "RCN",
+      "section": "Other"
+    },
+    {
+      "text": "LTREB",
+      "section": "Other"
+    },
+    {
+      "text": "MCA",
+      "section": "Other"
+    },
+    {
+      "text": "OPUS",
+      "section": "Other"
+    },
+    {
+      "text": "NSF-supported data networks",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Ecological Observatory Network",
+      "section": "Introduction"
+    },
+    {
+      "text": "Long-Term Ecological Research",
+      "section": "Introduction"
+    },
+    {
+      "text": "Environmental Data Initiative",
+      "section": "Introduction"
+    },
+    {
+      "text": "Integrated Digitized Biocollections",
+      "section": "Introduction"
+    },
+    {
+      "text": "Integrative Research in Biology",
+      "section": "Program Description"
+    },
+    {
+      "text": "IntBIO",
+      "section": "Program Description"
+    },
+    {
+      "text": "STAR Grants",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Integrative Research in Biology",
+        "source_text": "Integrative Research in Biology",
+        "confidence": 0.9
+      },
+      {
+        "tag": "STAR Grants",
+        "source_text": "STAR Grants",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "The Division welcomes proposals for STAR (Special Targeted Awards for Research) Grants to the core programs via this solicitation. Projects with total budgets of $400,000 or less may be identified as such with the designation \"STAR:\" as a prefix to the project title in the full proposal. STAR Grants may address any topic appropriate for DEB core programs and could include a variety of important research activities that entail a narrower scope and/or reduced costs (e.g., analysis of existing data (including NEON data), theoretical research, synthesis projects, fieldwork projects, etc.). The STAR track should not be used predominately for the collection of preliminary data. STAR Grants may be useful for targeted research projects, including ideas initiated by postdoctoral researchers. The project description for STAR Grants is limited to 10 pages. STAR Grant projects will be assessed based on the same merit review criteria as all other proposals. If funds for educational supplements are requested, those can be in addition to the $400,000 funding limit for STAR projects.",
+      "NERC-lead proposals should follow the NERC guidelines for applicants ( https://www.ukri.org/opportunity/work-with-us-based-researchers-on-environmental-science-research/ ). Applicants are required to submit an Expression of Interest form to https://reg.nerc.ac.uk/nsf/ three months prior to the closing date of the scheme to which the applicants plan to submit. Note: For NERC-lead proposals, the NSF DEB (non-lead) portion of the project budget cannot exceed $500,000. For NSF DEB-lead proposals the NERC (non-lead) portion of the budget cannot exceed \u00a3300,000.",
+      "Mid-Career Advancement program (MCA) proposals may be submitted to any of the clusters/programs described in this solicitation but must be submitted by the submission window for the MCA program. This is another opportunity available to mid-career researchers to advance their career trajectory.",
+      "Grants for Rapid Response Research (RAPID), Early-concept Grants for Exploratory Research (EAGER), Research Advanced by Interdisciplinary Science and Engineering (RAISE), Grant Opportunities for Academic Liaison with Industry (GOALI), Planning proposals, and proposals for Travel or Conferences support, including workshops, can be submitted at any time to any of the clusters/programs described in this solicitation. These types of proposals should be submitted in accordance with the guidance in the PAPPG. Conference and Travel proposals should be submitted at least 6 months before the start date of the conference or workshop. You are strongly advised to contact a Program Officer prior to submission; also see guidance at https://www.nsf.gov/bio/deb/confrapideagerguidance.jsp . Note that for RAPID, EAGER, RAISE, or Planning proposals, a concept outline must be submitted prior to submission of a full proposal. We strongly encourage the use of NSFs new Program Suitability and Proposal Concept Tool (ProSPCT) [ https://suitability.nsf.gov/s/ ] for RAPID, EAGER, RAISES, and Planning proposals. Prior to submitting a full RAPID, EAGER, or RAISE proposal, proposers must receive approval from a DEB Program Officer in the programmatically relevant cluster. Proposals submitted without the relevant program officer concurrence will not be accepted or will be returned without review (see PAPPG Chapter I.D.1).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_ecosystem_science_cluster.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/deb-division-environmental-biology/nsf24-543/solicitation"
+  },
+  "document_title": "Ecosystem Science Cluster"
+}

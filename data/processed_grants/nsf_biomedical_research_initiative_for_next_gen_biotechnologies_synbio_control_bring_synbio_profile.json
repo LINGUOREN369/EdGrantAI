@@ -1,0 +1,199 @@
+{
+  "grant_id": "nsf_biomedical_research_initiative_for_next_gen_biotechnologies_synbio_control_bring_synbio",
+  "created_at": "2025-12-29T23:32:00.984488-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Biomedical Research Initiative for Next-Gen BioTechnologies - SynBio Control",
+    "BRING SynBio",
+    "National Science Foundation Directorate for Engineering",
+    "National Institute of Biomedical Imaging and Bioengineering",
+    "NIH/NIBIB",
+    "synthetic and engineering biology",
+    "biomedical technologies",
+    "biological control theory",
+    "synthetic biological tools",
+    "synthetic gene circuit design",
+    "Phase I",
+    "Phase II",
+    "Clinical Trials",
+    "Institutions of Higher Education",
+    "IHEs",
+    "community colleges",
+    "Non-profit, non-academic organizations",
+    "Independent museums",
+    "observatories",
+    "research laboratories",
+    "professional societies",
+    "Principal Investigator",
+    "co-Principal Investigator",
+    "Full Proposals",
+    "cost sharing",
+    "Indirect Cost"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Biomedical Research Initiative for Next-Gen BioTechnologies - SynBio Control",
+      "section": "Other"
+    },
+    {
+      "text": "BRING SynBio",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation Directorate for Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "National Institute of Biomedical Imaging and Bioengineering",
+      "section": "Other"
+    },
+    {
+      "text": "NIH/NIBIB",
+      "section": "Other"
+    },
+    {
+      "text": "synthetic and engineering biology",
+      "section": "Other"
+    },
+    {
+      "text": "biomedical technologies",
+      "section": "Other"
+    },
+    {
+      "text": "biological control theory",
+      "section": "Other"
+    },
+    {
+      "text": "synthetic biological tools",
+      "section": "Program Description"
+    },
+    {
+      "text": "synthetic gene circuit design",
+      "section": "Program Description"
+    },
+    {
+      "text": "Phase I",
+      "section": "Other"
+    },
+    {
+      "text": "Phase II",
+      "section": "Other"
+    },
+    {
+      "text": "Clinical Trials",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Independent museums",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "observatories",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "research laboratories",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "professional societies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "co-Principal Investigator",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Full Proposals",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "cost sharing",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Indirect Cost",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "synthetic gene circuit design",
+        "source_text": "synthetic gene circuit design",
+        "confidence": 0.9
+      },
+      {
+        "tag": "synthetic biological tools",
+        "source_text": "synthetic biological tools",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide"
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_biomedical_research_initiative_for_next_gen_biotechnologies_synbio_control_bring_synbio.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/bring-synbio-biomedical-research-initiative-next-gen-biotechnologies/nsf24-603/solicitation"
+  },
+  "document_title": "Biomedical Research Initiative for Next-Gen BioTechnologies - SynBio Control (BRING SynBio)"
+}

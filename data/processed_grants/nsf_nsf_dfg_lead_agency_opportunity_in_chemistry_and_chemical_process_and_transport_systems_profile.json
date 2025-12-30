@@ -1,0 +1,152 @@
+{
+  "grant_id": "nsf_nsf_dfg_lead_agency_opportunity_in_chemistry_and_chemical_process_and_transport_systems",
+  "created_at": "2025-12-30T01:17:31.394039-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "NSF-DFG Lead Agency Opportunity in Chemistry and Chemical Process and Transport Systems",
+    "National Science Foundation",
+    "Deutsche Forschungsgemeinschaft",
+    "German Research Foundation",
+    "Lead Agency Opportunity for Collaborative Research in Chemistry and Chemical Process and Transport Systems",
+    "Division of Chemistry",
+    "Division of Chemical, Bioengineering, Environmental and Transport Systems",
+    "Division of Physics and Chemistry",
+    "Engineering Sciences",
+    "US-German collaboration",
+    "CHE",
+    "CBET",
+    "PC",
+    "ING 1",
+    "participating NSF programs",
+    "collaborative proposal",
+    "single review process",
+    "Standard Grant",
+    "Continuing Grant",
+    "Institutions of Higher Education",
+    "non-profit, non-academic organizations",
+    "Principal Investigator"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "NSF-DFG Lead Agency Opportunity in Chemistry and Chemical Process and Transport Systems",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "Deutsche Forschungsgemeinschaft",
+      "section": "Other"
+    },
+    {
+      "text": "German Research Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "Lead Agency Opportunity for Collaborative Research in Chemistry and Chemical Process and Transport Systems",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Chemical, Bioengineering, Environmental and Transport Systems",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Physics and Chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "Engineering Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "US-German collaboration",
+      "section": "Other"
+    },
+    {
+      "text": "CHE",
+      "section": "Other"
+    },
+    {
+      "text": "CBET",
+      "section": "Other"
+    },
+    {
+      "text": "PC",
+      "section": "Other"
+    },
+    {
+      "text": "ING 1",
+      "section": "Other"
+    },
+    {
+      "text": "participating NSF programs",
+      "section": "Other"
+    },
+    {
+      "text": "collaborative proposal",
+      "section": "Other"
+    },
+    {
+      "text": "single review process",
+      "section": "Other"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "A U.S. individual may appear as Principal Investigator (PI), co-PI, or senior/key personnel on only one proposal per annual cycle submitted in response to this solicitation. For programs with no submission deadline, the 12-month cycle starts with the proposal submission date. For proposals submitted to NSF/CHE, the submission will count towards the total proposal submission limit to the Disciplinary Research Programs (DRP), as defined in NSF CHE-DRP and CHE-DRP:NDP solicitations. For German Personnel, there is no limitation.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_dfg_lead_agency_opportunity_in_chemistry_and_chemical_process_and_transport_systems.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/nsf-dfg-lead-agency-opportunity-chemistry-chemical-process/nsf25-537/solicitation"
+  },
+  "document_title": "NSF-DFG Lead Agency Opportunity in Chemistry and Chemical Process and Transport Systems"
+}

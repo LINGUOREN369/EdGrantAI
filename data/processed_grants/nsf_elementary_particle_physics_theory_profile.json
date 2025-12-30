@@ -1,0 +1,210 @@
+{
+  "grant_id": "nsf_elementary_particle_physics_theory",
+  "created_at": "2025-12-30T00:19:03.069606-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Elementary Particle Physics",
+    "Division of Physics",
+    "Investigator-Initiated Research Projects",
+    "String Theory",
+    "Quantum Field Theory",
+    "Lattice Field Theory",
+    "Effective Field Theories",
+    "Phenomenology",
+    "Large Hadron Collider",
+    "Supersymmetric Model",
+    "Grand Unified Theories",
+    "Extra Dimensions",
+    "Standard Model",
+    "quantum chromodynamics",
+    "Relativistic Heavy Ion Collider",
+    "Jefferson Laboratory",
+    "Graduate Students",
+    "Postdoctoral Fellows",
+    "mid-scale research infrastructure awards",
+    "standard individual investigator and group awards",
+    "Institutions of Higher Education",
+    "non-profit, non-academic organizations",
+    "For-profit organizations",
+    "State and Local Governments",
+    "Tribal Governments",
+    "Foreign organizations",
+    "Federal Agencies",
+    "Federally Funded Research and Development Centers"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Elementary Particle Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Investigator-Initiated Research Projects",
+      "section": "Other"
+    },
+    {
+      "text": "String Theory",
+      "section": "Other"
+    },
+    {
+      "text": "Quantum Field Theory",
+      "section": "Other"
+    },
+    {
+      "text": "Lattice Field Theory",
+      "section": "Other"
+    },
+    {
+      "text": "Effective Field Theories",
+      "section": "Other"
+    },
+    {
+      "text": "Phenomenology",
+      "section": "Other"
+    },
+    {
+      "text": "Large Hadron Collider",
+      "section": "Other"
+    },
+    {
+      "text": "Supersymmetric Model",
+      "section": "Other"
+    },
+    {
+      "text": "Grand Unified Theories",
+      "section": "Other"
+    },
+    {
+      "text": "Extra Dimensions",
+      "section": "Other"
+    },
+    {
+      "text": "Standard Model",
+      "section": "Other"
+    },
+    {
+      "text": "quantum chromodynamics",
+      "section": "Other"
+    },
+    {
+      "text": "Relativistic Heavy Ion Collider",
+      "section": "Other"
+    },
+    {
+      "text": "Jefferson Laboratory",
+      "section": "Other"
+    },
+    {
+      "text": "Graduate Students",
+      "section": "Other"
+    },
+    {
+      "text": "Postdoctoral Fellows",
+      "section": "Other"
+    },
+    {
+      "text": "mid-scale research infrastructure awards",
+      "section": "Introduction"
+    },
+    {
+      "text": "standard individual investigator and group awards",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "For-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Foreign organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Federal Agencies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Federally Funded Research and Development Centers",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "mid-scale research infrastructure awards",
+        "source_text": "mid-scale research infrastructure awards",
+        "confidence": 0.9
+      },
+      {
+        "tag": "standard individual investigator and group awards",
+        "source_text": "standard individual investigator and group awards",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "graduate students",
+        "source_text": "Graduate Students",
+        "confidence": 1.0,
+        "sources": [
+          "Graduate Students"
+        ]
+      },
+      {
+        "tag": "postdoctoral researchers",
+        "source_text": "Postdoctoral Fellows",
+        "confidence": 0.7695,
+        "sources": [
+          "Postdoctoral Fellows"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_elementary_particle_physics_theory.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation"
+  },
+  "document_title": "Elementary Particle Physics - Theory"
+}

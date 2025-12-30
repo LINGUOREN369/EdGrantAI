@@ -1,0 +1,175 @@
+{
+  "grant_id": "nsf_joint_dms_nigms_initiative_to_support_research_at_the_interface_of_the_biological_and_mathematical_s",
+  "created_at": "2025-12-30T00:56:35.237403-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences",
+    "National Institute of General Medical Sciences",
+    "National Science Foundation",
+    "Division of Mathematical Sciences",
+    "biological and biomedical sciences",
+    "mathematical and life sciences",
+    "biological/biomedical questions",
+    "mathematical/computational/statistical methods",
+    "mathematics or statistics",
+    "biological/biomedical discovery",
+    "biological and biomedical research",
+    "scientists from both the life and mathematical science communities",
+    "NIGMS mission",
+    "fundamental research",
+    "biological processes",
+    "Track 1",
+    "Track 2",
+    "DMS/NIGMS Track 1",
+    "DMS/NIGMS Track 2",
+    "foreign institutions",
+    "standard Grant",
+    "Continuing Grant",
+    "R01 project",
+    "Estimated Number of Awards",
+    "Anticipated Funding Amount",
+    "Unaffiliated individuals"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "National Institute of General Medical Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Mathematical Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "biological and biomedical sciences",
+      "section": "Other"
+    },
+    {
+      "text": "mathematical and life sciences",
+      "section": "Other"
+    },
+    {
+      "text": "biological/biomedical questions",
+      "section": "Introduction"
+    },
+    {
+      "text": "mathematical/computational/statistical methods",
+      "section": "Introduction"
+    },
+    {
+      "text": "mathematics or statistics",
+      "section": "Introduction"
+    },
+    {
+      "text": "biological/biomedical discovery",
+      "section": "Introduction"
+    },
+    {
+      "text": "biological and biomedical research",
+      "section": "Introduction"
+    },
+    {
+      "text": "scientists from both the life and mathematical science communities",
+      "section": "Introduction"
+    },
+    {
+      "text": "NIGMS mission",
+      "section": "Introduction"
+    },
+    {
+      "text": "fundamental research",
+      "section": "Other"
+    },
+    {
+      "text": "biological processes",
+      "section": "Introduction"
+    },
+    {
+      "text": "Track 1",
+      "section": "Other"
+    },
+    {
+      "text": "Track 2",
+      "section": "Other"
+    },
+    {
+      "text": "DMS/NIGMS Track 1",
+      "section": "Program Description"
+    },
+    {
+      "text": "DMS/NIGMS Track 2",
+      "section": "Program Description"
+    },
+    {
+      "text": "foreign institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "R01 project",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Anticipated Funding Amount",
+      "section": "Award Information"
+    },
+    {
+      "text": "Unaffiliated individuals",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "biological and biomedical research",
+        "source_text": "biological and biomedical research",
+        "confidence": 0.9
+      },
+      {
+        "tag": "biological processes",
+        "source_text": "biological processes",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-09-18"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-09-18, 2026-09-18",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_joint_dms_nigms_initiative_to_support_research_at_the_interface_of_the_biological_and_mathematical_s.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/dmsnigms-joint-dmsnigms-initiative-support-research-interface/nsf22-600/solicitation"
+  },
+  "document_title": "Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences (DMS/NIGMS)"
+}

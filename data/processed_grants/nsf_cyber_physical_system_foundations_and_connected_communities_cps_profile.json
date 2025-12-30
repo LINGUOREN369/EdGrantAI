@@ -1,0 +1,272 @@
+{
+  "grant_id": "nsf_cyber_physical_system_foundations_and_connected_communities_cps",
+  "created_at": "2025-12-30T00:01:54.322623-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Cyber-Physical Systems Foundations and Connected Communities",
+    "cyber-physical systems",
+    "artificial intelligence for cyber-physical systems",
+    "quantum information systems",
+    "connected community",
+    "CPS-FR",
+    "CPS-CIR",
+    "foundational research",
+    "community-inspired research",
+    "neuro-symbolic and embodied AI approaches",
+    "AI-enabled autonomy",
+    "safe learning",
+    "adaptive systems",
+    "formal methods for verification and assurance",
+    "control and dynamics of complex cyber-physical systems",
+    "IoT and platforms for CPS",
+    "co-design of hardware and software",
+    "real time scheduling and resource management",
+    "security, privacy and trustworthiness",
+    "quantum algorithms",
+    "civil infrastructure",
+    "disaster response",
+    "transportation",
+    "geographical systems",
+    "infrastructure resilience",
+    "manufacturing",
+    "power systems",
+    "agriculture",
+    "social-environmental-technological framework",
+    "NSF Directorate for Computer and Information Science and Engineering",
+    "Computer and Information Science and Engineering",
+    "Future Computing Research",
+    "Algorithmic Foundations",
+    "Communications and Information Foundations",
+    "Computer Systems Research",
+    "Computing Education Research",
+    "Robust Intelligence",
+    "Software and Hardware Foundations",
+    "EPSCoR-eligible institutions",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "Tribal Nations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Cyber-Physical Systems Foundations and Connected Communities",
+      "section": "Other"
+    },
+    {
+      "text": "cyber-physical systems",
+      "section": "Other"
+    },
+    {
+      "text": "artificial intelligence for cyber-physical systems",
+      "section": "Other"
+    },
+    {
+      "text": "quantum information systems",
+      "section": "Other"
+    },
+    {
+      "text": "connected community",
+      "section": "Other"
+    },
+    {
+      "text": "CPS-FR",
+      "section": "Other"
+    },
+    {
+      "text": "CPS-CIR",
+      "section": "Other"
+    },
+    {
+      "text": "foundational research",
+      "section": "Other"
+    },
+    {
+      "text": "community-inspired research",
+      "section": "Other"
+    },
+    {
+      "text": "neuro-symbolic and embodied AI approaches",
+      "section": "Other"
+    },
+    {
+      "text": "AI-enabled autonomy",
+      "section": "Other"
+    },
+    {
+      "text": "safe learning",
+      "section": "Other"
+    },
+    {
+      "text": "adaptive systems",
+      "section": "Other"
+    },
+    {
+      "text": "formal methods for verification and assurance",
+      "section": "Other"
+    },
+    {
+      "text": "control and dynamics of complex cyber-physical systems",
+      "section": "Other"
+    },
+    {
+      "text": "IoT and platforms for CPS",
+      "section": "Other"
+    },
+    {
+      "text": "co-design of hardware and software",
+      "section": "Other"
+    },
+    {
+      "text": "real time scheduling and resource management",
+      "section": "Other"
+    },
+    {
+      "text": "security, privacy and trustworthiness",
+      "section": "Other"
+    },
+    {
+      "text": "quantum algorithms",
+      "section": "Other"
+    },
+    {
+      "text": "civil infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "disaster response",
+      "section": "Other"
+    },
+    {
+      "text": "transportation",
+      "section": "Other"
+    },
+    {
+      "text": "geographical systems",
+      "section": "Other"
+    },
+    {
+      "text": "infrastructure resilience",
+      "section": "Other"
+    },
+    {
+      "text": "manufacturing",
+      "section": "Other"
+    },
+    {
+      "text": "power systems",
+      "section": "Other"
+    },
+    {
+      "text": "agriculture",
+      "section": "Other"
+    },
+    {
+      "text": "social-environmental-technological framework",
+      "section": "Other"
+    },
+    {
+      "text": "NSF Directorate for Computer and Information Science and Engineering",
+      "section": "Introduction"
+    },
+    {
+      "text": "Computer and Information Science and Engineering",
+      "section": "Introduction"
+    },
+    {
+      "text": "Future Computing Research",
+      "section": "Introduction"
+    },
+    {
+      "text": "Algorithmic Foundations",
+      "section": "Program Description"
+    },
+    {
+      "text": "Communications and Information Foundations",
+      "section": "Program Description"
+    },
+    {
+      "text": "Computer Systems Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Computing Education Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Robust Intelligence",
+      "section": "Program Description"
+    },
+    {
+      "text": "Software and Hardware Foundations",
+      "section": "Program Description"
+    },
+    {
+      "text": "EPSCoR-eligible institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Computer and Information Science and Engineering",
+        "source_text": "Computer and Information Science and Engineering",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Future Computing Research",
+        "source_text": "Future Computing Research",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "The CPS-CIR track aims to develop use-inspired research focused on the co-development of novel and translational innovations and systems with cyber-physical components, their communities and the natural and built environments.\u00a0 It emphasizes fundamental science and engineering informed by a social-environmental-technological framework to deliver significant practical capabilities to society, people and/or communities. Proposals submitted to this track are expected to be inspired and motivated by the needs of clearly defined communities and to establish meaningful partnerships with stakeholders to shape research questions and provide ongoing engagement in the project. Projects should aim to improve overall quality of life for people who live, work, learn, or travel within the community and include an assessment component to evaluate success. In addition, projects will include a plan to identify, assess and incorporate community-identified priorities. Areas of particular interest include civil infrastructure, disaster response, transportation, geographical systems, infrastructure resilience, manufacturing, power systems, and agriculture and as well as topics at the nexus of CPS, community, and natural and built environment.",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_cyber_physical_system_foundations_and_connected_communities_cps.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation"
+  },
+  "document_title": "Cyber-Physical System Foundations and Connected Communities (CPS)"
+}

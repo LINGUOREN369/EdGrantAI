@@ -1,0 +1,226 @@
+{
+  "grant_id": "nsf_nsf_astronomy_and_astrophysics_postdoctoral_fellowships_aapf",
+  "created_at": "2025-12-30T01:16:05.397870-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "NSF Astronomy and Astrophysics Postdoctoral Fellowships",
+    "independent research and education",
+    "observational, instrumental, theoretical, laboratory or archival data research",
+    "area of astronomy or astrophysics",
+    "coherent educational plan",
+    "eligible host institutions",
+    "early-career investigators",
+    "significant potential",
+    "positions of distinction and leadership",
+    "broadening their experience",
+    "NSF-funded facilities, institutes, or projects",
+    "ground-based capabilities",
+    "radio, optical/infrared, or solar astrophysics",
+    "educational activities",
+    "substantive, coherent program of educational activities",
+    "teaching or co-teaching one course",
+    "educational materials",
+    "significant program of outreach or public education",
+    "10% and no more than 25% of their time towards their educational activities",
+    "U.S. institutions of higher education",
+    "NSF-funded centers, facilities, or institutes",
+    "U.S. non-profit organizations with research and educational missions",
+    "International sites that are operated by U.S. organizations eligible for NSF funding",
+    "Atacama Large Millimeter/submillimeter Array",
+    "Cerro Tololo InterAmerican Observatory",
+    "Gemini South",
+    "National centers, facilities, sites, or institutes funded by other federal agencies",
+    "NSF AAPF Program",
+    "coherent research and educational plan",
+    "one AAPF proposal per annual competition",
+    "two AAPF competitions",
+    "proposer is a citizen, national, or lawful permanent resident",
+    "earned the doctoral degree in an appropriate scientific field",
+    "full proposals"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "NSF Astronomy and Astrophysics Postdoctoral Fellowships",
+      "section": "Other"
+    },
+    {
+      "text": "independent research and education",
+      "section": "Other"
+    },
+    {
+      "text": "observational, instrumental, theoretical, laboratory or archival data research",
+      "section": "Other"
+    },
+    {
+      "text": "area of astronomy or astrophysics",
+      "section": "Other"
+    },
+    {
+      "text": "coherent educational plan",
+      "section": "Other"
+    },
+    {
+      "text": "eligible host institutions",
+      "section": "Other"
+    },
+    {
+      "text": "early-career investigators",
+      "section": "Other"
+    },
+    {
+      "text": "significant potential",
+      "section": "Other"
+    },
+    {
+      "text": "positions of distinction and leadership",
+      "section": "Other"
+    },
+    {
+      "text": "broadening their experience",
+      "section": "Other"
+    },
+    {
+      "text": "NSF-funded facilities, institutes, or projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "ground-based capabilities",
+      "section": "Program Description"
+    },
+    {
+      "text": "radio, optical/infrared, or solar astrophysics",
+      "section": "Program Description"
+    },
+    {
+      "text": "educational activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "substantive, coherent program of educational activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "teaching or co-teaching one course",
+      "section": "Program Description"
+    },
+    {
+      "text": "educational materials",
+      "section": "Program Description"
+    },
+    {
+      "text": "significant program of outreach or public education",
+      "section": "Program Description"
+    },
+    {
+      "text": "10% and no more than 25% of their time towards their educational activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "U.S. institutions of higher education",
+      "section": "Program Description"
+    },
+    {
+      "text": "NSF-funded centers, facilities, or institutes",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S. non-profit organizations with research and educational missions",
+      "section": "Program Description"
+    },
+    {
+      "text": "International sites that are operated by U.S. organizations eligible for NSF funding",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Atacama Large Millimeter/submillimeter Array",
+      "section": "Program Description"
+    },
+    {
+      "text": "Cerro Tololo InterAmerican Observatory",
+      "section": "Program Description"
+    },
+    {
+      "text": "Gemini South",
+      "section": "Program Description"
+    },
+    {
+      "text": "National centers, facilities, sites, or institutes funded by other federal agencies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "NSF AAPF Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "coherent research and educational plan",
+      "section": "Program Description"
+    },
+    {
+      "text": "one AAPF proposal per annual competition",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two AAPF competitions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "proposer is a citizen, national, or lawful permanent resident",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "earned the doctoral degree in an appropriate scientific field",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "full proposals",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "U.S. non-profit organizations with research and educational missions",
+        "source_text": "U.S. non-profit organizations with research and educational missions",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Atacama Large Millimeter/submillimeter Array",
+        "source_text": "Atacama Large Millimeter/submillimeter Array",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "U.S. institutions of higher education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "U.S. non-profit organizations with research and educational missions",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-10-15"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-10-15, 2026-10-15",
+      "The proposer has earned the doctoral degree in an appropriate scientific field within five (5) years prior to the proposal submission deadline or will complete the doctoral degree by 1 October following the proposal deadline.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_astronomy_and_astrophysics_postdoctoral_fellowships_aapf.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/aapf-nsf-astronomy-astrophysics-postdoctoral-fellowships/nsf22-621/solicitation"
+  },
+  "document_title": "NSF Astronomy and Astrophysics Postdoctoral Fellowships (AAPF)"
+}

@@ -1,0 +1,262 @@
+{
+  "grant_id": "nsf_oce_research_experiences_for_undergraduates_sites_oce_reu_sites",
+  "created_at": "2025-12-30T01:29:27.288880-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Research Experiences for Undergraduates",
+    "OCE Research Experiences for Undergraduates Sites",
+    "OCE REU Sites",
+    "Division of Ocean Sciences",
+    "NSF-wide Research Experiences for Undergraduates solicitation",
+    "REU Sites",
+    "research opportunities",
+    "undergraduate students",
+    "interdisciplinary and multi-departmental",
+    "Geosciences Directorate",
+    "project duration",
+    "OCE REU participants",
+    "research mentors",
+    "OCE REU program",
+    "REU Supplements",
+    "Research Experiences for Teachers",
+    "K-12 teachers",
+    "diverse groups of students",
+    "REU projects",
+    "Research Experiences for Teachers (RET)",
+    "EPSCoR-eligible jurisdictions",
+    "minority-serving institutions",
+    "students from underrepresented groups",
+    "cyberinfrastructure",
+    "Department of Defense",
+    "ASSURE",
+    "Department of Energy",
+    "DOE funding",
+    "semiconductor research",
+    "Semiconductor Research Corporation",
+    "estimated number of awards",
+    "Standard Grant",
+    "Continuing Grant",
+    "Cooperative Agreement",
+    "unaffiliated individuals"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Other"
+    },
+    {
+      "text": "OCE Research Experiences for Undergraduates Sites",
+      "section": "Other"
+    },
+    {
+      "text": "OCE REU Sites",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Ocean Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "NSF-wide Research Experiences for Undergraduates solicitation",
+      "section": "Other"
+    },
+    {
+      "text": "REU Sites",
+      "section": "Other"
+    },
+    {
+      "text": "research opportunities",
+      "section": "Other"
+    },
+    {
+      "text": "undergraduate students",
+      "section": "Introduction"
+    },
+    {
+      "text": "interdisciplinary and multi-departmental",
+      "section": "Other"
+    },
+    {
+      "text": "Geosciences Directorate",
+      "section": "Other"
+    },
+    {
+      "text": "project duration",
+      "section": "Other"
+    },
+    {
+      "text": "OCE REU participants",
+      "section": "Other"
+    },
+    {
+      "text": "research mentors",
+      "section": "Other"
+    },
+    {
+      "text": "OCE REU program",
+      "section": "Other"
+    },
+    {
+      "text": "REU Supplements",
+      "section": "Introduction"
+    },
+    {
+      "text": "Research Experiences for Teachers",
+      "section": "Program Description"
+    },
+    {
+      "text": "K-12 teachers",
+      "section": "Program Description"
+    },
+    {
+      "text": "diverse groups of students",
+      "section": "Program Description"
+    },
+    {
+      "text": "REU projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Teachers (RET)",
+      "section": "Program Description"
+    },
+    {
+      "text": "EPSCoR-eligible jurisdictions",
+      "section": "Program Description"
+    },
+    {
+      "text": "minority-serving institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "students from underrepresented groups",
+      "section": "Program Description"
+    },
+    {
+      "text": "cyberinfrastructure",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Defense",
+      "section": "Program Description"
+    },
+    {
+      "text": "ASSURE",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Energy",
+      "section": "Program Description"
+    },
+    {
+      "text": "DOE funding",
+      "section": "Program Description"
+    },
+    {
+      "text": "semiconductor research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Semiconductor Research Corporation",
+      "section": "Program Description"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "unaffiliated individuals",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Semiconductor Research Corporation",
+        "source_text": "Semiconductor Research Corporation",
+        "confidence": 0.9
+      },
+      {
+        "tag": "undergraduate research experiences",
+        "source_text": "Research Experiences for Teachers",
+        "confidence": 0.6355
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "undergraduate students",
+        "source_text": "undergraduate students",
+        "confidence": 1.0,
+        "sources": [
+          "undergraduate students"
+        ]
+      },
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K-12 teachers",
+        "confidence": 1.0,
+        "sources": [
+          "K-12 teachers"
+        ]
+      },
+      {
+        "tag": "historically underserved students",
+        "source_text": "students from underrepresented groups",
+        "confidence": 0.7332,
+        "sources": [
+          "students from underrepresented groups"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "minority-serving institutions",
+        "confidence": 0.9479,
+        "sources": [
+          "minority-serving institutions"
+        ]
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR-eligible jurisdictions",
+        "confidence": 0.944,
+        "sources": [
+          "EPSCoR-eligible jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "Research experience is one of the most effective avenues for attracting students to and retaining them in science and engineering and for preparing them for careers in these fields. The REU program, through both Sites and Supplements, aims to provide appropriate and valuable educational experiences for undergraduate students through participation in research. REU projects involve students in meaningful ways in ongoing research programs or in research projects specifically designed for the REU program. REU projects feature high-quality interaction of students with faculty and/or other research mentors and access to appropriate facilities and professional development opportunities.",
+      "REU Sites are based on independent proposals, submitted for an annual deadline date, to initiate and conduct projects that engage a number of undergraduate students in research.",
+      "An REU Supplement typically provides support for one or two undergraduate students to participate in research as part of a new or ongoing NSF-funded research project. However, centers or large research efforts may request support for a number of students commensurate with the size and nature of the project. REU Supplements are supported by the various research programs throughout the Foundation, including programs such as Small Business Innovation Research (SBIR).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_oce_research_experiences_for_undergraduates_sites_oce_reu_sites.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf23-601/solicitation"
+  },
+  "document_title": "OCE Research Experiences for Undergraduates Sites (OCE REU Sites)"
+}

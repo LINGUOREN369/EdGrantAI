@@ -1,0 +1,234 @@
+{
+  "grant_id": "nsf_nsf_trailblazer_engineering_impact_award_trailblazer",
+  "created_at": "2025-12-30T01:26:54.806701-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "NSF Trailblazer Engineering Impact Award",
+    "TRAILBLAZER",
+    "Emerging Frontiers and Multidisciplinary Activities",
+    "EFMA",
+    "Directorate for Engineering",
+    "Emerging Frontiers in Research and Innovation",
+    "EFRI program",
+    "fundamental engineering research",
+    "novel research projects",
+    "national need",
+    "grand challenge",
+    "artificial intelligence",
+    "AI",
+    "bioengineering",
+    "quantum engineering",
+    "robotics",
+    "nuclear engineering",
+    "individual investigators",
+    "transformative research projects",
+    "PI eligibility criteria",
+    "U.S.",
+    "significant research problems",
+    "research excellence",
+    "team to conduct the proposed research activities",
+    "standard Grant",
+    "Continuing Grant",
+    "estimated number of awards",
+    "Institutions of Higher Education",
+    "IHEs",
+    "non-profit, non-academic organizations",
+    "tenured or tenure-eligible faculty appointment",
+    "Engineering Doctorate degree",
+    "substantial research responsibilities",
+    "single PI TRAILBLAZER proposals"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "NSF Trailblazer Engineering Impact Award",
+      "section": "Other"
+    },
+    {
+      "text": "TRAILBLAZER",
+      "section": "Other"
+    },
+    {
+      "text": "Emerging Frontiers and Multidisciplinary Activities",
+      "section": "Other"
+    },
+    {
+      "text": "EFMA",
+      "section": "Other"
+    },
+    {
+      "text": "Directorate for Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "Emerging Frontiers in Research and Innovation",
+      "section": "Introduction"
+    },
+    {
+      "text": "EFRI program",
+      "section": "Introduction"
+    },
+    {
+      "text": "fundamental engineering research",
+      "section": "Introduction"
+    },
+    {
+      "text": "novel research projects",
+      "section": "Other"
+    },
+    {
+      "text": "national need",
+      "section": "Other"
+    },
+    {
+      "text": "grand challenge",
+      "section": "Other"
+    },
+    {
+      "text": "artificial intelligence",
+      "section": "Other"
+    },
+    {
+      "text": "AI",
+      "section": "Other"
+    },
+    {
+      "text": "bioengineering",
+      "section": "Other"
+    },
+    {
+      "text": "quantum engineering",
+      "section": "Other"
+    },
+    {
+      "text": "robotics",
+      "section": "Other"
+    },
+    {
+      "text": "nuclear engineering",
+      "section": "Other"
+    },
+    {
+      "text": "individual investigators",
+      "section": "Other"
+    },
+    {
+      "text": "transformative research projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "PI eligibility criteria",
+      "section": "Introduction"
+    },
+    {
+      "text": "U.S.",
+      "section": "Introduction"
+    },
+    {
+      "text": "significant research problems",
+      "section": "Program Description"
+    },
+    {
+      "text": "research excellence",
+      "section": "Introduction"
+    },
+    {
+      "text": "team to conduct the proposed research activities",
+      "section": "Introduction"
+    },
+    {
+      "text": "standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "tenured or tenure-eligible faculty appointment",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Engineering Doctorate degree",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "substantial research responsibilities",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "single PI TRAILBLAZER proposals",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "research excellence",
+        "source_text": "research excellence",
+        "confidence": 0.9
+      },
+      {
+        "tag": "EFRI program",
+        "source_text": "EFRI program",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "United States",
+        "source_text": "U.S.",
+        "confidence": 1.0,
+        "sources": [
+          "U.S."
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-20"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-20, 2026-01-20",
+      "TRAILBLAZER is not intended to expand a current research program into the proposed area of research. Projects that are extensions of ongoing or previous research are not eligible.",
+      "Full Proposals: For proposals submitted via Research.gov, PAPPG guidelines apply. For proposals submitted via Grants.gov, NSF Grants.gov Application Guide guidelines apply.",
+      "An eligible Principal Investigator may submit only one TRAILBLAZER proposal in response to this solicitation. If an individual is listed as PI on more than one proposal submitted in response to this solicitation, all proposals submitted after the first one will be returned without review. No co-PIs are permitted for either the preliminary proposal or full proposal submission."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_trailblazer_engineering_impact_award_trailblazer.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/trailblazer-nsf-trailblazer-engineering-impact-award/nsf26-502/solicitation"
+  },
+  "document_title": "NSF Trailblazer Engineering Impact Award (TRAILBLAZER)"
+}

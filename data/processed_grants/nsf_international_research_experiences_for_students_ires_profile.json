@@ -1,0 +1,231 @@
+{
+  "grant_id": "nsf_international_research_experiences_for_students_ires",
+  "created_at": "2025-12-30T00:54:21.962698-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "International Research Experiences for Students",
+    "IRES program",
+    "U.S. science and engineering students",
+    "active research participation",
+    "high quality international research",
+    "education and professional development experiences",
+    "world-class U.S. STEM workforce",
+    "K-12 teachers",
+    "NSF Research Experience for Teachers",
+    "global STEM students",
+    "scientific research",
+    "professional development activities",
+    "international sites",
+    "U.S. economic competitiveness",
+    "globally competitive and diverse scientific workforce",
+    "scientific research theme",
+    "cohort experience",
+    "graduate students",
+    "undergraduate students",
+    "IRES awards",
+    "IRES projects",
+    "foreign research mentors",
+    "virtual, hybrid or other alternative approaches",
+    "high-quality collaborative research",
+    "broadening participation in STEM",
+    "Research Experiences for Teachers",
+    "non-profit, non-academic organizations",
+    "Institutions of Higher Education",
+    "two- and four-year IHEs",
+    "U.S. based organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "International Research Experiences for Students",
+      "section": "Other"
+    },
+    {
+      "text": "IRES program",
+      "section": "Other"
+    },
+    {
+      "text": "U.S. science and engineering students",
+      "section": "Other"
+    },
+    {
+      "text": "active research participation",
+      "section": "Other"
+    },
+    {
+      "text": "high quality international research",
+      "section": "Other"
+    },
+    {
+      "text": "education and professional development experiences",
+      "section": "Other"
+    },
+    {
+      "text": "world-class U.S. STEM workforce",
+      "section": "Other"
+    },
+    {
+      "text": "K-12 teachers",
+      "section": "Introduction"
+    },
+    {
+      "text": "NSF Research Experience for Teachers",
+      "section": "Introduction"
+    },
+    {
+      "text": "global STEM students",
+      "section": "Other"
+    },
+    {
+      "text": "scientific research",
+      "section": "Introduction"
+    },
+    {
+      "text": "professional development activities",
+      "section": "Introduction"
+    },
+    {
+      "text": "international sites",
+      "section": "Introduction"
+    },
+    {
+      "text": "U.S. economic competitiveness",
+      "section": "Introduction"
+    },
+    {
+      "text": "globally competitive and diverse scientific workforce",
+      "section": "Introduction"
+    },
+    {
+      "text": "scientific research theme",
+      "section": "Program Description"
+    },
+    {
+      "text": "cohort experience",
+      "section": "Program Description"
+    },
+    {
+      "text": "graduate students",
+      "section": "Other"
+    },
+    {
+      "text": "undergraduate students",
+      "section": "Other"
+    },
+    {
+      "text": "IRES awards",
+      "section": "Other"
+    },
+    {
+      "text": "IRES projects",
+      "section": "Other"
+    },
+    {
+      "text": "foreign research mentors",
+      "section": "Program Description"
+    },
+    {
+      "text": "virtual, hybrid or other alternative approaches",
+      "section": "Other"
+    },
+    {
+      "text": "high-quality collaborative research",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation in STEM",
+      "section": "Other"
+    },
+    {
+      "text": "Research Experiences for Teachers",
+      "section": "Program Description"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S. based organizations",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "foreign research mentors",
+        "source_text": "foreign research mentors",
+        "confidence": 0.9
+      },
+      {
+        "tag": "cohort experience",
+        "source_text": "cohort experience",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K-12 teachers",
+        "confidence": 1.0,
+        "sources": [
+          "K-12 teachers"
+        ]
+      },
+      {
+        "tag": "graduate students",
+        "source_text": "graduate students",
+        "confidence": 1.0,
+        "sources": [
+          "graduate students"
+        ]
+      },
+      {
+        "tag": "undergraduate students",
+        "source_text": "undergraduate students",
+        "confidence": 1.0,
+        "sources": [
+          "undergraduate students"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-10-26"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-10-26, 2026-10-26",
+      "OISE realizes that the IRES program's goals can be achieved in many different ways, Hence, in addition to the IRES Sites model of faculty-led student cohorts performing scientific research under the mentorship of a foreign researcher, the IRES program welcomes proposals with creative, innovative, and ambitious ideas and concepts to address the IRES goals and objectives. These may include but are not limited to fundamentally new ways to prepare and train a globally-engaged STEM research workforce; relevant workshops; advanced studies institutes for graduate students and/or science teachers; original concepts and mechanisms to maximize impact of the international collaborations; ideas, platforms, or technologies leading to resilient enduring collaborative teams or networks; virtual/hybrid research-relevant events; extended pre-and post-trip activities using virtual collaboration platforms; creative ways to incorporate graduate students into the program even if they cannot travel for the entire duration of the project; or other well-designed activities developed by the PI team. PIs interested in submitting such proposals should contact the cognizant IRES Program Directors with a 2-page white paper to discuss appropriateness of the proposed activities and feasibility of the required budget before developing the full proposal.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_international_research_experiences_for_students_ires.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ires-international-research-experiences-students/nsf24-506/solicitation"
+  },
+  "document_title": "International Research Experiences for Students (IRES)"
+}

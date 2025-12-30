@@ -1,0 +1,415 @@
+{
+  "grant_id": "nsf_structure_and_physics_of_the_solid_earth_spse",
+  "created_at": "2025-12-30T01:55:22.754810-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Structure and Physics of the Solid Earth Program",
+    "Division of Earth Sciences",
+    "Directorate for Geosciences",
+    "fundamental knowledge",
+    "dynamical processes",
+    "geohazards",
+    "temporal and spatial scales",
+    "Earth's core",
+    "structural geology",
+    "tectonics",
+    "geophysics",
+    "natural hazards",
+    "earthquakes",
+    "mass flows",
+    "physical processes",
+    "continental lithosphere",
+    "faulting",
+    "subduction",
+    "rift",
+    "mountain-building processes",
+    "Earth materials",
+    "tectonic processes",
+    "geophysical processes",
+    "mantle structure",
+    "geodynamo",
+    "Earth\u2019s magnetic field",
+    "global processes",
+    "planetary-scale processes",
+    "Earth\u2019s heat budget",
+    "plate tectonics",
+    "geodesy",
+    "geodynamics",
+    "geomagnetism",
+    "heat flow",
+    "mineral physics",
+    "potential fields",
+    "seismology",
+    "rock structure",
+    "rock deformation",
+    "interdisciplinary approaches",
+    "multidisciplinary approaches",
+    "international collaboration",
+    "Geoscience Lessons for and from Other Worlds",
+    "collaborative projects",
+    "community experiments",
+    "broader impacts activities",
+    "broadening participation in the geosciences",
+    "scientific infrastructure enhancement",
+    "public engagement",
+    "partnerships with industry",
+    "government",
+    "academic institutions",
+    "international institutions",
+    "Faculty Early Career Development Program",
+    "Research Coordination Networks",
+    "EMpowering BRoader Academic Capacity and Education Program",
+    "Mid-Career Advancement solicitations",
+    "Rapid Response Research",
+    "EArly-concept Grants for Exploratory Research",
+    "Planning",
+    "Conference proposal requests",
+    "standard grant",
+    "continuing grant",
+    "estimated number of awards",
+    "Institutions of Higher Education",
+    "community colleges",
+    "non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Structure and Physics of the Solid Earth Program",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Earth Sciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "Directorate for Geosciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "fundamental knowledge",
+      "section": "Other"
+    },
+    {
+      "text": "dynamical processes",
+      "section": "Other"
+    },
+    {
+      "text": "geohazards",
+      "section": "Other"
+    },
+    {
+      "text": "temporal and spatial scales",
+      "section": "Other"
+    },
+    {
+      "text": "Earth's core",
+      "section": "Other"
+    },
+    {
+      "text": "structural geology",
+      "section": "Other"
+    },
+    {
+      "text": "tectonics",
+      "section": "Other"
+    },
+    {
+      "text": "geophysics",
+      "section": "Other"
+    },
+    {
+      "text": "natural hazards",
+      "section": "Other"
+    },
+    {
+      "text": "earthquakes",
+      "section": "Other"
+    },
+    {
+      "text": "mass flows",
+      "section": "Other"
+    },
+    {
+      "text": "physical processes",
+      "section": "Program Description"
+    },
+    {
+      "text": "continental lithosphere",
+      "section": "Program Description"
+    },
+    {
+      "text": "faulting",
+      "section": "Program Description"
+    },
+    {
+      "text": "subduction",
+      "section": "Program Description"
+    },
+    {
+      "text": "rift",
+      "section": "Program Description"
+    },
+    {
+      "text": "mountain-building processes",
+      "section": "Program Description"
+    },
+    {
+      "text": "Earth materials",
+      "section": "Program Description"
+    },
+    {
+      "text": "tectonic processes",
+      "section": "Other"
+    },
+    {
+      "text": "geophysical processes",
+      "section": "Program Description"
+    },
+    {
+      "text": "mantle structure",
+      "section": "Program Description"
+    },
+    {
+      "text": "geodynamo",
+      "section": "Program Description"
+    },
+    {
+      "text": "Earth\u2019s magnetic field",
+      "section": "Program Description"
+    },
+    {
+      "text": "global processes",
+      "section": "Other"
+    },
+    {
+      "text": "planetary-scale processes",
+      "section": "Program Description"
+    },
+    {
+      "text": "Earth\u2019s heat budget",
+      "section": "Program Description"
+    },
+    {
+      "text": "plate tectonics",
+      "section": "Program Description"
+    },
+    {
+      "text": "geodesy",
+      "section": "Program Description"
+    },
+    {
+      "text": "geodynamics",
+      "section": "Program Description"
+    },
+    {
+      "text": "geomagnetism",
+      "section": "Program Description"
+    },
+    {
+      "text": "heat flow",
+      "section": "Program Description"
+    },
+    {
+      "text": "mineral physics",
+      "section": "Program Description"
+    },
+    {
+      "text": "potential fields",
+      "section": "Program Description"
+    },
+    {
+      "text": "seismology",
+      "section": "Program Description"
+    },
+    {
+      "text": "rock structure",
+      "section": "Program Description"
+    },
+    {
+      "text": "rock deformation",
+      "section": "Program Description"
+    },
+    {
+      "text": "interdisciplinary approaches",
+      "section": "Other"
+    },
+    {
+      "text": "multidisciplinary approaches",
+      "section": "Program Description"
+    },
+    {
+      "text": "international collaboration",
+      "section": "Program Description"
+    },
+    {
+      "text": "Geoscience Lessons for and from Other Worlds",
+      "section": "Program Description"
+    },
+    {
+      "text": "collaborative projects",
+      "section": "Introduction"
+    },
+    {
+      "text": "community experiments",
+      "section": "Program Description"
+    },
+    {
+      "text": "broader impacts activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "broadening participation in the geosciences",
+      "section": "Program Description"
+    },
+    {
+      "text": "scientific infrastructure enhancement",
+      "section": "Program Description"
+    },
+    {
+      "text": "public engagement",
+      "section": "Program Description"
+    },
+    {
+      "text": "partnerships with industry",
+      "section": "Program Description"
+    },
+    {
+      "text": "government",
+      "section": "Program Description"
+    },
+    {
+      "text": "academic institutions",
+      "section": "Other"
+    },
+    {
+      "text": "international institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Faculty Early Career Development Program",
+      "section": "Other"
+    },
+    {
+      "text": "Research Coordination Networks",
+      "section": "Program Description"
+    },
+    {
+      "text": "EMpowering BRoader Academic Capacity and Education Program",
+      "section": "Other"
+    },
+    {
+      "text": "Mid-Career Advancement solicitations",
+      "section": "Other"
+    },
+    {
+      "text": "Rapid Response Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "EArly-concept Grants for Exploratory Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Planning",
+      "section": "Program Description"
+    },
+    {
+      "text": "Conference proposal requests",
+      "section": "Program Description"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "broadening participation in the geosciences",
+        "confidence": 0.7626
+      },
+      {
+        "tag": "physical processes",
+        "source_text": "physical processes",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "industry partner",
+        "source_text": "partnerships with industry",
+        "confidence": 0.7316,
+        "sources": [
+          "partnerships with industry"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "Synopsis: The Structure and Physics of the Solid Earth Program (SPSE) aims to advance fundamental knowledge about the ongoing dynamical processes over the age of the Earth that evolve the structure of planet Earth and underpin geohazards. SPSE supports research at all temporal and spatial scales, from the Earth's core to its crust. Through laboratory, field, theoretical, and computational studies, the program encompasses a wide range of disciplines including structural geology, tectonics, and geophysics. Research in these areas can help improve our understanding of natural hazards including earthquakes and mass flows, as well as Earth\u2019s formation and its magnetic field.",
+      "The Structure and Physics of the Solid Earth Program aims to advance fundamental knowledge about the ongoing dynamical processes over the age of the Earth that evolve the structure of planet Earth and underpin geohazards. SPSE supports research at all temporal and spatial scales, from the Earth's core to its lithosphere, encompassing a wide range of disciplines including structural geology, tectonics, and geophysics.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_structure_and_physics_of_the_solid_earth_spse.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/spse-structure-physics-solid-earth/nsf25-518/solicitation"
+  },
+  "document_title": "Structure and Physics of the Solid Earth (SPSE)"
+}

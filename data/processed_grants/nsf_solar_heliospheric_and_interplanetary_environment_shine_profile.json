@@ -1,0 +1,161 @@
+{
+  "grant_id": "nsf_solar_heliospheric_and_interplanetary_environment_shine",
+  "created_at": "2025-12-30T01:53:14.205103-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Solar, Heliospheric, and INterplanetary Environment",
+    "SHINE",
+    "Solar-Terrestrial Research program",
+    "Geospace Section",
+    "Division of Atmospheric and Geospace Sciences",
+    "National Science Foundation",
+    "solar and geospace researchers",
+    "under-represented groups in STEM",
+    "SHINE research",
+    "solar wind structures",
+    "inner heliosphere",
+    "geospace",
+    "National Space Weather Program",
+    "Inter-disciplinary SHINE science",
+    "Connections of the heliosphere with Earth's climate",
+    "machine learning/artificial intelligence techniques",
+    "Big Bear Solar Observatory",
+    "Expanded Owens Valley Array",
+    "Simpson Neutron Monitor",
+    "ground-based telescopes",
+    "Standard Grant",
+    "Continuing Grant",
+    "10 to 15 annually",
+    "unauthenticated individuals"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Solar, Heliospheric, and INterplanetary Environment",
+      "section": "Other"
+    },
+    {
+      "text": "SHINE",
+      "section": "Other"
+    },
+    {
+      "text": "Solar-Terrestrial Research program",
+      "section": "Introduction"
+    },
+    {
+      "text": "Geospace Section",
+      "section": "Introduction"
+    },
+    {
+      "text": "Division of Atmospheric and Geospace Sciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Introduction"
+    },
+    {
+      "text": "solar and geospace researchers",
+      "section": "Introduction"
+    },
+    {
+      "text": "under-represented groups in STEM",
+      "section": "Introduction"
+    },
+    {
+      "text": "SHINE research",
+      "section": "Program Description"
+    },
+    {
+      "text": "solar wind structures",
+      "section": "Program Description"
+    },
+    {
+      "text": "inner heliosphere",
+      "section": "Other"
+    },
+    {
+      "text": "geospace",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Space Weather Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Inter-disciplinary SHINE science",
+      "section": "Program Description"
+    },
+    {
+      "text": "Connections of the heliosphere with Earth's climate",
+      "section": "Program Description"
+    },
+    {
+      "text": "machine learning/artificial intelligence techniques",
+      "section": "Program Description"
+    },
+    {
+      "text": "Big Bear Solar Observatory",
+      "section": "Program Description"
+    },
+    {
+      "text": "Expanded Owens Valley Array",
+      "section": "Program Description"
+    },
+    {
+      "text": "Simpson Neutron Monitor",
+      "section": "Program Description"
+    },
+    {
+      "text": "ground-based telescopes",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "10 to 15 annually",
+      "section": "Award Information"
+    },
+    {
+      "text": "unauthenticated individuals",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "National Space Weather Program",
+        "source_text": "National Space Weather Program",
+        "confidence": 0.9
+      },
+      {
+        "tag": "SHINE research",
+        "source_text": "SHINE research",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_solar_heliospheric_and_interplanetary_environment_shine.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/shine-solar-heliospheric-interplanetary-environment/nsf22-570/solicitation"
+  },
+  "document_title": "Solar, Heliospheric, and INterplanetary Environment (SHINE)"
+}

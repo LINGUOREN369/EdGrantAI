@@ -1,0 +1,200 @@
+{
+  "grant_id": "nsf_natural_hazards_engineering_research_infrastructure_nheri",
+  "created_at": "2025-12-30T01:13:10.629214-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Natural Hazards Engineering Research Infrastructure",
+    "NHERI",
+    "Network Coordination Office",
+    "Computational Modeling and Simulation Center",
+    "Post-Disaster, Rapid Response Research Facility",
+    "Cyberinfrastructure",
+    "Experimental Facility",
+    "earthquake engineering",
+    "wind engineering",
+    "education and community outreach activities",
+    "multi-hazard resilient",
+    "sustainable civil infrastructure",
+    "academic institutions",
+    "Universities and Colleges",
+    "two- and four-year colleges",
+    "community colleges",
+    "Network Coordination Office (NCO)",
+    "Computational Modeling and Simulation Center (SimCenter)",
+    "Post-Disaster, Rapid Response Research (RAPID) Facility",
+    "National Science Foundation",
+    "Governance",
+    "Council of Awardees",
+    "neighborhood impacts",
+    "National Earthquake Hazards Reduction Program",
+    "National Windstorm Impact Reduction Program",
+    "cooperative agreement"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Natural Hazards Engineering Research Infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "NHERI",
+      "section": "Other"
+    },
+    {
+      "text": "Network Coordination Office",
+      "section": "Other"
+    },
+    {
+      "text": "Computational Modeling and Simulation Center",
+      "section": "Other"
+    },
+    {
+      "text": "Post-Disaster, Rapid Response Research Facility",
+      "section": "Introduction"
+    },
+    {
+      "text": "Cyberinfrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "Experimental Facility",
+      "section": "Other"
+    },
+    {
+      "text": "earthquake engineering",
+      "section": "Other"
+    },
+    {
+      "text": "wind engineering",
+      "section": "Other"
+    },
+    {
+      "text": "education and community outreach activities",
+      "section": "Other"
+    },
+    {
+      "text": "multi-hazard resilient",
+      "section": "Program Description"
+    },
+    {
+      "text": "sustainable civil infrastructure",
+      "section": "Program Description"
+    },
+    {
+      "text": "academic institutions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Universities and Colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two- and four-year colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Network Coordination Office (NCO)",
+      "section": "Other"
+    },
+    {
+      "text": "Computational Modeling and Simulation Center (SimCenter)",
+      "section": "Other"
+    },
+    {
+      "text": "Post-Disaster, Rapid Response Research (RAPID) Facility",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "Governance",
+      "section": "Other"
+    },
+    {
+      "text": "Council of Awardees",
+      "section": "Program Description"
+    },
+    {
+      "text": "neighborhood impacts",
+      "section": "Other"
+    },
+    {
+      "text": "National Earthquake Hazards Reduction Program",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Windstorm Impact Reduction Program",
+      "section": "Introduction"
+    },
+    {
+      "text": "cooperative agreement",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "sustainable civil infrastructure",
+        "source_text": "sustainable civil infrastructure",
+        "confidence": 0.9
+      },
+      {
+        "tag": "multi-hazard resilient",
+        "source_text": "multi-hazard resilient",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "two-year college",
+        "source_text": "two- and four-year colleges",
+        "confidence": 0.7665,
+        "sources": [
+          "two- and four-year colleges"
+        ]
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "A full proposal involving more than one organization must be submitted as a single administrative package from the lead institution; collaborative full proposals with multiple administrative packages will not be accepted and will be returned without review. If the Principal Investigator of a full proposal leaves or transfers to another institution during the review process or after an award is made, the proposal/award remains with the lead institution. Additionally, the lead institution cannot be changed after submission of the full proposal. National laboratories and private sector companies, as well as non-U.S. institutions, may participate in NHERI award activities using their own resources and cannot receive NSF support from an award made under this solicitation; however, this shall not be interpreted to prohibit purchases, services, or sales contracts/agreements with these entities. A proposal for the RAPID Facility must have all facility resources owned, operated, and maintained by the lead institution and located within the United States to facilitate access by NSF-supported users.",
+      "An individual may appear as Principal Investigator (PI) or co-PI in no more than one full proposal. Applicants are responsible for ensuring that no individual is listed as PI or co-PI in more than one proposal. If an individual is included as PI or co-PI in two or more proposals submitted by the full proposal deadline, then the first proposal submitted, based on the FastLane system time stamp, will be deemed the one allowable submission. All subsequent proposals that include the individual as PI or co-PI will be returned without review.",
+      "Full Proposals: Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide, Part I: Grant Proposal Guide (GPG) Guidelines apply. The complete text of the GPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=gpg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov Guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )",
+      "Full Proposals:",
+      "Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide, Part I: Grant Proposal Guide (GPG) Guidelines apply. The complete text of the GPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=gpg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov Guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )"
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_natural_hazards_engineering_research_infrastructure_nheri.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/nheri-natural-hazards-engineering-research-infrastructure/nsf15-598/solicitation"
+  },
+  "document_title": "Natural Hazards Engineering Research Infrastructure (NHERI)"
+}

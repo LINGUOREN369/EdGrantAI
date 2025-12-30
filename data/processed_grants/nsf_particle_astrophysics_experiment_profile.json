@@ -1,0 +1,107 @@
+{
+  "grant_id": "nsf_particle_astrophysics_experiment",
+  "created_at": "2025-12-30T01:31:41.038124-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Particle Astrophysics",
+    "Division of Physics",
+    "Investigator-Initiated Research Projects",
+    "Particle Astrophysics \u2013 Cosmic Phenomena",
+    "Particle Astrophysics \u2013 Underground Physics",
+    "Particle Astrophysics \u2013 IceCube Research Support",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "For-profit organizations",
+    "State and Local Governments",
+    "Tribal Governments",
+    "Foreign organizations",
+    "Other Federal Agencies and Federally Funded Research and Development Centers"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Particle Astrophysics",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Investigator-Initiated Research Projects",
+      "section": "Other"
+    },
+    {
+      "text": "Particle Astrophysics \u2013 Cosmic Phenomena",
+      "section": "Other"
+    },
+    {
+      "text": "Particle Astrophysics \u2013 Underground Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Particle Astrophysics \u2013 IceCube Research Support",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "For-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Foreign organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Other Federal Agencies and Federally Funded Research and Development Centers",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_particle_astrophysics_experiment.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation"
+  },
+  "document_title": "Particle Astrophysics - Experiment"
+}

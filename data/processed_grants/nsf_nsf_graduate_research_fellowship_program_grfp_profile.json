@@ -1,0 +1,235 @@
+{
+  "grant_id": "nsf_nsf_graduate_research_fellowship_program_grfp",
+  "created_at": "2025-12-30T01:19:07.202134-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "NSF Graduate Research Fellowship Program",
+    "graduate students",
+    "STEM education",
+    "fellowships",
+    "U.S. National Science Foundation-wide program",
+    "support outstanding graduate students",
+    "master's and doctoral degrees",
+    "demonstrated potential for significant research achievements",
+    "full spectrum of U.S. talent",
+    "Graduate Research Fellowship Program",
+    "research-based master's or doctoral degree",
+    "participation in science and engineering",
+    "graduate study",
+    "accredited, non-profit institution of higher education",
+    "United States",
+    "Graduate Research Fellowships",
+    "high-priority research areas",
+    "Estimated Number of Awards",
+    "fellowship period",
+    "fellowship funds",
+    "Detailed Eligibility Requirements",
+    "U.S. citizen",
+    "permanent resident",
+    "eligible research-based master's or doctoral degree program",
+    "eligibility requirements",
+    "Undergraduate in the final year",
+    "Bachelor\u2019s degree-holder",
+    "first-year graduate student",
+    "current NSF employee",
+    "Number of Times an Individual May Apply",
+    "Limit on Number of Applications per Applicant",
+    "Annual competition"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "NSF Graduate Research Fellowship Program",
+      "section": "Other"
+    },
+    {
+      "text": "graduate students",
+      "section": "Other"
+    },
+    {
+      "text": "STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "fellowships",
+      "section": "Introduction"
+    },
+    {
+      "text": "U.S. National Science Foundation-wide program",
+      "section": "Introduction"
+    },
+    {
+      "text": "support outstanding graduate students",
+      "section": "Other"
+    },
+    {
+      "text": "master's and doctoral degrees",
+      "section": "Other"
+    },
+    {
+      "text": "demonstrated potential for significant research achievements",
+      "section": "Introduction"
+    },
+    {
+      "text": "full spectrum of U.S. talent",
+      "section": "Introduction"
+    },
+    {
+      "text": "Graduate Research Fellowship Program",
+      "section": "Other"
+    },
+    {
+      "text": "research-based master's or doctoral degree",
+      "section": "Introduction"
+    },
+    {
+      "text": "participation in science and engineering",
+      "section": "Introduction"
+    },
+    {
+      "text": "graduate study",
+      "section": "Introduction"
+    },
+    {
+      "text": "accredited, non-profit institution of higher education",
+      "section": "Program Description"
+    },
+    {
+      "text": "United States",
+      "section": "Other"
+    },
+    {
+      "text": "Graduate Research Fellowships",
+      "section": "Program Description"
+    },
+    {
+      "text": "high-priority research areas",
+      "section": "Program Description"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "fellowship period",
+      "section": "Award Information"
+    },
+    {
+      "text": "fellowship funds",
+      "section": "Award Information"
+    },
+    {
+      "text": "Detailed Eligibility Requirements",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S. citizen",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "permanent resident",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "eligible research-based master's or doctoral degree program",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "eligibility requirements",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Undergraduate in the final year",
+      "section": "Other"
+    },
+    {
+      "text": "Bachelor\u2019s degree-holder",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "first-year graduate student",
+      "section": "Introduction"
+    },
+    {
+      "text": "current NSF employee",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Number of Times an Individual May Apply",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Applications per Applicant",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Annual competition",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Graduate Research Fellowships",
+        "source_text": "Graduate Research Fellowships",
+        "confidence": 0.9
+      },
+      {
+        "tag": "demonstrated potential for significant research achievements",
+        "source_text": "demonstrated potential for significant research achievements",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "graduate students",
+        "source_text": "graduate students",
+        "confidence": 1.0,
+        "sources": [
+          "graduate students",
+          "support outstanding graduate students",
+          "graduate study",
+          "first-year graduate student"
+        ]
+      },
+      {
+        "tag": "undergraduate students",
+        "source_text": "Undergraduate in the final year",
+        "confidence": 0.6198,
+        "sources": [
+          "Undergraduate in the final year"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "nonprofit",
+        "source_text": "accredited, non-profit institution of higher education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "United States",
+        "source_text": "United States",
+        "confidence": 1.0,
+        "sources": [
+          "United States"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Have declined any previously offered Graduate Research Fellowship by the declination deadline (if applicable);",
+      "Eligibility is based on the applicant\u2019s status at the application deadline, and at the time of acceptance if offered a Fellowship."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_graduate_research_fellowship_program_grfp.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation"
+  },
+  "document_title": "NSF Graduate Research Fellowship Program (GRFP)"
+}

@@ -1,12 +1,10 @@
 {
   "grant_id": "nsf_advanced_technologies_and_instrumentation_for_the_astronomical_sciences_ati",
-  "created_at": "2025-12-28T21:01:44.246632-05:00",
+  "created_at": "2025-12-28T21:25:25.000913-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "Advanced Technologies and Instrumentation for the Astronomical Sciences",
-    "ATI program",
     "Division of Astronomical Sciences",
-    "federal funding support",
     "ground-based astronomy",
     "National Optical-Infrared Astronomy Research Laboratory",
     "National Solar Observatory",
@@ -18,79 +16,252 @@
     "Gemini Observatory",
     "Atacama Large Millimeter/submillimeter Array",
     "advanced technologies and instrumentation",
-    "mid-scale projects",
+    "individual investigator and collaborative research grants",
+    "advanced technology development",
+    "concept feasibility studies",
+    "broad range of activities",
     "observational facilities",
-    "management of the electromagnetic spectrum",
-    "individual investigators",
-    "small groups",
-    "observational studies",
-    "theoretical studies",
-    "laboratory studies",
-    "archival data studies",
+    "research programs",
     "junior faculty",
     "postdoctoral fellows",
     "undergraduate students",
+    "Collaborative Research Grants",
+    "technology and instrument development projects",
+    "Observing at wavelengths",
+    "electromagnetic interference",
+    "Proposals to this program",
+    "annual Principal Investigators meeting",
     "Research in Undergraduate Institutions",
     "Computational and Data Enabled Science and Engineering",
-    "CDS&E proposals",
-    "Principal Investigators",
+    "Faculty Early Career Development",
+    "Major Research Instrumentation",
+    "Mid-Scale Innovations Program",
+    "Astronomy and Astrophysics Grants",
     "Research Experiences for Undergraduates",
     "Research Opportunity Awards",
     "Research Experiences for Teachers",
     "Alliances for Graduate Education and the Professoriate",
-    "Astrophotonics",
-    "National Science Foundation",
-    "Instrumentation",
-    "high contrast adaptive optics systems",
-    "extreme-precision radial velocity techniques",
-    "high resolution spectrometers",
-    "interferometers",
-    "massively multiplexed spectroscopy techniques",
-    "imaging detectors",
-    "telescopes",
-    "antennae",
-    "optics",
-    "optical devices",
-    "correlators",
-    "elements of radio cameras",
-    "Accomplishment-Based Renewal proposals",
-    "solicitation",
-    "annual Principal Investigators meeting",
-    "technology and instrumentation",
-    "U.S. astronomical community",
-    "research programs",
-    "development of new technologies",
-    "ground based astronomy",
-    "support for advanced technology development",
-    "concept feasibility studies"
+    "supplemental funding requests",
+    "community coordination",
+    "Supplemental Funding Requests",
+    "conferences, symposia, and workshops",
+    "National Aeronautics and Space Administration",
+    "Standard Grant",
+    "Continuing Grant",
+    "Estimated Number of Awards",
+    "Unaffiliated individuals",
+    "Limit on Number of Proposals per Organization",
+    "Limit on Number of Proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Advanced Technologies and Instrumentation for the Astronomical Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Astronomical Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "ground-based astronomy",
+      "section": "Other"
+    },
+    {
+      "text": "National Optical-Infrared Astronomy Research Laboratory",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Solar Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "Daniel K. Inouye Solar Telescope",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Radio Astronomy Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "Green Bank Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "Arecibo Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "Vera Rubin Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "Gemini Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "Atacama Large Millimeter/submillimeter Array",
+      "section": "Introduction"
+    },
+    {
+      "text": "advanced technologies and instrumentation",
+      "section": "Introduction"
+    },
+    {
+      "text": "individual investigator and collaborative research grants",
+      "section": "Other"
+    },
+    {
+      "text": "advanced technology development",
+      "section": "Other"
+    },
+    {
+      "text": "concept feasibility studies",
+      "section": "Other"
+    },
+    {
+      "text": "broad range of activities",
+      "section": "Introduction"
+    },
+    {
+      "text": "observational facilities",
+      "section": "Introduction"
+    },
+    {
+      "text": "research programs",
+      "section": "Introduction"
+    },
+    {
+      "text": "junior faculty",
+      "section": "Introduction"
+    },
+    {
+      "text": "postdoctoral fellows",
+      "section": "Introduction"
+    },
+    {
+      "text": "undergraduate students",
+      "section": "Introduction"
+    },
+    {
+      "text": "Collaborative Research Grants",
+      "section": "Other"
+    },
+    {
+      "text": "technology and instrument development projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "Observing at wavelengths",
+      "section": "Program Description"
+    },
+    {
+      "text": "electromagnetic interference",
+      "section": "Program Description"
+    },
+    {
+      "text": "Proposals to this program",
+      "section": "Program Description"
+    },
+    {
+      "text": "annual Principal Investigators meeting",
+      "section": "Other"
+    },
+    {
+      "text": "Research in Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Computational and Data Enabled Science and Engineering",
+      "section": "Program Description"
+    },
+    {
+      "text": "Faculty Early Career Development",
+      "section": "Program Description"
+    },
+    {
+      "text": "Major Research Instrumentation",
+      "section": "Program Description"
+    },
+    {
+      "text": "Mid-Scale Innovations Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Astronomy and Astrophysics Grants",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Opportunity Awards",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Teachers",
+      "section": "Program Description"
+    },
+    {
+      "text": "Alliances for Graduate Education and the Professoriate",
+      "section": "Program Description"
+    },
+    {
+      "text": "supplemental funding requests",
+      "section": "Program Description"
+    },
+    {
+      "text": "community coordination",
+      "section": "Program Description"
+    },
+    {
+      "text": "Supplemental Funding Requests",
+      "section": "Program Description"
+    },
+    {
+      "text": "conferences, symposia, and workshops",
+      "section": "Program Description"
+    },
+    {
+      "text": "National Aeronautics and Space Administration",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Unaffiliated individuals",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per Organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "undergraduate research experiences",
-        "source_text": "Research in Undergraduate Institutions",
-        "confidence": 0.6894,
-        "sources": [
-          "undergraduate students",
-          "Research in Undergraduate Institutions",
-          "Research Experiences for Teachers"
-        ]
+        "tag": "advanced technologies and instrumentation",
+        "source_text": "advanced technologies and instrumentation",
+        "confidence": 0.9
       },
       {
-        "tag": "undergraduate STEM education",
-        "source_text": "undergraduate students",
-        "confidence": 0.5945,
-        "sources": [
-          "undergraduate students"
-        ]
-      },
-      {
-        "tag": "undergraduate mentorship programs",
-        "source_text": "undergraduate students",
-        "confidence": 0.5732,
-        "sources": [
-          "undergraduate students"
-        ]
+        "tag": "Major Research Instrumentation",
+        "source_text": "Major Research Instrumentation",
+        "confidence": 0.9
       }
     ],
     "population_tags": [
@@ -113,7 +284,13 @@
     ],
     "org_type_tags": [],
     "geography_tags": [],
-    "red_flag_tags": []
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per Organization",
+        "confidence": 1.0
+      }
+    ]
   },
   "deadline": {
     "status": "date",
@@ -131,5 +308,6 @@
   "source": {
     "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_advanced_technologies_and_instrumentation_for_the_astronomical_sciences_ati.txt",
     "url": "https://www.nsf.gov/funding/opportunities/ati-advanced-technologies-instrumentation-astronomical-sciences/nsf22-627/solicitation"
-  }
+  },
+  "document_title": "Advanced Technologies and Instrumentation for the Astronomical Sciences (ATI)"
 }

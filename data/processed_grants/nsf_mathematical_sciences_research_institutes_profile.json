@@ -1,0 +1,203 @@
+{
+  "grant_id": "nsf_mathematical_sciences_research_institutes",
+  "created_at": "2025-12-30T01:05:09.392154-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Mathematical Sciences Research Institutes",
+    "Mathematical Sciences",
+    "research institutes",
+    "U.S.-based mathematical sciences researchers",
+    "advancing research in the mathematical sciences",
+    "impact of the mathematical sciences in other disciplines",
+    "talent base engaged in mathematical research in the United States",
+    "National Science Foundation",
+    "Division of Mathematical Sciences",
+    "DMS",
+    "research collaborations",
+    "interdisciplinary activities",
+    "opportunities for students and postdoctoral fellows",
+    "broad participation in the mathematical sciences enterprise",
+    "outreach to the scientific community",
+    "international collaborations",
+    "workforce development",
+    "Knowledge Dissemination and Outreach",
+    "evaluation and reporting",
+    "type of award",
+    "continuing grant",
+    "Institutions of Higher Education",
+    "IHEs",
+    "community colleges",
+    "Non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Mathematical Sciences Research Institutes",
+      "section": "Other"
+    },
+    {
+      "text": "Mathematical Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "research institutes",
+      "section": "Introduction"
+    },
+    {
+      "text": "U.S.-based mathematical sciences researchers",
+      "section": "Other"
+    },
+    {
+      "text": "advancing research in the mathematical sciences",
+      "section": "Other"
+    },
+    {
+      "text": "impact of the mathematical sciences in other disciplines",
+      "section": "Other"
+    },
+    {
+      "text": "talent base engaged in mathematical research in the United States",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Introduction"
+    },
+    {
+      "text": "Division of Mathematical Sciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "DMS",
+      "section": "Introduction"
+    },
+    {
+      "text": "research collaborations",
+      "section": "Introduction"
+    },
+    {
+      "text": "interdisciplinary activities",
+      "section": "Introduction"
+    },
+    {
+      "text": "opportunities for students and postdoctoral fellows",
+      "section": "Introduction"
+    },
+    {
+      "text": "broad participation in the mathematical sciences enterprise",
+      "section": "Introduction"
+    },
+    {
+      "text": "outreach to the scientific community",
+      "section": "Introduction"
+    },
+    {
+      "text": "international collaborations",
+      "section": "Introduction"
+    },
+    {
+      "text": "workforce development",
+      "section": "Program Description"
+    },
+    {
+      "text": "Knowledge Dissemination and Outreach",
+      "section": "Program Description"
+    },
+    {
+      "text": "evaluation and reporting",
+      "section": "Program Description"
+    },
+    {
+      "text": "type of award",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Introduction"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "research institutes",
+        "source_text": "research institutes",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Division of Mathematical Sciences",
+        "source_text": "Division of Mathematical Sciences",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "postdoctoral researchers",
+        "source_text": "opportunities for students and postdoctoral fellows",
+        "confidence": 0.6078,
+        "sources": [
+          "opportunities for students and postdoctoral fellows"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "Projects on the scale of Mathematical Sciences Research Institutes call for regular, ongoing evaluation to monitor and evaluate progress in meeting goals, to provide feedback, and to suggest potential changes and improvements. Mathematical Sciences Research Institute awards are subject to specific reporting requirements about the programmatic activities and the participants involved. In addition, proposals should describe plans for formative evaluation during the course of the institute activities and for summative evaluation of progress toward the institute's goals.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_mathematical_sciences_research_institutes.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/mathematical-sciences-research-institutes/nsf23-606/solicitation"
+  },
+  "document_title": "Mathematical Sciences Research Institutes"
+}

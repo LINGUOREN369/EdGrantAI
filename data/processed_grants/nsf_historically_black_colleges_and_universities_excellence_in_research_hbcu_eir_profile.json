@@ -1,0 +1,262 @@
+{
+  "grant_id": "nsf_historically_black_colleges_and_universities_excellence_in_research_hbcu_eir",
+  "created_at": "2025-12-30T00:43:44.434290-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Historically Black Colleges and Universities - Excellence in Research",
+    "HBCU-EiR",
+    "Senate Commerce and Justice, Science and Related Agencies Appropriations Subcommittee Report",
+    "Senate Report 115-139",
+    "National Science Foundation",
+    "research capacity",
+    "public and private HBCUs",
+    "NSF Research & Related Activities competitions",
+    "sustainable improvement",
+    "HBCU Excellence in Research program",
+    "funding research projects",
+    "NSF's research programs",
+    "researchers at HBCUs",
+    "HBCU-EiR funding opportunity",
+    "research in domains",
+    "NSF's core research programs",
+    "Office of Integrative Activities",
+    "core program directors",
+    "HBCU-EiR proposals",
+    "Letters of intent",
+    "interdisciplinary proposals",
+    "research instrumentation",
+    "HBCU-UP Research Initiation Awards",
+    "Research Initiation Awards track",
+    "HBCU-EiR mechanism",
+    "fields of science",
+    "technology",
+    "engineering",
+    "mathematics",
+    "education research",
+    "Standard Grant",
+    "Continuing Grant",
+    "Estimated Number of Awards",
+    "Historically Black Colleges and Universities",
+    "accredited Historically Black Colleges and Universities",
+    "STEM education",
+    "Principal Investigator",
+    "full-time faculty member",
+    "HBCU",
+    "maximum of 2 HBCU-EiR awards",
+    "submission of Letters of Intent"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Historically Black Colleges and Universities - Excellence in Research",
+      "section": "Other"
+    },
+    {
+      "text": "HBCU-EiR",
+      "section": "Other"
+    },
+    {
+      "text": "Senate Commerce and Justice, Science and Related Agencies Appropriations Subcommittee Report",
+      "section": "Other"
+    },
+    {
+      "text": "Senate Report 115-139",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "research capacity",
+      "section": "Other"
+    },
+    {
+      "text": "public and private HBCUs",
+      "section": "Other"
+    },
+    {
+      "text": "NSF Research & Related Activities competitions",
+      "section": "Other"
+    },
+    {
+      "text": "sustainable improvement",
+      "section": "Other"
+    },
+    {
+      "text": "HBCU Excellence in Research program",
+      "section": "Other"
+    },
+    {
+      "text": "funding research projects",
+      "section": "Other"
+    },
+    {
+      "text": "NSF's research programs",
+      "section": "Other"
+    },
+    {
+      "text": "researchers at HBCUs",
+      "section": "Other"
+    },
+    {
+      "text": "HBCU-EiR funding opportunity",
+      "section": "Introduction"
+    },
+    {
+      "text": "research in domains",
+      "section": "Program Description"
+    },
+    {
+      "text": "NSF's core research programs",
+      "section": "Program Description"
+    },
+    {
+      "text": "Office of Integrative Activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "core program directors",
+      "section": "Program Description"
+    },
+    {
+      "text": "HBCU-EiR proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Letters of intent",
+      "section": "Program Description"
+    },
+    {
+      "text": "interdisciplinary proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "research instrumentation",
+      "section": "Program Description"
+    },
+    {
+      "text": "HBCU-UP Research Initiation Awards",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Initiation Awards track",
+      "section": "Program Description"
+    },
+    {
+      "text": "HBCU-EiR mechanism",
+      "section": "Program Description"
+    },
+    {
+      "text": "fields of science",
+      "section": "Program Description"
+    },
+    {
+      "text": "technology",
+      "section": "Program Description"
+    },
+    {
+      "text": "engineering",
+      "section": "Program Description"
+    },
+    {
+      "text": "mathematics",
+      "section": "Program Description"
+    },
+    {
+      "text": "education research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Historically Black Colleges and Universities",
+      "section": "Other"
+    },
+    {
+      "text": "accredited Historically Black Colleges and Universities",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "STEM education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "full-time faculty member",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "HBCU",
+      "section": "Other"
+    },
+    {
+      "text": "maximum of 2 HBCU-EiR awards",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "submission of Letters of Intent",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Letters of intent",
+        "source_text": "Letters of intent",
+        "confidence": 0.9
+      },
+      {
+        "tag": "engineering education",
+        "source_text": "engineering",
+        "confidence": 0.6382
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "historically Black college or university",
+        "source_text": "HBCU",
+        "confidence": 1.0,
+        "sources": [
+          "Historically Black Colleges and Universities",
+          "accredited Historically Black Colleges and Universities",
+          "HBCU"
+        ]
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-07-09"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-07-09, 2026-07-09",
+      "An individual may serve as PI or co-PI on only one proposal per deadline.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_historically_black_colleges_and_universities_excellence_in_research_hbcu_eir.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/hbcu-eir-historically-black-colleges-universities-excellence-research/nsf23-598/solicitation"
+  },
+  "document_title": "Historically Black Colleges and Universities - Excellence in Research (HBCU - EiR)"
+}

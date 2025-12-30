@@ -1,0 +1,206 @@
+{
+  "grant_id": "nsf_atomic_molecular_and_optical_physics_experiment",
+  "created_at": "2025-12-29T23:28:05.299987-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Atomic, Molecular and Optical Physics",
+    "Division of Physics",
+    "Investigator-Initiated Research Projects",
+    "Precision Measurements",
+    "Ultracold Atoms and Molecules",
+    "Optical Physics",
+    "Atomic and Molecular Spectroscopy or Collisions",
+    "fundamental quantitative understanding of atoms and molecules",
+    "quantum control",
+    "cooling and trapping of atoms and ions",
+    "low-temperature collision dynamics",
+    "Bose-Einstein condensates",
+    "precision measurement proposals",
+    "Quantum Information Science",
+    "mid-scale research infrastructure",
+    "Institutions of Higher Education",
+    "Two- and four-year IHEs",
+    "community colleges",
+    "Non-profit, non-academic organizations",
+    "For-profit organizations",
+    "U.S.-based commercial organizations",
+    "State and Local Governments",
+    "local school districts",
+    "Tribal Governments",
+    "Foreign organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Atomic, Molecular and Optical Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Investigator-Initiated Research Projects",
+      "section": "Other"
+    },
+    {
+      "text": "Precision Measurements",
+      "section": "Other"
+    },
+    {
+      "text": "Ultracold Atoms and Molecules",
+      "section": "Other"
+    },
+    {
+      "text": "Optical Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Atomic and Molecular Spectroscopy or Collisions",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental quantitative understanding of atoms and molecules",
+      "section": "Other"
+    },
+    {
+      "text": "quantum control",
+      "section": "Other"
+    },
+    {
+      "text": "cooling and trapping of atoms and ions",
+      "section": "Other"
+    },
+    {
+      "text": "low-temperature collision dynamics",
+      "section": "Other"
+    },
+    {
+      "text": "Bose-Einstein condensates",
+      "section": "Other"
+    },
+    {
+      "text": "precision measurement proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Quantum Information Science",
+      "section": "Other"
+    },
+    {
+      "text": "mid-scale research infrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "For-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S.-based commercial organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "local school districts",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Foreign organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "mid-scale research infrastructure",
+        "source_text": "mid-scale research infrastructure",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "school districts",
+        "source_text": "local school districts",
+        "confidence": 0.8808,
+        "sources": [
+          "local school districts"
+        ]
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "public school district",
+        "source_text": "local school districts",
+        "confidence": 0.8417,
+        "sources": [
+          "local school districts"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_atomic_molecular_and_optical_physics_experiment.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation"
+  },
+  "document_title": "Atomic, Molecular and Optical Physics - Experiment"
+}

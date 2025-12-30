@@ -1,0 +1,196 @@
+{
+  "grant_id": "nsf_metals_and_metallic_nanostructures",
+  "created_at": "2025-12-30T01:05:46.615365-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Metals and Metallic Nanostructures",
+    "Division of Materials Research",
+    "Topical Materials Research Programs",
+    "Metals and Metallic Nanostructures (MMN) Program",
+    "fundamental research and education",
+    "relationships between structure and properties",
+    "fundamental materials science",
+    "advanced instrumentation",
+    "theory, computation, and data analytics",
+    "machine learning",
+    "sustainable materials",
+    "environmentally benign processes",
+    "Grant Opportunities for Academic Liaison with Industry",
+    "broadening participation of underrepresented minorities",
+    "Research Experiences for Undergraduates",
+    "Research Experiences for Teachers",
+    "Institutions of Higher Education",
+    "Two- and four-year IHEs",
+    "Independent museums, observatories, research laboratories",
+    "non-profit, non-academic organizations",
+    "anticipated Type of Award",
+    "Standard Grant or Continuing Grant",
+    "Estimated Number of Awards",
+    "Institutions of Higher Education (IHEs)",
+    "community colleges"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Metals and Metallic Nanostructures",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Materials Research",
+      "section": "Other"
+    },
+    {
+      "text": "Topical Materials Research Programs",
+      "section": "Other"
+    },
+    {
+      "text": "Metals and Metallic Nanostructures (MMN) Program",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental research and education",
+      "section": "Other"
+    },
+    {
+      "text": "relationships between structure and properties",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental materials science",
+      "section": "Other"
+    },
+    {
+      "text": "advanced instrumentation",
+      "section": "Other"
+    },
+    {
+      "text": "theory, computation, and data analytics",
+      "section": "Other"
+    },
+    {
+      "text": "machine learning",
+      "section": "Other"
+    },
+    {
+      "text": "sustainable materials",
+      "section": "Other"
+    },
+    {
+      "text": "environmentally benign processes",
+      "section": "Other"
+    },
+    {
+      "text": "Grant Opportunities for Academic Liaison with Industry",
+      "section": "Program Description"
+    },
+    {
+      "text": "broadening participation of underrepresented minorities",
+      "section": "Other"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Teachers",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Independent museums, observatories, research laboratories",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "anticipated Type of Award",
+      "section": "Award Information"
+    },
+    {
+      "text": "Standard Grant or Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education (IHEs)",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Grant Opportunities for Academic Liaison with Industry",
+        "source_text": "Grant Opportunities for Academic Liaison with Industry",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Research Experiences for Undergraduates",
+        "source_text": "Research Experiences for Undergraduates",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "Exceptions are proposals through mechanisms that have their own solicitation, such as CAREER and RUI/ROA. CAREER proposals must be submitted to the CAREER program by the deadline date specified in the program solicitation. RUI/ROA proposals have no deadline: they should be submitted through the RUI/ROA solicitation but are subject to the same submission constraints as other proposals submitted to the DMR Topical Materials Research Programs.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_metals_and_metallic_nanostructures.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/dmr-tmrp-division-materials-research-topical-materials-research/nsf23-612/solicitation"
+  },
+  "document_title": "Metals and Metallic Nanostructures"
+}

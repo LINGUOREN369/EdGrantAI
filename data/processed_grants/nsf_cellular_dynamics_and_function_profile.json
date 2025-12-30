@@ -1,0 +1,303 @@
+{
+  "grant_id": "nsf_cellular_dynamics_and_function",
+  "created_at": "2025-12-29T23:35:56.793202-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Cellular Dynamics and Function",
+    "fundamental cell biological research",
+    "multidisciplinary approaches",
+    "fundamental biology of cells",
+    "understudied species",
+    "Predictive understanding",
+    "computational modeling",
+    "Evolutionary approaches",
+    "cellular functions",
+    "structure and function",
+    "cellular organization",
+    "soft condensed matter",
+    "innovative tools",
+    "technologies",
+    "molecular and cellular biosciences",
+    "quantitative and predictive understanding",
+    "experimental, computational, and theoretical approaches",
+    "interdisciplinary research",
+    "transformative ideas",
+    "structure, function, and evolution",
+    "molecular, sub-cellular, and cellular systems",
+    "Integrate across scales",
+    "molecular and cellular evolution",
+    "experimental research",
+    "computational or mathematical modeling",
+    "innovative methods and technologies",
+    "broader impacts",
+    "EPSCoR jurisdiction",
+    "collaborations",
+    "capacity building",
+    "Expanding research capacity",
+    "EPSCoR organizations",
+    "Integrative Research in Biology",
+    "Integrative biological research",
+    "integrated approach",
+    "cutting-edge methods",
+    "synergistic outcome",
+    "Collaborative proposals",
+    "international collaborative research",
+    "Transitions to Excellence in Molecular and Cellular Biosciences Research",
+    "Faculty Early Career Development Program",
+    "Mid-Career Advancement program",
+    "Research Coordination Networks",
+    "Research at Undergraduate Institutions",
+    "Standard Grant",
+    "Continuing Grant",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Cellular Dynamics and Function",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental cell biological research",
+      "section": "Other"
+    },
+    {
+      "text": "multidisciplinary approaches",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental biology of cells",
+      "section": "Other"
+    },
+    {
+      "text": "understudied species",
+      "section": "Other"
+    },
+    {
+      "text": "Predictive understanding",
+      "section": "Other"
+    },
+    {
+      "text": "computational modeling",
+      "section": "Other"
+    },
+    {
+      "text": "Evolutionary approaches",
+      "section": "Other"
+    },
+    {
+      "text": "cellular functions",
+      "section": "Other"
+    },
+    {
+      "text": "structure and function",
+      "section": "Other"
+    },
+    {
+      "text": "cellular organization",
+      "section": "Other"
+    },
+    {
+      "text": "soft condensed matter",
+      "section": "Other"
+    },
+    {
+      "text": "innovative tools",
+      "section": "Other"
+    },
+    {
+      "text": "technologies",
+      "section": "Other"
+    },
+    {
+      "text": "molecular and cellular biosciences",
+      "section": "Program Description"
+    },
+    {
+      "text": "quantitative and predictive understanding",
+      "section": "Introduction"
+    },
+    {
+      "text": "experimental, computational, and theoretical approaches",
+      "section": "Introduction"
+    },
+    {
+      "text": "interdisciplinary research",
+      "section": "Introduction"
+    },
+    {
+      "text": "transformative ideas",
+      "section": "Introduction"
+    },
+    {
+      "text": "structure, function, and evolution",
+      "section": "Introduction"
+    },
+    {
+      "text": "molecular, sub-cellular, and cellular systems",
+      "section": "Introduction"
+    },
+    {
+      "text": "Integrate across scales",
+      "section": "Introduction"
+    },
+    {
+      "text": "molecular and cellular evolution",
+      "section": "Introduction"
+    },
+    {
+      "text": "experimental research",
+      "section": "Introduction"
+    },
+    {
+      "text": "computational or mathematical modeling",
+      "section": "Introduction"
+    },
+    {
+      "text": "innovative methods and technologies",
+      "section": "Introduction"
+    },
+    {
+      "text": "broader impacts",
+      "section": "Program Description"
+    },
+    {
+      "text": "EPSCoR jurisdiction",
+      "section": "Program Description"
+    },
+    {
+      "text": "collaborations",
+      "section": "Program Description"
+    },
+    {
+      "text": "capacity building",
+      "section": "Program Description"
+    },
+    {
+      "text": "Expanding research capacity",
+      "section": "Program Description"
+    },
+    {
+      "text": "EPSCoR organizations",
+      "section": "Program Description"
+    },
+    {
+      "text": "Integrative Research in Biology",
+      "section": "Program Description"
+    },
+    {
+      "text": "Integrative biological research",
+      "section": "Program Description"
+    },
+    {
+      "text": "integrated approach",
+      "section": "Program Description"
+    },
+    {
+      "text": "cutting-edge methods",
+      "section": "Program Description"
+    },
+    {
+      "text": "synergistic outcome",
+      "section": "Program Description"
+    },
+    {
+      "text": "Collaborative proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "international collaborative research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Transitions to Excellence in Molecular and Cellular Biosciences Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Faculty Early Career Development Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Mid-Career Advancement program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Coordination Networks",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research at Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "molecular and cellular biosciences",
+        "source_text": "molecular and cellular biosciences",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Integrative Research in Biology",
+        "source_text": "Integrative Research in Biology",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR jurisdiction",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR jurisdiction"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Mid-Career Advancement program (MCA) proposals may be submitted to any of the clusters/programs described in this solicitation but must be submitted by the submission window for the MCA program. This is another opportunity available to mid-career researchers to advance their career trajectory.",
+      "Grants for Rapid Response Research (RAPID), Early-concept Grants for Exploratory Research (EAGER), Research Advanced by Interdisciplinary Science and Engineering (RAISE), Grant Opportunities for Academic Liaison with Industry (GOALI), Planning proposals, and proposals for Travel or Conferences support, including workshops, can be submitted at any time to any of the clusters/programs described in this solicitation. These types of proposals should be submitted in accordance with the guidance in the PAPPG. Conference/Workshop/Travel proposals should be submitted at least 6 months before the start date of the conference or workshop in accordance with guidance in the PAPPG and on in the Additional Resources section of the MCB website; you are strongly advised to contact a Program Officer prior to submission. Note that for RAPID, EAGER, RAISE, or Planning proposals, a concept outline must be submitted prior to submission of a full proposal with approval from an MCB Program Director from the cluster covering the research area of the proposal.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_cellular_dynamics_and_function.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/mcb-division-molecular-cellular-biosciences-core-programs/nsf24-539/solicitation"
+  },
+  "document_title": "Cellular Dynamics and Function"
+}

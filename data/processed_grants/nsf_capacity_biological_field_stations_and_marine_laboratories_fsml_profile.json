@@ -1,0 +1,144 @@
+{
+  "grant_id": "nsf_capacity_biological_field_stations_and_marine_laboratories_fsml",
+  "created_at": "2025-12-29T23:34:19.395272-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Biological Field Stations and Marine Laboratories Programmatic Area",
+    "Transformative discoveries in the biological sciences",
+    "research infrastructure",
+    "Division of Biological Infrastructure",
+    "Infrastructure Capacity for Biology",
+    "Capacity Program",
+    "Cyberinfrastructure Programmatic Area",
+    "Biological Collections Programmatic Area",
+    "Biological Field Stations and Marine Laboratories",
+    "Research Coordination Networks",
+    "Research at Undergraduate Institutions",
+    "Planning proposals",
+    "Standard Grant",
+    "Continuing Grant",
+    "Cooperative Agreement",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "special purpose vehicles"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Biological Field Stations and Marine Laboratories Programmatic Area",
+      "section": "Other"
+    },
+    {
+      "text": "Transformative discoveries in the biological sciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "research infrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "Division of Biological Infrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "Infrastructure Capacity for Biology",
+      "section": "Program Description"
+    },
+    {
+      "text": "Capacity Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Cyberinfrastructure Programmatic Area",
+      "section": "Program Description"
+    },
+    {
+      "text": "Biological Collections Programmatic Area",
+      "section": "Program Description"
+    },
+    {
+      "text": "Biological Field Stations and Marine Laboratories",
+      "section": "Other"
+    },
+    {
+      "text": "Research Coordination Networks",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research at Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Planning proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "special purpose vehicles",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Biological Collections Programmatic Area",
+        "source_text": "Biological Collections Programmatic Area",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Cyberinfrastructure Programmatic Area",
+        "source_text": "Cyberinfrastructure Programmatic Area",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "The Capacity program only considers support for full proposals submitted to the program. Except for Career-Life-Balance supplements, program funds are generally not used to provide post-award supplements to existing awards. If activities that align with REU, RET, and RAHSS educational supplements are planned, these activities should be described and budgeted for in the original proposal submission.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_capacity_biological_field_stations_and_marine_laboratories_fsml.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/capacity-infrastructure-capacity-biological-research/nsf23-580/solicitation"
+  },
+  "document_title": "Capacity: Biological Field Stations and Marine Laboratories (FSML)"
+}

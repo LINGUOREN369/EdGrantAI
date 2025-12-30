@@ -1,0 +1,187 @@
+{
+  "grant_id": "nsf_epscor_research_infrastructure_improvement_program_epscor_collaborations_for_optimizing_research_eco",
+  "created_at": "2025-12-30T00:23:50.514327-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "EPSCoR Research Infrastructure Improvement Program",
+    "EPSCoR Collaborations for Optimizing Research Ecosystems",
+    "E-CORE",
+    "Established Program to Stimulate Competitive Research",
+    "U.S. National Science Foundation",
+    "NSF EPSCoR",
+    "STEM education",
+    "higher education pathways",
+    "educational activities",
+    "broadening participation",
+    "workforce development",
+    "community engagement and outreach",
+    "early career investigator pathways",
+    "national and global partnerships",
+    "economic development",
+    "Jurisdiction Research Excellence and Competitiveness",
+    "research administration",
+    "research facilities",
+    "jurisdiction-wide research infrastructure",
+    "evidence-based and self-identified needs of a jurisdiction",
+    "multi-organizational",
+    "Emerging Research Institutions",
+    "institutions of higher education",
+    "non-profit, non-degree-granting domestic U.S. organizations",
+    "academic campuses",
+    "Jurisdictional Steering Committee"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "EPSCoR Research Infrastructure Improvement Program",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR Collaborations for Optimizing Research Ecosystems",
+      "section": "Other"
+    },
+    {
+      "text": "E-CORE",
+      "section": "Other"
+    },
+    {
+      "text": "Established Program to Stimulate Competitive Research",
+      "section": "Other"
+    },
+    {
+      "text": "U.S. National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "NSF EPSCoR",
+      "section": "Introduction"
+    },
+    {
+      "text": "STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "higher education pathways",
+      "section": "Other"
+    },
+    {
+      "text": "educational activities",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "broadening participation",
+      "section": "Other"
+    },
+    {
+      "text": "workforce development",
+      "section": "Other"
+    },
+    {
+      "text": "community engagement and outreach",
+      "section": "Other"
+    },
+    {
+      "text": "early career investigator pathways",
+      "section": "Other"
+    },
+    {
+      "text": "national and global partnerships",
+      "section": "Other"
+    },
+    {
+      "text": "economic development",
+      "section": "Other"
+    },
+    {
+      "text": "Jurisdiction Research Excellence and Competitiveness",
+      "section": "Introduction"
+    },
+    {
+      "text": "research administration",
+      "section": "Other"
+    },
+    {
+      "text": "research facilities",
+      "section": "Other"
+    },
+    {
+      "text": "jurisdiction-wide research infrastructure",
+      "section": "Program Description"
+    },
+    {
+      "text": "evidence-based and self-identified needs of a jurisdiction",
+      "section": "Other"
+    },
+    {
+      "text": "multi-organizational",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Emerging Research Institutions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "institutions of higher education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-degree-granting domestic U.S. organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "academic campuses",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Jurisdictional Steering Committee",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "jurisdiction-wide research infrastructure",
+        "source_text": "jurisdiction-wide research infrastructure",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Jurisdictional Steering Committee",
+        "source_text": "Jurisdictional Steering Committee",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "institutions of higher education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-degree-granting domestic U.S. organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-07-21"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-07-21, 2026-07-21",
+      "In jurisdictions with a pre-existing and active EPSCoR Jurisdiction/State Office, the Administrative Core is expected to coordinate with this office to avoid a duplication of efforts, complement existing or ongoing work of the office, and transition Jurisdiction/State Office functions if desirable. In cases where the operations of a Jurisdiction/State Office have been supported by an expiring RII Track-1 award, the Administrative Core(s) of one or more E-CORE awards may be used to support the Jurisdiction/State Office as part of the Administrative Core(s) activities. E-CORE proposals should put forth a clear plan of how the Administrative Core will coordinate with other present and future E-CORE and other types of EPSCoR and non-EPSCoR capacity building projects, with an active Jurisdiction/State Office (if present), and describe how they will coordinate with other federally funded projects that build capacity for substantive jurisdiction-wide research infrastructure.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_epscor_research_infrastructure_improvement_program_epscor_collaborations_for_optimizing_research_eco.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/e-core-epscor-research-infrastructure-improvement-program-epscor/nsf25-523/solicitation"
+  },
+  "document_title": "EPSCoR Research Infrastructure Improvement Program: EPSCoR Collaborations for Optimizing Research Ecosystems (E-CORE)"
+}

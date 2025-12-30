@@ -1,0 +1,225 @@
+{
+  "grant_id": "nsf_cyberaicorps_scholarship_for_service_cyberai_sfs",
+  "created_at": "2025-12-30T00:02:34.201595-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "CyberCorps\u00ae Scholarship for Service (SFS)",
+    "National Science Foundation (NSF)",
+    "Department of Homeland Security (DHS)",
+    "Office of Personnel Management (OPM)",
+    "Cybersecurity Enhancement Act of 2014",
+    "National Initiative for Cybersecurity Education (NICE)",
+    "CyberCorps\u00ae SFS Program",
+    "cybersecurity professionals",
+    "cybersecurity education",
+    "cybersecurity mission",
+    "Institutions of Higher Education",
+    "Community colleges",
+    "Center of Academic Excellence in Cyber Defense Education (CAE-CDE)",
+    "quantum information science",
+    "next generation wireless networks",
+    "Cybersecurity Workforce Framework",
+    "SFS Program Office",
+    "summer internships",
+    "Doctoral students",
+    "CyberCorps\u00ae SFS agreement",
+    "Broadening Participation in Computing (BPC)",
+    "National Security Agency (NSA)",
+    "SaTC-EDU program",
+    "kindergarten through 12th grade",
+    "cybersecurity careers",
+    "CyberCorps\u00ae scholarship",
+    "Post-graduation tracking",
+    "Participant Support Costs"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "CyberCorps\u00ae Scholarship for Service (SFS)",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation (NSF)",
+      "section": "Other"
+    },
+    {
+      "text": "Department of Homeland Security (DHS)",
+      "section": "Other"
+    },
+    {
+      "text": "Office of Personnel Management (OPM)",
+      "section": "Other"
+    },
+    {
+      "text": "Cybersecurity Enhancement Act of 2014",
+      "section": "Other"
+    },
+    {
+      "text": "National Initiative for Cybersecurity Education (NICE)",
+      "section": "Introduction"
+    },
+    {
+      "text": "CyberCorps\u00ae SFS Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "cybersecurity professionals",
+      "section": "Other"
+    },
+    {
+      "text": "cybersecurity education",
+      "section": "Introduction"
+    },
+    {
+      "text": "cybersecurity mission",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Center of Academic Excellence in Cyber Defense Education (CAE-CDE)",
+      "section": "Other"
+    },
+    {
+      "text": "quantum information science",
+      "section": "Introduction"
+    },
+    {
+      "text": "next generation wireless networks",
+      "section": "Introduction"
+    },
+    {
+      "text": "Cybersecurity Workforce Framework",
+      "section": "Program Description"
+    },
+    {
+      "text": "SFS Program Office",
+      "section": "Program Description"
+    },
+    {
+      "text": "summer internships",
+      "section": "Program Description"
+    },
+    {
+      "text": "Doctoral students",
+      "section": "Program Description"
+    },
+    {
+      "text": "CyberCorps\u00ae SFS agreement",
+      "section": "Program Description"
+    },
+    {
+      "text": "Broadening Participation in Computing (BPC)",
+      "section": "Program Description"
+    },
+    {
+      "text": "National Security Agency (NSA)",
+      "section": "Program Description"
+    },
+    {
+      "text": "SaTC-EDU program",
+      "section": "Program Description"
+    },
+    {
+      "text": "kindergarten through 12th grade",
+      "section": "Program Description"
+    },
+    {
+      "text": "cybersecurity careers",
+      "section": "Program Description"
+    },
+    {
+      "text": "CyberCorps\u00ae scholarship",
+      "section": "Program Description"
+    },
+    {
+      "text": "Post-graduation tracking",
+      "section": "Program Description"
+    },
+    {
+      "text": "Participant Support Costs",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "CyberCorps\u00ae SFS agreement",
+        "source_text": "CyberCorps\u00ae SFS agreement",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Participant Support Costs",
+        "source_text": "Participant Support Costs",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "Community colleges",
+        "confidence": 0.7165,
+        "sources": [
+          "Community colleges"
+        ]
+      },
+      {
+        "tag": "graduate students",
+        "source_text": "Doctoral students",
+        "confidence": 0.701,
+        "sources": [
+          "Doctoral students"
+        ]
+      },
+      {
+        "tag": "K-12 students",
+        "source_text": "kindergarten through 12th grade",
+        "confidence": 0.6852,
+        "sources": [
+          "kindergarten through 12th grade"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "Community colleges",
+        "confidence": 0.8261,
+        "sources": [
+          "Community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "The proposals must describe a project plan with goals, objectives, and corresponding evaluation metrics. They ought to provide evidence, if applicable, of a rigorous cybersecurity curriculum, student research opportunities, quality mentoring and counseling toward academic success and government career, extra-curricular activities to increase cybersecurity competencies, cybersecurity faculty's support for SFS scholars, and other information related to the Additional Solicitation Specific Review Criteria in section VI.A.2. SFS institutions typically require their scholars to have a minimum of four cybersecurity courses in their program of study. Proposals could focus on themes aligning with ongoing or emerging areas of cybersecurity such as, but not limited to, secure design and production of software and hardware systems, resilient cyberinfrastructure and software supply chain, cybersecurity in the age of artificial intelligence, cybersecurity in the post-quantum era, cyber operations, human and societal aspects of cybersecurity, and privacy.",
+      "NSF conducts ongoing program monitoring and evaluation to determine how effectively the SFS Program is achieving its goals. In addition to project-specific evaluations, all project participants are expected to cooperate with this third-party program evaluation and respond to all inquiries, including requests to participate in surveys, interviews, and other approaches for collecting evaluation data. The awardee should strongly encourage SFS scholarship recipients to participate in surveys conducted by the project and/or SFS Program evaluators. Additional guidelines will be provided to institutions that receive Scholarship awards.",
+      "As of the submission deadline, PIs, co-PIs, or other senior project personnel must hold primary, full-time, paid appointments in research or teaching positions at US-based campuses of institutions eligible to submit to this solicitation (see above), with exceptions granted for family or medical leave, as determined by the submitting institution.",
+      "An individual must not participate as PI, Co-PI, or Senior Personnel on more than one (1) proposal submitted to the same deadline.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_cyberaicorps_scholarship_for_service_cyberai_sfs.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/cyberai-sfs-cyberaicorps-scholarship-service/nsf23-574/solicitation"
+  },
+  "document_title": "CyberAICorps Scholarship for Service (CyberAI SFS)"
+}

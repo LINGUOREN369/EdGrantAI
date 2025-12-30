@@ -1,66 +1,130 @@
 {
   "grant_id": "nsf_accelerating_research_through_international_network_to_network_collaborations_accelnet",
-  "created_at": "2025-12-28T20:57:38.991875-05:00",
+  "created_at": "2025-12-28T21:22:35.875289-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "Accelerating Research through International Network-to-Network Collaborations",
     "AccelNet",
     "international research network of networks",
-    "scientific research",
-    "US-based workforce",
-    "multi-team international collaboration",
+    "diverse and internationally competent US-based workforce",
     "grand research challenges",
-    "NoN",
-    "Design Track",
-    "Implementation Track",
-    "Implementation Track Phase 1",
-    "Implementation Track Phase 2",
+    "NoN members",
+    "multi-team international collaboration",
+    "international networks of networks",
+    "large-scale international NoNs",
+    "team science",
+    "US-based students",
+    "early-career researchers",
+    "National Science Foundation",
     "Institutions of Higher Education",
-    "community colleges",
-    "Non-profit organizations",
+    "Non-profit, non-academic organizations",
     "Tribal Governments",
-    "Implementation Track Phase 1 recipients",
-    "Phase 2 award",
-    "Phase 1 PIs"
+    "Implementation Track Phase 2",
+    "Phase 1 team",
+    "Limit on Number of Proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Accelerating Research through International Network-to-Network Collaborations",
+      "section": "Other"
+    },
+    {
+      "text": "AccelNet",
+      "section": "Other"
+    },
+    {
+      "text": "international research network of networks",
+      "section": "Other"
+    },
+    {
+      "text": "diverse and internationally competent US-based workforce",
+      "section": "Other"
+    },
+    {
+      "text": "grand research challenges",
+      "section": "Other"
+    },
+    {
+      "text": "NoN members",
+      "section": "Other"
+    },
+    {
+      "text": "multi-team international collaboration",
+      "section": "Other"
+    },
+    {
+      "text": "international networks of networks",
+      "section": "Program Description"
+    },
+    {
+      "text": "large-scale international NoNs",
+      "section": "Program Description"
+    },
+    {
+      "text": "team science",
+      "section": "Program Description"
+    },
+    {
+      "text": "US-based students",
+      "section": "Program Description"
+    },
+    {
+      "text": "early-career researchers",
+      "section": "Program Description"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Implementation Track Phase 2",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Phase 1 team",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "community college STEM programs",
-        "source_text": "community colleges",
-        "confidence": 0.6473,
-        "sources": [
-          "community colleges"
-        ]
+        "tag": "international networks of networks",
+        "source_text": "international networks of networks",
+        "confidence": 0.9
       },
       {
-        "tag": "research-based learning",
-        "source_text": "scientific research",
-        "confidence": 0.5677,
-        "sources": [
-          "scientific research"
-        ]
+        "tag": "team science",
+        "source_text": "team science",
+        "confidence": 0.9
       }
     ],
     "population_tags": [
       {
-        "tag": "community college students",
-        "source_text": "community colleges",
-        "confidence": 0.7653,
+        "tag": "postdoctoral researchers",
+        "source_text": "early-career researchers",
+        "confidence": 0.7293,
         "sources": [
-          "community colleges"
+          "early-career researchers"
         ]
       }
     ],
     "org_type_tags": [
-      {
-        "tag": "community college",
-        "source_text": "community colleges",
-        "confidence": 0.8855,
-        "sources": [
-          "community colleges"
-        ]
-      },
       {
         "tag": "institution_of_higher_education",
         "source_text": "Institutions of Higher Education",
@@ -68,12 +132,18 @@
       },
       {
         "tag": "nonprofit",
-        "source_text": "Non-profit organizations",
+        "source_text": "Non-profit, non-academic organizations",
         "confidence": 1.0
       }
     ],
     "geography_tags": [],
-    "red_flag_tags": []
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per PI or co-PI",
+        "confidence": 1.0
+      }
+    ]
   },
   "deadline": {
     "status": "unspecified",
@@ -87,5 +157,6 @@
   "source": {
     "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_accelerating_research_through_international_network_to_network_collaborations_accelnet.txt",
     "url": "https://www.nsf.gov/funding/opportunities/accelnet-accelerating-research-through-international-network-network/nsf23-619/solicitation"
-  }
+  },
+  "document_title": "Accelerating Research through International Network-to-Network Collaborations (AccelNet)"
 }

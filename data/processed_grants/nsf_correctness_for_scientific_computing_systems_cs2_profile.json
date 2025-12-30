@@ -1,0 +1,146 @@
+{
+  "grant_id": "nsf_correctness_for_scientific_computing_systems_cs2",
+  "created_at": "2025-12-29T23:58:57.605823-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Correctness for Scientific Computing Systems",
+    "CS2",
+    "Department of Energy",
+    "National Science Foundation",
+    "scientific computing",
+    "performance",
+    "scientific theories",
+    "scientific simulations",
+    "numerical computation",
+    "formal reasoning",
+    "mechanized proving",
+    "properties of programs",
+    "probabilistic notions of correctness",
+    "estimated number of awards",
+    "Non-profit, non-academic organizations",
+    "Institutions of Higher Education",
+    "DOE National Laboratories",
+    "scientific computing expertise",
+    "formal reasoning expertise",
+    "eligibility constraints"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Correctness for Scientific Computing Systems",
+      "section": "Other"
+    },
+    {
+      "text": "CS2",
+      "section": "Other"
+    },
+    {
+      "text": "Department of Energy",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "scientific computing",
+      "section": "Other"
+    },
+    {
+      "text": "performance",
+      "section": "Other"
+    },
+    {
+      "text": "scientific theories",
+      "section": "Other"
+    },
+    {
+      "text": "scientific simulations",
+      "section": "Other"
+    },
+    {
+      "text": "numerical computation",
+      "section": "Other"
+    },
+    {
+      "text": "formal reasoning",
+      "section": "Other"
+    },
+    {
+      "text": "mechanized proving",
+      "section": "Other"
+    },
+    {
+      "text": "properties of programs",
+      "section": "Other"
+    },
+    {
+      "text": "probabilistic notions of correctness",
+      "section": "Other"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "DOE National Laboratories",
+      "section": "Award Information"
+    },
+    {
+      "text": "scientific computing expertise",
+      "section": "Other"
+    },
+    {
+      "text": "formal reasoning expertise",
+      "section": "Other"
+    },
+    {
+      "text": "eligibility constraints",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-08-11"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-08-11, 2026-08-11",
+      "By the submission deadline, any PI, co-PI, or other senior/key personnel must:",
+      "An investigator may participate as PI, co-PI, or Senior/Key Personnel in no more than two (2) proposals submitted in response to this solicitation, per deadline. An investigator cannot be PI, co-PI, or Senior/Key Personnel on more than two (2) awards throughout the life of this program (FY 2025 \u2013 FY 2027). A project must have at least one (co)-PI with expertise in scientific computing and at least one (co)-PI with expertise in formal reasoning and mechanized proving of properties of programs.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_correctness_for_scientific_computing_systems_cs2.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/cs2-correctness-scientific-computing-systems/nsf24-571/solicitation"
+  },
+  "document_title": "Correctness for Scientific Computing Systems (CS2)"
+}

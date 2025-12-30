@@ -1,0 +1,188 @@
+{
+  "grant_id": "nsf_algorithmic_foundations_af",
+  "created_at": "2025-12-29T23:20:14.459935-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Algorithmic Foundations",
+    "theory of algorithms",
+    "algorithmic innovation",
+    "rigorous analysis",
+    "computational complexity",
+    "sequential-computing paradigm",
+    "parallel and distributed models",
+    "Foundations of Emerging Technologies",
+    "Computer and Information Science and Engineering",
+    "Future Computing Research",
+    "mathematical, scientific and technological foundations",
+    "network systems",
+    "cyber-physical systems",
+    "cybersecurity",
+    "human-centered computing",
+    "information integration and informatics",
+    "Networking Technology and Systems",
+    "Robust Intelligence",
+    "Software and Hardware Foundations",
+    "two- and four-year IHEs",
+    "community colleges",
+    "non-profit, non-academic organizations",
+    "Tribal Nations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Algorithmic Foundations",
+      "section": "Other"
+    },
+    {
+      "text": "theory of algorithms",
+      "section": "Other"
+    },
+    {
+      "text": "algorithmic innovation",
+      "section": "Other"
+    },
+    {
+      "text": "rigorous analysis",
+      "section": "Other"
+    },
+    {
+      "text": "computational complexity",
+      "section": "Other"
+    },
+    {
+      "text": "sequential-computing paradigm",
+      "section": "Other"
+    },
+    {
+      "text": "parallel and distributed models",
+      "section": "Other"
+    },
+    {
+      "text": "Foundations of Emerging Technologies",
+      "section": "Other"
+    },
+    {
+      "text": "Computer and Information Science and Engineering",
+      "section": "Introduction"
+    },
+    {
+      "text": "Future Computing Research",
+      "section": "Introduction"
+    },
+    {
+      "text": "mathematical, scientific and technological foundations",
+      "section": "Introduction"
+    },
+    {
+      "text": "network systems",
+      "section": "Introduction"
+    },
+    {
+      "text": "cyber-physical systems",
+      "section": "Introduction"
+    },
+    {
+      "text": "cybersecurity",
+      "section": "Introduction"
+    },
+    {
+      "text": "human-centered computing",
+      "section": "Program Description"
+    },
+    {
+      "text": "information integration and informatics",
+      "section": "Program Description"
+    },
+    {
+      "text": "Networking Technology and Systems",
+      "section": "Program Description"
+    },
+    {
+      "text": "Robust Intelligence",
+      "section": "Program Description"
+    },
+    {
+      "text": "Software and Hardware Foundations",
+      "section": "Program Description"
+    },
+    {
+      "text": "two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Computer and Information Science and Engineering",
+        "source_text": "Computer and Information Science and Engineering",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Future Computing Research",
+        "source_text": "Future Computing Research",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_algorithmic_foundations_af.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation"
+  },
+  "document_title": "Algorithmic Foundations (AF)"
+}

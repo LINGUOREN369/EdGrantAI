@@ -1,0 +1,201 @@
+{
+  "grant_id": "nsf_test_bed_toward_a_network_of_programmable_cloud_laboratories_pcl_test_bed",
+  "created_at": "2025-12-30T01:58:42.535892-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Test Bed: Toward a Network of Programmable Cloud Laboratories",
+    "PCL Test Bed",
+    "Programmable Cloud Laboratories",
+    "Programmable Cloud Laboratory Nodes",
+    "PCL Nodes",
+    "automated laboratory infrastructure",
+    "artificial intelligence",
+    "user recruitment and on-boarding workshops",
+    "science drivers",
+    "automated science and engineering",
+    "state-of-the-art instruments",
+    "community norms",
+    "best practices",
+    "formal standards",
+    "automated laboratory methods",
+    "high-throughput experimentation",
+    "biotechnology experiments",
+    "chemical synthesis",
+    "distributed autonomous laboratory facilities",
+    "reproducibility of experiments",
+    "basic research",
+    "translational research",
+    "workforce development",
+    "Small Business Innovation Research",
+    "Small Business Technology Transfer",
+    "Recruitment and On-Boarding Workshops",
+    "higher education institutions",
+    "commercial viability",
+    "science problems",
+    "AI-based methods",
+    "automated workflows",
+    "metadata and data standards"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Test Bed: Toward a Network of Programmable Cloud Laboratories",
+      "section": "Other"
+    },
+    {
+      "text": "PCL Test Bed",
+      "section": "Other"
+    },
+    {
+      "text": "Programmable Cloud Laboratories",
+      "section": "Other"
+    },
+    {
+      "text": "Programmable Cloud Laboratory Nodes",
+      "section": "Other"
+    },
+    {
+      "text": "PCL Nodes",
+      "section": "Other"
+    },
+    {
+      "text": "automated laboratory infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "artificial intelligence",
+      "section": "Other"
+    },
+    {
+      "text": "user recruitment and on-boarding workshops",
+      "section": "Other"
+    },
+    {
+      "text": "science drivers",
+      "section": "Other"
+    },
+    {
+      "text": "automated science and engineering",
+      "section": "Other"
+    },
+    {
+      "text": "state-of-the-art instruments",
+      "section": "Introduction"
+    },
+    {
+      "text": "community norms",
+      "section": "Other"
+    },
+    {
+      "text": "best practices",
+      "section": "Other"
+    },
+    {
+      "text": "formal standards",
+      "section": "Other"
+    },
+    {
+      "text": "automated laboratory methods",
+      "section": "Other"
+    },
+    {
+      "text": "high-throughput experimentation",
+      "section": "Other"
+    },
+    {
+      "text": "biotechnology experiments",
+      "section": "Other"
+    },
+    {
+      "text": "chemical synthesis",
+      "section": "Other"
+    },
+    {
+      "text": "distributed autonomous laboratory facilities",
+      "section": "Other"
+    },
+    {
+      "text": "reproducibility of experiments",
+      "section": "Introduction"
+    },
+    {
+      "text": "basic research",
+      "section": "Other"
+    },
+    {
+      "text": "translational research",
+      "section": "Program Description"
+    },
+    {
+      "text": "workforce development",
+      "section": "Program Description"
+    },
+    {
+      "text": "Small Business Innovation Research",
+      "section": "Other"
+    },
+    {
+      "text": "Small Business Technology Transfer",
+      "section": "Other"
+    },
+    {
+      "text": "Recruitment and On-Boarding Workshops",
+      "section": "Other"
+    },
+    {
+      "text": "higher education institutions",
+      "section": "Other"
+    },
+    {
+      "text": "commercial viability",
+      "section": "Introduction"
+    },
+    {
+      "text": "science problems",
+      "section": "Award Information"
+    },
+    {
+      "text": "AI-based methods",
+      "section": "Introduction"
+    },
+    {
+      "text": "automated workflows",
+      "section": "Other"
+    },
+    {
+      "text": "metadata and data standards",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "metadata and data standards",
+        "source_text": "metadata and data standards",
+        "confidence": 0.9
+      },
+      {
+        "tag": "translational research",
+        "source_text": "translational research",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_test_bed_toward_a_network_of_programmable_cloud_laboratories_pcl_test_bed.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/pcl-test-bed-test-bed-toward-network-programmable-cloud-laboratories/nsf25-541/solicitation"
+  },
+  "document_title": "Test Bed: Toward a Network of Programmable Cloud Laboratories (PCL Test Bed)"
+}

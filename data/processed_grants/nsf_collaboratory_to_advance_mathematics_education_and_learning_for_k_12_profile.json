@@ -1,0 +1,230 @@
+{
+  "grant_id": "nsf_collaboratory_to_advance_mathematics_education_and_learning_for_k_12",
+  "created_at": "2025-12-29T23:53:32.018236-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Collaboratory to Advance Mathematics Education and Learning",
+    "CAMEL for K-12",
+    "K-12 math learning and education",
+    "Walton Family Foundation",
+    "Collaborative Networks",
+    "high value datasets",
+    "science of learning",
+    "data science",
+    "AI and technology",
+    "Phase I",
+    "CAMEL Collaborative Networks",
+    "Phase II",
+    "National Coordinator",
+    "collaboratory",
+    "K-12",
+    "expanding participation in STEM",
+    "NSF priorities",
+    "Gold Standard Science",
+    "Standard Grant",
+    "6 to 7",
+    "Institutions of Higher Education",
+    "Two- and four-year IHEs",
+    "community colleges",
+    "Non-profit, non-academic organizations",
+    "Tribal Nations",
+    "Principal Investigator",
+    "Phase I"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Collaboratory to Advance Mathematics Education and Learning",
+      "section": "Other"
+    },
+    {
+      "text": "CAMEL for K-12",
+      "section": "Other"
+    },
+    {
+      "text": "K-12 math learning and education",
+      "section": "Introduction"
+    },
+    {
+      "text": "Walton Family Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "Collaborative Networks",
+      "section": "Introduction"
+    },
+    {
+      "text": "high value datasets",
+      "section": "Other"
+    },
+    {
+      "text": "science of learning",
+      "section": "Other"
+    },
+    {
+      "text": "data science",
+      "section": "Other"
+    },
+    {
+      "text": "AI and technology",
+      "section": "Other"
+    },
+    {
+      "text": "Phase I",
+      "section": "Other"
+    },
+    {
+      "text": "CAMEL Collaborative Networks",
+      "section": "Program Description"
+    },
+    {
+      "text": "Phase II",
+      "section": "Other"
+    },
+    {
+      "text": "National Coordinator",
+      "section": "Introduction"
+    },
+    {
+      "text": "collaboratory",
+      "section": "Other"
+    },
+    {
+      "text": "K-12",
+      "section": "Other"
+    },
+    {
+      "text": "expanding participation in STEM",
+      "section": "Other"
+    },
+    {
+      "text": "NSF priorities",
+      "section": "Other"
+    },
+    {
+      "text": "Gold Standard Science",
+      "section": "Other"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "6 to 7",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Phase I",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "CAMEL Collaborative Networks",
+        "source_text": "CAMEL Collaborative Networks",
+        "confidence": 0.9
+      },
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "K-12 math learning and education",
+        "confidence": 0.7143
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K-12",
+        "confidence": 1.0,
+        "sources": [
+          "K-12"
+        ]
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "K-12 students",
+        "source_text": "K-12 math learning and education",
+        "confidence": 0.6593,
+        "sources": [
+          "K-12 math learning and education"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-09"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-09, 2026-01-09",
+      "Full Proposals: For proposals submitted via Research.gov, PAPPG guidelines apply. For proposals submitted via Grants.gov, NSF Grants.gov Application Guide guidelines apply."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_collaboratory_to_advance_mathematics_education_and_learning_for_k_12.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/collaboratory-advance-mathematics-education-learning-k-12/nsf26-501/solicitation"
+  },
+  "document_title": "Collaboratory to Advance Mathematics Education and Learning for K-12"
+}

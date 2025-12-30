@@ -1,0 +1,189 @@
+{
+  "grant_id": "nsf_centers_for_innovation_and_community_engagement_in_solid_earth_geohazards",
+  "created_at": "2025-12-29T23:37:17.893858-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Centers for Innovation and Community Engagement in Solid Earth Geohazards",
+    "solid Earth geohazards",
+    "fundamental solid Earth processes",
+    "transformative research",
+    "community engagement",
+    "broadening participation",
+    "geoscience workforce",
+    "earthquakes",
+    "volcanoes",
+    "mass movements",
+    "National Academies of Science, Engineering, and Medicine",
+    "Earth in Time",
+    "historically underrepresented groups",
+    "major research thrust",
+    "community-scale leadership",
+    "basic research",
+    "major dimensions of community engagement",
+    "diverse and inclusive workforce",
+    "strategic planning",
+    "workforce development",
+    "broadening participation activities",
+    "Principal Investigator",
+    "Cooperative Agreement",
+    "Institutions of Higher Education",
+    "international branch campus",
+    "Lead institution"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Centers for Innovation and Community Engagement in Solid Earth Geohazards",
+      "section": "Other"
+    },
+    {
+      "text": "solid Earth geohazards",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental solid Earth processes",
+      "section": "Other"
+    },
+    {
+      "text": "transformative research",
+      "section": "Other"
+    },
+    {
+      "text": "community engagement",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation",
+      "section": "Introduction"
+    },
+    {
+      "text": "geoscience workforce",
+      "section": "Other"
+    },
+    {
+      "text": "earthquakes",
+      "section": "Other"
+    },
+    {
+      "text": "volcanoes",
+      "section": "Other"
+    },
+    {
+      "text": "mass movements",
+      "section": "Other"
+    },
+    {
+      "text": "National Academies of Science, Engineering, and Medicine",
+      "section": "Other"
+    },
+    {
+      "text": "Earth in Time",
+      "section": "Other"
+    },
+    {
+      "text": "historically underrepresented groups",
+      "section": "Introduction"
+    },
+    {
+      "text": "major research thrust",
+      "section": "Program Description"
+    },
+    {
+      "text": "community-scale leadership",
+      "section": "Introduction"
+    },
+    {
+      "text": "basic research",
+      "section": "Introduction"
+    },
+    {
+      "text": "major dimensions of community engagement",
+      "section": "Other"
+    },
+    {
+      "text": "diverse and inclusive workforce",
+      "section": "Introduction"
+    },
+    {
+      "text": "strategic planning",
+      "section": "Program Description"
+    },
+    {
+      "text": "workforce development",
+      "section": "Program Description"
+    },
+    {
+      "text": "broadening participation activities",
+      "section": "Introduction"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Program Description"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "international branch campus",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Lead institution",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Principal Investigator",
+        "source_text": "Principal Investigator",
+        "confidence": 0.9
+      },
+      {
+        "tag": "underrepresented groups in STEM",
+        "source_text": "historically underrepresented groups",
+        "confidence": 0.7059
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "historically underserved students",
+        "source_text": "historically underrepresented groups",
+        "confidence": 0.7399,
+        "sources": [
+          "historically underrepresented groups"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "1) Centers must have a vision for innovative and transformative research that is ambitious in scope . The complexity of the research would require more extensive resources, such as combinations of talents, skills, and/or disciplines or specialized infrastructure, that would not be feasible with standard support to individual investigators or small collaborative groups, such as is provided through core programs in the NSF Earth Sciences Division (for example, Geophysics, Tectonics, Geomorphology and Land-use Dynamics, Hydrologic Sciences, Petrology and Geochemistry, and others). While center proposals can be built upon prior support, Principal Investigators should ensure that their proposed project does not significantly overlap with ongoing federally-funded research for themselves or any of their team members. Developing a distinct and distinctive science portfolio is essential for each center. PIs considering potential projects that cross the shoreline should contact Program Officers in the Marine Geology and Geophysics program in the Division of Ocean Sciences.",
+      "4) Centers will have appropriately-scaled management plans that address the leadership of the center, how decisions will be made, including the roles of any internal committees, and how synergy among projects and activities will be actively promoted in service of the Center's vision. They include appropriately scaled mechanisms for the ongoing assessment of research outcomes and broader impacts; development and implementation of strategic plans; allocation of resources; the ability to initiate new lines of research and terminate support for lower priority efforts; and approaches to encourage and promote effective communication throughout the center and with partners. Serving as the Principal Investigator of a center award requires scientific leadership and vision. It is also a significant commitment of time and will be a primary professional focus for the life of the Center. Similarly, all team members should expect the center to be a significant part of their professional efforts. Reviewers will be asked to evaluate the qualifications of the team and the resources available to the project, including researcher time and commitment.",
+      "Key milestones will include periodic site visits and other oversight by NSF staff. The initial Center Operation awards will be made for up to five years (contingent on acceptable progress). Additional information is provided in the proposal preparation guidance for Center Operation full proposal.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_centers_for_innovation_and_community_engagement_in_solid_earth_geohazards.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/centers-innovation-community-engagement-solid-earth/nsf24-515/solicitation"
+  },
+  "document_title": "Centers for Innovation and Community Engagement in Solid Earth Geohazards"
+}

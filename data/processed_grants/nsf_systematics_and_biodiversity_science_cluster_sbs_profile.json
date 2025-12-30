@@ -1,0 +1,206 @@
+{
+  "grant_id": "nsf_systematics_and_biodiversity_science_cluster_sbs",
+  "created_at": "2025-12-30T01:57:02.180151-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Systematics and Biodiversity Science Cluster",
+    "Division of Environmental Biology",
+    "systematics and biodiversity science",
+    "evolutionary history",
+    "extant and extinct organisms",
+    "fundamental questions in biology",
+    "phylogenetic comparative studies",
+    "biogeographic and exploratory biodiversity studies",
+    "identification and classification of extinct and/or extant organisms",
+    "comparative analysis of morphological, physiological, developmental, ecological, behavioral and/or molecular traits",
+    "Advancing Revisionary Taxonomy and Systematics",
+    "revisionary taxonomic research",
+    "Earth\u2019s extant and extinct biodiversity",
+    "Poorly Sampled and Unknown Taxa",
+    "novel discoveries",
+    "biodiversity and sustainability efforts",
+    "discovery, identification, description, and cataloguing",
+    "understudied taxonomic groups",
+    "technological advances",
+    "Data Management and Sharing Plan",
+    "special categories of proposals",
+    "Research Coordination Networks",
+    "Mid-Career Advancement",
+    "Opportunities for Promoting Understanding Through Synthesis",
+    "Rapid Response Research",
+    "Early-concept Grants for Exploratory Research",
+    "Research Advanced by Interdisciplinary Science and Engineering",
+    "Integrative Research in Biology",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Systematics and Biodiversity Science Cluster",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Environmental Biology",
+      "section": "Other"
+    },
+    {
+      "text": "systematics and biodiversity science",
+      "section": "Other"
+    },
+    {
+      "text": "evolutionary history",
+      "section": "Other"
+    },
+    {
+      "text": "extant and extinct organisms",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental questions in biology",
+      "section": "Other"
+    },
+    {
+      "text": "phylogenetic comparative studies",
+      "section": "Other"
+    },
+    {
+      "text": "biogeographic and exploratory biodiversity studies",
+      "section": "Other"
+    },
+    {
+      "text": "identification and classification of extinct and/or extant organisms",
+      "section": "Other"
+    },
+    {
+      "text": "comparative analysis of morphological, physiological, developmental, ecological, behavioral and/or molecular traits",
+      "section": "Other"
+    },
+    {
+      "text": "Advancing Revisionary Taxonomy and Systematics",
+      "section": "Other"
+    },
+    {
+      "text": "revisionary taxonomic research",
+      "section": "Other"
+    },
+    {
+      "text": "Earth\u2019s extant and extinct biodiversity",
+      "section": "Other"
+    },
+    {
+      "text": "Poorly Sampled and Unknown Taxa",
+      "section": "Other"
+    },
+    {
+      "text": "novel discoveries",
+      "section": "Other"
+    },
+    {
+      "text": "biodiversity and sustainability efforts",
+      "section": "Other"
+    },
+    {
+      "text": "discovery, identification, description, and cataloguing",
+      "section": "Other"
+    },
+    {
+      "text": "understudied taxonomic groups",
+      "section": "Other"
+    },
+    {
+      "text": "technological advances",
+      "section": "Other"
+    },
+    {
+      "text": "Data Management and Sharing Plan",
+      "section": "Other"
+    },
+    {
+      "text": "special categories of proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Research Coordination Networks",
+      "section": "Other"
+    },
+    {
+      "text": "Mid-Career Advancement",
+      "section": "Other"
+    },
+    {
+      "text": "Opportunities for Promoting Understanding Through Synthesis",
+      "section": "Other"
+    },
+    {
+      "text": "Rapid Response Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Early-concept Grants for Exploratory Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Advanced by Interdisciplinary Science and Engineering",
+      "section": "Program Description"
+    },
+    {
+      "text": "Integrative Research in Biology",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Integrative Research in Biology",
+        "source_text": "Integrative Research in Biology",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Research Advanced by Interdisciplinary Science and Engineering",
+        "source_text": "Research Advanced by Interdisciplinary Science and Engineering",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "The Division welcomes proposals for STAR (Special Targeted Awards for Research) Grants to the core programs via this solicitation. Projects with total budgets of $400,000 or less may be identified as such with the designation \"STAR:\" as a prefix to the project title in the full proposal. STAR Grants may address any topic appropriate for DEB core programs and could include a variety of important research activities that entail a narrower scope and/or reduced costs (e.g., analysis of existing data (including NEON data), theoretical research, synthesis projects, fieldwork projects, etc.). The STAR track should not be used predominately for the collection of preliminary data. STAR Grants may be useful for targeted research projects, including ideas initiated by postdoctoral researchers. The project description for STAR Grants is limited to 10 pages. STAR Grant projects will be assessed based on the same merit review criteria as all other proposals. If funds for educational supplements are requested, those can be in addition to the $400,000 funding limit for STAR projects.",
+      "NERC-lead proposals should follow the NERC guidelines for applicants ( https://www.ukri.org/opportunity/work-with-us-based-researchers-on-environmental-science-research/ ). Applicants are required to submit an Expression of Interest form to https://reg.nerc.ac.uk/nsf/ three months prior to the closing date of the scheme to which the applicants plan to submit. Note: For NERC-lead proposals, the NSF DEB (non-lead) portion of the project budget cannot exceed $500,000. For NSF DEB-lead proposals the NERC (non-lead) portion of the budget cannot exceed \u00a3300,000.",
+      "Mid-Career Advancement program (MCA) proposals may be submitted to any of the clusters/programs described in this solicitation but must be submitted by the submission window for the MCA program. This is another opportunity available to mid-career researchers to advance their career trajectory.",
+      "Grants for Rapid Response Research (RAPID), Early-concept Grants for Exploratory Research (EAGER), Research Advanced by Interdisciplinary Science and Engineering (RAISE), Grant Opportunities for Academic Liaison with Industry (GOALI), Planning proposals, and proposals for Travel or Conferences support, including workshops, can be submitted at any time to any of the clusters/programs described in this solicitation. These types of proposals should be submitted in accordance with the guidance in the PAPPG. Conference and Travel proposals should be submitted at least 6 months before the start date of the conference or workshop. You are strongly advised to contact a Program Officer prior to submission; also see guidance at https://www.nsf.gov/bio/deb/confrapideagerguidance.jsp . Note that for RAPID, EAGER, RAISE, or Planning proposals, a concept outline must be submitted prior to submission of a full proposal. We strongly encourage the use of NSFs new Program Suitability and Proposal Concept Tool (ProSPCT) [ https://suitability.nsf.gov/s/ ] for RAPID, EAGER, RAISES, and Planning proposals. Prior to submitting a full RAPID, EAGER, or RAISE proposal, proposers must receive approval from a DEB Program Officer in the programmatically relevant cluster. Proposals submitted without the relevant program officer concurrence will not be accepted or will be returned without review (see PAPPG Chapter I.D.1).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_systematics_and_biodiversity_science_cluster_sbs.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/deb-division-environmental-biology/nsf24-543/solicitation"
+  },
+  "document_title": "Systematics and Biodiversity Science Cluster (SBS)"
+}

@@ -1,0 +1,231 @@
+{
+  "grant_id": "nsf_physics_frontiers_centers_pfc",
+  "created_at": "2025-12-30T01:34:29.604813-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Physics Frontiers Centers",
+    "PFC program",
+    "university-based centers and institutes",
+    "transformational advances",
+    "major breakthroughs",
+    "intellectual frontiers of physics",
+    "education of students",
+    "sub-fields of physics",
+    "Division of Physics",
+    "atomic physics",
+    "molecular physics",
+    "optical physics",
+    "plasma physics",
+    "elementary particle physics",
+    "nuclear physics",
+    "particle astrophysics",
+    "gravitational physics",
+    "biological physics",
+    "interdisciplinary projects",
+    "underrepresented groups",
+    "K-12 students",
+    "Cooperative Agreement",
+    "Institutions of Higher Education",
+    "IHEs",
+    "community colleges"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Physics Frontiers Centers",
+      "section": "Other"
+    },
+    {
+      "text": "PFC program",
+      "section": "Introduction"
+    },
+    {
+      "text": "university-based centers and institutes",
+      "section": "Other"
+    },
+    {
+      "text": "transformational advances",
+      "section": "Other"
+    },
+    {
+      "text": "major breakthroughs",
+      "section": "Other"
+    },
+    {
+      "text": "intellectual frontiers of physics",
+      "section": "Other"
+    },
+    {
+      "text": "education of students",
+      "section": "Other"
+    },
+    {
+      "text": "sub-fields of physics",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Physics",
+      "section": "Other"
+    },
+    {
+      "text": "atomic physics",
+      "section": "Other"
+    },
+    {
+      "text": "molecular physics",
+      "section": "Other"
+    },
+    {
+      "text": "optical physics",
+      "section": "Other"
+    },
+    {
+      "text": "plasma physics",
+      "section": "Other"
+    },
+    {
+      "text": "elementary particle physics",
+      "section": "Other"
+    },
+    {
+      "text": "nuclear physics",
+      "section": "Other"
+    },
+    {
+      "text": "particle astrophysics",
+      "section": "Other"
+    },
+    {
+      "text": "gravitational physics",
+      "section": "Other"
+    },
+    {
+      "text": "biological physics",
+      "section": "Other"
+    },
+    {
+      "text": "interdisciplinary projects",
+      "section": "Other"
+    },
+    {
+      "text": "underrepresented groups",
+      "section": "Introduction"
+    },
+    {
+      "text": "K-12 students",
+      "section": "Introduction"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "underrepresented groups in STEM",
+        "source_text": "underrepresented groups",
+        "confidence": 0.7743
+      },
+      {
+        "tag": "PFC program",
+        "source_text": "PFC program",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 students",
+        "source_text": "K-12 students",
+        "confidence": 1.0,
+        "sources": [
+          "K-12 students"
+        ]
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "students with disabilities",
+        "source_text": "education of students",
+        "confidence": 0.6186,
+        "sources": [
+          "education of students"
+        ]
+      },
+      {
+        "tag": "historically underserved students",
+        "source_text": "underrepresented groups",
+        "confidence": 0.6059,
+        "sources": [
+          "underrepresented groups"
+        ]
+      },
+      {
+        "tag": "underserved communities",
+        "source_text": "underrepresented groups",
+        "confidence": 0.6056,
+        "sources": [
+          "underrepresented groups"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "university-based research center",
+        "source_text": "university-based centers and institutes",
+        "confidence": 0.804,
+        "sources": [
+          "university-based centers and institutes"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "No more than two preliminary proposals may be submitted by any one institution. The same limitation applies to full proposals.",
+      "Any one individual may be the Principal Investigator (PI) or co-Principal Investigator (co-PI) for only one preliminary proposal. The same limitation applies to full proposals. Individuals may be listed as participating senior investigators on more than one proposal.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_physics_frontiers_centers_pfc.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/pfc-physics-frontiers-centers/nsf22-592/solicitation"
+  },
+  "document_title": "Physics Frontiers Centers (PFC)"
+}

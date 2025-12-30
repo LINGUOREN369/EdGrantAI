@@ -1,0 +1,293 @@
+{
+  "grant_id": "nsf_cybersecurity_innovation_for_cyberinfrastructure_cici",
+  "created_at": "2025-12-30T00:04:56.752251-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Cybersecurity Innovation for Cyberinfrastructure",
+    "CICI",
+    "scientific research cyberinfrastructure",
+    "computing",
+    "networking",
+    "data",
+    "Artificial Intelligence",
+    "AI",
+    "collaborative",
+    "data-driven discovery",
+    "security and privacy challenges",
+    "open science",
+    "scientific initiatives",
+    "scientific projects",
+    "scientific collaborations",
+    "scientific discoveries",
+    "cybersecurity",
+    "CICI program areas",
+    "Usable and Collaborative Security for Science",
+    "UCSS",
+    "Reference Scientific Security Datasets",
+    "RSSD",
+    "Transition to Cyberinfrastructure Resilience",
+    "TCR",
+    "Integrity, Provenance, and Authenticity for Artificial Intelligence Ready Data",
+    "IPAAI",
+    "scientific data",
+    "scientific workflows",
+    "scientific infrastructure",
+    "domain scientists",
+    "security mechanisms",
+    "cybersecurity innovations",
+    "research CI",
+    "institutional requirements",
+    "Non-profit",
+    "non-academic organizations",
+    "Institutions of Higher Education",
+    "IHEs",
+    "community colleges",
+    "Independent museums",
+    "research laboratories",
+    "professional societies",
+    "scientific security properties",
+    "research community"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Cybersecurity Innovation for Cyberinfrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "CICI",
+      "section": "Other"
+    },
+    {
+      "text": "scientific research cyberinfrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "computing",
+      "section": "Introduction"
+    },
+    {
+      "text": "networking",
+      "section": "Introduction"
+    },
+    {
+      "text": "data",
+      "section": "Other"
+    },
+    {
+      "text": "Artificial Intelligence",
+      "section": "Other"
+    },
+    {
+      "text": "AI",
+      "section": "Other"
+    },
+    {
+      "text": "collaborative",
+      "section": "Other"
+    },
+    {
+      "text": "data-driven discovery",
+      "section": "Introduction"
+    },
+    {
+      "text": "security and privacy challenges",
+      "section": "Introduction"
+    },
+    {
+      "text": "open science",
+      "section": "Introduction"
+    },
+    {
+      "text": "scientific initiatives",
+      "section": "Introduction"
+    },
+    {
+      "text": "scientific projects",
+      "section": "Other"
+    },
+    {
+      "text": "scientific collaborations",
+      "section": "Other"
+    },
+    {
+      "text": "scientific discoveries",
+      "section": "Program Description"
+    },
+    {
+      "text": "cybersecurity",
+      "section": "Other"
+    },
+    {
+      "text": "CICI program areas",
+      "section": "Other"
+    },
+    {
+      "text": "Usable and Collaborative Security for Science",
+      "section": "Other"
+    },
+    {
+      "text": "UCSS",
+      "section": "Other"
+    },
+    {
+      "text": "Reference Scientific Security Datasets",
+      "section": "Other"
+    },
+    {
+      "text": "RSSD",
+      "section": "Other"
+    },
+    {
+      "text": "Transition to Cyberinfrastructure Resilience",
+      "section": "Other"
+    },
+    {
+      "text": "TCR",
+      "section": "Other"
+    },
+    {
+      "text": "Integrity, Provenance, and Authenticity for Artificial Intelligence Ready Data",
+      "section": "Other"
+    },
+    {
+      "text": "IPAAI",
+      "section": "Other"
+    },
+    {
+      "text": "scientific data",
+      "section": "Other"
+    },
+    {
+      "text": "scientific workflows",
+      "section": "Other"
+    },
+    {
+      "text": "scientific infrastructure",
+      "section": "Program Description"
+    },
+    {
+      "text": "domain scientists",
+      "section": "Program Description"
+    },
+    {
+      "text": "security mechanisms",
+      "section": "Program Description"
+    },
+    {
+      "text": "cybersecurity innovations",
+      "section": "Program Description"
+    },
+    {
+      "text": "research CI",
+      "section": "Introduction"
+    },
+    {
+      "text": "institutional requirements",
+      "section": "Other"
+    },
+    {
+      "text": "Non-profit",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Independent museums",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "research laboratories",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "professional societies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "scientific security properties",
+      "section": "Other"
+    },
+    {
+      "text": "research community",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "scientific infrastructure",
+        "source_text": "scientific infrastructure",
+        "confidence": 0.9
+      },
+      {
+        "tag": "cybersecurity innovations",
+        "source_text": "cybersecurity innovations",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit",
+        "confidence": 1.0
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-21"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-21, 2026-01-21",
+      "Scientific research cyberinfrastructure (CI), including computing, networking, data, and Artificial Intelligence (AI), plays a central role in supporting collaborative, data-driven discovery across all scientific disciplines. However, science CI faces unique security and privacy challenges. Collaboration and resource sharing are integral to open science but must adhere to security policies and regulations while providing as seamless of a workflow as possible to domain scientist users. Simultaneously, data and workflow integrity, provenance, and authenticity are crucial to the scientific enterprise and the reproducibility of scientific results. Both unintentional and malicious cyberinfrastructure errors can lead to invalid results and this risk only increases due to growing adoption and use of AI systems. This solicitation broadly targets improving research CI through cybersecurity, thereby creating CI that facilitates scientific initiatives, projects, users, collaborations, and discoveries.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_cybersecurity_innovation_for_cyberinfrastructure_cici.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/cici-cybersecurity-innovation-cyberinfrastructure/nsf25-531/solicitation"
+  },
+  "document_title": "Cybersecurity Innovation for Cyberinfrastructure (CICI)"
+}

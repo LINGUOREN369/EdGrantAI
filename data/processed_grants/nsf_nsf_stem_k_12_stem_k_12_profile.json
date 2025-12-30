@@ -1,0 +1,243 @@
+{
+  "grant_id": "nsf_nsf_stem_k_12_stem_k_12",
+  "created_at": "2025-12-30T01:26:07.501751-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "NSF STEM K-12",
+    "Division of Research on Learning in Formal and Informal Settings",
+    "DRL",
+    "Directorate for STEM Education",
+    "fundamental research",
+    "applied research",
+    "translational research",
+    "STEM teaching and learning",
+    "formal and informal learning settings",
+    "learning or instruction",
+    "computer science",
+    "AI pathways",
+    "computer science for All",
+    "K-12",
+    "STEM workforce",
+    "research methods",
+    "mixed method approaches",
+    "foundational studies",
+    "design-based research",
+    "professional learning resources",
+    "STEM K-12 program",
+    "Institutions of Higher Education",
+    "non-profit organizations",
+    "for-profit organizations",
+    "State and Local Governments",
+    "Tribal Nations",
+    "American Indian or Alaska Native tribe",
+    "standard grant",
+    "continuing grant",
+    "Estimated Number of Awards",
+    "Anticipated Funding Amount"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "NSF STEM K-12",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Research on Learning in Formal and Informal Settings",
+      "section": "Other"
+    },
+    {
+      "text": "DRL",
+      "section": "Other"
+    },
+    {
+      "text": "Directorate for STEM Education",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental research",
+      "section": "Introduction"
+    },
+    {
+      "text": "applied research",
+      "section": "Other"
+    },
+    {
+      "text": "translational research",
+      "section": "Other"
+    },
+    {
+      "text": "STEM teaching and learning",
+      "section": "Other"
+    },
+    {
+      "text": "formal and informal learning settings",
+      "section": "Introduction"
+    },
+    {
+      "text": "learning or instruction",
+      "section": "Introduction"
+    },
+    {
+      "text": "computer science",
+      "section": "Program Description"
+    },
+    {
+      "text": "AI pathways",
+      "section": "Program Description"
+    },
+    {
+      "text": "computer science for All",
+      "section": "Program Description"
+    },
+    {
+      "text": "K-12",
+      "section": "Other"
+    },
+    {
+      "text": "STEM workforce",
+      "section": "Program Description"
+    },
+    {
+      "text": "research methods",
+      "section": "Program Description"
+    },
+    {
+      "text": "mixed method approaches",
+      "section": "Program Description"
+    },
+    {
+      "text": "foundational studies",
+      "section": "Program Description"
+    },
+    {
+      "text": "design-based research",
+      "section": "Program Description"
+    },
+    {
+      "text": "professional learning resources",
+      "section": "Program Description"
+    },
+    {
+      "text": "STEM K-12 program",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit organizations",
+      "section": "Other"
+    },
+    {
+      "text": "for-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "American Indian or Alaska Native tribe",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Anticipated Funding Amount",
+      "section": "Award Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "computer science education",
+        "source_text": "computer science",
+        "confidence": 0.7904
+      },
+      {
+        "tag": "teacher professional learning",
+        "source_text": "professional learning resources",
+        "confidence": 0.7499
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K-12",
+        "confidence": 1.0,
+        "sources": [
+          "K-12"
+        ]
+      },
+      {
+        "tag": "informal learners",
+        "source_text": "formal and informal learning settings",
+        "confidence": 0.7216,
+        "sources": [
+          "formal and informal learning settings"
+        ]
+      },
+      {
+        "tag": "K-12 students",
+        "source_text": "STEM K-12 program",
+        "confidence": 0.6274,
+        "sources": [
+          "STEM K-12 program"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Investigators who would typically submit to the EDU Core Research (ECR) solicitation for research in K-12 and informal settings are encouraged to apply to NSF STEM K-12. ECR will only accept proposals for DUE and DGE focused projects.",
+      "Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds and quality of proposals submitted. It is anticipated that most awards supported by the program will range between $25,000 and $750,000, with a typical duration of one to three years. CAREER awards are expected to range between $500,000 and $750,000, but CAREER proposals must be submitted to the NSF-wide CAREER solicitation for the annual deadline.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_stem_k_12_stem_k_12.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/stem-k-12-nsf-stem-k-12/nsf25-545/solicitation"
+  },
+  "document_title": "NSF STEM K-12 (STEM K-12)"
+}

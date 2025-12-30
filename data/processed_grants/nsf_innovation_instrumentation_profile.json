@@ -1,0 +1,191 @@
+{
+  "grant_id": "nsf_innovation_instrumentation",
+  "created_at": "2025-12-30T00:50:14.976502-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Instrumentation Programmatic Area",
+    "Infrastructure Innovation for Biological Research",
+    "Innovative instrumentation and associated methods",
+    "biological phenomena",
+    "research infrastructure",
+    "Biological Sciences Directorate",
+    "Bioinformatics Programmatic Area",
+    "Research Methods Programmatic Area",
+    "Faculty Early Career Development Program",
+    "Research Coordination Networks",
+    "Research at Undergraduate Institutions",
+    "Renewal and Accomplishment Based Renewal",
+    "Grants for Rapid Response Research",
+    "Early-concept Grants for Exploratory Research",
+    "Research Advanced by Interdisciplinary Science and Engineering",
+    "Grant Opportunities for Academic Liaison with Industry",
+    "Education Supplements",
+    "Standard Grant",
+    "Continuing Grant",
+    "Cooperative Agreement",
+    "Institutions of Higher Education",
+    "community colleges",
+    "Non-profit, non-academic organizations",
+    "educational or research activities"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Instrumentation Programmatic Area",
+      "section": "Other"
+    },
+    {
+      "text": "Infrastructure Innovation for Biological Research",
+      "section": "Introduction"
+    },
+    {
+      "text": "Innovative instrumentation and associated methods",
+      "section": "Other"
+    },
+    {
+      "text": "biological phenomena",
+      "section": "Other"
+    },
+    {
+      "text": "research infrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "Biological Sciences Directorate",
+      "section": "Program Description"
+    },
+    {
+      "text": "Bioinformatics Programmatic Area",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Methods Programmatic Area",
+      "section": "Program Description"
+    },
+    {
+      "text": "Faculty Early Career Development Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Coordination Networks",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research at Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Renewal and Accomplishment Based Renewal",
+      "section": "Program Description"
+    },
+    {
+      "text": "Grants for Rapid Response Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Early-concept Grants for Exploratory Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Advanced by Interdisciplinary Science and Engineering",
+      "section": "Program Description"
+    },
+    {
+      "text": "Grant Opportunities for Academic Liaison with Industry",
+      "section": "Program Description"
+    },
+    {
+      "text": "Education Supplements",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "educational or research activities",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Research Methods Programmatic Area",
+        "source_text": "Research Methods Programmatic Area",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Bioinformatics Programmatic Area",
+        "source_text": "Bioinformatics Programmatic Area",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "The Innovation program only considers support for full proposals submitted to the program. Except for Career-Life-Balance supplements, program funds are generally not used to provide post-award supplements to existing awards. If activities that align with REU, RET, and RAHSS educational supplements are planned, these activities should be described and budgeted for in the original proposal submission.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_innovation_instrumentation.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/innovation-infrastructure-innovation-biological-research/nsf23-578/solicitation"
+  },
+  "document_title": "Innovation: Instrumentation"
+}

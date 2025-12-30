@@ -1,0 +1,161 @@
+{
+  "grant_id": "nsf_international_research_and_education_network_connections_irnc",
+  "created_at": "2025-12-30T00:53:40.895575-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "International Research and education Network Connections",
+    "IRNC Base program",
+    "high-performance network connectivity",
+    "international science and engineering research",
+    "NSF research community",
+    "U.S. research and education community",
+    "international network services",
+    "data services",
+    "multi Gbps connectivity",
+    "science instrumentation",
+    "broadening impact and participation",
+    "international R&E networking infrastructure",
+    "human and network capacity building",
+    "Network operations center services",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "U.S. organizations",
+    "international R&E exchange points",
+    "IRNC: Core - Backbone and Exchange Point International Networking",
+    "IRNC: Testbed - International Testbeds",
+    "IRNC: ENgage - Engagement for Training and Human and Network Capacity Building"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "International Research and education Network Connections",
+      "section": "Other"
+    },
+    {
+      "text": "IRNC Base program",
+      "section": "Introduction"
+    },
+    {
+      "text": "high-performance network connectivity",
+      "section": "Other"
+    },
+    {
+      "text": "international science and engineering research",
+      "section": "Other"
+    },
+    {
+      "text": "NSF research community",
+      "section": "Other"
+    },
+    {
+      "text": "U.S. research and education community",
+      "section": "Other"
+    },
+    {
+      "text": "international network services",
+      "section": "Other"
+    },
+    {
+      "text": "data services",
+      "section": "Other"
+    },
+    {
+      "text": "multi Gbps connectivity",
+      "section": "Introduction"
+    },
+    {
+      "text": "science instrumentation",
+      "section": "Introduction"
+    },
+    {
+      "text": "broadening impact and participation",
+      "section": "Introduction"
+    },
+    {
+      "text": "international R&E networking infrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "human and network capacity building",
+      "section": "Program Description"
+    },
+    {
+      "text": "Network operations center services",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S. organizations",
+      "section": "Program Description"
+    },
+    {
+      "text": "international R&E exchange points",
+      "section": "Program Description"
+    },
+    {
+      "text": "IRNC: Core - Backbone and Exchange Point International Networking",
+      "section": "Program Description"
+    },
+    {
+      "text": "IRNC: Testbed - International Testbeds",
+      "section": "Program Description"
+    },
+    {
+      "text": "IRNC: ENgage - Engagement for Training and Human and Network Capacity Building",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "human and network capacity building",
+        "source_text": "human and network capacity building",
+        "confidence": 0.9
+      },
+      {
+        "tag": "U.S. organizations",
+        "source_text": "U.S. organizations",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "NSF recognizes the need to also support the improvement and ongoing support of existing IRNC infrastructure with a tangible user base among the NSF community. Proposals addressing Improvement and Support must: identify the pre-existing elements for continuation and make a compelling case for why the connectivity, services, and infrastructure justify continuation and improvement. Such projects address the improvement of existing infrastructure with a track record of production use and impact on domain sciences and engineering.",
+      "Proposals should address in their proposed activities support for, and optionally direct participation in, network innovation, trials, and ongoing experimentation. Industry participation, teaming and collaboration with partners capable of contributing to advances in network engineering and technology are encouraged. Proposals should describe their connectivity policies and how they adhere to community-driven best practices for R&E network exchange points. Proposals should address support for jumbo frames. Proposals may include support for development and deployment of production level network services. Proposals may request nominal amounts of computing and storage as part of a plan to develop integrated capabilities.",
+      "Full Proposals: Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via FastLane: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_international_research_and_education_network_connections_irnc.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/irnc-international-research-education-network-connections/nsf20-535/solicitation"
+  },
+  "document_title": "International Research and education Network Connections (IRNC)"
+}

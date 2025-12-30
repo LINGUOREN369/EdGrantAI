@@ -1,0 +1,189 @@
+{
+  "grant_id": "nsf_security_privacy_and_trust_in_cyberspace_satc_2_0",
+  "created_at": "2025-12-30T01:51:19.856826-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Security, Privacy, and Trust in Cyberspace (SaTC 2.0)",
+    "cyber ecosystem",
+    "critical infrastructure",
+    "malicious actors",
+    "Trust",
+    "cybersecurity",
+    "privacy",
+    "resilience of cyberspace",
+    "Research Experiences for Undergraduates",
+    "Broadening Participation in Computing",
+    "Transition to Education (TTE) plan",
+    "Education",
+    "Seedling (SEED) category",
+    "standard grant",
+    "continuing grant",
+    "Institutions of Higher Education (IHEs)",
+    "Non-profit, non-academic organizations",
+    "special topics",
+    "educational initiatives",
+    "cybersecurity education",
+    "workforce development",
+    "educational materials",
+    "cybersecurity workforce",
+    "cybersecurity awareness",
+    "K-12"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Security, Privacy, and Trust in Cyberspace (SaTC 2.0)",
+      "section": "Other"
+    },
+    {
+      "text": "cyber ecosystem",
+      "section": "Other"
+    },
+    {
+      "text": "critical infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "malicious actors",
+      "section": "Other"
+    },
+    {
+      "text": "Trust",
+      "section": "Other"
+    },
+    {
+      "text": "cybersecurity",
+      "section": "Other"
+    },
+    {
+      "text": "privacy",
+      "section": "Other"
+    },
+    {
+      "text": "resilience of cyberspace",
+      "section": "Other"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Other"
+    },
+    {
+      "text": "Broadening Participation in Computing",
+      "section": "Other"
+    },
+    {
+      "text": "Transition to Education (TTE) plan",
+      "section": "Other"
+    },
+    {
+      "text": "Education",
+      "section": "Other"
+    },
+    {
+      "text": "Seedling (SEED) category",
+      "section": "Other"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education (IHEs)",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "special topics",
+      "section": "Other"
+    },
+    {
+      "text": "educational initiatives",
+      "section": "Other"
+    },
+    {
+      "text": "cybersecurity education",
+      "section": "Program Description"
+    },
+    {
+      "text": "workforce development",
+      "section": "Program Description"
+    },
+    {
+      "text": "educational materials",
+      "section": "Program Description"
+    },
+    {
+      "text": "cybersecurity workforce",
+      "section": "Program Description"
+    },
+    {
+      "text": "cybersecurity awareness",
+      "section": "Program Description"
+    },
+    {
+      "text": "K-12",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "cybersecurity education",
+        "source_text": "cybersecurity education",
+        "confidence": 0.9
+      },
+      {
+        "tag": "cybersecurity workforce",
+        "source_text": "cybersecurity workforce",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K-12",
+        "confidence": 1.0,
+        "sources": [
+          "K-12"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education (IHEs)",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-26"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-26, 2026-01-26",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_security_privacy_and_trust_in_cyberspace_satc_2_0.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/satc-20-security-privacy-trust-cyberspace/nsf25-515/solicitation"
+  },
+  "document_title": "Security, Privacy, and Trust in Cyberspace (SaTC 2.0)"
+}

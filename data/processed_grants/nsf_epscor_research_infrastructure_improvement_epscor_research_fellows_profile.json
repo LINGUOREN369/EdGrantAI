@@ -1,0 +1,170 @@
+{
+  "grant_id": "nsf_epscor_research_infrastructure_improvement_epscor_research_fellows",
+  "created_at": "2025-12-30T00:23:10.983742-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "EPSCoR Research Infrastructure Improvement",
+    "EPSCoR Research Fellows",
+    "National Science Foundation",
+    "Research and Development capacity",
+    "EPSCoR-eligible jurisdictions",
+    "Science, Technology, Engineering, and Mathematics",
+    "STEM professional development pathways",
+    "EPSCoR Research Infrastructure Improvement: EPSCoR Research Fellows",
+    "EPSCoR Research Fellows: NSF",
+    "EPSCoR Research Fellows: @NASA",
+    "National Aeronautics and Space Administration",
+    "EPSCoR jurisdictions",
+    "Not-for-profit, non-degree-granting domestic U.S. organizations",
+    "Institutions of higher education",
+    "Primarily Undergraduate Institutions",
+    "Minority-serving institutions",
+    "Early Career Investigator",
+    "Mid-Career Investigator",
+    "Professional Development",
+    "Fellowship"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "EPSCoR Research Infrastructure Improvement",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR Research Fellows",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "Research and Development capacity",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR-eligible jurisdictions",
+      "section": "Other"
+    },
+    {
+      "text": "Science, Technology, Engineering, and Mathematics",
+      "section": "Other"
+    },
+    {
+      "text": "STEM professional development pathways",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR Research Infrastructure Improvement: EPSCoR Research Fellows",
+      "section": "Introduction"
+    },
+    {
+      "text": "EPSCoR Research Fellows: NSF",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR Research Fellows: @NASA",
+      "section": "Other"
+    },
+    {
+      "text": "National Aeronautics and Space Administration",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR jurisdictions",
+      "section": "Introduction"
+    },
+    {
+      "text": "Not-for-profit, non-degree-granting domestic U.S. organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of higher education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Primarily Undergraduate Institutions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Minority-serving institutions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Early Career Investigator",
+      "section": "Introduction"
+    },
+    {
+      "text": "Mid-Career Investigator",
+      "section": "Introduction"
+    },
+    {
+      "text": "Professional Development",
+      "section": "Introduction"
+    },
+    {
+      "text": "Fellowship",
+      "section": "Introduction"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "EPSCoR Research Infrastructure Improvement: EPSCoR Research Fellows",
+        "source_text": "EPSCoR Research Infrastructure Improvement: EPSCoR Research Fellows",
+        "confidence": 0.9
+      },
+      {
+        "tag": "teacher professional development",
+        "source_text": "Professional Development",
+        "confidence": 0.7444
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "Minority-serving institutions",
+        "confidence": 0.9062,
+        "sources": [
+          "Minority-serving institutions"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of higher education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR jurisdictions",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR-eligible jurisdictions",
+          "EPSCoR jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-04-14"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-04-14, 2026-04-14",
+      "For planning purposes, PIs should assume that the award start date will be approximately nine months after the proposal deadline date.",
+      "For the faculty category of the PI, the faculty ranking should be determined by the faculty rank at the proposal's deadline date.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_epscor_research_infrastructure_improvement_epscor_research_fellows.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/epscor-research-infrastructure-improvement-epscor-research/nsf24-528/solicitation"
+  },
+  "document_title": "EPSCoR Research Infrastructure Improvement : EPSCoR Research Fellows"
+}

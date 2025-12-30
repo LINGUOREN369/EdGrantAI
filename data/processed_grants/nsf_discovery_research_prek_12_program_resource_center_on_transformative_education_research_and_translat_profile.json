@@ -1,0 +1,243 @@
+{
+  "grant_id": "nsf_discovery_research_prek_12_program_resource_center_on_transformative_education_research_and_translat",
+  "created_at": "2025-12-30T00:09:39.017319-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Discovery Research PreK-12 Program Resource Center on Transformative Education Research and Translation",
+    "DRK-12 RC",
+    "DRK-12 Program",
+    "DRK-12 Program's goal",
+    "high-quality STEM learning experiences",
+    "preK-12 students",
+    "preK-12 teachers",
+    "STEM education researchers",
+    "STEM education practitioners",
+    "school leaders",
+    "DRK-12 projects",
+    "Resource Center on Transformative Education Research and Translation",
+    "EPSCoR jurisdictions",
+    "STEM education",
+    "technical support",
+    "capacity building",
+    "broadening participation",
+    "Cooperative Agreement",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "For-profit organizations",
+    "State and Local Governments",
+    "Tribal Nations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Discovery Research PreK-12 Program Resource Center on Transformative Education Research and Translation",
+      "section": "Other"
+    },
+    {
+      "text": "DRK-12 RC",
+      "section": "Other"
+    },
+    {
+      "text": "DRK-12 Program",
+      "section": "Other"
+    },
+    {
+      "text": "DRK-12 Program's goal",
+      "section": "Introduction"
+    },
+    {
+      "text": "high-quality STEM learning experiences",
+      "section": "Introduction"
+    },
+    {
+      "text": "preK-12 students",
+      "section": "Introduction"
+    },
+    {
+      "text": "preK-12 teachers",
+      "section": "Introduction"
+    },
+    {
+      "text": "STEM education researchers",
+      "section": "Other"
+    },
+    {
+      "text": "STEM education practitioners",
+      "section": "Introduction"
+    },
+    {
+      "text": "school leaders",
+      "section": "Other"
+    },
+    {
+      "text": "DRK-12 projects",
+      "section": "Introduction"
+    },
+    {
+      "text": "Resource Center on Transformative Education Research and Translation",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR jurisdictions",
+      "section": "Introduction"
+    },
+    {
+      "text": "STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "technical support",
+      "section": "Program Description"
+    },
+    {
+      "text": "capacity building",
+      "section": "Program Description"
+    },
+    {
+      "text": "broadening participation",
+      "section": "Program Description"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "For-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "technical support",
+        "source_text": "technical support",
+        "confidence": 0.9
+      },
+      {
+        "tag": "DRK-12 Program's goal",
+        "source_text": "DRK-12 Program's goal",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 students",
+        "source_text": "preK-12 students",
+        "confidence": 0.8825,
+        "sources": [
+          "preK-12 students",
+          "preK-12 teachers"
+        ]
+      },
+      {
+        "tag": "K-12 teachers",
+        "source_text": "preK-12 teachers",
+        "confidence": 0.882,
+        "sources": [
+          "preK-12 students",
+          "preK-12 teachers"
+        ]
+      },
+      {
+        "tag": "pre-service teachers",
+        "source_text": "preK-12 teachers",
+        "confidence": 0.7148,
+        "sources": [
+          "preK-12 teachers"
+        ]
+      },
+      {
+        "tag": "elementary students",
+        "source_text": "preK-12 students",
+        "confidence": 0.7069,
+        "sources": [
+          "preK-12 students"
+        ]
+      },
+      {
+        "tag": "high school teachers",
+        "source_text": "preK-12 teachers",
+        "confidence": 0.6579,
+        "sources": [
+          "preK-12 teachers"
+        ]
+      },
+      {
+        "tag": "middle school students",
+        "source_text": "preK-12 students",
+        "confidence": 0.656,
+        "sources": [
+          "preK-12 students"
+        ]
+      },
+      {
+        "tag": "high school students",
+        "source_text": "preK-12 students",
+        "confidence": 0.6536,
+        "sources": [
+          "preK-12 students"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR jurisdictions",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR jurisdictions"
+        ]
+      },
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_discovery_research_prek_12_program_resource_center_on_transformative_education_research_and_translat.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/drk-12-rc-discovery-research-prek-12-program-resource-center/nsf24-602/solicitation"
+  },
+  "document_title": "Discovery Research PreK-12 Program Resource Center on Transformative Education Research and Translation (DRK-12 RC)"
+}

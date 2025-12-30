@@ -135,6 +135,7 @@ def _loose_threshold_for_taxonomy(taxonomy_name: str) -> float:
 def map_phrases_to_canonical(
     extracted_phrases: List[str],
     taxonomy_name: str,
+    phrase_sections: Dict[str, str] | None = None,
     similarity_threshold: float | None = None,
     top_k: int | None = None,
 ) -> List[Dict]:
@@ -186,6 +187,11 @@ def map_phrases_to_canonical(
         re.I,
     )
 
+    def _get_section(phrase: str) -> str:
+        if not phrase_sections:
+            return "Other"
+        return phrase_sections.get((phrase or "").lower().strip(), "Other")
+
     def _allow_mapping(phrase: str, tag: str) -> bool:
         # Org type: avoid mapping audience phrases to organization types
         if taxonomy_name == "org_types":
@@ -195,10 +201,15 @@ def map_phrases_to_canonical(
         if taxonomy_name == "red_flag_tags":
             if not redflag_gate.search(phrase or ""):
                 return False
+            if phrase_sections and _get_section(phrase) != "Eligibility Information":
+                return False
         # Mission: tighten computing-specific tags unless explicit cues present
         if taxonomy_name == "mission_tags":
             # Never allow mechanism/instrument terms to create mission tags
             if mech_acronyms.search(phrase or "") or mech_spelled.search(phrase or ""):
+                return False
+            # Allow mission only from Introduction / Program Description when provenance present
+            if phrase_sections and _get_section(phrase) not in {"Introduction", "Program Description"}:
                 return False
             if tag.lower() in {"computing education research", "computer science education", "computing education"}:
                 if not re.search(r"\b(comput|computer\s*science|\bCS\b|coding)\b", (phrase or ""), re.I):
@@ -297,14 +308,31 @@ def map_phrases_to_canonical(
 # -------------------------------------------------------------
 # Multi-taxonomy wrapper
 # -------------------------------------------------------------
-def map_all_taxonomies(extracted_phrases: List[str]) -> Dict[str, List[Dict]]:
+def map_all_taxonomies(
+    extracted_phrases: List[str],
+    phrases_structured: List[Dict] | None = None,
+    *,
+    doc_title: str | None = None,
+    full_text: str | None = None,
+) -> Dict[str, List[Dict]]:
     """
     Map phrases across all four taxonomy types.
     """
     out: Dict[str, List[Dict]] = {}
+    # Derive phrase->section map when structured provided
+    phrase_sections: Dict[str, str] | None = None
+    if phrases_structured:
+        phrase_sections = {}
+        for item in phrases_structured:
+            if isinstance(item, dict):
+                t = (item.get("text") or "").lower().strip()
+                sec = item.get("section") or "Other"
+                if t and t not in phrase_sections:
+                    phrase_sections[t] = sec
+
     for tax in settings.TAXONOMIES:
         key = settings.TAXONOMY_TO_OUTPUT_KEY.get(tax, tax)
-        out[key] = map_phrases_to_canonical(extracted_phrases, tax)
+        out[key] = map_phrases_to_canonical(extracted_phrases, tax, phrase_sections=phrase_sections)
 
     # Deterministic NSF mapping layer (post-processing)
     phrases = extracted_phrases or []
@@ -342,23 +370,94 @@ def map_all_taxonomies(extracted_phrases: List[str]) -> Dict[str, List[Dict]]:
     missions_filtered = [m for m in missions if not mech_phrase_re.search(str(m.get("source_text") or ""))]
     out["mission_tags"] = missions_filtered
 
-    # 4) Mission selection fallback using domain phrases
-    if not out.get("mission_tags"):
-        domain_terms = [
-            "chemical measurement and imaging",
-            "measurement science",
-            "chemical imaging",
-            "mass spectrometry",
-        ]
-        added = 0
-        for p in phrases:
-            low = (p or "").lower()
-            if any(term in low for term in domain_terms):
-                out.setdefault("mission_tags", []).append(
-                    {"tag": p, "source_text": p, "confidence": 0.85}
-                )
-                added += 1
-                if added >= 3:
-                    break
+    # 4) Generic mission-tag selection using provenance, title, and repetition
+    def _mission_selection():
+        structured = phrases_structured or []
+        allowed_secs = {"Introduction", "Program Description"}
+        stoplist = set(getattr(settings, "MISSION_GENERIC_STOPLIST", []))
+        title_low = (doc_title or "").lower()
+        text_low = (full_text or "").lower()
+
+        # Build phrase -> (section, count, in_title)
+        cand = []
+        for item in structured:
+            if not isinstance(item, dict):
+                continue
+            phrase = (item.get("text") or "").strip()
+            sec = item.get("section") or "Other"
+            if not phrase or sec not in allowed_secs:
+                continue
+            pl = phrase.lower()
+            in_title = bool(title_low) and (pl in title_low)
+            # Count occurrences in full text; if missing, default to 1
+            if text_low:
+                count = len(re.findall(re.escape(pl), text_low, re.I))
+            else:
+                count = 1
+            score = 0
+            if in_title:
+                score += 3
+            if sec == "Program Description":
+                score += 2
+            elif sec == "Introduction":
+                score += 1
+            if count >= 2:
+                score += 2
+            if pl in stoplist:
+                score -= 2
+            cand.append({"phrase": phrase, "section": sec, "in_title": in_title, "count": count, "score": score, "is_stop": pl in stoplist})
+
+        if not cand:
+            return
+
+        # Rank by score desc then phrase length desc (favor specific), then alpha
+        cand.sort(key=lambda x: (x["score"], len(x["phrase"])), reverse=True)
+
+        # Build mapping from phrase -> mapped mission tag items (if any)
+        mapped_items = out.get("mission_tags", []) or []
+        phrase_to_items: Dict[str, List[Dict]] = {}
+        for it in mapped_items:
+            srcs = it.get("sources") or [it.get("source_text")]
+            for s in (srcs or []):
+                if s:
+                    phrase_to_items.setdefault(s, []).append(it)
+
+        primary: List[Dict] = []
+        secondary: List[Dict] = []
+
+        def _make_item(ph: str, allow_from_existing: bool = True) -> Dict:
+            # Prefer existing mapped item
+            if allow_from_existing:
+                items = phrase_to_items.get(ph)
+                if items:
+                    # take first
+                    return {k: items[0].get(k) for k in ("tag", "source_text", "confidence")}
+            # fallback: use phrase as tag
+            return {"tag": ph, "source_text": ph, "confidence": 0.9}
+
+        # Select top 1-2 primary; demote stoplist unless title two-times-in-PD condition holds
+        for c in cand:
+            if len(primary) >= 2:
+                break
+            if c["is_stop"] and not (c["in_title"] or (c["section"] == "Program Description" and c["count"] >= 2)):
+                secondary.append(_make_item(c["phrase"]))
+                continue
+            primary.append(_make_item(c["phrase"]))
+
+        if primary:
+            out["mission_tags"] = primary
+        # Add secondary list when present
+        if secondary:
+            # de-duplicate by tag
+            seen = set()
+            sec_clean = []
+            for it in secondary:
+                t = it.get("tag")
+                if t and t not in seen:
+                    sec_clean.append(it)
+                    seen.add(t)
+            out["secondary_mission_tags"] = sec_clean
+
+    _mission_selection()
 
     return out

@@ -1,0 +1,140 @@
+{
+  "grant_id": "nsf_geoinformatics_gi",
+  "created_at": "2025-12-30T00:36:11.498241-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Geoinformatics",
+    "Earth Sciences",
+    "cyberinfrastructure",
+    "Division of Earth Sciences",
+    "Innovative Resources track",
+    "Sustained Resources track",
+    "data resources",
+    "open-source software",
+    "FAIR Guiding Principles",
+    "CARE Principles",
+    "Earth Data and Sample Policy",
+    "OSTP memorandum",
+    "TRUST Principles",
+    "metrics and assessment",
+    "sustainable management",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Geoinformatics",
+      "section": "Other"
+    },
+    {
+      "text": "Earth Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "cyberinfrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Earth Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "Innovative Resources track",
+      "section": "Other"
+    },
+    {
+      "text": "Sustained Resources track",
+      "section": "Other"
+    },
+    {
+      "text": "data resources",
+      "section": "Program Description"
+    },
+    {
+      "text": "open-source software",
+      "section": "Other"
+    },
+    {
+      "text": "FAIR Guiding Principles",
+      "section": "Introduction"
+    },
+    {
+      "text": "CARE Principles",
+      "section": "Introduction"
+    },
+    {
+      "text": "Earth Data and Sample Policy",
+      "section": "Other"
+    },
+    {
+      "text": "OSTP memorandum",
+      "section": "Introduction"
+    },
+    {
+      "text": "TRUST Principles",
+      "section": "Introduction"
+    },
+    {
+      "text": "metrics and assessment",
+      "section": "Program Description"
+    },
+    {
+      "text": "sustainable management",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "sustainable management",
+        "source_text": "sustainable management",
+        "confidence": 0.9
+      },
+      {
+        "tag": "data resources",
+        "source_text": "data resources",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Principal Investigators (PIs) are strongly recommended to contact cognizant Program Officer(s) for this solicitation in advance of proposal submission to ascertain that the focus and budget of proposed projects are appropriate for this solicitation and the designated track.\u00a0Guidance on the appropriate scope of Geoinformatics projects is provided in the Program Description. In addition, all proposers for Sustained Resources track projects must submit a Concept Outline at least three (3) months in advance of the full proposal target date.",
+      "The Sustained Resources track is intended as the next phase of support after the Innovative Resources track. The Sustained Resources track supports the sustained operations and user community support for mature CI resources that serve Earth Sciences research and education. Supported CI resources are expected to be managed to facilitate broad access, training, and usage across multiple disciplines within the Earth Sciences. Proposals to further develop CI resources previously supported by NSF programs may be submitted to the Sustained Resources track, regardless of the duration of previous support (including support through any Geoinformatics program track). Such proposals should demonstrate outcomes of prior NSF investment(s) and describe distinctive new directions to be pursued. Projects that have not previously received NSF support may also be submitted to the Sustained Resources track with appropriate justification. Sustained Resources track projects should adopt sustainable governance approaches that ensure responsiveness to needs of the relevant Earth Sciences disciplines and facilitate continuity of outcomes after completion of Geoinformatics support. Expected budgets for projects supported through the Sustained Resources track may vary widely and should be appropriate to the scope of Earth Sciences communities served. In anticipation of future program changes, the expected duration for Sustained Resources proposals submitted to the December 2023 target date is 3 - 4 years, and the expected duration for proposals submitted to the December 2024 target date is 3 years.",
+      "To ascertain that the focus and budget of proposed projects are appropriate for this solicitation, all proposers for Sustained Resources track projects must submit a Concept Outline at least three (3) months in advance of the full proposal target date. The Proposal Preparation Instructions (Section V.A) explain this in further detail. Principal Investigators (PIs) for Innovative Resources track projects are also recommended to contact cognizant Program Officer(s) for this solicitation in advance of proposal submission for advice on expected proposal submissions.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_geoinformatics_gi.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/gi-geoinformatics/nsf23-594/solicitation"
+  },
+  "document_title": "Geoinformatics (GI)"
+}

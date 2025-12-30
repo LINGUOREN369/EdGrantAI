@@ -1,207 +1,189 @@
 {
   "grant_id": "nsf_accelerating_research_translation_art",
-  "created_at": "2025-12-28T20:59:18.325246-05:00",
+  "created_at": "2025-12-28T21:23:21.589226-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "Accelerating Research Translation",
     "U.S. National Science Foundation",
-    "academic research",
-    "tangible solutions",
-    "public benefit",
-    "scientific and economic leadership",
-    "translational research ecosystems",
-    "Institutions of Higher Education",
-    "geography of our nation",
-    "sustained impacts",
-    "primary aim",
-    "technology transfer offices",
-    "intellectual property",
-    "entrepreneurial training teams",
-    "scientific, technological and engineering fields",
-    "Tracks",
     "research translation",
-    "technology transfer",
-    "sustained economic and collective impacts",
+    "Institutions of Higher Education",
+    "translational research ecosystems",
+    "academic research",
+    "economic impacts",
     "research translation readiness level",
-    "research expenditures",
-    "technology transfer and entrepreneurship related activities",
-    "invention disclosures",
-    "patents",
-    "licenses",
-    "royalties",
-    "partnerships with industry",
-    "non-profits",
-    "ART program",
-    "institutional infrastructure",
-    "engaged scholarship",
-    "experiential opportunities",
-    "science and engineering education",
-    "community-engaged scholarship",
-    "research translation-related activities",
-    "innovations",
-    "track",
-    "Accelerating Technology Transfer",
-    "Growing Capacity for Research Translation",
-    "Technology Transfer Resource Centers",
-    "Education and Training",
-    "Coordinating Accelerating Research Translation",
-    "low to medium RTRL",
-    "higher RTRL",
-    "low RTRL",
-    "strong performance",
-    "standard grant",
-    "continuing grant",
-    "cooperative agreement",
-    "anticipated number of awards",
-    "eligibility requirements",
-    "Mentoring Institution",
+    "entrepreneurial training teams",
+    "essential expertise",
+    "educational or research activities",
     "research translation ecosystem",
-    "research outcomes",
-    "entrepreneurship",
-    "academic institutions and research activities",
-    "innovation potential",
+    "regional innovation ecosystems",
     "research translation activities",
-    "proposal preparation",
-    "evaluation plan",
-    "sustainability plan",
-    "impact",
-    "research translation readiness level",
-    "education nonprofit",
-    "minority-serving institutions"
+    "entrepreneurship-related areas",
+    "research translation resources",
+    "technology transfer-related areas",
+    "research translations",
+    "mentoring institution",
+    "ART Ambassadors",
+    "educational and training resources",
+    "technology transfer resources",
+    "commercialization",
+    "product development",
+    "engaged scholarship",
+    "research translation capacity",
+    "high RTRL",
+    "entrepreneurship",
+    "technology transfer",
+    "community engagement",
+    "institutional infrastructure",
+    "technology transfer office"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Accelerating Research Translation",
+      "section": "Other"
+    },
+    {
+      "text": "U.S. National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "research translation",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Other"
+    },
+    {
+      "text": "translational research ecosystems",
+      "section": "Other"
+    },
+    {
+      "text": "academic research",
+      "section": "Other"
+    },
+    {
+      "text": "economic impacts",
+      "section": "Other"
+    },
+    {
+      "text": "research translation readiness level",
+      "section": "Other"
+    },
+    {
+      "text": "entrepreneurial training teams",
+      "section": "Other"
+    },
+    {
+      "text": "essential expertise",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "educational or research activities",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "research translation ecosystem",
+      "section": "Other"
+    },
+    {
+      "text": "regional innovation ecosystems",
+      "section": "Introduction"
+    },
+    {
+      "text": "research translation activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "entrepreneurship-related areas",
+      "section": "Other"
+    },
+    {
+      "text": "research translation resources",
+      "section": "Other"
+    },
+    {
+      "text": "technology transfer-related areas",
+      "section": "Introduction"
+    },
+    {
+      "text": "research translations",
+      "section": "Other"
+    },
+    {
+      "text": "mentoring institution",
+      "section": "Program Description"
+    },
+    {
+      "text": "ART Ambassadors",
+      "section": "Program Description"
+    },
+    {
+      "text": "educational and training resources",
+      "section": "Other"
+    },
+    {
+      "text": "technology transfer resources",
+      "section": "Other"
+    },
+    {
+      "text": "commercialization",
+      "section": "Program Description"
+    },
+    {
+      "text": "product development",
+      "section": "Program Description"
+    },
+    {
+      "text": "engaged scholarship",
+      "section": "Other"
+    },
+    {
+      "text": "research translation capacity",
+      "section": "Other"
+    },
+    {
+      "text": "high RTRL",
+      "section": "Other"
+    },
+    {
+      "text": "entrepreneurship",
+      "section": "Other"
+    },
+    {
+      "text": "technology transfer",
+      "section": "Other"
+    },
+    {
+      "text": "community engagement",
+      "section": "Other"
+    },
+    {
+      "text": "institutional infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "technology transfer office",
+      "section": "Other"
+    }
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "engineering education",
-        "source_text": "science and engineering education",
-        "confidence": 0.7316,
-        "sources": [
-          "science and engineering education"
-        ]
-      },
-      {
-        "tag": "science education",
-        "source_text": "science and engineering education",
-        "confidence": 0.7274,
-        "sources": [
-          "science and engineering education"
-        ]
-      },
-      {
-        "tag": "evaluation and assessment",
-        "source_text": "evaluation plan",
-        "confidence": 0.7176,
-        "sources": [
-          "evaluation plan"
-        ]
-      },
-      {
-        "tag": "STEM education",
-        "source_text": "science and engineering education",
-        "confidence": 0.6947,
-        "sources": [
-          "science and engineering education"
-        ]
-      },
-      {
-        "tag": "undergraduate STEM education",
-        "source_text": "science and engineering education",
-        "confidence": 0.682,
-        "sources": [
-          "science and engineering education"
-        ]
-      },
-      {
-        "tag": "high school STEM education",
-        "source_text": "science and engineering education",
-        "confidence": 0.6528,
-        "sources": [
-          "science and engineering education"
-        ]
-      },
-      {
-        "tag": "STEM education research",
-        "source_text": "science and engineering education",
-        "confidence": 0.631,
-        "sources": [
-          "science and engineering education"
-        ]
-      },
-      {
-        "tag": "education system partnerships",
-        "source_text": "partnerships with industry",
-        "confidence": 0.6307,
-        "sources": [
-          "partnerships with industry"
-        ]
-      },
-      {
-        "tag": "elementary STEM education",
-        "source_text": "science and engineering education",
-        "confidence": 0.6245,
-        "sources": [
-          "science and engineering education"
-        ]
+        "tag": "research translation activities",
+        "source_text": "research translation activities",
+        "confidence": 0.9
       },
       {
         "tag": "undergraduate mentorship programs",
-        "source_text": "Mentoring Institution",
-        "confidence": 0.604,
-        "sources": [
-          "Mentoring Institution"
-        ]
-      },
-      {
-        "tag": "instructional innovation",
-        "source_text": "innovations",
-        "confidence": 0.5974,
-        "sources": [
-          "innovations"
-        ]
-      },
-      {
-        "tag": "research-based learning",
-        "source_text": "academic research",
-        "confidence": 0.591,
-        "sources": [
-          "academic research"
-        ]
-      },
-      {
-        "tag": "education improvement",
-        "source_text": "education nonprofit",
-        "confidence": 0.5826,
-        "sources": [
-          "education nonprofit"
-        ]
+        "source_text": "mentoring institution",
+        "confidence": 0.6181
       }
     ],
     "population_tags": [],
     "org_type_tags": [
       {
-        "tag": "minority-serving institution",
-        "source_text": "minority-serving institutions",
-        "confidence": 0.9479,
-        "sources": [
-          "minority-serving institutions"
-        ]
-      },
-      {
-        "tag": "industry partner",
-        "source_text": "partnerships with industry",
-        "confidence": 0.7316,
-        "sources": [
-          "partnerships with industry"
-        ]
-      },
-      {
         "tag": "institution_of_higher_education",
         "source_text": "Institutions of Higher Education",
-        "confidence": 1.0
-      },
-      {
-        "tag": "nonprofit",
-        "source_text": "non-profits",
         "confidence": 1.0
       }
     ],
@@ -224,5 +206,6 @@
   "source": {
     "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_accelerating_research_translation_art.txt",
     "url": "https://www.nsf.gov/funding/opportunities/art-accelerating-research-translation/nsf25-548/solicitation"
-  }
+  },
+  "document_title": "Accelerating Research Translation (ART)"
 }

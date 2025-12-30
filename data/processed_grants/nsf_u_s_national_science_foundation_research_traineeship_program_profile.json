@@ -1,0 +1,308 @@
+{
+  "grant_id": "nsf_u_s_national_science_foundation_research_traineeship_program",
+  "created_at": "2025-12-30T02:02:20.718398-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "U.S. National Science Foundation Research Traineeship Program",
+    "NSF Research Traineeship",
+    "STEM careers",
+    "STEM graduate students",
+    "interdisciplinary or convergent research areas",
+    "effective training",
+    "workforce development",
+    "broad participation",
+    "institutional capacity building",
+    "strategic collaborations",
+    "private sector",
+    "non-governmental organizations",
+    "government agencies",
+    "national laboratories",
+    "field stations",
+    "teaching and learning centers",
+    "informal science centers",
+    "academic partners",
+    "NSF Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science",
+    "INCLUDES Initiative",
+    "Research Experiences for Undergraduates",
+    "Louis Stokes Alliances for Minority Participation",
+    "NSF Scholarships in Science, Technology, Engineering, and Mathematics",
+    "S-STEM",
+    "NSF STEM Ed Organizational Postdoctoral Fellowship program",
+    "NRT traineeships",
+    "technical and professional training",
+    "mentoring and vocational counseling",
+    "NRT stipend",
+    "master's and/or doctoral STEM students",
+    "research-based degree program",
+    "Institution of Higher Education",
+    "two-year IHEs",
+    "four-year IHEs",
+    "community colleges",
+    "international branch campus",
+    "Track 1 Awards",
+    "Track 2 Awards",
+    "Track 2 Planning Grants",
+    "Anticipated Type of Award",
+    "Estimated Number of Awards",
+    "Anticipated Funding Amount",
+    "Proposals may only be submitted",
+    "Limit on Number of Proposals per Organization",
+    "Limit on Number of Proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "U.S. National Science Foundation Research Traineeship Program",
+      "section": "Other"
+    },
+    {
+      "text": "NSF Research Traineeship",
+      "section": "Other"
+    },
+    {
+      "text": "STEM careers",
+      "section": "Other"
+    },
+    {
+      "text": "STEM graduate students",
+      "section": "Other"
+    },
+    {
+      "text": "interdisciplinary or convergent research areas",
+      "section": "Other"
+    },
+    {
+      "text": "effective training",
+      "section": "Other"
+    },
+    {
+      "text": "workforce development",
+      "section": "Other"
+    },
+    {
+      "text": "broad participation",
+      "section": "Other"
+    },
+    {
+      "text": "institutional capacity building",
+      "section": "Other"
+    },
+    {
+      "text": "strategic collaborations",
+      "section": "Other"
+    },
+    {
+      "text": "private sector",
+      "section": "Other"
+    },
+    {
+      "text": "non-governmental organizations",
+      "section": "Other"
+    },
+    {
+      "text": "government agencies",
+      "section": "Other"
+    },
+    {
+      "text": "national laboratories",
+      "section": "Other"
+    },
+    {
+      "text": "field stations",
+      "section": "Other"
+    },
+    {
+      "text": "teaching and learning centers",
+      "section": "Other"
+    },
+    {
+      "text": "informal science centers",
+      "section": "Other"
+    },
+    {
+      "text": "academic partners",
+      "section": "Other"
+    },
+    {
+      "text": "NSF Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science",
+      "section": "Other"
+    },
+    {
+      "text": "INCLUDES Initiative",
+      "section": "Other"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Other"
+    },
+    {
+      "text": "Louis Stokes Alliances for Minority Participation",
+      "section": "Other"
+    },
+    {
+      "text": "NSF Scholarships in Science, Technology, Engineering, and Mathematics",
+      "section": "Other"
+    },
+    {
+      "text": "S-STEM",
+      "section": "Other"
+    },
+    {
+      "text": "NSF STEM Ed Organizational Postdoctoral Fellowship program",
+      "section": "Other"
+    },
+    {
+      "text": "NRT traineeships",
+      "section": "Program Description"
+    },
+    {
+      "text": "technical and professional training",
+      "section": "Program Description"
+    },
+    {
+      "text": "mentoring and vocational counseling",
+      "section": "Program Description"
+    },
+    {
+      "text": "NRT stipend",
+      "section": "Program Description"
+    },
+    {
+      "text": "master's and/or doctoral STEM students",
+      "section": "Program Description"
+    },
+    {
+      "text": "research-based degree program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institution of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two-year IHEs",
+      "section": "Other"
+    },
+    {
+      "text": "four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "international branch campus",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Track 1 Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Track 2 Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Track 2 Planning Grants",
+      "section": "Award Information"
+    },
+    {
+      "text": "Anticipated Type of Award",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Anticipated Funding Amount",
+      "section": "Award Information"
+    },
+    {
+      "text": "Proposals may only be submitted",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per Organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "NRT stipend",
+        "source_text": "NRT stipend",
+        "confidence": 0.9
+      },
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "master's and/or doctoral STEM students",
+        "confidence": 0.6203
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "graduate students",
+        "source_text": "master's and/or doctoral STEM students",
+        "confidence": 0.7165,
+        "sources": [
+          "STEM graduate students",
+          "master's and/or doctoral STEM students"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "national laboratory",
+        "source_text": "national laboratories",
+        "confidence": 0.8956,
+        "sources": [
+          "national laboratories"
+        ]
+      },
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per Organization",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Creation of sustainable programmatic capacity at institutions is an expected outcome. Consequently, all proposals should describe mechanisms to institutionalize effective training elements after award expiration and provide appropriate documentation of institutional support for such efforts (see Full Proposal Content, section 8a).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_u_s_national_science_foundation_research_traineeship_program.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/us-national-science-foundation-research-traineeship-program/nsf24-597/solicitation"
+  },
+  "document_title": "U.S. National Science Foundation Research Traineeship Program"
+}

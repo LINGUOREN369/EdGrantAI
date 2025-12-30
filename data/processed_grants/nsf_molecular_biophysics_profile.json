@@ -1,0 +1,252 @@
+{
+  "grant_id": "nsf_molecular_biophysics",
+  "created_at": "2025-12-30T01:09:05.853707-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Molecular Biophysics",
+    "Division of Molecular and Cellular Biosciences Core Programs",
+    "Division of Molecular and Cellular Biosciences",
+    "MCB",
+    "structure, dynamics, and function of biomolecules and supramolecular assemblies",
+    "research areas",
+    "biomolecular interactions",
+    "biological function",
+    "biological organization",
+    "robust experimental and computational approaches",
+    "physiological conditions",
+    "emerging areas",
+    "quantum phenomena in biological systems",
+    "new experimental tools or techniques",
+    "integrative understanding of the molecular and cellular basis of life",
+    "mechanistic insights",
+    "quantitative and predictive understanding",
+    "experimental, computational, and theoretical approaches",
+    "interdisciplinary research",
+    "evolution of molecular, sub-cellular, and cellular systems",
+    "molecular and cellular evolution",
+    "experimental constraints",
+    "biomolecular folding and dynamics",
+    "large functional macromolecular complexes",
+    "biophysical principles",
+    "cross-disciplinary research",
+    "EPSCoR jurisdiction",
+    "capacity building activities",
+    "collaborative international projects",
+    "mid-career or later-stage researchers",
+    "standard grant",
+    "continuing grant",
+    "Institutions of Higher Education",
+    "non-profit, non-academic organizations",
+    "Independence museums",
+    "educational or research activities"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Molecular Biophysics",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Molecular and Cellular Biosciences Core Programs",
+      "section": "Introduction"
+    },
+    {
+      "text": "Division of Molecular and Cellular Biosciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "MCB",
+      "section": "Introduction"
+    },
+    {
+      "text": "structure, dynamics, and function of biomolecules and supramolecular assemblies",
+      "section": "Other"
+    },
+    {
+      "text": "research areas",
+      "section": "Introduction"
+    },
+    {
+      "text": "biomolecular interactions",
+      "section": "Other"
+    },
+    {
+      "text": "biological function",
+      "section": "Other"
+    },
+    {
+      "text": "biological organization",
+      "section": "Other"
+    },
+    {
+      "text": "robust experimental and computational approaches",
+      "section": "Other"
+    },
+    {
+      "text": "physiological conditions",
+      "section": "Other"
+    },
+    {
+      "text": "emerging areas",
+      "section": "Other"
+    },
+    {
+      "text": "quantum phenomena in biological systems",
+      "section": "Other"
+    },
+    {
+      "text": "new experimental tools or techniques",
+      "section": "Other"
+    },
+    {
+      "text": "integrative understanding of the molecular and cellular basis of life",
+      "section": "Introduction"
+    },
+    {
+      "text": "mechanistic insights",
+      "section": "Introduction"
+    },
+    {
+      "text": "quantitative and predictive understanding",
+      "section": "Introduction"
+    },
+    {
+      "text": "experimental, computational, and theoretical approaches",
+      "section": "Introduction"
+    },
+    {
+      "text": "interdisciplinary research",
+      "section": "Introduction"
+    },
+    {
+      "text": "evolution of molecular, sub-cellular, and cellular systems",
+      "section": "Introduction"
+    },
+    {
+      "text": "molecular and cellular evolution",
+      "section": "Introduction"
+    },
+    {
+      "text": "experimental constraints",
+      "section": "Other"
+    },
+    {
+      "text": "biomolecular folding and dynamics",
+      "section": "Other"
+    },
+    {
+      "text": "large functional macromolecular complexes",
+      "section": "Other"
+    },
+    {
+      "text": "biophysical principles",
+      "section": "Other"
+    },
+    {
+      "text": "cross-disciplinary research",
+      "section": "Program Description"
+    },
+    {
+      "text": "EPSCoR jurisdiction",
+      "section": "Program Description"
+    },
+    {
+      "text": "capacity building activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "collaborative international projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "mid-career or later-stage researchers",
+      "section": "Program Description"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Independence museums",
+      "section": "Other"
+    },
+    {
+      "text": "educational or research activities",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "EPSCoR jurisdiction",
+        "source_text": "EPSCoR jurisdiction",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Division of Molecular and Cellular Biosciences",
+        "source_text": "Division of Molecular and Cellular Biosciences",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "postdoctoral researchers",
+        "source_text": "mid-career or later-stage researchers",
+        "confidence": 0.657,
+        "sources": [
+          "mid-career or later-stage researchers"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR jurisdiction",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR jurisdiction"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Mid-Career Advancement program (MCA) proposals may be submitted to any of the clusters/programs described in this solicitation but must be submitted by the submission window for the MCA program. This is another opportunity available to mid-career researchers to advance their career trajectory.",
+      "Grants for Rapid Response Research (RAPID), Early-concept Grants for Exploratory Research (EAGER), Research Advanced by Interdisciplinary Science and Engineering (RAISE), Grant Opportunities for Academic Liaison with Industry (GOALI), Planning proposals, and proposals for Travel or Conferences support, including workshops, can be submitted at any time to any of the clusters/programs described in this solicitation. These types of proposals should be submitted in accordance with the guidance in the PAPPG. Conference/Workshop/Travel proposals should be submitted at least 6 months before the start date of the conference or workshop in accordance with guidance in the PAPPG and on in the Additional Resources section of the MCB website; you are strongly advised to contact a Program Officer prior to submission. Note that for RAPID, EAGER, RAISE, or Planning proposals, a concept outline must be submitted prior to submission of a full proposal with approval from an MCB Program Director from the cluster covering the research area of the proposal.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_molecular_biophysics.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/mcb-division-molecular-cellular-biosciences-core-programs/nsf24-539/solicitation"
+  },
+  "document_title": "Molecular Biophysics"
+}

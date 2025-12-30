@@ -1,0 +1,204 @@
+{
+  "grant_id": "nsf_established_program_to_stimulate_competitive_research_workshop_opportunities_eps_wo",
+  "created_at": "2025-12-30T00:25:54.324810-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Established Program to Stimulate Competitive Research",
+    "EPSCoR",
+    "National Science Foundation",
+    "EPSCoR-eligible jurisdiction",
+    "Research and Development capacity",
+    "R&D competitiveness",
+    "EPSCoR Workshop Opportunities program",
+    "workshops",
+    "regional or national importance",
+    "STEM education",
+    "training capacity",
+    "professional development pathways",
+    "broaden direct participation",
+    "science and engineering research",
+    "EPSCoR Workshop Opportunities Program",
+    "EPSCoR community",
+    "Engineering Research Centers",
+    "Science and Technology Centers",
+    "Regional Innovation Engines",
+    "Standard Grant",
+    "estimated number of awards",
+    "institutions of higher education",
+    "non-profit organizations",
+    "501(c)(3) tax status",
+    "Tribal Nations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Established Program to Stimulate Competitive Research",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR-eligible jurisdiction",
+      "section": "Other"
+    },
+    {
+      "text": "Research and Development capacity",
+      "section": "Other"
+    },
+    {
+      "text": "R&D competitiveness",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR Workshop Opportunities program",
+      "section": "Other"
+    },
+    {
+      "text": "workshops",
+      "section": "Other"
+    },
+    {
+      "text": "regional or national importance",
+      "section": "Other"
+    },
+    {
+      "text": "STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "training capacity",
+      "section": "Introduction"
+    },
+    {
+      "text": "professional development pathways",
+      "section": "Introduction"
+    },
+    {
+      "text": "broaden direct participation",
+      "section": "Introduction"
+    },
+    {
+      "text": "science and engineering research",
+      "section": "Introduction"
+    },
+    {
+      "text": "EPSCoR Workshop Opportunities Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "EPSCoR community",
+      "section": "Program Description"
+    },
+    {
+      "text": "Engineering Research Centers",
+      "section": "Program Description"
+    },
+    {
+      "text": "Science and Technology Centers",
+      "section": "Program Description"
+    },
+    {
+      "text": "Regional Innovation Engines",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "institutions of higher education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit organizations",
+      "section": "Other"
+    },
+    {
+      "text": "501(c)(3) tax status",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "EPSCoR Workshop Opportunities Program",
+        "source_text": "EPSCoR Workshop Opportunities Program",
+        "confidence": 0.9
+      },
+      {
+        "tag": "EPSCoR community",
+        "source_text": "EPSCoR community",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "501(c)(3) nonprofit",
+        "source_text": "501(c)(3) tax status",
+        "confidence": 0.788,
+        "sources": [
+          "501(c)(3) tax status"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "institutions of higher education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR",
+          "EPSCoR-eligible jurisdiction"
+        ]
+      },
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_established_program_to_stimulate_competitive_research_workshop_opportunities_eps_wo.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/eps-wo-established-program-stimulate-competitive-research-workshop/nsf24-540/solicitation"
+  },
+  "document_title": "Established Program to Stimulate Competitive Research : Workshop Opportunities (EPS-WO)"
+}

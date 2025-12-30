@@ -1,0 +1,157 @@
+{
+  "grant_id": "nsf_division_of_integrative_organismal_systems_core_programs_ios",
+  "created_at": "2025-12-30T00:12:37.834887-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Division of Integrative Organismal Systems Core Programs",
+    "Integrative Research in Biology",
+    "Core Programs Track",
+    "developmental biology",
+    "nervous system",
+    "animal behavior",
+    "plant and animal genomics",
+    "collaborative proposals",
+    "bio-based technologies",
+    "Broader Impacts",
+    "educational and training opportunities",
+    "Integrative biological research",
+    "Behavioral Systems Cluster",
+    "Developmental Systems Cluster",
+    "Neural Systems Cluster",
+    "Physiological and Structural Systems Cluster",
+    "Plant Genome Research Program",
+    "standard grant",
+    "continuing grant",
+    "Institutions of Higher Education",
+    "non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Division of Integrative Organismal Systems Core Programs",
+      "section": "Other"
+    },
+    {
+      "text": "Integrative Research in Biology",
+      "section": "Introduction"
+    },
+    {
+      "text": "Core Programs Track",
+      "section": "Other"
+    },
+    {
+      "text": "developmental biology",
+      "section": "Other"
+    },
+    {
+      "text": "nervous system",
+      "section": "Other"
+    },
+    {
+      "text": "animal behavior",
+      "section": "Other"
+    },
+    {
+      "text": "plant and animal genomics",
+      "section": "Other"
+    },
+    {
+      "text": "collaborative proposals",
+      "section": "Other"
+    },
+    {
+      "text": "bio-based technologies",
+      "section": "Introduction"
+    },
+    {
+      "text": "Broader Impacts",
+      "section": "Introduction"
+    },
+    {
+      "text": "educational and training opportunities",
+      "section": "Introduction"
+    },
+    {
+      "text": "Integrative biological research",
+      "section": "Other"
+    },
+    {
+      "text": "Behavioral Systems Cluster",
+      "section": "Program Description"
+    },
+    {
+      "text": "Developmental Systems Cluster",
+      "section": "Program Description"
+    },
+    {
+      "text": "Neural Systems Cluster",
+      "section": "Program Description"
+    },
+    {
+      "text": "Physiological and Structural Systems Cluster",
+      "section": "Program Description"
+    },
+    {
+      "text": "Plant Genome Research Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Physiological and Structural Systems Cluster",
+        "source_text": "Physiological and Structural Systems Cluster",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Developmental Systems Cluster",
+        "source_text": "Developmental Systems Cluster",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_division_of_integrative_organismal_systems_core_programs_ios.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ios-division-integrative-organismal-systems-core-programs/nsf24-546/solicitation"
+  },
+  "document_title": "Division of Integrative Organismal Systems Core Programs (IOS)"
+}

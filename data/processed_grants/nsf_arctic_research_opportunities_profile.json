@@ -1,0 +1,165 @@
+{
+  "grant_id": "nsf_arctic_research_opportunities",
+  "created_at": "2025-12-29T23:24:57.713929-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Arctic Research Opportunities",
+    "Arctic Sciences Section",
+    "Office of Polar Programs",
+    "Geosciences Directorate",
+    "scientific research",
+    "Arctic region",
+    "fundamental disciplinary understanding",
+    "Arctic processes",
+    "Arctic Social Sciences Program",
+    "Arctic Natural Sciences",
+    "Arctic System Science",
+    "Arctic Observing Network",
+    "Polar Cyberinfrastructure",
+    "Arctic Research Coordination and Policy Support",
+    "community health and well-being",
+    "food, water, and energy security",
+    "Indigenous knowledge",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "for-profit organizations",
+    "Tribal Governments",
+    "Foreign organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Arctic Research Opportunities",
+      "section": "Other"
+    },
+    {
+      "text": "Arctic Sciences Section",
+      "section": "Other"
+    },
+    {
+      "text": "Office of Polar Programs",
+      "section": "Other"
+    },
+    {
+      "text": "Geosciences Directorate",
+      "section": "Other"
+    },
+    {
+      "text": "scientific research",
+      "section": "Introduction"
+    },
+    {
+      "text": "Arctic region",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental disciplinary understanding",
+      "section": "Program Description"
+    },
+    {
+      "text": "Arctic processes",
+      "section": "Program Description"
+    },
+    {
+      "text": "Arctic Social Sciences Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Arctic Natural Sciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "Arctic System Science",
+      "section": "Introduction"
+    },
+    {
+      "text": "Arctic Observing Network",
+      "section": "Introduction"
+    },
+    {
+      "text": "Polar Cyberinfrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "Arctic Research Coordination and Policy Support",
+      "section": "Introduction"
+    },
+    {
+      "text": "community health and well-being",
+      "section": "Program Description"
+    },
+    {
+      "text": "food, water, and energy security",
+      "section": "Program Description"
+    },
+    {
+      "text": "Indigenous knowledge",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "for-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Foreign organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Arctic Social Sciences Program",
+        "source_text": "Arctic Social Sciences Program",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Arctic processes",
+        "source_text": "Arctic processes",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-15"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-15, 2026-01-15",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_arctic_research_opportunities.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/arctic-research-opportunities/nsf23-572/solicitation"
+  },
+  "document_title": "Arctic Research Opportunities"
+}

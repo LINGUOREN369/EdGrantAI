@@ -1,0 +1,243 @@
+{
+  "grant_id": "nsf_division_of_physics_investigator_initiated_research_projects_phy",
+  "created_at": "2025-12-30T00:14:42.925490-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Division of Physics",
+    "Investigator-Initiated Research Projects",
+    "physics research",
+    "future scientists",
+    "broad range of physics disciplines",
+    "Atomic, Molecular and Optical Physics",
+    "Elementary Particle Physics",
+    "Gravitational Physics",
+    "Integrative Activities in Physics",
+    "Nuclear Physics",
+    "Particle Astrophysics",
+    "Physics at the Information Frontier",
+    "Physics of Living Systems",
+    "Plasma Physics",
+    "Quantum Information Science",
+    "fundamental research",
+    "workforce preparation",
+    "science education",
+    "standard individual investigator awards",
+    "group awards",
+    "mid-scale research infrastructure awards",
+    "long-term support",
+    "LIGO Research Support",
+    "large investments",
+    "mid-scale funding",
+    "Institutions of Higher Education",
+    "community colleges",
+    "Non-profit",
+    "for-profit organizations",
+    "State and Local Governments",
+    "Tribal Governments",
+    "Foreign organizations",
+    "Other Federal Agencies",
+    "Federally Funded Research and Development Centers"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Division of Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Investigator-Initiated Research Projects",
+      "section": "Other"
+    },
+    {
+      "text": "physics research",
+      "section": "Other"
+    },
+    {
+      "text": "future scientists",
+      "section": "Other"
+    },
+    {
+      "text": "broad range of physics disciplines",
+      "section": "Other"
+    },
+    {
+      "text": "Atomic, Molecular and Optical Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Elementary Particle Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Gravitational Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Integrative Activities in Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Nuclear Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Particle Astrophysics",
+      "section": "Other"
+    },
+    {
+      "text": "Physics at the Information Frontier",
+      "section": "Other"
+    },
+    {
+      "text": "Physics of Living Systems",
+      "section": "Other"
+    },
+    {
+      "text": "Plasma Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Quantum Information Science",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental research",
+      "section": "Introduction"
+    },
+    {
+      "text": "workforce preparation",
+      "section": "Introduction"
+    },
+    {
+      "text": "science education",
+      "section": "Other"
+    },
+    {
+      "text": "standard individual investigator awards",
+      "section": "Other"
+    },
+    {
+      "text": "group awards",
+      "section": "Introduction"
+    },
+    {
+      "text": "mid-scale research infrastructure awards",
+      "section": "Introduction"
+    },
+    {
+      "text": "long-term support",
+      "section": "Program Description"
+    },
+    {
+      "text": "LIGO Research Support",
+      "section": "Other"
+    },
+    {
+      "text": "large investments",
+      "section": "Program Description"
+    },
+    {
+      "text": "mid-scale funding",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "for-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Foreign organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Other Federal Agencies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Federally Funded Research and Development Centers",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "large investments",
+        "source_text": "large investments",
+        "confidence": 0.9
+      },
+      {
+        "tag": "mid-scale research infrastructure awards",
+        "source_text": "mid-scale research infrastructure awards",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Due Dates",
+      "Full Proposal Deadline(s) (due by 5 p.m. submitter\u2019s local time):",
+      "Deadline",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_division_of_physics_investigator_initiated_research_projects_phy.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation"
+  },
+  "document_title": "Division of Physics: Investigator-Initiated Research Projects (PHY)"
+}

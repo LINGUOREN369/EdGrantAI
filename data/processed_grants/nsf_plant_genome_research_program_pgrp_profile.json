@@ -1,0 +1,280 @@
+{
+  "grant_id": "nsf_plant_genome_research_program_pgrp",
+  "created_at": "2025-12-30T01:38:31.977324-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Plant Genome Research Program",
+    "PGRP",
+    "genome-scale research",
+    "plant research community",
+    "basic biological questions",
+    "economic and societal importance",
+    "innovative tools",
+    "technology breakthroughs",
+    "functional plant genomics",
+    "fundamental biological principles",
+    "rules of life",
+    "cutting-edge tools",
+    "resources to generate basic knowledge",
+    "bioeconomy",
+    "training",
+    "broadening participation",
+    "career development",
+    "Genome-scale research",
+    "functional genomics",
+    "data synthesis",
+    "multi-genome interactions",
+    "biotic and abiotic interactions",
+    "high throughput phenotyping",
+    "engineering",
+    "machine learning",
+    "quantitative modeling",
+    "plant physiology",
+    "ecology",
+    "evolution",
+    "plant development",
+    "agriculture",
+    "Tools, Resources and Technology Advances",
+    "functional genomics toolkits",
+    "large scale sequencing",
+    "functional genomic resources",
+    "plant synthetic biology",
+    "genome editing technologies",
+    "data and analytical workflows",
+    "data visualization",
+    "International cooperation",
+    "proposals may only be submitted by the following",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "no restrictions or limits",
+    "estimated number of awards"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Plant Genome Research Program",
+      "section": "Other"
+    },
+    {
+      "text": "PGRP",
+      "section": "Other"
+    },
+    {
+      "text": "genome-scale research",
+      "section": "Other"
+    },
+    {
+      "text": "plant research community",
+      "section": "Other"
+    },
+    {
+      "text": "basic biological questions",
+      "section": "Introduction"
+    },
+    {
+      "text": "economic and societal importance",
+      "section": "Introduction"
+    },
+    {
+      "text": "innovative tools",
+      "section": "Other"
+    },
+    {
+      "text": "technology breakthroughs",
+      "section": "Other"
+    },
+    {
+      "text": "functional plant genomics",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental biological principles",
+      "section": "Introduction"
+    },
+    {
+      "text": "rules of life",
+      "section": "Introduction"
+    },
+    {
+      "text": "cutting-edge tools",
+      "section": "Introduction"
+    },
+    {
+      "text": "resources to generate basic knowledge",
+      "section": "Introduction"
+    },
+    {
+      "text": "bioeconomy",
+      "section": "Introduction"
+    },
+    {
+      "text": "training",
+      "section": "Program Description"
+    },
+    {
+      "text": "broadening participation",
+      "section": "Other"
+    },
+    {
+      "text": "career development",
+      "section": "Other"
+    },
+    {
+      "text": "Genome-scale research",
+      "section": "Program Description"
+    },
+    {
+      "text": "functional genomics",
+      "section": "Introduction"
+    },
+    {
+      "text": "data synthesis",
+      "section": "Program Description"
+    },
+    {
+      "text": "multi-genome interactions",
+      "section": "Other"
+    },
+    {
+      "text": "biotic and abiotic interactions",
+      "section": "Program Description"
+    },
+    {
+      "text": "high throughput phenotyping",
+      "section": "Program Description"
+    },
+    {
+      "text": "engineering",
+      "section": "Program Description"
+    },
+    {
+      "text": "machine learning",
+      "section": "Program Description"
+    },
+    {
+      "text": "quantitative modeling",
+      "section": "Program Description"
+    },
+    {
+      "text": "plant physiology",
+      "section": "Program Description"
+    },
+    {
+      "text": "ecology",
+      "section": "Program Description"
+    },
+    {
+      "text": "evolution",
+      "section": "Program Description"
+    },
+    {
+      "text": "plant development",
+      "section": "Program Description"
+    },
+    {
+      "text": "agriculture",
+      "section": "Introduction"
+    },
+    {
+      "text": "Tools, Resources and Technology Advances",
+      "section": "Program Description"
+    },
+    {
+      "text": "functional genomics toolkits",
+      "section": "Program Description"
+    },
+    {
+      "text": "large scale sequencing",
+      "section": "Program Description"
+    },
+    {
+      "text": "functional genomic resources",
+      "section": "Program Description"
+    },
+    {
+      "text": "plant synthetic biology",
+      "section": "Program Description"
+    },
+    {
+      "text": "genome editing technologies",
+      "section": "Program Description"
+    },
+    {
+      "text": "data and analytical workflows",
+      "section": "Program Description"
+    },
+    {
+      "text": "data visualization",
+      "section": "Program Description"
+    },
+    {
+      "text": "International cooperation",
+      "section": "Program Description"
+    },
+    {
+      "text": "proposals may only be submitted by the following",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "no restrictions or limits",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Genome-scale research",
+        "source_text": "Genome-scale research",
+        "confidence": 0.9
+      },
+      {
+        "tag": "machine learning",
+        "source_text": "machine learning",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "MCI activities may be included in full proposals submitted to this solicitation or as supplements to existing awards. A \"mid-career\" investigator is defined here as any researcher who is post-tenure and not retired. The MCI opportunity provides support for mid-career researchers/scientists to acquire new skills to use genomics and bioinformatics tools and/or novel technologies to answer organismal questions. Funds may be requested for costs related to research visits, participation in training opportunities in other laboratories, and for the use of genome research facilities not available at the applicant's institution. Support can be requested for an investigator's own activities or to host an eligible mid-career investigator and can include a request for salary support during periods of training. Interested investigators are strongly encouraged to contact a PGRP Program Director for further guidance prior to submission of a proposal containing these activities.",
+      "Requests for support of planned REU, RET, RAHSS, and ROA activities should be included in the full proposal budget at the time of submission. The descriptions of proposed REU activities should be included in the Supplementary Documents. For REUs, follow the guidelines as described on the REU program page . REU projects must involve students in meaningful ways in ongoing research programs or in research projects specifically designed for the REU student. For other supplement requests, guidelines can be found at IOS Supplemental Funding Request page .",
+      "More detailed instructions for submission of any of these supplements can be found on the IOS supplemental Funding Request website: IOS Supplemental Funding Request page . The target date for most IOS programs to receive supplemental funding requests is March 1 annually (or next business day if that is a weekend or holiday).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_plant_genome_research_program_pgrp.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/pgrp-plant-genome-research-program/nsf24-547/solicitation"
+  },
+  "document_title": "Plant Genome Research Program (PGRP)"
+}

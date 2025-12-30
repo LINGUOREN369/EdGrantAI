@@ -1,0 +1,309 @@
+{
+  "grant_id": "nsf_findable_accessible_interoperable_reusable_open_science_fairos",
+  "created_at": "2025-12-30T00:31:44.388192-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Findable Accessible Interoperable Reusable Open Science",
+    "FAIROS Program",
+    "U.S. NSF Public Access Plan",
+    "NSF Public Access Plans",
+    "Findable, Accessible, Interoperable, Reusable",
+    "FAIR Guiding Principles",
+    "Open Science movement",
+    "FAIROS RDM",
+    "FAIROS data portals",
+    "research data commons",
+    "socio-technical cyberinfrastructure development activities",
+    "community-driven principles of open science",
+    "Cyberinfrastructure for Public Access and Open Science",
+    "FAIR Principles",
+    "Collective Benefit",
+    "Authority to Control",
+    "Responsibility and Ethics",
+    "CARE Principles",
+    "Transparency, Responsibility, User Focus, Sustainability and Technology",
+    "TRUST Principles",
+    "Geosciences Open Science Ecosystem",
+    "FAIROS Program Solicitation",
+    "Directorate for Computer and Information Science and Engineering",
+    "Cyberinfrastructure for Public and Open Science",
+    "Directorate for Geosciences",
+    "Directorate for STEM Education",
+    "Directorate for Biological Sciences",
+    "Directorate for Engineering",
+    "Directorate for Social, Behavioral and Economic Sciences",
+    "Directorate for Mathematical and Physical Sciences",
+    "Office of Integrative Activities",
+    "Office of International Science and Engineering",
+    "Directorate for Technology, Innovation and Partnerships",
+    "Knowledge Graph representations",
+    "Advanced Materials Development Continuum",
+    "climate resilience",
+    "Geohazards",
+    "Proto-OKN Program",
+    "FAIROS proposals",
+    "Disciplinary Improvements",
+    "Cross-Cutting Improvements",
+    "Research Proposals",
+    "Community-oriented multidisciplinary projects",
+    "Research data management",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "Tribal Nations",
+    "Other Federal Agencies and Federally Funded Research and Development Centers"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Findable Accessible Interoperable Reusable Open Science",
+      "section": "Other"
+    },
+    {
+      "text": "FAIROS Program",
+      "section": "Other"
+    },
+    {
+      "text": "U.S. NSF Public Access Plan",
+      "section": "Introduction"
+    },
+    {
+      "text": "NSF Public Access Plans",
+      "section": "Introduction"
+    },
+    {
+      "text": "Findable, Accessible, Interoperable, Reusable",
+      "section": "Introduction"
+    },
+    {
+      "text": "FAIR Guiding Principles",
+      "section": "Introduction"
+    },
+    {
+      "text": "Open Science movement",
+      "section": "Introduction"
+    },
+    {
+      "text": "FAIROS RDM",
+      "section": "Introduction"
+    },
+    {
+      "text": "FAIROS data portals",
+      "section": "Other"
+    },
+    {
+      "text": "research data commons",
+      "section": "Other"
+    },
+    {
+      "text": "socio-technical cyberinfrastructure development activities",
+      "section": "Introduction"
+    },
+    {
+      "text": "community-driven principles of open science",
+      "section": "Introduction"
+    },
+    {
+      "text": "Cyberinfrastructure for Public Access and Open Science",
+      "section": "Introduction"
+    },
+    {
+      "text": "FAIR Principles",
+      "section": "Program Description"
+    },
+    {
+      "text": "Collective Benefit",
+      "section": "Program Description"
+    },
+    {
+      "text": "Authority to Control",
+      "section": "Program Description"
+    },
+    {
+      "text": "Responsibility and Ethics",
+      "section": "Program Description"
+    },
+    {
+      "text": "CARE Principles",
+      "section": "Other"
+    },
+    {
+      "text": "Transparency, Responsibility, User Focus, Sustainability and Technology",
+      "section": "Program Description"
+    },
+    {
+      "text": "TRUST Principles",
+      "section": "Other"
+    },
+    {
+      "text": "Geosciences Open Science Ecosystem",
+      "section": "Program Description"
+    },
+    {
+      "text": "FAIROS Program Solicitation",
+      "section": "Introduction"
+    },
+    {
+      "text": "Directorate for Computer and Information Science and Engineering",
+      "section": "Program Description"
+    },
+    {
+      "text": "Cyberinfrastructure for Public and Open Science",
+      "section": "Program Description"
+    },
+    {
+      "text": "Directorate for Geosciences",
+      "section": "Program Description"
+    },
+    {
+      "text": "Directorate for STEM Education",
+      "section": "Program Description"
+    },
+    {
+      "text": "Directorate for Biological Sciences",
+      "section": "Program Description"
+    },
+    {
+      "text": "Directorate for Engineering",
+      "section": "Program Description"
+    },
+    {
+      "text": "Directorate for Social, Behavioral and Economic Sciences",
+      "section": "Program Description"
+    },
+    {
+      "text": "Directorate for Mathematical and Physical Sciences",
+      "section": "Program Description"
+    },
+    {
+      "text": "Office of Integrative Activities",
+      "section": "Introduction"
+    },
+    {
+      "text": "Office of International Science and Engineering",
+      "section": "Introduction"
+    },
+    {
+      "text": "Directorate for Technology, Innovation and Partnerships",
+      "section": "Program Description"
+    },
+    {
+      "text": "Knowledge Graph representations",
+      "section": "Program Description"
+    },
+    {
+      "text": "Advanced Materials Development Continuum",
+      "section": "Program Description"
+    },
+    {
+      "text": "climate resilience",
+      "section": "Program Description"
+    },
+    {
+      "text": "Geohazards",
+      "section": "Program Description"
+    },
+    {
+      "text": "Proto-OKN Program",
+      "section": "Other"
+    },
+    {
+      "text": "FAIROS proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Disciplinary Improvements",
+      "section": "Other"
+    },
+    {
+      "text": "Cross-Cutting Improvements",
+      "section": "Other"
+    },
+    {
+      "text": "Research Proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Community-oriented multidisciplinary projects",
+      "section": "Other"
+    },
+    {
+      "text": "Research data management",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Other Federal Agencies and Federally Funded Research and Development Centers",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Transparency, Responsibility, User Focus, Sustainability and Technology",
+        "source_text": "Transparency, Responsibility, User Focus, Sustainability and Technology",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Responsibility and Ethics",
+        "source_text": "Responsibility and Ethics",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-04-08"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-04-08, 2026-04-08",
+      "Advanced Materials Development Continuum : Proposals that address current challenges in transitioning from advanced material discovery and development to processing, manufacturing, and ultimately deployment, through enabling of FAIR access to existing and future research data generated under ongoing efforts, such as the Designing Materials to Revolutionize and Engineer our Future ( DMREF ) Program.",
+      "Geohazards : Proposals targeting the improvement of FAIR access to geohazard-related data, including but not limited to seismic activity, landslides, volcanic eruptions, lahars, coastal erosion, and tsunamis. Projects in this area should aim to enhance forecasting, risk assessment, and response capabilities through better management and integration of data generated under ongoing efforts, such as the Centers for Innovation and Community Engagement in Solid Earth Geohazards .",
+      "An expected 4 - 10 awards for up to three years are planned in total for this solicitation per each deadline. However, the number of awards will be based on quality of proposals, availability of funds, and responsiveness to priorities of the participating directorates/divisions.",
+      "An individual may participate as Principal Investigator, co-Principal Investigator or other Senior/Key Personnel in at most one FAIROS to any submission per deadline date annually in response to this particular solicitation. The first submitted proposal (chronological order of submission) in which that individual is participating will be accepted for review, and the remainder will be returned without review. For this purpose, a multi-institution collaborative project is treated as one proposal that is considered submitted when the final collaborative proposal is submitted. The reason for the PI limit on FAIROS proposals is to balance the number and quality of the submissions.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_findable_accessible_interoperable_reusable_open_science_fairos.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/fairos-findable-accessible-interoperable-reusable-open-science/nsf25-533/solicitation"
+  },
+  "document_title": "Findable Accessible Interoperable Reusable Open Science (FAIROS)"
+}

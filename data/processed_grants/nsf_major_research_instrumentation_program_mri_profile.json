@@ -1,0 +1,244 @@
+{
+  "grant_id": "nsf_major_research_instrumentation_program_mri",
+  "created_at": "2025-12-30T01:01:20.136017-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Major Research Instrumentation Program",
+    "multi-user scientific and engineering instrumentation",
+    "research training",
+    "research instrument",
+    "instrument design and fabrication",
+    "next-generation research instruments",
+    "fundamental science and engineering research",
+    "shared-use/multi-user instrumentation",
+    "capacity-building program",
+    "state-of-the-art instruments",
+    "development proposals",
+    "private sector partners",
+    "multi-user/shared instrumentation",
+    "microelectronics research and training",
+    "consortium proposals",
+    "Ph.D.-granting institutions of higher education",
+    "non-Ph.D.-granting institutions of higher education",
+    "non-profit scientific/engineering research organizations",
+    "U.S. leadership in microelectronics research",
+    "research capabilities across diverse institution types",
+    "Track 1 proposals",
+    "Track 2 proposals",
+    "Track 3 proposals",
+    "research instruments",
+    "substantive and meaningful partnerships",
+    "development support",
+    "emerging research institutions",
+    "EPSCoR jurisdictions",
+    "under-resourced institutions",
+    "underrepresented minorities",
+    "women",
+    "persons with disabilities",
+    "early-career PIs",
+    "not-for-profit organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Major Research Instrumentation Program",
+      "section": "Other"
+    },
+    {
+      "text": "multi-user scientific and engineering instrumentation",
+      "section": "Other"
+    },
+    {
+      "text": "research training",
+      "section": "Other"
+    },
+    {
+      "text": "research instrument",
+      "section": "Other"
+    },
+    {
+      "text": "instrument design and fabrication",
+      "section": "Other"
+    },
+    {
+      "text": "next-generation research instruments",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental science and engineering research",
+      "section": "Other"
+    },
+    {
+      "text": "shared-use/multi-user instrumentation",
+      "section": "Introduction"
+    },
+    {
+      "text": "capacity-building program",
+      "section": "Introduction"
+    },
+    {
+      "text": "state-of-the-art instruments",
+      "section": "Introduction"
+    },
+    {
+      "text": "development proposals",
+      "section": "Introduction"
+    },
+    {
+      "text": "private sector partners",
+      "section": "Introduction"
+    },
+    {
+      "text": "multi-user/shared instrumentation",
+      "section": "Introduction"
+    },
+    {
+      "text": "microelectronics research and training",
+      "section": "Introduction"
+    },
+    {
+      "text": "consortium proposals",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Ph.D.-granting institutions of higher education",
+      "section": "Other"
+    },
+    {
+      "text": "non-Ph.D.-granting institutions of higher education",
+      "section": "Other"
+    },
+    {
+      "text": "non-profit scientific/engineering research organizations",
+      "section": "Other"
+    },
+    {
+      "text": "U.S. leadership in microelectronics research",
+      "section": "Introduction"
+    },
+    {
+      "text": "research capabilities across diverse institution types",
+      "section": "Introduction"
+    },
+    {
+      "text": "Track 1 proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Track 2 proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Track 3 proposals",
+      "section": "Other"
+    },
+    {
+      "text": "research instruments",
+      "section": "Other"
+    },
+    {
+      "text": "substantive and meaningful partnerships",
+      "section": "Program Description"
+    },
+    {
+      "text": "development support",
+      "section": "Program Description"
+    },
+    {
+      "text": "emerging research institutions",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR jurisdictions",
+      "section": "Other"
+    },
+    {
+      "text": "under-resourced institutions",
+      "section": "Other"
+    },
+    {
+      "text": "underrepresented minorities",
+      "section": "Other"
+    },
+    {
+      "text": "women",
+      "section": "Other"
+    },
+    {
+      "text": "persons with disabilities",
+      "section": "Other"
+    },
+    {
+      "text": "early-career PIs",
+      "section": "Other"
+    },
+    {
+      "text": "not-for-profit organizations",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "development support",
+        "source_text": "development support",
+        "confidence": 0.9
+      },
+      {
+        "tag": "U.S. leadership in microelectronics research",
+        "source_text": "U.S. leadership in microelectronics research",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "students with disabilities",
+        "source_text": "persons with disabilities",
+        "confidence": 0.6749,
+        "sources": [
+          "persons with disabilities"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Ph.D.-granting institutions of higher education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit scientific/engineering research organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR jurisdictions",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-11-16"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-11-16, 2026-11-16",
+      "Two (2) in Track 1, one (1) in Track 2 and one (1) in Track 3 as described below. Potential PIs are advised to contact their sponsored projects office well in advance of the MRI submission window regarding processes used to select proposals for submission.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_major_research_instrumentation_program_mri.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/mri-major-research-instrumentation-program/nsf23-519/solicitation"
+  },
+  "document_title": "Major Research Instrumentation Program (MRI)"
+}

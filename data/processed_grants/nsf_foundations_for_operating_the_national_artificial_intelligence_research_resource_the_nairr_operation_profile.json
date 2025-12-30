@@ -1,0 +1,199 @@
+{
+  "grant_id": "nsf_foundations_for_operating_the_national_artificial_intelligence_research_resource_the_nairr_operation",
+  "created_at": "2025-12-30T00:33:39.020878-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Foundations for Operating the National Artificial Intelligence Research Resource",
+    "NAIRR Operations Center",
+    "National Artificial Intelligence Research Resource",
+    "NAIRR Pilot",
+    "U.S. National Science Foundation",
+    "AI ecosystem",
+    "AI workforce training and education",
+    "community-based organization",
+    "national infrastructure for AI research and education",
+    "public-private partnership",
+    "AI innovation",
+    "national competitiveness",
+    "organizational leadership",
+    "operational framework",
+    "NAIRR capabilities",
+    "community building activities",
+    "Interfacing with Pilot Operations",
+    "NAIRR Program Management Office",
+    "anticipated Type of Award",
+    "Cooperative Agreement",
+    "Estimated Number of Awards",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "For-profit organizations",
+    "Federal Agencies and Federally Funded Research and Development Centers",
+    "Limit on Number of Proposals per Organization",
+    "Limit on Number of Proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Foundations for Operating the National Artificial Intelligence Research Resource",
+      "section": "Other"
+    },
+    {
+      "text": "NAIRR Operations Center",
+      "section": "Other"
+    },
+    {
+      "text": "National Artificial Intelligence Research Resource",
+      "section": "Other"
+    },
+    {
+      "text": "NAIRR Pilot",
+      "section": "Other"
+    },
+    {
+      "text": "U.S. National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "AI ecosystem",
+      "section": "Other"
+    },
+    {
+      "text": "AI workforce training and education",
+      "section": "Other"
+    },
+    {
+      "text": "community-based organization",
+      "section": "Other"
+    },
+    {
+      "text": "national infrastructure for AI research and education",
+      "section": "Other"
+    },
+    {
+      "text": "public-private partnership",
+      "section": "Other"
+    },
+    {
+      "text": "AI innovation",
+      "section": "Other"
+    },
+    {
+      "text": "national competitiveness",
+      "section": "Other"
+    },
+    {
+      "text": "organizational leadership",
+      "section": "Other"
+    },
+    {
+      "text": "operational framework",
+      "section": "Other"
+    },
+    {
+      "text": "NAIRR capabilities",
+      "section": "Other"
+    },
+    {
+      "text": "community building activities",
+      "section": "Other"
+    },
+    {
+      "text": "Interfacing with Pilot Operations",
+      "section": "Other"
+    },
+    {
+      "text": "NAIRR Program Management Office",
+      "section": "Other"
+    },
+    {
+      "text": "anticipated Type of Award",
+      "section": "Award Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Introduction"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "For-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Federal Agencies and Federally Funded Research and Development Centers",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per Organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Cooperative Agreement",
+        "source_text": "Cooperative Agreement",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "community-based organization",
+        "source_text": "community-based organization",
+        "confidence": 1.0,
+        "sources": [
+          "community-based organization"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per Organization",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-02-04"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-02-04, 2026-02-04",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_foundations_for_operating_the_national_artificial_intelligence_research_resource_the_nairr_operation.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/nairr-oc-foundations-operating-national-artificial-intelligence/nsf25-546/solicitation"
+  },
+  "document_title": "Foundations for Operating the National Artificial Intelligence Research Resource: the NAIRR Operations Center (NAIRR-OC)"
+}

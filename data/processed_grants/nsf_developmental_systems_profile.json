@@ -1,0 +1,197 @@
+{
+  "grant_id": "nsf_developmental_systems",
+  "created_at": "2025-12-30T00:09:05.207260-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Developmental Systems Cluster",
+    "Plant, Fungal and Microbial Developmental Mechanisms Program",
+    "Animal Developmental Mechanisms Program",
+    "Evolution of Developmental Mechanisms Program",
+    "Division of Integrative Organismal Systems Core Programs",
+    "Integrative Research in Biology",
+    "Broader Impacts",
+    "bio-based technologies",
+    "bioeconomy",
+    "fostering participation",
+    "educational and training opportunities",
+    "Boarder Impacts review criterion",
+    "Educational Outreach",
+    "Core Programs Track",
+    "Integrative Research in Biology (IntBIO) Track",
+    "Animal Behavior Program",
+    "Behavioral Systems Cluster",
+    "Neural Systems Cluster",
+    "Physiological and Structural Systems Cluster",
+    "Symbiosis, Infection, and Immunity (SII) Program",
+    "Physiological Mechanisms and Biomechanics Program",
+    "Integrative Ecological Physiology Program",
+    "NSF-NIFA Plant Biotic Interactions Program",
+    "Plant Genome Research Program",
+    "Standard Grant",
+    "Continuing Grant",
+    "Estimated Number of Awards",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Developmental Systems Cluster",
+      "section": "Other"
+    },
+    {
+      "text": "Plant, Fungal and Microbial Developmental Mechanisms Program",
+      "section": "Other"
+    },
+    {
+      "text": "Animal Developmental Mechanisms Program",
+      "section": "Other"
+    },
+    {
+      "text": "Evolution of Developmental Mechanisms Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Division of Integrative Organismal Systems Core Programs",
+      "section": "Introduction"
+    },
+    {
+      "text": "Integrative Research in Biology",
+      "section": "Introduction"
+    },
+    {
+      "text": "Broader Impacts",
+      "section": "Introduction"
+    },
+    {
+      "text": "bio-based technologies",
+      "section": "Introduction"
+    },
+    {
+      "text": "bioeconomy",
+      "section": "Introduction"
+    },
+    {
+      "text": "fostering participation",
+      "section": "Other"
+    },
+    {
+      "text": "educational and training opportunities",
+      "section": "Introduction"
+    },
+    {
+      "text": "Boarder Impacts review criterion",
+      "section": "Other"
+    },
+    {
+      "text": "Educational Outreach",
+      "section": "Other"
+    },
+    {
+      "text": "Core Programs Track",
+      "section": "Introduction"
+    },
+    {
+      "text": "Integrative Research in Biology (IntBIO) Track",
+      "section": "Introduction"
+    },
+    {
+      "text": "Animal Behavior Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Behavioral Systems Cluster",
+      "section": "Program Description"
+    },
+    {
+      "text": "Neural Systems Cluster",
+      "section": "Other"
+    },
+    {
+      "text": "Physiological and Structural Systems Cluster",
+      "section": "Program Description"
+    },
+    {
+      "text": "Symbiosis, Infection, and Immunity (SII) Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Physiological Mechanisms and Biomechanics Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Integrative Ecological Physiology Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "NSF-NIFA Plant Biotic Interactions Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Plant Genome Research Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Physiological and Structural Systems Cluster",
+        "source_text": "Physiological and Structural Systems Cluster",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Plant Genome Research Program",
+        "source_text": "Plant Genome Research Program",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_developmental_systems.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ios-division-integrative-organismal-systems-core-programs/nsf24-546/solicitation"
+  },
+  "document_title": "Developmental Systems"
+}

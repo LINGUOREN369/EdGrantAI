@@ -1,0 +1,161 @@
+{
+  "grant_id": "nsf_robert_noyce_teacher_scholarship_program",
+  "created_at": "2025-12-30T01:47:12.450884-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Robert Noyce Teacher Scholarship Program",
+    "K-12 STEM teachers",
+    "high-need Local Education Agencies",
+    "Noyce supports talented science",
+    "technology",
+    "engineering",
+    "and mathematics undergraduate majors",
+    "experienced",
+    "exemplary K-12 STEM teachers",
+    "Noyce program supports research",
+    "effectiveness and retention of K-12 STEM teachers",
+    "Track 1: The Robert Noyce Teacher Scholarships and Stipends Track",
+    "Track 2: The NSF Teaching Fellowships Track",
+    "Track 3: The NSF Master Teaching Fellowships Track",
+    "Track 4: The Noyce Research Track",
+    "Capacity Building proposals",
+    "STEM teacher preparation",
+    "Research Experiences in STEM Settings",
+    "K-12 STEM education"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Robert Noyce Teacher Scholarship Program",
+      "section": "Other"
+    },
+    {
+      "text": "K-12 STEM teachers",
+      "section": "Other"
+    },
+    {
+      "text": "high-need Local Education Agencies",
+      "section": "Other"
+    },
+    {
+      "text": "Noyce supports talented science",
+      "section": "Other"
+    },
+    {
+      "text": "technology",
+      "section": "Other"
+    },
+    {
+      "text": "engineering",
+      "section": "Other"
+    },
+    {
+      "text": "and mathematics undergraduate majors",
+      "section": "Other"
+    },
+    {
+      "text": "experienced",
+      "section": "Other"
+    },
+    {
+      "text": "exemplary K-12 STEM teachers",
+      "section": "Other"
+    },
+    {
+      "text": "Noyce program supports research",
+      "section": "Other"
+    },
+    {
+      "text": "effectiveness and retention of K-12 STEM teachers",
+      "section": "Other"
+    },
+    {
+      "text": "Track 1: The Robert Noyce Teacher Scholarships and Stipends Track",
+      "section": "Other"
+    },
+    {
+      "text": "Track 2: The NSF Teaching Fellowships Track",
+      "section": "Other"
+    },
+    {
+      "text": "Track 3: The NSF Master Teaching Fellowships Track",
+      "section": "Other"
+    },
+    {
+      "text": "Track 4: The Noyce Research Track",
+      "section": "Other"
+    },
+    {
+      "text": "Capacity Building proposals",
+      "section": "Other"
+    },
+    {
+      "text": "STEM teacher preparation",
+      "section": "Other"
+    },
+    {
+      "text": "Research Experiences in STEM Settings",
+      "section": "Other"
+    },
+    {
+      "text": "K-12 STEM education",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "K-12 STEM education",
+        "source_text": "K-12 STEM education",
+        "confidence": 1.0
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K-12 STEM teachers",
+        "confidence": 0.8406,
+        "sources": [
+          "K-12 STEM teachers",
+          "exemplary K-12 STEM teachers",
+          "K-12 STEM education"
+        ]
+      },
+      {
+        "tag": "K-12 students",
+        "source_text": "K-12 STEM education",
+        "confidence": 0.7057,
+        "sources": [
+          "K-12 STEM teachers",
+          "K-12 STEM education"
+        ]
+      },
+      {
+        "tag": "undergraduate students",
+        "source_text": "and mathematics undergraduate majors",
+        "confidence": 0.6068,
+        "sources": [
+          "and mathematics undergraduate majors"
+        ]
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Proposals for conferences or STEM research experiences for pre-service or in-service teachers may be submitted at any time following consultation with and consent of a Noyce Program Officer. Successful proposals submitted by the Noyce Program's August deadline will be prioritized for support in the respective year.",
+      "Proposals are welcome from institutions with prior Noyce funding in any track, including prior Capacity Building funding. Such submissions must provide a detailed description of the institution's active Noyce project(s) and any prior Noyce funded project(s) with an end date within five years prior to the Noyce submission deadline. The description of the prior Noyce work at the institution must include evidence of success in meeting project goals, specific information about what was learned, an account of challenges encountered, and/or specific information about how the proposed project will be able to overcome any prior challenges. Additionally, the description should include details of how the proposed project might generate new knowledge, including how the proposed work may inform further improvements in STEM teacher preparation or development. For applicable program tracks, data demonstrating the institution's capacity to recruit and retain candidates should also be included. In reporting results from prior NSF support, include items outlined in Chapter III, Subsection D(iii), as outlined in the Proposal and Award Policies and Procedures Guide (PAPPG).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_robert_noyce_teacher_scholarship_program.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/robert-noyce-teacher-scholarship-program/nsf23-586/solicitation"
+  },
+  "document_title": "Robert Noyce Teacher Scholarship Program"
+}

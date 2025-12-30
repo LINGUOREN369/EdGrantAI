@@ -1,0 +1,314 @@
+{
+  "grant_id": "nsf_chemical_measurement_and_imaging_cmi",
+  "created_at": "2025-12-29T23:45:39.445217-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Chemical Measurement and Imaging",
+    "CMI Program",
+    "measurement science",
+    "chemical imaging",
+    "analytical separation science",
+    "electroanalytical chemistry",
+    "mass spectrometry",
+    "data analysis and interpretation",
+    "cheminformatics",
+    "Instrument Development",
+    "Grant Opportunities for Academic Liaison with Industry",
+    "GOALI",
+    "Small Business Innovation Research",
+    "SBIR",
+    "Small Business Technology Transfer",
+    "STTR",
+    "Computational and Data Science and Engineering",
+    "CDS&E funding opportunity",
+    "Critical Aspects of Sustainability",
+    "CAS",
+    "minority-serving institutions",
+    "Primarily Undergraduate Institutions",
+    "two-year colleges",
+    "EPSCoR jurisdictions",
+    "Disciplinary Research Programs",
+    "CHE-DRP",
+    "Chemical Catalysis",
+    "Chemical Measurement and Imaging",
+    "Chemical Mechanism, Function and Properties",
+    "Chemical Synthesis",
+    "Environmental Chemical Sciences",
+    "Macromolecular, Supramolecular and Nanochemistry",
+    "sustainability",
+    "remote or field-portable measurements",
+    "measurement science innovations",
+    "chemical processes in the environment",
+    "major research institutions",
+    "collaborative proposals",
+    "forward-looking workshops",
+    "Standard Grant",
+    "Continuing Grant",
+    "estimated number of awards",
+    "245",
+    "Institutions of Higher Education",
+    "non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Chemical Measurement and Imaging",
+      "section": "Other"
+    },
+    {
+      "text": "CMI Program",
+      "section": "Other"
+    },
+    {
+      "text": "measurement science",
+      "section": "Other"
+    },
+    {
+      "text": "chemical imaging",
+      "section": "Other"
+    },
+    {
+      "text": "analytical separation science",
+      "section": "Other"
+    },
+    {
+      "text": "electroanalytical chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "mass spectrometry",
+      "section": "Other"
+    },
+    {
+      "text": "data analysis and interpretation",
+      "section": "Other"
+    },
+    {
+      "text": "cheminformatics",
+      "section": "Other"
+    },
+    {
+      "text": "Instrument Development",
+      "section": "Other"
+    },
+    {
+      "text": "Grant Opportunities for Academic Liaison with Industry",
+      "section": "Other"
+    },
+    {
+      "text": "GOALI",
+      "section": "Other"
+    },
+    {
+      "text": "Small Business Innovation Research",
+      "section": "Other"
+    },
+    {
+      "text": "SBIR",
+      "section": "Other"
+    },
+    {
+      "text": "Small Business Technology Transfer",
+      "section": "Other"
+    },
+    {
+      "text": "STTR",
+      "section": "Other"
+    },
+    {
+      "text": "Computational and Data Science and Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "CDS&E funding opportunity",
+      "section": "Other"
+    },
+    {
+      "text": "Critical Aspects of Sustainability",
+      "section": "Other"
+    },
+    {
+      "text": "CAS",
+      "section": "Other"
+    },
+    {
+      "text": "minority-serving institutions",
+      "section": "Other"
+    },
+    {
+      "text": "Primarily Undergraduate Institutions",
+      "section": "Other"
+    },
+    {
+      "text": "two-year colleges",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR jurisdictions",
+      "section": "Other"
+    },
+    {
+      "text": "Disciplinary Research Programs",
+      "section": "Other"
+    },
+    {
+      "text": "CHE-DRP",
+      "section": "Introduction"
+    },
+    {
+      "text": "Chemical Catalysis",
+      "section": "Program Description"
+    },
+    {
+      "text": "Chemical Measurement and Imaging",
+      "section": "Other"
+    },
+    {
+      "text": "Chemical Mechanism, Function and Properties",
+      "section": "Program Description"
+    },
+    {
+      "text": "Chemical Synthesis",
+      "section": "Program Description"
+    },
+    {
+      "text": "Environmental Chemical Sciences",
+      "section": "Program Description"
+    },
+    {
+      "text": "Macromolecular, Supramolecular and Nanochemistry",
+      "section": "Program Description"
+    },
+    {
+      "text": "sustainability",
+      "section": "Other"
+    },
+    {
+      "text": "remote or field-portable measurements",
+      "section": "Other"
+    },
+    {
+      "text": "measurement science innovations",
+      "section": "Other"
+    },
+    {
+      "text": "chemical processes in the environment",
+      "section": "Program Description"
+    },
+    {
+      "text": "major research institutions",
+      "section": "Other"
+    },
+    {
+      "text": "collaborative proposals",
+      "section": "Other"
+    },
+    {
+      "text": "forward-looking workshops",
+      "section": "Other"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "245",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Chemical Catalysis",
+        "source_text": "Chemical Catalysis",
+        "confidence": 0.9
+      },
+      {
+        "tag": "CHE-DRP",
+        "source_text": "CHE-DRP",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "two-year colleges",
+        "confidence": 0.6055,
+        "sources": [
+          "two-year colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "minority-serving institutions",
+        "confidence": 0.9479,
+        "sources": [
+          "minority-serving institutions"
+        ]
+      },
+      {
+        "tag": "two-year college",
+        "source_text": "two-year colleges",
+        "confidence": 0.8894,
+        "sources": [
+          "two-year colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR jurisdictions",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 RUI proposals must be submitted to the RUI Solicitation during the regular proposal submission window for this program.",
+      "CAREER proposals should be submitted through the CAREER solicitation by the deadline specified for CAREER proposals.",
+      "This restriction includes proposals under Grant Opportunities for Academic Liaison with Industry (GOALI) and Facilitating Research at Primarily Undergraduate Institutions ( RUI), as well as proposals submitted to the Division of Chemistry: Disciplinary Research Programs: No Deadline Pilot (CHE-DRP:NDP) Solicitation ( NSF 22-606 ).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_chemical_measurement_and_imaging_cmi.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/che-drp-division-chemistry-disciplinary-research-programs/nsf22-605/solicitation"
+  },
+  "document_title": "Chemical Measurement and Imaging (CMI)"
+}

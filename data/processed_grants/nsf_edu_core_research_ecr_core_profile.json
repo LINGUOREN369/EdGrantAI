@@ -1,0 +1,183 @@
+{
+  "grant_id": "nsf_edu_core_research_ecr_core",
+  "created_at": "2025-12-30T00:16:42.170035-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "EDU Core Research (ECR:Core)",
+    "STEM education",
+    "Research on STEM Learning and Learning Environments",
+    "Research on Broadening Participation in STEM",
+    "Research on STEM Workforce Development",
+    "fundamental research",
+    "curiosity-driven basic research",
+    "use-inspired basic research",
+    "ECR program",
+    "foundational knowledge",
+    "learning environments",
+    "broadening participation in STEM",
+    "multidisciplinary and interdisciplinary approaches",
+    "ECR:Core Research Areas",
+    "Research Area I",
+    "Research Area II",
+    "Research Area III",
+    "broadening participation in STEM education",
+    "STEM workforce development",
+    "ECR:Core solicitation",
+    "Pilot Studies",
+    "Synthesis Proposals",
+    "Conference Proposals",
+    "Standard Grant or Continuing Grant",
+    "Estimated Number of Awards",
+    "Limit on Number of Proposals per Organization",
+    "Unaffiliated individuals"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "EDU Core Research (ECR:Core)",
+      "section": "Other"
+    },
+    {
+      "text": "STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "Research on STEM Learning and Learning Environments",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research on Broadening Participation in STEM",
+      "section": "Other"
+    },
+    {
+      "text": "Research on STEM Workforce Development",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental research",
+      "section": "Other"
+    },
+    {
+      "text": "curiosity-driven basic research",
+      "section": "Other"
+    },
+    {
+      "text": "use-inspired basic research",
+      "section": "Other"
+    },
+    {
+      "text": "ECR program",
+      "section": "Other"
+    },
+    {
+      "text": "foundational knowledge",
+      "section": "Other"
+    },
+    {
+      "text": "learning environments",
+      "section": "Introduction"
+    },
+    {
+      "text": "broadening participation in STEM",
+      "section": "Introduction"
+    },
+    {
+      "text": "multidisciplinary and interdisciplinary approaches",
+      "section": "Program Description"
+    },
+    {
+      "text": "ECR:Core Research Areas",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Area I",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Area II",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Area III",
+      "section": "Program Description"
+    },
+    {
+      "text": "broadening participation in STEM education",
+      "section": "Program Description"
+    },
+    {
+      "text": "STEM workforce development",
+      "section": "Introduction"
+    },
+    {
+      "text": "ECR:Core solicitation",
+      "section": "Other"
+    },
+    {
+      "text": "Pilot Studies",
+      "section": "Program Description"
+    },
+    {
+      "text": "Synthesis Proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Conference Proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant or Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per Organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Unaffiliated individuals",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "STEM education research",
+        "source_text": "Research on STEM Learning and Learning Environments",
+        "confidence": 0.7029
+      },
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "broadening participation in STEM",
+        "confidence": 1.0
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per Organization",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_edu_core_research_ecr_core.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ecrcore-edu-core-research/nsf21-588/solicitation"
+  },
+  "document_title": "EDU Core Research (ECR:Core)"
+}

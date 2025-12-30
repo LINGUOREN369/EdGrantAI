@@ -1,0 +1,294 @@
+{
+  "grant_id": "nsf_mathematical_foundations_of_artificial_intelligence_mfai",
+  "created_at": "2025-12-30T01:03:31.131327-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Mathematical Foundations of Artificial Intelligence",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "mathematical understanding",
+    "scientific breakthroughs",
+    "protein folding",
+    "natural language processing",
+    "drug synthesis",
+    "recommender systems",
+    "engineering materials",
+    "computer science",
+    "foundational gaps",
+    "machine learning",
+    "broad scientific discovery",
+    "National Science Foundation Directorates",
+    "Mathematical and Physical Sciences",
+    "Computer and Information Science and Engineering",
+    "Engineering",
+    "Social, Behavioral and Economic Sciences",
+    "mathematicians",
+    "statisticians",
+    "computer scientists",
+    "engineers",
+    "social and behavioral scientists",
+    "design and analysis principles",
+    "foundation models",
+    "generative models",
+    "deep learning",
+    "statistical learning",
+    "federated learning",
+    "interdisciplinary research community",
+    "multidisciplinary research workforce",
+    "Standard Grant",
+    "Continuing Grant",
+    "Estimated Number of Awards",
+    "Non-profit, non-academic organizations",
+    "Institutions of Higher Education",
+    "community colleges",
+    "Principal Investigator",
+    "co-Principal Investigator",
+    "research or teaching position",
+    "U.S.-based campus",
+    "one proposal per deadline"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Mathematical Foundations of Artificial Intelligence",
+      "section": "Other"
+    },
+    {
+      "text": "Machine Learning",
+      "section": "Other"
+    },
+    {
+      "text": "Artificial Intelligence",
+      "section": "Other"
+    },
+    {
+      "text": "mathematical understanding",
+      "section": "Other"
+    },
+    {
+      "text": "scientific breakthroughs",
+      "section": "Other"
+    },
+    {
+      "text": "protein folding",
+      "section": "Other"
+    },
+    {
+      "text": "natural language processing",
+      "section": "Other"
+    },
+    {
+      "text": "drug synthesis",
+      "section": "Other"
+    },
+    {
+      "text": "recommender systems",
+      "section": "Other"
+    },
+    {
+      "text": "engineering materials",
+      "section": "Other"
+    },
+    {
+      "text": "computer science",
+      "section": "Other"
+    },
+    {
+      "text": "foundational gaps",
+      "section": "Other"
+    },
+    {
+      "text": "machine learning",
+      "section": "Other"
+    },
+    {
+      "text": "broad scientific discovery",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation Directorates",
+      "section": "Other"
+    },
+    {
+      "text": "Mathematical and Physical Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "Computer and Information Science and Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "Social, Behavioral and Economic Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "mathematicians",
+      "section": "Other"
+    },
+    {
+      "text": "statisticians",
+      "section": "Other"
+    },
+    {
+      "text": "computer scientists",
+      "section": "Other"
+    },
+    {
+      "text": "engineers",
+      "section": "Other"
+    },
+    {
+      "text": "social and behavioral scientists",
+      "section": "Other"
+    },
+    {
+      "text": "design and analysis principles",
+      "section": "Other"
+    },
+    {
+      "text": "foundation models",
+      "section": "Other"
+    },
+    {
+      "text": "generative models",
+      "section": "Other"
+    },
+    {
+      "text": "deep learning",
+      "section": "Other"
+    },
+    {
+      "text": "statistical learning",
+      "section": "Other"
+    },
+    {
+      "text": "federated learning",
+      "section": "Other"
+    },
+    {
+      "text": "interdisciplinary research community",
+      "section": "Other"
+    },
+    {
+      "text": "multidisciplinary research workforce",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Program Description"
+    },
+    {
+      "text": "co-Principal Investigator",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "research or teaching position",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S.-based campus",
+      "section": "Other"
+    },
+    {
+      "text": "one proposal per deadline",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Principal Investigator",
+        "source_text": "Principal Investigator",
+        "confidence": 0.9
+      },
+      {
+        "tag": "multidisciplinary research workforce",
+        "source_text": "multidisciplinary research workforce",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "one proposal per deadline",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-10-09"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-10-09, 2026-10-09",
+      "A Principal Investigator (PI) or co-Principal Investigator (co-PI) can be part of no more than one proposal per deadline in response to this solicitation.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_mathematical_foundations_of_artificial_intelligence_mfai.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/mfai-mathematical-foundations-artificial-intelligence/nsf24-569/solicitation"
+  },
+  "document_title": "Mathematical Foundations of Artificial Intelligence (MFAI)"
+}

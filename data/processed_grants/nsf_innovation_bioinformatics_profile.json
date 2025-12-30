@@ -1,0 +1,119 @@
+{
+  "grant_id": "nsf_innovation_bioinformatics",
+  "created_at": "2025-12-30T00:49:36.082463-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Bioinformatics Programmatic Area",
+    "Infrastructure Innovation for Biological Research",
+    "Division of Biological Infrastructure",
+    "Innovation program",
+    "Research Methods Programmatic Area",
+    "Faculty Early Career Development Program",
+    "Research Coordination Networks",
+    "Research at Undergraduate Institutions",
+    "Standard Grant",
+    "Continuing Grant",
+    "Cooperative Agreement",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Bioinformatics Programmatic Area",
+      "section": "Other"
+    },
+    {
+      "text": "Infrastructure Innovation for Biological Research",
+      "section": "Introduction"
+    },
+    {
+      "text": "Division of Biological Infrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "Innovation program",
+      "section": "Introduction"
+    },
+    {
+      "text": "Research Methods Programmatic Area",
+      "section": "Program Description"
+    },
+    {
+      "text": "Faculty Early Career Development Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Coordination Networks",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research at Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Research Methods Programmatic Area",
+        "source_text": "Research Methods Programmatic Area",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Infrastructure Innovation for Biological Research",
+        "source_text": "Infrastructure Innovation for Biological Research",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "The Innovation program only considers support for full proposals submitted to the program. Except for Career-Life-Balance supplements, program funds are generally not used to provide post-award supplements to existing awards. If activities that align with REU, RET, and RAHSS educational supplements are planned, these activities should be described and budgeted for in the original proposal submission.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_innovation_bioinformatics.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/innovation-infrastructure-innovation-biological-research/nsf23-578/solicitation"
+  },
+  "document_title": "Innovation: Bioinformatics"
+}

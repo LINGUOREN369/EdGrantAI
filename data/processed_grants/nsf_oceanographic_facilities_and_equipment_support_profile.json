@@ -1,0 +1,232 @@
+{
+  "grant_id": "nsf_oceanographic_facilities_and_equipment_support",
+  "created_at": "2025-12-30T01:30:16.785500-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Oceanographic Facilities and Equipment Support",
+    "Integrative Programs Section",
+    "Division of Ocean Sciences",
+    "Directorate for Geosciences",
+    "oceanographic facilities",
+    "shared-use facilities",
+    "Federally supported research",
+    "Oceanographic Technical Services",
+    "Tech Services",
+    "Oceanographic Instrumentation",
+    "OI",
+    "Shipboard Scientific Support Equipment",
+    "SSSE",
+    "University-National Oceanographic Laboratory System",
+    "UNOLS",
+    "research vessel technical services",
+    "scientific productivity",
+    "shared-use instrumentation",
+    "data loggers",
+    "oceanographic data",
+    "scientific capabilities",
+    "safety and enhance scientific capabilities",
+    "Jet Propulsion Laboratory",
+    "U.S. Academic Research Fleet",
+    "ARF",
+    "graduate and undergraduate students",
+    "oceanographic research",
+    "oceanographic expeditions",
+    "proposals may include",
+    "shared-use equipment",
+    "oceanographic research projects",
+    "oceanographic research facilities",
+    "additional basic services technician",
+    "salaries and related expenses"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Oceanographic Facilities and Equipment Support",
+      "section": "Other"
+    },
+    {
+      "text": "Integrative Programs Section",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Ocean Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "Directorate for Geosciences",
+      "section": "Other"
+    },
+    {
+      "text": "oceanographic facilities",
+      "section": "Other"
+    },
+    {
+      "text": "shared-use facilities",
+      "section": "Other"
+    },
+    {
+      "text": "Federally supported research",
+      "section": "Other"
+    },
+    {
+      "text": "Oceanographic Technical Services",
+      "section": "Other"
+    },
+    {
+      "text": "Tech Services",
+      "section": "Other"
+    },
+    {
+      "text": "Oceanographic Instrumentation",
+      "section": "Other"
+    },
+    {
+      "text": "OI",
+      "section": "Other"
+    },
+    {
+      "text": "Shipboard Scientific Support Equipment",
+      "section": "Other"
+    },
+    {
+      "text": "SSSE",
+      "section": "Other"
+    },
+    {
+      "text": "University-National Oceanographic Laboratory System",
+      "section": "Other"
+    },
+    {
+      "text": "UNOLS",
+      "section": "Other"
+    },
+    {
+      "text": "research vessel technical services",
+      "section": "Other"
+    },
+    {
+      "text": "scientific productivity",
+      "section": "Other"
+    },
+    {
+      "text": "shared-use instrumentation",
+      "section": "Other"
+    },
+    {
+      "text": "data loggers",
+      "section": "Other"
+    },
+    {
+      "text": "oceanographic data",
+      "section": "Other"
+    },
+    {
+      "text": "scientific capabilities",
+      "section": "Other"
+    },
+    {
+      "text": "safety and enhance scientific capabilities",
+      "section": "Other"
+    },
+    {
+      "text": "Jet Propulsion Laboratory",
+      "section": "Other"
+    },
+    {
+      "text": "U.S. Academic Research Fleet",
+      "section": "Introduction"
+    },
+    {
+      "text": "ARF",
+      "section": "Introduction"
+    },
+    {
+      "text": "graduate and undergraduate students",
+      "section": "Introduction"
+    },
+    {
+      "text": "oceanographic research",
+      "section": "Other"
+    },
+    {
+      "text": "oceanographic expeditions",
+      "section": "Introduction"
+    },
+    {
+      "text": "proposals may include",
+      "section": "Other"
+    },
+    {
+      "text": "shared-use equipment",
+      "section": "Other"
+    },
+    {
+      "text": "oceanographic research projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "oceanographic research facilities",
+      "section": "Other"
+    },
+    {
+      "text": "additional basic services technician",
+      "section": "Program Description"
+    },
+    {
+      "text": "salaries and related expenses",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "ARF",
+        "source_text": "ARF",
+        "confidence": 0.9
+      },
+      {
+        "tag": "additional basic services technician",
+        "source_text": "additional basic services technician",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "undergraduate students",
+        "source_text": "graduate and undergraduate students",
+        "confidence": 0.8849,
+        "sources": [
+          "graduate and undergraduate students"
+        ]
+      },
+      {
+        "tag": "graduate students",
+        "source_text": "graduate and undergraduate students",
+        "confidence": 0.8016,
+        "sources": [
+          "graduate and undergraduate students"
+        ]
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-12"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-12, 2026-01-12",
+      "The purpose of the Oceanographic Technical Services (Tech Services) Program is to enhance the scientific productivity of research programs that utilize vessels of the ARF, as well as shore-based, shared-use facilities. The shore-based facilities offer support to the ARF through access to a centralized facility, rather than requiring each institution to duplicate efforts. The shared-use facilities include two winch pools, two van pools and a wire pool. In addition, the following shared-use facilities are supported through the Technical Service Program: Rolling Deck to Repository (R2R) (long-term underway data management), SWAB (radioisotope testing), University of Hawaii Data Acquisition System (UHDAS) (ADCP support), HiSeasNet (internet connectivity), MARine Sediment SAMpling (MARSSAM) (coring and dredging support), Multibeam Advisory Committee (MAC) (multibeam sonar support), SATellite Network Advisory Group (SATNAG), and the Technician Pool.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_oceanographic_facilities_and_equipment_support.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/oceanographic-facilities-equipment-support/nsf23-525/solicitation"
+  },
+  "document_title": "Oceanographic Facilities and Equipment Support"
+}

@@ -1,0 +1,269 @@
+{
+  "grant_id": "nsf_historically_black_colleges_and_universities_undergraduate_program_hbcu_up",
+  "created_at": "2025-12-30T00:44:44.661791-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Historically Black Colleges and Universities - Undergraduate Program (HBCU-UP)",
+    "STEM undergraduate education and research",
+    "Targeted Infusion Projects",
+    "Research on Broadening Participation in STEM projects",
+    "Research Initiation Awards",
+    "Implementation Projects",
+    "Broadening Participation Research Centers",
+    "EArly-Concept Grants for Exploratory Research",
+    "Rapid Response Research",
+    "bachelor's degrees in science and engineering",
+    "broadening participation in the nation's STEM workforce",
+    "undergraduate science, technology, engineering, and mathematics (STEM) education",
+    "underrepresented groups in STEM undergraduate education",
+    "HBCUs",
+    "access to STEM research experiences for undergraduate students",
+    "K-12 to undergraduate",
+    "Recruitment and retention in STEM fields",
+    "Implementation Project proposals",
+    "Research on Broadening Participation in STEM Project proposals",
+    "Research Initiation Awards provide support for a STEM faculty member",
+    "Implementation Projects provide support",
+    "Broadening Participation Research Centers",
+    "HBCU community",
+    "national STEM capabilities and competitive advantage",
+    "plans of activities for project results",
+    "Principal Investigator",
+    "Targeted Infusion Project",
+    "Research on Broadening Participation in STEM Project",
+    "Research Initiation Award",
+    "Implementation Project",
+    "Broadening Participation Research Center",
+    "new degree programs or concentrations",
+    "new approaches to recruit and retain undergraduate STEM students",
+    "standard grant or continuing grant",
+    "Anticipated Type of Award",
+    "number of awards",
+    "Historically Black Colleges and Universities (HBCUs)",
+    "accredited and offer undergraduate educational degree programs in science, technology, engineering, or mathematics (STEM)",
+    "research capability and effectiveness",
+    "evidence-based models and materials for teaching and learning in STEM",
+    "sustainable practices"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Historically Black Colleges and Universities - Undergraduate Program (HBCU-UP)",
+      "section": "Other"
+    },
+    {
+      "text": "STEM undergraduate education and research",
+      "section": "Other"
+    },
+    {
+      "text": "Targeted Infusion Projects",
+      "section": "Other"
+    },
+    {
+      "text": "Research on Broadening Participation in STEM projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Initiation Awards",
+      "section": "Other"
+    },
+    {
+      "text": "Implementation Projects",
+      "section": "Other"
+    },
+    {
+      "text": "Broadening Participation Research Centers",
+      "section": "Other"
+    },
+    {
+      "text": "EArly-Concept Grants for Exploratory Research",
+      "section": "Other"
+    },
+    {
+      "text": "Rapid Response Research",
+      "section": "Other"
+    },
+    {
+      "text": "bachelor's degrees in science and engineering",
+      "section": "Introduction"
+    },
+    {
+      "text": "broadening participation in the nation's STEM workforce",
+      "section": "Other"
+    },
+    {
+      "text": "undergraduate science, technology, engineering, and mathematics (STEM) education",
+      "section": "Introduction"
+    },
+    {
+      "text": "underrepresented groups in STEM undergraduate education",
+      "section": "Other"
+    },
+    {
+      "text": "HBCUs",
+      "section": "Other"
+    },
+    {
+      "text": "access to STEM research experiences for undergraduate students",
+      "section": "Introduction"
+    },
+    {
+      "text": "K-12 to undergraduate",
+      "section": "Introduction"
+    },
+    {
+      "text": "Recruitment and retention in STEM fields",
+      "section": "Other"
+    },
+    {
+      "text": "Implementation Project proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research on Broadening Participation in STEM Project proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Initiation Awards provide support for a STEM faculty member",
+      "section": "Program Description"
+    },
+    {
+      "text": "Implementation Projects provide support",
+      "section": "Program Description"
+    },
+    {
+      "text": "Broadening Participation Research Centers",
+      "section": "Other"
+    },
+    {
+      "text": "HBCU community",
+      "section": "Program Description"
+    },
+    {
+      "text": "national STEM capabilities and competitive advantage",
+      "section": "Program Description"
+    },
+    {
+      "text": "plans of activities for project results",
+      "section": "Other"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Targeted Infusion Project",
+      "section": "Other"
+    },
+    {
+      "text": "Research on Broadening Participation in STEM Project",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Initiation Award",
+      "section": "Other"
+    },
+    {
+      "text": "Implementation Project",
+      "section": "Other"
+    },
+    {
+      "text": "Broadening Participation Research Center",
+      "section": "Other"
+    },
+    {
+      "text": "new degree programs or concentrations",
+      "section": "Program Description"
+    },
+    {
+      "text": "new approaches to recruit and retain undergraduate STEM students",
+      "section": "Program Description"
+    },
+    {
+      "text": "standard grant or continuing grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Anticipated Type of Award",
+      "section": "Award Information"
+    },
+    {
+      "text": "number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Historically Black Colleges and Universities (HBCUs)",
+      "section": "Other"
+    },
+    {
+      "text": "accredited and offer undergraduate educational degree programs in science, technology, engineering, or mathematics (STEM)",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "research capability and effectiveness",
+      "section": "Program Description"
+    },
+    {
+      "text": "evidence-based models and materials for teaching and learning in STEM",
+      "section": "Program Description"
+    },
+    {
+      "text": "sustainable practices",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "Research on Broadening Participation in STEM Project",
+        "confidence": 0.8101
+      },
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "Research on Broadening Participation in STEM Project",
+        "confidence": 0.8101
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 students",
+        "source_text": "K-12 to undergraduate",
+        "confidence": 0.7142,
+        "sources": [
+          "K-12 to undergraduate"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "historically Black college or university",
+        "source_text": "Historically Black Colleges and Universities (HBCUs)",
+        "confidence": 0.7825,
+        "sources": [
+          "Historically Black Colleges and Universities (HBCUs)"
+        ]
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-03-24"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-03-24, 2026-03-24",
+      "An eligible institution can submit only one Implementation Project proposal per year. An institution may have only one active Implementation Project award. However, a new proposal can be submitted by an institution with an active project if that project is due to expire before a new award would start.",
+      "The lead institution of a proposal for a Broadening Participation Research enter should have been awarded three rounds of an Implementation or ACE Implementation Project. Institutions that do not meet this criterion but have received funding for broadening participation research projects, must consult with a Program Director to determine the eligibility of the institution to serve as lead institution in a BPRC project. An eligible lead institution can submit only one Broadening Participation Research Center proposal per funding cycle and can have only one active center. However, a renewal proposal can be submitted by the lead institution with an active project if that project is due to expire before new awards are made.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_historically_black_colleges_and_universities_undergraduate_program_hbcu_up.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/hbcu-historically-black-colleges-universities-undergraduate/nsf23-563/solicitation"
+  },
+  "document_title": "Historically Black Colleges and Universities - Undergraduate Program (HBCU-UP)"
+}

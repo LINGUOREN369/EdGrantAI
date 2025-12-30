@@ -1,0 +1,395 @@
+{
+  "grant_id": "nsf_chemical_mechanism_function_and_properties_cmfp",
+  "created_at": "2025-12-29T23:47:02.554302-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Chemical Mechanism, Function, and Properties (CMFP)",
+    "Chemical Structure, Dynamics, and Mechanisms B (CSDM-B)",
+    "CMFP proposals",
+    "molecular systems",
+    "emergent potential for applications",
+    "chemical structure-property relationship studies",
+    "mechanistic studies",
+    "organometallic reactions",
+    "inorganic reactions",
+    "chemistry of reactive intermediates",
+    "charge transfer",
+    "photochemical processes",
+    "electrochemical processes",
+    "catalytic processes",
+    "new molecular systems",
+    "materials",
+    "energy",
+    "environment",
+    "biotechnology",
+    "information sciences",
+    "chromophore development",
+    "solar fuel applications",
+    "innovative battery electrolytes",
+    "flow-battery systems",
+    "ionic liquids",
+    "selective metal binders",
+    "artificial photosynthesis",
+    "magnetic chemical systems",
+    "molecular qubits",
+    "sustainable chemistry",
+    "fundamental studies",
+    "sustainable energy",
+    "Quantum Information Science (QIS)",
+    "Grant Opportunities for Academic Liaison with Industry (GOALI)",
+    "CHE Disciplinary Research Programs",
+    "Chemical Catalysis",
+    "Chemical Measurement and Imaging",
+    "Environmental Chemical Sciences",
+    "Macromolecular, Supramolecular and Nanochemistry",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations",
+    "Limit on Number of Proposals per PI or co-PI",
+    "Proposals may only be submitted by the following",
+    "two-year IHEs",
+    "four-year IHEs",
+    "community colleges",
+    "coalition proposals",
+    "Minority-serving Institutions (MSIs)",
+    "Primarily Undergraduate Institutions (PUIs)",
+    "two-year colleges",
+    "Grant Opportunities for Academic Liaisons with Industry",
+    "Facilitating Research at Primarily Undergraduate Institutions",
+    "EAGER proposals",
+    "RAPID proposals",
+    "RAISE proposals",
+    "careers proposals",
+    "Anticipated Type of Award",
+    "Standard Grant",
+    "Continuing Grant",
+    "Estimated Number of Awards"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Chemical Mechanism, Function, and Properties (CMFP)",
+      "section": "Other"
+    },
+    {
+      "text": "Chemical Structure, Dynamics, and Mechanisms B (CSDM-B)",
+      "section": "Other"
+    },
+    {
+      "text": "CMFP proposals",
+      "section": "Other"
+    },
+    {
+      "text": "molecular systems",
+      "section": "Other"
+    },
+    {
+      "text": "emergent potential for applications",
+      "section": "Other"
+    },
+    {
+      "text": "chemical structure-property relationship studies",
+      "section": "Other"
+    },
+    {
+      "text": "mechanistic studies",
+      "section": "Other"
+    },
+    {
+      "text": "organometallic reactions",
+      "section": "Other"
+    },
+    {
+      "text": "inorganic reactions",
+      "section": "Other"
+    },
+    {
+      "text": "chemistry of reactive intermediates",
+      "section": "Other"
+    },
+    {
+      "text": "charge transfer",
+      "section": "Other"
+    },
+    {
+      "text": "photochemical processes",
+      "section": "Other"
+    },
+    {
+      "text": "electrochemical processes",
+      "section": "Other"
+    },
+    {
+      "text": "catalytic processes",
+      "section": "Other"
+    },
+    {
+      "text": "new molecular systems",
+      "section": "Other"
+    },
+    {
+      "text": "materials",
+      "section": "Other"
+    },
+    {
+      "text": "energy",
+      "section": "Other"
+    },
+    {
+      "text": "environment",
+      "section": "Other"
+    },
+    {
+      "text": "biotechnology",
+      "section": "Other"
+    },
+    {
+      "text": "information sciences",
+      "section": "Other"
+    },
+    {
+      "text": "chromophore development",
+      "section": "Other"
+    },
+    {
+      "text": "solar fuel applications",
+      "section": "Other"
+    },
+    {
+      "text": "innovative battery electrolytes",
+      "section": "Other"
+    },
+    {
+      "text": "flow-battery systems",
+      "section": "Other"
+    },
+    {
+      "text": "ionic liquids",
+      "section": "Other"
+    },
+    {
+      "text": "selective metal binders",
+      "section": "Other"
+    },
+    {
+      "text": "artificial photosynthesis",
+      "section": "Other"
+    },
+    {
+      "text": "magnetic chemical systems",
+      "section": "Other"
+    },
+    {
+      "text": "molecular qubits",
+      "section": "Other"
+    },
+    {
+      "text": "sustainable chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental studies",
+      "section": "Other"
+    },
+    {
+      "text": "sustainable energy",
+      "section": "Other"
+    },
+    {
+      "text": "Quantum Information Science (QIS)",
+      "section": "Other"
+    },
+    {
+      "text": "Grant Opportunities for Academic Liaison with Industry (GOALI)",
+      "section": "Other"
+    },
+    {
+      "text": "CHE Disciplinary Research Programs",
+      "section": "Other"
+    },
+    {
+      "text": "Chemical Catalysis",
+      "section": "Program Description"
+    },
+    {
+      "text": "Chemical Measurement and Imaging",
+      "section": "Program Description"
+    },
+    {
+      "text": "Environmental Chemical Sciences",
+      "section": "Program Description"
+    },
+    {
+      "text": "Macromolecular, Supramolecular and Nanochemistry",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Proposals may only be submitted by the following",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two-year IHEs",
+      "section": "Other"
+    },
+    {
+      "text": "four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "coalition proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Minority-serving Institutions (MSIs)",
+      "section": "Other"
+    },
+    {
+      "text": "Primarily Undergraduate Institutions (PUIs)",
+      "section": "Other"
+    },
+    {
+      "text": "two-year colleges",
+      "section": "Other"
+    },
+    {
+      "text": "Grant Opportunities for Academic Liaisons with Industry",
+      "section": "Program Description"
+    },
+    {
+      "text": "Facilitating Research at Primarily Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "EAGER proposals",
+      "section": "Other"
+    },
+    {
+      "text": "RAPID proposals",
+      "section": "Other"
+    },
+    {
+      "text": "RAISE proposals",
+      "section": "Other"
+    },
+    {
+      "text": "careers proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Anticipated Type of Award",
+      "section": "Award Information"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Facilitating Research at Primarily Undergraduate Institutions",
+        "source_text": "Facilitating Research at Primarily Undergraduate Institutions",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Chemical Catalysis",
+        "source_text": "Chemical Catalysis",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges",
+          "two-year colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "two-year college",
+        "source_text": "two-year colleges",
+        "confidence": 0.8894,
+        "sources": [
+          "two-year colleges"
+        ]
+      },
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "minority-serving institution",
+        "source_text": "Minority-serving Institutions (MSIs)",
+        "confidence": 0.8184,
+        "sources": [
+          "Minority-serving Institutions (MSIs)"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per PI or co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 RUI proposals must be submitted to the RUI Solicitation during the regular proposal submission window for this program.",
+      "CAREER proposals should be submitted through the CAREER solicitation by the deadline specified for CAREER proposals.",
+      "This restriction includes proposals under Grant Opportunities for Academic Liaison with Industry (GOALI) and Facilitating Research at Primarily Undergraduate Institutions ( RUI), as well as proposals submitted to the Division of Chemistry: Disciplinary Research Programs: No Deadline Pilot (CHE-DRP:NDP) Solicitation ( NSF 22-606 ).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_chemical_mechanism_function_and_properties_cmfp.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/che-drp-division-chemistry-disciplinary-research-programs/nsf22-605/solicitation"
+  },
+  "document_title": "Chemical Mechanism, Function, and Properties (CMFP)"
+}

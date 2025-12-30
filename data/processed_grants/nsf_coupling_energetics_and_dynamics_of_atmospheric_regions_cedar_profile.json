@@ -1,0 +1,378 @@
+{
+  "grant_id": "nsf_coupling_energetics_and_dynamics_of_atmospheric_regions_cedar",
+  "created_at": "2025-12-30T00:00:12.975216-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Coupling, Energetics, and Dynamics of Atmospheric Regions",
+    "CEDAR",
+    "Geospace Cluster",
+    "upper atmospheric research",
+    "atmospheric regions",
+    "middle atmosphere",
+    "thermosphere",
+    "ionosphere",
+    "exosphere",
+    "upper atmosphere",
+    "comparative aeronomy studies",
+    "Earth's upper atmosphere",
+    "dynamics",
+    "energetics",
+    "comparative aeronomy",
+    "horizontal coupling",
+    "lower atmosphere",
+    "solar radiation",
+    "artificial intelligence",
+    "machine learning tools",
+    "open data",
+    "open science practices",
+    "observational datasets",
+    "NSF funded observations",
+    "coupling and transport effects",
+    "local scales",
+    "regional scales",
+    "global scales",
+    "modeling",
+    "data assimilation methods",
+    "AI and ML methods",
+    "students",
+    "early career scientists",
+    "theory",
+    "modeling",
+    "simulations",
+    "instrument development",
+    "data analysis",
+    "field measurements",
+    "laboratory research activities",
+    "Standard Grant",
+    "Continuing Grant",
+    "estimated number of awards",
+    "Institutions of Higher Education",
+    "community colleges",
+    "non-profit, non-academic organizations",
+    "for-profit organizations",
+    "small businesses",
+    "Tribal Nations",
+    "American Indian or Alaska Native tribe",
+    "federally recognized tribe"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Coupling, Energetics, and Dynamics of Atmospheric Regions",
+      "section": "Other"
+    },
+    {
+      "text": "CEDAR",
+      "section": "Other"
+    },
+    {
+      "text": "Geospace Cluster",
+      "section": "Introduction"
+    },
+    {
+      "text": "upper atmospheric research",
+      "section": "Introduction"
+    },
+    {
+      "text": "atmospheric regions",
+      "section": "Other"
+    },
+    {
+      "text": "middle atmosphere",
+      "section": "Other"
+    },
+    {
+      "text": "thermosphere",
+      "section": "Other"
+    },
+    {
+      "text": "ionosphere",
+      "section": "Other"
+    },
+    {
+      "text": "exosphere",
+      "section": "Other"
+    },
+    {
+      "text": "upper atmosphere",
+      "section": "Other"
+    },
+    {
+      "text": "comparative aeronomy studies",
+      "section": "Introduction"
+    },
+    {
+      "text": "Earth's upper atmosphere",
+      "section": "Introduction"
+    },
+    {
+      "text": "dynamics",
+      "section": "Other"
+    },
+    {
+      "text": "energetics",
+      "section": "Other"
+    },
+    {
+      "text": "comparative aeronomy",
+      "section": "Introduction"
+    },
+    {
+      "text": "horizontal coupling",
+      "section": "Program Description"
+    },
+    {
+      "text": "lower atmosphere",
+      "section": "Introduction"
+    },
+    {
+      "text": "solar radiation",
+      "section": "Other"
+    },
+    {
+      "text": "artificial intelligence",
+      "section": "Program Description"
+    },
+    {
+      "text": "machine learning tools",
+      "section": "Program Description"
+    },
+    {
+      "text": "open data",
+      "section": "Other"
+    },
+    {
+      "text": "open science practices",
+      "section": "Other"
+    },
+    {
+      "text": "observational datasets",
+      "section": "Program Description"
+    },
+    {
+      "text": "NSF funded observations",
+      "section": "Program Description"
+    },
+    {
+      "text": "coupling and transport effects",
+      "section": "Program Description"
+    },
+    {
+      "text": "local scales",
+      "section": "Other"
+    },
+    {
+      "text": "regional scales",
+      "section": "Other"
+    },
+    {
+      "text": "global scales",
+      "section": "Other"
+    },
+    {
+      "text": "modeling",
+      "section": "Other"
+    },
+    {
+      "text": "data assimilation methods",
+      "section": "Program Description"
+    },
+    {
+      "text": "AI and ML methods",
+      "section": "Program Description"
+    },
+    {
+      "text": "students",
+      "section": "Program Description"
+    },
+    {
+      "text": "early career scientists",
+      "section": "Program Description"
+    },
+    {
+      "text": "theory",
+      "section": "Other"
+    },
+    {
+      "text": "modeling",
+      "section": "Other"
+    },
+    {
+      "text": "simulations",
+      "section": "Program Description"
+    },
+    {
+      "text": "instrument development",
+      "section": "Program Description"
+    },
+    {
+      "text": "data analysis",
+      "section": "Program Description"
+    },
+    {
+      "text": "field measurements",
+      "section": "Program Description"
+    },
+    {
+      "text": "laboratory research activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "for-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "small businesses",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "American Indian or Alaska Native tribe",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "federally recognized tribe",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "upper atmospheric research",
+        "source_text": "upper atmospheric research",
+        "confidence": 0.9
+      },
+      {
+        "tag": "comparative aeronomy",
+        "source_text": "comparative aeronomy",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "teachers",
+        "source_text": "students",
+        "confidence": 0.6426,
+        "sources": [
+          "students"
+        ]
+      },
+      {
+        "tag": "undergraduate students",
+        "source_text": "students",
+        "confidence": 0.6396,
+        "sources": [
+          "students"
+        ]
+      },
+      {
+        "tag": "graduate students",
+        "source_text": "students",
+        "confidence": 0.637,
+        "sources": [
+          "students"
+        ]
+      },
+      {
+        "tag": "high school students",
+        "source_text": "students",
+        "confidence": 0.617,
+        "sources": [
+          "students"
+        ]
+      },
+      {
+        "tag": "postdoctoral researchers",
+        "source_text": "early career scientists",
+        "confidence": 0.6132,
+        "sources": [
+          "early career scientists"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-03-04"
+    ],
+    "raw_mentions": [
+      "Synopsis: The Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR) program supports research to increase our understanding of the behavior of atmospheric regions from the middle atmosphere upward through the thermosphere and ionosphere into the exosphere. Projects explore coupling, energetics, chemistry, and dynamics on regional and global scales. The research topics include investigations of upper atmosphere responses due to a) processes driven by the lower atmospheric perturbations and (b) solar radiation and particle inputs from above. The activities supported by this program include observations from ground-based and space-based platforms, as well as theory and modeling of the upper atmosphere of the Earth and other planets in our solar systems. \u00a0\u00a0Novel approaches that include AI and ML tools and open data and open science practices are encouraged.",
+      "Next due date (Y-m-d): 2026-03-04, 2026-03-04",
+      "Only two research proposals per investigator, either as a PI, co-PI, or in a sub-award, are allowed per target date in the CEDAR Program.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_coupling_energetics_and_dynamics_of_atmospheric_regions_cedar.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/cedar-coupling-energetics-dynamics-atmospheric-regions/nsf25-510/solicitation"
+  },
+  "document_title": "Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR)"
+}

@@ -1,0 +1,275 @@
+{
+  "grant_id": "nsf_systems_and_synthetic_biology",
+  "created_at": "2025-12-30T01:57:56.577490-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Systems and Synthetic Biology",
+    "SSB",
+    "molecular and cellular mechanisms",
+    "biological systems",
+    "emergent properties",
+    "multi-omics data sets",
+    "mechanistic modeling",
+    "research areas",
+    "Division of Molecular and Cellular Biosciences Core Programs",
+    "MCB",
+    "Molecular Biophysics",
+    "Genetic Mechanisms",
+    "Cellular Dynamics and Function",
+    "Integrative Organismal Systems",
+    "Environmental Biology",
+    "Biological Infrastructure",
+    "EPSCoR jurisdiction",
+    "EXPAND MCB in EPSCoR",
+    "Integrative Research in Biology",
+    "IntBIO",
+    "international collaborative research",
+    "Transitions to Excellence in Molecular and Cellular Biosciences Research",
+    "Transitions",
+    "Faculty Early Career Development Program",
+    "CAREER",
+    "Mid-Career Advancement program",
+    "MCA",
+    "Research Coordination Networks",
+    "RCN",
+    "Research at Undergraduate Institutions",
+    "RUI",
+    "standard grant",
+    "continuing grant",
+    "estimated number of awards",
+    "institutions of higher education",
+    "two-year IHEs",
+    "four-year IHEs",
+    "community colleges",
+    "non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Systems and Synthetic Biology",
+      "section": "Other"
+    },
+    {
+      "text": "SSB",
+      "section": "Other"
+    },
+    {
+      "text": "molecular and cellular mechanisms",
+      "section": "Other"
+    },
+    {
+      "text": "biological systems",
+      "section": "Other"
+    },
+    {
+      "text": "emergent properties",
+      "section": "Other"
+    },
+    {
+      "text": "multi-omics data sets",
+      "section": "Other"
+    },
+    {
+      "text": "mechanistic modeling",
+      "section": "Other"
+    },
+    {
+      "text": "research areas",
+      "section": "Introduction"
+    },
+    {
+      "text": "Division of Molecular and Cellular Biosciences Core Programs",
+      "section": "Introduction"
+    },
+    {
+      "text": "MCB",
+      "section": "Introduction"
+    },
+    {
+      "text": "Molecular Biophysics",
+      "section": "Program Description"
+    },
+    {
+      "text": "Genetic Mechanisms",
+      "section": "Program Description"
+    },
+    {
+      "text": "Cellular Dynamics and Function",
+      "section": "Program Description"
+    },
+    {
+      "text": "Integrative Organismal Systems",
+      "section": "Program Description"
+    },
+    {
+      "text": "Environmental Biology",
+      "section": "Program Description"
+    },
+    {
+      "text": "Biological Infrastructure",
+      "section": "Program Description"
+    },
+    {
+      "text": "EPSCoR jurisdiction",
+      "section": "Program Description"
+    },
+    {
+      "text": "EXPAND MCB in EPSCoR",
+      "section": "Program Description"
+    },
+    {
+      "text": "Integrative Research in Biology",
+      "section": "Program Description"
+    },
+    {
+      "text": "IntBIO",
+      "section": "Program Description"
+    },
+    {
+      "text": "international collaborative research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Transitions to Excellence in Molecular and Cellular Biosciences Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Transitions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Faculty Early Career Development Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "CAREER",
+      "section": "Program Description"
+    },
+    {
+      "text": "Mid-Career Advancement program",
+      "section": "Program Description"
+    },
+    {
+      "text": "MCA",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Coordination Networks",
+      "section": "Program Description"
+    },
+    {
+      "text": "RCN",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research at Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "RUI",
+      "section": "Program Description"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "institutions of higher education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two-year IHEs",
+      "section": "Other"
+    },
+    {
+      "text": "four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Integrative Research in Biology",
+        "source_text": "Integrative Research in Biology",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Cellular Dynamics and Function",
+        "source_text": "Cellular Dynamics and Function",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "institutions of higher education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR jurisdiction",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR jurisdiction"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Mid-Career Advancement program (MCA) proposals may be submitted to any of the clusters/programs described in this solicitation but must be submitted by the submission window for the MCA program. This is another opportunity available to mid-career researchers to advance their career trajectory.",
+      "Grants for Rapid Response Research (RAPID), Early-concept Grants for Exploratory Research (EAGER), Research Advanced by Interdisciplinary Science and Engineering (RAISE), Grant Opportunities for Academic Liaison with Industry (GOALI), Planning proposals, and proposals for Travel or Conferences support, including workshops, can be submitted at any time to any of the clusters/programs described in this solicitation. These types of proposals should be submitted in accordance with the guidance in the PAPPG. Conference/Workshop/Travel proposals should be submitted at least 6 months before the start date of the conference or workshop in accordance with guidance in the PAPPG and on in the Additional Resources section of the MCB website; you are strongly advised to contact a Program Officer prior to submission. Note that for RAPID, EAGER, RAISE, or Planning proposals, a concept outline must be submitted prior to submission of a full proposal with approval from an MCB Program Director from the cluster covering the research area of the proposal.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_systems_and_synthetic_biology.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/mcb-division-molecular-cellular-biosciences-core-programs/nsf24-539/solicitation"
+  },
+  "document_title": "Systems and Synthetic Biology"
+}

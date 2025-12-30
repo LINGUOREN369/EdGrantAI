@@ -1,0 +1,329 @@
+{
+  "grant_id": "nsf_communications_and_information_foundations_cif",
+  "created_at": "2025-12-29T23:54:40.296297-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Communications and Information Foundations",
+    "CIF",
+    "research activities",
+    "information acquisition",
+    "information theory",
+    "coding theory",
+    "signal and image processing",
+    "networked systems",
+    "network information theory",
+    "cross-layer design",
+    "wireless systems",
+    "secure communication",
+    "sensor networks",
+    "massive data aggregation",
+    "statistical learning and inference",
+    "signal processing on graphs and networks",
+    "multi-terminal communication problems",
+    "information-theoretic security",
+    "geometric methods in signal processing",
+    "machine learning",
+    "explainability and generalizability",
+    "CISE",
+    "Future Computing Research",
+    "mathematical, scientific and technological foundations",
+    "computer and network systems",
+    "cyber-physical systems",
+    "cybersecurity",
+    "complex scientific problems",
+    "Algorithmic Foundations",
+    "Communications and Information Foundations",
+    "Computer Systems Research",
+    "Computing Education Research",
+    "Cyber-Physical Systems Foundations",
+    "Connected Communities",
+    "Foundations of Emerging Technologies",
+    "Human-Centered Computing",
+    "Information Integration and Informatics",
+    "Networking Technology and Systems",
+    "Robust Intelligence",
+    "Software and Hardware Foundations",
+    "estimated number of awards",
+    "Institutions of Higher Education",
+    "Two- and four-year IHEs",
+    "community colleges",
+    "Non-profit, non-academic organizations",
+    "Independent museums",
+    "Tribal Nations",
+    "federally recognized tribe",
+    "limit on number of proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Communications and Information Foundations",
+      "section": "Other"
+    },
+    {
+      "text": "CIF",
+      "section": "Other"
+    },
+    {
+      "text": "research activities",
+      "section": "Other"
+    },
+    {
+      "text": "information acquisition",
+      "section": "Other"
+    },
+    {
+      "text": "information theory",
+      "section": "Other"
+    },
+    {
+      "text": "coding theory",
+      "section": "Other"
+    },
+    {
+      "text": "signal and image processing",
+      "section": "Other"
+    },
+    {
+      "text": "networked systems",
+      "section": "Other"
+    },
+    {
+      "text": "network information theory",
+      "section": "Other"
+    },
+    {
+      "text": "cross-layer design",
+      "section": "Other"
+    },
+    {
+      "text": "wireless systems",
+      "section": "Other"
+    },
+    {
+      "text": "secure communication",
+      "section": "Other"
+    },
+    {
+      "text": "sensor networks",
+      "section": "Other"
+    },
+    {
+      "text": "massive data aggregation",
+      "section": "Other"
+    },
+    {
+      "text": "statistical learning and inference",
+      "section": "Other"
+    },
+    {
+      "text": "signal processing on graphs and networks",
+      "section": "Other"
+    },
+    {
+      "text": "multi-terminal communication problems",
+      "section": "Other"
+    },
+    {
+      "text": "information-theoretic security",
+      "section": "Other"
+    },
+    {
+      "text": "geometric methods in signal processing",
+      "section": "Other"
+    },
+    {
+      "text": "machine learning",
+      "section": "Other"
+    },
+    {
+      "text": "explainability and generalizability",
+      "section": "Other"
+    },
+    {
+      "text": "CISE",
+      "section": "Introduction"
+    },
+    {
+      "text": "Future Computing Research",
+      "section": "Introduction"
+    },
+    {
+      "text": "mathematical, scientific and technological foundations",
+      "section": "Introduction"
+    },
+    {
+      "text": "computer and network systems",
+      "section": "Introduction"
+    },
+    {
+      "text": "cyber-physical systems",
+      "section": "Introduction"
+    },
+    {
+      "text": "cybersecurity",
+      "section": "Introduction"
+    },
+    {
+      "text": "complex scientific problems",
+      "section": "Other"
+    },
+    {
+      "text": "Algorithmic Foundations",
+      "section": "Program Description"
+    },
+    {
+      "text": "Communications and Information Foundations",
+      "section": "Other"
+    },
+    {
+      "text": "Computer Systems Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Computing Education Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Cyber-Physical Systems Foundations",
+      "section": "Program Description"
+    },
+    {
+      "text": "Connected Communities",
+      "section": "Program Description"
+    },
+    {
+      "text": "Foundations of Emerging Technologies",
+      "section": "Program Description"
+    },
+    {
+      "text": "Human-Centered Computing",
+      "section": "Program Description"
+    },
+    {
+      "text": "Information Integration and Informatics",
+      "section": "Program Description"
+    },
+    {
+      "text": "Networking Technology and Systems",
+      "section": "Program Description"
+    },
+    {
+      "text": "Robust Intelligence",
+      "section": "Program Description"
+    },
+    {
+      "text": "Software and Hardware Foundations",
+      "section": "Program Description"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Independent museums",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "federally recognized tribe",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "limit on number of proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Connected Communities",
+        "source_text": "Connected Communities",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Future Computing Research",
+        "source_text": "Future Computing Research",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "limit on number of proposals per PI or co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_communications_and_information_foundations_cif.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation"
+  },
+  "document_title": "Communications and Information Foundations (CIF)"
+}

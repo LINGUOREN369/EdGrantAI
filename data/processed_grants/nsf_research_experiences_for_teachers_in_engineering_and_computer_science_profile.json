@@ -1,0 +1,327 @@
+{
+  "grant_id": "nsf_research_experiences_for_teachers_in_engineering_and_computer_science",
+  "created_at": "2025-12-30T01:42:15.204743-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Research Experiences for Teachers (RET)",
+    "K-14 educators",
+    "summer research experiences",
+    "long-term collaborations",
+    "universities",
+    "community colleges",
+    "school districts",
+    "industry partners",
+    "Engineering",
+    "Computer and Information Science and Engineering",
+    "reciprocal exchange of expertise",
+    "scientific disciplinary knowledge in engineering",
+    "scientific disciplinary knowledge in computer science",
+    "classroom activities",
+    "broadening participation in computing",
+    "broadening participation in engineering",
+    "diverse teacher talent pool",
+    "RET Sites",
+    "RET Supplements",
+    "active participation in science",
+    "engineering",
+    "education research",
+    "pre- and/or in-service K-12 teachers",
+    "two- and four-year IHEs",
+    "community colleges",
+    "Minority-Serving Institutions",
+    "academic-year activities",
+    "Research Experiences for Undergraduates (REU)",
+    "Department of Energy (DOE)",
+    "electric power sector research",
+    "clean energy technology research",
+    "National Science Foundation",
+    "standard grant",
+    "continuing grant",
+    "estimated number of awards",
+    "two- and four-year IHEs",
+    "Institutions of Higher Education (IHEs)",
+    "full-time faculty appointment"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Research Experiences for Teachers (RET)",
+      "section": "Other"
+    },
+    {
+      "text": "K-14 educators",
+      "section": "Other"
+    },
+    {
+      "text": "summer research experiences",
+      "section": "Other"
+    },
+    {
+      "text": "long-term collaborations",
+      "section": "Other"
+    },
+    {
+      "text": "universities",
+      "section": "Other"
+    },
+    {
+      "text": "community colleges",
+      "section": "Other"
+    },
+    {
+      "text": "school districts",
+      "section": "Other"
+    },
+    {
+      "text": "industry partners",
+      "section": "Other"
+    },
+    {
+      "text": "Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "Computer and Information Science and Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "reciprocal exchange of expertise",
+      "section": "Other"
+    },
+    {
+      "text": "scientific disciplinary knowledge in engineering",
+      "section": "Other"
+    },
+    {
+      "text": "scientific disciplinary knowledge in computer science",
+      "section": "Other"
+    },
+    {
+      "text": "classroom activities",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation in computing",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation in engineering",
+      "section": "Other"
+    },
+    {
+      "text": "diverse teacher talent pool",
+      "section": "Program Description"
+    },
+    {
+      "text": "RET Sites",
+      "section": "Introduction"
+    },
+    {
+      "text": "RET Supplements",
+      "section": "Introduction"
+    },
+    {
+      "text": "active participation in science",
+      "section": "Introduction"
+    },
+    {
+      "text": "engineering",
+      "section": "Other"
+    },
+    {
+      "text": "education research",
+      "section": "Introduction"
+    },
+    {
+      "text": "pre- and/or in-service K-12 teachers",
+      "section": "Program Description"
+    },
+    {
+      "text": "two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Other"
+    },
+    {
+      "text": "Minority-Serving Institutions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "academic-year activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Undergraduates (REU)",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Energy (DOE)",
+      "section": "Program Description"
+    },
+    {
+      "text": "electric power sector research",
+      "section": "Program Description"
+    },
+    {
+      "text": "clean energy technology research",
+      "section": "Program Description"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Introduction"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education (IHEs)",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "full-time faculty appointment",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "STEM education research",
+        "source_text": "education research",
+        "confidence": 0.6615
+      },
+      {
+        "tag": "RET Supplements",
+        "source_text": "RET Supplements",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "school districts",
+        "source_text": "school districts",
+        "confidence": 1.0,
+        "sources": [
+          "school districts"
+        ]
+      },
+      {
+        "tag": "K-12 teachers",
+        "source_text": "pre- and/or in-service K-12 teachers",
+        "confidence": 0.783,
+        "sources": [
+          "K-14 educators",
+          "pre- and/or in-service K-12 teachers"
+        ]
+      },
+      {
+        "tag": "pre-service teachers",
+        "source_text": "pre- and/or in-service K-12 teachers",
+        "confidence": 0.7662,
+        "sources": [
+          "pre- and/or in-service K-12 teachers"
+        ]
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "in-service teachers",
+        "source_text": "pre- and/or in-service K-12 teachers",
+        "confidence": 0.7438,
+        "sources": [
+          "pre- and/or in-service K-12 teachers"
+        ]
+      },
+      {
+        "tag": "K-12 students",
+        "source_text": "K-14 educators",
+        "confidence": 0.6848,
+        "sources": [
+          "K-14 educators"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "industry partner",
+        "source_text": "industry partners",
+        "confidence": 0.9217,
+        "sources": [
+          "industry partners"
+        ]
+      },
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "minority-serving institution",
+        "source_text": "Minority-Serving Institutions",
+        "confidence": 0.8712,
+        "sources": [
+          "Minority-Serving Institutions"
+        ]
+      },
+      {
+        "tag": "public school district",
+        "source_text": "school districts",
+        "confidence": 0.8117,
+        "sources": [
+          "school districts"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education (IHEs)",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-10-14"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-10-14, 2026-10-14",
+      "The RET program encourages the active participation of K-14 educators in ongoing engineering and/or computer science research activities through Site awards and Supplements. RET Sites and Supplements can include pre- and/or in-service K-12 teachers and/or community college faculty as participants.",
+      "RET Sites are based on independent proposals, submitted for an annual deadline date to provide authentic summer research experiences for K-14 STEM educators and foster long-term collaborations between universities, community colleges, school districts, and industry partners. As part of the long-term partnership arrangements, involvement of undergraduate/graduate students with the integration of the RET curricular materials into classroom activities in the follow up academic year is particularly encouraged.",
+      "An RET Supplement typically provides support for one or two K-14 STEM Educators to participate in research as part of a new or ongoing ENG or CISE-funded research project. However, centers or large research efforts may request support for a larger number of participants commensurate with the size and nature of the project.",
+      "An individual may be listed as a PI or co-PI on no more than one RET site proposal per annual deadline.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_research_experiences_for_teachers_in_engineering_and_computer_science.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf24-503/solicitation"
+  },
+  "document_title": "Research Experiences for Teachers in Engineering and Computer Science"
+}

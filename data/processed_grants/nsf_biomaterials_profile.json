@@ -1,0 +1,212 @@
+{
+  "grant_id": "nsf_biomaterials",
+  "created_at": "2025-12-29T23:31:24.164396-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Division of Materials Research: Topical Materials Research Programs (DMR:TMRP)",
+    "Biomaterials program",
+    "fundamental materials research",
+    "biological materials",
+    "biomimetic, bioinspired, and bioenabled materials",
+    "synthetic materials",
+    "in vitro",
+    "in vivo",
+    "Tissue engineering",
+    "drug/gene delivery",
+    "mechanical behavior of hard and soft biological materials",
+    "projects in molecular biophysics",
+    "DMR Topical Materials Research Programs",
+    "Institutions of Higher Education (IHEs)",
+    "community colleges",
+    "Non-profit, non-academic organizations",
+    "Limit on Number of Proposals per PI or Co-PI",
+    "Limit on Number of Proposals per Organization",
+    "EAGER/RAPID",
+    "Research Experiences for Undergraduates (REU)",
+    "Research Experiences for Teachers (RET)",
+    "Standard Grant",
+    "Continuing Grant",
+    "Estimated Number of Awards",
+    "Types of Proposals",
+    "Grant Opportunities for Academic Liaison with Industry (GOALI)",
+    "Facilitating Research at Primarily Undergraduate Institutions (RUI/ROA)"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Division of Materials Research: Topical Materials Research Programs (DMR:TMRP)",
+      "section": "Other"
+    },
+    {
+      "text": "Biomaterials program",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental materials research",
+      "section": "Other"
+    },
+    {
+      "text": "biological materials",
+      "section": "Other"
+    },
+    {
+      "text": "biomimetic, bioinspired, and bioenabled materials",
+      "section": "Other"
+    },
+    {
+      "text": "synthetic materials",
+      "section": "Other"
+    },
+    {
+      "text": "in vitro",
+      "section": "Other"
+    },
+    {
+      "text": "in vivo",
+      "section": "Other"
+    },
+    {
+      "text": "Tissue engineering",
+      "section": "Other"
+    },
+    {
+      "text": "drug/gene delivery",
+      "section": "Other"
+    },
+    {
+      "text": "mechanical behavior of hard and soft biological materials",
+      "section": "Other"
+    },
+    {
+      "text": "projects in molecular biophysics",
+      "section": "Other"
+    },
+    {
+      "text": "DMR Topical Materials Research Programs",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education (IHEs)",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or Co-PI",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per Organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "EAGER/RAPID",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Undergraduates (REU)",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Teachers (RET)",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Types of Proposals",
+      "section": "Other"
+    },
+    {
+      "text": "Grant Opportunities for Academic Liaison with Industry (GOALI)",
+      "section": "Program Description"
+    },
+    {
+      "text": "Facilitating Research at Primarily Undergraduate Institutions (RUI/ROA)",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Grant Opportunities for Academic Liaison with Industry (GOALI)",
+        "source_text": "Grant Opportunities for Academic Liaison with Industry (GOALI)",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Research Experiences for Undergraduates (REU)",
+        "source_text": "Research Experiences for Undergraduates (REU)",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education (IHEs)",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per PI or Co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "Exceptions are proposals through mechanisms that have their own solicitation, such as CAREER and RUI/ROA. CAREER proposals must be submitted to the CAREER program by the deadline date specified in the program solicitation. RUI/ROA proposals have no deadline: they should be submitted through the RUI/ROA solicitation but are subject to the same submission constraints as other proposals submitted to the DMR Topical Materials Research Programs.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_biomaterials.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/dmr-tmrp-division-materials-research-topical-materials-research/nsf23-612/solicitation"
+  },
+  "document_title": "Biomaterials"
+}

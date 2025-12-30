@@ -1,0 +1,282 @@
+{
+  "grant_id": "nsf_designing_materials_to_revolutionize_and_engineer_our_future_dmref",
+  "created_at": "2025-12-30T00:06:40.359718-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Designing Materials to Revolutionize and Engineer our Future (DMREF)",
+    "Materials Genome Initiative (MGI)",
+    "Advanced Manufacturing",
+    "2021 MGI Strategic Plan",
+    "Materials Innovation Infrastructure",
+    "closed loop",
+    "materials research topics",
+    "National Academies 2023 Report",
+    "NSF Efforts to Achieve the Nation\u2019s Vision for the Materials Genome Initiative",
+    "microelectronics",
+    "artificial intelligence",
+    "quantum information science",
+    "advanced manufacturing",
+    "biotechnology",
+    "critical and emerging technologies",
+    "Materials Development Continuum",
+    "data management and sharing plan",
+    "FAIR",
+    "CloudAccess",
+    "Institutions of Higher Education (IHEs)",
+    "two-year IHEs",
+    "four-year IHEs",
+    "community colleges",
+    "National Science and Technology Council (NSTC)",
+    "Air Force Research Laboratory (AFRL)",
+    "Department of Energy\u2019s (DOE) Office of Energy Efficiency & Renewable Energy (EERE)",
+    "Office of Naval Research (ONR)",
+    "National Institute of Standards and Technology (NIST)",
+    "US Army Combat Capabilities Development Command (DEVCOM) Ground Vehicle Systems Center (GVSC)",
+    "DEVCOM Army Research Laboratory (ARL)",
+    "United States-Israel Binational Science Foundation (BSF)",
+    "Department of Science and Technology (DST)",
+    "Natural Sciences and Engineering Research Council of Canada (NSERC)",
+    "Deutsche Forschungsgemeinschaft (DFG)",
+    "Standard Grant",
+    "Continuing Grant",
+    "estimated number of awards",
+    "20 to 25",
+    "expected funding amount",
+    "$40,000,000",
+    "limit on number of proposals per organization",
+    "limit on number of proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Designing Materials to Revolutionize and Engineer our Future (DMREF)",
+      "section": "Other"
+    },
+    {
+      "text": "Materials Genome Initiative (MGI)",
+      "section": "Other"
+    },
+    {
+      "text": "Advanced Manufacturing",
+      "section": "Introduction"
+    },
+    {
+      "text": "2021 MGI Strategic Plan",
+      "section": "Other"
+    },
+    {
+      "text": "Materials Innovation Infrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "closed loop",
+      "section": "Introduction"
+    },
+    {
+      "text": "materials research topics",
+      "section": "Other"
+    },
+    {
+      "text": "National Academies 2023 Report",
+      "section": "Other"
+    },
+    {
+      "text": "NSF Efforts to Achieve the Nation\u2019s Vision for the Materials Genome Initiative",
+      "section": "Other"
+    },
+    {
+      "text": "microelectronics",
+      "section": "Program Description"
+    },
+    {
+      "text": "artificial intelligence",
+      "section": "Introduction"
+    },
+    {
+      "text": "quantum information science",
+      "section": "Program Description"
+    },
+    {
+      "text": "advanced manufacturing",
+      "section": "Program Description"
+    },
+    {
+      "text": "biotechnology",
+      "section": "Program Description"
+    },
+    {
+      "text": "critical and emerging technologies",
+      "section": "Program Description"
+    },
+    {
+      "text": "Materials Development Continuum",
+      "section": "Other"
+    },
+    {
+      "text": "data management and sharing plan",
+      "section": "Program Description"
+    },
+    {
+      "text": "FAIR",
+      "section": "Program Description"
+    },
+    {
+      "text": "CloudAccess",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education (IHEs)",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two-year IHEs",
+      "section": "Other"
+    },
+    {
+      "text": "four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "National Science and Technology Council (NSTC)",
+      "section": "Program Description"
+    },
+    {
+      "text": "Air Force Research Laboratory (AFRL)",
+      "section": "Other"
+    },
+    {
+      "text": "Department of Energy\u2019s (DOE) Office of Energy Efficiency & Renewable Energy (EERE)",
+      "section": "Other"
+    },
+    {
+      "text": "Office of Naval Research (ONR)",
+      "section": "Other"
+    },
+    {
+      "text": "National Institute of Standards and Technology (NIST)",
+      "section": "Other"
+    },
+    {
+      "text": "US Army Combat Capabilities Development Command (DEVCOM) Ground Vehicle Systems Center (GVSC)",
+      "section": "Other"
+    },
+    {
+      "text": "DEVCOM Army Research Laboratory (ARL)",
+      "section": "Other"
+    },
+    {
+      "text": "United States-Israel Binational Science Foundation (BSF)",
+      "section": "Other"
+    },
+    {
+      "text": "Department of Science and Technology (DST)",
+      "section": "Other"
+    },
+    {
+      "text": "Natural Sciences and Engineering Research Council of Canada (NSERC)",
+      "section": "Other"
+    },
+    {
+      "text": "Deutsche Forschungsgemeinschaft (DFG)",
+      "section": "Other"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "20 to 25",
+      "section": "Award Information"
+    },
+    {
+      "text": "expected funding amount",
+      "section": "Other"
+    },
+    {
+      "text": "$40,000,000",
+      "section": "Award Information"
+    },
+    {
+      "text": "limit on number of proposals per organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "limit on number of proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "quantum information science",
+        "source_text": "quantum information science",
+        "confidence": 0.9
+      },
+      {
+        "tag": "advanced manufacturing",
+        "source_text": "advanced manufacturing",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education (IHEs)",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "limit on number of proposals per organization",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "By the submission deadline, any PI, co-PI, or other Senior/Key project personnel must hold either:",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_designing_materials_to_revolutionize_and_engineer_our_future_dmref.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/dmref-designing-materials-revolutionize-engineer-our-future/nsf25-508/solicitation"
+  },
+  "document_title": "Designing Materials to Revolutionize and Engineer our Future (DMREF)"
+}

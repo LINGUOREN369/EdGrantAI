@@ -1,0 +1,198 @@
+{
+  "grant_id": "nsf_chemistry_of_life_processes_clp",
+  "created_at": "2025-12-29T23:50:38.792327-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Chemistry of Life Processes",
+    "CLP Program",
+    "bioorganic and bioinorganic chemistry",
+    "chemical biology",
+    "chemistry of lipids, membranes, and membrane proteins",
+    "protein, enzyme, nucleic acid, and carbohydrate chemistry",
+    "bio-orthogonal chemistry",
+    "biomolecular design and synthesis",
+    "critical aspects of sustainability",
+    "Grant Opportunities for Academic Liaison with Industry",
+    "Grant Opportunities for Academic Liaisons with Industry",
+    "research symposia",
+    "institutions of higher education",
+    "two- and four-year IHEs",
+    "community colleges",
+    "non-profit, non-academic organizations",
+    "Senior/key personnel",
+    "Grant Opportunities for Academic Liaison with Industry",
+    "Facilitating Research at Primarily Undergraduate Institutions",
+    "EAGER",
+    "RAPID",
+    "RAISE",
+    "Proposal Preparation and Submission Instructions",
+    "Division of Chemistry",
+    "Disciplinary Research Programs"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Chemistry of Life Processes",
+      "section": "Other"
+    },
+    {
+      "text": "CLP Program",
+      "section": "Other"
+    },
+    {
+      "text": "bioorganic and bioinorganic chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "chemical biology",
+      "section": "Other"
+    },
+    {
+      "text": "chemistry of lipids, membranes, and membrane proteins",
+      "section": "Other"
+    },
+    {
+      "text": "protein, enzyme, nucleic acid, and carbohydrate chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "bio-orthogonal chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "biomolecular design and synthesis",
+      "section": "Other"
+    },
+    {
+      "text": "critical aspects of sustainability",
+      "section": "Other"
+    },
+    {
+      "text": "Grant Opportunities for Academic Liaison with Industry",
+      "section": "Other"
+    },
+    {
+      "text": "Grant Opportunities for Academic Liaisons with Industry",
+      "section": "Program Description"
+    },
+    {
+      "text": "research symposia",
+      "section": "Other"
+    },
+    {
+      "text": "institutions of higher education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Senior/key personnel",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Grant Opportunities for Academic Liaison with Industry",
+      "section": "Other"
+    },
+    {
+      "text": "Facilitating Research at Primarily Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "EAGER",
+      "section": "Other"
+    },
+    {
+      "text": "RAPID",
+      "section": "Other"
+    },
+    {
+      "text": "RAISE",
+      "section": "Other"
+    },
+    {
+      "text": "Proposal Preparation and Submission Instructions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Division of Chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "Disciplinary Research Programs",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Facilitating Research at Primarily Undergraduate Institutions",
+        "source_text": "Facilitating Research at Primarily Undergraduate Institutions",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Grant Opportunities for Academic Liaisons with Industry",
+        "source_text": "Grant Opportunities for Academic Liaisons with Industry",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "institutions of higher education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 RUI proposals must be submitted to the RUI Solicitation during the regular proposal submission window for this program.",
+      "Division of Chemistry: Disciplinary Research Programs: No Deadline Pilot (CHE-DRP:NDP)",
+      "With this solicitation, the Division of Chemistry is piloting the removal of deadlines for the submission of proposals to three of the nine Disciplinary Research Programs (DRPs, also known as core programs). The no-deadline pilot seeks to assess the benefits and challenges of removing deadlines in proposal submission for the chemistry research community: the removal of deadlines on proposal submission is intended to allow principal investigators (PIs) more flexibility and better facilitate interdisciplinary research. It may, however, have unanticipated consequences for PIs, reviewers, and institutions.",
+      "CAREER proposals should be submitted through the CAREER solicitation by the deadline specified for CAREER proposals.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_chemistry_of_life_processes_clp.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/che-drpndp-division-chemistry-disciplinary-research-programs-no/nsf22-606/solicitation"
+  },
+  "document_title": "Chemistry of Life Processes (CLP)"
+}

@@ -1,0 +1,209 @@
+{
+  "grant_id": "nsf_robust_intelligence_ri",
+  "created_at": "2025-12-30T01:47:50.134801-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Robust Intelligence (RI)",
+    "Artificial intelligence (AI)",
+    "Machine learning",
+    "Computer vision",
+    "Human language technologies",
+    "Computational neuroscience",
+    "NSF Directorate for Computer and Information Science and Engineering (CISE)",
+    "Future Computing Research (Future CoRe)",
+    "Algorithmic Foundations (AF) program",
+    "Communications and Information Foundations (CIF) program",
+    "Computer Systems Research (CSR) program",
+    "Computing Education Research (CER) program",
+    "Cyber-Physical Systems Foundations and Connected Communities (CPS) program",
+    "Foundations of Emerging Technologies (FET) program",
+    "Human-Centered Computing (HCC) program",
+    "Information Integration and Informatics (III) program",
+    "Networking Technology and Systems (NeTS) program",
+    "Software and Hardware Foundations (SHF) program",
+    "EPSCoR-eligible institutions",
+    "Institutions of Higher Education (IHEs)",
+    "Two- and four-year IHEs",
+    "community colleges",
+    "Non-profit, non-academic organizations",
+    "Tribal Nations",
+    "Limit on Number of Proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Robust Intelligence (RI)",
+      "section": "Other"
+    },
+    {
+      "text": "Artificial intelligence (AI)",
+      "section": "Other"
+    },
+    {
+      "text": "Machine learning",
+      "section": "Other"
+    },
+    {
+      "text": "Computer vision",
+      "section": "Other"
+    },
+    {
+      "text": "Human language technologies",
+      "section": "Other"
+    },
+    {
+      "text": "Computational neuroscience",
+      "section": "Other"
+    },
+    {
+      "text": "NSF Directorate for Computer and Information Science and Engineering (CISE)",
+      "section": "Introduction"
+    },
+    {
+      "text": "Future Computing Research (Future CoRe)",
+      "section": "Introduction"
+    },
+    {
+      "text": "Algorithmic Foundations (AF) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Communications and Information Foundations (CIF) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Computer Systems Research (CSR) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Computing Education Research (CER) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Cyber-Physical Systems Foundations and Connected Communities (CPS) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Foundations of Emerging Technologies (FET) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Human-Centered Computing (HCC) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Information Integration and Informatics (III) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Networking Technology and Systems (NeTS) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Software and Hardware Foundations (SHF) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "EPSCoR-eligible institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education (IHEs)",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Cyber-Physical Systems Foundations and Connected Communities (CPS) program",
+        "source_text": "Cyber-Physical Systems Foundations and Connected Communities (CPS) program",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Communications and Information Foundations (CIF) program",
+        "source_text": "Communications and Information Foundations (CIF) program",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education (IHEs)",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per PI or co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_robust_intelligence_ri.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation"
+  },
+  "document_title": "Robust Intelligence (RI)"
+}

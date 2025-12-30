@@ -1,0 +1,264 @@
+{
+  "grant_id": "nsf_nsf_small_business_innovation_research_small_business_technology_transfer_phase_ii_programs_sbir_stt",
+  "created_at": "2025-12-30T01:25:20.603253-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "NSF Small Business Innovation Research",
+    "Small Business Technology Transfer Phase II Programs",
+    "SBIR/STTR Phase II",
+    "NSF SBIR/STTR programs",
+    "small business",
+    "strong national economy",
+    "novel products",
+    "services",
+    "solutions",
+    "broad impact",
+    "socially and economically disadvantaged and women-owned small businesses",
+    "non-dilutive funding",
+    "development of a broad range of technologies",
+    "scientific and engineering discoveries",
+    "societal and economic impacts",
+    "use-inspired and translational discoveries",
+    "Directorate for Technology, Innovation and Partnerships",
+    "Small Business Innovation Development Act",
+    "technical innovation",
+    "commercialization potential",
+    "Research and Development",
+    "NSF Merit Review Criteria",
+    "Technical Risk",
+    "Technological Innovation",
+    "Broader Impacts",
+    "NSF",
+    "Commercialization Potential",
+    "Commercialization Plan",
+    "Phase I Technical Narrative",
+    "United States",
+    "Research and Development (R&D)",
+    "social mission",
+    "socially and economically disadvantaged small businesses",
+    "women-owned small businesses",
+    "Principal Investigator",
+    "Phase I award",
+    "1 Phase II submission",
+    "NSF SBIR",
+    "NSF STTR",
+    "Malign Foreign Talent Recruitment Program",
+    "small business concern"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "NSF Small Business Innovation Research",
+      "section": "Other"
+    },
+    {
+      "text": "Small Business Technology Transfer Phase II Programs",
+      "section": "Other"
+    },
+    {
+      "text": "SBIR/STTR Phase II",
+      "section": "Other"
+    },
+    {
+      "text": "NSF SBIR/STTR programs",
+      "section": "Other"
+    },
+    {
+      "text": "small business",
+      "section": "Other"
+    },
+    {
+      "text": "strong national economy",
+      "section": "Other"
+    },
+    {
+      "text": "novel products",
+      "section": "Other"
+    },
+    {
+      "text": "services",
+      "section": "Other"
+    },
+    {
+      "text": "solutions",
+      "section": "Other"
+    },
+    {
+      "text": "broad impact",
+      "section": "Other"
+    },
+    {
+      "text": "socially and economically disadvantaged and women-owned small businesses",
+      "section": "Other"
+    },
+    {
+      "text": "non-dilutive funding",
+      "section": "Other"
+    },
+    {
+      "text": "development of a broad range of technologies",
+      "section": "Other"
+    },
+    {
+      "text": "scientific and engineering discoveries",
+      "section": "Introduction"
+    },
+    {
+      "text": "societal and economic impacts",
+      "section": "Other"
+    },
+    {
+      "text": "use-inspired and translational discoveries",
+      "section": "Other"
+    },
+    {
+      "text": "Directorate for Technology, Innovation and Partnerships",
+      "section": "Introduction"
+    },
+    {
+      "text": "Small Business Innovation Development Act",
+      "section": "Introduction"
+    },
+    {
+      "text": "technical innovation",
+      "section": "Other"
+    },
+    {
+      "text": "commercialization potential",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research and Development",
+      "section": "Program Description"
+    },
+    {
+      "text": "NSF Merit Review Criteria",
+      "section": "Program Description"
+    },
+    {
+      "text": "Technical Risk",
+      "section": "Program Description"
+    },
+    {
+      "text": "Technological Innovation",
+      "section": "Program Description"
+    },
+    {
+      "text": "Broader Impacts",
+      "section": "Program Description"
+    },
+    {
+      "text": "NSF",
+      "section": "Other"
+    },
+    {
+      "text": "Commercialization Potential",
+      "section": "Program Description"
+    },
+    {
+      "text": "Commercialization Plan",
+      "section": "Program Description"
+    },
+    {
+      "text": "Phase I Technical Narrative",
+      "section": "Program Description"
+    },
+    {
+      "text": "United States",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Research and Development (R&D)",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "social mission",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "socially and economically disadvantaged small businesses",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "women-owned small businesses",
+      "section": "Other"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Phase I award",
+      "section": "Program Description"
+    },
+    {
+      "text": "1 Phase II submission",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "NSF SBIR",
+      "section": "Other"
+    },
+    {
+      "text": "NSF STTR",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Malign Foreign Talent Recruitment Program",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "small business concern",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "commercialization potential",
+        "source_text": "commercialization potential",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Commercialization Potential",
+        "source_text": "Commercialization Potential",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "small business concern",
+        "source_text": "small business",
+        "confidence": 1.0,
+        "sources": [
+          "small business",
+          "small business concern"
+        ]
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "United States",
+        "source_text": "United States",
+        "confidence": 1.0,
+        "sources": [
+          "United States"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Proposers must submit their SBIR/STTR Phase II proposal within 6 to 24 months after the start date of their relevant NSF SBIR/STTR Phase I award. Please reference your NSF SBIR/STTR Phase I award notice for award start date. Note that this submission window is NOT extended by no-cost extensions.",
+      "Full Proposals: This solicitation contains information that deviates from the standard NSF Proposal and Award Policies and Procedures Guide (PAPPG) proposal preparation guidelines. Please see the full text of the solicitation for further information."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_small_business_innovation_research_small_business_technology_transfer_phase_ii_programs_sbir_stt.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/sbirsttr-phase-ii-nsf-small-business-innovation-research-small-business/nsf24-580/solicitation"
+  },
+  "document_title": "NSF Small Business Innovation Research / Small Business Technology Transfer Phase II Programs (SBIR/STTR Phase II)"
+}

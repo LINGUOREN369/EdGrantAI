@@ -1,0 +1,224 @@
+{
+  "grant_id": "nsf_nsf_small_business_innovation_research_small_business_technology_transfer_fast_track_pilot_programs",
+  "created_at": "2025-12-30T01:23:23.711799-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "NSF Small Business Innovation Research",
+    "Small Business Technology Transfer Fast-Track Pilot Programs",
+    "SBIR-STTR Fast-Track",
+    "SBIR/STTR",
+    "SBIR/STTR Fast-Track pilot programs",
+    "national economy",
+    "small businesses",
+    "commercial application of federally supported research results",
+    "US workforce",
+    "socially and economically disadvantaged",
+    "women-owned small businesses",
+    "fixed amount cooperative agreements",
+    "use-inspired and translational discoveries",
+    "Directorate for Technology, Innovation and Partnerships",
+    "Phase I",
+    "Phase II",
+    "SBIR Fast-Track",
+    "STTR Fast-Track",
+    "Phase I component",
+    "Phase II component",
+    "Intellectual Merit",
+    "Broader Impacts",
+    "Commercialization Potential",
+    "Fast-Track proposal",
+    "formal customer discovery training",
+    "SBIR/STTR Policy Directive",
+    "fast track projects",
+    "CHIPS and Science Act of 2022",
+    "Person or entity of concern prohibition",
+    "Majority U.S.-owned companies",
+    "socially and economically disadvantaged small businesses",
+    "women-owned small businesses",
+    "Principal Investigator",
+    "PI",
+    "co-PI",
+    "Proposal Preparation Instructions",
+    "Cost Sharing Requirements"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "NSF Small Business Innovation Research",
+      "section": "Other"
+    },
+    {
+      "text": "Small Business Technology Transfer Fast-Track Pilot Programs",
+      "section": "Other"
+    },
+    {
+      "text": "SBIR-STTR Fast-Track",
+      "section": "Other"
+    },
+    {
+      "text": "SBIR/STTR",
+      "section": "Other"
+    },
+    {
+      "text": "SBIR/STTR Fast-Track pilot programs",
+      "section": "Other"
+    },
+    {
+      "text": "national economy",
+      "section": "Other"
+    },
+    {
+      "text": "small businesses",
+      "section": "Other"
+    },
+    {
+      "text": "commercial application of federally supported research results",
+      "section": "Other"
+    },
+    {
+      "text": "US workforce",
+      "section": "Other"
+    },
+    {
+      "text": "socially and economically disadvantaged",
+      "section": "Other"
+    },
+    {
+      "text": "women-owned small businesses",
+      "section": "Other"
+    },
+    {
+      "text": "fixed amount cooperative agreements",
+      "section": "Other"
+    },
+    {
+      "text": "use-inspired and translational discoveries",
+      "section": "Other"
+    },
+    {
+      "text": "Directorate for Technology, Innovation and Partnerships",
+      "section": "Introduction"
+    },
+    {
+      "text": "Phase I",
+      "section": "Other"
+    },
+    {
+      "text": "Phase II",
+      "section": "Other"
+    },
+    {
+      "text": "SBIR Fast-Track",
+      "section": "Award Information"
+    },
+    {
+      "text": "STTR Fast-Track",
+      "section": "Other"
+    },
+    {
+      "text": "Phase I component",
+      "section": "Program Description"
+    },
+    {
+      "text": "Phase II component",
+      "section": "Program Description"
+    },
+    {
+      "text": "Intellectual Merit",
+      "section": "Program Description"
+    },
+    {
+      "text": "Broader Impacts",
+      "section": "Program Description"
+    },
+    {
+      "text": "Commercialization Potential",
+      "section": "Program Description"
+    },
+    {
+      "text": "Fast-Track proposal",
+      "section": "Other"
+    },
+    {
+      "text": "formal customer discovery training",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "SBIR/STTR Policy Directive",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "fast track projects",
+      "section": "Other"
+    },
+    {
+      "text": "CHIPS and Science Act of 2022",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Person or entity of concern prohibition",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Majority U.S.-owned companies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "socially and economically disadvantaged small businesses",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "women-owned small businesses",
+      "section": "Other"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "PI",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "co-PI",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Proposal Preparation Instructions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Cost Sharing Requirements",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Commercialization Potential",
+        "source_text": "Commercialization Potential",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Phase II component",
+        "source_text": "Phase II component",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposal Preparation Instruction: This solicitation contains information that deviates from the standard NSF Proposal and Award Policies and Procedures Guide (PAPPG) proposal preparation guidelines. Please see the full text of this solicitation for further information."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_small_business_innovation_research_small_business_technology_transfer_fast_track_pilot_programs.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/sbir-sttr-fast-track-nsf-small-business-innovation-research-small-business/nsf24-582/solicitation"
+  },
+  "document_title": "NSF Small Business Innovation Research / Small Business Technology Transfer Fast-Track Pilot Programs (SBIR-STTR Fast-Track)"
+}

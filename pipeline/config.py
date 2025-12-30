@@ -229,6 +229,13 @@ class Settings:
             },
         }
 
+        # Mission selection: generic stoplist (can be overridden via env as comma-separated)
+        _stop = os.getenv(
+            "MISSION_GENERIC_STOPLIST",
+            "broadening participation,interdisciplinary research,workforce development,educational pathways",
+        )
+        self.MISSION_GENERIC_STOPLIST = [s.strip().lower() for s in _stop.split(",") if s.strip()]
+
 
 # Singleton settings instance
 settings = Settings()

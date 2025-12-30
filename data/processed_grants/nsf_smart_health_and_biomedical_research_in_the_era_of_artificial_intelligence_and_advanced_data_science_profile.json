@@ -1,0 +1,118 @@
+{
+  "grant_id": "nsf_smart_health_and_biomedical_research_in_the_era_of_artificial_intelligence_and_advanced_data_science",
+  "created_at": "2025-12-30T01:51:43.095255-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science",
+    "Smart Health program",
+    "interdisciplinary teams",
+    "transformative high-risk, high-reward advances",
+    "machine learning",
+    "artificial intelligence",
+    "fundamental scientific or engineering contributions",
+    "cyber-physical systems",
+    "advanced data management systems",
+    "biomedical image interpretation",
+    "health-related processes",
+    " Institutions of Higher Education",
+    "Non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science",
+      "section": "Other"
+    },
+    {
+      "text": "Smart Health program",
+      "section": "Program Description"
+    },
+    {
+      "text": "interdisciplinary teams",
+      "section": "Other"
+    },
+    {
+      "text": "transformative high-risk, high-reward advances",
+      "section": "Other"
+    },
+    {
+      "text": "machine learning",
+      "section": "Introduction"
+    },
+    {
+      "text": "artificial intelligence",
+      "section": "Introduction"
+    },
+    {
+      "text": "fundamental scientific or engineering contributions",
+      "section": "Program Description"
+    },
+    {
+      "text": "cyber-physical systems",
+      "section": "Program Description"
+    },
+    {
+      "text": "advanced data management systems",
+      "section": "Program Description"
+    },
+    {
+      "text": "biomedical image interpretation",
+      "section": "Program Description"
+    },
+    {
+      "text": "health-related processes",
+      "section": "Program Description"
+    },
+    {
+      "text": " Institutions of Higher Education",
+      "section": "Other"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "artificial intelligence education",
+        "source_text": "artificial intelligence",
+        "confidence": 0.6687
+      },
+      {
+        "tag": "fundamental scientific or engineering contributions",
+        "source_text": "fundamental scientific or engineering contributions",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": " Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "In each annual competition, an investigator may participate as Principal Investigator (PI), co-Principal Investigator (co-PI), Project Director (PD), Senior/Key Personnel or Consultant in no more than two proposals submitted in response to each annual deadline in this solicitation. These eligibility constraints will be strictly enforced in order to treat everyone fairly and consistently . In the event that an individual exceeds this limit, proposals received within the limit will be accepted based on earliest date and time of proposal submission (i.e., the first two proposals received will be accepted, and the remainder will be returned without review). No exceptions will be made.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_smart_health_and_biomedical_research_in_the_era_of_artificial_intelligence_and_advanced_data_science.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/sch-smart-health-biomedical-research-era-artificial-intelligence/nsf25-542/solicitation"
+  },
+  "document_title": "Smart Health and Biomedical Research in the Era of Artificial Intelligence and Advanced Data Science (SCH)"
+}

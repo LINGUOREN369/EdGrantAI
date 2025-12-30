@@ -1,0 +1,217 @@
+{
+  "grant_id": "nsf_collaborations_in_artificial_intelligence_and_geosciences_caig",
+  "created_at": "2025-12-29T23:52:55.865537-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Collaborations in Artificial Intelligence and Geosciences",
+    "CAIG",
+    "NSF Directorate for Geosciences",
+    "Directorate for Computer and Information Science and Engineering",
+    "Directorate for Mathematical and Physical Sciences",
+    "National Academies of Sciences, Engineering, and Medicine",
+    "Next Generation Earth Systems Science at the National Science Foundation",
+    "shared resources",
+    "National Discovery Cloud for Climate",
+    "AI techniques",
+    "geoscience research question(s)",
+    "services & support",
+    "collaborations in artificial intelligence and geosciences",
+    "GEO's Division of Research, Innovation, Synergies, and Education",
+    "CISE's Division of Information and Intelligent Systems",
+    "Office of Advanced Cyberinfrastructure",
+    "MPS's Division of Mathematical Sciences",
+    "geosciences research challenge(s)",
+    "AI Impact",
+    "Senior/Key Personnel",
+    "Tribal Nations",
+    "Institutions of Higher Education",
+    "two- and four-year IHEs",
+    "community colleges",
+    "non-profit, non-academic organizations",
+    "federally recognized tribe",
+    "federally funded research and development centers"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Collaborations in Artificial Intelligence and Geosciences",
+      "section": "Other"
+    },
+    {
+      "text": "CAIG",
+      "section": "Other"
+    },
+    {
+      "text": "NSF Directorate for Geosciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "Directorate for Computer and Information Science and Engineering",
+      "section": "Introduction"
+    },
+    {
+      "text": "Directorate for Mathematical and Physical Sciences",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Academies of Sciences, Engineering, and Medicine",
+      "section": "Introduction"
+    },
+    {
+      "text": "Next Generation Earth Systems Science at the National Science Foundation",
+      "section": "Introduction"
+    },
+    {
+      "text": "shared resources",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Discovery Cloud for Climate",
+      "section": "Introduction"
+    },
+    {
+      "text": "AI techniques",
+      "section": "Other"
+    },
+    {
+      "text": "geoscience research question(s)",
+      "section": "Other"
+    },
+    {
+      "text": "services & support",
+      "section": "Introduction"
+    },
+    {
+      "text": "collaborations in artificial intelligence and geosciences",
+      "section": "Other"
+    },
+    {
+      "text": "GEO's Division of Research, Innovation, Synergies, and Education",
+      "section": "Program Description"
+    },
+    {
+      "text": "CISE's Division of Information and Intelligent Systems",
+      "section": "Program Description"
+    },
+    {
+      "text": "Office of Advanced Cyberinfrastructure",
+      "section": "Program Description"
+    },
+    {
+      "text": "MPS's Division of Mathematical Sciences",
+      "section": "Program Description"
+    },
+    {
+      "text": "geosciences research challenge(s)",
+      "section": "Other"
+    },
+    {
+      "text": "AI Impact",
+      "section": "Program Description"
+    },
+    {
+      "text": "Senior/Key Personnel",
+      "section": "Program Description"
+    },
+    {
+      "text": "Tribal Nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "federally recognized tribe",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "federally funded research and development centers",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Office of Advanced Cyberinfrastructure",
+        "source_text": "Office of Advanced Cyberinfrastructure",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Senior/Key Personnel",
+        "source_text": "Senior/Key Personnel",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "tribal nations",
+        "source_text": "Tribal Nations",
+        "confidence": 1.0,
+        "sources": [
+          "Tribal Nations"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-02-04"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-02-04, 2026-02-04",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_collaborations_in_artificial_intelligence_and_geosciences_caig.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/caig-collaborations-artificial-intelligence-geosciences/nsf25-530/solicitation"
+  },
+  "document_title": "Collaborations in Artificial Intelligence and Geosciences (CAIG)"
+}

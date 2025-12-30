@@ -1,0 +1,181 @@
+{
+  "grant_id": "nsf_epscor_research_infrastructure_improvement_program_focused_epscor_collaborations_program",
+  "created_at": "2025-12-30T00:25:16.663238-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "EPSCoR Research Infrastructure Improvement Program",
+    "Focused EPSCoR Collaborations Program",
+    "Established Program to Stimulate Competitive Research",
+    "National Science Foundation",
+    "EPSCoR eligibility status",
+    "Research and Development capacity",
+    "interjurisdictional collaborative teams",
+    "Science, Technology, Engineering, and Mathematics",
+    "STEM focus areas",
+    "National Science Foundation Strategic Plan",
+    "early-career faculty",
+    "K-12 students",
+    "Cooperative Agreement",
+    "RII-FEC",
+    "EPSCoR eligible jurisdictions",
+    "STEM-driven, inter-jurisdictional research collaborations",
+    "social impact",
+    "workforce development",
+    "diverse talent in STEM",
+    "Minority-Serving Institutions",
+    "Emerging Research Institutions",
+    "Primarily Undergraduate Institutions"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "EPSCoR Research Infrastructure Improvement Program",
+      "section": "Other"
+    },
+    {
+      "text": "Focused EPSCoR Collaborations Program",
+      "section": "Other"
+    },
+    {
+      "text": "Established Program to Stimulate Competitive Research",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR eligibility status",
+      "section": "Other"
+    },
+    {
+      "text": "Research and Development capacity",
+      "section": "Other"
+    },
+    {
+      "text": "interjurisdictional collaborative teams",
+      "section": "Other"
+    },
+    {
+      "text": "Science, Technology, Engineering, and Mathematics",
+      "section": "Other"
+    },
+    {
+      "text": "STEM focus areas",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation Strategic Plan",
+      "section": "Other"
+    },
+    {
+      "text": "early-career faculty",
+      "section": "Other"
+    },
+    {
+      "text": "K-12 students",
+      "section": "Program Description"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "RII-FEC",
+      "section": "Introduction"
+    },
+    {
+      "text": "EPSCoR eligible jurisdictions",
+      "section": "Other"
+    },
+    {
+      "text": "STEM-driven, inter-jurisdictional research collaborations",
+      "section": "Program Description"
+    },
+    {
+      "text": "social impact",
+      "section": "Program Description"
+    },
+    {
+      "text": "workforce development",
+      "section": "Introduction"
+    },
+    {
+      "text": "diverse talent in STEM",
+      "section": "Program Description"
+    },
+    {
+      "text": "Minority-Serving Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Emerging Research Institutions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Primarily Undergraduate Institutions",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Minority-Serving Institutions",
+        "source_text": "Minority-Serving Institutions",
+        "confidence": 0.9
+      },
+      {
+        "tag": "RII-FEC",
+        "source_text": "RII-FEC",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 students",
+        "source_text": "K-12 students",
+        "confidence": 1.0,
+        "sources": [
+          "K-12 students"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "Minority-Serving Institutions",
+        "confidence": 0.8712,
+        "sources": [
+          "Minority-Serving Institutions"
+        ]
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR eligible jurisdictions",
+        "confidence": 0.9369,
+        "sources": [
+          "EPSCoR eligible jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-27"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-27, 2026-01-27",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_epscor_research_infrastructure_improvement_program_focused_epscor_collaborations_program.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/epscor-research-infrastructure-improvement-program-focused/nsf24-573/solicitation"
+  },
+  "document_title": "EPSCoR Research Infrastructure Improvement Program: Focused EPSCoR Collaborations Program"
+}

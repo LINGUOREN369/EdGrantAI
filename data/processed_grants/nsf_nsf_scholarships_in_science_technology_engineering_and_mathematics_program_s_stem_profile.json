@@ -1,0 +1,387 @@
+{
+  "grant_id": "nsf_nsf_scholarships_in_science_technology_engineering_and_mathematics_program_s_stem",
+  "created_at": "2025-12-30T01:22:29.060344-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "NSF Scholarships in Science, Technology, Engineering, and Mathematics Program",
+    "S-STEM",
+    "academically talented, low-income students",
+    "successful careers in promising STEM fields",
+    "S-STEM eligible degree",
+    "American innovation economy",
+    "evidence-based curricular and co-curricular activities",
+    "student success",
+    "graduate degree program",
+    "S-STEM Eligible Degree Programs",
+    "Associate of Arts",
+    "Associate of Science",
+    "Associate of Engineering",
+    "Bachelor of Arts",
+    "Bachelor of Science",
+    "Bachelor of Engineering",
+    "Master of Arts",
+    "Master of Science",
+    "Master of Engineering",
+    "Doctoral",
+    "Ph.D.",
+    "S-STEM Eligible Disciplines",
+    "biotechnology",
+    "chemical technology",
+    "engineering technology",
+    "information technology",
+    "programs for STEM teacher certification or licensure",
+    "Robert Noyce Teacher Scholarship program",
+    "Bachelor of Arts or Science in Business Administration",
+    "BABA/BSBA/BBA",
+    "Mac genomics and systems biology building capacity",
+    "domestic low-income students",
+    "2-year institutions",
+    "undergraduate institutions",
+    "urban, suburban, and rural public institutions",
+    "Institutional Capacity Building",
+    "Implementation Projects",
+    "Inter-institutional Consortia",
+    "Office of Financial Aid",
+    "Participant Support",
+    "S-STEM scholarship awards",
+    "evidence-based curricular and co-curricular activities",
+    "S-STEM projects",
+    "scholar cohorts",
+    "faculty mentoring",
+    "last dollar scholarships",
+    "project leadership and management team",
+    "anticipated funding amount",
+    "Institutions of Higher Education",
+    "IHEs",
+    "community colleges",
+    "non-teaching institutional",
+    "educational researcher",
+    "academic administrators",
+    "Principal Investigator",
+    "track 3 consortia",
+    "research collaboration"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "NSF Scholarships in Science, Technology, Engineering, and Mathematics Program",
+      "section": "Other"
+    },
+    {
+      "text": "S-STEM",
+      "section": "Other"
+    },
+    {
+      "text": "academically talented, low-income students",
+      "section": "Other"
+    },
+    {
+      "text": "successful careers in promising STEM fields",
+      "section": "Other"
+    },
+    {
+      "text": "S-STEM eligible degree",
+      "section": "Other"
+    },
+    {
+      "text": "American innovation economy",
+      "section": "Other"
+    },
+    {
+      "text": "evidence-based curricular and co-curricular activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "student success",
+      "section": "Other"
+    },
+    {
+      "text": "graduate degree program",
+      "section": "Other"
+    },
+    {
+      "text": "S-STEM Eligible Degree Programs",
+      "section": "Other"
+    },
+    {
+      "text": "Associate of Arts",
+      "section": "Other"
+    },
+    {
+      "text": "Associate of Science",
+      "section": "Other"
+    },
+    {
+      "text": "Associate of Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "Bachelor of Arts",
+      "section": "Other"
+    },
+    {
+      "text": "Bachelor of Science",
+      "section": "Other"
+    },
+    {
+      "text": "Bachelor of Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "Master of Arts",
+      "section": "Other"
+    },
+    {
+      "text": "Master of Science",
+      "section": "Other"
+    },
+    {
+      "text": "Master of Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "Doctoral",
+      "section": "Other"
+    },
+    {
+      "text": "Ph.D.",
+      "section": "Other"
+    },
+    {
+      "text": "S-STEM Eligible Disciplines",
+      "section": "Other"
+    },
+    {
+      "text": "biotechnology",
+      "section": "Other"
+    },
+    {
+      "text": "chemical technology",
+      "section": "Other"
+    },
+    {
+      "text": "engineering technology",
+      "section": "Other"
+    },
+    {
+      "text": "information technology",
+      "section": "Other"
+    },
+    {
+      "text": "programs for STEM teacher certification or licensure",
+      "section": "Other"
+    },
+    {
+      "text": "Robert Noyce Teacher Scholarship program",
+      "section": "Other"
+    },
+    {
+      "text": "Bachelor of Arts or Science in Business Administration",
+      "section": "Other"
+    },
+    {
+      "text": "BABA/BSBA/BBA",
+      "section": "Other"
+    },
+    {
+      "text": "Mac genomics and systems biology building capacity",
+      "section": "Other"
+    },
+    {
+      "text": "domestic low-income students",
+      "section": "Other"
+    },
+    {
+      "text": "2-year institutions",
+      "section": "Other"
+    },
+    {
+      "text": "undergraduate institutions",
+      "section": "Other"
+    },
+    {
+      "text": "urban, suburban, and rural public institutions",
+      "section": "Other"
+    },
+    {
+      "text": "Institutional Capacity Building",
+      "section": "Program Description"
+    },
+    {
+      "text": "Implementation Projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "Inter-institutional Consortia",
+      "section": "Program Description"
+    },
+    {
+      "text": "Office of Financial Aid",
+      "section": "Program Description"
+    },
+    {
+      "text": "Participant Support",
+      "section": "Program Description"
+    },
+    {
+      "text": "S-STEM scholarship awards",
+      "section": "Program Description"
+    },
+    {
+      "text": "evidence-based curricular and co-curricular activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "S-STEM projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "scholar cohorts",
+      "section": "Program Description"
+    },
+    {
+      "text": "faculty mentoring",
+      "section": "Program Description"
+    },
+    {
+      "text": "last dollar scholarships",
+      "section": "Program Description"
+    },
+    {
+      "text": "project leadership and management team",
+      "section": "Program Description"
+    },
+    {
+      "text": "anticipated funding amount",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "IHEs",
+      "section": "Other"
+    },
+    {
+      "text": "community colleges",
+      "section": "Program Description"
+    },
+    {
+      "text": "non-teaching institutional",
+      "section": "Program Description"
+    },
+    {
+      "text": "educational researcher",
+      "section": "Program Description"
+    },
+    {
+      "text": "academic administrators",
+      "section": "Other"
+    },
+    {
+      "text": "Principal Investigator",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "track 3 consortia",
+      "section": "Other"
+    },
+    {
+      "text": "research collaboration",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "evidence-based practice",
+        "source_text": "evidence-based curricular and co-curricular activities",
+        "confidence": 0.5635
+      },
+      {
+        "tag": "evidence-based practice",
+        "source_text": "evidence-based curricular and co-curricular activities",
+        "confidence": 0.5635
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "low-income students",
+        "source_text": "domestic low-income students",
+        "confidence": 0.8118,
+        "sources": [
+          "academically talented, low-income students",
+          "domestic low-income students"
+        ]
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "undergraduate students",
+        "source_text": "undergraduate institutions",
+        "confidence": 0.7225,
+        "sources": [
+          "undergraduate institutions"
+        ]
+      },
+      {
+        "tag": "graduate students",
+        "source_text": "graduate degree program",
+        "confidence": 0.6665,
+        "sources": [
+          "graduate degree program"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "two-year college",
+        "source_text": "2-year institutions",
+        "confidence": 0.7884,
+        "sources": [
+          "2-year institutions"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-03-03"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-03-03, 2026-03-03",
+      "The aim of Track 1 is to build capacity and develop infrastructure to support low-income STEM students at institutions that have not had a recent award from the S-STEM program. Institutions without active S-STEM or STEP funding in the 5 years prior to the submission deadline may submit to this track. The entire institution is ineligible if any program, department, or school within the institution has had an active STEP or S-STEM award in the past 5 years. Track 1 proposals may include a focus on student transfer or progression to graduate school for its scholars' benchmark of success.",
+      "For a given S-STEM deadline, an institution may submit up to two proposals in which it will be directly involved in providing scholarships. Multiple proposals from an institution must not overlap with regard to S-STEM eligible disciplines. See Additional Eligibility Information below for more details (see IV. Eligibility Information).",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_scholarships_in_science_technology_engineering_and_mathematics_program_s_stem.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/s-stem-nsf-scholarships-science-technology-engineering-mathematics/nsf25-514/solicitation"
+  },
+  "document_title": "NSF Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM)"
+}

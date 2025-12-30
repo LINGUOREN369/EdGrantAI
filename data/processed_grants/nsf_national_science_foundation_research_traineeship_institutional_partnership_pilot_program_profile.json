@@ -1,0 +1,173 @@
+{
+  "grant_id": "nsf_national_science_foundation_research_traineeship_institutional_partnership_pilot_program",
+  "created_at": "2025-12-30T01:10:07.227980-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "National Science Foundation Research Traineeship Institutional Partnership Pilot Program",
+    "NSF Research Traineeship Program",
+    "STEM careers",
+    "high industry relevance",
+    "non-R1 Institution of Higher Education",
+    "Institution of Higher Education",
+    "NRT program",
+    "industry partners",
+    "NRT traineeships",
+    "STEM graduate students",
+    "NRT stipend",
+    "U.S. citizens",
+    "nationals",
+    "permanent residents",
+    "NRT trainees",
+    "continuing Grant",
+    "NRT-IPP awards",
+    "estimated number of awards",
+    "partnership among",
+    "limit on number of proposals per organization",
+    "eligible non-R1 IHEs"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "National Science Foundation Research Traineeship Institutional Partnership Pilot Program",
+      "section": "Other"
+    },
+    {
+      "text": "NSF Research Traineeship Program",
+      "section": "Other"
+    },
+    {
+      "text": "STEM careers",
+      "section": "Other"
+    },
+    {
+      "text": "high industry relevance",
+      "section": "Other"
+    },
+    {
+      "text": "non-R1 Institution of Higher Education",
+      "section": "Other"
+    },
+    {
+      "text": "Institution of Higher Education",
+      "section": "Other"
+    },
+    {
+      "text": "NRT program",
+      "section": "Other"
+    },
+    {
+      "text": "industry partners",
+      "section": "Other"
+    },
+    {
+      "text": "NRT traineeships",
+      "section": "Program Description"
+    },
+    {
+      "text": "STEM graduate students",
+      "section": "Program Description"
+    },
+    {
+      "text": "NRT stipend",
+      "section": "Program Description"
+    },
+    {
+      "text": "U.S. citizens",
+      "section": "Program Description"
+    },
+    {
+      "text": "nationals",
+      "section": "Program Description"
+    },
+    {
+      "text": "permanent residents",
+      "section": "Program Description"
+    },
+    {
+      "text": "NRT trainees",
+      "section": "Program Description"
+    },
+    {
+      "text": "continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "NRT-IPP awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "partnership among",
+      "section": "Other"
+    },
+    {
+      "text": "limit on number of proposals per organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "eligible non-R1 IHEs",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "STEM career pathways",
+        "source_text": "STEM graduate students",
+        "confidence": 0.6412
+      },
+      {
+        "tag": "NRT traineeships",
+        "source_text": "NRT traineeships",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "graduate students",
+        "source_text": "STEM graduate students",
+        "confidence": 0.7005,
+        "sources": [
+          "STEM graduate students"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "industry partner",
+        "source_text": "industry partners",
+        "confidence": 0.9217,
+        "sources": [
+          "industry partners"
+        ]
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "limit on number of proposals per organization",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "Synopsis: The NSF Research Traineeship (NRT) Program seeks proposals that explore ways for graduate students in research-based master\u2019s and doctoral degree programs to develop the skills, knowledge, and competencies needed to pursue a range of science, technology, engineering, and mathematics (STEM) careers. This solicitation describes a pilot for a potential new track for the existing\u00a0NRT Program\u00a0that will support research and education projects that will result in a new master\u2019s degree, certificate, or a track within an existing master\u2019s or Ph.D. program with high industry relevance in at least one focus area identified in this pilot. This will be accomplished through an effective partnership among: (a) a non-R1 Institution of Higher Education (IHE) (lead institution), (b) an non-lead IHE (an R1 or non-R1) that has either an ongoing or completed NRT program in at least one of the focus areas defined for this pilot (see below), and (c) two to three industry partners in the same focus area(s). The overall purpose is to train the STEM workforce in focus areas specified in this solicitation by stimulating collaborations among non-R1 institutions, institutions with existing or completed NRT projects, and industry partners.",
+      "Proposals submitted in response to this solicitation must represent a partnership among: (a) a non-R1 Institution of Higher Education (IHE) (lead institution), (b) a non-lead IHE (an R1 or non-R1) that has either an ongoing or completed NRT program in at least one of the focus areas defined for this pilot (see below), and (c) two to three industry partners in the same focus area(s). For R1 and non-R1 IHE classifications, please refer to Carnegie Basic Classifications: https://carnegieclassifications.acenet.edu/carnegie-classification/classification-methodology/basic-classification/ . The NRT project at the participating non-lead IHE partner must have successfully completed at least three years of work, as demonstrated by three approved annual project reports at the time of proposal submission. The lead institution should not have an existing master\u2019s degree in the chosen focus area(s). Investigators from a lead institution that has an existing graduate certificate, a track within an existing master\u2019s program that is broader than or distinct from the chosen focus area(s), or a Ph.D. program in one or more of the chosen focus areas are encouraged to contact the Program Officers to inquire about eligibility.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_national_science_foundation_research_traineeship_institutional_partnership_pilot_program.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/national-science-foundation-research-traineeship/nsf24-566/solicitation"
+  },
+  "document_title": "National Science Foundation Research Traineeship Institutional Partnership Pilot Program"
+}

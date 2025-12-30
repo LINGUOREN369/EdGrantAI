@@ -1,0 +1,263 @@
+{
+  "grant_id": "nsf_atomic_molecular_and_optical_physics_theory",
+  "created_at": "2025-12-29T23:29:02.472682-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Atomic, Molecular and Optical Physics",
+    "Division of Physics",
+    "Investigator-Initiated Research Projects",
+    "Theoretical Atomic, Molecular, and Optical Physics",
+    "TAMOP program",
+    "theoretical and computational research",
+    "atomic structure",
+    "molecular structure",
+    "small molecules",
+    "electron collisions",
+    "atomic collisions",
+    "photoionization",
+    "photodetachment of electrons",
+    "quantum optics",
+    "ultracold phenomena",
+    "Bose and Fermi gases",
+    "quantum information",
+    "fundamental research",
+    "broader impacts",
+    "workforce preparation",
+    "integration of research and education",
+    "National Science Foundation",
+    "individual investigator awards",
+    "group awards",
+    "centers and institutes",
+    "national user facilities",
+    "research equipment/instrumentation development grants",
+    "mid-scale research infrastructure awards",
+    "long-term support",
+    "Large Investments",
+    "Long-Duration Efforts",
+    "Mid-scale Research Infrastructure",
+    "Standard Grant",
+    "Continuing Grant",
+    "Cooperative Agreement",
+    "Institutions of Higher Education",
+    "Non-profit organizations",
+    "For-profit organizations",
+    "State and Local Governments",
+    "Tribal Governments",
+    "Foreign organizations",
+    "Federally Funded Research and Development Centers"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Atomic, Molecular and Optical Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Investigator-Initiated Research Projects",
+      "section": "Other"
+    },
+    {
+      "text": "Theoretical Atomic, Molecular, and Optical Physics",
+      "section": "Other"
+    },
+    {
+      "text": "TAMOP program",
+      "section": "Other"
+    },
+    {
+      "text": "theoretical and computational research",
+      "section": "Other"
+    },
+    {
+      "text": "atomic structure",
+      "section": "Other"
+    },
+    {
+      "text": "molecular structure",
+      "section": "Other"
+    },
+    {
+      "text": "small molecules",
+      "section": "Other"
+    },
+    {
+      "text": "electron collisions",
+      "section": "Other"
+    },
+    {
+      "text": "atomic collisions",
+      "section": "Other"
+    },
+    {
+      "text": "photoionization",
+      "section": "Other"
+    },
+    {
+      "text": "photodetachment of electrons",
+      "section": "Other"
+    },
+    {
+      "text": "quantum optics",
+      "section": "Other"
+    },
+    {
+      "text": "ultracold phenomena",
+      "section": "Other"
+    },
+    {
+      "text": "Bose and Fermi gases",
+      "section": "Other"
+    },
+    {
+      "text": "quantum information",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental research",
+      "section": "Introduction"
+    },
+    {
+      "text": "broader impacts",
+      "section": "Introduction"
+    },
+    {
+      "text": "workforce preparation",
+      "section": "Introduction"
+    },
+    {
+      "text": "integration of research and education",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "individual investigator awards",
+      "section": "Other"
+    },
+    {
+      "text": "group awards",
+      "section": "Introduction"
+    },
+    {
+      "text": "centers and institutes",
+      "section": "Introduction"
+    },
+    {
+      "text": "national user facilities",
+      "section": "Introduction"
+    },
+    {
+      "text": "research equipment/instrumentation development grants",
+      "section": "Introduction"
+    },
+    {
+      "text": "mid-scale research infrastructure awards",
+      "section": "Introduction"
+    },
+    {
+      "text": "long-term support",
+      "section": "Program Description"
+    },
+    {
+      "text": "Large Investments",
+      "section": "Program Description"
+    },
+    {
+      "text": "Long-Duration Efforts",
+      "section": "Program Description"
+    },
+    {
+      "text": "Mid-scale Research Infrastructure",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit organizations",
+      "section": "Other"
+    },
+    {
+      "text": "For-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Foreign organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Federally Funded Research and Development Centers",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Mid-scale Research Infrastructure",
+        "source_text": "Mid-scale Research Infrastructure",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Long-Duration Efforts",
+        "source_text": "Long-Duration Efforts",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_atomic_molecular_and_optical_physics_theory.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation"
+  },
+  "document_title": "Atomic, Molecular and Optical Physics - Theory"
+}

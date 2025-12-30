@@ -1,0 +1,189 @@
+{
+  "grant_id": "nsf_geosciences_open_science_ecosystem_geo_ose",
+  "created_at": "2025-12-30T00:36:54.115420-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Geosciences Open Science Ecosystem",
+    "GEO OSE",
+    "open science practices",
+    "geosciences",
+    "open scientific practices",
+    "Geosciences Cyberinfrastructure",
+    "GEO CI",
+    "Division of Research, Innovation, Synergies, and Education",
+    "RISE",
+    "FAIR Guiding Principles",
+    "CARE Principles for Indigenous Data Governance",
+    "TRUST Principles for digital repositories",
+    "Reproducibility and Replicability",
+    "NSF's Public Access Initiative",
+    "geoscience domains",
+    "cyberinfrastructure resources",
+    "data repositories",
+    "open-source software communities",
+    "high-performance and cloud computing",
+    "community/cohort building",
+    "community roadmaps",
+    "education/training initiatives",
+    "open science planning activities",
+    "Track 1",
+    "Track 2",
+    "Geosciences Advancement",
+    "Open Science Alignment",
+    "NSF-supported advanced computing",
+    "National Artificial Intelligence Research Resource Pilot",
+    "National Discovery Cloud for Climate"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Geosciences Open Science Ecosystem",
+      "section": "Other"
+    },
+    {
+      "text": "GEO OSE",
+      "section": "Other"
+    },
+    {
+      "text": "open science practices",
+      "section": "Other"
+    },
+    {
+      "text": "geosciences",
+      "section": "Other"
+    },
+    {
+      "text": "open scientific practices",
+      "section": "Other"
+    },
+    {
+      "text": "Geosciences Cyberinfrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "GEO CI",
+      "section": "Introduction"
+    },
+    {
+      "text": "Division of Research, Innovation, Synergies, and Education",
+      "section": "Introduction"
+    },
+    {
+      "text": "RISE",
+      "section": "Introduction"
+    },
+    {
+      "text": "FAIR Guiding Principles",
+      "section": "Introduction"
+    },
+    {
+      "text": "CARE Principles for Indigenous Data Governance",
+      "section": "Introduction"
+    },
+    {
+      "text": "TRUST Principles for digital repositories",
+      "section": "Introduction"
+    },
+    {
+      "text": "Reproducibility and Replicability",
+      "section": "Introduction"
+    },
+    {
+      "text": "NSF's Public Access Initiative",
+      "section": "Introduction"
+    },
+    {
+      "text": "geoscience domains",
+      "section": "Other"
+    },
+    {
+      "text": "cyberinfrastructure resources",
+      "section": "Other"
+    },
+    {
+      "text": "data repositories",
+      "section": "Program Description"
+    },
+    {
+      "text": "open-source software communities",
+      "section": "Program Description"
+    },
+    {
+      "text": "high-performance and cloud computing",
+      "section": "Program Description"
+    },
+    {
+      "text": "community/cohort building",
+      "section": "Other"
+    },
+    {
+      "text": "community roadmaps",
+      "section": "Program Description"
+    },
+    {
+      "text": "education/training initiatives",
+      "section": "Program Description"
+    },
+    {
+      "text": "open science planning activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "Track 1",
+      "section": "Program Description"
+    },
+    {
+      "text": "Track 2",
+      "section": "Program Description"
+    },
+    {
+      "text": "Geosciences Advancement",
+      "section": "Program Description"
+    },
+    {
+      "text": "Open Science Alignment",
+      "section": "Program Description"
+    },
+    {
+      "text": "NSF-supported advanced computing",
+      "section": "Program Description"
+    },
+    {
+      "text": "National Artificial Intelligence Research Resource Pilot",
+      "section": "Program Description"
+    },
+    {
+      "text": "National Discovery Cloud for Climate",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "data repositories",
+        "source_text": "data repositories",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Track 1",
+        "source_text": "Track 1",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Any proposal submitted in response to this solicitation should be submitted in accordance with the NSF Proposal & Award Policies & Procedures Guide (PAPPG) that is in effect for the relevant due date to which the proposal is being submitted. The NSF PAPPG is regularly revised and it is the responsibility of the proposer to ensure that the proposal meets the requirements specified in this solicitation and the applicable version of the PAPPG. Submitting a proposal prior to a specified deadline does not negate this requirement."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_geosciences_open_science_ecosystem_geo_ose.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/geo-ose-geosciences-open-science-ecosystem/nsf25-506/solicitation"
+  },
+  "document_title": "Geosciences Open Science Ecosystem (GEO OSE)"
+}

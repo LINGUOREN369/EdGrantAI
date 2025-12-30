@@ -1,0 +1,308 @@
+{
+  "grant_id": "nsf_networking_technology_and_systems_nets",
+  "created_at": "2025-12-30T01:14:23.559407-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Networking Technology and Systems",
+    "intelligent communication networks",
+    "edge networks",
+    "home networks",
+    "enterprise networks",
+    "data center networks",
+    "cloud networks",
+    "undersea cable networks",
+    "Internet-scale networks",
+    "cellular networks",
+    "vehicular networks",
+    "mesh networks",
+    "sensor networks",
+    "body area networks",
+    "internet of things",
+    "aerial networks",
+    "spaceborne networks",
+    "underwater networks",
+    "space-air-ground integrated networks",
+    "hybrid wireless-wired networks",
+    "AI-driven networking services",
+    "terabit Ethernet",
+    "petabit Ethernet",
+    "optical communications",
+    "radio communications",
+    "acoustic communications",
+    "visible light communications",
+    "quantum communications",
+    "bio-inspired communications",
+    "AI-native networks",
+    "integrated sensing and communication",
+    "energy-efficient network operation",
+    "K\u201312 STEM education",
+    "holistic approaches",
+    "dynamic resource allocation",
+    "network security",
+    "application-aware networking",
+    "video and data streaming",
+    "large language models",
+    "distributed learning",
+    "augmented reality",
+    "mixed reality",
+    "cooperative perception",
+    "robot collaboration",
+    "holistic approaches",
+    "self-healing networks",
+    "machine learning",
+    "semantic communications",
+    "task-oriented communications",
+    "in-network computing",
+    "Programmable networks"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Networking Technology and Systems",
+      "section": "Other"
+    },
+    {
+      "text": "intelligent communication networks",
+      "section": "Other"
+    },
+    {
+      "text": "edge networks",
+      "section": "Other"
+    },
+    {
+      "text": "home networks",
+      "section": "Other"
+    },
+    {
+      "text": "enterprise networks",
+      "section": "Other"
+    },
+    {
+      "text": "data center networks",
+      "section": "Other"
+    },
+    {
+      "text": "cloud networks",
+      "section": "Other"
+    },
+    {
+      "text": "undersea cable networks",
+      "section": "Other"
+    },
+    {
+      "text": "Internet-scale networks",
+      "section": "Other"
+    },
+    {
+      "text": "cellular networks",
+      "section": "Other"
+    },
+    {
+      "text": "vehicular networks",
+      "section": "Other"
+    },
+    {
+      "text": "mesh networks",
+      "section": "Other"
+    },
+    {
+      "text": "sensor networks",
+      "section": "Other"
+    },
+    {
+      "text": "body area networks",
+      "section": "Other"
+    },
+    {
+      "text": "internet of things",
+      "section": "Other"
+    },
+    {
+      "text": "aerial networks",
+      "section": "Other"
+    },
+    {
+      "text": "spaceborne networks",
+      "section": "Other"
+    },
+    {
+      "text": "underwater networks",
+      "section": "Other"
+    },
+    {
+      "text": "space-air-ground integrated networks",
+      "section": "Program Description"
+    },
+    {
+      "text": "hybrid wireless-wired networks",
+      "section": "Other"
+    },
+    {
+      "text": "AI-driven networking services",
+      "section": "Other"
+    },
+    {
+      "text": "terabit Ethernet",
+      "section": "Other"
+    },
+    {
+      "text": "petabit Ethernet",
+      "section": "Other"
+    },
+    {
+      "text": "optical communications",
+      "section": "Other"
+    },
+    {
+      "text": "radio communications",
+      "section": "Other"
+    },
+    {
+      "text": "acoustic communications",
+      "section": "Other"
+    },
+    {
+      "text": "visible light communications",
+      "section": "Other"
+    },
+    {
+      "text": "quantum communications",
+      "section": "Other"
+    },
+    {
+      "text": "bio-inspired communications",
+      "section": "Other"
+    },
+    {
+      "text": "AI-native networks",
+      "section": "Other"
+    },
+    {
+      "text": "integrated sensing and communication",
+      "section": "Other"
+    },
+    {
+      "text": "energy-efficient network operation",
+      "section": "Other"
+    },
+    {
+      "text": "K\u201312 STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "holistic approaches",
+      "section": "Other"
+    },
+    {
+      "text": "dynamic resource allocation",
+      "section": "Other"
+    },
+    {
+      "text": "network security",
+      "section": "Other"
+    },
+    {
+      "text": "application-aware networking",
+      "section": "Other"
+    },
+    {
+      "text": "video and data streaming",
+      "section": "Other"
+    },
+    {
+      "text": "large language models",
+      "section": "Other"
+    },
+    {
+      "text": "distributed learning",
+      "section": "Other"
+    },
+    {
+      "text": "augmented reality",
+      "section": "Other"
+    },
+    {
+      "text": "mixed reality",
+      "section": "Other"
+    },
+    {
+      "text": "cooperative perception",
+      "section": "Other"
+    },
+    {
+      "text": "robot collaboration",
+      "section": "Other"
+    },
+    {
+      "text": "holistic approaches",
+      "section": "Other"
+    },
+    {
+      "text": "self-healing networks",
+      "section": "Other"
+    },
+    {
+      "text": "machine learning",
+      "section": "Other"
+    },
+    {
+      "text": "semantic communications",
+      "section": "Other"
+    },
+    {
+      "text": "task-oriented communications",
+      "section": "Other"
+    },
+    {
+      "text": "in-network computing",
+      "section": "Other"
+    },
+    {
+      "text": "Programmable networks",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "space-air-ground integrated networks",
+        "source_text": "space-air-ground integrated networks",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 students",
+        "source_text": "K\u201312 STEM education",
+        "confidence": 0.6915,
+        "sources": [
+          "K\u201312 STEM education"
+        ]
+      },
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K\u201312 STEM education",
+        "confidence": 0.6591,
+        "sources": [
+          "K\u201312 STEM education"
+        ]
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_networking_technology_and_systems_nets.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/future-core-computer-information-science-engineering-future-computing/nsf25-543/solicitation"
+  },
+  "document_title": "Networking Technology and Systems (NeTS)"
+}

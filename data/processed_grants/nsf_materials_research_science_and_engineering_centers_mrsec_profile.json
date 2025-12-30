@@ -1,0 +1,181 @@
+{
+  "grant_id": "nsf_materials_research_science_and_engineering_centers_mrsec",
+  "created_at": "2025-12-30T01:02:25.780846-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Materials Research Science and Engineering Centers",
+    "MRSEC",
+    "multidisciplinary materials research",
+    "U.S. competitiveness",
+    "engineering education",
+    "Interdisciplinary Research Groups",
+    "semiconductors and microelectronics",
+    "biotechnology and biomanufacturing",
+    "architected materials across scales",
+    "far-from-equilibrium materials",
+    "structural materials under extreme conditions",
+    "domestic materials development",
+    "Materials Genome Initiative",
+    "Research Experiences for Undergraduates",
+    "K\u201312 STEM performance",
+    "two and four-year IHEs",
+    "community colleges",
+    "Institutions of Higher Education",
+    "broad research and education programs",
+    "solid state and materials chemistry",
+    "biomaterials and biophysics"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Materials Research Science and Engineering Centers",
+      "section": "Other"
+    },
+    {
+      "text": "MRSEC",
+      "section": "Other"
+    },
+    {
+      "text": "multidisciplinary materials research",
+      "section": "Introduction"
+    },
+    {
+      "text": "U.S. competitiveness",
+      "section": "Introduction"
+    },
+    {
+      "text": "engineering education",
+      "section": "Other"
+    },
+    {
+      "text": "Interdisciplinary Research Groups",
+      "section": "Other"
+    },
+    {
+      "text": "semiconductors and microelectronics",
+      "section": "Introduction"
+    },
+    {
+      "text": "biotechnology and biomanufacturing",
+      "section": "Introduction"
+    },
+    {
+      "text": "architected materials across scales",
+      "section": "Introduction"
+    },
+    {
+      "text": "far-from-equilibrium materials",
+      "section": "Introduction"
+    },
+    {
+      "text": "structural materials under extreme conditions",
+      "section": "Introduction"
+    },
+    {
+      "text": "domestic materials development",
+      "section": "Introduction"
+    },
+    {
+      "text": "Materials Genome Initiative",
+      "section": "Introduction"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Program Description"
+    },
+    {
+      "text": "K\u201312 STEM performance",
+      "section": "Introduction"
+    },
+    {
+      "text": "two and four-year IHEs",
+      "section": "Other"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "broad research and education programs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "solid state and materials chemistry",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "biomaterials and biophysics",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Research Experiences for Undergraduates",
+        "source_text": "Research Experiences for Undergraduates",
+        "confidence": 0.9
+      },
+      {
+        "tag": "structural materials under extreme conditions",
+        "source_text": "structural materials under extreme conditions",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "K-12 students",
+        "source_text": "K\u201312 STEM performance",
+        "confidence": 0.6395,
+        "sources": [
+          "K\u201312 STEM performance"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-27"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-01-27, 2026-01-27",
+      "Full Proposals: For proposals submitted via Research.gov, PAPPG guidelines apply. For proposals submitted via Grants.gov, NSF Grants.gov Application Guide guidelines apply.",
+      "MRSEC full proposals may be submitted by invitation only.",
+      "In order to reduce the burden of proposal writing for the materials research community and the burden of subsequent proposal review and evaluation for reviewers and NSF staff, NSF will accept full proposals for MRSECs by invitation only , based on the results of the preliminary proposal evaluation.",
+      "Separately submitted collaborative proposals are not allowed. While more than one organization may participate in a single preliminary or full proposal, one organization must accept overall management responsibility for the proposal."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_materials_research_science_and_engineering_centers_mrsec.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/mrsec-materials-research-science-engineering-centers/nsf26-500/solicitation"
+  },
+  "document_title": "Materials Research Science and Engineering Centers (MRSEC)"
+}

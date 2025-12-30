@@ -1,0 +1,262 @@
+{
+  "grant_id": "nsf_centers_of_research_excellence_in_science_and_technology_research_infrastructure_for_science_and_eng",
+  "created_at": "2025-12-29T23:43:00.645141-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Centers of Research Excellence in Science and Technology",
+    "CREST-RISE",
+    "minority-serving institutions",
+    "STEM disciplines",
+    "research doctoral students",
+    "underrepresented groups",
+    "STEM research doctoral programs",
+    "CREST-RISE STEM Doctoral Programs Support Initiative",
+    "CREST-RISE Research Advancement and Development",
+    "CREST-RISE Equipment & Instrumentation",
+    "production of STEM research doctoral graduates",
+    "institutional research capacity",
+    "artificial intelligence",
+    "data science and analytics",
+    "advanced materials",
+    "manufacturing",
+    "cybersecurity",
+    "plant genetics/agricultural technologies",
+    "quantum information sciences",
+    "nanotechnology",
+    "semiconductors/microelectronics technologies",
+    "climate change and clean energy",
+    "Minority Serving Institutions",
+    "Emerging Research Institutions",
+    "U.S. resident students",
+    "students with disabilities",
+    "NSF-supported STEM fields",
+    "eligible institutions",
+    "DPSI awards",
+    "CREST-RISE RAD",
+    "CREST-RISE E&I",
+    "full-time faculty appointment",
+    "research doctoral student mentoring plan",
+    "organizational commitment",
+    "letters of support"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Centers of Research Excellence in Science and Technology",
+      "section": "Other"
+    },
+    {
+      "text": "CREST-RISE",
+      "section": "Other"
+    },
+    {
+      "text": "minority-serving institutions",
+      "section": "Other"
+    },
+    {
+      "text": "STEM disciplines",
+      "section": "Program Description"
+    },
+    {
+      "text": "research doctoral students",
+      "section": "Other"
+    },
+    {
+      "text": "underrepresented groups",
+      "section": "Other"
+    },
+    {
+      "text": "STEM research doctoral programs",
+      "section": "Other"
+    },
+    {
+      "text": "CREST-RISE STEM Doctoral Programs Support Initiative",
+      "section": "Other"
+    },
+    {
+      "text": "CREST-RISE Research Advancement and Development",
+      "section": "Other"
+    },
+    {
+      "text": "CREST-RISE Equipment & Instrumentation",
+      "section": "Other"
+    },
+    {
+      "text": "production of STEM research doctoral graduates",
+      "section": "Program Description"
+    },
+    {
+      "text": "institutional research capacity",
+      "section": "Other"
+    },
+    {
+      "text": "artificial intelligence",
+      "section": "Other"
+    },
+    {
+      "text": "data science and analytics",
+      "section": "Other"
+    },
+    {
+      "text": "advanced materials",
+      "section": "Other"
+    },
+    {
+      "text": "manufacturing",
+      "section": "Other"
+    },
+    {
+      "text": "cybersecurity",
+      "section": "Other"
+    },
+    {
+      "text": "plant genetics/agricultural technologies",
+      "section": "Other"
+    },
+    {
+      "text": "quantum information sciences",
+      "section": "Other"
+    },
+    {
+      "text": "nanotechnology",
+      "section": "Other"
+    },
+    {
+      "text": "semiconductors/microelectronics technologies",
+      "section": "Other"
+    },
+    {
+      "text": "climate change and clean energy",
+      "section": "Other"
+    },
+    {
+      "text": "Minority Serving Institutions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Emerging Research Institutions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S. resident students",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "students with disabilities",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "NSF-supported STEM fields",
+      "section": "Program Description"
+    },
+    {
+      "text": "eligible institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "DPSI awards",
+      "section": "Program Description"
+    },
+    {
+      "text": "CREST-RISE RAD",
+      "section": "Other"
+    },
+    {
+      "text": "CREST-RISE E&I",
+      "section": "Other"
+    },
+    {
+      "text": "full-time faculty appointment",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "research doctoral student mentoring plan",
+      "section": "Program Description"
+    },
+    {
+      "text": "organizational commitment",
+      "section": "Program Description"
+    },
+    {
+      "text": "letters of support",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "undergraduate STEM education",
+        "source_text": "STEM disciplines",
+        "confidence": 0.6044
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "STEM disciplines",
+        "confidence": 0.7543
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "students with disabilities",
+        "source_text": "students with disabilities",
+        "confidence": 1.0,
+        "sources": [
+          "students with disabilities"
+        ]
+      },
+      {
+        "tag": "graduate students",
+        "source_text": "research doctoral students",
+        "confidence": 0.6881,
+        "sources": [
+          "research doctoral students"
+        ]
+      },
+      {
+        "tag": "historically underserved students",
+        "source_text": "underrepresented groups",
+        "confidence": 0.6059,
+        "sources": [
+          "underrepresented groups"
+        ]
+      },
+      {
+        "tag": "underserved communities",
+        "source_text": "underrepresented groups",
+        "confidence": 0.6056,
+        "sources": [
+          "underrepresented groups"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "minority-serving institutions",
+        "confidence": 0.9479,
+        "sources": [
+          "minority-serving institutions",
+          "Minority Serving Institutions"
+        ]
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Up to two RAD proposals may be submitted per eligible institution per deadline date.",
+      "Only one E&I proposal may be submitted per eligible institution per deadline date.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_centers_of_research_excellence_in_science_and_technology_research_infrastructure_for_science_and_eng.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/crest-rise-centers-research-excellence-science-technology-research/nsf24-562/solicitation"
+  },
+  "document_title": "Centers of Research Excellence in Science and Technology - Research Infrastructure for Science and Engineering (CREST-RISE)"
+}

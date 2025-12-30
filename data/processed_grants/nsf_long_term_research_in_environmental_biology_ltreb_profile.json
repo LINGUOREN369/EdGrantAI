@@ -1,0 +1,207 @@
+{
+  "grant_id": "nsf_long_term_research_in_environmental_biology_ltreb",
+  "created_at": "2025-12-30T00:58:42.981375-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Long Term Research in Environmental Biology",
+    "LTREB Program",
+    "evolutionary biology",
+    "ecology",
+    "ecosystem science",
+    "natural selection",
+    "interspecific interactions",
+    "population dynamics",
+    "community dynamics",
+    "feedbacks between ecological and evolutionary processes",
+    "pools of materials",
+    "nutrients in soils",
+    "climatic factors",
+    "Division of Environmental Biology",
+    "Ecosystem Science",
+    "Population and Community Ecology",
+    "Evolutionary Processes",
+    "decadal projects",
+    "5-year period",
+    "decadal research plan",
+    "Core Data",
+    "Research in Undergraduate Institutions",
+    "Institutions of Higher Education",
+    "two-year IHEs",
+    "four-year IHEs",
+    "community colleges",
+    "Non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Long Term Research in Environmental Biology",
+      "section": "Other"
+    },
+    {
+      "text": "LTREB Program",
+      "section": "Other"
+    },
+    {
+      "text": "evolutionary biology",
+      "section": "Other"
+    },
+    {
+      "text": "ecology",
+      "section": "Other"
+    },
+    {
+      "text": "ecosystem science",
+      "section": "Other"
+    },
+    {
+      "text": "natural selection",
+      "section": "Other"
+    },
+    {
+      "text": "interspecific interactions",
+      "section": "Other"
+    },
+    {
+      "text": "population dynamics",
+      "section": "Other"
+    },
+    {
+      "text": "community dynamics",
+      "section": "Other"
+    },
+    {
+      "text": "feedbacks between ecological and evolutionary processes",
+      "section": "Other"
+    },
+    {
+      "text": "pools of materials",
+      "section": "Other"
+    },
+    {
+      "text": "nutrients in soils",
+      "section": "Other"
+    },
+    {
+      "text": "climatic factors",
+      "section": "Introduction"
+    },
+    {
+      "text": "Division of Environmental Biology",
+      "section": "Other"
+    },
+    {
+      "text": "Ecosystem Science",
+      "section": "Other"
+    },
+    {
+      "text": "Population and Community Ecology",
+      "section": "Other"
+    },
+    {
+      "text": "Evolutionary Processes",
+      "section": "Other"
+    },
+    {
+      "text": "decadal projects",
+      "section": "Other"
+    },
+    {
+      "text": "5-year period",
+      "section": "Other"
+    },
+    {
+      "text": "decadal research plan",
+      "section": "Other"
+    },
+    {
+      "text": "Core Data",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research in Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two-year IHEs",
+      "section": "Other"
+    },
+    {
+      "text": "four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Core Data",
+        "source_text": "Core Data",
+        "confidence": 0.9
+      },
+      {
+        "tag": "undergraduate research experiences",
+        "source_text": "Research in Undergraduate Institutions",
+        "confidence": 0.6894
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "Many important questions in ecology, ecosystem science, and evolutionary biology require data collected for ten or more years to be answered. Research areas include, but are not limited to, the effects of natural selection or other evolutionary processes on populations; the effects of interspecific interactions that vary over time and space; population and community dynamics for organisms that have extended life spans and long turnover times; feedbacks between ecological and evolutionary processes; pools of materials such as nutrients in soils that turn over at intermediate to longer time scales; and external forcing functions such as climatic factors that operate over long time periods. Investigators often are constrained in addressing questions in these areas by the relatively short support periods associated with typical research awards. In recognition of this problem, the Division of Environmental Biology (DEB) established the Long Term Research in Environmental Biology (LTREB) program . LTREB awards are designed to provide the funding to maintain an ongoing, long-term research project for a period of a decade or perhaps longer.",
+      "Questions concerning the appropriateness of an existing data set as the basis for an LTREB proposal or of new research activities should be discussed with the cognizant NSF Program Officer prior to proposal development. The LTREB Program does not provide support solely for monitoring, for the analysis of long-term historical data, or for the continuation of an ongoing study that is not question- or hypothesis-driven.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_long_term_research_in_environmental_biology_ltreb.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ltreb-long-term-research-environmental-biology/nsf21-544/solicitation"
+  },
+  "document_title": "Long Term Research in Environmental Biology (LTREB)"
+}

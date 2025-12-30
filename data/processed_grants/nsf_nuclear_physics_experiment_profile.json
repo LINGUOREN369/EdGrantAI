@@ -1,0 +1,258 @@
+{
+  "grant_id": "nsf_nuclear_physics_experiment",
+  "created_at": "2025-12-30T01:27:55.080853-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Nuclear Physics - Experiment",
+    "Division of Physics: Investigator-Initiated Research Projects",
+    "nuclear physics",
+    "strongly interacting matter",
+    "internal structure of hadrons",
+    "nuclear force",
+    "neutrino properties",
+    "experimental nuclear physics program",
+    "properties and behavior of nuclei",
+    "nuclear matter under extreme conditions",
+    "quark-gluon basis",
+    "dynamics of hadrons",
+    "phase transitions of nuclear matter",
+    "neutrino-less double beta decay",
+    "low-energy to multi-GeV electrons",
+    "intermediate-energy light ions",
+    "low-energy to relativistic heavy ions",
+    "radioactive beams",
+    "cold and ultra-cold neutrons",
+    "weakly decaying nuclei",
+    "university user groups",
+    "national user facilities",
+    "Florida State University",
+    "University of Notre Dame",
+    "single investigator awards",
+    "group awards",
+    "centers and institutes",
+    "mid-scale research infrastructure awards",
+    "large investments",
+    "standard Grant",
+    "Continuing Grant",
+    "Cooperative Agreement",
+    "number of awards",
+    "Institutions of Higher Education",
+    "non-profit, non-academic organizations",
+    "for-profit organizations",
+    "State and Local Governments",
+    "Tribal Governments",
+    "Foreign organizations",
+    "Federal Agencies",
+    "Federally Funded Research and Development Centers"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Nuclear Physics - Experiment",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Physics: Investigator-Initiated Research Projects",
+      "section": "Other"
+    },
+    {
+      "text": "nuclear physics",
+      "section": "Other"
+    },
+    {
+      "text": "strongly interacting matter",
+      "section": "Other"
+    },
+    {
+      "text": "internal structure of hadrons",
+      "section": "Other"
+    },
+    {
+      "text": "nuclear force",
+      "section": "Other"
+    },
+    {
+      "text": "neutrino properties",
+      "section": "Other"
+    },
+    {
+      "text": "experimental nuclear physics program",
+      "section": "Other"
+    },
+    {
+      "text": "properties and behavior of nuclei",
+      "section": "Other"
+    },
+    {
+      "text": "nuclear matter under extreme conditions",
+      "section": "Other"
+    },
+    {
+      "text": "quark-gluon basis",
+      "section": "Other"
+    },
+    {
+      "text": "dynamics of hadrons",
+      "section": "Other"
+    },
+    {
+      "text": "phase transitions of nuclear matter",
+      "section": "Other"
+    },
+    {
+      "text": "neutrino-less double beta decay",
+      "section": "Other"
+    },
+    {
+      "text": "low-energy to multi-GeV electrons",
+      "section": "Other"
+    },
+    {
+      "text": "intermediate-energy light ions",
+      "section": "Other"
+    },
+    {
+      "text": "low-energy to relativistic heavy ions",
+      "section": "Other"
+    },
+    {
+      "text": "radioactive beams",
+      "section": "Other"
+    },
+    {
+      "text": "cold and ultra-cold neutrons",
+      "section": "Other"
+    },
+    {
+      "text": "weakly decaying nuclei",
+      "section": "Other"
+    },
+    {
+      "text": "university user groups",
+      "section": "Other"
+    },
+    {
+      "text": "national user facilities",
+      "section": "Introduction"
+    },
+    {
+      "text": "Florida State University",
+      "section": "Other"
+    },
+    {
+      "text": "University of Notre Dame",
+      "section": "Other"
+    },
+    {
+      "text": "single investigator awards",
+      "section": "Introduction"
+    },
+    {
+      "text": "group awards",
+      "section": "Introduction"
+    },
+    {
+      "text": "centers and institutes",
+      "section": "Introduction"
+    },
+    {
+      "text": "mid-scale research infrastructure awards",
+      "section": "Introduction"
+    },
+    {
+      "text": "large investments",
+      "section": "Program Description"
+    },
+    {
+      "text": "standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "for-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Foreign organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Federal Agencies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Federally Funded Research and Development Centers",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "large investments",
+        "source_text": "large investments",
+        "confidence": 0.9
+      },
+      {
+        "tag": "mid-scale research infrastructure awards",
+        "source_text": "mid-scale research infrastructure awards",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nuclear_physics_experiment.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation"
+  },
+  "document_title": "Nuclear Physics - Experiment"
+}

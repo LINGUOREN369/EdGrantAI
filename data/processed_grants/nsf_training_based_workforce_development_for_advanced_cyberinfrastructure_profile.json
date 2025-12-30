@@ -1,0 +1,305 @@
+{
+  "grant_id": "nsf_training_based_workforce_development_for_advanced_cyberinfrastructure",
+  "created_at": "2025-12-30T01:59:56.377757-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Training-based Workforce Development for Advanced Cyberinfrastructure",
+    "CyberTraining",
+    "advanced cyberinfrastructure",
+    "scientific research workforce",
+    "fundamental science and engineering research",
+    "economic competitiveness and security",
+    "CyberTraining program",
+    "Office of Advanced Cyberinfrastructure",
+    "Directorate for Computer and Information Science and Engineering",
+    "CI Professionals",
+    "CI Contributors",
+    "CI Users",
+    "funded activities",
+    "postsecondary level",
+    "research workforce development",
+    "curriculum/instructional materials",
+    "computational and data-driven methods",
+    "broad adoption of CI",
+    "broadening CI access",
+    "Pilot Projects",
+    "Implementation Projects",
+    "estimated number of awards",
+    "standard Grant",
+    "continuing Grant",
+    "cooperative Agreement",
+    "NSF INCLUDES",
+    "higher education",
+    "educational infrastructure",
+    "training and education",
+    "curriculum/instructional materials",
+    "project classes",
+    "community needs",
+    "collaboration between CI and S&E domain disciplines",
+    "hands-on activities",
+    "evaluation of a project",
+    "collective impact",
+    "relevant curriculum/instructional materials",
+    "fundamental research",
+    "National Strategic Computing Initiative",
+    "Pioneering the Future Advanced Computational Ecosystem",
+    "Federal Big Data Research and Development Strategic Plan",
+    "Cyberinfrastructure Learning and Workforce Development",
+    "data security and privacy",
+    "CyberCorps Scholarships for Service",
+    "public and private partnerships",
+    "collective impact strategy",
+    "training workshops",
+    "research community",
+    "current and future generations",
+    "educational ecosystem"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Training-based Workforce Development for Advanced Cyberinfrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "CyberTraining",
+      "section": "Other"
+    },
+    {
+      "text": "advanced cyberinfrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "scientific research workforce",
+      "section": "Other"
+    },
+    {
+      "text": "fundamental science and engineering research",
+      "section": "Other"
+    },
+    {
+      "text": "economic competitiveness and security",
+      "section": "Other"
+    },
+    {
+      "text": "CyberTraining program",
+      "section": "Other"
+    },
+    {
+      "text": "Office of Advanced Cyberinfrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "Directorate for Computer and Information Science and Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "CI Professionals",
+      "section": "Introduction"
+    },
+    {
+      "text": "CI Contributors",
+      "section": "Introduction"
+    },
+    {
+      "text": "CI Users",
+      "section": "Introduction"
+    },
+    {
+      "text": "funded activities",
+      "section": "Other"
+    },
+    {
+      "text": "postsecondary level",
+      "section": "Other"
+    },
+    {
+      "text": "research workforce development",
+      "section": "Other"
+    },
+    {
+      "text": "curriculum/instructional materials",
+      "section": "Other"
+    },
+    {
+      "text": "computational and data-driven methods",
+      "section": "Other"
+    },
+    {
+      "text": "broad adoption of CI",
+      "section": "Other"
+    },
+    {
+      "text": "broadening CI access",
+      "section": "Program Description"
+    },
+    {
+      "text": "Pilot Projects",
+      "section": "Other"
+    },
+    {
+      "text": "Implementation Projects",
+      "section": "Other"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "NSF INCLUDES",
+      "section": "Program Description"
+    },
+    {
+      "text": "higher education",
+      "section": "Introduction"
+    },
+    {
+      "text": "educational infrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "training and education",
+      "section": "Introduction"
+    },
+    {
+      "text": "curriculum/instructional materials",
+      "section": "Other"
+    },
+    {
+      "text": "project classes",
+      "section": "Other"
+    },
+    {
+      "text": "community needs",
+      "section": "Other"
+    },
+    {
+      "text": "collaboration between CI and S&E domain disciplines",
+      "section": "Other"
+    },
+    {
+      "text": "hands-on activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "evaluation of a project",
+      "section": "Program Description"
+    },
+    {
+      "text": "collective impact",
+      "section": "Program Description"
+    },
+    {
+      "text": "relevant curriculum/instructional materials",
+      "section": "Program Description"
+    },
+    {
+      "text": "fundamental research",
+      "section": "Other"
+    },
+    {
+      "text": "National Strategic Computing Initiative",
+      "section": "Introduction"
+    },
+    {
+      "text": "Pioneering the Future Advanced Computational Ecosystem",
+      "section": "Introduction"
+    },
+    {
+      "text": "Federal Big Data Research and Development Strategic Plan",
+      "section": "Introduction"
+    },
+    {
+      "text": "Cyberinfrastructure Learning and Workforce Development",
+      "section": "Introduction"
+    },
+    {
+      "text": "data security and privacy",
+      "section": "Program Description"
+    },
+    {
+      "text": "CyberCorps Scholarships for Service",
+      "section": "Other"
+    },
+    {
+      "text": "public and private partnerships",
+      "section": "Program Description"
+    },
+    {
+      "text": "collective impact strategy",
+      "section": "Other"
+    },
+    {
+      "text": "training workshops",
+      "section": "Program Description"
+    },
+    {
+      "text": "research community",
+      "section": "Other"
+    },
+    {
+      "text": "current and future generations",
+      "section": "Program Description"
+    },
+    {
+      "text": "educational ecosystem",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "collective impact",
+        "source_text": "collective impact",
+        "confidence": 0.9
+      },
+      {
+        "tag": "NSF INCLUDES",
+        "source_text": "NSF INCLUDES",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "underserved communities",
+        "source_text": "community needs",
+        "confidence": 0.6286,
+        "sources": [
+          "community needs"
+        ]
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-01-15"
+    ],
+    "raw_mentions": [
+      "All projects are expected to clearly articulate how they will address important community needs and provide resources that will be widely available to and usable by the research community.\u00a0Prospective principal investigators (PIs) are strongly encouraged to contact the Cognizant Program Officers in CISE/OAC and in the participating directorate/division relevant to the proposal to ascertain whether the focus and budget of their proposed activities are appropriate for this solicitation. Such consultations should be completed at least one month in advance of the submission deadline. PIs should include the names of the Cognizant Program Officers consulted in a Single Copy Document as described in Section V.A. Proposal Preparation Instructions. The intent of the CyberTraining program is to encourage collaboration between CI and S&E domain disciplines. (For this purpose, units of CISE other than OAC are considered domain disciplines.) To ensure relevance to community needs and to facilitate adoption, those proposals of interest to one or more domain divisions must include at least one PI/co-PI with expertise relevant to the targeted research discipline. All proposals shall include at least one PI/co-PI with expertise relevant to OAC.",
+      "Next due date (Y-m-d): 2026-01-15, 2026-01-15",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_training_based_workforce_development_for_advanced_cyberinfrastructure.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/training-based-workforce-development-advanced/nsf23-520/solicitation"
+  },
+  "document_title": "Training-based Workforce Development for Advanced Cyberinfrastructure"
+}

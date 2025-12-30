@@ -1,0 +1,163 @@
+{
+  "grant_id": "nsf_national_artificial_intelligence_research_institutes",
+  "created_at": "2025-12-30T01:09:34.863631-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "National Artificial Intelligence Research Institutes",
+    "Artificial Intelligence",
+    "AI Institutes",
+    "National Security Commission on Artificial Intelligence",
+    "NSCAI",
+    "National Science Foundation",
+    "Simons Foundation",
+    "National Institute of Standards and Technology",
+    "Department of Defense",
+    "AI Research Institutes",
+    "AI for Astronomical Sciences",
+    "AI for Discovery in Materials Research",
+    "Strengthening AI",
+    "Cooperative Agreement",
+    "Institutions of Higher Education",
+    "community colleges",
+    "Non-profit, non-academic organizations",
+    "higher education",
+    "educational activities"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "National Artificial Intelligence Research Institutes",
+      "section": "Other"
+    },
+    {
+      "text": "Artificial Intelligence",
+      "section": "Other"
+    },
+    {
+      "text": "AI Institutes",
+      "section": "Other"
+    },
+    {
+      "text": "National Security Commission on Artificial Intelligence",
+      "section": "Other"
+    },
+    {
+      "text": "NSCAI",
+      "section": "Other"
+    },
+    {
+      "text": "National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "Simons Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "National Institute of Standards and Technology",
+      "section": "Other"
+    },
+    {
+      "text": "Department of Defense",
+      "section": "Other"
+    },
+    {
+      "text": "AI Research Institutes",
+      "section": "Other"
+    },
+    {
+      "text": "AI for Astronomical Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "AI for Discovery in Materials Research",
+      "section": "Other"
+    },
+    {
+      "text": "Strengthening AI",
+      "section": "Other"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "higher education",
+      "section": "Introduction"
+    },
+    {
+      "text": "educational activities",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "higher education",
+        "source_text": "higher education",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "For the institute themes listed in Group 1, NSF anticipates awards to start in FY 2024; and for\u00a0themes listed in Group 2, NSF anticipates awards to start in FY 2025. Each group has a specific set of due dates and review timeline pertaining only to that group. More\u00a0detail is found under Due Dates and in the timeline provided in the Program Description.",
+      "An organization may submit no more than two preliminary proposals to this solicitation as lead institution. This limit is solicitation-wide and applies across the groups and themes. An organization may submit up to two full proposals that correspond to preliminary proposals reviewed under this solicitation. In the event that an organization exceeds these limits, preliminary proposals will be accepted based on earliest date and time of preliminary proposal submission, i.e., the first two preliminary proposals will be accepted, and the remainder will be returned without review. A full proposal that does not correspond to a preliminary proposal reviewed in this program will be returned without review.",
+      "An individual may be designated as senior personnel (which includes but is not limited to PI or co-PI) on at most one preliminary proposal, and at most one full proposal to this solicitation. This limit is solicitation-wide and applies across the groups and themes. In the event that an individual exceeds this limit, proposals will be accepted based on earliest date and time of submission, i.e., the first compliant preliminary or full proposal will be accepted, and the remainder will be returned without review.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_national_artificial_intelligence_research_institutes.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/national-artificial-intelligence-research-institutes/nsf23-610/solicitation"
+  },
+  "document_title": "National Artificial Intelligence Research Institutes"
+}

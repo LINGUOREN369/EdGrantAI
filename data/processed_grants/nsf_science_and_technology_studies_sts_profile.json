@@ -1,0 +1,310 @@
+{
+  "grant_id": "nsf_science_and_technology_studies_sts",
+  "created_at": "2025-12-30T01:50:43.144955-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Science and Technology Studies (STS)",
+    "interdisciplinary field",
+    "social contexts of science, technology, engineering and mathematics",
+    "medical science",
+    "historical developments",
+    "STS program",
+    "broad spectrum of research",
+    "historical, philosophical and social scientific methods",
+    "STEM theory and practice",
+    "intellectual, material or social facets of STEM",
+    "primary STS professional societies",
+    "Society for Social Studies of Science",
+    "Society for the History of Technology",
+    "History of Science Society",
+    "Philosophy of Science Association",
+    "American Association for the History of Medicine",
+    "American Society for Environmental History",
+    "Society for Philosophy of Science in Practice",
+    "International Society for the History, Philosophy, and Social Studies of Biology",
+    "Research on the social organization of scientific work",
+    "Research on the historical, conceptual and methodological foundations",
+    "Mixed methods approaches",
+    "Integrative, collaborative research",
+    "NSF's research-focused Big Ideas",
+    "Ethical and Responsible Research",
+    "Science of Broadening Participation",
+    "complex socio-technical and techno-scientific problems",
+    "development of the built environment",
+    "major technological shifts",
+    "intellectual merit",
+    "broader impacts",
+    "Research Community Development Grants",
+    "Doctoral Dissertation Research Improvement Grants",
+    "Standard Research Grants",
+    "Grants for Collaborative Research",
+    "Scholars Awards",
+    "Conference Grants",
+    "CAREER Program",
+    "Mid-Career Advancement Program",
+    "Research Coordination Network",
+    "Early-Concept Grants for Exploratory Research",
+    "Research Advanced by Interdisciplinary Science and Engineering",
+    "RAPID Response Research",
+    "Research Experiences for Undergraduates",
+    "Award Type",
+    "Standard Grant",
+    "Estimated Number of Awards",
+    "Anticipated Funding Amount",
+    "U.S. Institutions of Higher Education",
+    "U.S. Non-profit, Non-academic Organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Science and Technology Studies (STS)",
+      "section": "Other"
+    },
+    {
+      "text": "interdisciplinary field",
+      "section": "Other"
+    },
+    {
+      "text": "social contexts of science, technology, engineering and mathematics",
+      "section": "Other"
+    },
+    {
+      "text": "medical science",
+      "section": "Other"
+    },
+    {
+      "text": "historical developments",
+      "section": "Other"
+    },
+    {
+      "text": "STS program",
+      "section": "Other"
+    },
+    {
+      "text": "broad spectrum of research",
+      "section": "Other"
+    },
+    {
+      "text": "historical, philosophical and social scientific methods",
+      "section": "Other"
+    },
+    {
+      "text": "STEM theory and practice",
+      "section": "Other"
+    },
+    {
+      "text": "intellectual, material or social facets of STEM",
+      "section": "Other"
+    },
+    {
+      "text": "primary STS professional societies",
+      "section": "Program Description"
+    },
+    {
+      "text": "Society for Social Studies of Science",
+      "section": "Program Description"
+    },
+    {
+      "text": "Society for the History of Technology",
+      "section": "Program Description"
+    },
+    {
+      "text": "History of Science Society",
+      "section": "Program Description"
+    },
+    {
+      "text": "Philosophy of Science Association",
+      "section": "Program Description"
+    },
+    {
+      "text": "American Association for the History of Medicine",
+      "section": "Program Description"
+    },
+    {
+      "text": "American Society for Environmental History",
+      "section": "Program Description"
+    },
+    {
+      "text": "Society for Philosophy of Science in Practice",
+      "section": "Program Description"
+    },
+    {
+      "text": "International Society for the History, Philosophy, and Social Studies of Biology",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research on the social organization of scientific work",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research on the historical, conceptual and methodological foundations",
+      "section": "Program Description"
+    },
+    {
+      "text": "Mixed methods approaches",
+      "section": "Program Description"
+    },
+    {
+      "text": "Integrative, collaborative research",
+      "section": "Program Description"
+    },
+    {
+      "text": "NSF's research-focused Big Ideas",
+      "section": "Program Description"
+    },
+    {
+      "text": "Ethical and Responsible Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Science of Broadening Participation",
+      "section": "Program Description"
+    },
+    {
+      "text": "complex socio-technical and techno-scientific problems",
+      "section": "Program Description"
+    },
+    {
+      "text": "development of the built environment",
+      "section": "Other"
+    },
+    {
+      "text": "major technological shifts",
+      "section": "Program Description"
+    },
+    {
+      "text": "intellectual merit",
+      "section": "Program Description"
+    },
+    {
+      "text": "broader impacts",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Community Development Grants",
+      "section": "Program Description"
+    },
+    {
+      "text": "Doctoral Dissertation Research Improvement Grants",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Research Grants",
+      "section": "Program Description"
+    },
+    {
+      "text": "Grants for Collaborative Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Scholars Awards",
+      "section": "Program Description"
+    },
+    {
+      "text": "Conference Grants",
+      "section": "Program Description"
+    },
+    {
+      "text": "CAREER Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Mid-Career Advancement Program",
+      "section": "Other"
+    },
+    {
+      "text": "Research Coordination Network",
+      "section": "Program Description"
+    },
+    {
+      "text": "Early-Concept Grants for Exploratory Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Advanced by Interdisciplinary Science and Engineering",
+      "section": "Program Description"
+    },
+    {
+      "text": "RAPID Response Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Program Description"
+    },
+    {
+      "text": "Award Type",
+      "section": "Other"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Program Description"
+    },
+    {
+      "text": "Estimated Number of Awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "Anticipated Funding Amount",
+      "section": "Award Information"
+    },
+    {
+      "text": "U.S. Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S. Non-profit, Non-academic Organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Research Advanced by Interdisciplinary Science and Engineering",
+        "source_text": "Research Advanced by Interdisciplinary Science and Engineering",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Doctoral Dissertation Research Improvement Grants",
+        "source_text": "Doctoral Dissertation Research Improvement Grants",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "U.S. Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "U.S. Non-profit, Non-academic Organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-02-02"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-02-02, 2026-02-02",
+      "Due to budgetary constraints, the Requested Amount will rarely exceed $750,000 including indirect costs. The duration is typically two to three years. Proposals exceeding the suggested time frame or budget must have extraordinary justification and merit for eclipsing the requested guidelines.",
+      "Due to budgetary constraints, the requested amount will rarely exceed $350,000. The duration is usually one year. Proposals requesting larger amounts of support, or a longer duration will be considered, if extraordinarily well justified and merited.",
+      "There is no award ceiling, but please be advised that a typical research community development grant award in the STS Program is expected to be in the range of $75,000-$100,000 per year of the project (corresponding to line L of the yearly budget), for up to 36 months. The PAPPG provides guidance about allowable and unallowable costs. Due to budgetary constraints, the Requested Amount will rarely exceed $300,000.",
+      "Due to budgetary limitations, the requested amount for DDRIG proposals should not exceed $25,000.",
+      "The STS Program supports the NSF-wide Research Coordination Network (RCN) program. RCN awards are intended to advance research directions by supporting new, thematically focused collaborations of researchers to communicate and coordinate research, training and educational activities across disciplinary, organizational, geographic and international boundaries. RCN awards do not support primary research, existing research networks, ongoing collaborations or collaborations at a single institution. Instead, they are intended to advance the creation of new collaborations, new fields and new research directions.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_science_and_technology_studies_sts.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/sts-science-technology-studies/nsf22-629/solicitation"
+  },
+  "document_title": "Science and Technology Studies (STS)"
+}

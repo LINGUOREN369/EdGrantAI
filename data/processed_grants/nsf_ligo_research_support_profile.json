@@ -1,0 +1,292 @@
+{
+  "grant_id": "nsf_ligo_research_support",
+  "created_at": "2025-12-30T00:58:03.048790-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "LIGO Research Support",
+    "Gravitational Physics programs",
+    "Gravitational Physics - Theory",
+    "Gravitational Physics \u2013 Experiments and Data Analysis",
+    "Laser Interferometer Gravitational-Wave Observatory",
+    "LIGO data analysis",
+    "infrastructure activities",
+    "graduate students",
+    "postdoctoral fellows",
+    "Division of Physics",
+    "Investigator-Initiated Research Projects",
+    "Atomic, Molecular and Optical Physics",
+    "Elementary Particle Physics",
+    "Gravitational Physics",
+    "Integrative Activities in Physics",
+    "Nuclear Physics",
+    "Particle Astrophysics",
+    "Physics at the Information Frontier",
+    "Physics of Living Systems",
+    "Plasma Physics",
+    "Quantum Information Science",
+    "scientific goals",
+    "Long-Duration Efforts",
+    "Mid-scale Research Infrastructure",
+    "Standard Grant",
+    "Continuing Grant",
+    "Cooperative Agreement",
+    "Institutions of Higher Education",
+    "Two- and four-year IHEs",
+    "community colleges",
+    "Non-profit, non-academic organizations",
+    "For-profit organizations",
+    "State and Local Governments",
+    "local school districts",
+    "Tribal Governments",
+    "Foreign organizations",
+    "Other Federal Agencies",
+    "Federally Funded Research and Development Centers"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "LIGO Research Support",
+      "section": "Other"
+    },
+    {
+      "text": "Gravitational Physics programs",
+      "section": "Other"
+    },
+    {
+      "text": "Gravitational Physics - Theory",
+      "section": "Other"
+    },
+    {
+      "text": "Gravitational Physics \u2013 Experiments and Data Analysis",
+      "section": "Other"
+    },
+    {
+      "text": "Laser Interferometer Gravitational-Wave Observatory",
+      "section": "Other"
+    },
+    {
+      "text": "LIGO data analysis",
+      "section": "Other"
+    },
+    {
+      "text": "infrastructure activities",
+      "section": "Other"
+    },
+    {
+      "text": "graduate students",
+      "section": "Other"
+    },
+    {
+      "text": "postdoctoral fellows",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Investigator-Initiated Research Projects",
+      "section": "Other"
+    },
+    {
+      "text": "Atomic, Molecular and Optical Physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "Elementary Particle Physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "Gravitational Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Integrative Activities in Physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "Nuclear Physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "Particle Astrophysics",
+      "section": "Introduction"
+    },
+    {
+      "text": "Physics at the Information Frontier",
+      "section": "Introduction"
+    },
+    {
+      "text": "Physics of Living Systems",
+      "section": "Introduction"
+    },
+    {
+      "text": "Plasma Physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "Quantum Information Science",
+      "section": "Introduction"
+    },
+    {
+      "text": "scientific goals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Long-Duration Efforts",
+      "section": "Program Description"
+    },
+    {
+      "text": "Mid-scale Research Infrastructure",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "For-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "local school districts",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Foreign organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Other Federal Agencies",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Federally Funded Research and Development Centers",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Mid-scale Research Infrastructure",
+        "source_text": "Mid-scale Research Infrastructure",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Long-Duration Efforts",
+        "source_text": "Long-Duration Efforts",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "graduate students",
+        "source_text": "graduate students",
+        "confidence": 1.0,
+        "sources": [
+          "graduate students"
+        ]
+      },
+      {
+        "tag": "school districts",
+        "source_text": "local school districts",
+        "confidence": 0.8808,
+        "sources": [
+          "local school districts"
+        ]
+      },
+      {
+        "tag": "postdoctoral researchers",
+        "source_text": "postdoctoral fellows",
+        "confidence": 0.8242,
+        "sources": [
+          "postdoctoral fellows"
+        ]
+      },
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "public school district",
+        "source_text": "local school districts",
+        "confidence": 0.8417,
+        "sources": [
+          "local school districts"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_ligo_research_support.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation"
+  },
+  "document_title": "LIGO Research Support"
+}

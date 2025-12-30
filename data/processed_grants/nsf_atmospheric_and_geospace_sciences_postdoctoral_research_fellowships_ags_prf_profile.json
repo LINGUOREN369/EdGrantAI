@@ -1,0 +1,203 @@
+{
+  "grant_id": "nsf_atmospheric_and_geospace_sciences_postdoctoral_research_fellowships_ags_prf",
+  "created_at": "2025-12-29T23:27:29.831174-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Atmospheric and Geospace Sciences Postdoctoral Research Fellowships",
+    "Postdoctoral Research Fellowships",
+    "Division of Atmospheric and Geospace Sciences",
+    "Fellowships",
+    "AGS disciplines",
+    "Atmospheric Chemistry",
+    "Climate and Large-Scale Dynamics",
+    "Paleoclimate",
+    "Physical and Dynamic Meteorology",
+    "Aeronomy",
+    "Magnetospheric Physics",
+    "Solar Terrestrial",
+    "Space Weather Research",
+    "artificial intelligence",
+    "Postdoctoral Research Fellowship",
+    "Primary Host Organization",
+    "U.S. Institutions of Higher Education",
+    "non-profit",
+    "non-academic organizations",
+    "for-profit research organizations",
+    "National Center for Atmospheric Research",
+    "Fellowship location criteria",
+    "Fellowship",
+    "individual eligibility criteria",
+    "eligibility criteria",
+    "NSF review",
+    "Limit on Number of Proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Atmospheric and Geospace Sciences Postdoctoral Research Fellowships",
+      "section": "Other"
+    },
+    {
+      "text": "Postdoctoral Research Fellowships",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Atmospheric and Geospace Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "Fellowships",
+      "section": "Other"
+    },
+    {
+      "text": "AGS disciplines",
+      "section": "Other"
+    },
+    {
+      "text": "Atmospheric Chemistry",
+      "section": "Other"
+    },
+    {
+      "text": "Climate and Large-Scale Dynamics",
+      "section": "Other"
+    },
+    {
+      "text": "Paleoclimate",
+      "section": "Other"
+    },
+    {
+      "text": "Physical and Dynamic Meteorology",
+      "section": "Other"
+    },
+    {
+      "text": "Aeronomy",
+      "section": "Other"
+    },
+    {
+      "text": "Magnetospheric Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Solar Terrestrial",
+      "section": "Other"
+    },
+    {
+      "text": "Space Weather Research",
+      "section": "Other"
+    },
+    {
+      "text": "artificial intelligence",
+      "section": "Program Description"
+    },
+    {
+      "text": "Postdoctoral Research Fellowship",
+      "section": "Other"
+    },
+    {
+      "text": "Primary Host Organization",
+      "section": "Program Description"
+    },
+    {
+      "text": "U.S. Institutions of Higher Education",
+      "section": "Program Description"
+    },
+    {
+      "text": "non-profit",
+      "section": "Program Description"
+    },
+    {
+      "text": "non-academic organizations",
+      "section": "Program Description"
+    },
+    {
+      "text": "for-profit research organizations",
+      "section": "Program Description"
+    },
+    {
+      "text": "National Center for Atmospheric Research",
+      "section": "Program Description"
+    },
+    {
+      "text": "Fellowship location criteria",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Fellowship",
+      "section": "Other"
+    },
+    {
+      "text": "individual eligibility criteria",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "eligibility criteria",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "NSF review",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Primary Host Organization",
+        "source_text": "Primary Host Organization",
+        "confidence": 0.9
+      },
+      {
+        "tag": "artificial intelligence education",
+        "source_text": "artificial intelligence",
+        "confidence": 0.6687
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "postdoctoral researchers",
+        "source_text": "Postdoctoral Research Fellowship",
+        "confidence": 0.7007,
+        "sources": [
+          "Postdoctoral Research Fellowships",
+          "Postdoctoral Research Fellowship"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "U.S. Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per PI or co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_atmospheric_and_geospace_sciences_postdoctoral_research_fellowships_ags_prf.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/ags-prf-atmospheric-geospace-sciences-postdoctoral-research/nsf22-639/solicitation"
+  },
+  "document_title": "Atmospheric and Geospace Sciences Postdoctoral Research Fellowships (AGS-PRF)"
+}

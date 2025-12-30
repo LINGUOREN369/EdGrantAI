@@ -1,0 +1,245 @@
+{
+  "grant_id": "nsf_nsf_casis_transport_phenomena_research_at_the_international_space_station_to_benefit_life_on_earth",
+  "created_at": "2025-12-30T01:16:59.950440-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "NSF/CASIS Transport Phenomena Research at the International Space Station to Benefit Life on Earth",
+    "The Center for the Advancement of Science in Space",
+    "International Space Station",
+    "Cooperative Agreement",
+    "National Aeronautics and Space Administration",
+    "NASA Authorization Act of 2010",
+    "transport",
+    "thermal",
+    "combustion",
+    "nanoscale interactions",
+    "fluid phenomena",
+    "materials performance",
+    "manufacturing",
+    "Transport Phenomena Cluster",
+    "Nanoscale Interactions Program",
+    "Advanced Manufacturing program",
+    "ISS National Laboratory",
+    "User Agreement",
+    "fluid dynamics",
+    "particulate and multiphase processes",
+    "combustion and fire systems",
+    "thermal transport processes",
+    "Earth-based applications",
+    "U.S. Persons",
+    "Institutions of Higher Education",
+    "non-profit, non-academic organizations",
+    "For-profit organizations",
+    "U.S.-based commercial organizations",
+    "clean water and energy",
+    "carbon emissions and capture",
+    "manufacturing",
+    "consumer products",
+    "medical devices and pharmaceuticals",
+    "energy storage",
+    "disaster prevention and mitigation",
+    "Standard Grant",
+    "total",
+    "direct and indirect costs"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "NSF/CASIS Transport Phenomena Research at the International Space Station to Benefit Life on Earth",
+      "section": "Other"
+    },
+    {
+      "text": "The Center for the Advancement of Science in Space",
+      "section": "Other"
+    },
+    {
+      "text": "International Space Station",
+      "section": "Other"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Introduction"
+    },
+    {
+      "text": "National Aeronautics and Space Administration",
+      "section": "Introduction"
+    },
+    {
+      "text": "NASA Authorization Act of 2010",
+      "section": "Introduction"
+    },
+    {
+      "text": "transport",
+      "section": "Other"
+    },
+    {
+      "text": "thermal",
+      "section": "Other"
+    },
+    {
+      "text": "combustion",
+      "section": "Other"
+    },
+    {
+      "text": "nanoscale interactions",
+      "section": "Other"
+    },
+    {
+      "text": "fluid phenomena",
+      "section": "Introduction"
+    },
+    {
+      "text": "materials performance",
+      "section": "Introduction"
+    },
+    {
+      "text": "manufacturing",
+      "section": "Other"
+    },
+    {
+      "text": "Transport Phenomena Cluster",
+      "section": "Introduction"
+    },
+    {
+      "text": "Nanoscale Interactions Program",
+      "section": "Introduction"
+    },
+    {
+      "text": "Advanced Manufacturing program",
+      "section": "Introduction"
+    },
+    {
+      "text": "ISS National Laboratory",
+      "section": "Introduction"
+    },
+    {
+      "text": "User Agreement",
+      "section": "Introduction"
+    },
+    {
+      "text": "fluid dynamics",
+      "section": "Other"
+    },
+    {
+      "text": "particulate and multiphase processes",
+      "section": "Other"
+    },
+    {
+      "text": "combustion and fire systems",
+      "section": "Other"
+    },
+    {
+      "text": "thermal transport processes",
+      "section": "Other"
+    },
+    {
+      "text": "Earth-based applications",
+      "section": "Introduction"
+    },
+    {
+      "text": "U.S. Persons",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "For-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "U.S.-based commercial organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "clean water and energy",
+      "section": "Program Description"
+    },
+    {
+      "text": "carbon emissions and capture",
+      "section": "Program Description"
+    },
+    {
+      "text": "manufacturing",
+      "section": "Other"
+    },
+    {
+      "text": "consumer products",
+      "section": "Program Description"
+    },
+    {
+      "text": "medical devices and pharmaceuticals",
+      "section": "Program Description"
+    },
+    {
+      "text": "energy storage",
+      "section": "Program Description"
+    },
+    {
+      "text": "disaster prevention and mitigation",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "total",
+      "section": "Award Information"
+    },
+    {
+      "text": "direct and indirect costs",
+      "section": "Award Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "National Aeronautics and Space Administration",
+        "source_text": "National Aeronautics and Space Administration",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Nanoscale Interactions Program",
+        "source_text": "Nanoscale Interactions Program",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-03-04"
+    ],
+    "raw_mentions": [
+      "Next due date (Y-m-d): 2026-03-04, 2026-03-04",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_nsf_casis_transport_phenomena_research_at_the_international_space_station_to_benefit_life_on_earth.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/nsfcasis-transport-phenomena-research-international-space/nsf25-529/solicitation"
+  },
+  "document_title": "NSF/CASIS Transport Phenomena Research at the International Space Station to Benefit Life on Earth"
+}

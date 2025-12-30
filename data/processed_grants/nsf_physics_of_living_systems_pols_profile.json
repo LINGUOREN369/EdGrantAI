@@ -1,0 +1,208 @@
+{
+  "grant_id": "nsf_physics_of_living_systems_pols",
+  "created_at": "2025-12-30T01:35:16.482956-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Physics of Living Systems",
+    "PoLS",
+    "Division of Physics",
+    "Investigator-Initiated Research Projects",
+    "atomic molecular and optical physics",
+    "elementary particle physics",
+    "gravitational physics",
+    "integrative activities in physics",
+    "nuclear physics",
+    "particle astrophysics",
+    "physics at the information frontier",
+    "plasma physics",
+    "quantum information science",
+    "synergy of theoretical and experimental research",
+    "artificial life forms",
+    "energy metabolism",
+    "gene regulation",
+    "intracellular communication",
+    "intercellular communication",
+    "collective behavior",
+    "long-duration efforts",
+    "mid-scale research infrastructure",
+    "cooperative agreements",
+    "Standard Grant",
+    "Continuing Grant",
+    "Institutions of Higher Education",
+    "non-profit organizations",
+    "for-profit organizations",
+    "State and Local Governments",
+    "Tribal Governments",
+    "Foreign organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Physics of Living Systems",
+      "section": "Other"
+    },
+    {
+      "text": "PoLS",
+      "section": "Other"
+    },
+    {
+      "text": "Division of Physics",
+      "section": "Other"
+    },
+    {
+      "text": "Investigator-Initiated Research Projects",
+      "section": "Other"
+    },
+    {
+      "text": "atomic molecular and optical physics",
+      "section": "Program Description"
+    },
+    {
+      "text": "elementary particle physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "gravitational physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "integrative activities in physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "nuclear physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "particle astrophysics",
+      "section": "Introduction"
+    },
+    {
+      "text": "physics at the information frontier",
+      "section": "Introduction"
+    },
+    {
+      "text": "plasma physics",
+      "section": "Introduction"
+    },
+    {
+      "text": "quantum information science",
+      "section": "Introduction"
+    },
+    {
+      "text": "synergy of theoretical and experimental research",
+      "section": "Other"
+    },
+    {
+      "text": "artificial life forms",
+      "section": "Other"
+    },
+    {
+      "text": "energy metabolism",
+      "section": "Other"
+    },
+    {
+      "text": "gene regulation",
+      "section": "Other"
+    },
+    {
+      "text": "intracellular communication",
+      "section": "Other"
+    },
+    {
+      "text": "intercellular communication",
+      "section": "Other"
+    },
+    {
+      "text": "collective behavior",
+      "section": "Other"
+    },
+    {
+      "text": "long-duration efforts",
+      "section": "Program Description"
+    },
+    {
+      "text": "mid-scale research infrastructure",
+      "section": "Introduction"
+    },
+    {
+      "text": "cooperative agreements",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit organizations",
+      "section": "Other"
+    },
+    {
+      "text": "for-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "State and Local Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Tribal Governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Foreign organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "atomic molecular and optical physics",
+        "source_text": "atomic molecular and optical physics",
+        "confidence": 0.9
+      },
+      {
+        "tag": "cooperative agreements",
+        "source_text": "cooperative agreements",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "non-profit organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_physics_of_living_systems_pols.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation"
+  },
+  "document_title": "Physics of Living Systems (PoLS)"
+}

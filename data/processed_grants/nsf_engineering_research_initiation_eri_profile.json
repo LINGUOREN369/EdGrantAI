@@ -1,0 +1,238 @@
+{
+  "grant_id": "nsf_engineering_research_initiation_eri",
+  "created_at": "2025-12-30T00:21:53.160437-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Engineering Research Initiation",
+    "NSF Directorate for Engineering",
+    "broadening the base of investigators",
+    "very high research activity",
+    "capacity-building strategy",
+    "fundamental research",
+    "scientific training environment",
+    "Minority Serving Institutions",
+    "Primarily Undergraduate Institutions",
+    "EPSCoR jurisdictions",
+    "Department of Energy",
+    "Water Power Technologies Office",
+    "marine energy",
+    "next-generation hydro-power",
+    "flexible, reliable grid",
+    "blue economy",
+    "Hydro-power and Climate Change Impacts",
+    "U.S. electricity generation",
+    "climatology and hydrology",
+    "hydro-power operation",
+    "Engineering Research Initiation program",
+    "Standard Grant",
+    "Continuing Grant",
+    "55 awards",
+    "24 months",
+    "Institutions of Higher Education",
+    "Doctoral University",
+    "two- and four-year IHEs",
+    "non-R1 institutions",
+    "diverse talent in STEM",
+    "Doctoral degree",
+    "PI eligibility criteria",
+    "Limit on Number of Proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Engineering Research Initiation",
+      "section": "Other"
+    },
+    {
+      "text": "NSF Directorate for Engineering",
+      "section": "Other"
+    },
+    {
+      "text": "broadening the base of investigators",
+      "section": "Other"
+    },
+    {
+      "text": "very high research activity",
+      "section": "Other"
+    },
+    {
+      "text": "capacity-building strategy",
+      "section": "Program Description"
+    },
+    {
+      "text": "fundamental research",
+      "section": "Program Description"
+    },
+    {
+      "text": "scientific training environment",
+      "section": "Program Description"
+    },
+    {
+      "text": "Minority Serving Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Primarily Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "EPSCoR jurisdictions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Department of Energy",
+      "section": "Program Description"
+    },
+    {
+      "text": "Water Power Technologies Office",
+      "section": "Program Description"
+    },
+    {
+      "text": "marine energy",
+      "section": "Program Description"
+    },
+    {
+      "text": "next-generation hydro-power",
+      "section": "Program Description"
+    },
+    {
+      "text": "flexible, reliable grid",
+      "section": "Program Description"
+    },
+    {
+      "text": "blue economy",
+      "section": "Program Description"
+    },
+    {
+      "text": "Hydro-power and Climate Change Impacts",
+      "section": "Program Description"
+    },
+    {
+      "text": "U.S. electricity generation",
+      "section": "Program Description"
+    },
+    {
+      "text": "climatology and hydrology",
+      "section": "Program Description"
+    },
+    {
+      "text": "hydro-power operation",
+      "section": "Program Description"
+    },
+    {
+      "text": "Engineering Research Initiation program",
+      "section": "Other"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "55 awards",
+      "section": "Other"
+    },
+    {
+      "text": "24 months",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Doctoral University",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "two- and four-year IHEs",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-R1 institutions",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "diverse talent in STEM",
+      "section": "Program Description"
+    },
+    {
+      "text": "Doctoral degree",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "PI eligibility criteria",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Primarily Undergraduate Institutions",
+        "source_text": "Primarily Undergraduate Institutions",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Minority Serving Institutions",
+        "source_text": "Minority Serving Institutions",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "Minority Serving Institutions",
+        "confidence": 0.8828,
+        "sources": [
+          "Minority Serving Institutions"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR jurisdictions",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per PI or co-PI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "In line with the program goals, ERI welcomes the submission of proposals to this funding opportunity from Institutions of Higher Education (IHEs) not currently classified as a Doctoral University with \"Very High Research Activity\" (R1 institutions) according to the 2021 Carnegie Classification: https://carnegieclassifications.iu.edu/ . These include two- and four-year IHEs (including community colleges) accredited in, and having a campus located in the US, acting on behalf of their faculty members. Eligibility is based on Classification on the date of proposal submission deadline. The participation of non-R1 institutions from the full spectrum of diverse talent in STEM are encouraged including historically under-represented or under-served populations, diverse institutions including Minority Serving Institutions (MSIs), Primarily Undergraduate Institutions (PUIs), and two-year colleges. Proposals from EPSCoR jurisdictions are especially encouraged.",
+      "At the time of the proposal submission deadline , the PI may not have been a PI or Co-PI on any current or prior awarded NSF research grant (including subaward) or have had research support from any other Federal Agency (within the United States or abroad) totaling $200,000 or more within the past five (5) calendar years from the proposal submission deadline date, with the following exceptions:",
+      "An individual may serve as PI or Senior/Key Personnel on only one ERI proposal per deadline in response to this solicitation. Only one PI per proposal is allowed. Co-Principal Investigators (Co-PIs) are not allowed.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_engineering_research_initiation_eri.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/eri-engineering-research-initiation/nsf24-590/solicitation"
+  },
+  "document_title": "Engineering Research Initiation (ERI)"
+}

@@ -1,0 +1,248 @@
+{
+  "grant_id": "nsf_experiential_learning_for_emerging_and_novel_technologies_exlent",
+  "created_at": "2025-12-30T00:28:26.623374-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Experiential Learning for Emerging and Novel Technologies",
+    "ExLENT",
+    "Directorate for STEM Education",
+    "Directorate for Technology, Innovation and Partnerships",
+    "Micron Technology, Inc.",
+    "Micron Foundation",
+    "emerging technology fields",
+    "advanced manufacturing",
+    "advanced wireless",
+    "artificial intelligence",
+    "biotechnology",
+    "quantum information science",
+    "semiconductors",
+    "microelectronics",
+    "STEM workforce",
+    "careers in emerging technology",
+    "cross-sector partnerships",
+    "experiential learning opportunities",
+    "career-enhancing experiential learning opportunities",
+    "adult learners",
+    "re-skilling",
+    "upskilling",
+    "barriers to accessing a formal STEM education",
+    "experiential learning",
+    "nonprofit, non-academic organizations",
+    "Indian or Alaska Native tribe",
+    "culturally responsive education",
+    "community engagement",
+    "interdisciplinary research collaboration",
+    "evidence-based best practices",
+    "emerging technologies workforce",
+    "career exploration activities",
+    "STEM entrepreneurial and technical skills",
+    "cohort model",
+    "exponential technologies",
+    "Pivots",
+    "Beginnings",
+    "Explorations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Experiential Learning for Emerging and Novel Technologies",
+      "section": "Other"
+    },
+    {
+      "text": "ExLENT",
+      "section": "Other"
+    },
+    {
+      "text": "Directorate for STEM Education",
+      "section": "Other"
+    },
+    {
+      "text": "Directorate for Technology, Innovation and Partnerships",
+      "section": "Other"
+    },
+    {
+      "text": "Micron Technology, Inc.",
+      "section": "Other"
+    },
+    {
+      "text": "Micron Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "emerging technology fields",
+      "section": "Introduction"
+    },
+    {
+      "text": "advanced manufacturing",
+      "section": "Other"
+    },
+    {
+      "text": "advanced wireless",
+      "section": "Other"
+    },
+    {
+      "text": "artificial intelligence",
+      "section": "Other"
+    },
+    {
+      "text": "biotechnology",
+      "section": "Other"
+    },
+    {
+      "text": "quantum information science",
+      "section": "Other"
+    },
+    {
+      "text": "semiconductors",
+      "section": "Other"
+    },
+    {
+      "text": "microelectronics",
+      "section": "Other"
+    },
+    {
+      "text": "STEM workforce",
+      "section": "Introduction"
+    },
+    {
+      "text": "careers in emerging technology",
+      "section": "Introduction"
+    },
+    {
+      "text": "cross-sector partnerships",
+      "section": "Introduction"
+    },
+    {
+      "text": "experiential learning opportunities",
+      "section": "Other"
+    },
+    {
+      "text": "career-enhancing experiential learning opportunities",
+      "section": "Other"
+    },
+    {
+      "text": "adult learners",
+      "section": "Other"
+    },
+    {
+      "text": "re-skilling",
+      "section": "Other"
+    },
+    {
+      "text": "upskilling",
+      "section": "Other"
+    },
+    {
+      "text": "barriers to accessing a formal STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "experiential learning",
+      "section": "Other"
+    },
+    {
+      "text": "nonprofit, non-academic organizations",
+      "section": "Other"
+    },
+    {
+      "text": "Indian or Alaska Native tribe",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "culturally responsive education",
+      "section": "Other"
+    },
+    {
+      "text": "community engagement",
+      "section": "Other"
+    },
+    {
+      "text": "interdisciplinary research collaboration",
+      "section": "Other"
+    },
+    {
+      "text": "evidence-based best practices",
+      "section": "Program Description"
+    },
+    {
+      "text": "emerging technologies workforce",
+      "section": "Other"
+    },
+    {
+      "text": "career exploration activities",
+      "section": "Program Description"
+    },
+    {
+      "text": "STEM entrepreneurial and technical skills",
+      "section": "Program Description"
+    },
+    {
+      "text": "cohort model",
+      "section": "Program Description"
+    },
+    {
+      "text": "exponential technologies",
+      "section": "Other"
+    },
+    {
+      "text": "Pivots",
+      "section": "Program Description"
+    },
+    {
+      "text": "Beginnings",
+      "section": "Program Description"
+    },
+    {
+      "text": "Explorations",
+      "section": "Program Description"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Explorations",
+        "source_text": "Explorations",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Beginnings",
+        "source_text": "Beginnings",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "adult learners",
+        "source_text": "adult learners",
+        "confidence": 1.0,
+        "sources": [
+          "adult learners"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "nonprofit",
+        "source_text": "nonprofit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "The ExLENT program aims to connect industry, local government, agencies, schools, professional organizations, and/or non-profits in order to provide individuals the experiential STEM learning opportunities needed to accelerate the Nation\u2019s innovation capacity. Given the breadth of age and educational/professional experiences of potential learners, there will be no \u201cone-size fits all\u201d requirement for this program. Experiential learning opportunities supported by ExLENT can serve a broad range of learners including secondary school youth and adults at any stage of career development. Further, proposed experiential learning activities can range from fully immersive experiences, such as internships, to extensive course-based activities that are constructed by (or driven by) workplace partner input to approximate real-world experiences. See examples of experiential learning activities at: https://www.nsf.gov/pubs/_img/ehr/due/ExLinEmTechFigurefinal.jpg .",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_experiential_learning_for_emerging_and_novel_technologies_exlent.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/exlent-experiential-learning-emerging-novel-technologies/nsf25-511/solicitation"
+  },
+  "document_title": "Experiential Learning for Emerging and Novel Technologies (ExLENT)"
+}

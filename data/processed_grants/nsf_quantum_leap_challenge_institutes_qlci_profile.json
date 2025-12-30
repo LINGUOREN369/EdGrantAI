@@ -1,0 +1,185 @@
+{
+  "grant_id": "nsf_quantum_leap_challenge_institutes_qlci",
+  "created_at": "2025-12-30T01:41:19.086918-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Quantum Leap Challenge Institutes",
+    "quantum information science and technology",
+    "quantum computation",
+    "quantum communication",
+    "quantum simulation",
+    "quantum sensing",
+    "education",
+    "training",
+    "workforce development",
+    "National Quantum Initiative",
+    "QLCI program",
+    "Challenge Institutes",
+    "Institutions of Higher Education",
+    "community colleges",
+    "multidisciplinary groups",
+    "community engagement",
+    "technology translation",
+    "cooperative agreement",
+    "estimated number of awards",
+    "5 to 10",
+    "Limit on Number of Proposals per Organization",
+    "Limit on Number of Proposals per PI or co-PI"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Quantum Leap Challenge Institutes",
+      "section": "Other"
+    },
+    {
+      "text": "quantum information science and technology",
+      "section": "Other"
+    },
+    {
+      "text": "quantum computation",
+      "section": "Other"
+    },
+    {
+      "text": "quantum communication",
+      "section": "Other"
+    },
+    {
+      "text": "quantum simulation",
+      "section": "Other"
+    },
+    {
+      "text": "quantum sensing",
+      "section": "Other"
+    },
+    {
+      "text": "education",
+      "section": "Other"
+    },
+    {
+      "text": "training",
+      "section": "Other"
+    },
+    {
+      "text": "workforce development",
+      "section": "Other"
+    },
+    {
+      "text": "National Quantum Initiative",
+      "section": "Other"
+    },
+    {
+      "text": "QLCI program",
+      "section": "Other"
+    },
+    {
+      "text": "Challenge Institutes",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "community colleges",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "multidisciplinary groups",
+      "section": "Program Description"
+    },
+    {
+      "text": "community engagement",
+      "section": "Program Description"
+    },
+    {
+      "text": "technology translation",
+      "section": "Introduction"
+    },
+    {
+      "text": "cooperative agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "5 to 10",
+      "section": "Award Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per Organization",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Limit on Number of Proposals per PI or co-PI",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "community engagement",
+        "source_text": "community engagement",
+        "confidence": 0.9
+      },
+      {
+        "tag": "technology translation",
+        "source_text": "technology translation",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "community college students",
+        "source_text": "community colleges",
+        "confidence": 0.7653,
+        "sources": [
+          "community colleges"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "community college",
+        "source_text": "community colleges",
+        "confidence": 0.8855,
+        "sources": [
+          "community colleges"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": [
+      {
+        "tag": "submission_limit",
+        "source_text": "Limit on Number of Proposals per Organization",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "The Quantum Leap Challenge Institute (QLCI) program will fund Institutes comprised of multidisciplinary groups of scientists and engineers united by a common challenge theme for advancing the research frontiers in focus areas such as quantum networking, quantum computation, quantum simulation and/or quantum sensing. The Challenge Institutes will also contribute to the development of a well-trained workforce through cross-disciplinary and collaborative basic research, project-driven training, and innovative curricula. The QLCI program is expected to facilitate research, training, and education through exposure of trainees to theoretical frameworks, algorithmic techniques, experimental platforms and testbeds, and interactions with national laboratories, industry, and international partners. The Challenge Institutes will build on prior investments in quantum information science and engineering and are expected to coordinate and integrate with ongoing and new NSF QIST initiatives, including center-scale, infrastructure, and workforce development activities.",
+      "Lead organizations are limited to submit no more than two (2) Challenge Institute Preliminary Proposals. Lead organizations are limited to submit no more than two (2) invited Challenge Institute Full Proposals. Multi-institutional Challenge Institute proposals must be submitted as a single proposal by a single lead organization; separately submitted collaborative proposals are not permitted.",
+      "Letters of Intent: Principal Investigators (PIs) and co-PIs may participate in multiple Letters of Intent. Limits on the number of Challenge Institute Full Proposals do not apply to Letters of Intent.",
+      "Preliminary Proposals: Principal Investigators (PIs) and co-PIs may participate in multiple Preliminary Proposals. Limits on the number of Challenge Institute Full Proposals do not apply to Preliminary Proposals.",
+      "Invited Full Proposals: The lead PI and up to four additional co-PIs who are named on the Cover Sheet of a Challenge Institute Full Proposal must only participate in one Challenge Institute Full Proposal. Senior/Key Personnel who are not named on the cover sheet of a Challenge Institute Full Proposal may participate in no more than two (2) Challenge Institute Full Proposals.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_quantum_leap_challenge_institutes_qlci.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/qlci-quantum-leap-challenge-institutes/nsf24-599/solicitation"
+  },
+  "document_title": "Quantum Leap Challenge Institutes (QLCI)"
+}

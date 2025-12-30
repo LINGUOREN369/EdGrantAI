@@ -1,0 +1,297 @@
+{
+  "grant_id": "nsf_iuse_professional_formation_of_engineers_revolutionizing_engineering_departments_iuse_pfe_red",
+  "created_at": "2025-12-30T00:55:58.302252-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "IUSE/Professional Formation of Engineers: Revolutionizing Engineering Departments",
+    "Revolutionizing Engineering Departments",
+    "Engineering Education and Centers Division",
+    "Directorate for STEM Education",
+    "Professional Formation of Engineers",
+    "RED program",
+    "RED Planning",
+    "Track 1",
+    "RED Adaptation and Implementation",
+    "Track 2",
+    "RED Innovation",
+    "Track 3",
+    "RED Innovation Partnerships",
+    "Track 4",
+    "two-year institutions",
+    "four-year institutions",
+    "EPSCoR jurisdictions",
+    "Primarily Undergraduate Institutions",
+    "Institutions of Higher Education",
+    "full spectrum of diverse talent in engineering",
+    "National Academy of Engineering",
+    "ABET outcomes",
+    "21st Century",
+    "T-shaped skills",
+    "Institutional and Community Transformation",
+    "Planning grants",
+    "Collaborative partnerships",
+    "Minority Serving Institution",
+    "evidence-based organizational change strategies",
+    "engineering technology",
+    "Volunteer",
+    "engineering education research",
+    "technological needs",
+    "Research Experiences for Undergraduates",
+    "broadening participation in STEM",
+    "workforce development",
+    "K\u201312 STEM education",
+    "capstone design experiences",
+    "professional capacities"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "IUSE/Professional Formation of Engineers: Revolutionizing Engineering Departments",
+      "section": "Other"
+    },
+    {
+      "text": "Revolutionizing Engineering Departments",
+      "section": "Other"
+    },
+    {
+      "text": "Engineering Education and Centers Division",
+      "section": "Other"
+    },
+    {
+      "text": "Directorate for STEM Education",
+      "section": "Other"
+    },
+    {
+      "text": "Professional Formation of Engineers",
+      "section": "Other"
+    },
+    {
+      "text": "RED program",
+      "section": "Other"
+    },
+    {
+      "text": "RED Planning",
+      "section": "Other"
+    },
+    {
+      "text": "Track 1",
+      "section": "Other"
+    },
+    {
+      "text": "RED Adaptation and Implementation",
+      "section": "Other"
+    },
+    {
+      "text": "Track 2",
+      "section": "Other"
+    },
+    {
+      "text": "RED Innovation",
+      "section": "Other"
+    },
+    {
+      "text": "Track 3",
+      "section": "Other"
+    },
+    {
+      "text": "RED Innovation Partnerships",
+      "section": "Other"
+    },
+    {
+      "text": "Track 4",
+      "section": "Other"
+    },
+    {
+      "text": "two-year institutions",
+      "section": "Other"
+    },
+    {
+      "text": "four-year institutions",
+      "section": "Other"
+    },
+    {
+      "text": "EPSCoR jurisdictions",
+      "section": "Other"
+    },
+    {
+      "text": "Primarily Undergraduate Institutions",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Other"
+    },
+    {
+      "text": "full spectrum of diverse talent in engineering",
+      "section": "Other"
+    },
+    {
+      "text": "National Academy of Engineering",
+      "section": "Introduction"
+    },
+    {
+      "text": "ABET outcomes",
+      "section": "Other"
+    },
+    {
+      "text": "21st Century",
+      "section": "Other"
+    },
+    {
+      "text": "T-shaped skills",
+      "section": "Program Description"
+    },
+    {
+      "text": "Institutional and Community Transformation",
+      "section": "Program Description"
+    },
+    {
+      "text": "Planning grants",
+      "section": "Program Description"
+    },
+    {
+      "text": "Collaborative partnerships",
+      "section": "Program Description"
+    },
+    {
+      "text": "Minority Serving Institution",
+      "section": "Program Description"
+    },
+    {
+      "text": "evidence-based organizational change strategies",
+      "section": "Other"
+    },
+    {
+      "text": "engineering technology",
+      "section": "Program Description"
+    },
+    {
+      "text": "Volunteer",
+      "section": "Other"
+    },
+    {
+      "text": "engineering education research",
+      "section": "Other"
+    },
+    {
+      "text": "technological needs",
+      "section": "Other"
+    },
+    {
+      "text": "Research Experiences for Undergraduates",
+      "section": "Other"
+    },
+    {
+      "text": "broadening participation in STEM",
+      "section": "Other"
+    },
+    {
+      "text": "workforce development",
+      "section": "Other"
+    },
+    {
+      "text": "K\u201312 STEM education",
+      "section": "Other"
+    },
+    {
+      "text": "capstone design experiences",
+      "section": "Other"
+    },
+    {
+      "text": "professional capacities",
+      "section": "Other"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "engineering education",
+        "source_text": "engineering technology",
+        "confidence": 0.7671
+      },
+      {
+        "tag": "T-shaped skills",
+        "source_text": "T-shaped skills",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "K-12 students",
+        "source_text": "K\u201312 STEM education",
+        "confidence": 0.6915,
+        "sources": [
+          "K\u201312 STEM education"
+        ]
+      },
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K\u201312 STEM education",
+        "confidence": 0.6591,
+        "sources": [
+          "K\u201312 STEM education"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "minority-serving institution",
+        "source_text": "Minority Serving Institution",
+        "confidence": 1.0,
+        "sources": [
+          "Minority Serving Institution"
+        ]
+      },
+      {
+        "tag": "two-year college",
+        "source_text": "two-year institutions",
+        "confidence": 0.8366,
+        "sources": [
+          "two-year institutions"
+        ]
+      },
+      {
+        "tag": "four-year university",
+        "source_text": "four-year institutions",
+        "confidence": 0.7778,
+        "sources": [
+          "four-year institutions"
+        ]
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "EPSCoR jurisdictions",
+        "source_text": "EPSCoR jurisdictions",
+        "confidence": 1.0,
+        "sources": [
+          "EPSCoR jurisdictions"
+        ]
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "date",
+    "dates": [
+      "2026-04-14"
+    ],
+    "raw_mentions": [
+      "Synopsis: Revolutionizing Engineering Departments (hereinafter referred to as RED) is designed to build upon previous efforts in engineering education research. Specifically, previous and ongoing evaluations of the NSF Engineering Education and Centers Division program and its predecessors, as well as those related programs in the Directorate for STEM Education, have shown that prior investments have significantly improved the first year of engineering students\u2019 experiences, incorporating engineering material, active learning approaches, design instruction, and a broad introduction to professional skills and a sense of professional practice \u2013 giving students an idea of what it means to become an engineer. Similarly, the senior year has seen notable change through capstone design experiences, which ask students to synthesize the technical knowledge, skills, and abilities they have gained with professional capacities, using reflective judgment to make decisions and communicate these effectively. However, this ideal of the senior year has not yet been fully realized, because many of the competencies required in capstone design, or required of professional engineers, are only partially introduced in the first year and not carried forward with significant emphasis through the sophomore and junior years.",
+      "Next due date (Y-m-d): 2026-04-14, 2026-04-14",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_iuse_professional_formation_of_engineers_revolutionizing_engineering_departments_iuse_pfe_red.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/iusepfe-red-iuseprofessional-formation-engineers-revolutionizing/nsf24-564/solicitation"
+  },
+  "document_title": "IUSE/Professional Formation of Engineers: Revolutionizing Engineering Departments (IUSE/PFE: RED)"
+}

@@ -1,0 +1,139 @@
+{
+  "grant_id": "nsf_infrastructure_capacity_for_biological_research_capacity",
+  "created_at": "2025-12-30T00:48:25.710793-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Infrastructure Capacity for Biological Research",
+    "Capacity Program",
+    "research tools",
+    "Biological Sciences",
+    "capacity in research infrastructure",
+    "Cyberinfrastructure",
+    "Biological Collections",
+    "Biological Field Stations and Marine Laboratories",
+    "Planning proposals",
+    "Research Coordination Networks",
+    "Research at Undergraduate Institutions",
+    "Basic Research",
+    "Standard Grant",
+    "Continuing Grant",
+    "Cooperative Agreement",
+    "Institutions of Higher Education",
+    "Non-profit, non-academic organizations"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Infrastructure Capacity for Biological Research",
+      "section": "Other"
+    },
+    {
+      "text": "Capacity Program",
+      "section": "Other"
+    },
+    {
+      "text": "research tools",
+      "section": "Other"
+    },
+    {
+      "text": "Biological Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "capacity in research infrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "Cyberinfrastructure",
+      "section": "Other"
+    },
+    {
+      "text": "Biological Collections",
+      "section": "Other"
+    },
+    {
+      "text": "Biological Field Stations and Marine Laboratories",
+      "section": "Other"
+    },
+    {
+      "text": "Planning proposals",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Coordination Networks",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research at Undergraduate Institutions",
+      "section": "Program Description"
+    },
+    {
+      "text": "Basic Research",
+      "section": "Other"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Cooperative Agreement",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "Non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Planning proposals",
+        "source_text": "Planning proposals",
+        "confidence": 0.9
+      },
+      {
+        "tag": "undergraduate research experiences",
+        "source_text": "Research at Undergraduate Institutions",
+        "confidence": 0.7105
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "unspecified",
+    "dates": [],
+    "raw_mentions": [
+      "The Capacity program only considers support for full proposals submitted to the program. Except for Career-Life-Balance supplements, program funds are generally not used to provide post-award supplements to existing awards. If activities that align with REU, RET, and RAHSS educational supplements are planned, these activities should be described and budgeted for in the original proposal submission.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_infrastructure_capacity_for_biological_research_capacity.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/capacity-infrastructure-capacity-biological-research/nsf23-580/solicitation"
+  },
+  "document_title": "Infrastructure Capacity for Biological Research (Capacity)"
+}

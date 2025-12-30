@@ -1,0 +1,165 @@
+{
+  "grant_id": "nsf_capacity_biological_collections",
+  "created_at": "2025-12-29T23:33:53.428345-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Biological Collections Programmatic Area",
+    "vouchered biological and paleontological collections",
+    "living stocks and culture collections",
+    "ancillary collections",
+    "biological research collections",
+    "biodiversity and ecosystems",
+    "agricultural, biomedical, and manufacturing efforts",
+    "Thematic Collection Network (TCN)",
+    "research-ready networks",
+    "education and outreach contributions",
+    "Established Vouchered Biological and Paleontological Collections",
+    "Established Living Stocks and Culture Collections",
+    "movement of ownership",
+    "Biological Collections programmatic area",
+    "Biological Field Stations and Marine Laboratories Programmatic Area",
+    "Research Coordination Networks (RCN)",
+    "Research at Undergraduate Institutions (RUI)",
+    "Capacity Program",
+    "Cyberinfrastructure Programmatic Area",
+    "National Resource",
+    "nonprofit, non-academic organizations",
+    "Institutions of Higher Education"
+  ],
+  "extracted_phrases_structured": [
+    {
+      "text": "Biological Collections Programmatic Area",
+      "section": "Other"
+    },
+    {
+      "text": "vouchered biological and paleontological collections",
+      "section": "Other"
+    },
+    {
+      "text": "living stocks and culture collections",
+      "section": "Other"
+    },
+    {
+      "text": "ancillary collections",
+      "section": "Other"
+    },
+    {
+      "text": "biological research collections",
+      "section": "Other"
+    },
+    {
+      "text": "biodiversity and ecosystems",
+      "section": "Other"
+    },
+    {
+      "text": "agricultural, biomedical, and manufacturing efforts",
+      "section": "Other"
+    },
+    {
+      "text": "Thematic Collection Network (TCN)",
+      "section": "Other"
+    },
+    {
+      "text": "research-ready networks",
+      "section": "Other"
+    },
+    {
+      "text": "education and outreach contributions",
+      "section": "Other"
+    },
+    {
+      "text": "Established Vouchered Biological and Paleontological Collections",
+      "section": "Other"
+    },
+    {
+      "text": "Established Living Stocks and Culture Collections",
+      "section": "Other"
+    },
+    {
+      "text": "movement of ownership",
+      "section": "Other"
+    },
+    {
+      "text": "Biological Collections programmatic area",
+      "section": "Other"
+    },
+    {
+      "text": "Biological Field Stations and Marine Laboratories Programmatic Area",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research Coordination Networks (RCN)",
+      "section": "Program Description"
+    },
+    {
+      "text": "Research at Undergraduate Institutions (RUI)",
+      "section": "Program Description"
+    },
+    {
+      "text": "Capacity Program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Cyberinfrastructure Programmatic Area",
+      "section": "Program Description"
+    },
+    {
+      "text": "National Resource",
+      "section": "Other"
+    },
+    {
+      "text": "nonprofit, non-academic organizations",
+      "section": "Other"
+    },
+    {
+      "text": "Institutions of Higher Education",
+      "section": "Eligibility Information"
+    }
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "Biological Field Stations and Marine Laboratories Programmatic Area",
+        "source_text": "Biological Field Stations and Marine Laboratories Programmatic Area",
+        "confidence": 0.9
+      },
+      {
+        "tag": "Cyberinfrastructure Programmatic Area",
+        "source_text": "Cyberinfrastructure Programmatic Area",
+        "confidence": 0.9
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [
+      {
+        "tag": "nonprofit",
+        "source_text": "nonprofit, non-academic organizations",
+        "confidence": 1.0
+      },
+      {
+        "tag": "institution_of_higher_education",
+        "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "deadline": {
+    "status": "rolling",
+    "dates": [],
+    "raw_mentions": [
+      "Partnerships to Existing Networks (PENs). Proposals that partner with and extend the efforts of ongoing NSF-funded TCNs are encouraged. New partners must increase the number of specimens digitized in the ongoing project and fill gaps not addressed by the specimens in an existing TCN. Any TCN which is either in progress on its NSF award or which has established itself as a sustainable entity (i.e. part of professional society activities, part of regional collaborations at the universities, or supported by funding other than NSF) is eligible for including new partners. It is expected that PEN proposals will work with the TCN to develop a budget that is compatible with these collaborative projects. The PEN proposals should adequately indicate how the partner collection will add information to the ongoing project, fill in gaps in digitized data and increase value to the efforts for the research theme. The broader impacts should be specific for the PEN institution, but also indicate how these impacts enhance the TCN. To indicate that the PEN will appropriately integrate with the existing TCN, a letter of collaboration (format found under the instructions for Supplemental Documents, below) from the lead of the existing TCN should be uploaded in the Supplemental Documents section. It is expected that PEN proposals will use some of the infrastructure of the existing network, thus providing an efficient means to further the impact of the existing network. The length of a PEN proposal should be adequate to describe the activity and the integration into the existing network; a full 15 pages may not be necessary for these types of proposals.",
+      "The Capacity program only considers support for full proposals submitted to the program. Except for Career-Life-Balance supplements, program funds are generally not used to provide post-award supplements to existing awards. If activities that align with REU, RET, and RAHSS educational supplements are planned, these activities should be described and budgeted for in the original proposal submission.",
+      "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
+      "Full Proposals:",
+      "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
+      "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "source": {
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_capacity_biological_collections.txt",
+    "url": "https://www.nsf.gov/funding/opportunities/capacity-infrastructure-capacity-biological-research/nsf23-580/solicitation"
+  },
+  "document_title": "Capacity: Biological Collections"
+}
