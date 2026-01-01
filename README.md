@@ -177,19 +177,40 @@ EdGrantAI/
 │   ├── grant_profile_build.md
 │   └── org_profile_rules.md
 │
-├── pipeline/
-│   ├── __init__.py
-│   ├── config.py
+├── common/
+│   └── config.py
+├── extraction/
 │   ├── cke.py
-│   ├── canonical_mapper.py
+│   ├── section_utils.py
+│   ├── deadline_extractor.py
+│   ├── build_grants_from_csv.py
+│   └── refresh_grants.py
+├── mapping/
 │   ├── embedding_matcher.py
-│   ├── grant_profile_builder.py
-│   ├── org_profile_builder.py
+│   ├── canonical_mapper.py
 │   ├── build_taxonomy_embeddings.py
 │   ├── validate_taxonomy.py
 │   ├── build_synonyms.py
 │   ├── merge_auto_synonyms.py
+│   ├── grant_profile_builder.py
+│   └── org_profile_builder.py
+├── matching/
+│   └── matching_engine.py
+├── pipeline/   (compatibility shims; legacy imports still work)
+│   ├── config.py
+│   ├── cke.py
+│   ├── section_utils.py
 │   ├── deadline_extractor.py
+│   ├── build_grants_from_csv.py
+│   ├── refresh_grants.py
+│   ├── embedding_matcher.py
+│   ├── canonical_mapper.py
+│   ├── build_taxonomy_embeddings.py
+│   ├── validate_taxonomy.py
+│   ├── build_synonyms.py
+│   ├── merge_auto_synonyms.py
+│   ├── grant_profile_builder.py
+│   ├── org_profile_builder.py
 │   └── matching_engine.py
 │
 └── prompts/

@@ -1,4 +1,4 @@
-# NSF-Controlled Keyphrase Extractor (CKE) Prompt — Final
+# NSF-Controlled Keyphrase Extractor (CKE) Prompt
 
 You are a Controlled Keyphrase Extractor (CKE) specialized for NSF solicitations and official NSF program pages.
 

@@ -81,7 +81,6 @@ def assign_sections_to_phrases(phrases: List[str], text: str) -> List[Dict[str, 
         # Try exact search first, then case-insensitive
         idx = text.find(p)
         if idx == -1:
-            # Case-insensitive search using regex
             m = re.search(re.escape(p), text, flags=re.I)
             idx = m.start() if m else -1
         label = _find_section_index(idx) if idx != -1 else "Other"

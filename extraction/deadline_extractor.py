@@ -64,7 +64,7 @@ def _norm_date_token(tok: str) -> Optional[str]:
     Returns None if parsing fails or no year is present.
     """
     s = tok.strip()
-    s = _CLEAN_ORD.sub(r"\\1", s)  # remove ordinal suffix
+    s = _CLEAN_ORD.sub(r"\1", s)  # remove ordinal suffix
 
     fmts = [
         "%B %d, %Y",
@@ -102,7 +102,6 @@ def extract_deadline_info(text: str) -> Dict:
             rolling = True
         # Only consider lines that have explicit deadline-like cues or rolling hints
         if _LINE_HINT.search(line) or _ROLLING.search(line):
-            # collect mentions around likely markers
             if line not in mentions:
                 mentions.append(line)
             for m in _DATE_TOKENS.finditer(line):
@@ -123,3 +122,4 @@ def extract_deadline_info(text: str) -> Dict:
         "dates": dates[:5],
         "raw_mentions": mentions[:10],
     }
+

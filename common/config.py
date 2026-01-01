@@ -5,7 +5,7 @@ Centralized configuration for paths, models and environment.
 - Reads values from environment when available; otherwise uses sensible defaults.
 
 Usage:
-  from pipeline.config import settings
+  from common.config import settings
   print(settings.TAXONOMY_DIR)
 """
 
@@ -239,3 +239,4 @@ class Settings:
 
 # Singleton settings instance
 settings = Settings()
+

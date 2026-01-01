@@ -1,23 +1,8 @@
 """
 Build grant text files from a CSV under data/grants.
 
-Behavior
-- Reads a CSV (file or directory containing a single CSV) and creates one .txt file per row
-  in data/grants/ (or a specified --out-dir).
-- File name: slug from the Title column (or a fallback field), prefixed with nsf_.
-- File content:
-  - First line: the solicitation URL if present (so pipeline.grant_profile_builder picks it up as source.url)
-  - Then a structured section with all other CSV columns in "Field: Value" form
-  - If a solicitation URL is present, attempts to fetch the page and append readable text
-    (using BeautifulSoup if available; falls back to stdlib). Network errors are handled gracefully.
-
-CLI examples
-- python -m pipeline.build_grants_from_csv --csv data/grants/NSF_database.csv
-- python -m pipeline.build_grants_from_csv --csv data/grants/NSF_database --out-dir data/grants --no-fetch
-
-Notes
-- Column names are matched case-insensitively. Title candidates include: title, opportunity title, name.
-- URL candidates include: solicitation url, url, link, opportunity url.
+Reads a CSV (or a directory containing one CSV) and creates one .txt per row,
+optionally fetching solicitation pages and extracting key sections.
 """
 
 from __future__ import annotations
@@ -33,10 +18,9 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, List, Optional, Sequence, Tuple
 
-from .config import settings
-from .deadline_extractor import extract_deadline_info
+from common.config import settings
+from extraction.deadline_extractor import extract_deadline_info
 
-# Optional dependencies
 try:  # type: ignore
     import requests  # noqa: F401
     HAVE_REQUESTS = True
@@ -78,13 +62,11 @@ def _resolve_csv_path(path_like: Optional[str]) -> Path:
         if p.is_file():
             return p
         if p.is_dir():
-            # pick first *.csv
             picks = sorted(p.glob("*.csv"))
             if not picks:
                 raise FileNotFoundError(f"No CSV files found in directory: {p}")
             return picks[0]
         raise FileNotFoundError(f"CSV path not found: {p}")
-    # Defaults
     base_grants = settings.REPO_ROOT / "data" / "grants"
     base_db = settings.REPO_ROOT / "data" / "NSF_database"
     candidates = [
@@ -96,21 +78,18 @@ def _resolve_csv_path(path_like: Optional[str]) -> Path:
     for c in candidates:
         if c.exists():
             return c
-    # If not found, try any single CSV under data/NSF_database then data/grants
     for base in (base_db, base_grants):
         csvs = sorted(base.glob("*.csv"))
         if len(csvs) == 1:
             return csvs[0]
         if len(csvs) > 1:
-            # Prefer a file named like *fund* or *nsf*
             pref = [p for p in csvs if "fund" in p.name.lower() or "nsf" in p.name.lower()]
             if len(pref) == 1:
                 return pref[0]
     if len(csvs) == 1:
-        return csvs[0]  # fallback
-    # If not found, raise with guidance
+        return csvs[0]
     raise FileNotFoundError(
-        "CSV not found. Provide --csv <path> or place nsf_funding.csv under data/NSF_database/ (or under data/grants/)."
+        "CSV not found. Provide --csv <path> or place nsf_funding.csv under data/NSF_database/."
     )
 
 
@@ -130,7 +109,6 @@ def http_get(url: str, *, timeout: int = 30) -> Tuple[int, bytes]:
     else:
         import urllib.request
         import urllib.error
-
         req = urllib.request.Request(url, headers=headers)
         try:
             with urllib.request.urlopen(req, timeout=timeout) as resp:
@@ -146,14 +124,11 @@ def http_get(url: str, *, timeout: int = 30) -> Tuple[int, bytes]:
 
 
 def extract_text_from_html(html: str) -> Tuple[Optional[str], str]:
-    """Return (title, text) using BeautifulSoup if available, else a basic fallback."""
     if HAVE_BS4:
-        # Prefer lxml
         try:
             soup = BeautifulSoup(html, "lxml")
         except Exception:
             soup = BeautifulSoup(html, "html.parser")
-        # Remove non-content
         for t in soup(["script", "style", "nav", "footer", "header", "noscript"]):
             t.decompose()
         title = None
@@ -163,7 +138,6 @@ def extract_text_from_html(html: str) -> Tuple[Optional[str], str]:
             h1 = soup.select_one("h1")
             if h1:
                 title = re.sub(r"\s+", " ", h1.get_text(" ", strip=True))
-        # Main content
         containers = soup.select("main, article")
         if not containers:
             containers = soup.select('[role="main"], .nsf-rich-text, .rich-text, .content, #content, #content-area')
@@ -183,12 +157,10 @@ def extract_text_from_html(html: str) -> Tuple[Optional[str], str]:
         body = "\n\n".join([re.sub(r"\s+", " ", p).strip() for p in parts if p.strip()])
         return title, body
 
-    # Fallback: crude tag-strip approach
     title = None
     m = re.search(r"<title>(.*?)</title>", html, flags=re.I | re.S)
     if m:
         title = ihtml.unescape(re.sub(r"\s+", " ", m.group(1)).strip())
-    # Strip tags
     body = re.sub(r"<script[\s\S]*?</script>", " ", html, flags=re.I)
     body = re.sub(r"<style[\s\S]*?</style>", " ", body, flags=re.I)
     body = re.sub(r"<[^>]+>", " ", body)
@@ -197,20 +169,8 @@ def extract_text_from_html(html: str) -> Tuple[Optional[str], str]:
 
 
 def _select_sections(text: str) -> Tuple[str, List[str]]:
-    """Return (selected_text, found_labels) for these sections:
-      - Summary of Program Requirements (or 'Synopsis of Program' fallback)
-      - I. Introduction
-      - II. Program Description
-      - III. Award Information
-      - IV. Eligibility Information
-
-    Heuristic, case-insensitive, based on heading lines. Stops sections at the
-    next recognized heading or any Roman numeral heading (V., VI., ...).
-    """
-    # Normalize newlines
+    """Return (selected_text, found_labels) for key NSF sections."""
     lines = text.splitlines()
-
-    # Compile patterns for starts of sections we want (roman and plain variants)
     want_patterns = [
         ("Summary of Program Requirements", re.compile(r"^\s*(summary\s+of\s+program\s+requirements|synopsis\s+of\s+program|synopsis)\b.*$", re.I)),
         ("I. Introduction", re.compile(r"^\s*(i\.[\s\-]*)?introduction\b.*$", re.I)),
@@ -218,11 +178,7 @@ def _select_sections(text: str) -> Tuple[str, List[str]]:
         ("III. Award Information", re.compile(r"^\s*(iii\.[\s\-]*)?award\s+information\b.*$", re.I)),
         ("IV. Eligibility Information", re.compile(r"^\s*(iv\.[\s\-]*)?eligibility\s+information\b.*$", re.I)),
     ]
-
-    # Any Roman numeral heading marks a potential boundary for sections
     roman_boundary = re.compile(r"^\s*[IVXLCDM]+\.[^\S\n]*.*$", re.I)
-
-    # Find starts
     starts: List[Tuple[str, int]] = []
     for idx, line in enumerate(lines):
         s = line.strip()
@@ -230,26 +186,15 @@ def _select_sections(text: str) -> Tuple[str, List[str]]:
             continue
         for label, pat in want_patterns:
             if pat.match(line):
-                # Avoid adding both Summary and Synopsis for same location: keep first match
                 starts.append((label, idx))
                 break
-
-    # No need for dedupe now; summary/synopsis share same label
-
     if not starts:
-        # Nothing matched; return empty string and empty labels list
         return "", []
-
-    # Sort by position then group by desired canonical order
     starts.sort(key=lambda t: t[1])
-
-    # Build mapping from label to index, but only keep the earliest occurrence
     first_pos: Dict[str, int] = {}
     for label, pos in starts:
         if label not in first_pos:
             first_pos[label] = pos
-
-    # Pull sections in the canonical order
     order = [
         "Summary of Program Requirements",
         "I. Introduction",
@@ -257,18 +202,14 @@ def _select_sections(text: str) -> Tuple[str, List[str]]:
         "III. Award Information",
         "IV. Eligibility Information",
     ]
-    # If Summary missing, try Synopsis
     if "Summary of Program Requirements" not in first_pos and any(lbl.startswith("Synopsis of Program") for lbl, _ in starts):
         first_pos["Summary of Program Requirements"] = min(pos for lbl, pos in starts if lbl.startswith("Synopsis of Program"))
 
-    # Helper: find next boundary index after a given start
     def next_boundary(after_idx: int) -> int:
-        # Next recognized wanted section or any roman heading (e.g., V.)
         next_indices: List[int] = []
         for _, pos in starts:
             if pos > after_idx:
                 next_indices.append(pos)
-        # Also detect any roman heading boundary beyond after_idx
         for j in range(after_idx + 1, len(lines)):
             if roman_boundary.match(lines[j]):
                 next_indices.append(j)
@@ -282,13 +223,10 @@ def _select_sections(text: str) -> Tuple[str, List[str]]:
             continue
         start = first_pos[label]
         end = next_boundary(start)
-        # Extract block content up to boundary and drop the heading line(s)
         block_lines = lines[start:end]
-        # Drop the first line (likely the heading) to avoid duplication
         content_lines = block_lines[1:] if len(block_lines) > 1 else []
         content = "\n".join(content_lines).strip()
         if content:
-            # Insert a normalized header for clarity
             pieces.append(f"{label}\n\n{content}")
             found.append(label)
     return "\n\n".join(pieces).strip(), found
@@ -300,99 +238,66 @@ def _extract_selected_sections(text: str) -> str:
 
 
 def _parse_structured_from_text(text: str) -> Dict[str, str]:
-    """Heuristic parsing for common NSF solicitation fields from page text."""
     found: Dict[str, str] = {}
-
-    # Solicitation number, e.g., "NSF 24-567" or "NSF24-567"
     m = re.search(r"\bNSF\s*-?\s*(\d{2,}-\d{2,})\b", text, flags=re.I)
     if m:
         found["Solicitation Number"] = f"NSF {m.group(1)}"
-
-    # Estimated number of awards
     m = re.search(r"Estimated Number of Awards\s*:?\s*([0-9,]+)\b", text, flags=re.I)
     if m:
         found["Estimated Number of Awards"] = m.group(1)
-
-    # Anticipated funding amount / Estimated total program funding / Award Ceiling
     for label in (
         "Anticipated Funding Amount",
         "Estimated Total Program Funding",
         "Award Ceiling",
         "Award Floor",
     ):
-        # Look for the label and capture the rest of the line (with $ amount)
         m = re.search(label + r"\s*:?\s*([^\n]+)", text, flags=re.I)
         if m:
-            # Try to pull a money-like token
-            mm = re.search(r"\$\s*[0-9][0-9,]*(?:\.[0-9]{2})?\s*(?:million|billion)?", m.group(1), flags=re.I)
-            found[label] = mm.group(0) if mm else m.group(1).strip()
-
+            found[label] = re.sub(r"\s+", " ", m.group(1)).strip()
     return found
-
-
-REQUIRED_SECTION_LABELS = [
-    "I. Introduction",
-    "II. Program Description",
-    "III. Award Information",
-    "IV. Eligibility Information",
-]
 
 
 def build_text_from_row(
     row: Dict[str, str],
-    url_col: Optional[str],
-    title_col: str,
+    url_key: Optional[str],
+    title_key: str,
     fetch: bool,
     *,
     require_all_sections: bool = False,
 ) -> Optional[str]:
+    headers = [k for k in row.keys()]
+    def _get(d: Dict[str, str], name: Optional[str]) -> str:
+        return (d.get(name) or "").strip() if name else ""
+    title_val = _get(row, title_key)
+    url_val = _get(row, url_key)
     lines: List[str] = []
-    # URL first line (if present)
-    try:
-        url_val = (row.get(url_col) or "").strip() if url_col else ""
-    except Exception:
-        url_val = ""
-    if url_val.lower().startswith("http://") or url_val.lower().startswith("https://"):
+    if url_val:
         lines.append(url_val)
         lines.append("")
-
-    # Emit key/value pairs for all columns (except URL already emitted)
-    for k, v in row.items():
-        if not k:
+    if title_val:
+        lines.append(f"Title: {title_val}")
+    for h in headers:
+        if h == url_key:
             continue
-        if url_col and k == url_col:
-            continue
-        if v is None:
-            continue
-        val = str(v).strip()
-        if not val:
-            continue
-        lines.append(f"{k}: {val}")
-
-    # If we have a URL, try to fetch and append content
+        v = _get(row, h)
+        if v:
+            lines.append(f"{h}: {v}")
     if fetch and url_val:
         status, body = http_get(url_val, timeout=45)
-        if status == 0:
-            lines.append("")
-            lines.append("[warning] network blocked or unreachable for solicitation URL")
-        elif status != 200 or not body:
-            lines.append("")
-            lines.append(f"[warning] failed to fetch solicitation page (status {status})")
-        else:
+        if status == 200 and body:
             html = body.decode("utf-8", errors="ignore")
             title, text = extract_text_from_html(html)
-            # Append only the requested sections from the solicitation page
+            if title and not title_val:
+                lines.append("")
+                lines.append(f"Detected Title: {title}")
             if text:
-                selected, found = _select_sections(text)
-                has_all = all(lbl in found for lbl in REQUIRED_SECTION_LABELS)
-                if require_all_sections and not has_all:
-                    # Not sufficient — skip this row entirely
+                selected, found_labels = _select_sections(text)
+                if require_all_sections and set(found_labels) & {"I. Introduction", "II. Program Description", "III. Award Information", "IV. Eligibility Information"} != {"I. Introduction", "II. Program Description", "III. Award Information", "IV. Eligibility Information"}:
                     return None
                 if selected:
                     lines.append("")
                     lines.append("Extracted from solicitation page (selected sections):")
                     lines.append(selected)
-
     return "\n".join(lines).rstrip() + "\n"
 
 
@@ -409,13 +314,6 @@ def unique_path(out_dir: Path, base_stem: str) -> Path:
 
 
 def _is_grant_row(row: Dict[str, str], headers: Sequence[str]) -> bool:
-    """Return True if the CSV row represents a grant/solicitation to include.
-
-    Heuristics:
-    - Must have a non-empty Solicitation URL (http/https)
-    - Exclude Dear Colleague Letters (Type contains 'dear colleague')
-    """
-    # Locate keys case-insensitively
     type_key = _best_column(headers, ["type"]) or "Type"
     sol_key = _best_column(headers, ["solicitation url", "solicitation link", "solicitation"]) or "Solicitation URL"
     tval = (row.get(type_key) or "").strip().lower()
@@ -444,26 +342,10 @@ def process_csv(
         if not reader.fieldnames:
             raise ValueError("CSV has no headers")
         headers = [h.strip() for h in reader.fieldnames]
-
-        title_key = _best_column([h for h in headers], [
-            "title",
-            "opportunity title",
-            "name",
-            "program title",
-        ])
+        title_key = _best_column([h for h in headers], ["title", "opportunity title", "name", "program title"])    
         if not title_key:
             raise ValueError("Could not find a Title column (tried: title, opportunity title, name, program title)")
-
-        url_key = _best_column([h for h in headers], [
-            "solicitation url",
-            "solicitation link",
-            "url",
-            "link",
-            "opportunity url",
-            "announcement url",
-            "rfp url",
-        ])
-
+        url_key = _best_column([h for h in headers], ["solicitation url", "solicitation link", "url", "link", "opportunity url", "announcement url", "rfp url"])    
         total = 0
         written = 0
         processed = 0
@@ -473,16 +355,8 @@ def process_csv(
             if limit is not None and processed >= limit:
                 break
             total += 1
-            # Filter non-grants (DCLs, missing solicitation URL)
             if not _is_grant_row(row, headers):
                 if prune_skipped:
-                    # Remove existing file for this row if present (based on slug)
-                    title_key = _best_column(headers, [
-                        "title",
-                        "opportunity title",
-                        "name",
-                        "program title",
-                    ])
                     title_val = (row.get(title_key) or "").strip() if title_key else ""
                     stem = "nsf_" + slugify(title_val or f"opportunity_{idx+1}")
                     base = out_dir / f"{stem}.txt"
@@ -493,10 +367,8 @@ def process_csv(
                         except Exception:
                             pass
                 continue
-            # Title and fallback
             title_val = (row.get(title_key) or "").strip() if title_key else ""
             if not title_val:
-                # Fallback to any non-empty first column
                 for h in headers:
                     if h == url_key:
                         continue
@@ -505,8 +377,6 @@ def process_csv(
                         title_val = v
                         break
             stem = "nsf_" + slugify(title_val or f"opportunity_{total}")
-
-            # Build text (may return None if require_all_sections is True and sections incomplete)
             content = build_text_from_row(
                 row,
                 url_key,
@@ -525,19 +395,15 @@ def process_csv(
                             pass
                 print(f"[skip] missing required sections for {stem}")
                 continue
-
-            # Write
             out_path = out_dir / f"{stem}.txt"
             if out_path.exists() and not overwrite:
                 out_path = unique_path(out_dir, stem)
             out_path.write_text(content, encoding="utf-8")
             written += 1
             print(f"[ok] {out_path.name}")
-            # polite pacing if fetching
             processed += 1
             if fetch and (processed % 5 == 0):
                 time.sleep(0.2)
-
     return total, written
 
 
@@ -583,3 +449,4 @@ def main(argv: Optional[List[str]] = None) -> int:
 
 if __name__ == "__main__":  # pragma: no cover
     raise SystemExit(main())
+

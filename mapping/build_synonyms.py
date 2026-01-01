@@ -1,22 +1,4 @@
-"""
-Auto-generate safe, format-level synonyms for taxonomy tags.
-
-Generates up to N synonyms per tag using conservative transformations:
- - Parenthetical acronyms (e.g., "open educational resources (OER)" → "OER", "open educational resources")
- - K–12 variants (K-12 / K–12 / K12 / "K to 12" / "K through 12")
- - And/& alternation ("a and b" ↔ "a & b")
- - Singular/plural (students/student, teachers/teacher, agencies/agency, ministries/ministry)
- - Hyphen vs space variants (usually redundant due to normalization but harmless)
- - Common short forms (postdoctoral→postdoc, preproposal→pre-proposal, organization→org)
- - Safe wording variants (Pre‑K forms, afterschool/after-school, districtwide/district-wide)
- - Higher education shorthand ("higher education" → "higher ed")
-
-Outputs JSON files under data/taxonomy/synonyms/<taxonomy>_synonyms.auto.json
-
-Usage:
-  python -m pipeline.build_synonyms --all [--max 10]
-  python -m pipeline.build_synonyms --names mission_tags population_tags --max 8
-"""
+"""Auto-generate safe, format-level synonyms for taxonomy tags."""
 
 from __future__ import annotations
 
@@ -24,9 +6,9 @@ import argparse
 import json
 import re
 from pathlib import Path
-from typing import Dict, Iterable, List, Set
+from typing import Dict, List, Set
 
-from .config import settings
+from common.config import settings
 
 
 SYN_DIR = settings.TAXONOMY_DIR / "synonyms"
@@ -89,7 +71,6 @@ def _hyphen_space_variants(s: str) -> List[str]:
 
 def _short_forms(s: str) -> List[str]:
     out = []
-    # domain-safe short forms
     repl = {
         "postdoctoral": "postdoc",
         "preproposal": "pre-proposal",
@@ -102,12 +83,9 @@ def _short_forms(s: str) -> List[str]:
 
 
 def _prek_variants(s: str) -> List[str]:
-    """Generate common Pre-K variants when phrase mentions Pre-K/PreK/Prekindergarten.
-    Conservative: only add when cues present.
-    """
     out: List[str] = []
     if re.search(r"\bpre\s*[-–]?\s*k\b", s, re.I) or re.search(r"pre\s*kindergarten", s, re.I):
-        out.extend(["Pre-K", "PreK", "prekindergarten", "Pre‑K"])  # include narrow no-break hyphen form
+        out.extend(["Pre-K", "PreK", "prekindergarten", "Pre‑K"])  # include narrow hyphen form
     return out
 
 
@@ -144,7 +122,6 @@ def _higher_ed_variants(s: str) -> List[str]:
 
 def _singular_plural_variants(s: str) -> List[str]:
     out = []
-    # Only apply to last token to reduce harm
     tokens = s.split()
     if not tokens:
         return out
@@ -169,14 +146,12 @@ def generate_synonyms_for_tag(tag: str, taxonomy_name: str) -> List[str]:
     syns += _higher_ed_variants(s)
     syns += _singular_plural_variants(s)
 
-    # Geography-specific safe expansions
     if taxonomy_name == "geography_tags":
         if s.lower() == "united states":
             syns += ["US", "U.S.", "USA", "U.S.A."]
         if s.lower() == "global":
             syns += ["worldwide", "international", "around the world", "across the globe"]
 
-    # Red flags safe expansions
     if taxonomy_name == "red_flag_tags":
         mapping = {
             "letter of intent required": ["letter of intent", "LOI"],
@@ -189,7 +164,6 @@ def generate_synonyms_for_tag(tag: str, taxonomy_name: str) -> List[str]:
         if tag in mapping:
             syns += mapping[tag]
 
-    # NSF programs acronyms (uppercased) — already handled via manual synonyms file, but ensure here too
     if taxonomy_name == "nsf_programs":
         m = re.search(r"\(([^)]+)\)$", s)
         if m:
@@ -197,7 +171,6 @@ def generate_synonyms_for_tag(tag: str, taxonomy_name: str) -> List[str]:
             if acro:
                 syns.append(acro)
 
-    # Dedup and return
     seen: Set[str] = set()
     out = []
     for syn in syns:
@@ -245,3 +218,4 @@ def main(argv=None) -> int:
 
 if __name__ == "__main__":  # pragma: no cover
     raise SystemExit(main())
+

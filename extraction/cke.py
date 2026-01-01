@@ -5,7 +5,7 @@ Extracts verbatim keyphrases from input text using a stored prompt and an
 OpenAI chat model, returning a JSON array of strings.
 
 Usage examples:
-  - from pipeline.cke import run_cke
+  - from extraction.cke import run_cke
     phrases = run_cke("Grant text here.")
 
 Inputs/Outputs:
@@ -14,28 +14,36 @@ Inputs/Outputs:
 
 Environment:
   Requires OPENAI_API_KEY (e.g., in a local .env file).
+
+Implementation note:
+  The OpenAI client is initialized lazily on first use to avoid import-time
+  failures in offline workflows that don't require network access.
 """
 
 import json
 import re
 from openai import OpenAI
-from pathlib import Path
-from .config import settings
+from common.config import settings
 
-# Eagerly initialize the client so missing keys fail at import time
-client = OpenAI()
+# Lazy client init
+_client: OpenAI | None = None
+
+
+def _get_client() -> OpenAI:
+    global _client
+    if _client is None:
+        _client = OpenAI()
+    return _client
+
 
 # Path to the stored CKE prompt (from centralized config)
 CKE_PROMPT_PATH = settings.CKE_PROMPT_PATH
 
 
 def load_cke_prompt() -> str:
-    """
-    Load the Controlled Keyphrase Extractor prompt from disk.
-    """
+    """Load the Controlled Keyphrase Extractor prompt from disk."""
     if not CKE_PROMPT_PATH.exists():
         raise FileNotFoundError(f"CKE prompt not found at {CKE_PROMPT_PATH}")
-
     with open(CKE_PROMPT_PATH, "r") as f:
         return f.read()
 
@@ -53,27 +61,25 @@ def run_cke(text: str) -> list:
     base_prompt = load_cke_prompt()
     final_prompt = base_prompt + "\n\nTEXT:\n" + text
 
-    response = client.chat.completions.create(
+    response = _get_client().chat.completions.create(
         model=settings.OPENAI_CHAT_MODEL,
-        messages=[{"role": "user", "content": final_prompt}]
+        messages=[{"role": "user", "content": final_prompt}],
     )
 
-    # openai>=1.0 returns typed objects; use attribute access
     raw_output = response.choices[0].message.content
 
     try:
-        text = (raw_output or "").strip()
+        out_text = (raw_output or "").strip()
         # Some models may wrap JSON in triple backticks; strip if present
-        if text.startswith("```"):
-            # Extract content between first '[' and last ']'
-            start = text.find('[')
-            end = text.rfind(']')
+        if out_text.startswith("```"):
+            start = out_text.find("[")
+            end = out_text.rfind("]")
             if start != -1 and end != -1:
-                text = text[start:end+1]
-
-        extracted_phrases = json.loads(text)
+                out_text = out_text[start : end + 1]
+        extracted_phrases = json.loads(out_text)
         if not isinstance(extracted_phrases, list):
             raise ValueError("CKE output must be a JSON array of strings.")
         return extracted_phrases
     except Exception as e:
         raise ValueError(f"Failed to parse CKE output: {raw_output}\nError: {e}")
+

@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from pipeline.canonical_mapper import map_all_taxonomies
+from mapping.canonical_mapper import map_all_taxonomies
 
 
 def _load_example_phrases() -> list[str]:
@@ -38,4 +38,3 @@ def test_mission_not_from_reu():
     mapped = map_all_taxonomies(phrases)
     missions = _tags(mapped, "mission_tags")
     assert "undergraduate research experiences" not in missions
-

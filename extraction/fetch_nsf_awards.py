@@ -1,20 +1,4 @@
-"""
-Fetch NSF awarded grants via the public NSF Awards API and save as text files
-under data/grants/ that the existing pipeline can process.
-
-Endpoint: https://api.nsf.gov/services/v1/awards.json
-This public endpoint does not require an API key.
-
-Examples:
-- python -m pipeline.fetch_nsf_awards --since 2024-01-01 --max 2000
-- make nsf-awards-download  (see Makefile target)
-
-Notes:
-- Writes one .txt per award: first line is the award detail URL so the
-  grant_profile_builder uses it as `source.url` automatically.
-- Page through results using `offset` and `limit`. The API caps throughput;
-  a small pause is used to be polite.
-"""
+"""Fetch NSF awarded grants via public NSF Awards API into data/grants/."""
 
 from __future__ import annotations
 
@@ -26,7 +10,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, Iterator, List, Optional, Tuple
 
-from .config import settings
+from common.config import settings
+
 
 DEFAULT_OUT_DIR = (settings.REPO_ROOT / "data" / "grants").resolve()
 
@@ -85,13 +70,8 @@ class Award:
 
     @staticmethod
     def from_json(d: Dict) -> "Award":
-        # NSF awards API (api.nsf.gov/services/v1/awards.json) uses keys like:
-        # id, title, abstractText, piFirstName, piLastName, awardeeName,
-        # directorate, division, date, expDate, awardAmount, fundProgramName,
-        # programElementCode (list), etc.
         def g(k: str, default=None):
             return d.get(k, default)
-
         award_id = str(g("id", g("awardID", g("awardId", ""))))
         pi = None
         first = g("piFirstName") or g("pdPIFirstName")
@@ -105,7 +85,6 @@ class Award:
             prog_codes = [str(x) for x in pe]
         elif isinstance(pe, (str, int)):
             prog_codes = [str(pe)]
-
         return Award(
             id=award_id,
             title=g("title"),
@@ -124,10 +103,8 @@ class Award:
 
     def to_text(self) -> str:
         lines: List[str] = []
-        # First line URL recognized by the grant_profile_builder as source.url
         lines.append(self.award_url)
         lines.append("")
-
         if self.title:
             lines.append(f"Title: {self.title}")
         lines.append(f"Award ID: {self.id}")
@@ -147,13 +124,11 @@ class Award:
             lines.append(f"Expiration Date: {self.expiration_date}")
         if self.program_codes:
             lines.append(f"Program Codes: {', '.join(self.program_codes)}")
-
         lines.append("")
         if self.abstract:
             lines.append("Abstract:")
             lines.append(self.abstract.strip())
             lines.append("")
-
         try:
             lines.append("---")
             lines.append("Raw JSON (excerpt):")
@@ -161,18 +136,13 @@ class Award:
             lines.append(json.dumps(raw_small, indent=2))
         except Exception:
             pass
-
         return "\n".join(lines).rstrip() + "\n"
 
 
 def _build_url(offset: int, limit: int, since: Optional[dt.date], until: Optional[dt.date]) -> str:
     from urllib.parse import urlencode
-
     base = "https://api.nsf.gov/services/v1/awards.json"
-    q: Dict[str, str] = {
-        "offset": str(offset),  # API uses 1-based offsets
-        "limit": str(limit),
-    }
+    q: Dict[str, str] = {"offset": str(offset), "limit": str(limit)}
     if since:
         q["dateStart"] = _fmt_date(since) or ""
     if until:
@@ -192,8 +162,6 @@ def _fetch_page(offset: int, limit: int, since: Optional[dt.date], until: Option
         data = json.loads(body.decode("utf-8"))
     except Exception:
         return []
-
-    # Expected structure: {response: {award: [ ... ]}}
     items = []
     if isinstance(data, dict):
         resp = data.get("response") if isinstance(data.get("response"), dict) else data
@@ -203,7 +171,6 @@ def _fetch_page(offset: int, limit: int, since: Optional[dt.date], until: Option
                 items = aw
     elif isinstance(data, list):
         items = data
-
     awards: List[Award] = []
     for item in items:
         if isinstance(item, dict):
@@ -211,22 +178,14 @@ def _fetch_page(offset: int, limit: int, since: Optional[dt.date], until: Option
     return awards
 
 
-def iter_awards(
-    *,
-    since: Optional[dt.date],
-    until: Optional[dt.date],
-    limit: int = 100,
-    max_records: int = 10000,
-    pause_s: float = 0.2,
-) -> Iterator[Award]:
-    offset = 1  # NSF API nominally uses 1-based offset; try 0 as fallback if empty
+def iter_awards(*, since: Optional[dt.date], until: Optional[dt.date], limit: int = 100, max_records: int = 10000, pause_s: float = 0.2) -> Iterator[Award]:
+    offset = 1
     yielded = 0
     tried_zero = False
     while True:
         items = _fetch_page(offset, limit, since, until)
         if not items:
             if offset == 1 and not tried_zero:
-                # Some environments/APIs may expect 0-based offset
                 tried_zero = True
                 offset = 0
                 continue
@@ -269,9 +228,7 @@ def main(argv: Optional[List[str]] = None) -> int:
     until = _parse_date(args.until) if args.until else None
     page_size = max(1, int(args.page_size))
     max_records = max(1, int(args.max))
-
     print(f"[awards] since={since} until={until} page_size={page_size} max={max_records}")
-
     count = 0
     written = 0
     for aw in iter_awards(since=since, until=until, limit=page_size, max_records=max_records):
@@ -285,7 +242,6 @@ def main(argv: Optional[List[str]] = None) -> int:
             print(f"[ok] {path.name}")
         except Exception as e:
             print(f"[warn] failed to write nsf_award_{aw.id}: {e}")
-
     if args.dry_run:
         print(f"[done] listed {count} awards (no files written)")
     else:
@@ -295,3 +251,4 @@ def main(argv: Optional[List[str]] = None) -> int:
 
 if __name__ == "__main__":  # pragma: no cover
     raise SystemExit(main())
+

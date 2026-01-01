@@ -1,17 +1,4 @@
-"""
-Merge auto-generated synonyms into curated synonym files.
-
-For each taxonomy, load:
- - Manual/curated map: data/taxonomy/synonyms/<name>_synonyms.json (if present)
- - Auto map:           data/taxonomy/synonyms/<name>_synonyms.auto.json (if present)
-
-Then write back a single curated file (manual takes precedence on conflicts).
-Optionally delete the auto files with --delete-auto.
-
-Usage:
-  python -m pipeline.merge_auto_synonyms --all [--delete-auto]
-  python -m pipeline.merge_auto_synonyms --names mission_tags population_tags --delete-auto
-"""
+"""Merge auto-generated synonyms into curated synonym files."""
 
 from __future__ import annotations
 
@@ -20,7 +7,7 @@ import json
 from pathlib import Path
 from typing import Dict, List
 
-from .config import settings
+from common.config import settings
 
 
 def _load_map(path: Path) -> Dict[str, str]:
@@ -30,7 +17,6 @@ def _load_map(path: Path) -> Dict[str, str]:
         data = json.load(f)
     if not isinstance(data, dict):
         return {}
-    # Keep only string→string
     out: Dict[str, str] = {}
     for k, v in data.items():
         if isinstance(k, str) and isinstance(v, str) and k and v:
@@ -39,7 +25,6 @@ def _load_map(path: Path) -> Dict[str, str]:
 
 
 def _write_map(path: Path, m: Dict[str, str]) -> None:
-    # Sort keys for stable diffs
     items = {k: m[k] for k in sorted(m.keys(), key=lambda x: x.lower())}
     with open(path, "w") as f:
         json.dump(items, f, indent=2)
@@ -53,16 +38,11 @@ def merge_for_taxonomy(name: str, delete_auto: bool = False) -> Path | None:
 
     manual = _load_map(manual_path)
     auto = _load_map(auto_path)
-
     if not manual and not auto:
         return None
-
-    # manual precedence
     merged = dict(auto)
     merged.update(manual)
-
     _write_map(manual_path, merged)
-
     if delete_auto and auto_path.exists():
         try:
             auto_path.unlink()
@@ -79,7 +59,6 @@ def main(argv=None) -> int:
     parser.add_argument("--delete-auto", action="store_true", help="Delete *.auto.json after merging.")
     args = parser.parse_args(argv)
 
-    names: List[str]
     if args.names:
         names = args.names
     elif args.all:

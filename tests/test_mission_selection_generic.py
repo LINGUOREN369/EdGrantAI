@@ -2,8 +2,8 @@ import json
 import re
 from pathlib import Path
 
-from pipeline.canonical_mapper import map_all_taxonomies
-from pipeline.section_utils import assign_sections_to_phrases
+from mapping.canonical_mapper import map_all_taxonomies
+from extraction.section_utils import assign_sections_to_phrases
 
 
 def _load_profile(name: str):
@@ -48,4 +48,3 @@ def test_ate_prefers_program_title_over_generic_pathways():
     assert any("advanced technological education" in m or "technician" in m for m in missions)
     # If 'educational pathways' is present, it should not be the only mission
     assert not (len(missions) == 1 and any("educational pathways" in m for m in missions))
-

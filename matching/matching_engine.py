@@ -1,37 +1,4 @@
-"""
-Matching engine: rank grant profiles for a given organization profile.
-
-Scoring logic (configurable via pipeline.config.settings):
-- Mission overlap (weight)
-- Population overlap (weight)
-- Geography overlap (weight)
-- Org type match (binary, weight)
-- Red flags (penalty multiplier when present)
-
-CLI usage:
-- Single org vs. directory of grant profiles (JSON):
-  - python -m pipeline.matching_engine --org data/processed_orgs/mmsa_profile.json --grants data/processed_grants --top 10
-- Output to a JSON file:
-  - python -m pipeline.matching_engine --org ... --grants ... --out recs.json
-
-Output structure:
-{
-  "org_profile": "mmsa_profile.json",
-  "recommendations": [
-    {
-      "grant_profile": "nsf_AISL_profile.json",
-      "score": 0.71,
-      "bucket": "Apply",
-      "deadlines": ["2025-01-08"],
-      "deadline_status": "date",
-      "funding_min": 5000,
-      "funding_max": 50000,
-      "reasons": ["Mission overlap: [...]", "Population overlap: [...]", "Org type ok: [...]", "Geography overlap: [...]", "Red flags: [...]"]
-    },
-    ...
-  ]
-}
-"""
+"""Matching engine: rank grant profiles for a given organization profile."""
 
 from __future__ import annotations
 
@@ -40,28 +7,21 @@ import json
 from pathlib import Path
 from typing import Dict, Iterable, List, Set, Tuple, Optional
 
-from .config import settings
+from common.config import settings
+from mapping.embedding_matcher import load_taxonomy_embeddings, cosine_similarity
+
 
 def _load_text(path: Path) -> str:
     with open(path, "r", encoding="utf-8") as f:
         return f.read()
 
-def _generate_explanation(
-    org: Dict,
-    grant: Dict,
-    overlap: Dict[str, List[str]],
-) -> Optional[Dict]:
-    """
-    Generate an Apply/Maybe/Avoid explanation via the matching explainer prompt.
-    Returns a dict with keys {recommendation, bullets} or None on failure.
-    """
+
+def _generate_explanation(org: Dict, grant: Dict, overlap: Dict[str, List[str]]) -> Optional[Dict]:
     try:
         from openai import OpenAI
     except Exception:
         return None
-
     prompt = _load_text(settings.MATCHING_EXPLAINER_PROMPT_PATH)
-
     payload = {
         "org": {
             "id": org.get("org_id"),
@@ -83,9 +43,7 @@ def _generate_explanation(
             "funding": grant.get("funding", {}),
         },
     }
-
-    final_prompt = prompt + "\n\nINPUT:\n" + __import__("json").dumps(payload, indent=2)
-
+    final_prompt = prompt + "\n\nINPUT:\n" + json.dumps(payload, indent=2)
     try:
         client = OpenAI()
         resp = client.chat.completions.create(
@@ -98,10 +56,9 @@ def _generate_explanation(
             e = text.rfind("]") if "]" in text else text.rfind("}")
             if s != -1 and e != -1:
                 text = text[s : e + 1]
-        data = __import__("json").loads(text)
+        data = json.loads(text)
         if not isinstance(data, dict):
             return None
-        # Normalize keys
         rec = data.get("recommendation")
         bullets = data.get("bullets") if isinstance(data.get("bullets"), list) else None
         if not rec or not bullets:
@@ -109,12 +66,10 @@ def _generate_explanation(
         return {"recommendation": rec, "bullets": bullets}
     except Exception:
         return None
-from .embedding_matcher import load_taxonomy_embeddings, cosine_similarity
 
-# Cache taxonomy embeddings in memory to avoid re-reading large JSON files for
-# every grant scored. Keys are taxonomy file basenames (e.g., 'mission_tags').
+
+# Cache taxonomy embeddings
 _EMB_CACHE: dict[str, dict] = {}
-
 
 TAX_KEYS = [
     "mission_tags",
@@ -141,19 +96,7 @@ def _overlap_ratio(org_tags: Set[str], grant_tags: Set[str]) -> float:
     return len(org_tags & grant_tags) / max(1, len(org_tags))
 
 
-def _semantic_overlap(
-    taxonomy_name: str,
-    org_tags: Set[str],
-    grant_tags: Set[str],
-) -> float:
-    """
-    Compute semantic overlap between org and grant tag sets for a taxonomy
-    using precomputed taxonomy tag embeddings. For each org tag, take the
-    maximum cosine similarity to any grant tag, then average across org tags.
-
-    Similarities below MATCH_TAX_SIM_THRESHOLD are treated as zero.
-    Fallback to exact overlap ratio if embeddings are missing or tag not found.
-    """
+def _semantic_overlap(taxonomy_name: str, org_tags: Set[str], grant_tags: Set[str]) -> float:
     if not org_tags:
         return 0.0
     try:
@@ -166,13 +109,12 @@ def _semantic_overlap(
             return _overlap_ratio(org_tags, grant_tags)
     except Exception:
         return _overlap_ratio(org_tags, grant_tags)
-
     threshold = settings.MATCH_TAX_SIM_THRESHOLD
     scores = []
+    import numpy as _np
     for ot in org_tags:
         vec_o = emb.get(ot)
         if not vec_o:
-            # unknown tag in embeddings: fallback to exact membership
             scores.append(1.0 if ot in grant_tags else 0.0)
             continue
         best = 0.0
@@ -180,31 +122,22 @@ def _semantic_overlap(
             vec_g = emb.get(gt)
             if not vec_g:
                 continue
-            sim = cosine_similarity(__import__('numpy').array(vec_o), __import__('numpy').array(vec_g))
+            sim = cosine_similarity(_np.array(vec_o), _np.array(vec_g))
             if sim > best:
                 best = sim
         scores.append(best if best >= threshold else 0.0)
-    # Average across org tags
     return float(sum(scores) / len(scores)) if scores else 0.0
 
 
 def _geography_overlap(org_tags: Set[str], grant_tags: Set[str]) -> float:
-    """Geography with simple superset rules.
-
-    - If grant includes us_national → full match when org has any US geography tag.
-    - Otherwise use exact overlap ratio.
-    """
     if not org_tags:
         return 0.0
     if "us_national" in grant_tags:
-        # Treat as superset; if org has any geography tag, count full
         return 1.0 if org_tags else 0.0
     return _overlap_ratio(org_tags, grant_tags)
 
 
 def _hard_block(org_type_tags: Set[str], grant_red_flags: Set[str]) -> bool:
-    """Return True if any configured red-flag hard block applies and org types
-    do not satisfy the requirement."""
     rules = settings.MATCH_HARD_BLOCKS
     for rf in grant_red_flags:
         rule = rules.get(rf)
@@ -219,48 +152,35 @@ def _hard_block(org_type_tags: Set[str], grant_red_flags: Set[str]) -> bool:
 def _score_and_reasons(org: Dict, grant: Dict) -> Tuple[float, str, List[str]]:
     o = {k: _tag_set(org, k) for k in TAX_KEYS}
     g = {k: _tag_set(grant, k) for k in TAX_KEYS}
-
-    # Hard block on certain red flags
     red_flags_set = set(g["red_flag_tags"]) if g["red_flag_tags"] else set()
     if _hard_block(o["org_type_tags"], red_flags_set):
         return 0.0, "Avoid", [f"Hard block due to red flags: {sorted(red_flags_set)}"]
-
     w = settings.MATCH_WEIGHTS
     mission = _semantic_overlap("mission_tags", o["mission_tags"], g["mission_tags"]) * w["mission_tags"]
     pop = _semantic_overlap("population_tags", o["population_tags"], g["population_tags"]) * w["population_tags"]
     geo = _geography_overlap(o["geography_tags"], g["geography_tags"]) * w["geography_tags"]
     orgtype = (1.0 if (o["org_type_tags"] & g["org_type_tags"]) else 0.0) * w["org_type_tags"]
-
     score = mission + pop + geo + orgtype
-
     if red_flags_set:
         score *= settings.MATCH_RED_FLAG_PENALTY
-
     score = round(score, 3)
-
     if score >= settings.MATCH_APPLY_THRESHOLD:
         bucket = "Apply"
     elif score >= settings.MATCH_MAYBE_THRESHOLD:
         bucket = "Maybe"
     else:
         bucket = "Avoid"
-
     reasons: List[str] = []
-    if o["mission_tags"]:
-        inter = o["mission_tags"] & g["mission_tags"]
-        if inter:
-            reasons.append(f"Mission overlap: {sorted(inter)}")
-    if o["population_tags"]:
-        inter = o["population_tags"] & g["population_tags"]
-        if inter:
-            reasons.append(f"Population overlap: {sorted(inter)}")
+    if o["mission_tags"] & g["mission_tags"]:
+        reasons.append(f"Mission overlap: {sorted(o['mission_tags'] & g['mission_tags'])}")
+    if o["population_tags"] & g["population_tags"]:
+        reasons.append(f"Population overlap: {sorted(o['population_tags'] & g['population_tags'])}")
     if o["org_type_tags"] & g["org_type_tags"]:
         reasons.append(f"Org type ok: {sorted(o['org_type_tags'] & g['org_type_tags'])}")
     if o["geography_tags"] & g["geography_tags"]:
         reasons.append(f"Geography overlap: {sorted(o['geography_tags'] & g['geography_tags'])}")
     if red_flags_set:
         reasons.append(f"Red flags: {sorted(red_flags_set)}")
-
     return score, bucket, reasons
 
 
@@ -283,9 +203,7 @@ def recommend(org_profile_path: Path, grants_dir: Path, top: int = 10, explain: 
                 "funding_max": fd.get("estimated_max"),
                 "reasons": reasons,
             }
-
             if explain:
-                # Compute explicit overlaps for the explainer input
                 o = {k: _tag_set(org, k) for k in TAX_KEYS}
                 gg = {k: _tag_set(g, k) for k in TAX_KEYS}
                 overlap = {
@@ -300,30 +218,26 @@ def recommend(org_profile_path: Path, grants_dir: Path, top: int = 10, explain: 
             recs.append(item)
         except Exception as e:
             recs.append({"grant_profile": p.name, "error": str(e)})
-
     recs.sort(key=lambda x: x.get("score", 0.0), reverse=True)
     return {"org_profile": org_profile_path.name, "recommendations": recs[:top] if top else recs}
 
 
 def _main(argv=None) -> int:
     parser = argparse.ArgumentParser(description="Rank grants for an org profile using tag overlaps.")
-    parser.add_argument("--org", required=True, help="Path to org profile JSON (from org_profile_builder).")
+    parser.add_argument("--org", required=True, help="Path to org profile JSON.")
     parser.add_argument("--grants", default=str((settings.PROCESSED_GRANTS_DIR).resolve()), help="Directory of grant profile JSONs.")
     parser.add_argument("--top", type=int, default=10, help="Top-N results to return (0 = all).")
-    parser.add_argument("--out", help="Optional output JSON file path (writes recommendations).")
-    parser.add_argument("--explain", action="store_true", help="Include LLM-generated explanation bullets in each recommendation.")
-
+    parser.add_argument("--out", help="Optional output JSON file path.")
+    parser.add_argument("--explain", action="store_true", help="Include LLM-generated explanation bullets.")
     args = parser.parse_args(argv)
     org_path = Path(args.org)
     grants_dir = Path(args.grants)
-
     if not org_path.exists():
         print(f"[error] Org profile not found: {org_path}")
         return 1
     if not grants_dir.exists() or not grants_dir.is_dir():
         print(f"[error] Grants directory not found: {grants_dir}")
         return 1
-
     result = recommend(org_path, grants_dir, top=args.top, explain=args.explain)
     if args.out:
         out_path = Path(args.out)
@@ -336,3 +250,4 @@ def _main(argv=None) -> int:
 
 if __name__ == "__main__":  # pragma: no cover
     raise SystemExit(_main())
+

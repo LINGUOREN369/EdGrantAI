@@ -1,18 +1,4 @@
-"""
-One-shot convenience wrapper to rebuild data/grants/ from a CSV with
-recommended settings:
-
-- Overwrite existing .txt files
-- Prune filtered rows (non-grants or missing sections)
-- Require all four sections (I–IV) to be present on the solicitation page
-
-Usage:
-  python -m pipeline.refresh_grants [--csv PATH] [--out-dir DIR]
-
-Defaults:
-  CSV auto-detected (prefers data/NSF_database/nsf_funding.csv)
-  out-dir = data/grants
-"""
+"""Refresh grant text files from a CSV with filtering + section extraction."""
 
 from __future__ import annotations
 
@@ -20,8 +6,8 @@ import argparse
 from pathlib import Path
 from typing import Optional
 
-from .build_grants_from_csv import process_csv, _resolve_csv_path
-from .config import settings
+from extraction.build_grants_from_csv import process_csv, _resolve_csv_path
+from common.config import settings
 
 
 def _parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:

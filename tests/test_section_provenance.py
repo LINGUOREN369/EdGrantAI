@@ -2,8 +2,8 @@ import json
 import re
 from pathlib import Path
 
-from pipeline.canonical_mapper import map_all_taxonomies
-from pipeline.section_utils import assign_sections_to_phrases
+from mapping.canonical_mapper import map_all_taxonomies
+from extraction.section_utils import assign_sections_to_phrases
 
 
 def load_example_profile():
@@ -62,4 +62,3 @@ def test_mapping_with_provenance():
 
     missions = {d.get("tag") for d in mapped.get("mission_tags", [])}
     assert "undergraduate research experiences" not in missions
-

@@ -7,32 +7,31 @@ Provides:
   - cosine_similarity: compute cosine similarity
   - match_phrase_to_tag: match a phrase to the best taxonomy tag
 
-Usage examples:
-  - from pipeline.embedding_matcher import embed_canonical_tags
-    embed_canonical_tags(["literacy", "STEM"], "data/taxonomy/embeddings/example.json")
-  - from pipeline.embedding_matcher import match_phrase_to_tag
-    best_tag, score = match_phrase_to_tag("robotics clubs", {"robotics_education": [0.0, ...]})
-
 Environment:
   Requires OPENAI_API_KEY (e.g., in a local .env file).
-  Uses model: text-embedding-3-small.
+  Model is configured via settings (OPENAI_EMBEDDING_MODEL).
 """
 
 import json
 import numpy as np
-from openai import OpenAI
 from pathlib import Path
-from .config import settings
+from typing import Dict, Tuple
+from openai import OpenAI
+from common.config import settings
 
-# Eagerly initialize the client so missing keys fail at import time
-client = OpenAI()
+# Lazy-initialize OpenAI client to avoid import-time failures in offline tasks
+_client: OpenAI | None = None
+
+
+def _get_client() -> OpenAI:
+    global _client
+    if _client is None:
+        _client = OpenAI()
+    return _client
 
 
 def load_taxonomy_embeddings(path: str) -> dict:
-    """
-    Load or initialize embeddings for canonical taxonomy tags.
-    Expecting a JSON mapping: {"tag": embedding_vector}
-    """
+    """Load or initialize embeddings for canonical taxonomy tags."""
     taxonomy_path = Path(path)
     if taxonomy_path.exists():
         with open(taxonomy_path, "r") as f:
@@ -46,17 +45,21 @@ def save_taxonomy_embeddings(path: str, data: dict):
         json.dump(data, f, indent=2)
 
 
+# Simple in-memory cache to avoid recomputing embeddings for the same (model, phrase)
+_PHRASE_EMBED_CACHE: Dict[Tuple[str, str], np.ndarray] = {}
+
+
 def embed_text(text: str) -> np.ndarray:
-    """
-    Generate an embedding for a given piece of text using OpenAI embeddings.
-    Returns a numpy array.
-    """
-    response = client.embeddings.create(
-        model=settings.OPENAI_EMBEDDING_MODEL,
-        input=text
-    )
-    embedding = response.data[0].embedding
-    return np.array(embedding, dtype=float)
+    """Generate an embedding for a given piece of text using OpenAI embeddings."""
+    model = settings.OPENAI_EMBEDDING_MODEL
+    key = (model, text)
+    cached = _PHRASE_EMBED_CACHE.get(key)
+    if cached is not None:
+        return cached
+    response = _get_client().embeddings.create(model=model, input=text)
+    embedding = np.array(response.data[0].embedding, dtype=float)
+    _PHRASE_EMBED_CACHE[key] = embedding
+    return embedding
 
 
 def cosine_similarity(vec1: np.ndarray, vec2: np.ndarray) -> float:
@@ -68,9 +71,7 @@ def cosine_similarity(vec1: np.ndarray, vec2: np.ndarray) -> float:
 
 
 def embed_canonical_tags(tag_list: list, output_path: str):
-    """
-    Create embeddings for a list of canonical tags and save them.
-    """
+    """Create embeddings for a list of canonical tags and save them."""
     embeddings = {}
     for tag in tag_list:
         embeddings[tag] = embed_text(tag).tolist()
@@ -78,39 +79,27 @@ def embed_canonical_tags(tag_list: list, output_path: str):
 
 
 def match_phrase_to_tag(phrase: str, taxonomy_embeddings: dict) -> tuple:
-    """
-    Given an extracted phrase and taxonomy embeddings,
-    compute similarity against all canonical tags.
-
-    Returns (best_tag, best_score)
-    """
+    """Given an extracted phrase and taxonomy embeddings, return (best_tag, score)."""
     phrase_vec = embed_text(phrase)
-
     best_tag = None
     best_score = -1
-
     for tag, emb in taxonomy_embeddings.items():
-        tag_vec = np.array(emb, dtype=float)
-        score = cosine_similarity(phrase_vec, tag_vec)
+        score = cosine_similarity(phrase_vec, np.array(emb, dtype=float))
         if score > best_score:
             best_score = score
             best_tag = tag
-
     return best_tag, float(best_score)
 
 
 def top_k_matches(phrase: str, taxonomy_embeddings: dict, k: int = 5) -> list:
-    """
-    Return the top-k (tag, score) matches for a phrase against taxonomy embeddings.
-    Results sorted by score descending.
-    """
+    """Return the top-k (tag, score) matches for a phrase against taxonomy embeddings."""
     if k <= 0:
         k = 1
     phrase_vec = embed_text(phrase)
     scored = []
     for tag, emb in taxonomy_embeddings.items():
-        tag_vec = np.array(emb, dtype=float)
-        score = cosine_similarity(phrase_vec, tag_vec)
+        score = cosine_similarity(phrase_vec, np.array(emb, dtype=float))
         scored.append((tag, float(score)))
     scored.sort(key=lambda x: x[1], reverse=True)
     return scored[:k]
+
