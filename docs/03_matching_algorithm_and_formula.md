@@ -1,44 +1,28 @@
-# Matching Engine Scoring (Transparent Example)
+# Matching Algorithm and Formula
 
-This document explains how the matching engine in `matching/matching_engine.py` computes scores, including the exact formula and a worked example.
+This document explains how scores are computed in `matching/matching_engine.py`, including the formula and a full worked example.
 
 ---
 
-## What the engine uses
+## Inputs to scoring
 
 For each organization and grant profile:
-- `canonical_tags` for each taxonomy
-- Each tag includes a `confidence` value in the range 0.0 to 1.0
+- Canonical tags per taxonomy (with confidence scores)
+- Red flags (for penalties and hard blocks)
 
 Taxonomies used in scoring:
-- Mission tags (semantic similarity with threshold)
-- Population tags (semantic similarity with threshold)
-- Organization type tags (exact match only)
-- Geography tags (exact match only; "us_national" is treated as a full match)
-
-Red flags:
-- Some red flags hard-block eligibility.
-- Otherwise a red-flag penalty multiplier is applied.
+- Mission (semantic similarity)
+- Population (semantic similarity)
+- Organization type (exact match)
+- Geography (exact match, with a "us_national" override)
 
 ---
 
-## Tag confidence handling
+## Overlap calculation (per taxonomy)
 
-If a tag appears multiple times in the same profile, the engine keeps the **highest confidence** for that tag.
+The engine computes a symmetric, confidence-weighted overlap.
 
-Confidence is used as a weight:
-- A confidence of 1.00 gives full impact.
-- A confidence of 0.50 gives half impact.
-
----
-
-## Overlap formula (per taxonomy)
-
-The engine computes a **symmetric confidence-weighted overlap**.
-
-### Directional overlap (organization to grant)
-
-For each organization tag, take the best matching grant tag:
+Directional overlap (organization to grant):
 
 ```text
 directional_overlap(organization -> grant) =
@@ -55,7 +39,7 @@ best_match_value = max over grant tags of:
     similarity(organization_tag, grant_tag) * grant_confidence
 ```
 
-### Symmetric overlap
+Symmetric overlap:
 
 ```text
 symmetric_overlap =
@@ -63,13 +47,9 @@ symmetric_overlap =
    + directional_overlap(grant -> organization)) / 2
 ```
 
-### Similarity rules
-
-- If embeddings exist for the taxonomy:
-  - `similarity` is cosine similarity
-  - if similarity is below the threshold and the tags are not identical, use 0
-- If embeddings do not exist (or are not used for that taxonomy):
-  - `similarity` is 1 for exact tag match, otherwise 0
+Similarity rules:
+- If embeddings exist: cosine similarity, with a minimum threshold.
+- If embeddings do not exist: exact match only (1 or 0).
 
 ---
 
@@ -86,11 +66,18 @@ if red_flags_present:
   score = score * red_flag_penalty
 ```
 
-Default weights live in `common/config.py`:
+Default weights in `common/config.py`:
 - Mission: 0.50
 - Population: 0.40
 - Organization type: 0.40
 - Geography: 0.10
+
+Hard blocks:
+- Certain red flags enforce eligibility rules (for example: "universities_only").
+- If the organization does not meet the required type, the score is forced to 0.
+
+Buckets:
+- `Apply` and `Maybe` thresholds are configurable in `common/config.py`.
 
 ---
 
@@ -137,9 +124,9 @@ Geography:
 
 ### Mission similarity values (cosine)
 
-- STEM education ↔ science education = 0.72
-- teacher professional learning ↔ teacher development = 0.68
-- informal STEM learning ↔ science education = 0.55
+- STEM education <-> science education = 0.72
+- teacher professional learning <-> teacher development = 0.68
+- informal STEM learning <-> science education = 0.55
 - All other pairs are below 0.50 and are ignored
 
 ---

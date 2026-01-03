@@ -31,15 +31,14 @@ EdGrantAI was built to solve this specific problem. It is an evidence-bound deci
 
 Start here for details and rationale:
 
-- Project profile: [docs/project_profile.md](docs/project_profile.md)
-- Matching engine scoring and worked example: [docs/matching_engine_scoring.md](docs/matching_engine_scoring.md)
-- Grant profile build process: [docs/grant_profile_build.md](docs/grant_profile_build.md)
-- Mapping funnel and taxonomy rules: [docs/mapping_funnel.md](docs/mapping_funnel.md)
-- Organization profile rules: [docs/org_profile_rules.md](docs/org_profile_rules.md)
-- Tagging pipeline overview: [docs/Tagging Pipeline Overview.md](docs/Tagging%20Pipeline%20Overview.md)
-- Design reasoning: [docs/design_reasoning.md](docs/design_reasoning.md)
+- Architecture design: [docs/architecture_design.md](docs/architecture_design.md)
+- Data source and handling: [docs/data_source_and_handling.md](docs/data_source_and_handling.md)
+- Extraction: [docs/extraction.md](docs/extraction.md)
+- Profile building: [docs/profile_building.md](docs/profile_building.md)
+- Matching algorithm and formula: [docs/matching_algorithm_and_formula.md](docs/matching_algorithm_and_formula.md)
+- Makefile commands: [docs/makefile_commands.md](docs/makefile_commands.md)
+- Repository structure: [docs/repo_structure.md](docs/repo_structure.md)
 - Case study: [docs/EdGrantAI_Case_Study.md](docs/EdGrantAI_Case_Study.md)
-- Professor pitch: [docs/professor_pitch.md](docs/professor_pitch.md)
 - Diagrams: [docs/structure.png](docs/structure.png), [docs/workflow.png](docs/workflow.png)
 
 ## Common commands
