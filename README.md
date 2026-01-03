@@ -1,10 +1,8 @@
 # EdGrant AI
 
-<p align="center">
-  <img src="docs/cover.svg" alt="EdGrant AI - Transparent grant matching for education nonprofits" width="100%" />
-</p>
+For small education nonprofits, the grant landscape is often inequitable. Large institutions have dedicated teams to parse complex solicitation documents (RFPs), while smaller organizations rely on overworked staff who lose 10–100 hours on a single proposal depending on the size of the grant and often for grants they were never eligible for in the first place.
 
-EdGrant AI is a lightweight, transparent grant-matching system for education nonprofits. It is NSF-first and designed to be low-maintenance and explainable.
+EdGrantAI was built to solve this specific problem. It is an evidence-bound decision engine that converts complex NSF solicitations into clear, actionable intelligence. This case study illustrates how nonprofits can move beyond "playing with ChatGPT" to building specialized, transparent tools that solve mission-critical problems.
 
 ## What it does
 
@@ -33,16 +31,16 @@ EdGrant AI is a lightweight, transparent grant-matching system for education non
 
 Start here for details and rationale:
 
-- Project profile: `docs/project_profile.md`
-- Matching engine scoring and worked example: `docs/matching_engine_scoring.md`
-- Grant profile build process: `docs/grant_profile_build.md`
-- Mapping funnel and taxonomy rules: `docs/mapping_funnel.md`
-- Organization profile rules: `docs/org_profile_rules.md`
-- Tagging pipeline overview: `docs/Tagging Pipeline Overview.md`
-- Design reasoning: `docs/design_reasoning.md`
-- Case study: `docs/EdGrantAI_Case_Study.md`
-- Professor pitch: `docs/professor_pitch.md`
-- Diagrams: `docs/structure.png`, `docs/workflow.png`
+- Project profile: [docs/project_profile.md](docs/project_profile.md)
+- Matching engine scoring and worked example: [docs/matching_engine_scoring.md](docs/matching_engine_scoring.md)
+- Grant profile build process: [docs/grant_profile_build.md](docs/grant_profile_build.md)
+- Mapping funnel and taxonomy rules: [docs/mapping_funnel.md](docs/mapping_funnel.md)
+- Organization profile rules: [docs/org_profile_rules.md](docs/org_profile_rules.md)
+- Tagging pipeline overview: [docs/Tagging Pipeline Overview.md](docs/Tagging%20Pipeline%20Overview.md)
+- Design reasoning: [docs/design_reasoning.md](docs/design_reasoning.md)
+- Case study: [docs/EdGrantAI_Case_Study.md](docs/EdGrantAI_Case_Study.md)
+- Professor pitch: [docs/professor_pitch.md](docs/professor_pitch.md)
+- Diagrams: [docs/structure.png](docs/structure.png), [docs/workflow.png](docs/workflow.png)
 
 ## Common commands
 
