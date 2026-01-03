@@ -1,0 +1,104 @@
+{
+  "org_id": "phet_interactive_simulations_based_at_the",
+  "created_at": "2026-01-03T11:12:58.723654-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "PhET Interactive Simulations",
+    "University of Colorado Boulder",
+    "nonprofit",
+    "science and math education",
+    "under-resourced classrooms",
+    "conflict-affected regions",
+    "Ukraine",
+    "Ethiopia",
+    "student engagement",
+    "agency",
+    "inclusion",
+    "international recognition",
+    "American Physical Society",
+    "Open Education Global",
+    "WISE Awards",
+    "Community Partners",
+    "financial and organizational sustainability",
+    "earned revenue streams",
+    "education ministries",
+    "SaaS platform",
+    "PhET Studio",
+    "mobile app sales",
+    "freemium models",
+    "mission-aligned revenue strategies"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "science education",
+        "source_text": "science and math education",
+        "confidence": 0.7691,
+        "sources": [
+          "science and math education"
+        ]
+      },
+      {
+        "tag": "mathematics education",
+        "source_text": "science and math education",
+        "confidence": 0.731,
+        "sources": [
+          "science and math education"
+        ]
+      },
+      {
+        "tag": "STEM education",
+        "source_text": "science and math education",
+        "confidence": 0.7101,
+        "sources": [
+          "science and math education"
+        ]
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "ministries of education",
+        "source_text": "education ministries",
+        "confidence": 0.8197,
+        "sources": [
+          "education ministries"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "nonprofit",
+        "source_text": "nonprofit",
+        "confidence": 1.0
+      },
+      {
+        "tag": "501(c)(3) nonprofit",
+        "source_text": "derived: nonprofit mention in org text",
+        "confidence": 0.99
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "single state",
+        "source_text": "derived: state name 'Colorado' in org text",
+        "confidence": 0.99
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "validation": {
+    "rules_version": "0.0.10+",
+    "notes": [
+      "Dictionary-first; geography explicit or derived from state name",
+      "Restricted mission tags require explicit signals",
+      "Grade-band suppression if only generic K\u201312",
+      "Policy tag requires policy/advocacy signals",
+      "Population tags require explicit cues; no 'school districts' population",
+      "Org-specific thresholds applied"
+    ]
+  },
+  "source": {
+    "path": null,
+    "url": null
+  }
+}

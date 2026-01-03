@@ -1,0 +1,129 @@
+{
+  "org_profile": "phet_interactive_simulations_based_at_the_profile.json",
+  "recommendations": [
+    {
+      "grant_profile": "nsf_nsf_stem_k_12_stem_k_12_profile.json",
+      "score": 0.387,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$30,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/stem-k-12-nsf-stem-k-12/nsf25-545/solicitation",
+      "reasons": [
+        "Org type ok: ['nonprofit']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check.",
+      "explanation": "This grant primarily seeks applications from organizations focused on K-12 education and informal settings, but there is no direct overlap with the mission areas (STEM education, mathematics education, science education) identified for your nonprofit. Furthermore, your target population includes ministries of education, which may not align with the populations typically served by this grant. Given that there are no specific red flags, the hard eligibility mismatch regarding the targeted populations and mission areas suggests that this grant may not be suitable for your organization.",
+      "synopsis": "The NSF STEM K-12 program in the Division of Research on Learning in Formal and Informal Settings (DRL) in the Directorate for STEM Education (EDU) supports fundamental, applied, and translational research that advances STEM teaching and learning and improves understanding of education across the human lifespan and a range of formal and informal settings."
+    },
+    {
+      "grant_profile": "nsf_collaboratory_to_advance_mathematics_education_and_learning_for_k_12_profile.json",
+      "score": 0.335,
+      "bucket": "Avoid",
+      "deadline": "2026-01-09",
+      "anticipated_funding_amount": "$9,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/collaboratory-advance-mathematics-education-learning-k-12/nsf26-501/solicitation",
+      "reasons": [
+        "Org type ok: ['nonprofit']"
+      ],
+      "explanation": "The grant does not align with the organization's mission tags relating to STEM and mathematics education, as there are no overlaps in mission or population tags. The organization serves ministries of education, which does not match the intended audience for K-12 mathematics education targeted by the grant. While the organization is eligible as a nonprofit, the lack of critical alignment makes this proposal unlikely to be fruitful.",
+      "synopsis": "The Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12 initiative aims to advance mathematics learning and education through purposeful collaboration that draws on the interdisciplinary Science of Learning (including neuroscience; cognitive, developmental, and social sciences; computer science; machine learning; engineering; and education research), deep experiences in education practice and teaching, and innovations in the use of data science, AI and technology. Through an agreement with philanthropic partners, including the Walton Family Foundation (WFF), CAMEL consists of two phases. Phase I invites proposals for the creation of new research networks to support the generation of high value datasets that aim to advance math learning and education. These research networks must include researchers who study the basic science of learning, education practitioners, and data scientists. The high value dataset may come from either generating a new dataset or by increasing the value of an existing dataset. Phase II, open only to awardees of Phase I, establishes a \u201ccollaboratory,\u201d which is a socio-technological platform that prioritizes community-building and capacity-building to sustain collaborative efforts to advance math learning and education in K-12.\u00a0Expanding Participation in STEM, NSF Priorities and Gold Standard Science:NSF prioritizes cutting-edge discovery science and engineering research, advancing technology and innovation, and creating opportunities for all Americans. NSF has established priorities set forth by Congress, the administration and the NSF director to promote\u00a0NSF's mission. Proposers should review the list of\u00a0NSF priorities\u00a0and are encouraged to align their proposals with them, where appropriate. NSF also expects the highest standards of scientific rigor, integrity and adherence to appropriate tenets of\u00a0Gold Standard Science\u00a0in proposals, as appropriate for the field of science and research modality."
+    },
+    {
+      "grant_profile": "nsf_expeditions_in_computing_expeditions_profile.json",
+      "score": 0.316,
+      "bucket": "Avoid",
+      "deadline": "2026-06-22",
+      "anticipated_funding_amount": "$60,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/expeditions-expeditions-computing/nsf20-544/solicitation",
+      "reasons": [
+        "Org type ok: ['nonprofit']"
+      ],
+      "explanation": "This grant is not a good fit for your organization, as there are significant mismatches in both the mission and population tags, with no overlap identified. While your organization qualifies as a nonprofit, the lack of alignment in mission (STEM education and mathematics education) and specific populations (ministries of education) means the objectives of the grant may not align with your organization's work. Moreover, the absence of red flags does not compensate for these eligibility gaps. Thus, it is advisable to avoid applying for this grant.",
+      "synopsis": "The far-reaching impact and rate of innovation in the computer and information science and engineering \ufb01elds has been remarkable, generating economic prosperity and enhancing the quality of life for people throughout the world."
+    },
+    {
+      "grant_profile": "nsf_established_program_to_stimulate_competitive_research_workshop_opportunities_eps_wo_profile.json",
+      "score": 0.307,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$1,500,000",
+      "url": "https://www.nsf.gov/funding/opportunities/eps-wo-established-program-stimulate-competitive-research-workshop/nsf24-540/solicitation",
+      "reasons": [
+        "Org type ok: ['501(c)(3) nonprofit', 'nonprofit']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_experiential_learning_for_emerging_and_novel_technologies_exlent_profile.json",
+      "score": 0.301,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$30,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/exlent-experiential-learning-emerging-novel-technologies/nsf25-511/solicitation",
+      "reasons": [
+        "Org type ok: ['nonprofit']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_nsf_graduate_research_fellowship_program_grfp_profile.json",
+      "score": 0.301,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$159,000",
+      "url": "https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation",
+      "reasons": [
+        "Org type ok: ['nonprofit']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_centers_of_research_excellence_in_science_and_technology_research_infrastructure_for_science_and_eng_profile.json",
+      "score": 0.299,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$6,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/crest-rise-centers-research-excellence-science-technology-research/nsf24-562/solicitation",
+      "reasons": [
+        "Mission overlap: ['STEM education']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_methodology_measurement_and_statistics_mms_profile.json",
+      "score": 0.293,
+      "bucket": "Avoid",
+      "deadline": "2026-01-29",
+      "anticipated_funding_amount": "$3,760,000",
+      "url": "https://www.nsf.gov/funding/opportunities/mms-methodology-measurement-statistics/nsf19-575/solicitation",
+      "reasons": [
+        "Population overlap: ['ministries of education']"
+      ]
+    },
+    {
+      "grant_profile": "nsf_national_stem_education_distributed_learning_nsdl_profile.json",
+      "score": 0.291,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$10,750,000 (approximately) in FY2010, subject to the availability of funds.",
+      "url": "https://www.nsf.gov/funding/opportunities/nsdl-national-stem-education-distributed-learning/nsf10-545/solicitation",
+      "reasons": [
+        "Mission overlap: ['STEM education']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_innovations_in_graduate_education_program_profile.json",
+      "score": 0.282,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$14,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/innovations-graduate-education-program/nsf24-529/solicitation",
+      "reasons": [
+        "Org type ok: ['nonprofit']",
+        "Red flags: ['submission_limit']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    }
+  ]
+}

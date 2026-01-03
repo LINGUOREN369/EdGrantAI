@@ -1,0 +1,128 @@
+{
+  "org_profile": "The Vanderbilt Collaborative for STEM Education and Outreach (CSEO) is dedicated to enhancing literacy in science, technology, engineering, and mathematics (STEM) through the establishment of unique partnerships between University scientists, K-12 educators and students, and the local and global science community. The CSEO has developed and implemented a number of educational programs in partnership with local and national K-12 classrooms. These efforts, funded through a variety of state and national public and private agencies and donations from private individuals and families,  have reached thousands of children, supported teachers in residence on the Vanderbilt campus, hosted summer professional development courses and workshops for teachers, offered summer programs for students, and placed teachers and students in research laboratories. As a national leader in outreach efforts, the CSEO is committed to elevating pre-collegiate STEM expertise and literacy.",
+  "recommendations": [
+    {
+      "grant_profile": "nsf_coastlines_and_people_hubs_for_research_and_broadening_participation_cope_profile.json",
+      "score": 0.359,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$28,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/cope-coastlines-people-hubs-research-broadening-participation/nsf21-613/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 teachers']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check.",
+      "explanation": "Your organization focuses on K-12 teachers, which matches the grant's population overlap of K-12 teachers; however, there are no verified mission, org type, or geography overlaps to strengthen the fit. Additionally, the lack of specified red flags is a positive, but the absence of explicit mission alignment could imply a weaker connection to the grant's objectives. The grant targets large-scale hubs with substantial funding amounts ($2-$4 million), suggesting a potential scale mismatch for your organization. Overall, the recommendation is to consider applying with caution due to the partial overlaps.",
+      "synopsis": "Scientific research into complex coastal systems and the interplay with coastal hazards is vital for predicting, responding to, and mitigating threats in these regions. Understanding the risks associated with coastal hazards requires a holistic Earth Systems approach that integrates improved understanding of and, where possible, predictions about natural, social, and technological processes with efforts to increase the resilience of coastal systems.\u00a0The Coastlines and People program supports diverse, innovative, multi-institution awards that are focused on critically important coastlines and people research that is integrated with broadening participation goals.\u00a0The objective of this solicitation is to support Coastal Research Hubs, structured using a convergent science approach, at the nexus between coastal sustainability, human dimensions, and coastal processes to transform understanding of interactions among natural, human-built, and social systems in coastal, populated environments."
+    },
+    {
+      "grant_profile": "nsf_improving_undergraduate_stem_education_directorate_for_stem_education_iuse_edu_profile.json",
+      "score": 0.359,
+      "bucket": "Avoid",
+      "deadline": "2026-01-21",
+      "anticipated_funding_amount": "$61,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/iuse-edu-improving-undergraduate-stem-education-directorate-stem/nsf23-510/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 teachers']"
+      ],
+      "explanation": "The organization does not have specified mission or organization type tags, which raises concerns about eligibility for the NSF Improving Undergraduate STEM Education grant, as there may be implicit requirements that need clarification. While there is some overlap with the population tag 'K-12 teachers', the absence of any defined organization type makes it unclear if the nonprofit status is met. Additionally, without clear mission alignment, applying may lack strategic value. Therefore, due to these inconsistencies and the potential for unfulfilled eligibility criteria, it is advisable to avoid this grant.",
+      "synopsis": "Synopsis of Program:"
+    },
+    {
+      "grant_profile": "nsf_security_privacy_and_trust_in_cyberspace_satc_2_0_profile.json",
+      "score": 0.359,
+      "bucket": "Avoid",
+      "deadline": "2026-01-26",
+      "anticipated_funding_amount": "$60,000,000 per year, dependent on the availability of funds.",
+      "url": "https://www.nsf.gov/funding/opportunities/satc-20-security-privacy-trust-cyberspace/nsf25-515/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 teachers']"
+      ],
+      "explanation": "Your organization has some overlap with the grant, specifically in the population tag 'K-12 teachers.' However, there are no mission or org type overlaps, which makes the fit less robust. Additionally, there are no red flags identified, which is positive. Given these partial overlaps without clear eligibility requirements for your organization type, you may consider applying, but keep in mind the potential challenges due to the lack of broader alignment.",
+      "synopsis": "Our world is at a pivotal moment where the boundaries dividing the physical and social worlds from the cyber world have become blurred. Cyberspace has evolved from an interconnected digital environment into a complex and interdependent cyber ecosystem that involves hardware, software, networks, data, people, organizations, countries, and the physical world.\u00a0 Critical functions of everyday life are deeply intertwined with computing, including health, government, commerce, the public sphere, education, critical infrastructure, interpersonal communication, and transportation. The complexity and inter-dependencies in cyberspace can be misused and exploited by malicious actors. These in turn can trigger adverse outcomes such as disruption of critical infrastructure and systems; theft of intellectual property and sensitive data; amplification of inequalities; disclosure of private information of individuals, organizations, and governments; and threats to lives, livelihoods, and reputations. Furthermore, constant attacks on the data and assets of corporations, governments, and individuals undermine people\u2019s trust in decision-making and processes that depend critically on these cyber systems."
+    },
+    {
+      "grant_profile": "nsf_collaboratory_to_advance_mathematics_education_and_learning_for_k_12_profile.json",
+      "score": 0.311,
+      "bucket": "Avoid",
+      "deadline": "2026-01-09",
+      "anticipated_funding_amount": "$9,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/collaboratory-advance-mathematics-education-learning-k-12/nsf26-501/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students', 'K-12 teachers']"
+      ]
+    },
+    {
+      "grant_profile": "nsf_national_stem_education_distributed_learning_nsdl_profile.json",
+      "score": 0.308,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$10,750,000 (approximately) in FY2010, subject to the availability of funds.",
+      "url": "https://www.nsf.gov/funding/opportunities/nsdl-national-stem-education-distributed-learning/nsf10-545/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 teachers']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_discovery_research_prek_12_program_resource_center_on_transformative_education_research_and_translat_profile.json",
+      "score": 0.307,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$5,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/drk-12-rc-discovery-research-prek-12-program-resource-center/nsf24-602/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students', 'K-12 teachers', 'high school teachers']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_cise_research_experiences_for_undergraduates_sites_cise_reu_sites_profile.json",
+      "score": 0.305,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$84,800,000",
+      "url": "https://www.nsf.gov/funding/opportunities/reu-research-experiences-undergraduates/nsf23-601/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 teachers']",
+        "Red flags: ['submission_limit']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_science_and_technology_centers_integrative_partnerships_profile.json",
+      "score": 0.305,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$30,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/science-technology-centers-integrative-partnerships/nsf24-594/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students', 'K-12 teachers']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_epscor_research_infrastructure_improvement_program_focused_epscor_collaborations_program_profile.json",
+      "score": 0.3,
+      "bucket": "Avoid",
+      "deadline": "2026-01-27",
+      "anticipated_funding_amount": "$12,000,000 to $18,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/epscor-research-infrastructure-improvement-program-focused/nsf24-573/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students']"
+      ]
+    },
+    {
+      "grant_profile": "nsf_national_stem_teacher_corps_pilot_program_profile.json",
+      "score": 0.3,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$1,000,000 to $5,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/national-stem-teacher-corps-pilot-program/nsf24-577/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students', 'K-12 teachers']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    }
+  ]
+}

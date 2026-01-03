@@ -443,11 +443,27 @@ See also: `docs/mapping_funnel.md` for the full funnel and curation policy.
 
 ## Matching Engine
 
-A transparent scoring system based on:
+A transparent scoring system based on confidence-weighted, symmetric overlap between organization and grant tags:
 
-Mission Alignment     50%
-Eligibility Fit       40%
-Geography Fit         10%
+- Mission alignment (default weight 0.50, semantic similarity with a threshold)
+- Population alignment (default weight 0.40, semantic similarity with a threshold)
+- Organization type fit (default weight 0.40, exact match only)
+- Geography fit (default weight 0.10, exact match only; "us_national" is treated as a full match)
+- Red flags apply a penalty multiplier and can hard-block eligibility
+- Tag confidence: each tag’s confidence (0–1) scales its contribution to alignment; lower confidence reduces impact in both directions.
+
+Scoring formula (simplified):
+
+```text
+score =
+  w_mission * symmetric_overlap(mission_tags)
++ w_population * symmetric_overlap(population_tags)
++ w_org_type * symmetric_overlap(org_type_tags)
++ w_geography * symmetric_overlap(geography_tags)
+
+if red_flags_present:
+  score = score * red_flag_penalty
+```
 
 Outputs include:
 - Ranked list of grants

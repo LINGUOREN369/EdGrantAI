@@ -1,0 +1,71 @@
+{
+  "org_id": "the_vanderbilt_collaborative_for_stem_education",
+  "created_at": "2026-01-03T14:25:34.020017-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Vanderbilt Collaborative for STEM Education and Outreach",
+    "CSEO",
+    "K-12 educators",
+    "local and global science community",
+    "K-12 classrooms",
+    "educational programs",
+    "thousands of children",
+    "teachers in residence",
+    "summer professional development courses",
+    "workshops for teachers",
+    "summer programs for students",
+    "research laboratories",
+    "pre-collegiate STEM expertise",
+    "STEM literacy"
+  ],
+  "canonical_tags": {
+    "mission_tags": [],
+    "population_tags": [
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K-12 educators",
+        "confidence": 1.0,
+        "sources": [
+          "K-12 educators",
+          "K-12 classrooms"
+        ]
+      },
+      {
+        "tag": "K-12 students",
+        "source_text": "K-12 classrooms",
+        "confidence": 0.7977,
+        "sources": [
+          "K-12 classrooms"
+        ]
+      },
+      {
+        "tag": "middle school teachers",
+        "source_text": "derived: K-12 teachers breadth",
+        "confidence": 0.95
+      },
+      {
+        "tag": "high school teachers",
+        "source_text": "derived: K-12 teachers breadth",
+        "confidence": 0.95
+      }
+    ],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "validation": {
+    "rules_version": "0.0.10+",
+    "notes": [
+      "Dictionary-first; geography explicit or derived from state name",
+      "Restricted mission tags require explicit signals",
+      "Grade-band suppression if only generic K\u201312",
+      "Policy tag requires policy/advocacy signals",
+      "Population tags require explicit cues; no 'school districts' population",
+      "Org-specific thresholds applied"
+    ]
+  },
+  "source": {
+    "path": null,
+    "url": null
+  }
+}

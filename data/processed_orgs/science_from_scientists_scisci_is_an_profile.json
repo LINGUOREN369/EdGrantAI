@@ -1,0 +1,162 @@
+{
+  "org_id": "science_from_scientists_scisci_is_an",
+  "created_at": "2026-01-03T11:25:34.373290-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "Science from Scientists",
+    "501(c)3 nonprofit organization",
+    "STEM literacy",
+    "hands-on, minds-on STEM lessons",
+    "students in grades 3-8",
+    "youth organizations",
+    "corporate partners",
+    "science experiences",
+    "In-School Modular-Based (ISMB) program",
+    "Scientist Educators",
+    "elementary and middle school students",
+    "In-School Module- Based (ISMB) STEM Enrichment Program",
+    "STEM education",
+    "10,600 students",
+    "84 schools",
+    "Massachusetts",
+    "Minnesota",
+    "California",
+    "Grade 2 full science curriculum",
+    "out-of-school STEM initiatives",
+    "donor programs",
+    "FY26",
+    "education policies"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "STEM education",
+        "source_text": "STEM education",
+        "confidence": 1.0,
+        "sources": [
+          "STEM literacy",
+          "STEM education"
+        ]
+      },
+      {
+        "tag": "out-of-school STEM programs",
+        "source_text": "out-of-school STEM initiatives",
+        "confidence": 0.931,
+        "sources": [
+          "hands-on, minds-on STEM lessons",
+          "In-School Module- Based (ISMB) STEM Enrichment Program",
+          "out-of-school STEM initiatives"
+        ]
+      },
+      {
+        "tag": "after-school STEM programs",
+        "source_text": "out-of-school STEM initiatives",
+        "confidence": 0.8116,
+        "sources": [
+          "hands-on, minds-on STEM lessons",
+          "In-School Module- Based (ISMB) STEM Enrichment Program",
+          "out-of-school STEM initiatives"
+        ]
+      },
+      {
+        "tag": "community-based STEM programs",
+        "source_text": "out-of-school STEM initiatives",
+        "confidence": 0.7805,
+        "sources": [
+          "hands-on, minds-on STEM lessons",
+          "In-School Module- Based (ISMB) STEM Enrichment Program",
+          "out-of-school STEM initiatives"
+        ]
+      }
+    ],
+    "population_tags": [
+      {
+        "tag": "elementary students",
+        "source_text": "elementary and middle school students",
+        "confidence": 0.9126,
+        "sources": [
+          "elementary and middle school students"
+        ]
+      },
+      {
+        "tag": "middle school students",
+        "source_text": "elementary and middle school students",
+        "confidence": 0.8096,
+        "sources": [
+          "students in grades 3-8",
+          "elementary and middle school students"
+        ]
+      },
+      {
+        "tag": "K-12 students",
+        "source_text": "elementary and middle school students",
+        "confidence": 0.7182,
+        "sources": [
+          "elementary and middle school students"
+        ]
+      },
+      {
+        "tag": "high school students",
+        "source_text": "elementary and middle school students",
+        "confidence": 0.6891,
+        "sources": [
+          "elementary and middle school students"
+        ]
+      },
+      {
+        "tag": "middle school teachers",
+        "source_text": "elementary and middle school students",
+        "confidence": 0.6624,
+        "sources": [
+          "elementary and middle school students"
+        ]
+      }
+    ],
+    "org_type_tags": [
+      {
+        "tag": "501(c)(3) nonprofit",
+        "source_text": "501(c)3 nonprofit organization",
+        "confidence": 0.9185,
+        "sources": [
+          "501(c)3 nonprofit organization"
+        ]
+      },
+      {
+        "tag": "youth development organization",
+        "source_text": "youth organizations",
+        "confidence": 0.815,
+        "sources": [
+          "youth organizations"
+        ]
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "501(c)3 nonprofit organization",
+        "confidence": 1.0
+      }
+    ],
+    "geography_tags": [
+      {
+        "tag": "single state",
+        "source_text": "derived: state name 'California' in org text",
+        "confidence": 0.99
+      }
+    ],
+    "red_flag_tags": []
+  },
+  "validation": {
+    "rules_version": "0.0.10+",
+    "notes": [
+      "Dictionary-first; geography explicit or derived from state name",
+      "Restricted mission tags require explicit signals",
+      "Grade-band suppression if only generic K\u201312",
+      "Policy tag requires policy/advocacy signals",
+      "Population tags require explicit cues; no 'school districts' population",
+      "Org-specific thresholds applied"
+    ]
+  },
+  "source": {
+    "path": null,
+    "url": null
+  }
+}

@@ -2,26 +2,24 @@
   "org_profile": "khan_profile.json",
   "recommendations": [
     {
-      "grant_profile": "nsf_research_on_innovative_technologies_for_enhanced_learning_ritel_profile.json",
-      "score": 0.678,
-      "bucket": "Apply",
-      "deadlines": [],
-      "deadline_status": "unspecified",
+      "grant_profile": "nsf_experiential_learning_for_emerging_and_novel_technologies_exlent_profile.json",
+      "score": 0.465,
+      "bucket": "Maybe",
       "deadline": null,
-      "anticipated_funding_amount": "$25,000,000",
-      "url": "https://www.nsf.gov/funding/opportunities/ritel-research-innovative-technologies-enhanced-learning/nsf23-624/solicitation",
+      "anticipated_funding_amount": "$30,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/exlent-experiential-learning-emerging-novel-technologies/nsf25-511/solicitation",
       "reasons": [
-        "Population overlap: ['adult learners', 'all-ages learners', 'global learners']",
+        "Population overlap: ['adult learners']",
         "Org type ok: ['nonprofit']"
       ],
-      "synopsis": "The purpose of the\u00a0Research on Innovative Technologies\u00a0for Enhanced Learning (RITEL) program is to\u00a0support early-stage research in emerging technologies for teaching and learning that respond to\u00a0pressing needs in authentic (real-world) educational environments. RITEL\u00a0supports future-oriented exploratory and synergistic research in emerging technologies (including, but not limited to, artificial intelligence (AI), robotics, and immersive or augmenting technologies) for teaching and learning. The program accepts proposals that focus on learning, teaching, or a combination of both. The scope of the program is broad and includes teaching and learning in science, technology, engineering, and mathematics (STEM) and in foundational areas that enable STEM (e.g., self-regulation, literacy, communication, collaboration, creativity, and socio-emotional skills). RITEL supports research in all learning contexts (e.g., formal, informal, workplace) and for all learner populations. RITEL has a special interest in learner/educator populations and in developing new educational technologies that are cost-effective for budget-limited school districts, colleges and universities.\u00a0Research in this program should be informed by the convergence (synthesis) of multiple disciplines: e.g., learning sciences; discipline-based education research; computer and information science and engineering; design; and cognitive, behavioral, and social sciences.\u00a0RITEL is unique in its requirement that projects must advance research in\u00a0both\u00a0learning (and/or teaching) and technology."
+      "deadline_note": "Could not locate; please use the URL to double-check.",
+      "explanation": "The organization aligns partly with the grant, as it serves adult learners and operates as a nonprofit, which matches the populations and organization type respectively. However, there are no direct overlaps in mission areas, which may indicate a misalignment with the grant's goals of providing experiential STEM learning opportunities. Additionally, the lack of specified deadlines or funding details introduces some uncertainty about the feasibility of applying. Therefore, while there is potential, the absence of clear alignment with the grant's focus suggests a cautious approach.",
+      "synopsis": "Through this initiative, the Directorate for STEM Education (EDU) and the \u00a0Directorate for Technology, Innovation and Partnerships\u00a0(TIP), in partnership with Micron Technology, Inc. (Micron) through the Micron Foundation, seek to\u00a0support experiential learning opportunities\u00a0for individuals\u00a0from all professional and educational\u00a0backgrounds, resulting in increased access to, and interest in, career pathways in\u00a0emerging technology\u00a0fields (e.g.,\u00a0advanced manufacturing, advanced wireless, artificial intelligence, biotechnology,\u00a0quantum information science,\u00a0semiconductors, and microelectronics). As NSF seeks to support the development of technologies in such fields, similar support will be needed to foster and grow a science, technology, engineering, and mathematics (STEM) workforce comprising and enabling all Americans to contribute to such innovation. Large-scale challenges like\u00a0advances in microelectronics or artificial intelligence also require\u00a0a\u00a0STEM\u00a0workforce\u00a0that\u00a0brings\u00a0varied perspectives and expertise to further accelerate the translation of science and engineering discoveries into large-scale solutions. Moreover, as current and new emerging technologies continue to evolve, unforeseen issues around security, safety and privacy will impact the\u00a0preparation\u00a0of the workforce.\u00a0Emerging technologies\u00a0are also dynamic\u00a0and\u00a0rapidly changing, with career entry and advancement often requiring \"learning-by-doing\" experience, even for those with some STEM education.\u00a0Therefore, NSF recognizes that a competitive\u00a0emerging technology workforce\u00a0must include\u00a0individuals\u00a0from traditional and nontraditional education pathways as well as those individuals who may have \u201cstopped\u201d out of traditional educational pathways."
     },
     {
       "grant_profile": "nsf_nsf_stem_k_12_stem_k_12_profile.json",
-      "score": 0.635,
-      "bucket": "Apply",
-      "deadlines": [],
-      "deadline_status": "rolling",
+      "score": 0.457,
+      "bucket": "Maybe",
       "deadline": null,
       "anticipated_funding_amount": "$30,000,000",
       "url": "https://www.nsf.gov/funding/opportunities/stem-k-12-nsf-stem-k-12/nsf25-545/solicitation",
@@ -29,14 +27,54 @@
         "Population overlap: ['K-12 students']",
         "Org type ok: ['nonprofit']"
       ],
+      "deadline_note": "Could not locate; please use the URL to double-check.",
+      "explanation": "The organization has a partial fit with the NSF STEM K-12 grant, particularly in population tags, as both focus on K-12 students. However, there is no overlap in mission tags or specific geography noted, which may limit alignment with the grant\u2019s objectives. Additionally, while there are no red flags specified, the absence of detailed funding information and deadlines creates uncertainty about proposal requirements, which could affect readiness to apply. Consider evaluating whether the grant's potential scope could effectively align with existing programs.",
       "synopsis": "The NSF STEM K-12 program in the Division of Research on Learning in Formal and Informal Settings (DRL) in the Directorate for STEM Education (EDU) supports fundamental, applied, and translational research that advances STEM teaching and learning and improves understanding of education across the human lifespan and a range of formal and informal settings."
     },
     {
+      "grant_profile": "nsf_research_on_innovative_technologies_for_enhanced_learning_ritel_profile.json",
+      "score": 0.405,
+      "bucket": "Maybe",
+      "deadline": null,
+      "anticipated_funding_amount": "$25,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/ritel-research-innovative-technologies-enhanced-learning/nsf23-624/solicitation",
+      "reasons": [
+        "Population overlap: ['adult learners', 'all-ages learners', 'global learners']",
+        "Org type ok: ['nonprofit']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check.",
+      "explanation": "Your organization aligns with the grant's population focus on 'adult learners', 'all-ages learners', and 'global learners', as well as your status as a nonprofit. However, there is no direct overlap in mission tags, which raises some uncertainty regarding alignment. There are no red flags indicated for this grant, but the unspecified deadline may pose a challenge for timely application preparation. Consider the potential scale of the project since specific funding amounts are not provided, which could affect scope and viability.",
+      "synopsis": "The purpose of the\u00a0Research on Innovative Technologies\u00a0for Enhanced Learning (RITEL) program is to\u00a0support early-stage research in emerging technologies for teaching and learning that respond to\u00a0pressing needs in authentic (real-world) educational environments. RITEL\u00a0supports future-oriented exploratory and synergistic research in emerging technologies (including, but not limited to, artificial intelligence (AI), robotics, and immersive or augmenting technologies) for teaching and learning. The program accepts proposals that focus on learning, teaching, or a combination of both. The scope of the program is broad and includes teaching and learning in science, technology, engineering, and mathematics (STEM) and in foundational areas that enable STEM (e.g., self-regulation, literacy, communication, collaboration, creativity, and socio-emotional skills). RITEL supports research in all learning contexts (e.g., formal, informal, workplace) and for all learner populations. RITEL has a special interest in learner/educator populations and in developing new educational technologies that are cost-effective for budget-limited school districts, colleges and universities.\u00a0Research in this program should be informed by the convergence (synthesis) of multiple disciplines: e.g., learning sciences; discipline-based education research; computer and information science and engineering; design; and cognitive, behavioral, and social sciences.\u00a0RITEL is unique in its requirement that projects must advance research in\u00a0both\u00a0learning (and/or teaching) and technology."
+    },
+    {
+      "grant_profile": "nsf_sustaining_infrastructure_for_biological_research_sustaining_profile.json",
+      "score": 0.389,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$5,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/sustaining-sustaining-infrastructure-biological-research/nsf21-503/solicitation",
+      "reasons": [
+        "Population overlap: ['historically underserved students', 'underserved communities']",
+        "Org type ok: ['nonprofit']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_nsf_graduate_research_fellowship_program_grfp_profile.json",
+      "score": 0.369,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$159,000",
+      "url": "https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation",
+      "reasons": [
+        "Org type ok: ['nonprofit']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
       "grant_profile": "nsf_pfe_research_initiation_in_engineering_formation_pfe_rief_profile.json",
-      "score": 0.603,
-      "bucket": "Apply",
-      "deadlines": [],
-      "deadline_status": "unspecified",
+      "score": 0.34,
+      "bucket": "Avoid",
       "deadline": null,
       "anticipated_funding_amount": "$3,000,000",
       "url": "https://www.nsf.gov/funding/opportunities/pfe-rief-pfe-research-initiation-engineering-formation/nsf20-558/solicitation",
@@ -44,113 +82,58 @@
         "Population overlap: ['K-12 students']",
         "Org type ok: ['nonprofit']"
       ],
-      "synopsis": "The PFE: Research Initiation in Engineering Formation (PFE: RIEF) program has two goals: 1) Support research in the Professional Formation of Engineers (PFE), and 2) Increase the community of researchers conducting PFE research. PIs are expected to have little or no experience conducting social science or education research. PFE: RIEF is not intended for established researchers in engineering education or other social science fields to initiate new projects. Those researchers should consider the Research in the Formation of Engineers program (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505681)."
+      "deadline_note": "Could not locate; please use the URL to double-check."
     },
     {
-      "grant_profile": "nsf_research_experiences_for_teachers_in_engineering_and_computer_science_profile.json",
-      "score": 0.559,
-      "bucket": "Maybe",
-      "deadlines": [
-        "2026-10-14"
+      "grant_profile": "nsf_coastlines_and_people_hubs_for_research_and_broadening_participation_cope_profile.json",
+      "score": 0.328,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$28,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/cope-coastlines-people-hubs-research-broadening-participation/nsf21-613/solicitation",
+      "reasons": [
+        "Org type ok: ['nonprofit']"
       ],
-      "deadline_status": "date",
-      "deadline": "2026-10-14",
-      "anticipated_funding_amount": "$5,800,000",
-      "url": "https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf24-503/solicitation",
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_condensed_matter_physics_profile.json",
+      "score": 0.304,
+      "bucket": "Avoid",
+      "deadline": null,
+      "anticipated_funding_amount": "$66,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/dmr-tmrp-division-materials-research-topical-materials-research/nsf23-612/solicitation",
       "reasons": [
         "Population overlap: ['K-12 students']",
-        "Org type ok: ['public school district']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_advanced_technological_education_ate_profile.json",
-      "score": 0.55,
-      "bucket": "Maybe",
-      "deadlines": [
-        "2026-10-01"
+        "Org type ok: ['nonprofit']"
       ],
-      "deadline_status": "date",
-      "deadline": "2026-10-01",
-      "anticipated_funding_amount": "$74,000,000",
-      "url": "https://www.nsf.gov/funding/opportunities/ate-advanced-technological-education/nsf24-584/solicitation",
-      "reasons": [
-        "Population overlap: ['historically underserved students', 'underserved communities']",
-        "Org type ok: ['nonprofit']"
-      ]
+      "deadline_note": "Could not locate; please use the URL to double-check."
     },
     {
-      "grant_profile": "nsf_experiential_learning_for_emerging_and_novel_technologies_exlent_profile.json",
-      "score": 0.539,
-      "bucket": "Maybe",
-      "deadlines": [],
-      "deadline_status": "unspecified",
+      "grant_profile": "nsf_gravitational_physics_experiments_and_data_analysis_profile.json",
+      "score": 0.304,
+      "bucket": "Avoid",
       "deadline": null,
-      "anticipated_funding_amount": "$30,000,000",
-      "url": "https://www.nsf.gov/funding/opportunities/exlent-experiential-learning-emerging-novel-technologies/nsf25-511/solicitation",
+      "anticipated_funding_amount": "$120,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation",
       "reasons": [
-        "Population overlap: ['adult learners']",
+        "Population overlap: ['K-12 students']",
         "Org type ok: ['nonprofit']"
-      ]
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
     },
     {
       "grant_profile": "nsf_discovery_research_prek_12_program_resource_center_on_transformative_education_research_and_translat_profile.json",
-      "score": 0.529,
-      "bucket": "Maybe",
-      "deadlines": [],
-      "deadline_status": "unspecified",
+      "score": 0.303,
+      "bucket": "Avoid",
       "deadline": null,
       "anticipated_funding_amount": "$5,000,000",
       "url": "https://www.nsf.gov/funding/opportunities/drk-12-rc-discovery-research-prek-12-program-resource-center/nsf24-602/solicitation",
       "reasons": [
         "Population overlap: ['K-12 students']",
         "Org type ok: ['nonprofit']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_scholarships_in_stem_network_s_stem_net_profile.json",
-      "score": 0.529,
-      "bucket": "Maybe",
-      "deadlines": [
-        "2026-08-13"
       ],
-      "deadline_status": "date",
-      "deadline": "2026-08-13",
-      "anticipated_funding_amount": "$15,000,000",
-      "url": "https://www.nsf.gov/funding/opportunities/s-stem-net-scholarships-stem-network/nsf23-536/solicitation",
-      "reasons": [
-        "Population overlap: ['low-income students']",
-        "Org type ok: ['nonprofit']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_collaboratory_to_advance_mathematics_education_and_learning_for_k_12_profile.json",
-      "score": 0.527,
-      "bucket": "Maybe",
-      "deadlines": [
-        "2026-01-09"
-      ],
-      "deadline_status": "date",
-      "deadline": "2026-01-09",
-      "anticipated_funding_amount": "$9,000,000",
-      "url": "https://www.nsf.gov/funding/opportunities/collaboratory-advance-mathematics-education-learning-k-12/nsf26-501/solicitation",
-      "reasons": [
-        "Population overlap: ['K-12 students']",
-        "Org type ok: ['nonprofit']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_sustaining_infrastructure_for_biological_research_sustaining_profile.json",
-      "score": 0.506,
-      "bucket": "Maybe",
-      "deadlines": [],
-      "deadline_status": "rolling",
-      "deadline": null,
-      "anticipated_funding_amount": "$5,000,000",
-      "url": "https://www.nsf.gov/funding/opportunities/sustaining-sustaining-infrastructure-biological-research/nsf21-503/solicitation",
-      "reasons": [
-        "Population overlap: ['historically underserved students', 'underserved communities']",
-        "Org type ok: ['nonprofit']"
-      ]
+      "deadline_note": "Could not locate; please use the URL to double-check."
     }
   ]
 }

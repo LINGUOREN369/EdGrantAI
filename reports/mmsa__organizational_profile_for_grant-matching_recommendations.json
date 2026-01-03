@@ -1,9 +1,9 @@
 {
-  "org_profile": "mmsa_profile.json",
+  "org_profile": "mmsa__organizational_profile_for_grant-matching_profile.json",
   "recommendations": [
     {
       "grant_profile": "nsf_collaboratory_to_advance_mathematics_education_and_learning_for_k_12_profile.json",
-      "score": 0.639,
+      "score": 0.658,
       "bucket": "Apply",
       "deadline": "2026-01-09",
       "anticipated_funding_amount": "$9,000,000",
@@ -13,28 +13,13 @@
         "Population overlap: ['K-12 students', 'K-12 teachers']",
         "Org type ok: ['nonprofit']"
       ],
-      "explanation": "Your organization is well-aligned with the grant's mission of K-12 STEM education and serves the same targeted population of K-12 students and teachers, thereby supporting a good overlap of mission and population tags. However, there is a lack of geographical alignment, as the grant doesn't specify a geographic focus, which may present some ambiguity regarding fit. Additionally, there are no stated red flags, making it more feasible to apply. Consider the potential need to define how your work aligns with the broader scope of the grant, given the absence of a explicit requirement for a specific geography.",
+      "explanation": "This grant aligns well with your organization as it shares overlapping mission tags like 'K-12 STEM education' and relevant population tags, including 'K-12 students' and 'K-12 teachers,' all of which match your mission to support K-12 STEM education and underserved communities. With no significant red flags or eligibility issues, this opportunity appears conducive to your efforts as a 501(c)(3) nonprofit. Additionally, the deadline is in 2026, providing ample time for preparation.",
       "synopsis": "The Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12 initiative aims to advance mathematics learning and education through purposeful collaboration that draws on the interdisciplinary Science of Learning (including neuroscience; cognitive, developmental, and social sciences; computer science; machine learning; engineering; and education research), deep experiences in education practice and teaching, and innovations in the use of data science, AI and technology. Through an agreement with philanthropic partners, including the Walton Family Foundation (WFF), CAMEL consists of two phases. Phase I invites proposals for the creation of new research networks to support the generation of high value datasets that aim to advance math learning and education. These research networks must include researchers who study the basic science of learning, education practitioners, and data scientists. The high value dataset may come from either generating a new dataset or by increasing the value of an existing dataset. Phase II, open only to awardees of Phase I, establishes a \u201ccollaboratory,\u201d which is a socio-technological platform that prioritizes community-building and capacity-building to sustain collaborative efforts to advance math learning and education in K-12.\u00a0Expanding Participation in STEM, NSF Priorities and Gold Standard Science:NSF prioritizes cutting-edge discovery science and engineering research, advancing technology and innovation, and creating opportunities for all Americans. NSF has established priorities set forth by Congress, the administration and the NSF director to promote\u00a0NSF's mission. Proposers should review the list of\u00a0NSF priorities\u00a0and are encouraged to align their proposals with them, where appropriate. NSF also expects the highest standards of scientific rigor, integrity and adherence to appropriate tenets of\u00a0Gold Standard Science\u00a0in proposals, as appropriate for the field of science and research modality."
     },
     {
-      "grant_profile": "nsf_coastlines_and_people_hubs_for_research_and_broadening_participation_cope_profile.json",
-      "score": 0.594,
-      "bucket": "Maybe",
-      "deadline": null,
-      "anticipated_funding_amount": "$28,000,000",
-      "url": "https://www.nsf.gov/funding/opportunities/cope-coastlines-people-hubs-research-broadening-participation/nsf21-613/solicitation",
-      "reasons": [
-        "Population overlap: ['K-12 teachers']",
-        "Org type ok: ['nonprofit']"
-      ],
-      "deadline_note": "Could not locate; please use the URL to double-check.",
-      "explanation": "While there is some overlap with the grant in terms of population (K-12 teachers) and org type (nonprofit), the mission tags of the grant do not align with the organization's mission in K-12 STEM education and related areas. There are no specific red flags listed, but the lack of a mission alignment may present challenges in proposal relevance. It\u2019s also important to note that the grant focuses on large-scale hubs potentially requiring $2-$4 million annually, which may exceed the organization's typical scale. Additionally, due to the unspecified deadline, further research into timing and submission guidelines is advisable.",
-      "synopsis": "Scientific research into complex coastal systems and the interplay with coastal hazards is vital for predicting, responding to, and mitigating threats in these regions. Understanding the risks associated with coastal hazards requires a holistic Earth Systems approach that integrates improved understanding of and, where possible, predictions about natural, social, and technological processes with efforts to increase the resilience of coastal systems.\u00a0The Coastlines and People program supports diverse, innovative, multi-institution awards that are focused on critically important coastlines and people research that is integrated with broadening participation goals.\u00a0The objective of this solicitation is to support Coastal Research Hubs, structured using a convergent science approach, at the nexus between coastal sustainability, human dimensions, and coastal processes to transform understanding of interactions among natural, human-built, and social systems in coastal, populated environments."
-    },
-    {
       "grant_profile": "nsf_robert_noyce_teacher_scholarship_program_profile.json",
-      "score": 0.587,
-      "bucket": "Maybe",
+      "score": 0.614,
+      "bucket": "Apply",
       "deadline": null,
       "anticipated_funding_amount": "$68,000,000 for new or continuing awards",
       "url": "https://www.nsf.gov/funding/opportunities/robert-noyce-teacher-scholarship-program/nsf23-586/solicitation",
@@ -43,12 +28,12 @@
         "Population overlap: ['K-12 students', 'K-12 teachers']"
       ],
       "deadline_note": "Could not locate; please use the URL to double-check.",
-      "explanation": "There is a good overlap with the grant's objectives, particularly in mission (K-12 STEM education) and population (K-12 students and teachers), which aligns with your focus on K-12 students and teachers. However, there are no specific eligibility requirements listed for organization type, thus it is uncertain whether your nonprofit status will be a factor. Additionally, while there are no hard red flags, the grant suggests that submissions may require detailed descriptions and prior experience with Noyce funding, which could pose challenges. Given the unspecified deadlines, you should consider your capacity to meet potential submission requirements.",
+      "explanation": "There is a partial fit between your organization and the NSF Robert Noyce Teacher Scholarship Program, specifically overlapping in mission (K-12 STEM education) and population (K-12 students, K-12 teachers). However, the grant does not specify eligibility requirements related to org type or geography, leaving uncertainty about whether your 501(c)(3) nonprofit status or state-specific focus aligns with funder expectations. Additionally, while there are no red flags identified, successful proposals require consultation with a Noyce Program Officer, which adds a layer of effort in the application process. Given these considerations, it may be worth exploring further before making a definitive decision.",
       "synopsis": "The National Science Foundation\u00a0Robert Noyce Teacher Scholarship Program (Noyce)\u00a0invites innovative proposals that address the critical need for recruiting, preparing, and retaining highly effective elementary and secondary mathematics and science teachers and teacher leaders who persist as classroom teachers in high-need Local Education Agencies (LEA), (a.k.a. high-need school district). To achieve this goal, Noyce supports talented science, technology, engineering, and mathematics (STEM) undergraduate majors and professionals to become effective K-12 STEM teachers. It also supports experienced, exemplary K-12 STEM teachers to become teacher leaders who continue as classroom teachers in high-need school districts. NSF welcomes submission of proposals to this funding opportunity that include the participation of the full spectrum of talent in STEM,\u00a0e.g., as PI, co-PI, senior personnel, postdoctoral scholars, graduate or undergraduate students or trainees.\u00a0\u00a0In addition, the Noyce program supports research on the effectiveness and retention of K-12 STEM teachers in high-need school districts. Noyce offers four program tracks:\u00a0Track 1: The Robert\u00a0Noyce Teacher Scholarships and Stipends (S&S) Track, Track 2: The NSF Teaching Fellowships (TF) Track, Track 3: The NSF\u00a0Master Teaching Fellowships (MTF) Track, and Track 4: The Noyce Research Track.\u00a0 In addition,\u00a0Capacity Building\u00a0proposals are accepted from proposers intending to develop a proposal in any of the program's tracks. Noyce also supports conference proposals focused on improving STEM teacher preparation. Proposals that support authentic Research Experiences in STEM Settings (RESS) for Noyce and/or non-Noyce pre-service and in-service STEM teachers are also invited."
     },
     {
       "grant_profile": "nsf_nsf_stem_k_12_stem_k_12_profile.json",
-      "score": 0.581,
+      "score": 0.59,
       "bucket": "Maybe",
       "deadline": null,
       "anticipated_funding_amount": "$30,000,000",
@@ -57,11 +42,13 @@
         "Population overlap: ['K-12 students', 'K-12 teachers']",
         "Org type ok: ['nonprofit']"
       ],
-      "deadline_note": "Could not locate; please use the URL to double-check."
+      "deadline_note": "Could not locate; please use the URL to double-check.",
+      "explanation": "This grant aligns with your organization as it targets K-12 students and K-12 teachers, matching your population tags and nonprofit status. However, the grant lacks clarity on its mission focus and geographic scope, which may create uncertainty in alignment with your comprehensive mission in K-12 STEM education and underserved communities. Additionally, while there are no immediate red flags indicating disqualification, the absence of specific details regarding deadlines and funding could necessitate more thorough preparation. Therefore, consider exploring further, but be aware of potential challenges in the alignment.",
+      "synopsis": "The NSF STEM K-12 program in the Division of Research on Learning in Formal and Informal Settings (DRL) in the Directorate for STEM Education (EDU) supports fundamental, applied, and translational research that advances STEM teaching and learning and improves understanding of education across the human lifespan and a range of formal and informal settings."
     },
     {
       "grant_profile": "nsf_national_stem_education_distributed_learning_nsdl_profile.json",
-      "score": 0.556,
+      "score": 0.581,
       "bucket": "Maybe",
       "deadline": null,
       "anticipated_funding_amount": "$10,750,000 (approximately) in FY2010, subject to the availability of funds.",
@@ -73,17 +60,29 @@
       "deadline_note": "Could not locate; please use the URL to double-check."
     },
     {
-      "grant_profile": "nsf_louis_stokes_alliances_for_minority_participation_lsamp_profile.json",
-      "score": 0.546,
+      "grant_profile": "nsf_coastlines_and_people_hubs_for_research_and_broadening_participation_cope_profile.json",
+      "score": 0.577,
       "bucket": "Maybe",
       "deadline": null,
-      "anticipated_funding_amount": "$38,000,000",
-      "url": "https://www.nsf.gov/funding/opportunities/lsamp-louis-stokes-alliances-minority-participation/nsf24-563/solicitation",
+      "anticipated_funding_amount": "$28,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/cope-coastlines-people-hubs-research-broadening-participation/nsf21-613/solicitation",
       "reasons": [
-        "Mission overlap: ['evidence-based practice']",
+        "Population overlap: ['K-12 teachers']",
         "Org type ok: ['nonprofit']"
       ],
       "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_historically_black_colleges_and_universities_undergraduate_program_hbcu_up_profile.json",
+      "score": 0.539,
+      "bucket": "Maybe",
+      "deadline": "2026-03-24",
+      "anticipated_funding_amount": "$62,250,000",
+      "url": "https://www.nsf.gov/funding/opportunities/hbcu-historically-black-colleges-universities-undergraduate/nsf23-563/solicitation",
+      "reasons": [
+        "Mission overlap: ['broadening participation in STEM']",
+        "Population overlap: ['K-12 students']"
+      ]
     },
     {
       "grant_profile": "nsf_security_privacy_and_trust_in_cyberspace_satc_2_0_profile.json",
@@ -98,8 +97,20 @@
       ]
     },
     {
+      "grant_profile": "nsf_expeditions_in_computing_expeditions_profile.json",
+      "score": 0.513,
+      "bucket": "Maybe",
+      "deadline": "2026-06-22",
+      "anticipated_funding_amount": "$60,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/expeditions-expeditions-computing/nsf20-544/solicitation",
+      "reasons": [
+        "Mission overlap: ['broadening participation in STEM']",
+        "Org type ok: ['nonprofit']"
+      ]
+    },
+    {
       "grant_profile": "nsf_centers_of_research_excellence_in_science_and_technology_crest_centers_profile.json",
-      "score": 0.49,
+      "score": 0.508,
       "bucket": "Maybe",
       "deadline": null,
       "anticipated_funding_amount": "$8,000,000",
@@ -111,28 +122,17 @@
       "deadline_note": "Could not locate; please use the URL to double-check."
     },
     {
-      "grant_profile": "nsf_discovery_research_prek_12_program_resource_center_on_transformative_education_research_and_translat_profile.json",
-      "score": 0.475,
+      "grant_profile": "nsf_structure_and_physics_of_the_solid_earth_spse_profile.json",
+      "score": 0.497,
       "bucket": "Maybe",
       "deadline": null,
-      "anticipated_funding_amount": "$5,000,000",
-      "url": "https://www.nsf.gov/funding/opportunities/drk-12-rc-discovery-research-prek-12-program-resource-center/nsf24-602/solicitation",
+      "anticipated_funding_amount": "$22,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/spse-structure-physics-solid-earth/nsf25-518/solicitation",
       "reasons": [
-        "Population overlap: ['K-12 students', 'K-12 teachers', 'high school teachers']",
+        "Mission overlap: ['broadening participation in STEM']",
         "Org type ok: ['nonprofit']"
       ],
       "deadline_note": "Could not locate; please use the URL to double-check."
-    },
-    {
-      "grant_profile": "nsf_historically_black_colleges_and_universities_undergraduate_program_hbcu_up_profile.json",
-      "score": 0.471,
-      "bucket": "Maybe",
-      "deadline": "2026-03-24",
-      "anticipated_funding_amount": "$62,250,000",
-      "url": "https://www.nsf.gov/funding/opportunities/hbcu-historically-black-colleges-universities-undergraduate/nsf23-563/solicitation",
-      "reasons": [
-        "Population overlap: ['K-12 students']"
-      ]
     }
   ]
 }

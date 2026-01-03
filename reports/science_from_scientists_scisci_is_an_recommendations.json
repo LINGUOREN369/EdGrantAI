@@ -1,0 +1,133 @@
+{
+  "org_profile": "science_from_scientists_scisci_is_an_profile.json",
+  "recommendations": [
+    {
+      "grant_profile": "nsf_collaboratory_to_advance_mathematics_education_and_learning_for_k_12_profile.json",
+      "score": 0.581,
+      "bucket": "Maybe",
+      "deadline": "2026-01-09",
+      "anticipated_funding_amount": "$9,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/collaboratory-advance-mathematics-education-learning-k-12/nsf26-501/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students']",
+        "Org type ok: ['nonprofit']"
+      ],
+      "explanation": "This grant has some alignment with your organization, particularly in the population category, as it targets K-12 students, which overlaps with your focus on elementary, middle, and high school students. However, there are no overlapping mission tags, suggesting a potential misalignment in programmatic goals. Moreover, while there are no explicit red flags noted, the lack of detail on the funding range and geographic focus may introduce uncertainty in terms of expectations and eligibility. Given these factors, applying might present some risks, but there is enough overlap to consider a proposal.",
+      "synopsis": "The Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12 initiative aims to advance mathematics learning and education through purposeful collaboration that draws on the interdisciplinary Science of Learning (including neuroscience; cognitive, developmental, and social sciences; computer science; machine learning; engineering; and education research), deep experiences in education practice and teaching, and innovations in the use of data science, AI and technology. Through an agreement with philanthropic partners, including the Walton Family Foundation (WFF), CAMEL consists of two phases. Phase I invites proposals for the creation of new research networks to support the generation of high value datasets that aim to advance math learning and education. These research networks must include researchers who study the basic science of learning, education practitioners, and data scientists. The high value dataset may come from either generating a new dataset or by increasing the value of an existing dataset. Phase II, open only to awardees of Phase I, establishes a \u201ccollaboratory,\u201d which is a socio-technological platform that prioritizes community-building and capacity-building to sustain collaborative efforts to advance math learning and education in K-12.\u00a0Expanding Participation in STEM, NSF Priorities and Gold Standard Science:NSF prioritizes cutting-edge discovery science and engineering research, advancing technology and innovation, and creating opportunities for all Americans. NSF has established priorities set forth by Congress, the administration and the NSF director to promote\u00a0NSF's mission. Proposers should review the list of\u00a0NSF priorities\u00a0and are encouraged to align their proposals with them, where appropriate. NSF also expects the highest standards of scientific rigor, integrity and adherence to appropriate tenets of\u00a0Gold Standard Science\u00a0in proposals, as appropriate for the field of science and research modality."
+    },
+    {
+      "grant_profile": "nsf_robert_noyce_teacher_scholarship_program_profile.json",
+      "score": 0.58,
+      "bucket": "Maybe",
+      "deadline": null,
+      "anticipated_funding_amount": "$68,000,000 for new or continuing awards",
+      "url": "https://www.nsf.gov/funding/opportunities/robert-noyce-teacher-scholarship-program/nsf23-586/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check.",
+      "explanation": "The NSF Robert Noyce Teacher Scholarship Program does not overlap with your organization's mission tags, nor does it accept proposals from the specific type of organization as your nonprofit, as it primarily targets institutions with prior Noyce funding or focuses on education-related institutions rather than general nonprofits. Although there is some overlap in the population served (K-12 students), the absence of a strong mission alignment and the implied institutional restrictions render this grant unsuitable. Additionally, the lack of explicit red flags is irrelevant given the mismatches in eligibility and focus.",
+      "synopsis": "The National Science Foundation\u00a0Robert Noyce Teacher Scholarship Program (Noyce)\u00a0invites innovative proposals that address the critical need for recruiting, preparing, and retaining highly effective elementary and secondary mathematics and science teachers and teacher leaders who persist as classroom teachers in high-need Local Education Agencies (LEA), (a.k.a. high-need school district). To achieve this goal, Noyce supports talented science, technology, engineering, and mathematics (STEM) undergraduate majors and professionals to become effective K-12 STEM teachers. It also supports experienced, exemplary K-12 STEM teachers to become teacher leaders who continue as classroom teachers in high-need school districts. NSF welcomes submission of proposals to this funding opportunity that include the participation of the full spectrum of talent in STEM,\u00a0e.g., as PI, co-PI, senior personnel, postdoctoral scholars, graduate or undergraduate students or trainees.\u00a0\u00a0In addition, the Noyce program supports research on the effectiveness and retention of K-12 STEM teachers in high-need school districts. Noyce offers four program tracks:\u00a0Track 1: The Robert\u00a0Noyce Teacher Scholarships and Stipends (S&S) Track, Track 2: The NSF Teaching Fellowships (TF) Track, Track 3: The NSF\u00a0Master Teaching Fellowships (MTF) Track, and Track 4: The Noyce Research Track.\u00a0 In addition,\u00a0Capacity Building\u00a0proposals are accepted from proposers intending to develop a proposal in any of the program's tracks. Noyce also supports conference proposals focused on improving STEM teacher preparation. Proposals that support authentic Research Experiences in STEM Settings (RESS) for Noyce and/or non-Noyce pre-service and in-service STEM teachers are also invited."
+    },
+    {
+      "grant_profile": "nsf_national_stem_education_distributed_learning_nsdl_profile.json",
+      "score": 0.538,
+      "bucket": "Maybe",
+      "deadline": null,
+      "anticipated_funding_amount": "$10,750,000 (approximately) in FY2010, subject to the availability of funds.",
+      "url": "https://www.nsf.gov/funding/opportunities/nsdl-national-stem-education-distributed-learning/nsf10-545/solicitation",
+      "reasons": [
+        "Mission overlap: ['STEM education']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check.",
+      "explanation": "The organization has a strong alignment with the grant in terms of mission, specifically around 'STEM education,' which overlaps with multiple mission tags from the organization. However, there are no specific overlaps in population or organizational types, and the grant does not explicitly cater to the nonprofit sector, which could raise questions regarding eligibility. Additionally, since there are no stated red flags in the grant requirements, the organization could explore this opportunity further, although a clearer fit would be beneficial given the absence of overlapping attributes in other areas. Considering the rolling deadline, there is time to assess this grant's suitability further.",
+      "synopsis": "This program aims to establish a national network of learning environments and resources for science, technology, engineering, and mathematics (STEM) education at all levels. The program has four tracks: Pathways projects are expected to provide stewardship for the content and services needed by major communities of learners; Pathways II projects are expected to move beyond the major stewardship goals and use Stage II support to ensure the expansion and stability of an original Pathways effort; Services projects are expected to develop services that support users and resource collection providers by\u00a0enhancing the impact, efficiency, and value of the NSDL network; and Targeted Research will focus on investigating the educational impact of networked digital resources.\u00a0\u00a0 The existing NSDL Resource Center will provide collaboration assistance across all projects; undertake strategic partnership development on behalf of projects particularly with respect to non-academic entities; coordinate and, in some cases, perform thematic research and evaluation studies related to the program; synthesize findings across the portfolio; and disseminate findings of the accomplishments of the NSDL program. The NSDL Technical Network Services project operates NSDL's infrastructure and NSDL.org; provides technical support for NSDL tools, services, and collections management; supports Pathways and other NSDL projects in contributing resources and collections to NSDL; and engages the NSDL community in identifying priorities for services developments. In FY2010, the program will accept proposals for large grants in 1) the Pathways track, 2) Pathways - II, 3) specific sub-tracks of Services, and 4) Targeted Research. In all tracks, the program will also accept proposals for small grants that extend or enhance results from existing services, collections, or targeted research activity to enlarge the user audience for the NSDL network or improve capabilities for the user.Technology-intensive\u00a0projects that explore specific topics that have immediate applicability to collections, services, and other aspects of the development of the NSDL network should seek\u00a0small grant support under\u00a0the Services section of the program. In addition the program particularly encourages proposals for small grants from institutions and organizations new to NSDL that look to establish partnerships with existing Pathways project activities."
+    },
+    {
+      "grant_profile": "nsf_historically_black_colleges_and_universities_undergraduate_program_hbcu_up_profile.json",
+      "score": 0.514,
+      "bucket": "Maybe",
+      "deadline": "2026-03-24",
+      "anticipated_funding_amount": "$62,250,000",
+      "url": "https://www.nsf.gov/funding/opportunities/hbcu-historically-black-colleges-universities-undergraduate/nsf23-563/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students']"
+      ]
+    },
+    {
+      "grant_profile": "nsf_nsf_stem_k_12_stem_k_12_profile.json",
+      "score": 0.512,
+      "bucket": "Maybe",
+      "deadline": null,
+      "anticipated_funding_amount": "$30,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/stem-k-12-nsf-stem-k-12/nsf25-545/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students']",
+        "Org type ok: ['nonprofit']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_centers_of_research_excellence_in_science_and_technology_research_infrastructure_for_science_and_eng_profile.json",
+      "score": 0.51,
+      "bucket": "Maybe",
+      "deadline": null,
+      "anticipated_funding_amount": "$6,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/crest-rise-centers-research-excellence-science-technology-research/nsf24-562/solicitation",
+      "reasons": [
+        "Mission overlap: ['STEM education']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_centers_of_research_excellence_in_science_and_technology_crest_centers_profile.json",
+      "score": 0.478,
+      "bucket": "Maybe",
+      "deadline": null,
+      "anticipated_funding_amount": "$8,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/crest-centers-centers-research-excellence-science-technology/nsf23-595/solicitation",
+      "reasons": [
+        "Mission overlap: ['STEM education']",
+        "Population overlap: ['K-12 students']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_nsf_graduate_research_fellowship_program_grfp_profile.json",
+      "score": 0.456,
+      "bucket": "Maybe",
+      "deadline": null,
+      "anticipated_funding_amount": "$159,000",
+      "url": "https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf25-547/solicitation",
+      "reasons": [
+        "Org type ok: ['nonprofit']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_structure_and_physics_of_the_solid_earth_spse_profile.json",
+      "score": 0.453,
+      "bucket": "Maybe",
+      "deadline": null,
+      "anticipated_funding_amount": "$22,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/spse-structure-physics-solid-earth/nsf25-518/solicitation",
+      "reasons": [
+        "Org type ok: ['nonprofit']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    },
+    {
+      "grant_profile": "nsf_discovery_research_prek_12_program_resource_center_on_transformative_education_research_and_translat_profile.json",
+      "score": 0.447,
+      "bucket": "Maybe",
+      "deadline": null,
+      "anticipated_funding_amount": "$5,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/drk-12-rc-discovery-research-prek-12-program-resource-center/nsf24-602/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students', 'elementary students', 'high school students', 'middle school students']",
+        "Org type ok: ['nonprofit']"
+      ],
+      "deadline_note": "Could not locate; please use the URL to double-check."
+    }
+  ]
+}

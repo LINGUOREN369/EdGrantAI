@@ -106,14 +106,33 @@ def _extract_synopsis_from_source(grant: Dict) -> Optional[str]:
 
 
 def _next_deadline(dl: Dict) -> Optional[str]:
+    """Return the closest upcoming deadline (ISO YYYY-MM-DD) from a deadline dict.
+
+    - Picks the nearest date that is today or in the future; if none are future,
+      falls back to the latest past date.
+    - Returns None if no dates present.
+    """
     try:
         if not isinstance(dl, dict):
             return None
         dates = dl.get("dates") or []
         if not dates:
             return None
-        # Dates are ISO YYYY-MM-DD strings; simple sort works
-        return sorted(dates)[0]
+        from datetime import date as _date
+        parsed = []
+        for s in dates:
+            try:
+                y, m, d = s.split("-")
+                parsed.append(_date(int(y), int(m), int(d)))
+            except Exception:
+                continue
+        if not parsed:
+            return None
+        today = _date.today()
+        future = [dt for dt in parsed if dt >= today]
+        if future:
+            return min(future).isoformat()
+        return max(parsed).isoformat()
     except Exception:
         return None
 
@@ -156,6 +175,25 @@ def _rolling_from_source(grant: Dict) -> bool:
 def _funding_from_source(grant: Dict) -> Optional[Dict]:
     try:
         from extraction.funding_extractor import extract_funding_info
+    except Exception:
+        return None
+
+
+def _deadline_from_source(grant: Dict) -> Optional[Dict]:
+    try:
+        from extraction.deadline_extractor import extract_deadline_info
+    except Exception:
+        return None
+    try:
+        src = grant.get("source") or {}
+        p = src.get("path")
+        if not p:
+            return None
+        path = Path(p)
+        if not path.exists():
+            return None
+        text = path.read_text(encoding="utf-8")
+        return extract_deadline_info(text)
     except Exception:
         return None
 
@@ -240,14 +278,101 @@ def _tag_set(profile: Dict, key: str) -> Set[str]:
     return {d.get("tag") for d in items if isinstance(d, dict) and d.get("tag")}
 
 
-def _overlap_ratio(org_tags: Set[str], grant_tags: Set[str]) -> float:
-    if not org_tags:
+def _tag_weights(profile: Dict, key: str) -> Dict[str, float]:
+    items = profile.get("canonical_tags", {}).get(key, [])
+    weights: Dict[str, float] = {}
+    for d in items:
+        if not isinstance(d, dict):
+            continue
+        tag = d.get("tag")
+        if not tag:
+            continue
+        conf = d.get("confidence", 1.0)
+        try:
+            conf_f = float(conf)
+        except (TypeError, ValueError):
+            conf_f = 1.0
+        # Confidence should be in [0, 1], but clamp defensively.
+        if conf_f < 0.0:
+            conf_f = 0.0
+        elif conf_f > 1.0:
+            conf_f = 1.0
+        prev = weights.get(tag, 0.0)
+        if conf_f > prev:
+            weights[tag] = conf_f
+    return weights
+
+
+def _directional_confidence_overlap(
+    org_weights: Dict[str, float],
+    grant_weights: Dict[str, float],
+    emb: Optional[Dict[str, List[float]]],
+    threshold: float,
+) -> float:
+    if not org_weights:
         return 0.0
-    return len(org_tags & grant_tags) / max(1, len(org_tags))
+    denom = sum(w for w in org_weights.values() if w > 0.0)
+    if denom <= 0.0 or not grant_weights:
+        return 0.0
+
+    if emb:
+        import numpy as _np
+
+        grant_items = []
+        for gtag, w_g in grant_weights.items():
+            if w_g <= 0.0:
+                continue
+            vec_g = emb.get(gtag)
+            grant_items.append((gtag, _np.array(vec_g) if vec_g is not None else None, w_g))
+    else:
+        grant_items = [(gtag, None, w_g) for gtag, w_g in grant_weights.items() if w_g > 0.0]
+
+    total = 0.0
+    for otag, w_o in org_weights.items():
+        if w_o <= 0.0:
+            continue
+        best = 0.0
+        if not emb:
+            w_g = grant_weights.get(otag)
+            if w_g:
+                best = w_g
+        else:
+            vec_o = emb.get(otag)
+            vec_o_arr = _np.array(vec_o) if vec_o is not None else None
+            for gtag, vec_g, w_g in grant_items:
+                sim = 0.0
+                if vec_o_arr is not None and vec_g is not None:
+                    sim = cosine_similarity(vec_o_arr, vec_g)
+                    if sim < 0.0:
+                        sim = 0.0
+                elif otag == gtag:
+                    sim = 1.0
+                if sim <= 0.0:
+                    continue
+                if sim < threshold and otag != gtag:
+                    continue
+                match = sim * w_g
+                if match > best:
+                    best = match
+        total += w_o * best
+    return total / denom if denom > 0.0 else 0.0
 
 
-def _semantic_overlap(taxonomy_name: str, org_tags: Set[str], grant_tags: Set[str]) -> float:
-    if not org_tags:
+def _symmetric_confidence_overlap(
+    org_weights: Dict[str, float],
+    grant_weights: Dict[str, float],
+    emb: Optional[Dict[str, List[float]]],
+    threshold: float,
+) -> float:
+    if not org_weights or not grant_weights:
+        return 0.0
+    forward = _directional_confidence_overlap(org_weights, grant_weights, emb, threshold)
+    backward = _directional_confidence_overlap(grant_weights, org_weights, emb, threshold)
+    return (forward + backward) / 2.0
+
+
+def _semantic_overlap(taxonomy_name: str, org_weights: Dict[str, float], grant_weights: Dict[str, float]) -> float:
+    if not org_weights:
         return 0.0
     try:
         if taxonomy_name not in _EMB_CACHE:
@@ -256,35 +381,19 @@ def _semantic_overlap(taxonomy_name: str, org_tags: Set[str], grant_tags: Set[st
             )
         emb = _EMB_CACHE.get(taxonomy_name) or {}
         if not emb:
-            return _overlap_ratio(org_tags, grant_tags)
+            return _symmetric_confidence_overlap(org_weights, grant_weights, None, 0.0)
     except Exception:
-        return _overlap_ratio(org_tags, grant_tags)
+        return _symmetric_confidence_overlap(org_weights, grant_weights, None, 0.0)
     threshold = settings.MATCH_TAX_SIM_THRESHOLD
-    scores = []
-    import numpy as _np
-    for ot in org_tags:
-        vec_o = emb.get(ot)
-        if not vec_o:
-            scores.append(1.0 if ot in grant_tags else 0.0)
-            continue
-        best = 0.0
-        for gt in grant_tags:
-            vec_g = emb.get(gt)
-            if not vec_g:
-                continue
-            sim = cosine_similarity(_np.array(vec_o), _np.array(vec_g))
-            if sim > best:
-                best = sim
-        scores.append(best if best >= threshold else 0.0)
-    return float(sum(scores) / len(scores)) if scores else 0.0
+    return _symmetric_confidence_overlap(org_weights, grant_weights, emb, threshold)
 
 
-def _geography_overlap(org_tags: Set[str], grant_tags: Set[str]) -> float:
-    if not org_tags:
+def _geography_overlap(org_weights: Dict[str, float], grant_weights: Dict[str, float]) -> float:
+    if not org_weights:
         return 0.0
-    if "us_national" in grant_tags:
-        return 1.0 if org_tags else 0.0
-    return _overlap_ratio(org_tags, grant_tags)
+    if "us_national" in grant_weights:
+        return 1.0 if org_weights else 0.0
+    return _symmetric_confidence_overlap(org_weights, grant_weights, None, 0.0)
 
 
 def _hard_block(org_type_tags: Set[str], grant_red_flags: Set[str]) -> bool:
@@ -302,14 +411,16 @@ def _hard_block(org_type_tags: Set[str], grant_red_flags: Set[str]) -> bool:
 def _score_and_reasons(org: Dict, grant: Dict) -> Tuple[float, str, List[str]]:
     o = {k: _tag_set(org, k) for k in TAX_KEYS}
     g = {k: _tag_set(grant, k) for k in TAX_KEYS}
+    o_w = {k: _tag_weights(org, k) for k in TAX_KEYS}
+    g_w = {k: _tag_weights(grant, k) for k in TAX_KEYS}
     red_flags_set = set(g["red_flag_tags"]) if g["red_flag_tags"] else set()
     if _hard_block(o["org_type_tags"], red_flags_set):
         return 0.0, "Avoid", [f"Hard block due to red flags: {sorted(red_flags_set)}"]
     w = settings.MATCH_WEIGHTS
-    mission = _semantic_overlap("mission_tags", o["mission_tags"], g["mission_tags"]) * w["mission_tags"]
-    pop = _semantic_overlap("population_tags", o["population_tags"], g["population_tags"]) * w["population_tags"]
-    geo = _geography_overlap(o["geography_tags"], g["geography_tags"]) * w["geography_tags"]
-    orgtype = (1.0 if (o["org_type_tags"] & g["org_type_tags"]) else 0.0) * w["org_type_tags"]
+    mission = _semantic_overlap("mission_tags", o_w["mission_tags"], g_w["mission_tags"]) * w["mission_tags"]
+    pop = _semantic_overlap("population_tags", o_w["population_tags"], g_w["population_tags"]) * w["population_tags"]
+    geo = _geography_overlap(o_w["geography_tags"], g_w["geography_tags"]) * w["geography_tags"]
+    orgtype = _symmetric_confidence_overlap(o_w["org_type_tags"], g_w["org_type_tags"], None, 0.0) * w["org_type_tags"]
     score = mission + pop + geo + orgtype
     if red_flags_set:
         score *= settings.MATCH_RED_FLAG_PENALTY
@@ -343,6 +454,14 @@ def recommend(org_profile_path: Path, grants_dir: Path, top: int = 10, explain: 
             g = _load_json(p)
             score, bucket, reasons = _score_and_reasons(org, g)
             dl = g.get("deadline", {})
+            # If no dates found (and not rolling), attempt fresh extraction from source to catch headings with next-line dates
+            try:
+                if (not isinstance(dl, dict)) or (not dl.get("dates") and (dl.get("status") != "rolling")):
+                    dl2 = _deadline_from_source(g)
+                    if dl2:
+                        dl = dl2
+            except Exception:
+                pass
             # Derive rolling from source text if extractor missed 'anytime' style phrasing
             dl_status = dl.get("status")
             if (not dl_status or dl_status == "unspecified") and _rolling_from_source(g):
@@ -350,20 +469,20 @@ def recommend(org_profile_path: Path, grants_dir: Path, top: int = 10, explain: 
             fd = g.get("funding", {}) or {}
             # Extract anticipated funding amount text directly (verbatim)
             anticipated = _extract_anticipated_from_source(g)
-            raw.append(
-                {
-                    "grant_profile": p.name,
-                    "_grant_path": str(p),  # internal helper for deferred explanation
-                    "score": score,
-                    "bucket": bucket,
-                    "deadlines": dl.get("dates", []),
-                    "deadline_status": dl.get("status"),
-                    "deadline": _next_deadline(dl),
-                    "anticipated_funding_amount": anticipated,
-                    "url": (g.get("source") or {}).get("url"),
-                    "reasons": reasons,
-                }
-            )
+            _closest = _next_deadline(dl)
+            item = {
+                "grant_profile": p.name,
+                "_grant_path": str(p),  # internal helper for deferred explanation
+                "score": score,
+                "bucket": bucket,
+                "deadline": _closest,
+                "anticipated_funding_amount": anticipated,
+                "url": (g.get("source") or {}).get("url"),
+                "reasons": reasons,
+            }
+            if _closest is None:
+                item["deadline_note"] = "Could not locate; please use the URL to double-check."
+            raw.append(item)
         except Exception as e:
             raw.append({"grant_profile": p.name, "error": str(e)})
 

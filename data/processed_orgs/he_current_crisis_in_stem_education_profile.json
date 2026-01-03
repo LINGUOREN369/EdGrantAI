@@ -1,0 +1,55 @@
+{
+  "org_id": "he_current_crisis_in_stem_education",
+  "created_at": "2026-01-03T11:11:27.963785-05:00",
+  "taxonomy_version": "0.0.10",
+  "extracted_phrases": [
+    "STEM education",
+    "technology-based educational innovations",
+    "Learning Everywhere initiative",
+    "science and engineering learning opportunities",
+    "energy and engineering concepts",
+    "alternative energies",
+    "energy use",
+    "human impacts",
+    "green engineering and design"
+  ],
+  "canonical_tags": {
+    "mission_tags": [
+      {
+        "tag": "STEM education",
+        "source_text": "STEM education",
+        "confidence": 1.0,
+        "sources": [
+          "STEM education"
+        ]
+      },
+      {
+        "tag": "instructional innovation",
+        "source_text": "technology-based educational innovations",
+        "confidence": 0.708,
+        "sources": [
+          "technology-based educational innovations"
+        ]
+      }
+    ],
+    "population_tags": [],
+    "org_type_tags": [],
+    "geography_tags": [],
+    "red_flag_tags": []
+  },
+  "validation": {
+    "rules_version": "0.0.10+",
+    "notes": [
+      "Dictionary-first; geography explicit or derived from state name",
+      "Restricted mission tags require explicit signals",
+      "Grade-band suppression if only generic K\u201312",
+      "Policy tag requires policy/advocacy signals",
+      "Population tags require explicit cues; no 'school districts' population",
+      "Org-specific thresholds applied"
+    ]
+  },
+  "source": {
+    "path": null,
+    "url": null
+  }
+}

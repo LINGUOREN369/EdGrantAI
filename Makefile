@@ -14,6 +14,7 @@ help:
 	@echo "  orgs-all             Process all org text files in data/orgs"
 	@echo "  recs                 Rank grants for one org (make recs ORG=<path>)"
 	@echo "  recs-all             Rank grants for all org profiles in $(ORGS_DIR)"
+	@echo "  run-cli              Interactive: paste org profile → report"
 	@echo "  explain-reports      Add LLM explanations to existing reports in reports/"
 	@echo "  synonyms-build       Auto-generate synonyms for all taxonomies (safe variants)"
 	@echo "  e2e                  End-to-end: taxonomy refresh, grants refresh, batch build, orgs, recs"
@@ -113,6 +114,10 @@ e2e:
 	$(MAKE) orgs-all && \
 	echo "[e2e] 5/5 recs-all"; \
 	$(MAKE) recs-all
+
+# Interactive CLI: enter org text and generate a single report
+run-cli:
+	python -m cli.interactive
 
 # Post-process existing reports to add explanations (writes *_explained.json by default)
 explain-reports:

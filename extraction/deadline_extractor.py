@@ -28,7 +28,8 @@ _LINE_HINT = re.compile(
     r"\b("
     r"deadline|due date|due|submit by|submission deadline|closing date|"
     r"target date|submission window|full proposal|full proposals|"
-    r"loi due|letter of intent|pre[- ]?proposal|preproposal"
+    r"loi due|letter of intent|pre[- ]?proposal|preproposal|"
+    r"full proposal deadline\(s\)|full proposal target date\(s\)"
     r")\b",
     re.IGNORECASE,
 )
@@ -97,6 +98,7 @@ def extract_deadline_info(text: str) -> Dict:
     mentions: List[str] = []
     dates: List[str] = []
     rolling = False
+    accept_next_dates: int = 0  # how many subsequent non-empty lines we treat as date-only context
 
     for raw in lines:
         line = raw.strip()
@@ -107,14 +109,23 @@ def extract_deadline_info(text: str) -> Dict:
             continue
         if _ROLLING.search(line):
             rolling = True
+        # Detect headings that often put the date on the next line
+        # e.g., "Full Proposal Deadline(s) (due by 5 p.m. submitter's local time):"
+        if re.search(r"^\s*full\s+proposal\s+(deadline|deadline\(s\)|target date\(s\))", line, re.IGNORECASE):
+            if line not in mentions:
+                mentions.append(line)
+            accept_next_dates = 2  # consider next couple of lines for dates
+
         # Only consider lines that have explicit deadline-like cues or rolling hints
-        if _LINE_HINT.search(line) or _ROLLING.search(line):
+        if _LINE_HINT.search(line) or _ROLLING.search(line) or accept_next_dates > 0:
             if line not in mentions:
                 mentions.append(line)
             for m in _DATE_TOKENS.finditer(line):
                 iso = _norm_date_token(m.group(0))
                 if iso and iso not in dates:
                     dates.append(iso)
+        if accept_next_dates > 0:
+            accept_next_dates -= 1
 
     status = "unspecified"
     if dates and len(dates) == 1:

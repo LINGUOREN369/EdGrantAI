@@ -89,14 +89,32 @@ def _ensure_base_fields(org: Dict, grant: Dict, item: Dict) -> None:
             dl = {**dl, "status": "rolling"}
     except Exception:
         pass
-    item["deadlines"] = dl.get("dates", [])
-    item["deadline_status"] = dl.get("status")
-    # Add a normalized single next deadline
+    # Keep only the closest deadline (normalized single date)
     try:
-        dates = dl.get("dates") or []
-        item["deadline"] = sorted(dates)[0] if dates else None
+        dates = (dl.get("dates") or []) if isinstance(dl, dict) else []
+        # Compute closest upcoming or latest past
+        from datetime import date as _date
+        parsed = []
+        for s in dates:
+            try:
+                y, m, d = s.split("-")
+                parsed.append(_date(int(y), int(m), int(d)))
+            except Exception:
+                continue
+        if parsed:
+            today = _date.today()
+            future = [dt for dt in parsed if dt >= today]
+            nd = min(future).isoformat() if future else max(parsed).isoformat()
+        else:
+            nd = None
+        item["deadline"] = nd
     except Exception:
         item["deadline"] = None
+    if item.get("deadline") is None:
+        item["deadline_note"] = "Could not locate; please use the URL to double-check."
+    # Ensure we do not keep the old fields
+    item.pop("deadlines", None)
+    item.pop("deadline_status", None)
     # Anticipated Funding Amount (verbatim)
     try:
         item["anticipated_funding_amount"] = me._extract_anticipated_from_source(grant)
