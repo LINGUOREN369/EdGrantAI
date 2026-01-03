@@ -51,6 +51,10 @@ Similarity rules:
 - If embeddings exist: cosine similarity, with a minimum threshold.
 - If embeddings do not exist: exact match only (1 or 0).
 
+Confidence handling:
+- Tag confidence values are clamped to the range 0.0–1.0.
+- If a tag appears multiple times, the highest confidence is used.
+
 ---
 
 ## Final score formula
@@ -78,6 +82,24 @@ Hard blocks:
 
 Buckets:
 - `Apply` and `Maybe` thresholds are configurable in `common/config.py`.
+
+---
+
+## Recommendation output details
+
+The recommendation report includes:
+- Score, bucket, and overlap reasons
+- Closest upcoming deadline (if found)
+- Anticipated funding amount (verbatim, if found)
+- Source URL
+
+If `--explain` is enabled:
+- Explanations are generated only for the top N or above a score threshold.
+- A short synopsis is added when a “Synopsis:” line is found in source text.
+
+Additional behaviors:
+- Deadline extraction is retried from the source text if missing in the profile.
+- Rolling deadlines are inferred from common “anytime” phrases in source text.
 
 ---
 

@@ -17,7 +17,8 @@ EdGrantAI was built to solve this specific problem. It is an evidence-bound deci
 1) Install dependencies
 - `pip install -r requirements.txt`
 2) Set API key (for LLM explanations and embeddings)
-- `OPENAI_API_KEY=sk-...`
+- Create a `.env` file in the repo root and add:
+  - `OPENAI_API_KEY=sk-...`
 3) Build taxonomy embeddings (once)
 - `make rebuild-taxonomy`
 4) Process profiles
@@ -38,6 +39,7 @@ Start here for details and rationale:
 - Matching algorithm and formula: [docs/03_matching_algorithm_and_formula.md](docs/03_matching_algorithm_and_formula.md)
 - Makefile commands: [docs/makefile_commands.md](docs/makefile_commands.md)
 - Repository structure: [docs/repo_structure.md](docs/repo_structure.md)
+- Responsible AI and alignment: [docs/responsible_ai_and_alignment.md](docs/responsible_ai_and_alignment.md)
 - Case study: [docs/EdGrantAI_Case_Study.md](docs/EdGrantAI_Case_Study.md)
 - Diagrams: [docs/structure.png](docs/structure.png), [docs/workflow.png](docs/workflow.png)
 
@@ -52,6 +54,13 @@ Start here for details and rationale:
 - Recommendations for all orgs: `make recs-all`
 
 For the full list, see `Makefile`.
+
+## Model choices (why these defaults)
+
+- `gpt-4o-mini` for extraction and explanations: fast, low-cost, and strong at constrained JSON output when prompted; the task is extractive, not creative.
+- `text-embedding-3-large` for semantic matching: robust similarity for short phrases and taxonomy tags with good quality-per-cost.
+
+Both are configurable in `common/config.py` via environment variables.
 
 ## Configuration
 

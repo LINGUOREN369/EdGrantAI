@@ -19,6 +19,12 @@ Where it lives:
 - Prompt: `prompts/cke_prompt_nsf_v1.txt`
 - Code: `extraction/cke.py`
 
+Operational details:
+- Uses the chat model from `common/config.py` (`OPENAI_CHAT_MODEL`).
+- Strips fenced code blocks if the model wraps JSON in triple backticks.
+- Raises a clear parse error if the output is not a JSON array.
+- Initializes the OpenAI client lazily (only when the extractor is called).
+
 Example output:
 
 ```json
@@ -41,6 +47,27 @@ Grant-specific metadata is extracted with deterministic parsers to avoid halluci
 
 Relevant code:
 - `extraction/deadline_extractor.py`
+
+Notes:
+- The extractor does not guess missing years.
+- It ignores “posted/published” lines that are not deadlines.
+
+---
+
+## Section provenance for phrases
+
+Grant phrases are assigned to NSF sections so downstream mapping can enforce section-based rules.
+
+Detected sections (case-insensitive, Roman numerals optional):
+- Introduction
+- Program Description
+- Award Information
+- Eligibility Information
+
+If no heading is found, phrases are tagged as `Other`.
+
+Relevant code:
+- `extraction/section_utils.py`
 
 ---
 
