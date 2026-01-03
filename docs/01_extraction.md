@@ -56,5 +56,5 @@ These outputs are inputs to the mapping and profile-building stages.
 
 ## Where to go next
 
-- Profile building: `docs/profile_building.md`
-- Matching algorithm and formula: `docs/matching_algorithm_and_formula.md`
+- Profile building: `docs/02_profile_building.md`
+- Matching algorithm and formula: `docs/03_matching_algorithm_and_formula.md`

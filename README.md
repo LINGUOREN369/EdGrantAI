@@ -32,10 +32,10 @@ EdGrantAI was built to solve this specific problem. It is an evidence-bound deci
 Start here for details and rationale:
 
 - Architecture design: [docs/architecture_design.md](docs/architecture_design.md)
-- Data source and handling: [docs/data_source_and_handling.md](docs/data_source_and_handling.md)
-- Extraction: [docs/extraction.md](docs/extraction.md)
-- Profile building: [docs/profile_building.md](docs/profile_building.md)
-- Matching algorithm and formula: [docs/matching_algorithm_and_formula.md](docs/matching_algorithm_and_formula.md)
+- Data source and handling: [docs/00_data_source_and_handling.md](docs/00_data_source_and_handling.md)
+- Extraction: [docs/01_extraction.md](docs/01_extraction.md)
+- Profile building: [docs/02_profile_building.md](docs/02_profile_building.md)
+- Matching algorithm and formula: [docs/03_matching_algorithm_and_formula.md](docs/03_matching_algorithm_and_formula.md)
 - Makefile commands: [docs/makefile_commands.md](docs/makefile_commands.md)
 - Repository structure: [docs/repo_structure.md](docs/repo_structure.md)
 - Case study: [docs/EdGrantAI_Case_Study.md](docs/EdGrantAI_Case_Study.md)

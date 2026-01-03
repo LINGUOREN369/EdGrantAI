@@ -69,5 +69,5 @@ Set the CSV path when running:
 
 ## Where to go next
 
-- Extraction details: `docs/extraction.md`
-- Profile building: `docs/profile_building.md`
+- Extraction details: `docs/01_extraction.md`
+- Profile building: `docs/02_profile_building.md`

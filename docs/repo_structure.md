@@ -74,10 +74,10 @@ EdGrantAI/
 |       \-- schema_version.json
 |-- docs/
 |   |-- architecture_design.md
-|   |-- data_source_and_handling.md
-|   |-- extraction.md
-|   |-- profile_building.md
-|   |-- matching_algorithm_and_formula.md
+|   |-- 00_data_source_and_handling.md
+|   |-- 01_extraction.md
+|   |-- 02_profile_building.md
+|   |-- 03_matching_algorithm_and_formula.md
 |   |-- makefile_commands.md
 |   |-- EdGrantAI_Case_Study.md
 |   |-- cover.svg

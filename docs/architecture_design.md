@@ -61,7 +61,7 @@ This document describes the high-level architecture of EdGrantAI and how the maj
 
 ## Where to go next
 
-- Data sources and handling: `docs/data_source_and_handling.md`
-- Extraction details: `docs/extraction.md`
-- Profile building: `docs/profile_building.md`
-- Matching algorithm and formula: `docs/matching_algorithm_and_formula.md`
+- Data sources and handling: `docs/00_data_source_and_handling.md`
+- Extraction details: `docs/01_extraction.md`
+- Profile building: `docs/02_profile_building.md`
+- Matching algorithm and formula: `docs/03_matching_algorithm_and_formula.md`

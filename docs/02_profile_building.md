@@ -78,4 +78,4 @@ Built by `mapping/org_profile_builder.py` and saved to:
 
 ## Where to go next
 
-- Matching algorithm and formula: `docs/matching_algorithm_and_formula.md`
+- Matching algorithm and formula: `docs/03_matching_algorithm_and_formula.md`

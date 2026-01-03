@@ -1,6 +1,6 @@
 # EdGrantAI: Democratizing Access to Funding with Specialized AI
 
-Note: Technical details are consolidated in `docs/architecture_design.md`, `docs/data_source_and_handling.md`, `docs/extraction.md`, `docs/profile_building.md`, and `docs/matching_algorithm_and_formula.md`. This case study focuses on narrative and impact.
+Note: Technical details are consolidated in `docs/architecture_design.md`, `docs/00_data_source_and_handling.md`, `docs/01_extraction.md`, `docs/02_profile_building.md`, and `docs/03_matching_algorithm_and_formula.md`. This case study focuses on narrative and impact.
 
   Case Study: Moving Beyond Generic Chatbots to Reliable Decision Support
 
