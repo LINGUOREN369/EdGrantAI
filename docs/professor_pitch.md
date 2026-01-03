@@ -22,7 +22,7 @@ Who Benefits
 - Extract (verbatim, no generation): `prompts/cke_prompt_nsf_v1.txt`, `pipeline/cke.py`
 - Map (dictionary → embeddings with guardrails): `pipeline/canonical_mapper.py`, `pipeline/embedding_matcher.py`
 - Build profiles (with deadlines, provenance): `pipeline/grant_profile_builder.py`, `pipeline/org_profile_builder.py`, `pipeline/deadline_extractor.py`
-- Rank (transparent scoring + optional LLM bullets): `pipeline/matching_engine.py`, prompt in `prompts/matching_explainer_prompt_v1.txt`
+- Rank (transparent scoring + optional LLM paragraph): `pipeline/matching_engine.py`, prompt in `prompts/matching_explainer_prompt_v1.txt`
 - Configuration + thresholds: `pipeline/config.py`
 
 Design choices

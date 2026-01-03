@@ -339,7 +339,7 @@ Quick embeddings rebuild checklist
   - All orgs: `make recs-all` (reads from `data/processed_orgs`, writes JSON files to `reports/`)
 
 Notes
-- `make recs` includes an LLM-generated explanation per grant with a one-line recommendation and up to 5 bullets under `explanation` in the JSON output.
+- `make recs` includes an LLM-generated explanation per grant with a top-line recommendation and a concise paragraph under `explanation.paragraph` in the JSON output.
 
 These commands assume `.env` contains `OPENAI_API_KEY` (auto‑loaded by the pipeline).
 
@@ -517,7 +517,7 @@ Use one (or more) of the options below to refresh the grant source files under `
   - Place your CSV at `data/NSF_database/nsf_funding.csv` (or pass a custom path).
   - Build `.txt` files (URL on line 1, CSV fields, and page text):
     - `CSV=data/NSF_database/nsf_funding.csv OVERWRITE=1 make nsf-from-csv`
-    - Direct CLI: `python -m pipeline.build_grants_from_csv --csv data/NSF_database/nsf_funding.csv --out-dir data/grants --overwrite`
+    - Direct CLI: `python -m extraction.build_grants_from_csv --csv data/NSF_database/nsf_funding.csv --out-dir data/grants --overwrite`
   - Offline mode (skip fetching solicitation pages): add `NO_FETCH=1` or `--no-fetch`.
 
 - From NSF funding opportunities pages (nsf.gov)
@@ -549,13 +549,13 @@ Troubleshooting
 ## Programmatic Usage
 
 - Extract keyphrases via CKE:
-  - `from pipeline.cke import run_cke`
+  - `from extraction.cke import run_cke`
   - `phrases = run_cke("We support robotics clubs...")`
 - Map phrases to canonical taxonomy:
-  - `from pipeline.canonical_mapper import map_all_taxonomies`
+  - `from mapping.canonical_mapper import map_all_taxonomies`
   - `mapped = map_all_taxonomies(phrases)`
 - Build and save a full grant profile:
-  - `from pipeline.grant_profile_builder import process_grant`
+  - `from mapping.grant_profile_builder import process_grant`
   - `path = process_grant("grant_0001", "grant description text...")`
 
 ---

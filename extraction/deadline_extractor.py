@@ -40,7 +40,14 @@ _NEGATIVE_HINT = re.compile(
 )
 
 _ROLLING = re.compile(
-    r"\b(rolling|ongoing|year[- ]round|open until|until filled|no deadline)\b",
+    r"\b("
+    r"rolling|ongoing|year[- ]round|open until|until filled|no deadline|"
+    r"proposals?\s+accepted\s+any\s*time|proposals?\s+accepted\s+anytime|"
+    r"accepts?\s+proposals?\s+at\s+any\s*time|accepts?\s+proposals?\s+anytime|"
+    r"continuous\s+submission|continuous\s+submissions|"
+    r"accepted\s+continuously|accepted\s+on\s+a\s+rolling\s+basis|"
+    r"proposals?\s+accepted\s+on\s+a\s+rolling\s+basis"
+    r")\b",
     re.IGNORECASE,
 )
 
@@ -122,4 +129,3 @@ def extract_deadline_info(text: str) -> Dict:
         "dates": dates[:5],
         "raw_mentions": mentions[:10],
     }
-

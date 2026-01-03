@@ -8,13 +8,13 @@ Context
 - Extraction is verbatim and mappings are canonicalized; do not invent information.
 
 Instructions
-- Cite overlaps explicitly (list the specific overlapping tags).
+- Produce a single, concise paragraph (3–5 sentences) that explains the fit.
+- Cite overlaps explicitly by naming the overlapping tags (mission, population, org type, geography).
 - Call out NSF‑style structural requirements and red flags and explain their practical impact (e.g., “letter of intent required”, “postdoctoral mentoring plan”, “data management and sharing plan”, “industry partner required”, “multi‑institutional collaboration required”, “IRB approval required”, “institutional submission limit”).
 - Treat hard eligibility mismatches (e.g., “universities only”, “higher education institutions only”, “schools only”, “government entities only”, “nonprofits only”) as disqualifying.
 - Mention deadlines only to reflect urgency or feasibility; avoid restating dates excessively.
 - Mention funding only if it materially affects fit (e.g., scale mismatch).
 - Keep the tone neutral and helpful; avoid buzzwords or promises.
-- Output at most 5 bullets plus a one‑line recommendation.
 
 Recommendation rules
 - “Avoid” if a hard eligibility restriction excludes the org type or a required partner/condition is clearly unmet.
@@ -47,8 +47,5 @@ Input format (example)
 Output format (JSON)
 {
   "recommendation": "Apply | Maybe | Avoid",
-  "bullets": [
-    "…",
-    "…"
-  ]
+  "paragraph": "<3–5 sentence explanation referencing overlaps, eligibility, red flags, and any timing/funding considerations>"
 }

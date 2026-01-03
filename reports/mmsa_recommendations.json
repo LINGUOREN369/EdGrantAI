@@ -2,141 +2,159 @@
   "org_profile": "mmsa_profile.json",
   "recommendations": [
     {
-      "grant_profile": "nsf_centers_of_research_excellence_in_science_and_technology_crest_centers_profile.json",
-      "score": 0.688,
-      "bucket": "Apply",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['STEM education']",
-        "Population overlap: ['K-12 students', 'K-12 teachers', 'historically underserved students']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_research_experiences_for_teachers_in_engineering_and_computer_science_profile.json",
-      "score": 0.645,
-      "bucket": "Apply",
-      "deadlines": [
-        "2026-10-14"
-      ],
-      "deadline_status": "date",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['STEM education research']",
-        "Population overlap: ['K-12 students', 'K-12 teachers']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_national_stem_education_distributed_learning_nsdl_profile.json",
-      "score": 0.644,
-      "bucket": "Apply",
-      "deadlines": [],
-      "deadline_status": "rolling",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['STEM education']",
-        "Population overlap: ['K-12 teachers']"
-      ]
-    },
-    {
       "grant_profile": "nsf_collaboratory_to_advance_mathematics_education_and_learning_for_k_12_profile.json",
-      "score": 0.642,
+      "score": 0.964,
       "bucket": "Apply",
       "deadlines": [
         "2026-01-09"
       ],
       "deadline_status": "date",
-      "funding_min": null,
-      "funding_max": null,
+      "deadline": "2026-01-09",
+      "anticipated_funding_amount": "$9,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/collaboratory-advance-mathematics-education-learning-k-12/nsf26-501/solicitation",
       "reasons": [
         "Mission overlap: ['K-12 STEM education']",
-        "Population overlap: ['K-12 students', 'K-12 teachers']"
-      ]
+        "Population overlap: ['K-12 students', 'K-12 teachers']",
+        "Org type ok: ['nonprofit']"
+      ],
+      "synopsis": "The Collaboratory to Advance Mathematics Education and Learning (CAMEL) for K-12 initiative aims to advance mathematics learning and education through purposeful collaboration that draws on the interdisciplinary Science of Learning (including neuroscience; cognitive, developmental, and social sciences; computer science; machine learning; engineering; and education research), deep experiences in education practice and teaching, and innovations in the use of data science, AI and technology. Through an agreement with philanthropic partners, including the Walton Family Foundation (WFF), CAMEL consists of two phases. Phase I invites proposals for the creation of new research networks to support the generation of high value datasets that aim to advance math learning and education. These research networks must include researchers who study the basic science of learning, education practitioners, and data scientists. The high value dataset may come from either generating a new dataset or by increasing the value of an existing dataset. Phase II, open only to awardees of Phase I, establishes a \u201ccollaboratory,\u201d which is a socio-technological platform that prioritizes community-building and capacity-building to sustain collaborative efforts to advance math learning and education in K-12.\u00a0Expanding Participation in STEM, NSF Priorities and Gold Standard Science:NSF prioritizes cutting-edge discovery science and engineering research, advancing technology and innovation, and creating opportunities for all Americans. NSF has established priorities set forth by Congress, the administration and the NSF director to promote\u00a0NSF's mission. Proposers should review the list of\u00a0NSF priorities\u00a0and are encouraged to align their proposals with them, where appropriate. NSF also expects the highest standards of scientific rigor, integrity and adherence to appropriate tenets of\u00a0Gold Standard Science\u00a0in proposals, as appropriate for the field of science and research modality."
     },
     {
-      "grant_profile": "nsf_robert_noyce_teacher_scholarship_program_profile.json",
-      "score": 0.642,
+      "grant_profile": "nsf_nsf_stem_k_12_stem_k_12_profile.json",
+      "score": 0.79,
       "bucket": "Apply",
       "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
+      "deadline_status": "rolling",
+      "deadline": null,
+      "anticipated_funding_amount": "$30,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/stem-k-12-nsf-stem-k-12/nsf25-545/solicitation",
       "reasons": [
-        "Mission overlap: ['K-12 STEM education']",
-        "Population overlap: ['K-12 students', 'K-12 teachers']"
-      ]
+        "Population overlap: ['K-12 students', 'K-12 teachers']",
+        "Org type ok: ['nonprofit']"
+      ],
+      "synopsis": "The NSF STEM K-12 program in the Division of Research on Learning in Formal and Informal Settings (DRL) in the Directorate for STEM Education (EDU) supports fundamental, applied, and translational research that advances STEM teaching and learning and improves understanding of education across the human lifespan and a range of formal and informal settings."
     },
     {
-      "grant_profile": "nsf_science_and_technology_centers_integrative_partnerships_profile.json",
-      "score": 0.606,
+      "grant_profile": "nsf_advanced_technological_education_ate_profile.json",
+      "score": 0.727,
       "bucket": "Apply",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['K-12 STEM education']",
-        "Population overlap: ['K-12 students', 'K-12 teachers']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_physics_frontiers_centers_pfc_profile.json",
-      "score": 0.603,
-      "bucket": "Apply",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['underrepresented groups in STEM']",
-        "Population overlap: ['K-12 students', 'historically underserved students']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_centers_of_research_excellence_in_science_and_technology_research_infrastructure_for_science_and_eng_profile.json",
-      "score": 0.511,
-      "bucket": "Maybe",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['STEM education']",
-        "Population overlap: ['historically underserved students']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_research_experiences_for_undergraduates_reu_profile.json",
-      "score": 0.51,
-      "bucket": "Maybe",
       "deadlines": [
-        "2026-08-19"
+        "2026-10-01"
       ],
       "deadline_status": "date",
-      "funding_min": null,
-      "funding_max": null,
+      "deadline": "2026-10-01",
+      "anticipated_funding_amount": "$74,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/ate-advanced-technological-education/nsf24-584/solicitation",
+      "reasons": [
+        "Population overlap: ['high school teachers', 'middle school teachers', 'underserved communities']",
+        "Org type ok: ['nonprofit']"
+      ],
+      "synopsis": "With a focus on two-year Institutions of Higher Education (IHEs), the Advanced Technological Education (ATE) program supports the education of technicians for the high-technology fields that drive our nation's economy. The program involves partnerships between academic institutions (grades 7-12, IHEs), industry, and economic development agencies to promote improvement in the education of science and engineering technicians. It is strongly recommended that projects be faculty-led and required that courses and programs are credit-bearing, although materials developed may also be used for incumbent worker education. Materials may also be adapted and implemented as credit-bearing courses. The ATE program supports curriculum development; professional development of college faculty and secondary school teachers; career pathway development for both students and incumbent workers; and other activities including applied research projects that advance the knowledge base related to technician education."
+    },
+    {
+      "grant_profile": "nsf_structure_and_physics_of_the_solid_earth_spse_profile.json",
+      "score": 0.727,
+      "bucket": "Apply",
+      "deadlines": [],
+      "deadline_status": "rolling",
+      "deadline": null,
+      "anticipated_funding_amount": "$22,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/spse-structure-physics-solid-earth/nsf25-518/solicitation",
+      "reasons": [
+        "Org type ok: ['nonprofit']"
+      ],
+      "synopsis": "The Structure and Physics of the Solid Earth Program (SPSE) aims to advance fundamental knowledge about the ongoing dynamical processes over the age of the Earth that evolve the structure of planet Earth and underpin geohazards. SPSE supports research at all temporal and spatial scales, from the Earth's core to its crust. Through laboratory, field, theoretical, and computational studies, the program encompasses a wide range of disciplines including structural geology, tectonics, and geophysics. Research in these areas can help improve our understanding of natural hazards including earthquakes and mass flows, as well as Earth\u2019s formation and its magnetic field."
+    },
+    {
+      "grant_profile": "nsf_coastlines_and_people_hubs_for_research_and_broadening_participation_cope_profile.json",
+      "score": 0.723,
+      "bucket": "Apply",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "deadline": null,
+      "anticipated_funding_amount": "$28,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/cope-coastlines-people-hubs-research-broadening-participation/nsf21-613/solicitation",
       "reasons": [
         "Population overlap: ['K-12 teachers']",
-        "Red flags: ['submission_limit']"
-      ]
+        "Org type ok: ['nonprofit']"
+      ],
+      "synopsis": "Scientific research into complex coastal systems and the interplay with coastal hazards is vital for predicting, responding to, and mitigating threats in these regions. Understanding the risks associated with coastal hazards requires a holistic Earth Systems approach that integrates improved understanding of and, where possible, predictions about natural, social, and technological processes with efforts to increase the resilience of coastal systems.\u00a0The Coastlines and People program supports diverse, innovative, multi-institution awards that are focused on critically important coastlines and people research that is integrated with broadening participation goals.\u00a0The objective of this solicitation is to support Coastal Research Hubs, structured using a convergent science approach, at the nexus between coastal sustainability, human dimensions, and coastal processes to transform understanding of interactions among natural, human-built, and social systems in coastal, populated environments."
     },
     {
-      "grant_profile": "nsf_historically_black_colleges_and_universities_undergraduate_program_hbcu_up_profile.json",
-      "score": 0.499,
-      "bucket": "Maybe",
-      "deadlines": [
-        "2026-03-24"
-      ],
-      "deadline_status": "date",
-      "funding_min": null,
-      "funding_max": null,
+      "grant_profile": "nsf_discovery_research_prek_12_program_resource_center_on_transformative_education_research_and_translat_profile.json",
+      "score": 0.695,
+      "bucket": "Apply",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "deadline": null,
+      "anticipated_funding_amount": "$5,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/drk-12-rc-discovery-research-prek-12-program-resource-center/nsf24-602/solicitation",
       "reasons": [
-        "Population overlap: ['K-12 students']"
-      ]
+        "Population overlap: ['K-12 students', 'K-12 teachers', 'high school teachers']",
+        "Org type ok: ['nonprofit']"
+      ],
+      "synopsis": "This solicitation seeks proposals for the Discovery Research PreK-12 program\u2019s Resource Center (DRK-12 RC) on\u00a0Transformative Education Research and Translation."
+    },
+    {
+      "grant_profile": "nsf_data_science_corps_dsc_profile.json",
+      "score": 0.681,
+      "bucket": "Apply",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "deadline": null,
+      "anticipated_funding_amount": "$10,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/dsc-data-science-corps/nsf24-560/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students', 'underserved communities']",
+        "Org type ok: ['nonprofit']",
+        "Red flags: ['submission_limit']"
+      ],
+      "synopsis": "The objective of the Data Science Corps program is to help build a strong national data science infrastructure and workforce. The Data Science Corps program seeks to engage data science students in real-world data science implementation projects. This engagement will help bridge the data-to-knowledge gap in organizations and communities at all levels, including local, state, and national, and will empower better use of data for more effective decision making. Data Science Corps participants will be able to sharpen their skills in data science by working on real-world projects focused on specific community needs, including rural communities, urban communities, academia, industry, or government. This partnership between communities and data scientists will serve the nation by helping produce a workforce-ready cohort of data scientists and technologists, who have experience with data science in action in real-world settings. The program welcomes proposals that seek to broaden participation in\u00a0science, technology, engineering and mathematics (STEM) and STEM education."
+    },
+    {
+      "grant_profile": "nsf_pfe_research_initiation_in_engineering_formation_pfe_rief_profile.json",
+      "score": 0.663,
+      "bucket": "Apply",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "deadline": null,
+      "anticipated_funding_amount": "$3,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/pfe-rief-pfe-research-initiation-engineering-formation/nsf20-558/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students', 'K-12 teachers']",
+        "Org type ok: ['nonprofit']"
+      ],
+      "synopsis": "The PFE: Research Initiation in Engineering Formation (PFE: RIEF) program has two goals: 1) Support research in the Professional Formation of Engineers (PFE), and 2) Increase the community of researchers conducting PFE research. PIs are expected to have little or no experience conducting social science or education research. PFE: RIEF is not intended for established researchers in engineering education or other social science fields to initiate new projects. Those researchers should consider the Research in the Formation of Engineers program (https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505681)."
+    },
+    {
+      "grant_profile": "nsf_condensed_matter_physics_profile.json",
+      "score": 0.661,
+      "bucket": "Apply",
+      "deadlines": [],
+      "deadline_status": "rolling",
+      "deadline": null,
+      "anticipated_funding_amount": "$66,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/dmr-tmrp-division-materials-research-topical-materials-research/nsf23-612/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students', 'K-12 teachers']",
+        "Org type ok: ['nonprofit']"
+      ],
+      "synopsis": "All proposals submitted to this Program that are not governed by another solicitation (such as CAREER) must be submitted to the solicitation: Division of Materials Research: Topical Materials Research Programs (DMR:TMRP) (NSF 22-609). Proposals under this solicitation are accepted any time."
+    },
+    {
+      "grant_profile": "nsf_gravitational_physics_experiments_and_data_analysis_profile.json",
+      "score": 0.661,
+      "bucket": "Apply",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "deadline": null,
+      "anticipated_funding_amount": "$120,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/phy-division-physics-investigator-initiated-research-projects/nsf23-615/solicitation",
+      "reasons": [
+        "Population overlap: ['K-12 students', 'K-12 teachers']",
+        "Org type ok: ['nonprofit']"
+      ],
+      "synopsis": "All proposals submitted to the Physics Division that are not governed by another solicitation (such as CAREER) must be submitted to its division-wide solicitation: Division of Physics: Investigator-Initiated Research Projects."
     }
   ]
 }

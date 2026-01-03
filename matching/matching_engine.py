@@ -60,10 +60,160 @@ def _generate_explanation(org: Dict, grant: Dict, overlap: Dict[str, List[str]])
         if not isinstance(data, dict):
             return None
         rec = data.get("recommendation")
+        paragraph = data.get("paragraph") if isinstance(data.get("paragraph"), str) else None
         bullets = data.get("bullets") if isinstance(data.get("bullets"), list) else None
-        if not rec or not bullets:
+        # Prefer paragraph output; fall back to bullets (joined) if needed
+        if rec and paragraph:
+            result = {"recommendation": rec, "paragraph": paragraph}
+            if bullets:
+                result["bullets"] = bullets
+            return result
+        if rec and bullets:
+            joined = " ".join([b.strip() for b in bullets if isinstance(b, str)])
+            return {"recommendation": rec, "paragraph": joined, "bullets": bullets}
+        return None
+    except Exception:
+        return None
+
+
+def _extract_synopsis_from_source(grant: Dict) -> Optional[str]:
+    """Best-effort extraction of a program synopsis from grant source text.
+
+    Strategy:
+    - Look for a line starting with 'Synopsis:' (common on NSF pages).
+    - If not found, look for 'Synopsis of Program:'
+    - Return the remainder of that line trimmed. If multiple lines, return the first line.
+    - Fallback: None.
+    """
+    try:
+        src = grant.get("source") or {}
+        p = src.get("path")
+        if not p:
             return None
-        return {"recommendation": rec, "bullets": bullets}
+        path = Path(p)
+        if not path.exists():
+            return None
+        with open(path, "r", encoding="utf-8") as fh:
+            for raw in fh:
+                line = raw.strip()
+                if line.lower().startswith("synopsis of program:"):
+                    return line.split(":", 1)[1].strip() or None
+                if line.lower().startswith("synopsis:"):
+                    return line.split(":", 1)[1].strip() or None
+    except Exception:
+        return None
+    return None
+
+
+def _next_deadline(dl: Dict) -> Optional[str]:
+    try:
+        if not isinstance(dl, dict):
+            return None
+        dates = dl.get("dates") or []
+        if not dates:
+            return None
+        # Dates are ISO YYYY-MM-DD strings; simple sort works
+        return sorted(dates)[0]
+    except Exception:
+        return None
+
+
+_ROLLING_HINTS = (
+    "proposals accepted anytime",
+    "proposals accepted any time",
+    "accepts proposals at any time",
+    "accepts proposals anytime",
+    "continuous submission",
+    "continuous submissions",
+    "accepted continuously",
+    "on a rolling basis",
+)
+
+
+def _has_rolling_phrase(text: str) -> bool:
+    s = text.lower()
+    return any(h in s for h in _ROLLING_HINTS)
+
+
+def _rolling_from_source(grant: Dict) -> bool:
+    try:
+        src = grant.get("source") or {}
+        p = src.get("path")
+        if not p:
+            return False
+        path = Path(p)
+        if not path.exists():
+            return False
+        with open(path, "r", encoding="utf-8") as fh:
+            for raw in fh:
+                if _has_rolling_phrase(raw):
+                    return True
+    except Exception:
+        return False
+    return False
+
+
+def _funding_from_source(grant: Dict) -> Optional[Dict]:
+    try:
+        from extraction.funding_extractor import extract_funding_info
+    except Exception:
+        return None
+
+
+def _extract_anticipated_from_source(grant: Dict) -> Optional[str]:
+    """Extract 'Anticipated Funding Amount' line verbatim from source text.
+
+    Falls back to common variants like 'Estimated Total Program Funding'.
+    Returns the full line content after the colon, or the whole line if no colon.
+    """
+    try:
+        src = grant.get("source") or {}
+        p = src.get("path")
+        if not p:
+            return None
+        path = Path(p)
+        if not path.exists():
+            return None
+        patterns = [
+            "anticipated funding amount",
+            "estimated total program funding",
+            "total anticipated program funding",
+        ]
+        with open(path, "r", encoding="utf-8") as fh:
+            lines = fh.readlines()
+        for i, raw in enumerate(lines):
+            line = raw.strip()
+            if not line:
+                continue
+            lcl = line.lower()
+            if any(lcl.startswith(pat) for pat in patterns):
+                # Split after first colon if present
+                if ":" in line:
+                    after = line.split(":", 1)[1].strip()
+                    if after:
+                        return after
+                    # If empty, try next non-empty line
+                    j = i + 1
+                    while j < len(lines):
+                        nxt = lines[j].strip()
+                        j += 1
+                        if nxt:
+                            return nxt
+                    return None
+                return line
+        return None
+    except Exception:
+        return None
+    try:
+        src = grant.get("source") or {}
+        p = src.get("path")
+        if not p:
+            return None
+        path = Path(p)
+        if not path.exists():
+            return None
+        text = path.read_text(encoding="utf-8")
+        return extract_funding_info(text)
     except Exception:
         return None
 
@@ -186,40 +336,104 @@ def _score_and_reasons(org: Dict, grant: Dict) -> Tuple[float, str, List[str]]:
 
 def recommend(org_profile_path: Path, grants_dir: Path, top: int = 10, explain: bool = False) -> Dict:
     org = _load_json(org_profile_path)
-    recs: List[Dict] = []
+    # First pass: score all grants without generating explanations (for ordering).
+    raw: List[Dict] = []
     for p in sorted(grants_dir.glob("*_profile.json")):
         try:
             g = _load_json(p)
             score, bucket, reasons = _score_and_reasons(org, g)
             dl = g.get("deadline", {})
-            fd = g.get("funding", {})
-            item = {
-                "grant_profile": p.name,
-                "score": score,
-                "bucket": bucket,
-                "deadlines": dl.get("dates", []),
-                "deadline_status": dl.get("status"),
-                "funding_min": fd.get("estimated_min"),
-                "funding_max": fd.get("estimated_max"),
-                "reasons": reasons,
-            }
-            if explain:
-                o = {k: _tag_set(org, k) for k in TAX_KEYS}
-                gg = {k: _tag_set(g, k) for k in TAX_KEYS}
+            # Derive rolling from source text if extractor missed 'anytime' style phrasing
+            dl_status = dl.get("status")
+            if (not dl_status or dl_status == "unspecified") and _rolling_from_source(g):
+                dl = {**dl, "status": "rolling"}
+            fd = g.get("funding", {}) or {}
+            # Extract anticipated funding amount text directly (verbatim)
+            anticipated = _extract_anticipated_from_source(g)
+            raw.append(
+                {
+                    "grant_profile": p.name,
+                    "_grant_path": str(p),  # internal helper for deferred explanation
+                    "score": score,
+                    "bucket": bucket,
+                    "deadlines": dl.get("dates", []),
+                    "deadline_status": dl.get("status"),
+                    "deadline": _next_deadline(dl),
+                    "anticipated_funding_amount": anticipated,
+                    "url": (g.get("source") or {}).get("url"),
+                    "reasons": reasons,
+                }
+            )
+        except Exception as e:
+            raw.append({"grant_profile": p.name, "error": str(e)})
+
+    # Sort by score desc and optionally truncate to top-N for output.
+    raw.sort(key=lambda x: x.get("score", 0.0), reverse=True)
+    ordered = raw[:top] if top else raw
+
+    # If no explanations requested, strip helper keys and return
+    if not explain:
+        for item in ordered:
+            item.pop("_grant_path", None)
+        return {"org_profile": org_profile_path.name, "recommendations": ordered}
+
+    # Explanation gating: only top-K or above score threshold
+    top_k = settings.EXPLAIN_TOP_K
+    min_score = settings.EXPLAIN_MIN_SCORE
+    # Precompute org tag sets once
+    o_tags = {k: _tag_set(org, k) for k in TAX_KEYS}
+
+    final_recs: List[Dict] = []
+    for idx, item in enumerate(ordered):
+        # Items that errored or lack scores are passed through unchanged
+        if "error" in item:
+            item.pop("_grant_path", None)
+            final_recs.append(item)
+            continue
+
+        score_val = item.get("score", 0.0) or 0.0
+        do_explain = (idx < top_k) or (score_val >= min_score)
+        if do_explain:
+            # Generate explanation lazily now
+            grant_path = Path(item.get("_grant_path", ""))
+            try:
+                g = _load_json(grant_path) if grant_path.exists() else None
+                if g is None:
+                    raise FileNotFoundError(str(grant_path))
+                g_tags = {k: _tag_set(g, k) for k in TAX_KEYS}
                 overlap = {
-                    "mission": sorted(o["mission_tags"] & gg["mission_tags"]) if o["mission_tags"] else [],
-                    "population": sorted(o["population_tags"] & gg["population_tags"]) if o["population_tags"] else [],
-                    "org_type": sorted(o["org_type_tags"] & gg["org_type_tags"]) if o["org_type_tags"] else [],
-                    "geography": sorted(o["geography_tags"] & gg["geography_tags"]) if o["geography_tags"] else [],
+                    "mission": sorted(o_tags["mission_tags"] & g_tags["mission_tags"]) if o_tags["mission_tags"] else [],
+                    "population": sorted(o_tags["population_tags"] & g_tags["population_tags"]) if o_tags["population_tags"] else [],
+                    "org_type": sorted(o_tags["org_type_tags"] & g_tags["org_type_tags"]) if o_tags["org_type_tags"] else [],
+                    "geography": sorted(o_tags["geography_tags"] & g_tags["geography_tags"]) if o_tags["geography_tags"] else [],
                 }
                 exp = _generate_explanation(org, g, overlap)
                 if exp:
-                    item["explanation"] = exp
-            recs.append(item)
-        except Exception as e:
-            recs.append({"grant_profile": p.name, "error": str(e)})
-    recs.sort(key=lambda x: x.get("score", 0.0), reverse=True)
-    return {"org_profile": org_profile_path.name, "recommendations": recs[:top] if top else recs}
+                    # Keep only paragraph string in output
+                    para = None
+                    if isinstance(exp, dict):
+                        para = exp.get("paragraph")
+                        if (not para) and isinstance(exp.get("bullets"), list):
+                            para = " ".join([b.strip() for b in exp["bullets"] if isinstance(b, str)])
+                    if isinstance(exp, str):
+                        para = exp
+                    if para:
+                        item["explanation"] = para
+                # Also attach a simple program synopsis if present
+                syn = _extract_synopsis_from_source(g)
+                if syn:
+                    item["synopsis"] = syn
+            except Exception as _:
+                # If explanation fails, just continue without it
+                pass
+            item.pop("_grant_path", None)
+            final_recs.append(item)
+        else:
+            # For non-explained items, keep the full base fields (no explanation)
+            item.pop("_grant_path", None)
+            final_recs.append(item)
+
+    return {"org_profile": org_profile_path.name, "recommendations": final_recs}
 
 
 def _main(argv=None) -> int:
@@ -228,7 +442,7 @@ def _main(argv=None) -> int:
     parser.add_argument("--grants", default=str((settings.PROCESSED_GRANTS_DIR).resolve()), help="Directory of grant profile JSONs.")
     parser.add_argument("--top", type=int, default=10, help="Top-N results to return (0 = all).")
     parser.add_argument("--out", help="Optional output JSON file path.")
-    parser.add_argument("--explain", action="store_true", help="Include LLM-generated explanation bullets.")
+    parser.add_argument("--explain", action="store_true", help="Include LLM-generated explanation paragraph.")
     args = parser.parse_args(argv)
     org_path = Path(args.org)
     grants_dir = Path(args.grants)
@@ -250,4 +464,3 @@ def _main(argv=None) -> int:
 
 if __name__ == "__main__":  # pragma: no cover
     raise SystemExit(_main())
-

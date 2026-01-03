@@ -167,6 +167,14 @@ class Settings:
         # embedding-based similarity between tags
         self.MATCH_TAX_SIM_THRESHOLD = _fw("MATCH_TAX_SIM_THRESHOLD", "0.50")
 
+        # LLM explanation gating (cost control)
+        # Only generate explanations for top-N or those above a score threshold
+        try:
+            self.EXPLAIN_TOP_K: int = int(os.getenv("EXPLAIN_TOP_K", "3"))
+        except ValueError:
+            self.EXPLAIN_TOP_K = 3
+        self.EXPLAIN_MIN_SCORE = _fw("EXPLAIN_MIN_SCORE", "0.60")
+
         # Per‑taxonomy TOP_K (fallback to global TOP_K)
         self.TOP_K_BY_TAXONOMY = {
             "mission_tags": _fi("TOP_K_MISSION", "8"),
@@ -239,4 +247,3 @@ class Settings:
 
 # Singleton settings instance
 settings = Settings()
-

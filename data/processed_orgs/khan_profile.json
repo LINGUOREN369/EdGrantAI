@@ -1,58 +1,139 @@
 {
   "org_id": "khan",
-  "created_at": "2025-12-04T11:05:19.782646-05:00",
+  "created_at": "2026-01-02T10:39:31.011713-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
+    "Khan Academy",
     "global education nonprofit",
-    "mastery-based learning platform",
+    "free, world-class education",
+    "mastery-based learning materials",
+    "personalized learning pathways",
     "K\u201312 math",
-    "teacher & classroom support",
-    "large-scale education system partnerships",
-    "research & learning innovation",
+    "science",
+    "humanities",
+    "computing",
+    "test preparation",
+    "150 million learners",
+    "190+ countries",
+    "school districts",
+    "ministers of education",
+    "high-impact, data-driven classroom instruction",
+    "democratize access to high-quality education",
+    "personalized learning tools",
+    "learners of all ages",
+    "regardless of background",
+    "income",
+    "geography",
+    "Mastery-Based Learning Platform",
+    "Teacher & Classroom Support",
+    "Large-Scale Education System Partnerships",
+    "Research & Learning Innovation",
+    "dashboard tools for teachers",
+    "curricular alignment",
+    "professional learning and implementation support",
+    "partnerships with states",
+    "districts",
+    "countries",
+    "Khan Academy Kids",
     "early childhood learning",
+    "Khan Lab School",
     "experimental mastery-based school",
-    "high-poverty, multilingual, and underserved communities",
-    "low-income and historically underserved students",
+    "high-poverty",
+    "multilingual",
+    "underserved communities",
+    "bridging achievement gaps",
+    "low-income",
+    "historically underserved students",
     "multilingual learners",
-    "high-quality education",
-    "mastery-based instruction",
-    "AI-powered tutoring",
+    "accessibility across devices",
+    "mobile",
+    "low-bandwidth environments",
+    "Providing all content free of charge, forever",
+    "equitable access to free, personalized, mastery-based learning tools",
+    "AI-supported tutoring",
+    "partnerships with schools",
+    "district-level implementation",
+    "teacher training",
+    "community engagement",
+    "learning science",
+    "AI-enabled instruction",
+    "student mastery outcomes",
     "equity-focused learning innovations"
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "early childhood learning",
-        "source_text": "early childhood learning",
+        "tag": "teacher professional development",
+        "source_text": "teacher training",
         "confidence": 1.0,
         "sources": [
+          "professional learning and implementation support",
+          "teacher training"
+        ]
+      },
+      {
+        "tag": "early childhood learning",
+        "source_text": "Khan Academy Kids",
+        "confidence": 1.0,
+        "sources": [
+          "Khan Academy Kids",
           "early childhood learning"
         ]
       },
       {
-        "tag": "AI-powered tutoring",
-        "source_text": "AI-powered tutoring",
+        "tag": "learning sciences",
+        "source_text": "learning science",
         "confidence": 1.0,
         "sources": [
-          "AI-powered tutoring"
+          "learning science"
+        ]
+      },
+      {
+        "tag": "AI-powered tutoring",
+        "source_text": "AI-supported tutoring",
+        "confidence": 0.9611,
+        "sources": [
+          "AI-supported tutoring",
+          "AI-enabled instruction"
+        ]
+      },
+      {
+        "tag": "curriculum alignment",
+        "source_text": "curricular alignment",
+        "confidence": 0.954,
+        "sources": [
+          "curricular alignment"
         ]
       },
       {
         "tag": "mastery-based learning",
-        "source_text": "mastery-based instruction",
-        "confidence": 0.9015,
+        "source_text": "mastery-based learning materials",
+        "confidence": 0.8873,
         "sources": [
-          "mastery-based learning platform",
+          "mastery-based learning materials",
+          "Mastery-Based Learning Platform",
           "experimental mastery-based school",
-          "mastery-based instruction"
+          "student mastery outcomes"
+        ]
+      },
+      {
+        "tag": "personalized learning",
+        "source_text": "personalized learning pathways",
+        "confidence": 0.8453,
+        "sources": [
+          "personalized learning pathways",
+          "personalized learning tools",
+          "equitable access to free, personalized, mastery-based learning tools"
         ]
       },
       {
         "tag": "education system partnerships",
-        "source_text": "large-scale education system partnerships",
-        "confidence": 0.8421,
+        "source_text": "partnerships with schools",
+        "confidence": 0.8192,
         "sources": [
-          "large-scale education system partnerships"
+          "Large-Scale Education System Partnerships",
+          "partnerships with states",
+          "partnerships with schools"
         ]
       }
     ],
@@ -62,15 +143,40 @@
         "source_text": "multilingual learners",
         "confidence": 1.0,
         "sources": [
+          "multilingual",
           "multilingual learners"
         ]
       },
       {
-        "tag": "historically underserved students",
-        "source_text": "low-income and historically underserved students",
-        "confidence": 0.8566,
+        "tag": "underserved communities",
+        "source_text": "underserved communities",
+        "confidence": 1.0,
         "sources": [
-          "low-income and historically underserved students"
+          "underserved communities"
+        ]
+      },
+      {
+        "tag": "historically underserved students",
+        "source_text": "historically underserved students",
+        "confidence": 1.0,
+        "sources": [
+          "historically underserved students"
+        ]
+      },
+      {
+        "tag": "ministries of education",
+        "source_text": "ministers of education",
+        "confidence": 0.887,
+        "sources": [
+          "ministers of education"
+        ]
+      },
+      {
+        "tag": "all-ages learners",
+        "source_text": "learners of all ages",
+        "confidence": 0.85,
+        "sources": [
+          "learners of all ages"
         ]
       },
       {
@@ -78,24 +184,24 @@
         "source_text": "early childhood learning",
         "confidence": 0.846,
         "sources": [
+          "learners of all ages",
           "early childhood learning"
         ]
       },
       {
         "tag": "low-income students",
-        "source_text": "low-income and historically underserved students",
-        "confidence": 0.8267,
+        "source_text": "low-income",
+        "confidence": 0.7497,
         "sources": [
-          "low-income and historically underserved students"
+          "low-income"
         ]
       },
       {
-        "tag": "underserved communities",
-        "source_text": "high-poverty, multilingual, and underserved communities",
-        "confidence": 0.7159,
+        "tag": "adult learners",
+        "source_text": "learners of all ages",
+        "confidence": 0.7303,
         "sources": [
-          "high-poverty, multilingual, and underserved communities",
-          "low-income and historically underserved students"
+          "learners of all ages"
         ]
       },
       {
@@ -105,9 +211,30 @@
         "sources": [
           "K\u201312 math"
         ]
+      },
+      {
+        "tag": "global learners",
+        "source_text": "learners of all ages",
+        "confidence": 0.6521,
+        "sources": [
+          "learners of all ages"
+        ]
       }
     ],
     "org_type_tags": [
+      {
+        "tag": "public school district",
+        "source_text": "school districts",
+        "confidence": 0.8117,
+        "sources": [
+          "school districts"
+        ]
+      },
+      {
+        "tag": "nonprofit",
+        "source_text": "global education nonprofit",
+        "confidence": 1.0
+      },
       {
         "tag": "501(c)(3) nonprofit",
         "source_text": "derived: nonprofit mention in org text",
@@ -119,13 +246,7 @@
         "confidence": 0.99
       }
     ],
-    "geography_tags": [
-      {
-        "tag": "global",
-        "source_text": "derived: geography mention in org text",
-        "confidence": 0.99
-      }
-    ],
+    "geography_tags": [],
     "red_flag_tags": []
   },
   "validation": {

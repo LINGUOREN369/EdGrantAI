@@ -53,8 +53,8 @@ Deciding dictionary vs embeddings (summary)
 
 Generation
 - make synonyms-build →
-  1) python -m pipeline.build_synonyms --all --max 12
-  2) python -m pipeline.merge_auto_synonyms --all --delete-auto
+  1) python -m mapping.build_synonyms --all --max 12
+  2) python -m mapping.merge_auto_synonyms --all --delete-auto
 
 Tips
 - Keep curated files focused on domain phrases; let auto cover mechanical variants.

@@ -11,12 +11,12 @@ This document explains the design principles behind EdGrantAI: the taxonomy, pro
 - Pipeline stages
   - Extraction (CKE) → Dictionary pre‑mapping → Embedding fallback (strict→loose) → Profile assembly (JSON)
 - Primary modules
-  - `pipeline/cke.py`: Controlled Keyphrase Extractor (chat model)
-  - `pipeline/embedding_matcher.py`: Embeddings + cosine similarity utilities
-  - `pipeline/canonical_mapper.py`: Dictionary pre‑mapping + embeddings, thresholds (strict→loose), guardrails
-  - `pipeline/grant_profile_builder.py`: Orchestrates build + CLI
-  - `pipeline/build_taxonomy_embeddings.py`: One‑time taxonomy embedding builder
-  - `pipeline/config.py`: Central source for paths, models, thresholds, taxonomies
+  - `extraction/cke.py`: Controlled Keyphrase Extractor (chat model)
+  - `mapping/embedding_matcher.py`: Embeddings + cosine similarity utilities
+  - `mapping/canonical_mapper.py`: Dictionary pre‑mapping + embeddings, thresholds (strict→loose), guardrails
+  - `mapping/grant_profile_builder.py`: Orchestrates build + CLI
+  - `mapping/build_taxonomy_embeddings.py`: One‑time taxonomy embedding builder
+  - `common/config.py`: Central source for paths, models, thresholds, taxonomies
 - Data assets
   - Taxonomy JSON: `data/taxonomy/*.json`
   - Taxonomy embeddings: `data/taxonomy/embeddings/*_embeddings.json`
@@ -56,7 +56,7 @@ This document explains the design principles behind EdGrantAI: the taxonomy, pro
 ## Mapping Strategy
 - Precompute embeddings for canonical tags per taxonomy and store as JSON.
   - Path: `data/taxonomy/embeddings/*_embeddings.json`
-  - Builder: `python -m pipeline.build_taxonomy_embeddings --all`
+  - Builder: `python -m mapping.build_taxonomy_embeddings --all`
 - Dictionary pre‑mapping first:
   - Looks up normalized phrases against canonical tags and curated synonyms in `data/taxonomy/synonyms/*`.
   - Direct matches map with confidence 1.0 and skip embeddings.
@@ -77,9 +77,9 @@ See also: `docs/mapping_funnel.md` for the full funnel and curation policy.
 
 ## Grant Profile Building
 - Steps
-  1) Controlled Keyphrase Extraction (CKE): `pipeline/cke.py`
-  2) Canonical mapping via embeddings: `pipeline/canonical_mapper.py`, `pipeline/embedding_matcher.py`
-  3) Attach taxonomy version and metadata: `pipeline/grant_profile_builder.py`
+  1) Controlled Keyphrase Extraction (CKE): `extraction/cke.py`
+  2) Canonical mapping via embeddings: `mapping/canonical_mapper.py`, `mapping/embedding_matcher.py`
+  3) Attach taxonomy version and metadata: `mapping/grant_profile_builder.py`
   4) Assemble and save JSON profile
 - Output contents
   - `grant_id`, `created_at`, `taxonomy_version`
@@ -144,15 +144,15 @@ See also: `docs/mapping_funnel.md` for the full funnel and curation policy.
 
 ## CLI & Workflows
 - Build taxonomy embeddings (once):
-  - `python -m pipeline.build_taxonomy_embeddings --all`
+  - `python -m mapping.build_taxonomy_embeddings --all`
 - Build a grant profile from a text file:
-  - `python -m pipeline.grant_profile_builder data/grants/test_grant_1.txt`
+  - `python -m mapping.grant_profile_builder data/grants/test_grant_1.txt`
   - Options: `--grant-id`, `--out-dir`, `--all`
 - Build an org profile from a text file:
-  - `python -m pipeline.org_profile_builder data/orgs/org_0001.txt`
+  - `python -m mapping.org_profile_builder data/orgs/org_0001.txt`
   - Options: `--org-id`, `--out-dir`, `--all`
 - Rank grants for an org profile:
-  - `python -m pipeline.matching_engine --org data/processed_orgs/org_0001_profile.json --grants data/processed_grants --top 10 --explain`
+  - `python -m matching.matching_engine --org data/processed_orgs/org_0001_profile.json --grants data/processed_grants --top 10 --explain`
 
 ## Performance & Scaling
 - Complexity: O(P × T_tax) per taxonomy (P = phrase count, T_tax = tag count)
@@ -185,7 +185,7 @@ See also: `docs/mapping_funnel.md` for the full funnel and curation policy.
 
 ## Troubleshooting
 - Missing API key: ensure `.env` has `OPENAI_API_KEY` and that it’s loaded; import of `cke.py`/`embedding_matcher.py` requires it.
-- Missing embeddings: run `python -m pipeline.build_taxonomy_embeddings --all`.
+- Missing embeddings: run `python -m mapping.build_taxonomy_embeddings --all`.
 - Prompt not found: ensure `prompts/cke_prompt_nsf_v1.txt` exists.
 - JSON parse errors: model output isn’t strict JSON; tighten prompt, set temperature near 0, or use structured response format.
 

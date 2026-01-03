@@ -13,6 +13,7 @@ from mapping.canonical_mapper import map_all_taxonomies
 from extraction.section_utils import assign_sections_to_phrases
 from common.config import settings
 from extraction.deadline_extractor import extract_deadline_info
+from extraction.funding_extractor import extract_funding_info
 
 
 OUTPUT_DIR = settings.PROCESSED_GRANTS_DIR
@@ -63,6 +64,7 @@ def build_grant_profile(
         "extracted_phrases_structured": phrases_structured,
         "canonical_tags": mapped_tags,
         "deadline": extract_deadline_info(grant_text),
+        "funding": extract_funding_info(grant_text),
         "source": {
             "path": str(source_path) if source_path else None,
             "url": str(source_url) if source_url else None,
@@ -198,4 +200,3 @@ def _main(argv=None) -> int:
 
 if __name__ == "__main__":  # pragma: no cover
     raise SystemExit(_main())
-

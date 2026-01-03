@@ -40,7 +40,7 @@ Cleaned and standardized naming conventions across all files.
 ## 0.0.7 - Added NSF programs taxonomy
 - New taxonomy file: `nsf_programs.json` capturing NSF directorates, divisions, and offices (BIO, CISE, ENG, GEO, MPS, SBE, EDU, TIP, and associated sub-units).
 - Use case: analytics, filtering, or future program‑aware matching.
-- To build embeddings only for this taxonomy: `python -m pipeline.build_taxonomy_embeddings --names nsf_programs --force`
+- To build embeddings only for this taxonomy: `python -m mapping.build_taxonomy_embeddings --names nsf_programs --force`
 ## 0.0.8 - Mission taxonomy refinements
 - Removed redundancy: dropped "STEM pathways" (keep "STEM career pathways").
 - Added cross-cutting education terms:

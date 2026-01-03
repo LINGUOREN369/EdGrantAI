@@ -1,57 +1,55 @@
 {
   "org_id": "prof_miller",
-  "created_at": "2025-12-04T11:08:08.852674-05:00",
+  "created_at": "2026-01-02T10:40:04.904726-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
-    "STEM Learning Sciences Research",
-    "Early Childhood & Elementary Science Education",
-    "Teacher Professional Learning & Pedagogical Design",
-    "Nature-Based Education",
-    "SciEPlay",
-    "Earth & Environmental Science",
-    "scientific argumentation",
+    "Bowdoin College",
+    "STEM learning sciences research",
+    "Teacher professional learning",
+    "evidence-based learning environments",
     "teacher professional development",
-    "scientific practices",
-    "equitable and effective science learning environments",
-    "STEM experiences",
-    "scientific modeling and reasoning",
-    "visualizations and Earth Science learning"
+    "early childhood & elementary science education",
+    "nature-based education",
+    "scientific argumentation",
+    "Earth & Environmental Science",
+    "SciEPlay",
+    "place-based STEM learning environments",
+    "scientific modeling",
+    "visualizations",
+    "data interpretation"
   ],
   "canonical_tags": {
     "mission_tags": [
+      {
+        "tag": "teacher professional learning",
+        "source_text": "Teacher professional learning",
+        "confidence": 1.0,
+        "sources": [
+          "Teacher professional learning"
+        ]
+      },
       {
         "tag": "teacher professional development",
         "source_text": "teacher professional development",
         "confidence": 1.0,
         "sources": [
-          "Teacher Professional Learning & Pedagogical Design",
           "teacher professional development"
         ]
       },
       {
-        "tag": "STEM education",
-        "source_text": "STEM experiences",
-        "confidence": 0.7934,
-        "sources": [
-          "STEM Learning Sciences Research",
-          "STEM experiences"
-        ]
-      },
-      {
         "tag": "STEM education research",
-        "source_text": "STEM Learning Sciences Research",
-        "confidence": 0.7665,
+        "source_text": "STEM learning sciences research",
+        "confidence": 0.8184,
         "sources": [
-          "STEM Learning Sciences Research",
-          "STEM experiences"
+          "STEM learning sciences research"
         ]
       },
       {
-        "tag": "teacher professional learning",
-        "source_text": "Teacher Professional Learning & Pedagogical Design",
-        "confidence": 0.7595,
+        "tag": "community-based STEM programs",
+        "source_text": "place-based STEM learning environments",
+        "confidence": 0.7322,
         "sources": [
-          "Teacher Professional Learning & Pedagogical Design"
+          "place-based STEM learning environments"
         ]
       }
     ],

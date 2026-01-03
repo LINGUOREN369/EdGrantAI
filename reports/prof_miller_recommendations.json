@@ -3,53 +3,17 @@
   "recommendations": [
     {
       "grant_profile": "nsf_nsf_stem_k_12_stem_k_12_profile.json",
-      "score": 0.61,
-      "bucket": "Apply",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['teacher professional learning']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_iuse_innovation_in_two_year_college_stem_education_ityc_profile.json",
-      "score": 0.451,
-      "bucket": "Maybe",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['STEM education research']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_national_stem_education_distributed_learning_nsdl_profile.json",
-      "score": 0.451,
+      "score": 0.523,
       "bucket": "Maybe",
       "deadlines": [],
       "deadline_status": "rolling",
-      "funding_min": null,
-      "funding_max": null,
+      "deadline": null,
+      "anticipated_funding_amount": "$30,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/stem-k-12-nsf-stem-k-12/nsf25-545/solicitation",
       "reasons": [
-        "Mission overlap: ['STEM education']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_research_experiences_for_teachers_in_engineering_and_computer_science_profile.json",
-      "score": 0.451,
-      "bucket": "Maybe",
-      "deadlines": [
-        "2026-10-14"
+        "Mission overlap: ['teacher professional learning']"
       ],
-      "deadline_status": "date",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['STEM education research']"
-      ]
+      "synopsis": "The NSF STEM K-12 program in the Division of Research on Learning in Formal and Informal Settings (DRL) in the Directorate for STEM Education (EDU) supports fundamental, applied, and translational research that advances STEM teaching and learning and improves understanding of education across the human lifespan and a range of formal and informal settings."
     },
     {
       "grant_profile": "nsf_improving_undergraduate_stem_education_directorate_for_stem_education_iuse_edu_profile.json",
@@ -59,66 +23,109 @@
         "2026-01-21"
       ],
       "deadline_status": "date",
-      "funding_min": null,
-      "funding_max": null,
+      "deadline": "2026-01-21",
+      "anticipated_funding_amount": "$61,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/iuse-edu-improving-undergraduate-stem-education-directorate-stem/nsf23-510/solicitation",
       "reasons": [
         "Mission overlap: ['teacher professional development']"
+      ],
+      "synopsis": "Synopsis of Program:"
+    },
+    {
+      "grant_profile": "nsf_iuse_innovation_in_two_year_college_stem_education_ityc_profile.json",
+      "score": 0.422,
+      "bucket": "Maybe",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "deadline": null,
+      "anticipated_funding_amount": "$10,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/ityc-iuse-innovation-two-year-college-stem-education/nsf23-584/solicitation",
+      "reasons": [
+        "Mission overlap: ['STEM education research']"
+      ],
+      "synopsis": "The National Science Foundation (NSF) plays a prominent role in the improvement of undergraduate STEM education at the Nation\u2019s colleges and universities.\u00a0 Through the IUSE: Innovation in Two-Year College STEM Education (ITYC) program, the agency seeks to extend this effort by making an intentional investment in the country\u2019s two-year institutions of higher education, or two-year colleges. The twin goals of the ITYC program are to (1) center students in the effort to advance innovation and promote success in STEM education at two-year colleges, and (2) enhance the capacity of two-year colleges to harness the talent and potential of their student and faculty populations through innovative disciplinary, multi-department, and college-wide efforts. These goals will be achieved by investing in projects at two-year colleges that contribute to student success in STEM-based foundational courses and academic pathways for both majors and non-majors. Project activities may be in any discipline that is currently supported by NSF funding, which includes the social, behavioral, and economic sciences. Collectively, projects in the ITYC program will make progress towards ensuring that two-year college students and faculty have the resources to\u00a0 participate in and contribute to the broader STEM enterprise."
+    },
+    {
+      "grant_profile": "nsf_research_experiences_for_teachers_in_engineering_and_computer_science_profile.json",
+      "score": 0.422,
+      "bucket": "Maybe",
+      "deadlines": [
+        "2026-10-14"
+      ],
+      "deadline_status": "date",
+      "deadline": "2026-10-14",
+      "anticipated_funding_amount": "$5,800,000",
+      "url": "https://www.nsf.gov/funding/opportunities/research-experiences-teachers-engineering-computer-science/nsf24-503/solicitation",
+      "reasons": [
+        "Mission overlap: ['STEM education research']"
       ]
+    },
+    {
+      "grant_profile": "nsf_national_stem_education_distributed_learning_nsdl_profile.json",
+      "score": 0.401,
+      "bucket": "Maybe",
+      "deadlines": [],
+      "deadline_status": "rolling",
+      "deadline": null,
+      "anticipated_funding_amount": "$10,750,000 (approximately) in FY2010, subject to the availability of funds.",
+      "url": "https://www.nsf.gov/funding/opportunities/nsdl-national-stem-education-distributed-learning/nsf10-545/solicitation",
+      "reasons": []
     },
     {
       "grant_profile": "nsf_centers_of_research_excellence_in_science_and_technology_crest_centers_profile.json",
-      "score": 0.441,
-      "bucket": "Maybe",
+      "score": 0.392,
+      "bucket": "Avoid",
       "deadlines": [],
       "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['STEM education']"
-      ]
-    },
-    {
-      "grant_profile": "nsf_centers_of_research_excellence_in_science_and_technology_research_infrastructure_for_science_and_eng_profile.json",
-      "score": 0.428,
-      "bucket": "Maybe",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": [
-        "Mission overlap: ['STEM education']"
-      ]
+      "deadline": null,
+      "anticipated_funding_amount": "$8,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/crest-centers-centers-research-excellence-science-technology/nsf23-595/solicitation",
+      "reasons": []
     },
     {
       "grant_profile": "nsf_collaboratory_to_advance_mathematics_education_and_learning_for_k_12_profile.json",
-      "score": 0.396,
+      "score": 0.388,
       "bucket": "Avoid",
       "deadlines": [
         "2026-01-09"
       ],
       "deadline_status": "date",
-      "funding_min": null,
-      "funding_max": null,
+      "deadline": "2026-01-09",
+      "anticipated_funding_amount": "$9,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/collaboratory-advance-mathematics-education-learning-k-12/nsf26-501/solicitation",
+      "reasons": []
+    },
+    {
+      "grant_profile": "nsf_centers_of_research_excellence_in_science_and_technology_research_infrastructure_for_science_and_eng_profile.json",
+      "score": 0.381,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "unspecified",
+      "deadline": null,
+      "anticipated_funding_amount": "$6,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/crest-rise-centers-research-excellence-science-technology-research/nsf24-562/solicitation",
+      "reasons": []
+    },
+    {
+      "grant_profile": "nsf_structure_and_physics_of_the_solid_earth_spse_profile.json",
+      "score": 0.38,
+      "bucket": "Avoid",
+      "deadlines": [],
+      "deadline_status": "rolling",
+      "deadline": null,
+      "anticipated_funding_amount": "$22,000,000",
+      "url": "https://www.nsf.gov/funding/opportunities/spse-structure-physics-solid-earth/nsf25-518/solicitation",
       "reasons": []
     },
     {
       "grant_profile": "nsf_robert_noyce_teacher_scholarship_program_profile.json",
-      "score": 0.387,
+      "score": 0.379,
       "bucket": "Avoid",
       "deadlines": [],
       "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
-      "reasons": []
-    },
-    {
-      "grant_profile": "nsf_science_and_technology_centers_integrative_partnerships_profile.json",
-      "score": 0.387,
-      "bucket": "Avoid",
-      "deadlines": [],
-      "deadline_status": "unspecified",
-      "funding_min": null,
-      "funding_max": null,
+      "deadline": null,
+      "anticipated_funding_amount": "$68,000,000 for new or continuing awards",
+      "url": "https://www.nsf.gov/funding/opportunities/robert-noyce-teacher-scholarship-program/nsf23-586/solicitation",
       "reasons": []
     }
   ]
