@@ -1,0 +1,7 @@
+name = "edgrantai-proxy"
+main = "src/index.js"
+compatibility_date = "2024-11-15"
+
+[vars]
+BACKEND_URL = "https://YOUR_RENDER_APP.onrender.com"
+ALLOWED_ORIGIN = "https://linguoren.com"

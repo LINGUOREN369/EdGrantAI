@@ -1,0 +1,139 @@
+from __future__ import annotations
+
+import json
+import os
+import tempfile
+from pathlib import Path
+from typing import Optional
+
+from flask import Flask, jsonify, make_response, request
+
+from common.config import settings
+from mapping.org_profile_builder import build_org_profile
+from matching.matching_engine import recommend
+
+
+app = Flask(__name__)
+
+
+def _split_env_list(value: Optional[str]) -> list[str]:
+    if not value:
+        return []
+    return [item.strip() for item in value.split(",") if item.strip()]
+
+
+def _allowed_origin(origin: Optional[str]) -> bool:
+    allowed = _split_env_list(os.getenv("ALLOWED_ORIGINS", "http://localhost:3000"))
+    if not origin:
+        return True
+    return origin in allowed
+
+
+def _cors_headers(origin: Optional[str]) -> dict:
+    return {
+        "Access-Control-Allow-Origin": origin or "*",
+        "Access-Control-Allow-Methods": "POST, OPTIONS",
+        "Access-Control-Allow-Headers": "Content-Type, Authorization, X-EdGrant-Token",
+        "Access-Control-Max-Age": "600",
+        "Vary": "Origin",
+    }
+
+
+def _auth_ok(req) -> bool:
+    expected = os.getenv("EDGRANT_API_TOKEN")
+    if not expected:
+        return True
+    auth = (req.headers.get("Authorization") or "").strip()
+    if auth.lower().startswith("bearer "):
+        token = auth[7:].strip()
+        return token == expected
+    if (req.headers.get("X-EdGrant-Token") or "").strip() == expected:
+        return True
+    return False
+
+
+def _json_error(message: str, status: int, origin: Optional[str] = None):
+    resp = make_response(jsonify({"error": message}), status)
+    for k, v in _cors_headers(origin).items():
+        resp.headers[k] = v
+    return resp
+
+
+@app.route("/health", methods=["GET"])
+def health():
+    return jsonify({"status": "ok"})
+
+
+@app.route("/recommend", methods=["POST", "OPTIONS"])
+def recommend_endpoint():
+    origin = request.headers.get("Origin")
+    if request.method == "OPTIONS":
+        if not _allowed_origin(origin):
+            return _json_error("Origin not allowed", 403, origin)
+        resp = make_response("", 204)
+        for k, v in _cors_headers(origin).items():
+            resp.headers[k] = v
+        return resp
+
+    if not _allowed_origin(origin):
+        return _json_error("Origin not allowed", 403, origin)
+
+    if not _auth_ok(request):
+        return _json_error("Unauthorized", 401, origin)
+
+    if not os.getenv("OPENAI_API_KEY"):
+        return _json_error("OPENAI_API_KEY is not set", 500, origin)
+
+    data = request.get_json(silent=True) or {}
+    mission = (data.get("mission") or "").strip()
+    org_name = (data.get("org_name") or "").strip()
+    top = data.get("top", 10)
+    explain = bool(data.get("explain", False))
+
+    if not mission:
+        return _json_error("mission is required", 400, origin)
+    if len(mission) > 6000:
+        return _json_error("mission is too long", 400, origin)
+
+    try:
+        top_n = int(top)
+    except (TypeError, ValueError):
+        top_n = 10
+    if top_n < 1:
+        top_n = 10
+    if top_n > 50:
+        top_n = 50
+
+    org_id = org_name or "ad_hoc_org"
+    org_text = f"Organization: {org_name}\nMission: {mission}\n" if org_name else f"Mission: {mission}\n"
+
+    try:
+        profile = build_org_profile(org_id, org_text)
+    except Exception as exc:
+        return _json_error(f"Failed to build org profile: {exc}", 500, origin)
+
+    tmp_path = None
+    try:
+        with tempfile.NamedTemporaryFile("w", suffix="_profile.json", delete=False) as tmp:
+            json.dump(profile, tmp)
+            tmp_path = Path(tmp.name)
+        result = recommend(tmp_path, settings.PROCESSED_GRANTS_DIR, top=top_n, explain=explain)
+    except Exception as exc:
+        return _json_error(f"Failed to generate recommendations: {exc}", 500, origin)
+    finally:
+        if tmp_path and tmp_path.exists():
+            try:
+                tmp_path.unlink()
+            except Exception:
+                pass
+
+    result["org_profile"] = org_id
+    result["org_summary"] = {"name": org_name, "mission": mission}
+    resp = make_response(jsonify(result), 200)
+    for k, v in _cors_headers(origin).items():
+        resp.headers[k] = v
+    return resp
+
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=int(os.getenv("PORT", "5000")))

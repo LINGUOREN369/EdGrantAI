@@ -40,6 +40,7 @@ Start here for details and rationale:
 - Makefile commands: [docs/makefile_commands.md](docs/makefile_commands.md)
 - Repository structure: [docs/repo_structure.md](docs/repo_structure.md)
 - Responsible AI and alignment: [docs/responsible_ai_and_alignment.md](docs/responsible_ai_and_alignment.md)
+- Backend deployment: [docs/backend_deployment.md](docs/backend_deployment.md)
 - Case study: [docs/EdGrantAI_Case_Study.md](docs/EdGrantAI_Case_Study.md)
 - Diagrams: [docs/structure.png](docs/structure.png), [docs/workflow.png](docs/workflow.png)
 
