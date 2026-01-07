@@ -4,4 +4,5 @@ compatibility_date = "2024-11-15"
 
 [vars]
 BACKEND_URL = "https://edgrantai-api.onrender.com"
-ALLOWED_ORIGIN = "https://linguoren.com"
+ALLOWED_ORIGIN = "https://linguoren.com,https://www.linguoren.com"
+RATE_LIMIT_PER_MIN = "30"
