@@ -2,14 +2,14 @@ from __future__ import annotations
 
 import json
 import os
-import tempfile
+import re
 from pathlib import Path
 from typing import Optional
 
 from flask import Flask, jsonify, make_response, request
 
 from common.config import settings
-from mapping.org_profile_builder import build_org_profile
+from mapping.org_profile_builder import build_org_profile, save_org_profile
 from matching.matching_engine import recommend
 
 
@@ -50,6 +50,23 @@ def _auth_ok(req) -> bool:
     if (req.headers.get("X-EdGrant-Token") or "").strip() == expected:
         return True
     return False
+
+
+def _sanitize_org_id(value: str) -> str:
+    s = value.strip().lower()
+    s = re.sub(r"\s+", "_", s)
+    s = re.sub(r"[^a-z0-9_\-]", "", s)
+    return s or "org_input"
+
+
+def _derive_org_id(org_name: str, mission: str) -> str:
+    if org_name:
+        base = org_name
+    else:
+        first_line = mission.splitlines()[0] if mission.splitlines() else mission
+        first_words = " ".join(first_line.strip().split()[:6]) or "org_input"
+        base = first_words
+    return _sanitize_org_id(base)
 
 
 def _json_error(message: str, status: int, origin: Optional[str] = None):
@@ -104,7 +121,7 @@ def recommend_endpoint():
     if top_n > 50:
         top_n = 50
 
-    org_id = org_name or "ad_hoc_org"
+    org_id = _derive_org_id(org_name, mission)
     org_text = f"Organization: {org_name}\nMission: {mission}\n" if org_name else f"Mission: {mission}\n"
 
     try:
@@ -112,22 +129,14 @@ def recommend_endpoint():
     except Exception as exc:
         return _json_error(f"Failed to build org profile: {exc}", 500, origin)
 
-    tmp_path = None
     try:
-        with tempfile.NamedTemporaryFile("w", suffix="_profile.json", delete=False) as tmp:
-            json.dump(profile, tmp)
-            tmp_path = Path(tmp.name)
-        result = recommend(tmp_path, settings.PROCESSED_GRANTS_DIR, top=top_n, explain=explain)
+        org_profile_path = save_org_profile(profile)
+        result = recommend(org_profile_path, settings.PROCESSED_GRANTS_DIR, top=top_n, explain=explain)
     except Exception as exc:
         return _json_error(f"Failed to generate recommendations: {exc}", 500, origin)
-    finally:
-        if tmp_path and tmp_path.exists():
-            try:
-                tmp_path.unlink()
-            except Exception:
-                pass
 
-    result["org_profile"] = org_id
+    result["org_profile"] = org_profile_path.name
+    result["org_profile_json"] = profile
     result["org_summary"] = {"name": org_name, "mission": mission}
     resp = make_response(jsonify(result), 200)
     for k, v in _cors_headers(origin).items():

@@ -9,6 +9,15 @@ function parseAllowedOrigins(value) {
   return value.split(",").map((item) => item.trim()).filter(Boolean);
 }
 
+function originFromReferer(referer) {
+  if (!referer) return "";
+  try {
+    return new URL(referer).origin;
+  } catch (err) {
+    return "";
+  }
+}
+
 function extractClientIp(headers) {
   const cfIp = headers.get("CF-Connecting-IP");
   if (cfIp) return cfIp;
@@ -54,19 +63,23 @@ async function verifyTurnstile(token, secret, ip) {
 export default {
   async fetch(request, env) {
     const origin = request.headers.get("Origin") || "";
+    const referer = request.headers.get("Referer") || "";
+    const refererOrigin = originFromReferer(referer);
     const allowedOrigins = parseAllowedOrigins(env.ALLOWED_ORIGIN) || [];
     const allowedOrigin = allowedOrigins.length > 0 ? allowedOrigins[0] : DEFAULT_ORIGIN;
-    const isAllowed = origin && (allowedOrigins.includes(origin) || origin === allowedOrigin);
-    const corsOrigin = isAllowed ? origin : allowedOrigin;
+    const originAllowed = origin && (allowedOrigins.includes(origin) || origin === allowedOrigin);
+    const refererAllowed = !origin && refererOrigin && (allowedOrigins.includes(refererOrigin) || refererOrigin === allowedOrigin);
+    const isAllowed = Boolean(originAllowed || refererAllowed);
+    const corsOrigin = originAllowed ? origin : (refererAllowed ? refererOrigin : allowedOrigin);
     const limitPerMin = Number(env.RATE_LIMIT_PER_MIN || DEFAULT_RATE_LIMIT_PER_MIN);
     const ip = extractClientIp(request.headers);
 
     const cors = {
       "Access-Control-Allow-Origin": corsOrigin,
       "Access-Control-Allow-Methods": "POST, OPTIONS",
-      "Access-Control-Allow-Headers": "Content-Type, X-EdGrant-Client, CF-Turnstile-Token",
+      "Access-Control-Allow-Headers": "Content-Type, X-EdGrant-Client, CF-Turnstile-Token, cf-turnstile-token",
       "Access-Control-Max-Age": "600",
-      "Vary": "Origin",
+      "Vary": "Origin, Referer",
     };
 
     if (request.method === "OPTIONS") {
