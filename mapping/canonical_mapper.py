@@ -236,9 +236,9 @@ def map_all_taxonomies(
     for p in phrases:
         pl = (p or "").lower()
         if "institutions of higher education" in pl:
-            _append("org_type_tags", "institution_of_higher_education", p)
+            _append("org_type_tags", "institution of higher education", p)
         if ("non-profit, non-academic organizations" in pl) or ("nonprofit" in pl or "non-profit" in pl):
-            _append("org_type_tags", "nonprofit", p)
+            _append("org_type_tags", "501(c)(3) nonprofit", p)
 
     import re as _re
     re_one = _re.compile(r"\bone\s+proposal\b|\blimited\s+submission\b", _re.I)
@@ -249,7 +249,7 @@ def map_all_taxonomies(
             or "submission limit" in pl
             or re_one.search(pl)
         ):
-            _append("red_flag_tags", "submission_limit", p)
+            _append("red_flag_tags", "institutional submission limit", p)
 
     mech_phrase_re = _re.compile(
         r"\b(REU|RUI|GOALI|CAREER|EAGER|RAPID|RAISE|SBIR|STTR)\b|\b(Research Experiences for Undergraduates|Grant Opportunities for Academic Liaison with Industry|Facilitating Research at Primarily Undergraduate Institutions)\b",
@@ -339,4 +339,3 @@ def map_all_taxonomies(
     _mission_selection()
 
     return out
-

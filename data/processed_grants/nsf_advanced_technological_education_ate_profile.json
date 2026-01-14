@@ -1,58 +1,48 @@
 {
   "grant_id": "nsf_advanced_technological_education_ate",
-  "created_at": "2025-12-28T21:24:19.130079-05:00",
+  "created_at": "2026-01-14T14:55:20.750819-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
-    "Advanced Technological Education",
-    "Institutions of Higher Education",
+    "Advanced Technological Education (ATE)",
+    "Institutions of Higher Education (IHEs)",
     "skilled technical workforce",
     "science and engineering technicians",
     "credit-bearing courses",
-    "curriculum development",
-    "professional development of college faculty",
-    "secondary school teachers",
+    "faculty-led",
     "career pathway development",
     "applied research projects",
     "Minority Serving Institutions",
     "underrepresented and underserved communities",
     "STEM technician education programs",
-    "two-year degrees",
-    "four-year IHEs",
-    "secondary career and technical education",
-    "CTE program",
-    "advanced manufacturing technologies",
-    "agricultural and bio-technologies",
-    "energy and environmental technologies",
-    "engineering technologies",
-    "information technologies",
-    "micro- and nano-technologies",
-    "security technologies",
-    "geospatial technologies",
-    "autonomous technologies",
-    "artificial intelligence",
-    "quantum information sciences",
+    "Track 1: Small Scale Projects",
+    "Track 2: Projects",
+    "Track 3: Consortia for Innovations in Technician Education",
+    "Track 4: Centers",
     "rural technician education",
-    "students with disabilities",
-    " Technician Education",
-    "Standard Grant",
-    "Continuing Grant",
-    "estimated number of awards",
-    "Two- and four-year IHEs",
+    "program development and improvement",
+    "Professional Development for Educators",
+    "Teacher Preparation",
+    "Entrepreneurial Skills Development for Students",
+    "Applied Research on Technician Education",
     "community colleges",
-    "Non-profit organizations",
-    "For-profit organizations",
-    "State and Local Governments",
-    "Tribal Nations",
-    "significant leadership roles",
-    "Co-PIs"
+    "four-year IHEs",
+    "state and local governments",
+    "tribal nations",
+    "non-profit, non-academic organizations",
+    "for-profit organizations",
+    "National Institute of Standards and Technology (NIST)",
+    "Manufacturing Extension Partnerships (MEPs)",
+    "Manufacturing USA Institutes",
+    "Technical workforce",
+    "career and technical education (CTE)"
   ],
   "extracted_phrases_structured": [
     {
-      "text": "Advanced Technological Education",
+      "text": "Advanced Technological Education (ATE)",
       "section": "Other"
     },
     {
-      "text": "Institutions of Higher Education",
+      "text": "Institutions of Higher Education (IHEs)",
       "section": "Other"
     },
     {
@@ -68,15 +58,7 @@
       "section": "Other"
     },
     {
-      "text": "curriculum development",
-      "section": "Other"
-    },
-    {
-      "text": "professional development of college faculty",
-      "section": "Other"
-    },
-    {
-      "text": "secondary school teachers",
+      "text": "faculty-led",
       "section": "Other"
     },
     {
@@ -100,166 +82,110 @@
       "section": "Other"
     },
     {
-      "text": "two-year degrees",
-      "section": "Introduction"
+      "text": "Track 1: Small Scale Projects",
+      "section": "Program Description"
     },
     {
-      "text": "four-year IHEs",
-      "section": "Introduction"
+      "text": "Track 2: Projects",
+      "section": "Program Description"
     },
     {
-      "text": "secondary career and technical education",
-      "section": "Introduction"
+      "text": "Track 3: Consortia for Innovations in Technician Education",
+      "section": "Program Description"
     },
     {
-      "text": "CTE program",
-      "section": "Other"
-    },
-    {
-      "text": "advanced manufacturing technologies",
-      "section": "Introduction"
-    },
-    {
-      "text": "agricultural and bio-technologies",
-      "section": "Other"
-    },
-    {
-      "text": "energy and environmental technologies",
-      "section": "Introduction"
-    },
-    {
-      "text": "engineering technologies",
-      "section": "Introduction"
-    },
-    {
-      "text": "information technologies",
-      "section": "Introduction"
-    },
-    {
-      "text": "micro- and nano-technologies",
-      "section": "Introduction"
-    },
-    {
-      "text": "security technologies",
-      "section": "Introduction"
-    },
-    {
-      "text": "geospatial technologies",
-      "section": "Introduction"
-    },
-    {
-      "text": "autonomous technologies",
-      "section": "Introduction"
-    },
-    {
-      "text": "artificial intelligence",
-      "section": "Introduction"
-    },
-    {
-      "text": "quantum information sciences",
-      "section": "Introduction"
+      "text": "Track 4: Centers",
+      "section": "Program Description"
     },
     {
       "text": "rural technician education",
       "section": "Introduction"
     },
     {
-      "text": "students with disabilities",
-      "section": "Introduction"
-    },
-    {
-      "text": " Technician Education",
+      "text": "program development and improvement",
       "section": "Program Description"
     },
     {
-      "text": "Standard Grant",
-      "section": "Award Information"
+      "text": "Professional Development for Educators",
+      "section": "Program Description"
     },
     {
-      "text": "Continuing Grant",
-      "section": "Award Information"
+      "text": "Teacher Preparation",
+      "section": "Program Description"
     },
     {
-      "text": "estimated number of awards",
-      "section": "Award Information"
+      "text": "Entrepreneurial Skills Development for Students",
+      "section": "Program Description"
     },
     {
-      "text": "Two- and four-year IHEs",
-      "section": "Eligibility Information"
+      "text": "Applied Research on Technician Education",
+      "section": "Program Description"
     },
     {
       "text": "community colleges",
       "section": "Eligibility Information"
     },
     {
-      "text": "Non-profit organizations",
-      "section": "Other"
-    },
-    {
-      "text": "For-profit organizations",
-      "section": "Eligibility Information"
-    },
-    {
-      "text": "State and Local Governments",
-      "section": "Eligibility Information"
-    },
-    {
-      "text": "Tribal Nations",
-      "section": "Eligibility Information"
-    },
-    {
-      "text": "significant leadership roles",
+      "text": "four-year IHEs",
       "section": "Introduction"
     },
     {
-      "text": "Co-PIs",
+      "text": "state and local governments",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "tribal nations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "non-profit, non-academic organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "for-profit organizations",
+      "section": "Eligibility Information"
+    },
+    {
+      "text": "National Institute of Standards and Technology (NIST)",
+      "section": "Other"
+    },
+    {
+      "text": "Manufacturing Extension Partnerships (MEPs)",
+      "section": "Other"
+    },
+    {
+      "text": "Manufacturing USA Institutes",
+      "section": "Other"
+    },
+    {
+      "text": "Technical workforce",
+      "section": "Introduction"
+    },
+    {
+      "text": "career and technical education (CTE)",
       "section": "Introduction"
     }
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "Technician Education",
-        "source_text": "Technician Education",
+        "tag": "Track 3: Consortia for Innovations in Technician Education",
+        "source_text": "Track 3: Consortia for Innovations in Technician Education",
         "confidence": 0.9
       },
       {
-        "tag": "advanced manufacturing technologies",
-        "source_text": "advanced manufacturing technologies",
+        "tag": "Applied Research on Technician Education",
+        "source_text": "Applied Research on Technician Education",
         "confidence": 0.9
       }
     ],
     "population_tags": [
-      {
-        "tag": "students with disabilities",
-        "source_text": "students with disabilities",
-        "confidence": 1.0,
-        "sources": [
-          "students with disabilities"
-        ]
-      },
       {
         "tag": "underserved communities",
         "source_text": "underrepresented and underserved communities",
         "confidence": 0.8472,
         "sources": [
           "underrepresented and underserved communities"
-        ]
-      },
-      {
-        "tag": "high school teachers",
-        "source_text": "secondary school teachers",
-        "confidence": 0.8333,
-        "sources": [
-          "secondary school teachers"
-        ]
-      },
-      {
-        "tag": "middle school teachers",
-        "source_text": "secondary school teachers",
-        "confidence": 0.7664,
-        "sources": [
-          "secondary school teachers"
         ]
       },
       {
@@ -276,6 +202,14 @@
         "confidence": 0.7081,
         "sources": [
           "underrepresented and underserved communities"
+        ]
+      },
+      {
+        "tag": "pre-service teachers",
+        "source_text": "Teacher Preparation",
+        "confidence": 0.6253,
+        "sources": [
+          "Teacher Preparation"
         ]
       }
     ],
@@ -297,31 +231,23 @@
         ]
       },
       {
-        "tag": "two-year college",
-        "source_text": "two-year degrees",
-        "confidence": 0.7463,
-        "sources": [
-          "two-year degrees"
-        ]
-      },
-      {
-        "tag": "institution_of_higher_education",
-        "source_text": "Institutions of Higher Education",
+        "tag": "institution of higher education",
+        "source_text": "Institutions of Higher Education (IHEs)",
         "confidence": 1.0
       },
       {
-        "tag": "nonprofit",
-        "source_text": "Non-profit organizations",
+        "tag": "501(c)(3) nonprofit",
+        "source_text": "non-profit, non-academic organizations",
         "confidence": 1.0
       }
     ],
     "geography_tags": [
       {
         "tag": "tribal nations",
-        "source_text": "Tribal Nations",
+        "source_text": "tribal nations",
         "confidence": 1.0,
         "sources": [
-          "Tribal Nations"
+          "tribal nations"
         ]
       }
     ],
@@ -338,6 +264,14 @@
       "Full Proposals: Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg . Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide ).",
       "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
       "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "funding": {
+    "estimated_min": 250000,
+    "estimated_max": 74000000,
+    "raw_mentions": [
+      "Budgets for conferences and meetings are expected to be consistent with the duration of the event, and the number of participants, but the cost will normally not exceed a total of $250,000. It is expected that conferences and meetings will be outcome-based, and the final report will contain a statement of the impacts of the event. Proceedings of the conference are expected to be published and widely disseminated. The \"Conference\" proposal type should be selected in Research.gov or Grants.gov. Additional information about the preparation of conference proposals is available in Chapter II of the PAPPG.",
+      "NSF anticipates that approximately $74.0 million will be available for new and continuing awards in this program in FY2025. In FY 2025, the ATE program expects to fund new awards totaling $69,000,000 million."
     ]
   },
   "source": {

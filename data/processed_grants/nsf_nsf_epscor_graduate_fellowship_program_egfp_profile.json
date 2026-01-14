@@ -233,9 +233,13 @@
     ],
     "red_flag_tags": [
       {
-        "tag": "submission_limit",
+        "tag": "institutional submission limit",
         "source_text": "one proposal per organization",
-        "confidence": 1.0
+        "confidence": 1.0,
+        "sources": [
+          "one proposal per organization",
+          "one proposal per PI or co-PI"
+        ]
       }
     ]
   },

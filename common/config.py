@@ -194,27 +194,44 @@ class Settings:
         # Red-flag hard blocks: if present in grant and org_type_tags do not meet
         # the required one-of set, the match is hard-blocked to Avoid
         self.MATCH_HARD_BLOCKS = {
-            "higher_education_only": {
+            "higher education institutions only": {
                 "org_type_tags": {
                     "any_of": [
-                        "higher_education_institution",
-                        "four_year_university",
-                        "community_college",
+                        "institution of higher education",
+                        "two-year college",
+                        "community college",
+                        "four-year university",
+                        "minority-serving institution",
+                        "historically Black college or university",
+                        "tribal college or university",
+                        "university-based research center",
+                        "institution_of_higher_education",
                     ]
                 }
             },
-            "universities_only": {
+            "universities only": {
                 "org_type_tags": {
                     "any_of": [
-                        "higher_education_institution",
-                        "four_year_university",
-                        "community_college",
+                        "institution of higher education",
+                        "two-year college",
+                        "community college",
+                        "four-year university",
+                        "minority-serving institution",
+                        "historically Black college or university",
+                        "tribal college or university",
+                        "university-based research center",
+                        "institution_of_higher_education",
                     ]
                 }
             },
-            "schools_only": {
+            "schools only": {
                 "org_type_tags": {
                     "any_of": [
+                        "public school district",
+                        "public school",
+                        "single-site charter school",
+                        "charter school network",
+                        "independent private school",
                         "public_school_district",
                         "public_school_single_site",
                         "charter_school_single_site",
@@ -223,17 +240,29 @@ class Settings:
                     ]
                 }
             },
-            "government_entities_only": {
+            "government entities only": {
                 "org_type_tags": {
                     "any_of": [
+                        "local government agency",
+                        "state government agency",
+                        "education service agency",
                         "government_agency_local",
                         "government_agency_state",
                         "education_service_agency",
                     ]
                 }
             },
-            "nonprofits_only": {
-                "org_type_tags": {"any_of": ["nonprofit_501c3", "community_based_organization"]}
+            "nonprofits only": {
+                "org_type_tags": {
+                    "any_of": [
+                        "501(c)(3) nonprofit",
+                        "community-based organization",
+                        "fiscally sponsored project",
+                        "nonprofit",
+                        "nonprofit_501c3",
+                        "community_based_organization",
+                    ]
+                }
             },
         }
 

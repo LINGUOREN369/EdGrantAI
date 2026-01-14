@@ -1,40 +1,58 @@
 {
   "grant_id": "nsf_accelerating_research_translation_art",
-  "created_at": "2025-12-28T21:23:21.589226-05:00",
+  "created_at": "2026-01-14T14:55:05.811469-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "Accelerating Research Translation",
-    "U.S. National Science Foundation",
-    "research translation",
+    "ART program",
+    "research translation ecosystems",
     "Institutions of Higher Education",
-    "translational research ecosystems",
-    "academic research",
-    "economic impacts",
-    "research translation readiness level",
+    "technology transfer offices",
     "entrepreneurial training teams",
-    "essential expertise",
-    "educational or research activities",
-    "research translation ecosystem",
-    "regional innovation ecosystems",
-    "research translation activities",
-    "entrepreneurship-related areas",
-    "research translation resources",
-    "technology transfer-related areas",
-    "research translations",
-    "mentoring institution",
-    "ART Ambassadors",
-    "educational and training resources",
-    "technology transfer resources",
-    "commercialization",
-    "product development",
-    "engaged scholarship",
-    "research translation capacity",
-    "high RTRL",
-    "entrepreneurship",
+    "entrepreneurship-related activities",
+    "K\u201312 STEM education",
+    "education and training resources",
+    "research translation",
     "technology transfer",
-    "community engagement",
-    "institutional infrastructure",
-    "technology transfer office"
+    "economic impacts",
+    "sustained economic impacts",
+    "research translation readiness level",
+    "research translation capacity",
+    "Track 1",
+    "Track 2",
+    "Track 3",
+    "Track 4",
+    "Track 5",
+    "Accelerating Technology Transfer",
+    "Growing Capacity for Research Translation",
+    "Technology Transfer Resource Centers",
+    "Education and Training",
+    "Coordinating Accelerating Research Translation",
+    "ART Ambassadors",
+    "non-profit organizations",
+    "high potential",
+    "low RTRL",
+    "high RTRL",
+    "evaluation criteria",
+    "community-engaged scholarship",
+    "intellectual property",
+    "entrepreneurship and technology transfer",
+    "research outcomes",
+    "research expenditures",
+    "research translation-related activities",
+    "innovation evaluation",
+    "market research",
+    "product-market-fit assessment",
+    "invention disclosures",
+    "patents",
+    "licenses",
+    "royalties",
+    "entrepreneurship-related areas",
+    "sustainable research translation",
+    "regional innovation ecosystems",
+    "Seed Translational Research Projects",
+    "ART program framework",
+    "Mentoring Institution"
   ],
   "extracted_phrases_structured": [
     {
@@ -42,31 +60,19 @@
       "section": "Other"
     },
     {
-      "text": "U.S. National Science Foundation",
+      "text": "ART program",
       "section": "Other"
     },
     {
-      "text": "research translation",
-      "section": "Other"
+      "text": "research translation ecosystems",
+      "section": "Introduction"
     },
     {
       "text": "Institutions of Higher Education",
       "section": "Other"
     },
     {
-      "text": "translational research ecosystems",
-      "section": "Other"
-    },
-    {
-      "text": "academic research",
-      "section": "Other"
-    },
-    {
-      "text": "economic impacts",
-      "section": "Other"
-    },
-    {
-      "text": "research translation readiness level",
+      "text": "technology transfer offices",
       "section": "Other"
     },
     {
@@ -74,79 +80,19 @@
       "section": "Other"
     },
     {
-      "text": "essential expertise",
-      "section": "Eligibility Information"
-    },
-    {
-      "text": "educational or research activities",
-      "section": "Eligibility Information"
-    },
-    {
-      "text": "research translation ecosystem",
+      "text": "entrepreneurship-related activities",
       "section": "Other"
     },
     {
-      "text": "regional innovation ecosystems",
-      "section": "Introduction"
-    },
-    {
-      "text": "research translation activities",
-      "section": "Program Description"
-    },
-    {
-      "text": "entrepreneurship-related areas",
+      "text": "K\u201312 STEM education",
       "section": "Other"
     },
     {
-      "text": "research translation resources",
+      "text": "education and training resources",
       "section": "Other"
     },
     {
-      "text": "technology transfer-related areas",
-      "section": "Introduction"
-    },
-    {
-      "text": "research translations",
-      "section": "Other"
-    },
-    {
-      "text": "mentoring institution",
-      "section": "Program Description"
-    },
-    {
-      "text": "ART Ambassadors",
-      "section": "Program Description"
-    },
-    {
-      "text": "educational and training resources",
-      "section": "Other"
-    },
-    {
-      "text": "technology transfer resources",
-      "section": "Other"
-    },
-    {
-      "text": "commercialization",
-      "section": "Program Description"
-    },
-    {
-      "text": "product development",
-      "section": "Program Description"
-    },
-    {
-      "text": "engaged scholarship",
-      "section": "Other"
-    },
-    {
-      "text": "research translation capacity",
-      "section": "Other"
-    },
-    {
-      "text": "high RTRL",
-      "section": "Other"
-    },
-    {
-      "text": "entrepreneurship",
+      "text": "research translation",
       "section": "Other"
     },
     {
@@ -154,36 +100,202 @@
       "section": "Other"
     },
     {
-      "text": "community engagement",
+      "text": "economic impacts",
       "section": "Other"
     },
     {
-      "text": "institutional infrastructure",
+      "text": "sustained economic impacts",
       "section": "Other"
     },
     {
-      "text": "technology transfer office",
+      "text": "research translation readiness level",
       "section": "Other"
+    },
+    {
+      "text": "research translation capacity",
+      "section": "Other"
+    },
+    {
+      "text": "Track 1",
+      "section": "Other"
+    },
+    {
+      "text": "Track 2",
+      "section": "Other"
+    },
+    {
+      "text": "Track 3",
+      "section": "Other"
+    },
+    {
+      "text": "Track 4",
+      "section": "Other"
+    },
+    {
+      "text": "Track 5",
+      "section": "Other"
+    },
+    {
+      "text": "Accelerating Technology Transfer",
+      "section": "Other"
+    },
+    {
+      "text": "Growing Capacity for Research Translation",
+      "section": "Other"
+    },
+    {
+      "text": "Technology Transfer Resource Centers",
+      "section": "Other"
+    },
+    {
+      "text": "Education and Training",
+      "section": "Other"
+    },
+    {
+      "text": "Coordinating Accelerating Research Translation",
+      "section": "Other"
+    },
+    {
+      "text": "ART Ambassadors",
+      "section": "Program Description"
+    },
+    {
+      "text": "non-profit organizations",
+      "section": "Other"
+    },
+    {
+      "text": "high potential",
+      "section": "Other"
+    },
+    {
+      "text": "low RTRL",
+      "section": "Other"
+    },
+    {
+      "text": "high RTRL",
+      "section": "Other"
+    },
+    {
+      "text": "evaluation criteria",
+      "section": "Other"
+    },
+    {
+      "text": "community-engaged scholarship",
+      "section": "Introduction"
+    },
+    {
+      "text": "intellectual property",
+      "section": "Other"
+    },
+    {
+      "text": "entrepreneurship and technology transfer",
+      "section": "Program Description"
+    },
+    {
+      "text": "research outcomes",
+      "section": "Introduction"
+    },
+    {
+      "text": "research expenditures",
+      "section": "Other"
+    },
+    {
+      "text": "research translation-related activities",
+      "section": "Other"
+    },
+    {
+      "text": "innovation evaluation",
+      "section": "Program Description"
+    },
+    {
+      "text": "market research",
+      "section": "Program Description"
+    },
+    {
+      "text": "product-market-fit assessment",
+      "section": "Program Description"
+    },
+    {
+      "text": "invention disclosures",
+      "section": "Other"
+    },
+    {
+      "text": "patents",
+      "section": "Other"
+    },
+    {
+      "text": "licenses",
+      "section": "Other"
+    },
+    {
+      "text": "royalties",
+      "section": "Other"
+    },
+    {
+      "text": "entrepreneurship-related areas",
+      "section": "Other"
+    },
+    {
+      "text": "sustainable research translation",
+      "section": "Other"
+    },
+    {
+      "text": "regional innovation ecosystems",
+      "section": "Introduction"
+    },
+    {
+      "text": "Seed Translational Research Projects",
+      "section": "Program Description"
+    },
+    {
+      "text": "ART program framework",
+      "section": "Other"
+    },
+    {
+      "text": "Mentoring Institution",
+      "section": "Program Description"
     }
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "research translation activities",
-        "source_text": "research translation activities",
+        "tag": "entrepreneurship and technology transfer",
+        "source_text": "entrepreneurship and technology transfer",
         "confidence": 0.9
       },
       {
-        "tag": "undergraduate mentorship programs",
-        "source_text": "mentoring institution",
-        "confidence": 0.6181
+        "tag": "Seed Translational Research Projects",
+        "source_text": "Seed Translational Research Projects",
+        "confidence": 0.9
       }
     ],
-    "population_tags": [],
+    "population_tags": [
+      {
+        "tag": "K-12 students",
+        "source_text": "K\u201312 STEM education",
+        "confidence": 0.6916,
+        "sources": [
+          "K\u201312 STEM education"
+        ]
+      },
+      {
+        "tag": "K-12 teachers",
+        "source_text": "K\u201312 STEM education",
+        "confidence": 0.6591,
+        "sources": [
+          "K\u201312 STEM education"
+        ]
+      }
+    ],
     "org_type_tags": [
       {
-        "tag": "institution_of_higher_education",
+        "tag": "institution of higher education",
         "source_text": "Institutions of Higher Education",
+        "confidence": 1.0
+      },
+      {
+        "tag": "501(c)(3) nonprofit",
+        "source_text": "non-profit organizations",
         "confidence": 1.0
       }
     ],
@@ -201,6 +313,17 @@
       "Full Proposals:",
       "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
       "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "funding": {
+    "estimated_min": 1000000,
+    "estimated_max": 8000000,
+    "raw_mentions": [
+      "This is an opportunity for only IHEs that have a low to medium level of overall research and can demonstrate potential for identifying and acting on opportunities for economic benefits by starting to build capacity for innovation translation. A Track 1 award is expected to be up to a total of $3 million for a duration of 3 years. The proposal must be led by and focused on outcomes of one IHE. Subject to availability of funds and quality of proposals, NSF plans to make up to 20 awards under the ACT Track. ACT awardees demonstrating strong performance, as demonstrated by successfully meeting evaluation criteria during the award may have an opportunity to receive renewal support for up to 2 more years and total funding up to $1 million, subject to the availability of funds.",
+      "This is an opportunity for only IHEs that currently have a high level of research with a modest research translation infrastructure in place but where the level of research translation remains relatively low. This Track 2 is aimed at IHEs that have a high potential and desire to substantially elevate the overall level of research translation to unleash innovation and create significant opportunities for sustained economic and collective impacts. The proposal must be led by and focused on outcomes of one IHE in partnership with one mentoring IHE with a high RTRL. A Track 2 award may be budgeted for up to a total of $6 million for a duration of 4 years. Subject to availability of funds and quality of proposals, NSF plans to make up to 10 awards under this Track.",
+      "The ART program aims to leverage the experience and resources of IHEs or non-profits with strong research translation capacity (and/or experience) to launch a network of regional Technology Transfer Resource Centers (RESOURCE) that promote regional technology transfer and technology development activities available to multiple IHEs in a region with low or emerging research capacity and little or no dedicated technology transfer or research translation resources.\u00a0 A Track 3 award for a RESOURCE is expected to provide guidance, training, education, and services to other IHEs in a region who have a low RTRL. A Track 3 award is expected to be up to a total of $8 million for a duration of 4 years. Subject to availability of funds and quality of proposals, NSF plans to make up to 5 RESOURCE awards. Some awardees demonstrating strong performance, as demonstrated by successfully meeting evaluation criteria during the award, including progress toward self-sustainability, may have an opportunity to receive renewal support for up to 4 more years and additional funding of up to $2 million, subject to the availability of funds. As noted above, the lead IHE for this Track is expected to be an IHE with a very high RTRL or a non-profit with significant expertise related to technology transfer, entrepreneurship and related areas leading to sustained economic impacts.",
+      "This nationally focused Track invites proposals from IHEs or non-profits with any combination of either a strong, vibrant and established research translation ecosystem, and/or demonstrated experience to develop, evaluate, and deploy educational and training resources related to entrepreneurship, technology transfer and related activities. The beneficiaries for these education and training resources to be developed will be lower RTRL IHEs located anywhere in the United States (including but not limited to Track 1 and Track 2 awardees). Track 4 awards may be budgeted up to a total of $3 million for a duration of 3 years. Subject to availability of funds and quality of proposals, NSF plans to make up to 4 ET awards. Some awardees demonstrating strong performance, as demonstrated by successfully meeting evaluation criteria during the award, including progress toward self-sustainability, may have an opportunity to receive renewal support for up to 2 more years and additional funding up to $2 million (subject to the availability of funds), to scale up the deployment and adoption of the developed resources and training materials nationally.",
+      "This Track invites proposals from IHEs or non-profits for the creation of a unifying center that will facilitate the development of an integrated platform for coordinating, evaluating, and monitoring the progress being made by teams that are supported under both Tracks 1 and 2. The CART awardee would also coordinate activities to be carried out under awards pursuant to Tracks 3 and 4. The Track 5 CART cooperative agreement award may be budgeted up to a total of $3 million for a duration of 5 years. Subject to availability of funds and quality of proposals, NSF plans to make up to 2 awards under the CART Track. Some awardees demonstrating strong performance, as demonstrated by successfully meeting evaluation criteria during the award, including progress toward self-sustainability, may have an opportunity to receive renewal for up to 5 more years and additional funding up to $3 million, subject to the availability of funds. Proposals for this Track must be led by one IHE with a high RTRL with significant expertise and experience in areas related to technology transfer, intellectual property management, entrepreneurship as well as initiatives and programs directed at sustained economic and collective impacts."
     ]
   },
   "source": {

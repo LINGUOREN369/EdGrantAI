@@ -1,61 +1,69 @@
 {
   "grant_id": "nsf_advanced_technologies_and_instrumentation_for_the_astronomical_sciences_ati",
-  "created_at": "2025-12-28T21:25:25.000913-05:00",
+  "created_at": "2026-01-14T14:55:42.190090-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "Advanced Technologies and Instrumentation for the Astronomical Sciences",
+    "ATI",
     "Division of Astronomical Sciences",
     "ground-based astronomy",
     "National Optical-Infrared Astronomy Research Laboratory",
+    "NOIRLab",
     "National Solar Observatory",
+    "NSO",
     "Daniel K. Inouye Solar Telescope",
+    "DKIST",
     "National Radio Astronomy Observatory",
+    "NRAO",
     "Green Bank Observatory",
+    "GBO",
     "Arecibo Observatory",
+    "AO",
     "Vera Rubin Observatory",
+    "Rubin",
     "Gemini Observatory",
     "Atacama Large Millimeter/submillimeter Array",
+    "ALMA",
     "advanced technologies and instrumentation",
-    "individual investigator and collaborative research grants",
-    "advanced technology development",
-    "concept feasibility studies",
-    "broad range of activities",
+    "individual investigators",
+    "collaborative research grants",
+    "new technologies and instrumentation",
     "observational facilities",
     "research programs",
-    "junior faculty",
-    "postdoctoral fellows",
-    "undergraduate students",
-    "Collaborative Research Grants",
-    "technology and instrument development projects",
-    "Observing at wavelengths",
-    "electromagnetic interference",
-    "Proposals to this program",
-    "annual Principal Investigators meeting",
-    "Research in Undergraduate Institutions",
-    "Computational and Data Enabled Science and Engineering",
-    "Faculty Early Career Development",
-    "Major Research Instrumentation",
-    "Mid-Scale Innovations Program",
-    "Astronomy and Astrophysics Grants",
-    "Research Experiences for Undergraduates",
-    "Research Opportunity Awards",
-    "Research Experiences for Teachers",
-    "Alliances for Graduate Education and the Professoriate",
-    "supplemental funding requests",
-    "community coordination",
-    "Supplemental Funding Requests",
-    "conferences, symposia, and workshops",
-    "National Aeronautics and Space Administration",
-    "Standard Grant",
-    "Continuing Grant",
-    "Estimated Number of Awards",
+    "education and outreach",
+    "advanced technology development",
+    "concept feasibility studies",
+    "specialized instrumentation",
+    "existing means",
+    "hardware and/or software development",
+    "new types of astronomical observations",
+    "electromagnetic spectrum",
+    "high contrast adaptive optics systems",
+    "extreme-precision radial velocity techniques",
+    "high resolution spectrometers",
+    "interferometers",
+    "massively multiplexed spectroscopy techniques",
+    "astrophotonics",
+    "imaging detectors",
+    "telescopes and antennae",
+    "optics and optical devices",
+    "correlators and elements of radio cameras",
+    "U.S. astronomical community",
+    "Principal Investigators meeting",
+    "standard grant",
+    "continuing grant",
+    "estimated number of awards",
+    "10",
     "Unaffiliated individuals",
-    "Limit on Number of Proposals per Organization",
-    "Limit on Number of Proposals per PI or co-PI"
+    "PI"
   ],
   "extracted_phrases_structured": [
     {
       "text": "Advanced Technologies and Instrumentation for the Astronomical Sciences",
+      "section": "Other"
+    },
+    {
+      "text": "ATI",
       "section": "Other"
     },
     {
@@ -71,7 +79,15 @@
       "section": "Introduction"
     },
     {
+      "text": "NOIRLab",
+      "section": "Introduction"
+    },
+    {
       "text": "National Solar Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "NSO",
       "section": "Introduction"
     },
     {
@@ -79,7 +95,15 @@
       "section": "Introduction"
     },
     {
+      "text": "DKIST",
+      "section": "Introduction"
+    },
+    {
       "text": "National Radio Astronomy Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "NRAO",
       "section": "Introduction"
     },
     {
@@ -87,11 +111,23 @@
       "section": "Introduction"
     },
     {
+      "text": "GBO",
+      "section": "Introduction"
+    },
+    {
       "text": "Arecibo Observatory",
       "section": "Introduction"
     },
     {
+      "text": "AO",
+      "section": "Introduction"
+    },
+    {
       "text": "Vera Rubin Observatory",
+      "section": "Introduction"
+    },
+    {
+      "text": "Rubin",
       "section": "Introduction"
     },
     {
@@ -103,24 +139,24 @@
       "section": "Introduction"
     },
     {
+      "text": "ALMA",
+      "section": "Introduction"
+    },
+    {
       "text": "advanced technologies and instrumentation",
       "section": "Introduction"
     },
     {
-      "text": "individual investigator and collaborative research grants",
-      "section": "Other"
-    },
-    {
-      "text": "advanced technology development",
-      "section": "Other"
-    },
-    {
-      "text": "concept feasibility studies",
-      "section": "Other"
-    },
-    {
-      "text": "broad range of activities",
+      "text": "individual investigators",
       "section": "Introduction"
+    },
+    {
+      "text": "collaborative research grants",
+      "section": "Other"
+    },
+    {
+      "text": "new technologies and instrumentation",
+      "section": "Other"
     },
     {
       "text": "observational facilities",
@@ -131,111 +167,99 @@
       "section": "Introduction"
     },
     {
-      "text": "junior faculty",
+      "text": "education and outreach",
       "section": "Introduction"
     },
     {
-      "text": "postdoctoral fellows",
-      "section": "Introduction"
-    },
-    {
-      "text": "undergraduate students",
-      "section": "Introduction"
-    },
-    {
-      "text": "Collaborative Research Grants",
+      "text": "advanced technology development",
       "section": "Other"
     },
     {
-      "text": "technology and instrument development projects",
-      "section": "Program Description"
-    },
-    {
-      "text": "Observing at wavelengths",
-      "section": "Program Description"
-    },
-    {
-      "text": "electromagnetic interference",
-      "section": "Program Description"
-    },
-    {
-      "text": "Proposals to this program",
-      "section": "Program Description"
-    },
-    {
-      "text": "annual Principal Investigators meeting",
+      "text": "concept feasibility studies",
       "section": "Other"
     },
     {
-      "text": "Research in Undergraduate Institutions",
+      "text": "specialized instrumentation",
+      "section": "Other"
+    },
+    {
+      "text": "existing means",
+      "section": "Other"
+    },
+    {
+      "text": "hardware and/or software development",
+      "section": "Other"
+    },
+    {
+      "text": "new types of astronomical observations",
+      "section": "Other"
+    },
+    {
+      "text": "electromagnetic spectrum",
+      "section": "Introduction"
+    },
+    {
+      "text": "high contrast adaptive optics systems",
       "section": "Program Description"
     },
     {
-      "text": "Computational and Data Enabled Science and Engineering",
+      "text": "extreme-precision radial velocity techniques",
       "section": "Program Description"
     },
     {
-      "text": "Faculty Early Career Development",
+      "text": "high resolution spectrometers",
       "section": "Program Description"
     },
     {
-      "text": "Major Research Instrumentation",
+      "text": "interferometers",
       "section": "Program Description"
     },
     {
-      "text": "Mid-Scale Innovations Program",
+      "text": "massively multiplexed spectroscopy techniques",
       "section": "Program Description"
     },
     {
-      "text": "Astronomy and Astrophysics Grants",
+      "text": "astrophotonics",
       "section": "Program Description"
     },
     {
-      "text": "Research Experiences for Undergraduates",
+      "text": "imaging detectors",
       "section": "Program Description"
     },
     {
-      "text": "Research Opportunity Awards",
+      "text": "telescopes and antennae",
       "section": "Program Description"
     },
     {
-      "text": "Research Experiences for Teachers",
+      "text": "optics and optical devices",
       "section": "Program Description"
     },
     {
-      "text": "Alliances for Graduate Education and the Professoriate",
+      "text": "correlators and elements of radio cameras",
       "section": "Program Description"
     },
     {
-      "text": "supplemental funding requests",
+      "text": "U.S. astronomical community",
       "section": "Program Description"
     },
     {
-      "text": "community coordination",
-      "section": "Program Description"
+      "text": "Principal Investigators meeting",
+      "section": "Other"
     },
     {
-      "text": "Supplemental Funding Requests",
-      "section": "Program Description"
-    },
-    {
-      "text": "conferences, symposia, and workshops",
-      "section": "Program Description"
-    },
-    {
-      "text": "National Aeronautics and Space Administration",
-      "section": "Program Description"
-    },
-    {
-      "text": "Standard Grant",
+      "text": "standard grant",
       "section": "Award Information"
     },
     {
-      "text": "Continuing Grant",
+      "text": "continuing grant",
       "section": "Award Information"
     },
     {
-      "text": "Estimated Number of Awards",
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "10",
       "section": "Award Information"
     },
     {
@@ -243,12 +267,8 @@
       "section": "Eligibility Information"
     },
     {
-      "text": "Limit on Number of Proposals per Organization",
-      "section": "Eligibility Information"
-    },
-    {
-      "text": "Limit on Number of Proposals per PI or co-PI",
-      "section": "Eligibility Information"
+      "text": "PI",
+      "section": "Program Description"
     }
   ],
   "canonical_tags": {
@@ -259,38 +279,15 @@
         "confidence": 0.9
       },
       {
-        "tag": "Major Research Instrumentation",
-        "source_text": "Major Research Instrumentation",
+        "tag": "PI",
+        "source_text": "PI",
         "confidence": 0.9
       }
     ],
-    "population_tags": [
-      {
-        "tag": "undergraduate students",
-        "source_text": "undergraduate students",
-        "confidence": 1.0,
-        "sources": [
-          "undergraduate students"
-        ]
-      },
-      {
-        "tag": "postdoctoral researchers",
-        "source_text": "postdoctoral fellows",
-        "confidence": 0.8242,
-        "sources": [
-          "postdoctoral fellows"
-        ]
-      }
-    ],
+    "population_tags": [],
     "org_type_tags": [],
     "geography_tags": [],
-    "red_flag_tags": [
-      {
-        "tag": "submission_limit",
-        "source_text": "Limit on Number of Proposals per Organization",
-        "confidence": 1.0
-      }
-    ]
+    "red_flag_tags": []
   },
   "deadline": {
     "status": "date",
@@ -303,6 +300,13 @@
       "Full Proposals:",
       "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
       "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "funding": {
+    "estimated_min": 4000000,
+    "estimated_max": 4000000,
+    "raw_mentions": [
+      "Funding for technology and instrumentation may be awarded within other programs, such as the NSF-wide Faculty Early Career Development (CAREER) program or the Major Research Instrumentation (MRI) program. In particular, the MRI program serves to increase access to multi-user scientific and engineering instrumentation for research and research training in our nation's institutions of higher education and not-for-profit scientific/engineering research organizations. MRI projects require cost-sharing, are subject to institutional limits, and have a maximum cost to the NSF of $4 million. Within the Division of Astronomical Sciences, funding for technology and instrumentation may be awarded through the Mid-Scale Innovations Program (MSIP), which supports a variety of astronomical activities, typically with a total project cost exceeding $4 million. Some support for technology and instrumentation may be awarded through the Astronomy and Astrophysics Grants (AAG) program. Proposers may contact the NSF Program Officer for guidance if there are questions as to which solicitation may be most appropriate for submission."
     ]
   },
   "source": {

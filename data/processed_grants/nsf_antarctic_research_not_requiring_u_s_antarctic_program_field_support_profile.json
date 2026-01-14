@@ -1,35 +1,30 @@
 {
   "grant_id": "nsf_antarctic_research_not_requiring_u_s_antarctic_program_field_support",
-  "created_at": "2025-12-29T23:21:38.953843-05:00",
+  "created_at": "2026-01-14T14:56:16.762727-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "Antarctic Research Not Requiring U.S. Antarctic Program Field Support",
     "Antarctic Sciences Section",
     "Office of Polar Programs",
     "Antarctic region",
-    "global systems",
-    "Antarctic and Southern Ocean",
+    "Southern Ocean",
     "Earth systems",
-    "biological, geochemical, and physical processes",
+    "biological processes",
+    "geochemical processes",
+    "physical processes",
     "Antarctic systems",
-    "US workforce",
-    "interdisciplinary collaboration",
+    "US workforce for polar-related science",
     "Research Coordination Networks",
+    "Antarctic Science",
+    "Antarctic Research Priority Areas",
     "The Changing Antarctic Ice Sheets Initiative",
-    "Decoding the genomic and transcriptomic bases of biological adaptation and response",
+    "Decoding the genomic and transcriptomic bases of biological adaptation",
     "next-generation cosmic microwave background program",
-    "Antarctic research community",
-    "High Performance Computing",
-    "scientific instrumentation",
-    "Antarctic research",
-    "Research Experiences for Undergraduates",
-    "Polar STEAM program",
+    "standard Grant",
+    "continuing Grant",
     "Institutions of Higher Education",
-    "community colleges",
-    "Non-profit, non-academic organizations",
-    "Tribal Nations",
-    "American Indian or Alaska Native tribe",
-    "full spectrum of talent"
+    "Non-profit organizations",
+    "Tribal Nations"
   ],
   "extracted_phrases_structured": [
     {
@@ -49,11 +44,7 @@
       "section": "Other"
     },
     {
-      "text": "global systems",
-      "section": "Other"
-    },
-    {
-      "text": "Antarctic and Southern Ocean",
+      "text": "Southern Ocean",
       "section": "Other"
     },
     {
@@ -61,7 +52,15 @@
       "section": "Other"
     },
     {
-      "text": "biological, geochemical, and physical processes",
+      "text": "biological processes",
+      "section": "Other"
+    },
+    {
+      "text": "geochemical processes",
+      "section": "Other"
+    },
+    {
+      "text": "physical processes",
       "section": "Other"
     },
     {
@@ -69,11 +68,7 @@
       "section": "Other"
     },
     {
-      "text": "US workforce",
-      "section": "Other"
-    },
-    {
-      "text": "interdisciplinary collaboration",
+      "text": "US workforce for polar-related science",
       "section": "Other"
     },
     {
@@ -81,11 +76,19 @@
       "section": "Program Description"
     },
     {
+      "text": "Antarctic Science",
+      "section": "Other"
+    },
+    {
+      "text": "Antarctic Research Priority Areas",
+      "section": "Program Description"
+    },
+    {
       "text": "The Changing Antarctic Ice Sheets Initiative",
       "section": "Program Description"
     },
     {
-      "text": "Decoding the genomic and transcriptomic bases of biological adaptation and response",
+      "text": "Decoding the genomic and transcriptomic bases of biological adaptation",
       "section": "Program Description"
     },
     {
@@ -93,94 +96,49 @@
       "section": "Program Description"
     },
     {
-      "text": "Antarctic research community",
-      "section": "Program Description"
+      "text": "standard Grant",
+      "section": "Award Information"
     },
     {
-      "text": "High Performance Computing",
-      "section": "Program Description"
-    },
-    {
-      "text": "scientific instrumentation",
-      "section": "Program Description"
-    },
-    {
-      "text": "Antarctic research",
-      "section": "Program Description"
-    },
-    {
-      "text": "Research Experiences for Undergraduates",
-      "section": "Program Description"
-    },
-    {
-      "text": "Polar STEAM program",
-      "section": "Program Description"
+      "text": "continuing Grant",
+      "section": "Award Information"
     },
     {
       "text": "Institutions of Higher Education",
       "section": "Eligibility Information"
     },
     {
-      "text": "community colleges",
-      "section": "Eligibility Information"
-    },
-    {
-      "text": "Non-profit, non-academic organizations",
-      "section": "Eligibility Information"
+      "text": "Non-profit organizations",
+      "section": "Other"
     },
     {
       "text": "Tribal Nations",
       "section": "Eligibility Information"
-    },
-    {
-      "text": "American Indian or Alaska Native tribe",
-      "section": "Eligibility Information"
-    },
-    {
-      "text": "full spectrum of talent",
-      "section": "Introduction"
     }
   ],
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "Antarctic research",
-        "source_text": "Antarctic research",
+        "tag": "Decoding the genomic and transcriptomic bases of biological adaptation",
+        "source_text": "Decoding the genomic and transcriptomic bases of biological adaptation",
         "confidence": 0.9
       },
       {
-        "tag": "Decoding the genomic and transcriptomic bases of biological adaptation and response",
-        "source_text": "Decoding the genomic and transcriptomic bases of biological adaptation and response",
+        "tag": "next-generation cosmic microwave background program",
+        "source_text": "next-generation cosmic microwave background program",
         "confidence": 0.9
       }
     ],
-    "population_tags": [
-      {
-        "tag": "community college students",
-        "source_text": "community colleges",
-        "confidence": 0.7653,
-        "sources": [
-          "community colleges"
-        ]
-      }
-    ],
+    "population_tags": [],
     "org_type_tags": [
       {
-        "tag": "community college",
-        "source_text": "community colleges",
-        "confidence": 0.8855,
-        "sources": [
-          "community colleges"
-        ]
-      },
-      {
-        "tag": "institution_of_higher_education",
+        "tag": "institution of higher education",
         "source_text": "Institutions of Higher Education",
         "confidence": 1.0
       },
       {
-        "tag": "nonprofit",
-        "source_text": "Non-profit, non-academic organizations",
+        "tag": "501(c)(3) nonprofit",
+        "source_text": "Non-profit organizations",
         "confidence": 1.0
       }
     ],
@@ -207,6 +165,13 @@
       "Full Proposals:",
       "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
       "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
+    ]
+  },
+  "funding": {
+    "estimated_min": null,
+    "estimated_max": 60000000,
+    "raw_mentions": [
+      "The Antarctic Sciences Section anticipates committing annually up to approximately $60 million across the full Antarctic Program (to include both field and non-field-based projects and activities) for an estimated 50 awards, as either standard or continuing awards, contingent on the availability of funds."
     ]
   },
   "source": {

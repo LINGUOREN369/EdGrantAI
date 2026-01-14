@@ -1,27 +1,25 @@
 {
   "grant_id": "nsf_accelerating_research_through_international_network_to_network_collaborations_accelnet",
-  "created_at": "2025-12-28T21:22:35.875289-05:00",
+  "created_at": "2026-01-14T14:54:45.376413-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "Accelerating Research through International Network-to-Network Collaborations",
     "AccelNet",
     "international research network of networks",
-    "diverse and internationally competent US-based workforce",
-    "grand research challenges",
-    "NoN members",
+    "US-based workforce trained",
     "multi-team international collaboration",
-    "international networks of networks",
-    "large-scale international NoNs",
-    "team science",
-    "US-based students",
-    "early-career researchers",
-    "National Science Foundation",
+    "Design Track",
+    "Implementation Track",
+    "network of networks",
+    "NoN activities",
     "Institutions of Higher Education",
     "Non-profit, non-academic organizations",
     "Tribal Governments",
     "Implementation Track Phase 2",
-    "Phase 1 team",
-    "Limit on Number of Proposals per PI or co-PI"
+    "Phase 1",
+    "estimated number of awards",
+    "standard grant",
+    "continuing grant"
   ],
   "extracted_phrases_structured": [
     {
@@ -37,15 +35,7 @@
       "section": "Other"
     },
     {
-      "text": "diverse and internationally competent US-based workforce",
-      "section": "Other"
-    },
-    {
-      "text": "grand research challenges",
-      "section": "Other"
-    },
-    {
-      "text": "NoN members",
+      "text": "US-based workforce trained",
       "section": "Other"
     },
     {
@@ -53,27 +43,19 @@
       "section": "Other"
     },
     {
-      "text": "international networks of networks",
-      "section": "Program Description"
+      "text": "Design Track",
+      "section": "Other"
     },
     {
-      "text": "large-scale international NoNs",
-      "section": "Program Description"
+      "text": "Implementation Track",
+      "section": "Other"
     },
     {
-      "text": "team science",
-      "section": "Program Description"
+      "text": "network of networks",
+      "section": "Other"
     },
     {
-      "text": "US-based students",
-      "section": "Program Description"
-    },
-    {
-      "text": "early-career researchers",
-      "section": "Program Description"
-    },
-    {
-      "text": "National Science Foundation",
+      "text": "NoN activities",
       "section": "Other"
     },
     {
@@ -93,57 +75,39 @@
       "section": "Eligibility Information"
     },
     {
-      "text": "Phase 1 team",
-      "section": "Eligibility Information"
+      "text": "Phase 1",
+      "section": "Other"
     },
     {
-      "text": "Limit on Number of Proposals per PI or co-PI",
-      "section": "Eligibility Information"
+      "text": "estimated number of awards",
+      "section": "Award Information"
+    },
+    {
+      "text": "standard grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "continuing grant",
+      "section": "Award Information"
     }
   ],
   "canonical_tags": {
-    "mission_tags": [
-      {
-        "tag": "international networks of networks",
-        "source_text": "international networks of networks",
-        "confidence": 0.9
-      },
-      {
-        "tag": "team science",
-        "source_text": "team science",
-        "confidence": 0.9
-      }
-    ],
-    "population_tags": [
-      {
-        "tag": "postdoctoral researchers",
-        "source_text": "early-career researchers",
-        "confidence": 0.7293,
-        "sources": [
-          "early-career researchers"
-        ]
-      }
-    ],
+    "mission_tags": [],
+    "population_tags": [],
     "org_type_tags": [
       {
-        "tag": "institution_of_higher_education",
+        "tag": "institution of higher education",
         "source_text": "Institutions of Higher Education",
         "confidence": 1.0
       },
       {
-        "tag": "nonprofit",
+        "tag": "501(c)(3) nonprofit",
         "source_text": "Non-profit, non-academic organizations",
         "confidence": 1.0
       }
     ],
     "geography_tags": [],
-    "red_flag_tags": [
-      {
-        "tag": "submission_limit",
-        "source_text": "Limit on Number of Proposals per PI or co-PI",
-        "confidence": 1.0
-      }
-    ]
+    "red_flag_tags": []
   },
   "deadline": {
     "status": "unspecified",
@@ -153,6 +117,11 @@
       "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
       "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
     ]
+  },
+  "funding": {
+    "estimated_min": null,
+    "estimated_max": null,
+    "raw_mentions": []
   },
   "source": {
     "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_accelerating_research_through_international_network_to_network_collaborations_accelnet.txt",

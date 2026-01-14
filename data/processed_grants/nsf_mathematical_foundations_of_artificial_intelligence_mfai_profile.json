@@ -267,9 +267,12 @@
     "geography_tags": [],
     "red_flag_tags": [
       {
-        "tag": "submission_limit",
+        "tag": "institutional submission limit",
         "source_text": "one proposal per deadline",
-        "confidence": 1.0
+        "confidence": 1.0,
+        "sources": [
+          "one proposal per deadline"
+        ]
       }
     ]
   },

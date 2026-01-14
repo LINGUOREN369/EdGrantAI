@@ -306,9 +306,12 @@
     ],
     "red_flag_tags": [
       {
-        "tag": "submission_limit",
+        "tag": "institutional submission limit",
         "source_text": "limit on number of proposals per PI or co-PI",
-        "confidence": 1.0
+        "confidence": 1.0,
+        "sources": [
+          "limit on number of proposals per PI or co-PI"
+        ]
       }
     ]
   },

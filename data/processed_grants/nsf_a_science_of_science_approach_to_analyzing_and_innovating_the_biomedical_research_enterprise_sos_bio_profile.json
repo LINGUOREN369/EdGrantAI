@@ -1,11 +1,12 @@
 {
   "grant_id": "nsf_a_science_of_science_approach_to_analyzing_and_innovating_the_biomedical_research_enterprise_sos_bio",
-  "created_at": "2026-01-02T10:42:36.098944-05:00",
+  "created_at": "2026-01-14T14:54:37.959397-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
     "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise",
     "SoS:BIO",
     "National Science Foundation",
+    "NSF",
     "National Institutes of Health",
     "NIH",
     "Social, Behavioral and Economic Sciences",
@@ -15,18 +16,14 @@
     "National Institute of General Medical Sciences",
     "NIGMS",
     "biomedical research enterprise",
-    "scientific research enterprise",
-    "diverse, innovative, productive and efficient scientific workforce",
-    "prospective investigators",
+    "biomedical sciences",
+    "interdisciplinary research",
+    "broadening participation",
     "Standard Grant",
     "Continuing Grant",
-    "Estimated Number of Awards",
+    "estimated number of awards",
     "4 to 8",
-    "Who May Submit Proposals",
-    "unaffiliated individuals",
-    "Who May Serve as PI",
-    "Limit on Number of Proposals per Organization",
-    "Limit on Number of Proposals per PI or co-PI"
+    "Unaffiliated individuals"
   ],
   "extracted_phrases_structured": [
     {
@@ -39,6 +36,10 @@
     },
     {
       "text": "National Science Foundation",
+      "section": "Other"
+    },
+    {
+      "text": "NSF",
       "section": "Other"
     },
     {
@@ -78,16 +79,16 @@
       "section": "Other"
     },
     {
-      "text": "scientific research enterprise",
-      "section": "Other"
+      "text": "biomedical sciences",
+      "section": "Program Description"
     },
     {
-      "text": "diverse, innovative, productive and efficient scientific workforce",
-      "section": "Other"
+      "text": "interdisciplinary research",
+      "section": "Program Description"
     },
     {
-      "text": "prospective investigators",
-      "section": "Other"
+      "text": "broadening participation",
+      "section": "Program Description"
     },
     {
       "text": "Standard Grant",
@@ -98,7 +99,7 @@
       "section": "Award Information"
     },
     {
-      "text": "Estimated Number of Awards",
+      "text": "estimated number of awards",
       "section": "Award Information"
     },
     {
@@ -106,35 +107,31 @@
       "section": "Award Information"
     },
     {
-      "text": "Who May Submit Proposals",
-      "section": "Eligibility Information"
-    },
-    {
-      "text": "unaffiliated individuals",
-      "section": "Eligibility Information"
-    },
-    {
-      "text": "Who May Serve as PI",
-      "section": "Eligibility Information"
-    },
-    {
-      "text": "Limit on Number of Proposals per Organization",
-      "section": "Eligibility Information"
-    },
-    {
-      "text": "Limit on Number of Proposals per PI or co-PI",
+      "text": "Unaffiliated individuals",
       "section": "Eligibility Information"
     }
   ],
   "canonical_tags": {
-    "mission_tags": [],
+    "mission_tags": [
+      {
+        "tag": "biomedical sciences",
+        "source_text": "biomedical sciences",
+        "confidence": 0.9
+      }
+    ],
     "population_tags": [],
     "org_type_tags": [],
     "geography_tags": [],
-    "red_flag_tags": [
+    "red_flag_tags": [],
+    "secondary_mission_tags": [
       {
-        "tag": "submission_limit",
-        "source_text": "Limit on Number of Proposals per Organization",
+        "tag": "interdisciplinary research",
+        "source_text": "interdisciplinary research",
+        "confidence": 0.9
+      },
+      {
+        "tag": "broadening participation in STEM",
+        "source_text": "broadening participation",
         "confidence": 1.0
       }
     ]
@@ -152,8 +149,15 @@
       "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
     ]
   },
+  "funding": {
+    "estimated_min": 100000,
+    "estimated_max": 1000000,
+    "raw_mentions": [
+      "NIGMS and SBE will each devote up to $1.0 million in funding, subject to availability of funds and receipt of meritorious proposals. Award sizes are expected to range from $100,000 to $250,000 (total costs) per year for up to 4 years."
+    ]
+  },
   "source": {
-    "path": "data/grants/nsf_a_science_of_science_approach_to_analyzing_and_innovating_the_biomedical_research_enterprise_sos_bio.txt",
+    "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_a_science_of_science_approach_to_analyzing_and_innovating_the_biomedical_research_enterprise_sos_bio.txt",
     "url": "https://www.nsf.gov/funding/opportunities/sosbio-science-science-approach-analyzing-innovating-biomedical/nsf23-569/solicitation"
   },
   "document_title": "A Science of Science Approach to Analyzing and Innovating the Biomedical Research Enterprise (SoS:BIO)"

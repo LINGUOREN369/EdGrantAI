@@ -1,39 +1,48 @@
 {
   "grant_id": "nsf_algorithmic_foundations_af",
-  "created_at": "2025-12-29T23:20:14.459935-05:00",
+  "created_at": "2026-01-14T14:55:54.508891-05:00",
   "taxonomy_version": "0.0.10",
   "extracted_phrases": [
-    "Algorithmic Foundations",
+    "Algorithmic Foundations (AF)",
     "theory of algorithms",
+    "computational complexity",
     "algorithmic innovation",
     "rigorous analysis",
-    "computational complexity",
-    "sequential-computing paradigm",
-    "parallel and distributed models",
-    "Foundations of Emerging Technologies",
-    "Computer and Information Science and Engineering",
-    "Future Computing Research",
-    "mathematical, scientific and technological foundations",
-    "network systems",
+    "computer and information science and engineering",
+    "research programs",
+    "mathematical, scientific and technological foundations of computing",
+    "understanding and development of computer and network systems",
     "cyber-physical systems",
     "cybersecurity",
-    "human-centered computing",
-    "information integration and informatics",
-    "Networking Technology and Systems",
-    "Robust Intelligence",
-    "Software and Hardware Foundations",
-    "two- and four-year IHEs",
-    "community colleges",
-    "non-profit, non-academic organizations",
+    "complex scientific, engineering, and societal problems",
+    "Future Computing Research (Future CoRe)",
+    "Communications and Information Foundations (CIF) program",
+    "Computer Systems Research (CSR) program",
+    "Computing Education Research (CER) program",
+    "Cyber-Physical Systems Foundations and Connected Communities (CPS) program",
+    "Foundations of Emerging Technologies (FET) program",
+    "Human-Centered Computing (HCC) program",
+    "Information Integration and Informatics (III) program",
+    "Networking Technology and Systems (NeTS) program",
+    "Robust Intelligence (RI) program",
+    "Software and Hardware Foundations (SHF) program",
+    "Standard Grant",
+    "Continuing Grant",
+    "Institutions of Higher Education (IHEs)",
+    "Non-profit, non-academic organizations",
     "Tribal Nations"
   ],
   "extracted_phrases_structured": [
     {
-      "text": "Algorithmic Foundations",
+      "text": "Algorithmic Foundations (AF)",
       "section": "Other"
     },
     {
       "text": "theory of algorithms",
+      "section": "Other"
+    },
+    {
+      "text": "computational complexity",
       "section": "Other"
     },
     {
@@ -45,35 +54,19 @@
       "section": "Other"
     },
     {
-      "text": "computational complexity",
-      "section": "Other"
-    },
-    {
-      "text": "sequential-computing paradigm",
-      "section": "Other"
-    },
-    {
-      "text": "parallel and distributed models",
-      "section": "Other"
-    },
-    {
-      "text": "Foundations of Emerging Technologies",
-      "section": "Other"
-    },
-    {
-      "text": "Computer and Information Science and Engineering",
+      "text": "computer and information science and engineering",
       "section": "Introduction"
     },
     {
-      "text": "Future Computing Research",
+      "text": "research programs",
       "section": "Introduction"
     },
     {
-      "text": "mathematical, scientific and technological foundations",
+      "text": "mathematical, scientific and technological foundations of computing",
       "section": "Introduction"
     },
     {
-      "text": "network systems",
+      "text": "understanding and development of computer and network systems",
       "section": "Introduction"
     },
     {
@@ -85,35 +78,67 @@
       "section": "Introduction"
     },
     {
-      "text": "human-centered computing",
+      "text": "complex scientific, engineering, and societal problems",
+      "section": "Introduction"
+    },
+    {
+      "text": "Future Computing Research (Future CoRe)",
+      "section": "Introduction"
+    },
+    {
+      "text": "Communications and Information Foundations (CIF) program",
       "section": "Program Description"
     },
     {
-      "text": "information integration and informatics",
+      "text": "Computer Systems Research (CSR) program",
       "section": "Program Description"
     },
     {
-      "text": "Networking Technology and Systems",
+      "text": "Computing Education Research (CER) program",
       "section": "Program Description"
     },
     {
-      "text": "Robust Intelligence",
+      "text": "Cyber-Physical Systems Foundations and Connected Communities (CPS) program",
       "section": "Program Description"
     },
     {
-      "text": "Software and Hardware Foundations",
+      "text": "Foundations of Emerging Technologies (FET) program",
+      "section": "Other"
+    },
+    {
+      "text": "Human-Centered Computing (HCC) program",
       "section": "Program Description"
     },
     {
-      "text": "two- and four-year IHEs",
+      "text": "Information Integration and Informatics (III) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Networking Technology and Systems (NeTS) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Robust Intelligence (RI) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Software and Hardware Foundations (SHF) program",
+      "section": "Program Description"
+    },
+    {
+      "text": "Standard Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Continuing Grant",
+      "section": "Award Information"
+    },
+    {
+      "text": "Institutions of Higher Education (IHEs)",
       "section": "Eligibility Information"
     },
     {
-      "text": "community colleges",
-      "section": "Eligibility Information"
-    },
-    {
-      "text": "non-profit, non-academic organizations",
+      "text": "Non-profit, non-academic organizations",
       "section": "Eligibility Information"
     },
     {
@@ -124,38 +149,26 @@
   "canonical_tags": {
     "mission_tags": [
       {
-        "tag": "Computer and Information Science and Engineering",
-        "source_text": "Computer and Information Science and Engineering",
+        "tag": "computer and information science and engineering",
+        "source_text": "computer and information science and engineering",
         "confidence": 0.9
       },
       {
-        "tag": "Future Computing Research",
-        "source_text": "Future Computing Research",
+        "tag": "cyber-physical systems",
+        "source_text": "cyber-physical systems",
         "confidence": 0.9
       }
     ],
-    "population_tags": [
-      {
-        "tag": "community college students",
-        "source_text": "community colleges",
-        "confidence": 0.7653,
-        "sources": [
-          "community colleges"
-        ]
-      }
-    ],
+    "population_tags": [],
     "org_type_tags": [
       {
-        "tag": "community college",
-        "source_text": "community colleges",
-        "confidence": 0.8855,
-        "sources": [
-          "community colleges"
-        ]
+        "tag": "institution of higher education",
+        "source_text": "Institutions of Higher Education (IHEs)",
+        "confidence": 1.0
       },
       {
-        "tag": "nonprofit",
-        "source_text": "non-profit, non-academic organizations",
+        "tag": "501(c)(3) nonprofit",
+        "source_text": "Non-profit, non-academic organizations",
         "confidence": 1.0
       }
     ],
@@ -179,6 +192,11 @@
       "Full Proposals submitted via Research.gov: NSF Proposal and Award Policies and Procedures Guide (PAPPG) guidelines apply. The complete text of the PAPPG is available electronically on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=pappg .",
       "Full Proposals submitted via Grants.gov: NSF Grants.gov Application Guide: A Guide for the Preparation and Submission of NSF Applications via Grants.gov guidelines apply (Note: The NSF Grants.gov Application Guide is available on the Grants.gov website and on the NSF website at: https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide )."
     ]
+  },
+  "funding": {
+    "estimated_min": null,
+    "estimated_max": null,
+    "raw_mentions": []
   },
   "source": {
     "path": "/Users/linguoren/Documents/GitHub/EdGrantAI/data/grants/nsf_algorithmic_foundations_af.txt",

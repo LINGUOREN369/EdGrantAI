@@ -159,9 +159,12 @@
     "geography_tags": [],
     "red_flag_tags": [
       {
-        "tag": "submission_limit",
+        "tag": "institutional submission limit",
         "source_text": "Limit on Number of Proposals per Organization",
-        "confidence": 1.0
+        "confidence": 1.0,
+        "sources": [
+          "Limit on Number of Proposals per Organization"
+        ]
       }
     ]
   },
