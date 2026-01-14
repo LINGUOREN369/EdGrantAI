@@ -256,7 +256,7 @@ score = 0.29035 + 0.1888 + 0.25668 + 0.10
 score = 0.83583
 ```
 
-If a red-flag penalty of 0.85 applies:
+If a red-flag penalty of 0.95 applies:
 ```text
-final_score = 0.83583 * 0.85 = 0.710
+final_score = 0.83583 * 0.95 = 0.794
 ```

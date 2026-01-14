@@ -161,7 +161,7 @@ class Settings:
         self.MATCH_APPLY_THRESHOLD = _fw("MATCH_APPLY_THRESHOLD", "0.60")
         self.MATCH_MAYBE_THRESHOLD = _fw("MATCH_MAYBE_THRESHOLD", "0.40")
         # Penalty multiplier when any red flag present
-        self.MATCH_RED_FLAG_PENALTY = _fw("MATCH_RED_FLAG_PENALTY", "0.85")
+        self.MATCH_RED_FLAG_PENALTY = _fw("MATCH_RED_FLAG_PENALTY", "0.95")
 
         # Minimum similarity to count toward taxonomy overlap when using
         # embedding-based similarity between tags
