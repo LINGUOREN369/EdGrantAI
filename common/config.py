@@ -59,6 +59,41 @@ class Settings:
         self.OPENAI_CHAT_MODEL: str = os.getenv("OPENAI_CHAT_MODEL", "gpt-4o-mini")
         self.OPENAI_EMBEDDING_MODEL: str = os.getenv("OPENAI_EMBEDDING_MODEL", "text-embedding-3-large")
 
+        # Generation controls (overridable via env)
+        try:
+            self.OPENAI_TEMPERATURE: float = float(os.getenv("OPENAI_TEMPERATURE", "0"))
+        except ValueError:
+            self.OPENAI_TEMPERATURE = 0.0
+        try:
+            self.OPENAI_TOP_P: float = float(os.getenv("OPENAI_TOP_P", "1"))
+        except ValueError:
+            self.OPENAI_TOP_P = 1.0
+        seed_val = os.getenv("OPENAI_SEED")
+        if seed_val:
+            try:
+                self.OPENAI_SEED: int | None = int(seed_val)
+            except ValueError:
+                self.OPENAI_SEED = None
+        else:
+            self.OPENAI_SEED = None
+
+        try:
+            self.CKE_TEMPERATURE: float = float(os.getenv("CKE_TEMPERATURE", str(self.OPENAI_TEMPERATURE)))
+        except ValueError:
+            self.CKE_TEMPERATURE = self.OPENAI_TEMPERATURE
+        try:
+            self.CKE_TOP_P: float = float(os.getenv("CKE_TOP_P", str(self.OPENAI_TOP_P)))
+        except ValueError:
+            self.CKE_TOP_P = self.OPENAI_TOP_P
+        cke_seed = os.getenv("CKE_SEED")
+        if cke_seed:
+            try:
+                self.CKE_SEED: int | None = int(cke_seed)
+            except ValueError:
+                self.CKE_SEED = self.OPENAI_SEED
+        else:
+            self.CKE_SEED = self.OPENAI_SEED
+
         # Matching parameters
         try:
             self.TOP_K: int = int(os.getenv("TOP_K", "5"))

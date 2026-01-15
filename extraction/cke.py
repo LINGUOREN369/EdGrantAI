@@ -61,10 +61,16 @@ def run_cke(text: str) -> list:
     base_prompt = load_cke_prompt()
     final_prompt = base_prompt + "\n\nTEXT:\n" + text
 
-    response = _get_client().chat.completions.create(
-        model=settings.OPENAI_CHAT_MODEL,
-        messages=[{"role": "user", "content": final_prompt}],
-    )
+    req = {
+        "model": settings.OPENAI_CHAT_MODEL,
+        "messages": [{"role": "user", "content": final_prompt}],
+        "temperature": settings.CKE_TEMPERATURE,
+        "top_p": settings.CKE_TOP_P,
+    }
+    if settings.CKE_SEED is not None:
+        req["seed"] = settings.CKE_SEED
+
+    response = _get_client().chat.completions.create(**req)
 
     raw_output = response.choices[0].message.content
 
@@ -82,4 +88,3 @@ def run_cke(text: str) -> list:
         return extracted_phrases
     except Exception as e:
         raise ValueError(f"Failed to parse CKE output: {raw_output}\nError: {e}")
-

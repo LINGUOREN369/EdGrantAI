@@ -46,10 +46,15 @@ def _generate_explanation(org: Dict, grant: Dict, overlap: Dict[str, List[str]])
     final_prompt = prompt + "\n\nINPUT:\n" + json.dumps(payload, indent=2)
     try:
         client = OpenAI()
-        resp = client.chat.completions.create(
-            model=settings.OPENAI_CHAT_MODEL,
-            messages=[{"role": "user", "content": final_prompt}],
-        )
+        req = {
+            "model": settings.OPENAI_CHAT_MODEL,
+            "messages": [{"role": "user", "content": final_prompt}],
+            "temperature": settings.OPENAI_TEMPERATURE,
+            "top_p": settings.OPENAI_TOP_P,
+        }
+        if settings.OPENAI_SEED is not None:
+            req["seed"] = settings.OPENAI_SEED
+        resp = client.chat.completions.create(**req)
         text = (resp.choices[0].message.content or "").strip()
         if text.startswith("```"):
             s = text.find("[") if "[" in text else text.find("{")
