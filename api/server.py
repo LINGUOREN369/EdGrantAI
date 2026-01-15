@@ -109,8 +109,13 @@ def recommend_endpoint():
 
     if not mission:
         return _json_error("mission is required", 400, origin)
-    if len(mission) > 6000:
-        return _json_error("mission is too long", 400, origin)
+    max_chars = 6000
+    if len(mission) > max_chars:
+        return _json_error(
+            f"mission is too long: {len(mission)} characters (max {max_chars})",
+            400,
+            origin,
+        )
 
     try:
         top_n = int(top)
