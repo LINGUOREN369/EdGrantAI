@@ -94,6 +94,20 @@ class Settings:
         else:
             self.CKE_SEED = self.OPENAI_SEED
 
+        # Input limits (token estimate uses a char-based heuristic)
+        try:
+            self.MAX_MISSION_TOKENS: int = int(os.getenv("MAX_MISSION_TOKENS", "10000"))
+        except ValueError:
+            self.MAX_MISSION_TOKENS = 10000
+        try:
+            self.TOKEN_CHARS_PER_TOKEN: float = float(os.getenv("TOKEN_CHARS_PER_TOKEN", "4"))
+        except ValueError:
+            self.TOKEN_CHARS_PER_TOKEN = 4.0
+        try:
+            self.TOKEN_WORDS_PER_TOKEN: float = float(os.getenv("TOKEN_WORDS_PER_TOKEN", "0.75"))
+        except ValueError:
+            self.TOKEN_WORDS_PER_TOKEN = 0.75
+
         # Matching parameters
         try:
             self.TOP_K: int = int(os.getenv("TOP_K", "5"))

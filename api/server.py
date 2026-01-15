@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import math
 import os
 import re
 from pathlib import Path
@@ -50,6 +51,21 @@ def _auth_ok(req) -> bool:
     if (req.headers.get("X-EdGrant-Token") or "").strip() == expected:
         return True
     return False
+
+
+def _estimate_tokens(text: str) -> int:
+    if not text:
+        return 0
+    chars_per_token = settings.TOKEN_CHARS_PER_TOKEN or 4.0
+    if chars_per_token <= 0:
+        chars_per_token = 4.0
+    return int(math.ceil(len(text) / chars_per_token))
+
+
+def _count_words(text: str) -> int:
+    if not text:
+        return 0
+    return len(re.findall(r"\S+", text))
 
 
 def _sanitize_org_id(value: str) -> str:
@@ -109,10 +125,16 @@ def recommend_endpoint():
 
     if not mission:
         return _json_error("mission is required", 400, origin)
-    max_chars = 6000
-    if len(mission) > max_chars:
+    token_est = _estimate_tokens(mission)
+    if token_est > settings.MAX_MISSION_TOKENS:
+        word_count = _count_words(mission)
+        word_limit = int(settings.MAX_MISSION_TOKENS * settings.TOKEN_WORDS_PER_TOKEN)
+        chars_per_token = settings.TOKEN_CHARS_PER_TOKEN or 4.0
         return _json_error(
-            f"mission is too long: {len(mission)} characters (max {max_chars})",
+            "mission is too long: "
+            f"estimated {token_est} tokens (max {settings.MAX_MISSION_TOKENS}). "
+            f"Approx word limit {word_limit}; current {word_count} words. "
+            f"Token estimate uses ~{chars_per_token:g} chars per token.",
             400,
             origin,
         )
